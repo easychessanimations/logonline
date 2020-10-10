@@ -1,0 +1,33 @@
+{
+  "ferno_bot@lichess": {
+    "id": "ferno_bot",
+    "provider": "lichess",
+    "username": "Ferno_Bot",
+    "firstSeen": 1602333247732,
+    "lastSeen": 1602345251184,
+    "firstSeenTime": "12:34:07 PM",
+    "lastSeenTime": "12:45:16 PM",
+    "onlineDurationMins": 11.1448
+  },
+  "sweetchess-01@lichess": {
+    "id": "sweetchess-01",
+    "provider": "lichess",
+    "username": "SweetChess-01",
+    "firstSeen": 1602339245586,
+    "lastSeen": 1602345101365
+  },
+  "champion_robot@lichess": {
+    "id": "champion_robot",
+    "provider": "lichess",
+    "username": "Champion_Robot",
+    "firstSeen": 1602344881748,
+    "lastSeen": 1602345403113
+  },
+  "boom_bot@lichess": {
+    "id": "boom_bot",
+    "provider": "lichess",
+    "username": "Boom_Bot",
+    "firstSeen": 1602345377854,
+    "lastSeen": 1602345381247
+  }
+}
