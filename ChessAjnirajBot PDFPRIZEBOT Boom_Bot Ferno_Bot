@@ -1,0 +1,33 @@
+{
+  "chessajnirajbot@lichess": {
+    "id": "chessajnirajbot",
+    "provider": "lichess",
+    "username": "ChessAjnirajBot",
+    "firstSeen": 1602332023255,
+    "lastSeen": 1602332041683,
+    "firstSeenTime": "12:13:43 PM",
+    "lastSeenTime": "12:14:01 PM",
+    "onlineDurationMins": 0.3071333333333333
+  },
+  "pdfprizebot@lichess": {
+    "id": "pdfprizebot",
+    "provider": "lichess",
+    "username": "PDFPRIZEBOT",
+    "firstSeen": 1602332143830,
+    "lastSeen": 1602332300034
+  },
+  "boom_bot@lichess": {
+    "id": "boom_bot",
+    "provider": "lichess",
+    "username": "Boom_Bot",
+    "firstSeen": 1602332382233,
+    "lastSeen": 1602332382233
+  },
+  "ferno_bot@lichess": {
+    "id": "ferno_bot",
+    "provider": "lichess",
+    "username": "Ferno_Bot",
+    "firstSeen": 1602332402715,
+    "lastSeen": 1602332402715
+  }
+}
