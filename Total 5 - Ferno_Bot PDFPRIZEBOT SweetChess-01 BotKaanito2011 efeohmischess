@@ -1,0 +1,43 @@
+{
+  "ferno_bot@lichess": {
+    "id": "ferno_bot",
+    "provider": "lichess",
+    "username": "Ferno_Bot",
+    "firstSeen": 1602333247732,
+    "lastSeen": 1602341711159,
+    "firstSeenTime": "12:34:07 PM",
+    "lastSeenTime": "12:45:16 PM",
+    "onlineDurationMins": 11.1448
+  },
+  "pdfprizebot@lichess": {
+    "id": "pdfprizebot",
+    "provider": "lichess",
+    "username": "PDFPRIZEBOT",
+    "firstSeen": 1602334214769,
+    "lastSeen": 1602341755851,
+    "firstSeenTime": "12:50:14 PM",
+    "lastSeenTime": "12:50:25 PM",
+    "onlineDurationMins": 0.17243333333333333
+  },
+  "sweetchess-01@lichess": {
+    "id": "sweetchess-01",
+    "provider": "lichess",
+    "username": "SweetChess-01",
+    "firstSeen": 1602339245586,
+    "lastSeen": 1602341544112
+  },
+  "botkaanito2011@lichess": {
+    "id": "botkaanito2011",
+    "provider": "lichess",
+    "username": "BotKaanito2011",
+    "firstSeen": 1602341003641,
+    "lastSeen": 1602341009375
+  },
+  "efeohmischess@lichess": {
+    "id": "efeohmischess",
+    "provider": "lichess",
+    "username": "efeohmischess",
+    "firstSeen": 1602341313972,
+    "lastSeen": 1602341427821
+  }
+}
