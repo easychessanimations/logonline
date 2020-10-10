@@ -1,0 +1,33 @@
+{
+  "ferno_bot@lichess": {
+    "id": "ferno_bot",
+    "provider": "lichess",
+    "username": "Ferno_Bot",
+    "firstSeen": 1602333247732,
+    "lastSeen": 1602346571289,
+    "firstSeenTime": "12:34:07 PM",
+    "lastSeenTime": "12:45:16 PM",
+    "onlineDurationMins": 11.1448
+  },
+  "boom_bot@lichess": {
+    "id": "boom_bot",
+    "provider": "lichess",
+    "username": "Boom_Bot",
+    "firstSeen": 1602345377854,
+    "lastSeen": 1602346910183
+  },
+  "herkes@lichess": {
+    "id": "herkes",
+    "provider": "lichess",
+    "username": "Herkes",
+    "firstSeen": 1602346238760,
+    "lastSeen": 1602346408893
+  },
+  "botmusun@lichess": {
+    "id": "botmusun",
+    "provider": "lichess",
+    "username": "BotMusun",
+    "firstSeen": 1602346444928,
+    "lastSeen": 1602346514749
+  }
+}
