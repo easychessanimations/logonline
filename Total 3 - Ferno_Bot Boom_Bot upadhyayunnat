@@ -1,0 +1,23 @@
+{
+  "ferno_bot@lichess": {
+    "id": "ferno_bot",
+    "provider": "lichess",
+    "username": "Ferno_Bot",
+    "firstSeen": 1602353827776,
+    "lastSeen": 1602354907804
+  },
+  "boom_bot@lichess": {
+    "id": "boom_bot",
+    "provider": "lichess",
+    "username": "Boom_Bot",
+    "firstSeen": 1602354129597,
+    "lastSeen": 1602354943200
+  },
+  "upadhyayunnat@lichess": {
+    "id": "upadhyayunnat",
+    "provider": "lichess",
+    "username": "upadhyayunnat",
+    "firstSeen": 1602355030792,
+    "lastSeen": 1602355030792
+  }
+}
