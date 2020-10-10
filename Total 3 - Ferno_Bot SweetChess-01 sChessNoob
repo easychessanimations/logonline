@@ -1,0 +1,23 @@
+{
+  "ferno_bot@lichess": {
+    "id": "ferno_bot",
+    "provider": "lichess",
+    "username": "Ferno_Bot",
+    "firstSeen": 1602353827776,
+    "lastSeen": 1602353831179
+  },
+  "sweetchess-01@lichess": {
+    "id": "sweetchess-01",
+    "provider": "lichess",
+    "username": "SweetChess-01",
+    "firstSeen": 1602353832801,
+    "lastSeen": 1602353833312
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1602353836463,
+    "lastSeen": 1602353836463
+  }
+}
