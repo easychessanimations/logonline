@@ -1,0 +1,30 @@
+{
+  "ferno_bot@lichess": {
+    "id": "ferno_bot",
+    "provider": "lichess",
+    "username": "Ferno_Bot",
+    "firstSeen": 1602402127670,
+    "lastSeen": 1602412091024
+  },
+  "dark___killer@lichess": {
+    "id": "dark___killer",
+    "provider": "lichess",
+    "username": "Dark___Killer",
+    "firstSeen": 1602412290027,
+    "lastSeen": 1602412356317
+  },
+  "universe___murderer@lichess": {
+    "id": "universe___murderer",
+    "provider": "lichess",
+    "username": "Universe___Murderer",
+    "firstSeen": 1602412357305,
+    "lastSeen": 1602412586560
+  },
+  "champion_robot@lichess": {
+    "id": "champion_robot",
+    "provider": "lichess",
+    "username": "Champion_Robot",
+    "firstSeen": 1602412595125,
+    "lastSeen": 1602412595126
+  }
+}
