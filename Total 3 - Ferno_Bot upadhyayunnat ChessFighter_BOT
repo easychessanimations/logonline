@@ -1,0 +1,26 @@
+{
+  "ferno_bot@lichess": {
+    "id": "ferno_bot",
+    "provider": "lichess",
+    "username": "Ferno_Bot",
+    "firstSeen": 1602353827776,
+    "lastSeen": 1602396907805,
+    "firstSeenTime": "6:17:07 PM",
+    "lastSeenTime": "2:44:11 AM",
+    "onlineDurationMins": 507.05995
+  },
+  "upadhyayunnat@lichess": {
+    "id": "upadhyayunnat",
+    "provider": "lichess",
+    "username": "upadhyayunnat",
+    "firstSeen": 1602395145873,
+    "lastSeen": 1602396524845
+  },
+  "chessfighter_bot@lichess": {
+    "id": "chessfighter_bot",
+    "provider": "lichess",
+    "username": "ChessFighter_BOT",
+    "firstSeen": 1602396967992,
+    "lastSeen": 1602396967992
+  }
+}
