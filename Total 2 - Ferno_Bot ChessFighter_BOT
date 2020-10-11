@@ -1,0 +1,19 @@
+{
+  "ferno_bot@lichess": {
+    "id": "ferno_bot",
+    "provider": "lichess",
+    "username": "Ferno_Bot",
+    "firstSeen": 1602353827776,
+    "lastSeen": 1602399427860,
+    "firstSeenTime": "6:17:07 PM",
+    "lastSeenTime": "2:44:11 AM",
+    "onlineDurationMins": 507.05995
+  },
+  "chessfighter_bot@lichess": {
+    "id": "chessfighter_bot",
+    "provider": "lichess",
+    "username": "ChessFighter_BOT",
+    "firstSeen": 1602399967858,
+    "lastSeen": 1602399967858
+  }
+}
