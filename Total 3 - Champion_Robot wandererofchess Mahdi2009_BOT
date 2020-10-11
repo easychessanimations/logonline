@@ -1,0 +1,23 @@
+{
+  "champion_robot@lichess": {
+    "id": "champion_robot",
+    "provider": "lichess",
+    "username": "Champion_Robot",
+    "firstSeen": 1602414950315,
+    "lastSeen": 1602415204323
+  },
+  "wandererofchess@lichess": {
+    "id": "wandererofchess",
+    "provider": "lichess",
+    "username": "wandererofchess",
+    "firstSeen": 1602414973213,
+    "lastSeen": 1602415088888
+  },
+  "mahdi2009_bot@lichess": {
+    "id": "mahdi2009_bot",
+    "provider": "lichess",
+    "username": "Mahdi2009_BOT",
+    "firstSeen": 1602415294477,
+    "lastSeen": 1602415294477
+  }
+}
