@@ -4,13 +4,16 @@
     "provider": "lichess",
     "username": "Ferno_Bot",
     "firstSeen": 1602419047770,
-    "lastSeen": 1602436207864
+    "lastSeen": 1602456791360,
+    "firstSeenTime": "12:24:07 PM",
+    "lastSeenTime": "7:22:07 PM",
+    "onlineDurationMins": 418.0004666666667
   },
   "moon_bot@lichess": {
     "id": "moon_bot",
     "provider": "lichess",
     "username": "Moon_Bot",
-    "firstSeen": 1602436322183,
-    "lastSeen": 1602436322183
+    "firstSeen": 1602456831449,
+    "lastSeen": 1602456831449
   }
 }
