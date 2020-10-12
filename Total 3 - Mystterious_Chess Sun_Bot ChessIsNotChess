@@ -1,0 +1,23 @@
+{
+  "mystterious_chess@lichess": {
+    "id": "mystterious_chess",
+    "provider": "lichess",
+    "username": "Mystterious_Chess",
+    "firstSeen": 1602513702121,
+    "lastSeen": 1602515678241
+  },
+  "sun_bot@lichess": {
+    "id": "sun_bot",
+    "provider": "lichess",
+    "username": "Sun_Bot",
+    "firstSeen": 1602515114029,
+    "lastSeen": 1602515254845
+  },
+  "chessisnotchess@lichess": {
+    "id": "chessisnotchess",
+    "provider": "lichess",
+    "username": "ChessIsNotChess",
+    "firstSeen": 1602516103776,
+    "lastSeen": 1602516103777
+  }
+}
