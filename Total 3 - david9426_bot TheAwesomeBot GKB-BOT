@@ -1,0 +1,23 @@
+{
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1602527025443,
+    "lastSeen": 1602535565498
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1602532445182,
+    "lastSeen": 1602535624877
+  },
+  "gkb-bot@lichess": {
+    "id": "gkb-bot",
+    "provider": "lichess",
+    "username": "GKB-BOT",
+    "firstSeen": 1602535895474,
+    "lastSeen": 1602535895474
+  }
+}
