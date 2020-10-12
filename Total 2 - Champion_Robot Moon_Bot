@@ -1,0 +1,16 @@
+{
+  "champion_robot@lichess": {
+    "id": "champion_robot",
+    "provider": "lichess",
+    "username": "Champion_Robot",
+    "firstSeen": 1602505895799,
+    "lastSeen": 1602507112653
+  },
+  "moon_bot@lichess": {
+    "id": "moon_bot",
+    "provider": "lichess",
+    "username": "Moon_Bot",
+    "firstSeen": 1602507259229,
+    "lastSeen": 1602507259229
+  }
+}
