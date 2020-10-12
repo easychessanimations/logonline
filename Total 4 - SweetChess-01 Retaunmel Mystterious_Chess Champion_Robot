@@ -1,0 +1,30 @@
+{
+  "sweetchess-01@lichess": {
+    "id": "sweetchess-01",
+    "provider": "lichess",
+    "username": "SweetChess-01",
+    "firstSeen": 1602495688702,
+    "lastSeen": 1602505895010
+  },
+  "retaunmel@lichess": {
+    "id": "retaunmel",
+    "provider": "lichess",
+    "username": "Retaunmel",
+    "firstSeen": 1602504994018,
+    "lastSeen": 1602505091397
+  },
+  "mystterious_chess@lichess": {
+    "id": "mystterious_chess",
+    "provider": "lichess",
+    "username": "Mystterious_Chess",
+    "firstSeen": 1602505143305,
+    "lastSeen": 1602505350298
+  },
+  "champion_robot@lichess": {
+    "id": "champion_robot",
+    "provider": "lichess",
+    "username": "Champion_Robot",
+    "firstSeen": 1602505895799,
+    "lastSeen": 1602505895799
+  }
+}
