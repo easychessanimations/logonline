@@ -1,0 +1,37 @@
+{
+  "sun_bot@lichess": {
+    "id": "sun_bot",
+    "provider": "lichess",
+    "username": "Sun_Bot",
+    "firstSeen": 1602521737384,
+    "lastSeen": 1602531268632
+  },
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1602527025443,
+    "lastSeen": 1602531315040
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1602529851664,
+    "lastSeen": 1602531247519
+  },
+  "oingbot@lichess": {
+    "id": "oingbot",
+    "provider": "lichess",
+    "username": "OingBot",
+    "firstSeen": 1602530930465,
+    "lastSeen": 1602531353206
+  },
+  "rexbot@lichess": {
+    "id": "rexbot",
+    "provider": "lichess",
+    "username": "Rexbot",
+    "firstSeen": 1602531078390,
+    "lastSeen": 1602531580769
+  }
+}
