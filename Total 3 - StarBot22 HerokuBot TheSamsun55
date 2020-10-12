@@ -1,0 +1,23 @@
+{
+  "starbot22@lichess": {
+    "id": "starbot22",
+    "provider": "lichess",
+    "username": "StarBot22",
+    "firstSeen": 1602484195716,
+    "lastSeen": 1602485671640
+  },
+  "herokubot@lichess": {
+    "id": "herokubot",
+    "provider": "lichess",
+    "username": "HerokuBot",
+    "firstSeen": 1602486299228,
+    "lastSeen": 1602486300807
+  },
+  "thesamsun55@lichess": {
+    "id": "thesamsun55",
+    "provider": "lichess",
+    "username": "TheSamsun55",
+    "firstSeen": 1602486301045,
+    "lastSeen": 1602486301045
+  }
+}
