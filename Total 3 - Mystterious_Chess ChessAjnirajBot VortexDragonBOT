@@ -1,0 +1,26 @@
+{
+  "mystterious_chess@lichess": {
+    "id": "mystterious_chess",
+    "provider": "lichess",
+    "username": "Mystterious_Chess",
+    "firstSeen": 1602513702121,
+    "lastSeen": 1602517627075,
+    "firstSeenTime": "2:41:42 PM",
+    "lastSeenTime": "3:23:42 PM",
+    "onlineDurationMins": 42.0008
+  },
+  "chessajnirajbot@lichess": {
+    "id": "chessajnirajbot",
+    "provider": "lichess",
+    "username": "ChessAjnirajBot",
+    "firstSeen": 1602517673264,
+    "lastSeen": 1602518082942
+  },
+  "vortexdragonbot@lichess": {
+    "id": "vortexdragonbot",
+    "provider": "lichess",
+    "username": "VortexDragonBOT",
+    "firstSeen": 1602518436187,
+    "lastSeen": 1602518436187
+  }
+}
