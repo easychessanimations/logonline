@@ -1,0 +1,30 @@
+{
+  "nita_robert@lichess": {
+    "id": "nita_robert",
+    "provider": "lichess",
+    "username": "Nita_Robert",
+    "firstSeen": 1602572907711,
+    "lastSeen": 1602573947753
+  },
+  "chessfighter_bot@lichess": {
+    "id": "chessfighter_bot",
+    "provider": "lichess",
+    "username": "ChessFighter_BOT",
+    "firstSeen": 1602573733330,
+    "lastSeen": 1602573965142
+  },
+  "chessajnirajbot@lichess": {
+    "id": "chessajnirajbot",
+    "provider": "lichess",
+    "username": "ChessAjnirajBot",
+    "firstSeen": 1602573767484,
+    "lastSeen": 1602573862423
+  },
+  "champion_robot@lichess": {
+    "id": "champion_robot",
+    "provider": "lichess",
+    "username": "Champion_Robot",
+    "firstSeen": 1602573965922,
+    "lastSeen": 1602574093142
+  }
+}
