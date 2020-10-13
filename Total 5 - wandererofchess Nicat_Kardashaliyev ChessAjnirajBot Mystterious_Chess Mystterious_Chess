@@ -1,0 +1,40 @@
+{
+  "wandererofchess@lichess": {
+    "id": "wandererofchess",
+    "provider": "lichess",
+    "username": "wandererofchess",
+    "firstSeen": 1602585310583,
+    "lastSeen": 1602590714105,
+    "firstSeenTime": "10:35:10 AM",
+    "lastSeenTime": "11:13:55 AM",
+    "onlineDurationMins": 38.754583333333336
+  },
+  "nicat_kardashaliyev@lichess": {
+    "id": "nicat_kardashaliyev",
+    "provider": "lichess",
+    "username": "Nicat_Kardashaliyev",
+    "firstSeen": 1602590031633,
+    "lastSeen": 1602590089430
+  },
+  "chessajnirajbot@lichess": {
+    "id": "chessajnirajbot",
+    "provider": "lichess",
+    "username": "ChessAjnirajBot",
+    "firstSeen": 1602590138604,
+    "lastSeen": 1602590398181
+  },
+  "mystterious_chess@lichess": {
+    "id": "mystterious_chess",
+    "provider": "lichess",
+    "username": "Mystterious_Chess",
+    "firstSeen": 1602590399174,
+    "lastSeen": 1602590663902
+  },
+  "746575296970358857@discord": {
+    "id": "746575296970358857",
+    "provider": "discord",
+    "username": "Mystterious_Chess",
+    "firstSeen": 1602590664741,
+    "lastSeen": 1602590919063
+  }
+}
