@@ -1,0 +1,23 @@
+{
+  "champion_robot@lichess": {
+    "id": "champion_robot",
+    "provider": "lichess",
+    "username": "Champion_Robot",
+    "firstSeen": 1602602132053,
+    "lastSeen": 1602602209312
+  },
+  "748153795011412098@discord": {
+    "id": "748153795011412098",
+    "provider": "discord",
+    "username": "amirhossein1390bot",
+    "firstSeen": 1602602178808,
+    "lastSeen": 1602602229565
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1602602496418,
+    "lastSeen": 1602602576828
+  }
+}
