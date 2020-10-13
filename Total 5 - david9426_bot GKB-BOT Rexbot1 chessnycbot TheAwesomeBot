@@ -1,0 +1,46 @@
+{
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1602603049208,
+    "lastSeen": 1602616327983,
+    "firstSeenTime": "3:30:49 PM",
+    "lastSeenTime": "6:16:51 PM",
+    "onlineDurationMins": 166.03881666666666
+  },
+  "gkb-bot@lichess": {
+    "id": "gkb-bot",
+    "provider": "lichess",
+    "username": "GKB-BOT",
+    "firstSeen": 1602605184861,
+    "lastSeen": 1602616428654,
+    "firstSeenTime": "4:06:24 PM",
+    "lastSeenTime": "6:14:20 PM",
+    "onlineDurationMins": 127.93175
+  },
+  "rexbot1@lichess": {
+    "id": "rexbot1",
+    "provider": "lichess",
+    "username": "Rexbot1",
+    "firstSeen": 1602610301276,
+    "lastSeen": 1602616371545,
+    "firstSeenTime": "5:31:41 PM",
+    "lastSeenTime": "6:06:29 PM",
+    "onlineDurationMins": 34.8057
+  },
+  "chessnycbot@lichess": {
+    "id": "chessnycbot",
+    "provider": "lichess",
+    "username": "chessnycbot",
+    "firstSeen": 1602615926549,
+    "lastSeen": 1602616007734
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1602616474079,
+    "lastSeen": 1602616474079
+  }
+}
