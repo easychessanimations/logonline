@@ -1,0 +1,30 @@
+{
+  "codebot1@lichess": {
+    "id": "codebot1",
+    "provider": "lichess",
+    "username": "codebot1",
+    "firstSeen": 1602621555383,
+    "lastSeen": 1602631339150
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1602625928958,
+    "lastSeen": 1602631332576
+  },
+  "chessnycbot@lichess": {
+    "id": "chessnycbot",
+    "provider": "lichess",
+    "username": "chessnycbot",
+    "firstSeen": 1602629797127,
+    "lastSeen": 1602631758172
+  },
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1602631835522,
+    "lastSeen": 1602631835523
+  }
+}
