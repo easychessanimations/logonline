@@ -1,0 +1,40 @@
+{
+  "rexbot1@lichess": {
+    "id": "rexbot1",
+    "provider": "lichess",
+    "username": "Rexbot1",
+    "firstSeen": 1602690334470,
+    "lastSeen": 1602706071810,
+    "firstSeenTime": "3:45:34 PM",
+    "lastSeenTime": "3:56:39 PM",
+    "onlineDurationMins": 11.08685
+  },
+  "wonderbot@lichess": {
+    "id": "wonderbot",
+    "provider": "lichess",
+    "username": "WonderBOT",
+    "firstSeen": 1602701504401,
+    "lastSeen": 1602706296399
+  },
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1602704576331,
+    "lastSeen": 1602706556134
+  },
+  "ferobabba@lichess": {
+    "id": "ferobabba",
+    "provider": "lichess",
+    "username": "ferobabba",
+    "firstSeen": 1602705710768,
+    "lastSeen": 1602706299456
+  },
+  "feropasha@lichess": {
+    "id": "feropasha",
+    "provider": "lichess",
+    "username": "feropasha",
+    "firstSeen": 1602706300278,
+    "lastSeen": 1602706652060
+  }
+}
