@@ -1,0 +1,30 @@
+{
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1602625928958,
+    "lastSeen": 1602635448535
+  },
+  "chessnycbot@lichess": {
+    "id": "chessnycbot",
+    "provider": "lichess",
+    "username": "chessnycbot",
+    "firstSeen": 1602629797127,
+    "lastSeen": 1602634996667
+  },
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1602631835522,
+    "lastSeen": 1602635822082
+  },
+  "lovechess115@lichess": {
+    "id": "lovechess115",
+    "provider": "lichess",
+    "username": "lovechess115",
+    "firstSeen": 1602635254631,
+    "lastSeen": 1602635289608
+  }
+}
