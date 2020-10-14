@@ -1,0 +1,30 @@
+{
+  "rexbot1@lichess": {
+    "id": "rexbot1",
+    "provider": "lichess",
+    "username": "Rexbot1",
+    "firstSeen": 1602651712739,
+    "lastSeen": 1602653388580
+  },
+  "sweetchess-01@lichess": {
+    "id": "sweetchess-01",
+    "provider": "lichess",
+    "username": "SweetChess-01",
+    "firstSeen": 1602653765815,
+    "lastSeen": 1602653863389
+  },
+  "wandererofchess@lichess": {
+    "id": "wandererofchess",
+    "provider": "lichess",
+    "username": "wandererofchess",
+    "firstSeen": 1602653829246,
+    "lastSeen": 1602653847540
+  },
+  "manwithavan-001@lichess": {
+    "id": "manwithavan-001",
+    "provider": "lichess",
+    "username": "manwithavan-001",
+    "firstSeen": 1602653924296,
+    "lastSeen": 1602653924296
+  }
+}
