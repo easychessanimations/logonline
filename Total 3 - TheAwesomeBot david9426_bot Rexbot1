@@ -1,0 +1,23 @@
+{
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1602625928958,
+    "lastSeen": 1602636147107
+  },
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1602631835522,
+    "lastSeen": 1602636217594
+  },
+  "rexbot1@lichess": {
+    "id": "rexbot1",
+    "provider": "lichess",
+    "username": "Rexbot1",
+    "firstSeen": 1602636015499,
+    "lastSeen": 1602636018617
+  }
+}
