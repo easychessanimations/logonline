@@ -1,0 +1,26 @@
+{
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1602740072880,
+    "lastSeen": 1602774547005,
+    "firstSeenTime": "5:34:32 AM",
+    "lastSeenTime": "9:59:10 AM",
+    "onlineDurationMins": 264.6315666666667
+  },
+  "epiano_bot@lichess": {
+    "id": "epiano_bot",
+    "provider": "lichess",
+    "username": "Epiano_Bot",
+    "firstSeen": 1602772437773,
+    "lastSeen": 1602774422946
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1602774566729,
+    "lastSeen": 1602774566729
+  }
+}
