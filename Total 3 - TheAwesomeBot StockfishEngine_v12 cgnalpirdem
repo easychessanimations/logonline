@@ -1,0 +1,23 @@
+{
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1602774566729,
+    "lastSeen": 1602785528573
+  },
+  "stockfishengine_v12@lichess": {
+    "id": "stockfishengine_v12",
+    "provider": "lichess",
+    "username": "StockfishEngine_v12",
+    "firstSeen": 1602785169143,
+    "lastSeen": 1602785261564
+  },
+  "cgnalpirdem@lichess": {
+    "id": "cgnalpirdem",
+    "provider": "lichess",
+    "username": "cgnalpirdem",
+    "firstSeen": 1602785592673,
+    "lastSeen": 1602785592673
+  }
+}
