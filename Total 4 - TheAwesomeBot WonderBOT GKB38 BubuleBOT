@@ -1,0 +1,30 @@
+{
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1602774566729,
+    "lastSeen": 1602787575163
+  },
+  "wonderbot@lichess": {
+    "id": "wonderbot",
+    "provider": "lichess",
+    "username": "WonderBOT",
+    "firstSeen": 1602787025915,
+    "lastSeen": 1602787273521
+  },
+  "gkb38@lichess": {
+    "id": "gkb38",
+    "provider": "lichess",
+    "username": "GKB38",
+    "firstSeen": 1602787327062,
+    "lastSeen": 1602787889180
+  },
+  "bubulebot@lichess": {
+    "id": "bubulebot",
+    "provider": "lichess",
+    "username": "BubuleBOT",
+    "firstSeen": 1602787896074,
+    "lastSeen": 1602787896074
+  }
+}
