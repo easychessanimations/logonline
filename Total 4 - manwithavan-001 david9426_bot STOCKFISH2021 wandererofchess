@@ -1,0 +1,42 @@
+{
+  "manwithavan-001@lichess": {
+    "id": "manwithavan-001",
+    "provider": "lichess",
+    "username": "manwithavan-001",
+    "firstSeen": 1602728784832,
+    "lastSeen": 1602750506575,
+    "firstSeenTime": "2:26:24 AM",
+    "lastSeenTime": "8:28:26 AM",
+    "onlineDurationMins": 362.02905
+  },
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1602740072880,
+    "lastSeen": 1602750547250,
+    "firstSeenTime": "5:34:32 AM",
+    "lastSeenTime": "8:24:56 AM",
+    "onlineDurationMins": 170.39493333333334
+  },
+  "stockfish2021@lichess": {
+    "id": "stockfish2021",
+    "provider": "lichess",
+    "username": "STOCKFISH2021",
+    "firstSeen": 1602750040508,
+    "lastSeen": 1602750810995,
+    "firstSeenTime": "8:20:40 AM",
+    "lastSeenTime": "8:25:03 AM",
+    "onlineDurationMins": 4.383333333333334
+  },
+  "wandererofchess@lichess": {
+    "id": "wandererofchess",
+    "provider": "lichess",
+    "username": "wandererofchess",
+    "firstSeen": 1602750245408,
+    "lastSeen": 1602750298842,
+    "firstSeenTime": "8:24:05 AM",
+    "lastSeenTime": "8:24:58 AM",
+    "onlineDurationMins": 0.8905666666666666
+  }
+}
