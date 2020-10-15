@@ -1,0 +1,26 @@
+{
+  "ferno_bot@lichess": {
+    "id": "ferno_bot",
+    "provider": "lichess",
+    "username": "Ferno_Bot",
+    "firstSeen": 1602720273060,
+    "lastSeen": 1602728498166,
+    "firstSeenTime": "12:04:33 AM",
+    "lastSeenTime": "12:31:41 AM",
+    "onlineDurationMins": 27.1405
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1602723833624,
+    "lastSeen": 1602728456860
+  },
+  "manwithavan-001@lichess": {
+    "id": "manwithavan-001",
+    "provider": "lichess",
+    "username": "manwithavan-001",
+    "firstSeen": 1602728594065,
+    "lastSeen": 1602728594065
+  }
+}
