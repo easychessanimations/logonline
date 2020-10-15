@@ -1,0 +1,30 @@
+{
+  "cloudfish@lichess": {
+    "id": "cloudfish",
+    "provider": "lichess",
+    "username": "CloudFish",
+    "firstSeen": 1602801021448,
+    "lastSeen": 1602802310385
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1602801874437,
+    "lastSeen": 1602801878014
+  },
+  "nicholaswb@lichess": {
+    "id": "nicholaswb",
+    "provider": "lichess",
+    "username": "NicholasWB",
+    "firstSeen": 1602802433131,
+    "lastSeen": 1602802488766
+  },
+  "nicholaswb_bot@lichess": {
+    "id": "nicholaswb_bot",
+    "provider": "lichess",
+    "username": "Nicholaswb_BOT",
+    "firstSeen": 1602802494998,
+    "lastSeen": 1602802494998
+  }
+}
