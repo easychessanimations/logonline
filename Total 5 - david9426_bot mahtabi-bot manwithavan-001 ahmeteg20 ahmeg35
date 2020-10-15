@@ -1,0 +1,49 @@
+{
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1602740072880,
+    "lastSeen": 1602755290803,
+    "firstSeenTime": "5:34:32 AM",
+    "lastSeenTime": "9:48:10 AM",
+    "onlineDurationMins": 253.63205
+  },
+  "mahtabi-bot@lichess": {
+    "id": "mahtabi-bot",
+    "provider": "lichess",
+    "username": "mahtabi-bot",
+    "firstSeen": 1602754900345,
+    "lastSeen": 1602754921919,
+    "firstSeenTime": "9:41:40 AM",
+    "lastSeenTime": "9:42:01 AM",
+    "onlineDurationMins": 0.35956666666666665
+  },
+  "manwithavan-001@lichess": {
+    "id": "manwithavan-001",
+    "provider": "lichess",
+    "username": "manwithavan-001",
+    "firstSeen": 1602755379638,
+    "lastSeen": 1602755394583,
+    "firstSeenTime": "9:49:39 AM",
+    "lastSeenTime": "9:49:54 AM",
+    "onlineDurationMins": 0.24908333333333332
+  },
+  "ahmeteg20@lichess": {
+    "id": "ahmeteg20",
+    "provider": "lichess",
+    "username": "ahmeteg20",
+    "firstSeen": 1602755656568,
+    "lastSeen": 1602755663000,
+    "firstSeenTime": "9:54:16 AM",
+    "lastSeenTime": "9:54:22 AM",
+    "onlineDurationMins": 0.09908333333333333
+  },
+  "70128763@github": {
+    "id": "70128763",
+    "provider": "github",
+    "username": "ahmeg35",
+    "firstSeen": 1602755664310,
+    "lastSeen": 1602755664310
+  }
+}
