@@ -1,0 +1,23 @@
+{
+  "bubulebot@lichess": {
+    "id": "bubulebot",
+    "provider": "lichess",
+    "username": "BubuleBOT",
+    "firstSeen": 1602787896074,
+    "lastSeen": 1602790371746
+  },
+  "epiano_bot@lichess": {
+    "id": "epiano_bot",
+    "provider": "lichess",
+    "username": "Epiano_Bot",
+    "firstSeen": 1602789427147,
+    "lastSeen": 1602789582305
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1602790401651,
+    "lastSeen": 1602790401651
+  }
+}
