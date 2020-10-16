@@ -1,0 +1,30 @@
+{
+  "supersosobot@lichess": {
+    "id": "supersosobot",
+    "provider": "lichess",
+    "username": "SuperSosoBot",
+    "firstSeen": 1602873723984,
+    "lastSeen": 1602874849861
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1602874137613,
+    "lastSeen": 1602874800549
+  },
+  "codebot1@lichess": {
+    "id": "codebot1",
+    "provider": "lichess",
+    "username": "codebot1",
+    "firstSeen": 1602874284587,
+    "lastSeen": 1602874293921
+  },
+  "peroquepasachavales@lichess": {
+    "id": "peroquepasachavales",
+    "provider": "lichess",
+    "username": "PeroQuePasaChavales",
+    "firstSeen": 1602874960558,
+    "lastSeen": 1602874960558
+  }
+}
