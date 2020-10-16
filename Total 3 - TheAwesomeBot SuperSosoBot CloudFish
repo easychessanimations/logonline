@@ -1,0 +1,29 @@
+{
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1602858444948,
+    "lastSeen": 1602872494189,
+    "firstSeenTime": "2:27:24 PM",
+    "lastSeenTime": "6:04:38 PM",
+    "onlineDurationMins": 217.21871666666667
+  },
+  "supersosobot@lichess": {
+    "id": "supersosobot",
+    "provider": "lichess",
+    "username": "SuperSosoBot",
+    "firstSeen": 1602867364390,
+    "lastSeen": 1602871986142,
+    "firstSeenTime": "4:56:04 PM",
+    "lastSeenTime": "6:02:09 PM",
+    "onlineDurationMins": 66.08236666666667
+  },
+  "cloudfish@lichess": {
+    "id": "cloudfish",
+    "provider": "lichess",
+    "username": "CloudFish",
+    "firstSeen": 1602872025666,
+    "lastSeen": 1602872033173
+  }
+}
