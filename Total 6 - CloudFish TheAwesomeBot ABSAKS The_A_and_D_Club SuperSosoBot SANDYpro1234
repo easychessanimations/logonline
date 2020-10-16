@@ -1,0 +1,50 @@
+{
+  "cloudfish@lichess": {
+    "id": "cloudfish",
+    "provider": "lichess",
+    "username": "CloudFish",
+    "firstSeen": 1602848839017,
+    "lastSeen": 1602868291419,
+    "firstSeenTime": "11:47:19 AM",
+    "lastSeenTime": "3:12:37 PM",
+    "onlineDurationMins": 205.31263333333334
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1602858444948,
+    "lastSeen": 1602867832511,
+    "firstSeenTime": "2:27:24 PM",
+    "lastSeenTime": "3:06:56 PM",
+    "onlineDurationMins": 39.52981666666667
+  },
+  "absaks@lichess": {
+    "id": "absaks",
+    "provider": "lichess",
+    "username": "ABSAKS",
+    "firstSeen": 1602866714044,
+    "lastSeen": 1602868233918
+  },
+  "the_a_and_d_club@lichess": {
+    "id": "the_a_and_d_club",
+    "provider": "lichess",
+    "username": "The_A_and_D_Club",
+    "firstSeen": 1602867204755,
+    "lastSeen": 1602867422285
+  },
+  "supersosobot@lichess": {
+    "id": "supersosobot",
+    "provider": "lichess",
+    "username": "SuperSosoBot",
+    "firstSeen": 1602867364390,
+    "lastSeen": 1602868029475
+  },
+  "sandypro1234@lichess": {
+    "id": "sandypro1234",
+    "provider": "lichess",
+    "username": "SANDYpro1234",
+    "firstSeen": 1602868303831,
+    "lastSeen": 1602868303831
+  }
+}
