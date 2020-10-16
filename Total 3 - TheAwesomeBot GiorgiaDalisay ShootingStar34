@@ -1,0 +1,29 @@
+{
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1602811925580,
+    "lastSeen": 1602816249053,
+    "firstSeenTime": "1:32:05 AM",
+    "lastSeenTime": "2:33:08 AM",
+    "onlineDurationMins": 61.04955
+  },
+  "giorgiadalisay@lichess": {
+    "id": "giorgiadalisay",
+    "provider": "lichess",
+    "username": "GiorgiaDalisay",
+    "firstSeen": 1602814941293,
+    "lastSeen": 1602816268599,
+    "firstSeenTime": "2:22:21 AM",
+    "lastSeenTime": "2:31:51 AM",
+    "onlineDurationMins": 9.5098
+  },
+  "shootingstar34@lichess": {
+    "id": "shootingstar34",
+    "provider": "lichess",
+    "username": "ShootingStar34",
+    "firstSeen": 1602816403813,
+    "lastSeen": 1602816403813
+  }
+}
