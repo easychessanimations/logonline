@@ -1,0 +1,50 @@
+{
+  "cloudfish@lichess": {
+    "id": "cloudfish",
+    "provider": "lichess",
+    "username": "CloudFish",
+    "firstSeen": 1602848839017,
+    "lastSeen": 1602864415543,
+    "firstSeenTime": "11:47:19 AM",
+    "lastSeenTime": "3:12:37 PM",
+    "onlineDurationMins": 205.31263333333334
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1602858444948,
+    "lastSeen": 1602864896322,
+    "firstSeenTime": "2:27:24 PM",
+    "lastSeenTime": "3:06:56 PM",
+    "onlineDurationMins": 39.52981666666667
+  },
+  "stockfishforever@lichess": {
+    "id": "stockfishforever",
+    "provider": "lichess",
+    "username": "StockfishForever",
+    "firstSeen": 1602864244963,
+    "lastSeen": 1602864262279
+  },
+  "no_username2@lichess": {
+    "id": "no_username2",
+    "provider": "lichess",
+    "username": "No_Username2",
+    "firstSeen": 1602864427332,
+    "lastSeen": 1602864433446
+  },
+  "bubulebot@lichess": {
+    "id": "bubulebot",
+    "provider": "lichess",
+    "username": "BubuleBOT",
+    "firstSeen": 1602864944179,
+    "lastSeen": 1602864949117
+  },
+  "a89bb65@lichess": {
+    "id": "a89bb65",
+    "provider": "lichess",
+    "username": "A89BB65",
+    "firstSeen": 1602864955434,
+    "lastSeen": 1602864955434
+  }
+}
