@@ -1,0 +1,42 @@
+{
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1602858444948,
+    "lastSeen": 1602869332499,
+    "firstSeenTime": "2:27:24 PM",
+    "lastSeenTime": "5:13:52 PM",
+    "onlineDurationMins": 166.4529
+  },
+  "absaks@lichess": {
+    "id": "absaks",
+    "provider": "lichess",
+    "username": "ABSAKS",
+    "firstSeen": 1602866714044,
+    "lastSeen": 1602868656260,
+    "firstSeenTime": "4:45:14 PM",
+    "lastSeenTime": "5:17:36 PM",
+    "onlineDurationMins": 32.370266666666666
+  },
+  "supersosobot@lichess": {
+    "id": "supersosobot",
+    "provider": "lichess",
+    "username": "SuperSosoBot",
+    "firstSeen": 1602867364390,
+    "lastSeen": 1602869122360,
+    "firstSeenTime": "4:56:04 PM",
+    "lastSeenTime": "5:21:06 PM",
+    "onlineDurationMins": 25.0295
+  },
+  "sandypro12345@lichess": {
+    "id": "sandypro12345",
+    "provider": "lichess",
+    "username": "SANDYpro12345",
+    "firstSeen": 1602868316745,
+    "lastSeen": 1602868554323,
+    "firstSeenTime": "5:11:56 PM",
+    "lastSeenTime": "5:15:54 PM",
+    "onlineDurationMins": 3.959633333333333
+  }
+}
