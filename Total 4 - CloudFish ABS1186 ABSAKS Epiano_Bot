@@ -1,0 +1,30 @@
+{
+  "cloudfish@lichess": {
+    "id": "cloudfish",
+    "provider": "lichess",
+    "username": "CloudFish",
+    "firstSeen": 1602848839017,
+    "lastSeen": 1602857542959
+  },
+  "abs1186@lichess": {
+    "id": "abs1186",
+    "provider": "lichess",
+    "username": "ABS1186",
+    "firstSeen": 1602857220792,
+    "lastSeen": 1602857613747
+  },
+  "absaks@lichess": {
+    "id": "absaks",
+    "provider": "lichess",
+    "username": "ABSAKS",
+    "firstSeen": 1602857251182,
+    "lastSeen": 1602857632745
+  },
+  "epiano_bot@lichess": {
+    "id": "epiano_bot",
+    "provider": "lichess",
+    "username": "Epiano_Bot",
+    "firstSeen": 1602857632919,
+    "lastSeen": 1602857632920
+  }
+}
