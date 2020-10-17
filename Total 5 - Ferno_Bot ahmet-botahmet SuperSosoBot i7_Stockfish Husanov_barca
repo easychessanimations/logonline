@@ -1,0 +1,37 @@
+{
+  "ferno_bot@lichess": {
+    "id": "ferno_bot",
+    "provider": "lichess",
+    "username": "Ferno_Bot",
+    "firstSeen": 1602941122362,
+    "lastSeen": 1602944728748
+  },
+  "ahmet-botahmet@lichess": {
+    "id": "ahmet-botahmet",
+    "provider": "lichess",
+    "username": "ahmet-botahmet",
+    "firstSeen": 1602943096190,
+    "lastSeen": 1602944381223
+  },
+  "supersosobot@lichess": {
+    "id": "supersosobot",
+    "provider": "lichess",
+    "username": "SuperSosoBot",
+    "firstSeen": 1602943763431,
+    "lastSeen": 1602944859363
+  },
+  "i7_stockfish@lichess": {
+    "id": "i7_stockfish",
+    "provider": "lichess",
+    "username": "i7_Stockfish",
+    "firstSeen": 1602943925577,
+    "lastSeen": 1602943990314
+  },
+  "husanov_barca@lichess": {
+    "id": "husanov_barca",
+    "provider": "lichess",
+    "username": "Husanov_barca",
+    "firstSeen": 1602944190004,
+    "lastSeen": 1602944254928
+  }
+}
