@@ -1,0 +1,23 @@
+{
+  "ferno_bot@lichess": {
+    "id": "ferno_bot",
+    "provider": "lichess",
+    "username": "Ferno_Bot",
+    "firstSeen": 1602941122362,
+    "lastSeen": 1602947125389
+  },
+  "supersosobot@lichess": {
+    "id": "supersosobot",
+    "provider": "lichess",
+    "username": "SuperSosoBot",
+    "firstSeen": 1602943763431,
+    "lastSeen": 1602947139362
+  },
+  "pdfprizebot@lichess": {
+    "id": "pdfprizebot",
+    "provider": "lichess",
+    "username": "PDFPRIZEBOT",
+    "firstSeen": 1602944948338,
+    "lastSeen": 1602947307882
+  }
+}
