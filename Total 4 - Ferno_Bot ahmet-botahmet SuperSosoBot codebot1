@@ -1,0 +1,30 @@
+{
+  "ferno_bot@lichess": {
+    "id": "ferno_bot",
+    "provider": "lichess",
+    "username": "Ferno_Bot",
+    "firstSeen": 1602941122362,
+    "lastSeen": 1602943408773
+  },
+  "ahmet-botahmet@lichess": {
+    "id": "ahmet-botahmet",
+    "provider": "lichess",
+    "username": "ahmet-botahmet",
+    "firstSeen": 1602943096190,
+    "lastSeen": 1602943721289
+  },
+  "supersosobot@lichess": {
+    "id": "supersosobot",
+    "provider": "lichess",
+    "username": "SuperSosoBot",
+    "firstSeen": 1602943763431,
+    "lastSeen": 1602943819503
+  },
+  "codebot1@lichess": {
+    "id": "codebot1",
+    "provider": "lichess",
+    "username": "codebot1",
+    "firstSeen": 1602943853785,
+    "lastSeen": 1602943853785
+  }
+}
