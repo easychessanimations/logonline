@@ -1,0 +1,56 @@
+{
+  "ferno_bot@lichess": {
+    "id": "ferno_bot",
+    "provider": "lichess",
+    "username": "Ferno_Bot",
+    "firstSeen": 1602941122362,
+    "lastSeen": 1602956410015,
+    "firstSeenTime": "1:25:22 PM",
+    "lastSeenTime": "5:10:25 PM",
+    "onlineDurationMins": 225.04975
+  },
+  "supersosobot@lichess": {
+    "id": "supersosobot",
+    "provider": "lichess",
+    "username": "SuperSosoBot",
+    "firstSeen": 1602953435424,
+    "lastSeen": 1602956437392,
+    "firstSeenTime": "4:50:35 PM",
+    "lastSeenTime": "5:16:40 PM",
+    "onlineDurationMins": 26.087333333333333
+  },
+  "rexbot1@lichess": {
+    "id": "rexbot1",
+    "provider": "lichess",
+    "username": "Rexbot1",
+    "firstSeen": 1602953648810,
+    "lastSeen": 1602956483020,
+    "firstSeenTime": "4:54:08 PM",
+    "lastSeenTime": "5:16:17 PM",
+    "onlineDurationMins": 22.151416666666666
+  },
+  "elsenorbot@lichess": {
+    "id": "elsenorbot",
+    "provider": "lichess",
+    "username": "ElSenorBot",
+    "firstSeen": 1602953665531,
+    "lastSeen": 1602956411416,
+    "firstSeenTime": "4:54:25 PM",
+    "lastSeenTime": "5:16:33 PM",
+    "onlineDurationMins": 22.1256
+  },
+  "isimsizisim12345@lichess": {
+    "id": "isimsizisim12345",
+    "provider": "lichess",
+    "username": "isimsizisim12345",
+    "firstSeen": 1602955390050,
+    "lastSeen": 1602956499924
+  },
+  "participant9@lichess": {
+    "id": "participant9",
+    "provider": "lichess",
+    "username": "Participant9",
+    "firstSeen": 1602956182639,
+    "lastSeen": 1602956502963
+  }
+}
