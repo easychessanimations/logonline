@@ -1,0 +1,37 @@
+{
+  "ferno_bot@lichess": {
+    "id": "ferno_bot",
+    "provider": "lichess",
+    "username": "Ferno_Bot",
+    "firstSeen": 1603016433844,
+    "lastSeen": 1603038625274
+  },
+  "babaprobrawlstars@lichess": {
+    "id": "babaprobrawlstars",
+    "provider": "lichess",
+    "username": "BABAPROBRAWLSTARS",
+    "firstSeen": 1603035616093,
+    "lastSeen": 1603038558592
+  },
+  "stockfish12engine@lichess": {
+    "id": "stockfish12engine",
+    "provider": "lichess",
+    "username": "Stockfish12Engine",
+    "firstSeen": 1603036378516,
+    "lastSeen": 1603038724575
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1603037183368,
+    "lastSeen": 1603038853734
+  },
+  "supersosobot@lichess": {
+    "id": "supersosobot",
+    "provider": "lichess",
+    "username": "SuperSosoBot",
+    "firstSeen": 1603038227526,
+    "lastSeen": 1603038236562
+  }
+}
