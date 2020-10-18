@@ -1,0 +1,59 @@
+{
+  "ferno_bot@lichess": {
+    "id": "ferno_bot",
+    "provider": "lichess",
+    "username": "Ferno_Bot",
+    "firstSeen": 1603016433844,
+    "lastSeen": 1603040125305,
+    "firstSeenTime": "10:20:33 AM",
+    "lastSeenTime": "4:46:25 PM",
+    "onlineDurationMins": 385.85726666666665
+  },
+  "babaprobrawlstars@lichess": {
+    "id": "babaprobrawlstars",
+    "provider": "lichess",
+    "username": "BABAPROBRAWLSTARS",
+    "firstSeen": 1603035616093,
+    "lastSeen": 1603039878633,
+    "firstSeenTime": "3:40:16 PM",
+    "lastSeenTime": "4:51:18 PM",
+    "onlineDurationMins": 71.04233333333333
+  },
+  "stockfish12engine@lichess": {
+    "id": "stockfish12engine",
+    "provider": "lichess",
+    "username": "Stockfish12Engine",
+    "firstSeen": 1603036378516,
+    "lastSeen": 1603040047802,
+    "firstSeenTime": "3:52:58 PM",
+    "lastSeenTime": "4:54:07 PM",
+    "onlineDurationMins": 61.15476666666667
+  },
+  "elsenorbot@lichess": {
+    "id": "elsenorbot",
+    "provider": "lichess",
+    "username": "ElSenorBot",
+    "firstSeen": 1603039859208,
+    "lastSeen": 1603040226037,
+    "firstSeenTime": "4:50:59 PM",
+    "lastSeenTime": "4:52:25 PM",
+    "onlineDurationMins": 1.4391333333333334
+  },
+  "absaks@lichess": {
+    "id": "absaks",
+    "provider": "lichess",
+    "username": "ABSAKS",
+    "firstSeen": 1603039919120,
+    "lastSeen": 1603040093934,
+    "firstSeenTime": "4:51:59 PM",
+    "lastSeenTime": "4:52:18 PM",
+    "onlineDurationMins": 0.32051666666666667
+  },
+  "isimsizisim12345@lichess": {
+    "id": "isimsizisim12345",
+    "provider": "lichess",
+    "username": "isimsizisim12345",
+    "firstSeen": 1603040230248,
+    "lastSeen": 1603040230248
+  }
+}
