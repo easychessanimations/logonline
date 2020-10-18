@@ -1,0 +1,32 @@
+{
+  "ferno_bot@lichess": {
+    "id": "ferno_bot",
+    "provider": "lichess",
+    "username": "Ferno_Bot",
+    "firstSeen": 1603016433844,
+    "lastSeen": 1603042225318,
+    "firstSeenTime": "10:20:33 AM",
+    "lastSeenTime": "4:57:25 PM",
+    "onlineDurationMins": 396.8564166666667
+  },
+  "stockfish12engine@lichess": {
+    "id": "stockfish12engine",
+    "provider": "lichess",
+    "username": "Stockfish12Engine",
+    "firstSeen": 1603036378516,
+    "lastSeen": 1603042737664,
+    "firstSeenTime": "3:52:58 PM",
+    "lastSeenTime": "5:05:11 PM",
+    "onlineDurationMins": 72.21565
+  },
+  "elsenorbot@lichess": {
+    "id": "elsenorbot",
+    "provider": "lichess",
+    "username": "ElSenorBot",
+    "firstSeen": 1603039859208,
+    "lastSeen": 1603042270252,
+    "firstSeenTime": "4:50:59 PM",
+    "lastSeenTime": "5:06:31 PM",
+    "onlineDurationMins": 15.5416
+  }
+}
