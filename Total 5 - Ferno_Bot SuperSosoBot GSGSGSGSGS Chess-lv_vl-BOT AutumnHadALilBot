@@ -1,0 +1,37 @@
+{
+  "ferno_bot@lichess": {
+    "id": "ferno_bot",
+    "provider": "lichess",
+    "username": "Ferno_Bot",
+    "firstSeen": 1603016433844,
+    "lastSeen": 1603021228739
+  },
+  "supersosobot@lichess": {
+    "id": "supersosobot",
+    "provider": "lichess",
+    "username": "SuperSosoBot",
+    "firstSeen": 1603019285752,
+    "lastSeen": 1603021194067
+  },
+  "gsgsgsgsgs@lichess": {
+    "id": "gsgsgsgsgs",
+    "provider": "lichess",
+    "username": "GSGSGSGSGS",
+    "firstSeen": 1603020466557,
+    "lastSeen": 1603021102613
+  },
+  "chess-lv_vl-bot@lichess": {
+    "id": "chess-lv_vl-bot",
+    "provider": "lichess",
+    "username": "Chess-lv_vl-BOT",
+    "firstSeen": 1603020574933,
+    "lastSeen": 1603021551996
+  },
+  "autumnhadalilbot@lichess": {
+    "id": "autumnhadalilbot",
+    "provider": "lichess",
+    "username": "AutumnHadALilBot",
+    "firstSeen": 1603020956732,
+    "lastSeen": 1603021214447
+  }
+}
