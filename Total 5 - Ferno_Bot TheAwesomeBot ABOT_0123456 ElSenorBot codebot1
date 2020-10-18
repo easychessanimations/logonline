@@ -1,0 +1,43 @@
+{
+  "ferno_bot@lichess": {
+    "id": "ferno_bot",
+    "provider": "lichess",
+    "username": "Ferno_Bot",
+    "firstSeen": 1603016433844,
+    "lastSeen": 1603046965451,
+    "firstSeenTime": "10:20:33 AM",
+    "lastSeenTime": "6:04:29 PM",
+    "onlineDurationMins": 463.92275
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1603042938440,
+    "lastSeen": 1603047433280,
+    "firstSeenTime": "5:42:18 PM",
+    "lastSeenTime": "6:06:11 PM",
+    "onlineDurationMins": 23.890916666666666
+  },
+  "abot_0123456@lichess": {
+    "id": "abot_0123456",
+    "provider": "lichess",
+    "username": "ABOT_0123456",
+    "firstSeen": 1603044978864,
+    "lastSeen": 1603047293427
+  },
+  "elsenorbot@lichess": {
+    "id": "elsenorbot",
+    "provider": "lichess",
+    "username": "ElSenorBot",
+    "firstSeen": 1603046271164,
+    "lastSeen": 1603047367875
+  },
+  "codebot1@lichess": {
+    "id": "codebot1",
+    "provider": "lichess",
+    "username": "codebot1",
+    "firstSeen": 1603047496158,
+    "lastSeen": 1603047496158
+  }
+}
