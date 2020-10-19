@@ -1,0 +1,91 @@
+{
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1603123007502,
+    "lastSeen": 1603145993592,
+    "firstSeenTime": "3:56:47 PM",
+    "lastSeenTime": "9:01:50 PM",
+    "onlineDurationMins": 305.0423333333333
+  },
+  "aritrochess-speedrun@lichess": {
+    "id": "aritrochess-speedrun",
+    "provider": "lichess",
+    "username": "Aritrochess-speedrun",
+    "firstSeen": 1603136923649,
+    "lastSeen": 1603145368568,
+    "firstSeenTime": "7:48:43 PM",
+    "lastSeenTime": "9:02:32 PM",
+    "onlineDurationMins": 73.81086666666667
+  },
+  "french_winawer@lichess": {
+    "id": "french_winawer",
+    "provider": "lichess",
+    "username": "French_Winawer",
+    "firstSeen": 1603138563916,
+    "lastSeen": 1603146096710,
+    "firstSeenTime": "8:16:03 PM",
+    "lastSeenTime": "9:02:10 PM",
+    "onlineDurationMins": 46.1044
+  },
+  "nobody11892@lichess": {
+    "id": "nobody11892",
+    "provider": "lichess",
+    "username": "Nobody11892",
+    "firstSeen": 1603138928919,
+    "lastSeen": 1603145943215,
+    "firstSeenTime": "8:22:08 PM",
+    "lastSeenTime": "9:01:10 PM",
+    "onlineDurationMins": 39.02033333333333
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1603143854376,
+    "lastSeen": 1603145900371
+  },
+  "stockfishforever@lichess": {
+    "id": "stockfishforever",
+    "provider": "lichess",
+    "username": "StockfishForever",
+    "firstSeen": 1603143932940,
+    "lastSeen": 1603145721111
+  },
+  "boom_bot@lichess": {
+    "id": "boom_bot",
+    "provider": "lichess",
+    "username": "Boom_Bot",
+    "firstSeen": 1603145001649,
+    "lastSeen": 1603145884195
+  },
+  "no_username2@lichess": {
+    "id": "no_username2",
+    "provider": "lichess",
+    "username": "No_Username2",
+    "firstSeen": 1603145551024,
+    "lastSeen": 1603145562561
+  },
+  "isaacwb@lichess": {
+    "id": "isaacwb",
+    "provider": "lichess",
+    "username": "Isaacwb",
+    "firstSeen": 1603145563254,
+    "lastSeen": 1603145783705
+  },
+  "therandommoverbot@lichess": {
+    "id": "therandommoverbot",
+    "provider": "lichess",
+    "username": "TheRandomMoverBOT",
+    "firstSeen": 1603145813503,
+    "lastSeen": 1603146098543
+  },
+  "stockfishengine_v12@lichess": {
+    "id": "stockfishengine_v12",
+    "provider": "lichess",
+    "username": "StockfishEngine_v12",
+    "firstSeen": 1603146104581,
+    "lastSeen": 1603146104581
+  }
+}
