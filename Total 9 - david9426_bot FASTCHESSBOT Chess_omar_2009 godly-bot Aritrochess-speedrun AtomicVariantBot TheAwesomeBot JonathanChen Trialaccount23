@@ -1,0 +1,92 @@
+{
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1603123007502,
+    "lastSeen": 1603138010076,
+    "firstSeenTime": "3:56:47 PM",
+    "lastSeenTime": "8:06:50 PM",
+    "onlineDurationMins": 250.0429
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1603127128645,
+    "lastSeen": 1603138260240,
+    "firstSeenTime": "5:05:28 PM",
+    "lastSeenTime": "8:11:00 PM",
+    "onlineDurationMins": 185.52658333333332
+  },
+  "chess_omar_2009@lichess": {
+    "id": "chess_omar_2009",
+    "provider": "lichess",
+    "username": "Chess_omar_2009",
+    "firstSeen": 1603134892919,
+    "lastSeen": 1603137897263,
+    "firstSeenTime": "7:14:52 PM",
+    "lastSeenTime": "8:04:57 PM",
+    "onlineDurationMins": 50.0724
+  },
+  "godly-bot@lichess": {
+    "id": "godly-bot",
+    "provider": "lichess",
+    "username": "godly-bot",
+    "firstSeen": 1603135236190,
+    "lastSeen": 1603138238454,
+    "firstSeenTime": "7:20:36 PM",
+    "lastSeenTime": "8:10:38 PM",
+    "onlineDurationMins": 50.037733333333335
+  },
+  "aritrochess-speedrun@lichess": {
+    "id": "aritrochess-speedrun",
+    "provider": "lichess",
+    "username": "Aritrochess-speedrun",
+    "firstSeen": 1603136923649,
+    "lastSeen": 1603137931880,
+    "firstSeenTime": "7:48:43 PM",
+    "lastSeenTime": "8:05:31 PM",
+    "onlineDurationMins": 16.80385
+  },
+  "atomicvariantbot@lichess": {
+    "id": "atomicvariantbot",
+    "provider": "lichess",
+    "username": "AtomicVariantBot",
+    "firstSeen": 1603137419398,
+    "lastSeen": 1603138179197,
+    "firstSeenTime": "7:56:59 PM",
+    "lastSeenTime": "8:09:39 PM",
+    "onlineDurationMins": 12.663316666666667
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1603137510054,
+    "lastSeen": 1603138302501,
+    "firstSeenTime": "7:58:30 PM",
+    "lastSeenTime": "8:11:42 PM",
+    "onlineDurationMins": 13.20745
+  },
+  "jonathanchen@lichess": {
+    "id": "jonathanchen",
+    "provider": "lichess",
+    "username": "JonathanChen",
+    "firstSeen": 1603137644505,
+    "lastSeen": 1603137725818,
+    "firstSeenTime": "8:00:44 PM",
+    "lastSeenTime": "8:02:05 PM",
+    "onlineDurationMins": 1.3552166666666667
+  },
+  "trialaccount23@lichess": {
+    "id": "trialaccount23",
+    "provider": "lichess",
+    "username": "Trialaccount23",
+    "firstSeen": 1603138418036,
+    "lastSeen": 1603138427072,
+    "firstSeenTime": "8:13:38 PM",
+    "lastSeenTime": "8:13:40 PM",
+    "onlineDurationMins": 0.039933333333333335
+  }
+}
