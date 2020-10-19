@@ -1,0 +1,62 @@
+{
+  "kid000@lichess": {
+    "id": "kid000",
+    "provider": "lichess",
+    "username": "kid000",
+    "firstSeen": 1603109788014,
+    "lastSeen": 1603124134203,
+    "firstSeenTime": "12:16:28 PM",
+    "lastSeenTime": "4:15:34 PM",
+    "onlineDurationMins": 239.10315
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1603118803600,
+    "lastSeen": 1603124385330,
+    "firstSeenTime": "2:46:43 PM",
+    "lastSeenTime": "4:18:43 PM",
+    "onlineDurationMins": 92.00156666666666
+  },
+  "manwithavan-001@lichess": {
+    "id": "manwithavan-001",
+    "provider": "lichess",
+    "username": "manwithavan-001",
+    "firstSeen": 1603122424249,
+    "lastSeen": 1603123930627,
+    "firstSeenTime": "3:47:04 PM",
+    "lastSeenTime": "4:12:10 PM",
+    "onlineDurationMins": 25.1063
+  },
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1603123007502,
+    "lastSeen": 1603123673746,
+    "firstSeenTime": "3:56:47 PM",
+    "lastSeenTime": "4:07:53 PM",
+    "onlineDurationMins": 11.104066666666666
+  },
+  "ahmet-botahmet@lichess": {
+    "id": "ahmet-botahmet",
+    "provider": "lichess",
+    "username": "ahmet-botahmet",
+    "firstSeen": 1603123540880,
+    "lastSeen": 1603123591896,
+    "firstSeenTime": "4:05:40 PM",
+    "lastSeenTime": "4:06:31 PM",
+    "onlineDurationMins": 0.8502666666666666
+  },
+  "gsgsgsgsgs@lichess": {
+    "id": "gsgsgsgsgs",
+    "provider": "lichess",
+    "username": "GSGSGSGSGS",
+    "firstSeen": 1603124029063,
+    "lastSeen": 1603124061643,
+    "firstSeenTime": "4:13:49 PM",
+    "lastSeenTime": "4:14:21 PM",
+    "onlineDurationMins": 0.543
+  }
+}
