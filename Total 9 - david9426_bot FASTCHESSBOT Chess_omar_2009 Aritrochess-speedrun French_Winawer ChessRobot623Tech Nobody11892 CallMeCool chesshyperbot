@@ -1,0 +1,92 @@
+{
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1603123007502,
+    "lastSeen": 1603140650016,
+    "firstSeenTime": "3:56:47 PM",
+    "lastSeenTime": "8:39:53 PM",
+    "onlineDurationMins": 283.10183333333333
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1603127128645,
+    "lastSeen": 1603140628235,
+    "firstSeenTime": "5:05:28 PM",
+    "lastSeenTime": "8:50:28 PM",
+    "onlineDurationMins": 224.99316666666667
+  },
+  "chess_omar_2009@lichess": {
+    "id": "chess_omar_2009",
+    "provider": "lichess",
+    "username": "Chess_omar_2009",
+    "firstSeen": 1603134892919,
+    "lastSeen": 1603139997096,
+    "firstSeenTime": "7:14:52 PM",
+    "lastSeenTime": "8:39:57 PM",
+    "onlineDurationMins": 85.06961666666666
+  },
+  "aritrochess-speedrun@lichess": {
+    "id": "aritrochess-speedrun",
+    "provider": "lichess",
+    "username": "Aritrochess-speedrun",
+    "firstSeen": 1603136923649,
+    "lastSeen": 1603140088123,
+    "firstSeenTime": "7:48:43 PM",
+    "lastSeenTime": "8:41:28 PM",
+    "onlineDurationMins": 52.741233333333334
+  },
+  "french_winawer@lichess": {
+    "id": "french_winawer",
+    "provider": "lichess",
+    "username": "French_Winawer",
+    "firstSeen": 1603138563916,
+    "lastSeen": 1603140526994,
+    "firstSeenTime": "8:16:03 PM",
+    "lastSeenTime": "8:48:46 PM",
+    "onlineDurationMins": 32.71796666666667
+  },
+  "chessrobot623tech@lichess": {
+    "id": "chessrobot623tech",
+    "provider": "lichess",
+    "username": "ChessRobot623Tech",
+    "firstSeen": 1603138687035,
+    "lastSeen": 1603140550635,
+    "firstSeenTime": "8:18:07 PM",
+    "lastSeenTime": "8:49:10 PM",
+    "onlineDurationMins": 31.06
+  },
+  "nobody11892@lichess": {
+    "id": "nobody11892",
+    "provider": "lichess",
+    "username": "Nobody11892",
+    "firstSeen": 1603138928919,
+    "lastSeen": 1603140431777,
+    "firstSeenTime": "8:22:08 PM",
+    "lastSeenTime": "8:47:11 PM",
+    "onlineDurationMins": 25.047633333333334
+  },
+  "callmecool@lichess": {
+    "id": "callmecool",
+    "provider": "lichess",
+    "username": "CallMeCool",
+    "firstSeen": 1603139058245,
+    "lastSeen": 1603139984334,
+    "firstSeenTime": "8:24:18 PM",
+    "lastSeenTime": "8:39:44 PM",
+    "onlineDurationMins": 15.434816666666666
+  },
+  "chesshyperbot@lichess": {
+    "id": "chesshyperbot",
+    "provider": "lichess",
+    "username": "chesshyperbot",
+    "firstSeen": 1603140449174,
+    "lastSeen": 1603140458338,
+    "firstSeenTime": "8:47:29 PM",
+    "lastSeenTime": "8:47:38 PM",
+    "onlineDurationMins": 0.15273333333333333
+  }
+}
