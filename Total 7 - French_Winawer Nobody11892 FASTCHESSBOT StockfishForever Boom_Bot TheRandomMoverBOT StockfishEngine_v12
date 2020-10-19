@@ -1,0 +1,57 @@
+{
+  "french_winawer@lichess": {
+    "id": "french_winawer",
+    "provider": "lichess",
+    "username": "French_Winawer",
+    "firstSeen": 1603138563916,
+    "lastSeen": 1603146790177,
+    "firstSeenTime": "8:16:03 PM",
+    "lastSeenTime": "9:02:10 PM",
+    "onlineDurationMins": 46.1044
+  },
+  "nobody11892@lichess": {
+    "id": "nobody11892",
+    "provider": "lichess",
+    "username": "Nobody11892",
+    "firstSeen": 1603138928919,
+    "lastSeen": 1603146536328,
+    "firstSeenTime": "8:22:08 PM",
+    "lastSeenTime": "9:01:10 PM",
+    "onlineDurationMins": 39.02033333333333
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1603143854376,
+    "lastSeen": 1603146560484
+  },
+  "stockfishforever@lichess": {
+    "id": "stockfishforever",
+    "provider": "lichess",
+    "username": "StockfishForever",
+    "firstSeen": 1603143932940,
+    "lastSeen": 1603146677823
+  },
+  "boom_bot@lichess": {
+    "id": "boom_bot",
+    "provider": "lichess",
+    "username": "Boom_Bot",
+    "firstSeen": 1603145001649,
+    "lastSeen": 1603146639511
+  },
+  "therandommoverbot@lichess": {
+    "id": "therandommoverbot",
+    "provider": "lichess",
+    "username": "TheRandomMoverBOT",
+    "firstSeen": 1603145813503,
+    "lastSeen": 1603146098543
+  },
+  "stockfishengine_v12@lichess": {
+    "id": "stockfishengine_v12",
+    "provider": "lichess",
+    "username": "StockfishEngine_v12",
+    "firstSeen": 1603146104581,
+    "lastSeen": 1603146936493
+  }
+}
