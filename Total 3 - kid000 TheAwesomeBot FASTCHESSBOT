@@ -1,0 +1,23 @@
+{
+  "kid000@lichess": {
+    "id": "kid000",
+    "provider": "lichess",
+    "username": "kid000",
+    "firstSeen": 1603109788014,
+    "lastSeen": 1603121840954
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1603118803600,
+    "lastSeen": 1603121865071
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1603121867124,
+    "lastSeen": 1603121867124
+  }
+}
