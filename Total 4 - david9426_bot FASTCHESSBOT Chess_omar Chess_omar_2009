@@ -1,0 +1,39 @@
+{
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1603123007502,
+    "lastSeen": 1603134230074,
+    "firstSeenTime": "3:56:47 PM",
+    "lastSeenTime": "7:03:50 PM",
+    "onlineDurationMins": 187.04286666666667
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1603127128645,
+    "lastSeen": 1603134498146,
+    "firstSeenTime": "5:05:28 PM",
+    "lastSeenTime": "7:08:18 PM",
+    "onlineDurationMins": 122.82501666666667
+  },
+  "chess_omar@lichess": {
+    "id": "chess_omar",
+    "provider": "lichess",
+    "username": "Chess_omar",
+    "firstSeen": 1603133303642,
+    "lastSeen": 1603134011417,
+    "firstSeenTime": "6:48:23 PM",
+    "lastSeenTime": "7:00:11 PM",
+    "onlineDurationMins": 11.79625
+  },
+  "chess_omar_2009@lichess": {
+    "id": "chess_omar_2009",
+    "provider": "lichess",
+    "username": "Chess_omar_2009",
+    "firstSeen": 1603134892919,
+    "lastSeen": 1603134892919
+  }
+}
