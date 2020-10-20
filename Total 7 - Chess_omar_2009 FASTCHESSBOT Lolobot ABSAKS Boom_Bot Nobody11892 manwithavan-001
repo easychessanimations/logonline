@@ -1,0 +1,72 @@
+{
+  "chess_omar_2009@lichess": {
+    "id": "chess_omar_2009",
+    "provider": "lichess",
+    "username": "Chess_omar_2009",
+    "firstSeen": 1603196904815,
+    "lastSeen": 1603201028774,
+    "firstSeenTime": "12:28:24 PM",
+    "lastSeenTime": "1:37:08 PM",
+    "onlineDurationMins": 68.73265
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1603197236781,
+    "lastSeen": 1603200937172,
+    "firstSeenTime": "12:33:56 PM",
+    "lastSeenTime": "1:35:37 PM",
+    "onlineDurationMins": 61.673183333333334
+  },
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1603197372916,
+    "lastSeen": 1603200743937,
+    "firstSeenTime": "12:36:12 PM",
+    "lastSeenTime": "1:32:23 PM",
+    "onlineDurationMins": 56.183683333333335
+  },
+  "absaks@lichess": {
+    "id": "absaks",
+    "provider": "lichess",
+    "username": "ABSAKS",
+    "firstSeen": 1603198948137,
+    "lastSeen": 1603200548329,
+    "firstSeenTime": "1:02:28 PM",
+    "lastSeenTime": "1:29:08 PM",
+    "onlineDurationMins": 26.669866666666667
+  },
+  "boom_bot@lichess": {
+    "id": "boom_bot",
+    "provider": "lichess",
+    "username": "Boom_Bot",
+    "firstSeen": 1603199007670,
+    "lastSeen": 1603200513590,
+    "firstSeenTime": "1:03:27 PM",
+    "lastSeenTime": "1:28:33 PM",
+    "onlineDurationMins": 25.098666666666666
+  },
+  "nobody11892@lichess": {
+    "id": "nobody11892",
+    "provider": "lichess",
+    "username": "Nobody11892",
+    "firstSeen": 1603199617820,
+    "lastSeen": 1603201120627,
+    "firstSeenTime": "1:13:37 PM",
+    "lastSeenTime": "1:36:44 PM",
+    "onlineDurationMins": 23.103683333333333
+  },
+  "manwithavan-001@lichess": {
+    "id": "manwithavan-001",
+    "provider": "lichess",
+    "username": "manwithavan-001",
+    "firstSeen": 1603199628505,
+    "lastSeen": 1603201030608,
+    "firstSeenTime": "1:13:48 PM",
+    "lastSeenTime": "1:37:10 PM",
+    "onlineDurationMins": 23.368383333333334
+  }
+}
