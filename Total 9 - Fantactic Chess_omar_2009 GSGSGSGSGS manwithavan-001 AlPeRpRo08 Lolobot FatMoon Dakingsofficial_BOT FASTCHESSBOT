@@ -1,0 +1,86 @@
+{
+  "fantactic@lichess": {
+    "id": "fantactic",
+    "provider": "lichess",
+    "username": "Fantactic",
+    "firstSeen": 1603207826022,
+    "lastSeen": 1603208030348,
+    "firstSeenTime": "3:30:26 PM",
+    "lastSeenTime": "3:33:50 PM",
+    "onlineDurationMins": 3.4054333333333333
+  },
+  "chess_omar_2009@lichess": {
+    "id": "chess_omar_2009",
+    "provider": "lichess",
+    "username": "Chess_omar_2009",
+    "firstSeen": 1603207845106,
+    "lastSeen": 1603208135145,
+    "firstSeenTime": "3:30:45 PM",
+    "lastSeenTime": "3:31:56 PM",
+    "onlineDurationMins": 1.1972333333333334
+  },
+  "gsgsgsgsgs@lichess": {
+    "id": "gsgsgsgsgs",
+    "provider": "lichess",
+    "username": "GSGSGSGSGS",
+    "firstSeen": 1603207934157,
+    "lastSeen": 1603208050576,
+    "firstSeenTime": "3:32:14 PM",
+    "lastSeenTime": "3:34:10 PM",
+    "onlineDurationMins": 1.9403166666666667
+  },
+  "manwithavan-001@lichess": {
+    "id": "manwithavan-001",
+    "provider": "lichess",
+    "username": "manwithavan-001",
+    "firstSeen": 1603207939224,
+    "lastSeen": 1603207979302,
+    "firstSeenTime": "3:32:19 PM",
+    "lastSeenTime": "3:32:59 PM",
+    "onlineDurationMins": 0.6679666666666667
+  },
+  "alperpro08@lichess": {
+    "id": "alperpro08",
+    "provider": "lichess",
+    "username": "AlPeRpRo08",
+    "firstSeen": 1603207993467,
+    "lastSeen": 1603208086528,
+    "firstSeenTime": "3:33:13 PM",
+    "lastSeenTime": "3:34:21 PM",
+    "onlineDurationMins": 1.1283
+  },
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1603208052217,
+    "lastSeen": 1603208064905,
+    "firstSeenTime": "3:34:12 PM",
+    "lastSeenTime": "3:34:20 PM",
+    "onlineDurationMins": 0.13431666666666667
+  },
+  "fatmoon@lichess": {
+    "id": "fatmoon",
+    "provider": "lichess",
+    "username": "FatMoon",
+    "firstSeen": 1603208053529,
+    "lastSeen": 1603208057385,
+    "firstSeenTime": "3:34:13 PM",
+    "lastSeenTime": "3:34:17 PM",
+    "onlineDurationMins": 0.06426666666666667
+  },
+  "dakingsofficial_bot@lichess": {
+    "id": "dakingsofficial_bot",
+    "provider": "lichess",
+    "username": "Dakingsofficial_BOT",
+    "firstSeen": 1603208099323,
+    "lastSeen": 1603208119097
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1603208142342,
+    "lastSeen": 1603208142342
+  }
+}
