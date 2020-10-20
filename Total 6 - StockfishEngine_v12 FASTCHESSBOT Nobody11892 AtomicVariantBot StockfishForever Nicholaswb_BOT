@@ -1,0 +1,44 @@
+{
+  "stockfishengine_v12@lichess": {
+    "id": "stockfishengine_v12",
+    "provider": "lichess",
+    "username": "StockfishEngine_v12",
+    "firstSeen": 1603146104581,
+    "lastSeen": 1603153431238
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1603152276003,
+    "lastSeen": 1603153426446
+  },
+  "nobody11892@lichess": {
+    "id": "nobody11892",
+    "provider": "lichess",
+    "username": "Nobody11892",
+    "firstSeen": 1603152502873,
+    "lastSeen": 1603153556713
+  },
+  "atomicvariantbot@lichess": {
+    "id": "atomicvariantbot",
+    "provider": "lichess",
+    "username": "AtomicVariantBot",
+    "firstSeen": 1603153033610,
+    "lastSeen": 1603153040091
+  },
+  "stockfishforever@lichess": {
+    "id": "stockfishforever",
+    "provider": "lichess",
+    "username": "StockfishForever",
+    "firstSeen": 1603153401238,
+    "lastSeen": 1603153404581
+  },
+  "nicholaswb_bot@lichess": {
+    "id": "nicholaswb_bot",
+    "provider": "lichess",
+    "username": "Nicholaswb_BOT",
+    "firstSeen": 1603153567187,
+    "lastSeen": 1603153567187
+  }
+}
