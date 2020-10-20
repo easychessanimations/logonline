@@ -1,0 +1,65 @@
+{
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1603211627485,
+    "lastSeen": 1603219623922
+  },
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1603212201264,
+    "lastSeen": 1603219261130
+  },
+  "nobody11892@lichess": {
+    "id": "nobody11892",
+    "provider": "lichess",
+    "username": "Nobody11892",
+    "firstSeen": 1603212303814,
+    "lastSeen": 1603219626485
+  },
+  "french_winawer@lichess": {
+    "id": "french_winawer",
+    "provider": "lichess",
+    "username": "French_Winawer",
+    "firstSeen": 1603213381166,
+    "lastSeen": 1603219278429
+  },
+  "thelegendaryknight@lichess": {
+    "id": "thelegendaryknight",
+    "provider": "lichess",
+    "username": "TheLegendaryKnight",
+    "firstSeen": 1603216529198,
+    "lastSeen": 1603219721227
+  },
+  "dakingsofficialbot@lichess": {
+    "id": "dakingsofficialbot",
+    "provider": "lichess",
+    "username": "DaKingsOfficialBOT",
+    "firstSeen": 1603217234378,
+    "lastSeen": 1603219484700
+  },
+  "chess_omar_2009@lichess": {
+    "id": "chess_omar_2009",
+    "provider": "lichess",
+    "username": "Chess_omar_2009",
+    "firstSeen": 1603219560578,
+    "lastSeen": 1603219724867
+  },
+  "thesamsun55@lichess": {
+    "id": "thesamsun55",
+    "provider": "lichess",
+    "username": "TheSamsun55",
+    "firstSeen": 1603219730467,
+    "lastSeen": 1603219740122
+  },
+  "fatmoon@lichess": {
+    "id": "fatmoon",
+    "provider": "lichess",
+    "username": "FatMoon",
+    "firstSeen": 1603219743451,
+    "lastSeen": 1603219743451
+  }
+}
