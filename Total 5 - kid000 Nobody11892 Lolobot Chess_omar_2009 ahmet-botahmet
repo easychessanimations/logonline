@@ -1,0 +1,49 @@
+{
+  "kid000@lichess": {
+    "id": "kid000",
+    "provider": "lichess",
+    "username": "kid000",
+    "firstSeen": 1603164778142,
+    "lastSeen": 1603187706302,
+    "firstSeenTime": "3:32:58 AM",
+    "lastSeenTime": "9:23:27 AM",
+    "onlineDurationMins": 350.4917
+  },
+  "nobody11892@lichess": {
+    "id": "nobody11892",
+    "provider": "lichess",
+    "username": "Nobody11892",
+    "firstSeen": 1603173712950,
+    "lastSeen": 1603187756619,
+    "firstSeenTime": "6:01:52 AM",
+    "lastSeenTime": "9:24:52 AM",
+    "onlineDurationMins": 202.99935
+  },
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1603173799995,
+    "lastSeen": 1603187784651,
+    "firstSeenTime": "6:03:19 AM",
+    "lastSeenTime": "9:22:23 AM",
+    "onlineDurationMins": 199.05526666666665
+  },
+  "chess_omar_2009@lichess": {
+    "id": "chess_omar_2009",
+    "provider": "lichess",
+    "username": "Chess_omar_2009",
+    "firstSeen": 1603184657140,
+    "lastSeen": 1603187778412,
+    "firstSeenTime": "9:04:17 AM",
+    "lastSeenTime": "9:24:28 AM",
+    "onlineDurationMins": 20.18776666666667
+  },
+  "ahmet-botahmet@lichess": {
+    "id": "ahmet-botahmet",
+    "provider": "lichess",
+    "username": "ahmet-botahmet",
+    "firstSeen": 1603187902618,
+    "lastSeen": 1603187902618
+  }
+}
