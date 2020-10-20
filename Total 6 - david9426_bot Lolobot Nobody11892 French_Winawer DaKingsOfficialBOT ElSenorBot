@@ -1,0 +1,62 @@
+{
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1603211627485,
+    "lastSeen": 1603223707298,
+    "firstSeenTime": "4:33:47 PM",
+    "lastSeenTime": "7:44:03 PM",
+    "onlineDurationMins": 190.27321666666666
+  },
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1603212201264,
+    "lastSeen": 1603223802598,
+    "firstSeenTime": "4:43:21 PM",
+    "lastSeenTime": "7:50:57 PM",
+    "onlineDurationMins": 187.59938333333332
+  },
+  "nobody11892@lichess": {
+    "id": "nobody11892",
+    "provider": "lichess",
+    "username": "Nobody11892",
+    "firstSeen": 1603212303814,
+    "lastSeen": 1603223709684,
+    "firstSeenTime": "4:45:03 PM",
+    "lastSeenTime": "7:50:05 PM",
+    "onlineDurationMins": 185.03326666666666
+  },
+  "french_winawer@lichess": {
+    "id": "french_winawer",
+    "provider": "lichess",
+    "username": "French_Winawer",
+    "firstSeen": 1603213381166,
+    "lastSeen": 1603223778406,
+    "firstSeenTime": "5:03:01 PM",
+    "lastSeenTime": "7:50:56 PM",
+    "onlineDurationMins": 167.9143
+  },
+  "dakingsofficialbot@lichess": {
+    "id": "dakingsofficialbot",
+    "provider": "lichess",
+    "username": "DaKingsOfficialBOT",
+    "firstSeen": 1603217234378,
+    "lastSeen": 1603223794199,
+    "firstSeenTime": "6:07:14 PM",
+    "lastSeenTime": "7:49:08 PM",
+    "onlineDurationMins": 101.89795
+  },
+  "elsenorbot@lichess": {
+    "id": "elsenorbot",
+    "provider": "lichess",
+    "username": "ElSenorBot",
+    "firstSeen": 1603221830597,
+    "lastSeen": 1603223825976,
+    "firstSeenTime": "7:23:50 PM",
+    "lastSeenTime": "7:48:57 PM",
+    "onlineDurationMins": 25.109233333333332
+  }
+}
