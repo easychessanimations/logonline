@@ -1,0 +1,36 @@
+{
+  "kid000@lichess": {
+    "id": "kid000",
+    "provider": "lichess",
+    "username": "kid000",
+    "firstSeen": 1603276490781,
+    "lastSeen": 1603291480689,
+    "firstSeenTime": "10:34:50 AM",
+    "lastSeenTime": "1:32:28 PM",
+    "onlineDurationMins": 177.62235
+  },
+  "nobody11892@lichess": {
+    "id": "nobody11892",
+    "provider": "lichess",
+    "username": "Nobody11892",
+    "firstSeen": 1603285631536,
+    "lastSeen": 1603291502358,
+    "firstSeenTime": "1:07:11 PM",
+    "lastSeenTime": "1:32:14 PM",
+    "onlineDurationMins": 25.0567
+  },
+  "sinirsiz123@lichess": {
+    "id": "sinirsiz123",
+    "provider": "lichess",
+    "username": "SINIRSIZ123",
+    "firstSeen": 1603290529200,
+    "lastSeen": 1603291511738
+  },
+  "thelegendaryknight@lichess": {
+    "id": "thelegendaryknight",
+    "provider": "lichess",
+    "username": "TheLegendaryKnight",
+    "firstSeen": 1603291521939,
+    "lastSeen": 1603291521939
+  }
+}
