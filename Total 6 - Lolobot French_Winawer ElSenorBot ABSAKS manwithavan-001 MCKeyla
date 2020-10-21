@@ -1,0 +1,53 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1603212201264,
+    "lastSeen": 1603248303368,
+    "firstSeenTime": "4:43:21 PM",
+    "lastSeenTime": "8:02:56 PM",
+    "onlineDurationMins": 199.59428333333332
+  },
+  "french_winawer@lichess": {
+    "id": "french_winawer",
+    "provider": "lichess",
+    "username": "French_Winawer",
+    "firstSeen": 1603213381166,
+    "lastSeen": 1603248009235,
+    "firstSeenTime": "5:03:01 PM",
+    "lastSeenTime": "8:01:00 PM",
+    "onlineDurationMins": 177.98345
+  },
+  "elsenorbot@lichess": {
+    "id": "elsenorbot",
+    "provider": "lichess",
+    "username": "ElSenorBot",
+    "firstSeen": 1603221830597,
+    "lastSeen": 1603248439850,
+    "firstSeenTime": "7:23:50 PM",
+    "lastSeenTime": "7:57:05 PM",
+    "onlineDurationMins": 33.25631666666666
+  },
+  "absaks@lichess": {
+    "id": "absaks",
+    "provider": "lichess",
+    "username": "ABSAKS",
+    "firstSeen": 1603243517609,
+    "lastSeen": 1603248463147
+  },
+  "manwithavan-001@lichess": {
+    "id": "manwithavan-001",
+    "provider": "lichess",
+    "username": "manwithavan-001",
+    "firstSeen": 1603247676840,
+    "lastSeen": 1603248411907
+  },
+  "mckeyla@lichess": {
+    "id": "mckeyla",
+    "provider": "lichess",
+    "username": "MCKeyla",
+    "firstSeen": 1603248473404,
+    "lastSeen": 1603248473404
+  }
+}
