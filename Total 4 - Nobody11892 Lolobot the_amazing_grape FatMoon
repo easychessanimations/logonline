@@ -1,0 +1,39 @@
+{
+  "nobody11892@lichess": {
+    "id": "nobody11892",
+    "provider": "lichess",
+    "username": "Nobody11892",
+    "firstSeen": 1603294784434,
+    "lastSeen": 1603307898389,
+    "firstSeenTime": "3:39:44 PM",
+    "lastSeenTime": "7:18:18 PM",
+    "onlineDurationMins": 218.56591666666668
+  },
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1603304655480,
+    "lastSeen": 1603308125681,
+    "firstSeenTime": "6:24:15 PM",
+    "lastSeenTime": "7:18:27 PM",
+    "onlineDurationMins": 54.192616666666666
+  },
+  "the_amazing_grape@lichess": {
+    "id": "the_amazing_grape",
+    "provider": "lichess",
+    "username": "the_amazing_grape",
+    "firstSeen": 1603308026507,
+    "lastSeen": 1603308341280,
+    "firstSeenTime": "7:20:26 PM",
+    "lastSeenTime": "7:20:47 PM",
+    "onlineDurationMins": 0.35151666666666664
+  },
+  "fatmoon@lichess": {
+    "id": "fatmoon",
+    "provider": "lichess",
+    "username": "FatMoon",
+    "firstSeen": 1603308342015,
+    "lastSeen": 1603308342015
+  }
+}
