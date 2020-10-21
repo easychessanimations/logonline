@@ -1,0 +1,40 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1603304655480,
+    "lastSeen": 1603323476259,
+    "firstSeenTime": "6:24:15 PM",
+    "lastSeenTime": "7:18:27 PM",
+    "onlineDurationMins": 54.192616666666666
+  },
+  "nobody11892@lichess": {
+    "id": "nobody11892",
+    "provider": "lichess",
+    "username": "Nobody11892",
+    "firstSeen": 1603309954435,
+    "lastSeen": 1603323503892
+  },
+  "varianttourneysbot@lichess": {
+    "id": "varianttourneysbot",
+    "provider": "lichess",
+    "username": "VariantTourneysBot",
+    "firstSeen": 1603315824482,
+    "lastSeen": 1603323414816
+  },
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1603321161136,
+    "lastSeen": 1603323598458
+  },
+  "isaacwb_bot@lichess": {
+    "id": "isaacwb_bot",
+    "provider": "lichess",
+    "username": "Isaacwb_BOT",
+    "firstSeen": 1603323761140,
+    "lastSeen": 1603323761140
+  }
+}
