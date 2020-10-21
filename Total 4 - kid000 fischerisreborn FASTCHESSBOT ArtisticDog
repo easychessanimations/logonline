@@ -1,0 +1,30 @@
+{
+  "kid000@lichess": {
+    "id": "kid000",
+    "provider": "lichess",
+    "username": "kid000",
+    "firstSeen": 1603276490781,
+    "lastSeen": 1603282335316
+  },
+  "fischerisreborn@lichess": {
+    "id": "fischerisreborn",
+    "provider": "lichess",
+    "username": "fischerisreborn",
+    "firstSeen": 1603276776385,
+    "lastSeen": 1603282650852
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1603280153804,
+    "lastSeen": 1603282524884
+  },
+  "artisticdog@lichess": {
+    "id": "artisticdog",
+    "provider": "lichess",
+    "username": "ArtisticDog",
+    "firstSeen": 1603282289984,
+    "lastSeen": 1603282353663
+  }
+}
