@@ -1,0 +1,62 @@
+{
+  "kid000@lichess": {
+    "id": "kid000",
+    "provider": "lichess",
+    "username": "kid000",
+    "firstSeen": 1603276490781,
+    "lastSeen": 1603287684226,
+    "firstSeenTime": "10:34:50 AM",
+    "lastSeenTime": "1:32:28 PM",
+    "onlineDurationMins": 177.62235
+  },
+  "chess_omar_2009@lichess": {
+    "id": "chess_omar_2009",
+    "provider": "lichess",
+    "username": "Chess_omar_2009",
+    "firstSeen": 1603284642173,
+    "lastSeen": 1603287716776,
+    "firstSeenTime": "12:50:42 PM",
+    "lastSeenTime": "1:31:27 PM",
+    "onlineDurationMins": 40.75703333333333
+  },
+  "chess_king2000@lichess": {
+    "id": "chess_king2000",
+    "provider": "lichess",
+    "username": "Chess_king2000",
+    "firstSeen": 1603284822693,
+    "lastSeen": 1603287277116,
+    "firstSeenTime": "12:53:42 PM",
+    "lastSeenTime": "1:32:38 PM",
+    "onlineDurationMins": 38.92328333333333
+  },
+  "supersosobot@lichess": {
+    "id": "supersosobot",
+    "provider": "lichess",
+    "username": "SuperSosoBot",
+    "firstSeen": 1603285072163,
+    "lastSeen": 1603287114480,
+    "firstSeenTime": "12:57:52 PM",
+    "lastSeenTime": "1:31:54 PM",
+    "onlineDurationMins": 34.03861666666667
+  },
+  "nobody11892@lichess": {
+    "id": "nobody11892",
+    "provider": "lichess",
+    "username": "Nobody11892",
+    "firstSeen": 1603285631536,
+    "lastSeen": 1603287678374,
+    "firstSeenTime": "1:07:11 PM",
+    "lastSeenTime": "1:32:14 PM",
+    "onlineDurationMins": 25.0567
+  },
+  "thelegendaryknight@lichess": {
+    "id": "thelegendaryknight",
+    "provider": "lichess",
+    "username": "TheLegendaryKnight",
+    "firstSeen": 1603286436065,
+    "lastSeen": 1603287098278,
+    "firstSeenTime": "1:20:36 PM",
+    "lastSeenTime": "1:31:38 PM",
+    "onlineDurationMins": 11.036883333333334
+  }
+}
