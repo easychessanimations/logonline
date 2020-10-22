@@ -1,0 +1,44 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1603384112962,
+    "lastSeen": 1603386276039
+  },
+  "fatmoon@lichess": {
+    "id": "fatmoon",
+    "provider": "lichess",
+    "username": "FatMoon",
+    "firstSeen": 1603384181094,
+    "lastSeen": 1603386400491
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1603385384541,
+    "lastSeen": 1603386050222
+  },
+  "gsgsgsgsgs@lichess": {
+    "id": "gsgsgsgsgs",
+    "provider": "lichess",
+    "username": "GSGSGSGSGS",
+    "firstSeen": 1603385867223,
+    "lastSeen": 1603385878205
+  },
+  "pawn_power2006@lichess": {
+    "id": "pawn_power2006",
+    "provider": "lichess",
+    "username": "PAWN_POWER2006",
+    "firstSeen": 1603386145870,
+    "lastSeen": 1603386504574
+  },
+  "varianttourneysbot@lichess": {
+    "id": "varianttourneysbot",
+    "provider": "lichess",
+    "username": "VariantTourneysBot",
+    "firstSeen": 1603386509791,
+    "lastSeen": 1603386509791
+  }
+}
