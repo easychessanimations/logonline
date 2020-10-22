@@ -1,0 +1,33 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1603304655480,
+    "lastSeen": 1603333164828,
+    "firstSeenTime": "6:24:15 PM",
+    "lastSeenTime": "7:18:27 PM",
+    "onlineDurationMins": 54.192616666666666
+  },
+  "nobody11892@lichess": {
+    "id": "nobody11892",
+    "provider": "lichess",
+    "username": "Nobody11892",
+    "firstSeen": 1603309954435,
+    "lastSeen": 1603332807973
+  },
+  "isaacwb_bot@lichess": {
+    "id": "isaacwb_bot",
+    "provider": "lichess",
+    "username": "Isaacwb_BOT",
+    "firstSeen": 1603323761140,
+    "lastSeen": 1603332764191
+  },
+  "french_winawer@lichess": {
+    "id": "french_winawer",
+    "provider": "lichess",
+    "username": "French_Winawer",
+    "firstSeen": 1603333184335,
+    "lastSeen": 1603333184335
+  }
+}
