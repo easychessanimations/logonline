@@ -1,0 +1,44 @@
+{
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1603364654045,
+    "lastSeen": 1603367769075
+  },
+  "kid000@lichess": {
+    "id": "kid000",
+    "provider": "lichess",
+    "username": "kid000",
+    "firstSeen": 1603365348662,
+    "lastSeen": 1603367757750
+  },
+  "manwithavan-001@lichess": {
+    "id": "manwithavan-001",
+    "provider": "lichess",
+    "username": "manwithavan-001",
+    "firstSeen": 1603366214155,
+    "lastSeen": 1603368370255
+  },
+  "shoma254@lichess": {
+    "id": "shoma254",
+    "provider": "lichess",
+    "username": "Shoma254",
+    "firstSeen": 1603367234642,
+    "lastSeen": 1603368559825
+  },
+  "chess_omar_2009@lichess": {
+    "id": "chess_omar_2009",
+    "provider": "lichess",
+    "username": "Chess_omar_2009",
+    "firstSeen": 1603367800755,
+    "lastSeen": 1603368419326
+  },
+  "varianttourneysbot@lichess": {
+    "id": "varianttourneysbot",
+    "provider": "lichess",
+    "username": "VariantTourneysBot",
+    "firstSeen": 1603368081904,
+    "lastSeen": 1603368468385
+  }
+}
