@@ -1,0 +1,44 @@
+{
+  "puntoaligato@lichess": {
+    "id": "puntoaligato",
+    "provider": "lichess",
+    "username": "Puntoaligato",
+    "firstSeen": 1603384032706,
+    "lastSeen": 1603385596293
+  },
+  "skinoski@lichess": {
+    "id": "skinoski",
+    "provider": "lichess",
+    "username": "skinoski",
+    "firstSeen": 1603384074807,
+    "lastSeen": 1603385579494
+  },
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1603384112962,
+    "lastSeen": 1603385622338
+  },
+  "fatmoon@lichess": {
+    "id": "fatmoon",
+    "provider": "lichess",
+    "username": "FatMoon",
+    "firstSeen": 1603384181094,
+    "lastSeen": 1603385563757
+  },
+  "golden_swod@lichess": {
+    "id": "golden_swod",
+    "provider": "lichess",
+    "username": "Golden_Swod",
+    "firstSeen": 1603384779614,
+    "lastSeen": 1603384867114
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1603385384541,
+    "lastSeen": 1603385476116
+  }
+}
