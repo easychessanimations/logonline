@@ -1,0 +1,58 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1603384112962,
+    "lastSeen": 1603390122395
+  },
+  "fatmoon@lichess": {
+    "id": "fatmoon",
+    "provider": "lichess",
+    "username": "FatMoon",
+    "firstSeen": 1603384181094,
+    "lastSeen": 1603389946829
+  },
+  "varianttourneysbot@lichess": {
+    "id": "varianttourneysbot",
+    "provider": "lichess",
+    "username": "VariantTourneysBot",
+    "firstSeen": 1603386509791,
+    "lastSeen": 1603390051534
+  },
+  "skinoski@lichess": {
+    "id": "skinoski",
+    "provider": "lichess",
+    "username": "skinoski",
+    "firstSeen": 1603386898489,
+    "lastSeen": 1603389595588
+  },
+  "csud_bot@lichess": {
+    "id": "csud_bot",
+    "provider": "lichess",
+    "username": "CsuD_Bot",
+    "firstSeen": 1603388423923,
+    "lastSeen": 1603389926042
+  },
+  "shoma254@lichess": {
+    "id": "shoma254",
+    "provider": "lichess",
+    "username": "Shoma254",
+    "firstSeen": 1603388523183,
+    "lastSeen": 1603390027290
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1603389295940,
+    "lastSeen": 1603389961282
+  },
+  "puntoaligato@lichess": {
+    "id": "puntoaligato",
+    "provider": "lichess",
+    "username": "Puntoaligato",
+    "firstSeen": 1603389317524,
+    "lastSeen": 1603390087912
+  }
+}
