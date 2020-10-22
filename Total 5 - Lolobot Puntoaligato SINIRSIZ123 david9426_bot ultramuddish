@@ -1,0 +1,40 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1603384112962,
+    "lastSeen": 1603399941401,
+    "firstSeenTime": "4:28:32 PM",
+    "lastSeenTime": "6:19:33 PM",
+    "onlineDurationMins": 111.00591666666666
+  },
+  "puntoaligato@lichess": {
+    "id": "puntoaligato",
+    "provider": "lichess",
+    "username": "Puntoaligato",
+    "firstSeen": 1603398214054,
+    "lastSeen": 1603399737469
+  },
+  "sinirsiz123@lichess": {
+    "id": "sinirsiz123",
+    "provider": "lichess",
+    "username": "SINIRSIZ123",
+    "firstSeen": 1603398465318,
+    "lastSeen": 1603399787277
+  },
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1603398748153,
+    "lastSeen": 1603399430466
+  },
+  "ultramuddish@lichess": {
+    "id": "ultramuddish",
+    "provider": "lichess",
+    "username": "ultramuddish",
+    "firstSeen": 1603399372798,
+    "lastSeen": 1603399382510
+  }
+}
