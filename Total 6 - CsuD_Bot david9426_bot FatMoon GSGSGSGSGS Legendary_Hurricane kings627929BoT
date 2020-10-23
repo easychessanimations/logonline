@@ -1,0 +1,44 @@
+{
+  "csud_bot@lichess": {
+    "id": "csud_bot",
+    "provider": "lichess",
+    "username": "CsuD_Bot",
+    "firstSeen": 1603469578057,
+    "lastSeen": 1603472276611
+  },
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1603469943811,
+    "lastSeen": 1603472651083
+  },
+  "fatmoon@lichess": {
+    "id": "fatmoon",
+    "provider": "lichess",
+    "username": "FatMoon",
+    "firstSeen": 1603470563224,
+    "lastSeen": 1603472583065
+  },
+  "gsgsgsgsgs@lichess": {
+    "id": "gsgsgsgsgs",
+    "provider": "lichess",
+    "username": "GSGSGSGSGS",
+    "firstSeen": 1603472408844,
+    "lastSeen": 1603472416620
+  },
+  "legendary_hurricane@lichess": {
+    "id": "legendary_hurricane",
+    "provider": "lichess",
+    "username": "Legendary_Hurricane",
+    "firstSeen": 1603472506817,
+    "lastSeen": 1603472839493
+  },
+  "kings627929bot@lichess": {
+    "id": "kings627929bot",
+    "provider": "lichess",
+    "username": "kings627929BoT",
+    "firstSeen": 1603472841524,
+    "lastSeen": 1603472841525
+  }
+}
