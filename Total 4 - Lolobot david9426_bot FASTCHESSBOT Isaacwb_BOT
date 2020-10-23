@@ -1,0 +1,33 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1603384112962,
+    "lastSeen": 1603415626653,
+    "firstSeenTime": "4:28:32 PM",
+    "lastSeenTime": "6:19:33 PM",
+    "onlineDurationMins": 111.00591666666666
+  },
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1603412381680,
+    "lastSeen": 1603415250759
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1603414512765,
+    "lastSeen": 1603415608902
+  },
+  "isaacwb_bot@lichess": {
+    "id": "isaacwb_bot",
+    "provider": "lichess",
+    "username": "Isaacwb_BOT",
+    "firstSeen": 1603415793698,
+    "lastSeen": 1603415793698
+  }
+}
