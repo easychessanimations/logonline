@@ -1,0 +1,19 @@
+{
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1603414512765,
+    "lastSeen": 1603417818883,
+    "firstSeenTime": "12:55:12 AM",
+    "lastSeenTime": "1:20:15 AM",
+    "onlineDurationMins": 25.045983333333332
+  },
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1603416865986,
+    "lastSeen": 1603418621973
+  }
+}
