@@ -1,0 +1,46 @@
+{
+  "fatmoon@lichess": {
+    "id": "fatmoon",
+    "provider": "lichess",
+    "username": "FatMoon",
+    "firstSeen": 1603448031971,
+    "lastSeen": 1603461457599,
+    "firstSeenTime": "10:13:51 AM",
+    "lastSeenTime": "1:25:38 PM",
+    "onlineDurationMins": 191.77483333333333
+  },
+  "csud_bot@lichess": {
+    "id": "csud_bot",
+    "provider": "lichess",
+    "username": "CsuD_Bot",
+    "firstSeen": 1603452925401,
+    "lastSeen": 1603461479810,
+    "firstSeenTime": "11:35:25 AM",
+    "lastSeenTime": "1:23:56 PM",
+    "onlineDurationMins": 108.51933333333334
+  },
+  "pawn_power2006@lichess": {
+    "id": "pawn_power2006",
+    "provider": "lichess",
+    "username": "PAWN_POWER2006",
+    "firstSeen": 1603459824192,
+    "lastSeen": 1603461335177,
+    "firstSeenTime": "1:30:24 PM",
+    "lastSeenTime": "1:30:42 PM",
+    "onlineDurationMins": 0.31256666666666666
+  },
+  "frozenrook@lichess": {
+    "id": "frozenrook",
+    "provider": "lichess",
+    "username": "FrozenRook",
+    "firstSeen": 1603460664207,
+    "lastSeen": 1603461084940
+  },
+  "nived123456@lichess": {
+    "id": "nived123456",
+    "provider": "lichess",
+    "username": "Nived123456",
+    "firstSeen": 1603461514212,
+    "lastSeen": 1603461514212
+  }
+}
