@@ -1,0 +1,43 @@
+{
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1603412381680,
+    "lastSeen": 1603417175064,
+    "firstSeenTime": "12:19:41 AM",
+    "lastSeenTime": "1:17:31 AM",
+    "onlineDurationMins": 57.8285
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1603414512765,
+    "lastSeen": 1603417515612,
+    "firstSeenTime": "12:55:12 AM",
+    "lastSeenTime": "1:20:15 AM",
+    "onlineDurationMins": 25.045983333333332
+  },
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1603416865986,
+    "lastSeen": 1603417774921
+  },
+  "csud_bot@lichess": {
+    "id": "csud_bot",
+    "provider": "lichess",
+    "username": "CsuD_Bot",
+    "firstSeen": 1603417595148,
+    "lastSeen": 1603417607944
+  },
+  "elizabethcristina@lichess": {
+    "id": "elizabethcristina",
+    "provider": "lichess",
+    "username": "ElizabethCristina",
+    "firstSeen": 1603417778535,
+    "lastSeen": 1603417778535
+  }
+}
