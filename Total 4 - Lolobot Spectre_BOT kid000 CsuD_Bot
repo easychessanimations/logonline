@@ -1,0 +1,30 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1603416865986,
+    "lastSeen": 1603420908496
+  },
+  "spectre_bot@lichess": {
+    "id": "spectre_bot",
+    "provider": "lichess",
+    "username": "Spectre_BOT",
+    "firstSeen": 1603420643303,
+    "lastSeen": 1603420689768
+  },
+  "kid000@lichess": {
+    "id": "kid000",
+    "provider": "lichess",
+    "username": "kid000",
+    "firstSeen": 1603420696206,
+    "lastSeen": 1603420718824
+  },
+  "csud_bot@lichess": {
+    "id": "csud_bot",
+    "provider": "lichess",
+    "username": "CsuD_Bot",
+    "firstSeen": 1603420987051,
+    "lastSeen": 1603420987051
+  }
+}
