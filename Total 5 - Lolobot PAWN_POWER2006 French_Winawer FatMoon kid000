@@ -1,0 +1,40 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1603490741230,
+    "lastSeen": 1603519224323,
+    "firstSeenTime": "10:05:41 PM",
+    "lastSeenTime": "5:02:29 AM",
+    "onlineDurationMins": 416.80701666666664
+  },
+  "pawn_power2006@lichess": {
+    "id": "pawn_power2006",
+    "provider": "lichess",
+    "username": "PAWN_POWER2006",
+    "firstSeen": 1603516260921,
+    "lastSeen": 1603518690651
+  },
+  "french_winawer@lichess": {
+    "id": "french_winawer",
+    "provider": "lichess",
+    "username": "French_Winawer",
+    "firstSeen": 1603516989099,
+    "lastSeen": 1603519019713
+  },
+  "fatmoon@lichess": {
+    "id": "fatmoon",
+    "provider": "lichess",
+    "username": "FatMoon",
+    "firstSeen": 1603518544796,
+    "lastSeen": 1603519211526
+  },
+  "kid000@lichess": {
+    "id": "kid000",
+    "provider": "lichess",
+    "username": "kid000",
+    "firstSeen": 1603519283360,
+    "lastSeen": 1603519283360
+  }
+}
