@@ -1,0 +1,26 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1603490741230,
+    "lastSeen": 1603516408786,
+    "firstSeenTime": "10:05:41 PM",
+    "lastSeenTime": "5:02:29 AM",
+    "onlineDurationMins": 416.80701666666664
+  },
+  "pawn_power2006@lichess": {
+    "id": "pawn_power2006",
+    "provider": "lichess",
+    "username": "PAWN_POWER2006",
+    "firstSeen": 1603516260921,
+    "lastSeen": 1603516474994
+  },
+  "assasino_legend@lichess": {
+    "id": "assasino_legend",
+    "provider": "lichess",
+    "username": "Assasino_Legend",
+    "firstSeen": 1603516778615,
+    "lastSeen": 1603516778615
+  }
+}
