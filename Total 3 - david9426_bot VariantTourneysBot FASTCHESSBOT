@@ -1,0 +1,23 @@
+{
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1603569625517,
+    "lastSeen": 1603574249654
+  },
+  "varianttourneysbot@lichess": {
+    "id": "varianttourneysbot",
+    "provider": "lichess",
+    "username": "VariantTourneysBot",
+    "firstSeen": 1603574681151,
+    "lastSeen": 1603574681151
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1603574687495,
+    "lastSeen": 1603574687495
+  }
+}
