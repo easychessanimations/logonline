@@ -1,0 +1,19 @@
+{
+  "fatmoon@lichess": {
+    "id": "fatmoon",
+    "provider": "lichess",
+    "username": "FatMoon",
+    "firstSeen": 1603567816701,
+    "lastSeen": 1603568665360,
+    "firstSeenTime": "7:30:16 PM",
+    "lastSeenTime": "7:42:50 PM",
+    "onlineDurationMins": 12.568783333333334
+  },
+  "i7_stockfish@lichess": {
+    "id": "i7_stockfish",
+    "provider": "lichess",
+    "username": "i7_Stockfish",
+    "firstSeen": 1603568765137,
+    "lastSeen": 1603568765137
+  }
+}
