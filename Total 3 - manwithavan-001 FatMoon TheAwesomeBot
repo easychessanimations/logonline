@@ -1,0 +1,29 @@
+{
+  "manwithavan-001@lichess": {
+    "id": "manwithavan-001",
+    "provider": "lichess",
+    "username": "manwithavan-001",
+    "firstSeen": 1603715262752,
+    "lastSeen": 1603723770755,
+    "firstSeenTime": "12:27:42 PM",
+    "lastSeenTime": "1:41:20 PM",
+    "onlineDurationMins": 73.63373333333334
+  },
+  "fatmoon@lichess": {
+    "id": "fatmoon",
+    "provider": "lichess",
+    "username": "FatMoon",
+    "firstSeen": 1603718667344,
+    "lastSeen": 1603723935016,
+    "firstSeenTime": "1:24:27 PM",
+    "lastSeenTime": "1:47:00 PM",
+    "onlineDurationMins": 22.545466666666666
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1603723949198,
+    "lastSeen": 1603723949198
+  }
+}
