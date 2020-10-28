@@ -1,0 +1,32 @@
+{
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1603900826327,
+    "lastSeen": 1603902809308,
+    "firstSeenTime": "4:00:26 PM",
+    "lastSeenTime": "4:11:32 PM",
+    "onlineDurationMins": 11.109533333333333
+  },
+  "chessrobot623tech@lichess": {
+    "id": "chessrobot623tech",
+    "provider": "lichess",
+    "username": "ChessRobot623Tech",
+    "firstSeen": 1603901699616,
+    "lastSeen": 1603903145892,
+    "firstSeenTime": "4:14:59 PM",
+    "lastSeenTime": "4:15:09 PM",
+    "onlineDurationMins": 0.16676666666666667
+  },
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1603901735252,
+    "lastSeen": 1603902663543,
+    "firstSeenTime": "4:15:35 PM",
+    "lastSeenTime": "4:17:25 PM",
+    "onlineDurationMins": 1.8297166666666667
+  }
+}
