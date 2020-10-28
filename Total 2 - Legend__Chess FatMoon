@@ -1,0 +1,19 @@
+{
+  "legend__chess@lichess": {
+    "id": "legend__chess",
+    "provider": "lichess",
+    "username": "Legend__Chess",
+    "firstSeen": 1603867601484,
+    "lastSeen": 1603869998832,
+    "firstSeenTime": "6:46:41 AM",
+    "lastSeenTime": "7:11:13 AM",
+    "onlineDurationMins": 24.539033333333332
+  },
+  "fatmoon@lichess": {
+    "id": "fatmoon",
+    "provider": "lichess",
+    "username": "FatMoon",
+    "firstSeen": 1603870132039,
+    "lastSeen": 1603870132039
+  }
+}
