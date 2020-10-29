@@ -1,0 +1,33 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1603946370578,
+    "lastSeen": 1603951346383,
+    "firstSeenTime": "4:39:30 AM",
+    "lastSeenTime": "5:35:00 AM",
+    "onlineDurationMins": 55.504666666666665
+  },
+  "vaibhavbot1@lichess": {
+    "id": "vaibhavbot1",
+    "provider": "lichess",
+    "username": "Vaibhavbot1",
+    "firstSeen": 1603949987001,
+    "lastSeen": 1603951358438
+  },
+  "kid000@lichess": {
+    "id": "kid000",
+    "provider": "lichess",
+    "username": "kid000",
+    "firstSeen": 1603950226725,
+    "lastSeen": 1603951383472
+  },
+  "shoma254@lichess": {
+    "id": "shoma254",
+    "provider": "lichess",
+    "username": "Shoma254",
+    "firstSeen": 1603951387071,
+    "lastSeen": 1603951387071
+  }
+}
