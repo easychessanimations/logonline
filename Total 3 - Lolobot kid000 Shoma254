@@ -3,21 +3,24 @@
     "id": "lolobot",
     "provider": "lichess",
     "username": "Lolobot",
-    "firstSeen": 1603416865986,
-    "lastSeen": 1603426907292
+    "firstSeen": 1603946370578,
+    "lastSeen": 1603952701306,
+    "firstSeenTime": "4:39:30 AM",
+    "lastSeenTime": "5:35:00 AM",
+    "onlineDurationMins": 55.504666666666665
   },
   "kid000@lichess": {
     "id": "kid000",
     "provider": "lichess",
     "username": "kid000",
-    "firstSeen": 1603426032855,
-    "lastSeen": 1603427088133
+    "firstSeen": 1603950226725,
+    "lastSeen": 1603952163149
   },
   "shoma254@lichess": {
     "id": "shoma254",
     "provider": "lichess",
     "username": "Shoma254",
-    "firstSeen": 1603427298291,
-    "lastSeen": 1603427298292
+    "firstSeen": 1603951387071,
+    "lastSeen": 1603952115256
   }
 }
