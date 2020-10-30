@@ -1,0 +1,29 @@
+{
+  "grandmasterbot85@lichess": {
+    "id": "grandmasterbot85",
+    "provider": "lichess",
+    "username": "grandmasterBOT85",
+    "firstSeen": 1604061430833,
+    "lastSeen": 1604061599283,
+    "firstSeenTime": "12:37:10 PM",
+    "lastSeenTime": "12:39:59 PM",
+    "onlineDurationMins": 2.8075
+  },
+  "fatmoon@lichess": {
+    "id": "fatmoon",
+    "provider": "lichess",
+    "username": "FatMoon",
+    "firstSeen": 1604061654137,
+    "lastSeen": 1604062314272,
+    "firstSeenTime": "12:40:54 PM",
+    "lastSeenTime": "12:45:54 PM",
+    "onlineDurationMins": 5.000883333333333
+  },
+  "ahmet-botahmet@lichess": {
+    "id": "ahmet-botahmet",
+    "provider": "lichess",
+    "username": "ahmet-botahmet",
+    "firstSeen": 1604062420430,
+    "lastSeen": 1604062420430
+  }
+}
