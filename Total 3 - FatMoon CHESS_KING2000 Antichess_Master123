@@ -1,0 +1,32 @@
+{
+  "fatmoon@lichess": {
+    "id": "fatmoon",
+    "provider": "lichess",
+    "username": "FatMoon",
+    "firstSeen": 1604241044810,
+    "lastSeen": 1604243268186,
+    "firstSeenTime": "2:30:44 PM",
+    "lastSeenTime": "2:56:46 PM",
+    "onlineDurationMins": 26.033766666666665
+  },
+  "chess_king2000@lichess": {
+    "id": "chess_king2000",
+    "provider": "lichess",
+    "username": "CHESS_KING2000",
+    "firstSeen": 1604241864861,
+    "lastSeen": 1604243538878,
+    "firstSeenTime": "2:44:24 PM",
+    "lastSeenTime": "2:58:21 PM",
+    "onlineDurationMins": 13.9494
+  },
+  "antichess_master123@lichess": {
+    "id": "antichess_master123",
+    "provider": "lichess",
+    "username": "Antichess_Master123",
+    "firstSeen": 1604242204437,
+    "lastSeen": 1604243708674,
+    "firstSeenTime": "2:50:04 PM",
+    "lastSeenTime": "3:01:12 PM",
+    "onlineDurationMins": 11.136683333333334
+  }
+}
