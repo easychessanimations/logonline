@@ -1,0 +1,22 @@
+{
+  "goodbot@lichess": {
+    "id": "goodbot",
+    "provider": "lichess",
+    "username": "goodbot",
+    "firstSeen": 1604319143710,
+    "lastSeen": 1604320103121,
+    "firstSeenTime": "12:12:23 PM",
+    "lastSeenTime": "12:28:23 PM",
+    "onlineDurationMins": 15.990183333333333
+  },
+  "k9k9k9k9k9k9@lichess": {
+    "id": "k9k9k9k9k9k9",
+    "provider": "lichess",
+    "username": "K9K9K9K9K9K9",
+    "firstSeen": 1604319885423,
+    "lastSeen": 1604320134059,
+    "firstSeenTime": "12:24:45 PM",
+    "lastSeenTime": "12:28:54 PM",
+    "onlineDurationMins": 4.143933333333333
+  }
+}
