@@ -1,0 +1,23 @@
+{
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1604320704550,
+    "lastSeen": 1604323477428
+  },
+  "prathamshetty_bot@lichess": {
+    "id": "prathamshetty_bot",
+    "provider": "lichess",
+    "username": "Prathamshetty_BOT",
+    "firstSeen": 1604323182769,
+    "lastSeen": 1604323538011
+  },
+  "champion_robot@lichess": {
+    "id": "champion_robot",
+    "provider": "lichess",
+    "username": "Champion_Robot",
+    "firstSeen": 1604323553310,
+    "lastSeen": 1604323553310
+  }
+}
