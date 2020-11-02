@@ -1,0 +1,26 @@
+{
+  "donurista@lichess": {
+    "id": "donurista",
+    "provider": "lichess",
+    "username": "Donurista",
+    "firstSeen": 1604328072058,
+    "lastSeen": 1604328798835,
+    "firstSeenTime": "2:41:12 PM",
+    "lastSeenTime": "2:41:21 PM",
+    "onlineDurationMins": 0.15471666666666667
+  },
+  "chess_king2000@lichess": {
+    "id": "chess_king2000",
+    "provider": "lichess",
+    "username": "CHESS_KING2000",
+    "firstSeen": 1604328462291,
+    "lastSeen": 1604328466936
+  },
+  "iridiumbot@lichess": {
+    "id": "iridiumbot",
+    "provider": "lichess",
+    "username": "IridiumBot",
+    "firstSeen": 1604328871332,
+    "lastSeen": 1604328883284
+  }
+}
