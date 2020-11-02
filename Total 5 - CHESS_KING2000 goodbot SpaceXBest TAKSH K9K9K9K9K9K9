@@ -1,0 +1,40 @@
+{
+  "chess_king2000@lichess": {
+    "id": "chess_king2000",
+    "provider": "lichess",
+    "username": "CHESS_KING2000",
+    "firstSeen": 1604316674323,
+    "lastSeen": 1604319789356,
+    "firstSeenTime": "11:31:14 AM",
+    "lastSeenTime": "11:46:24 AM",
+    "onlineDurationMins": 15.173366666666666
+  },
+  "goodbot@lichess": {
+    "id": "goodbot",
+    "provider": "lichess",
+    "username": "goodbot",
+    "firstSeen": 1604319143710,
+    "lastSeen": 1604320103121
+  },
+  "spacexbest@lichess": {
+    "id": "spacexbest",
+    "provider": "lichess",
+    "username": "SpaceXBest",
+    "firstSeen": 1604319534404,
+    "lastSeen": 1604319599183
+  },
+  "taksh@lichess": {
+    "id": "taksh",
+    "provider": "lichess",
+    "username": "TAKSH",
+    "firstSeen": 1604319708945,
+    "lastSeen": 1604319793368
+  },
+  "k9k9k9k9k9k9@lichess": {
+    "id": "k9k9k9k9k9k9",
+    "provider": "lichess",
+    "username": "K9K9K9K9K9K9",
+    "firstSeen": 1604319885423,
+    "lastSeen": 1604320134059
+  }
+}
