@@ -1,0 +1,49 @@
+{
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1604422780649,
+    "lastSeen": 1604430284390,
+    "firstSeenTime": "4:59:40 PM",
+    "lastSeenTime": "7:04:44 PM",
+    "onlineDurationMins": 125.06235
+  },
+  "lucasalas@lichess": {
+    "id": "lucasalas",
+    "provider": "lichess",
+    "username": "LucaSalas",
+    "firstSeen": 1604429852685,
+    "lastSeen": 1604430031660,
+    "firstSeenTime": "6:57:32 PM",
+    "lastSeenTime": "7:00:31 PM",
+    "onlineDurationMins": 2.9829166666666667
+  },
+  "ramizsikici@lichess": {
+    "id": "ramizsikici",
+    "provider": "lichess",
+    "username": "ramizsikici",
+    "firstSeen": 1604430062518,
+    "lastSeen": 1604430525730,
+    "firstSeenTime": "7:01:02 PM",
+    "lastSeenTime": "7:06:28 PM",
+    "onlineDurationMins": 5.4394
+  },
+  "varianttourneysbot@lichess": {
+    "id": "varianttourneysbot",
+    "provider": "lichess",
+    "username": "VariantTourneysBot",
+    "firstSeen": 1604430116286,
+    "lastSeen": 1604430116286,
+    "firstSeenTime": "7:01:56 PM",
+    "lastSeenTime": "7:01:56 PM",
+    "onlineDurationMins": 0
+  },
+  "ramizsiikici@lichess": {
+    "id": "ramizsiikici",
+    "provider": "lichess",
+    "username": "ramizsiikici",
+    "firstSeen": 1604430696104,
+    "lastSeen": 1604430696104
+  }
+}
