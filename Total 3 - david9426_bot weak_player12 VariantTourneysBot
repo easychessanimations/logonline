@@ -1,0 +1,32 @@
+{
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1604431244376,
+    "lastSeen": 1604434327358,
+    "firstSeenTime": "7:20:44 PM",
+    "lastSeenTime": "7:54:50 PM",
+    "onlineDurationMins": 34.10908333333333
+  },
+  "weak_player12@lichess": {
+    "id": "weak_player12",
+    "provider": "lichess",
+    "username": "weak_player12",
+    "firstSeen": 1604433401711,
+    "lastSeen": 1604433436592,
+    "firstSeenTime": "7:56:41 PM",
+    "lastSeenTime": "7:57:16 PM",
+    "onlineDurationMins": 0.58135
+  },
+  "varianttourneysbot@lichess": {
+    "id": "varianttourneysbot",
+    "provider": "lichess",
+    "username": "VariantTourneysBot",
+    "firstSeen": 1604433800941,
+    "lastSeen": 1604433800941,
+    "firstSeenTime": "8:03:20 PM",
+    "lastSeenTime": "8:03:20 PM",
+    "onlineDurationMins": 0
+  }
+}
