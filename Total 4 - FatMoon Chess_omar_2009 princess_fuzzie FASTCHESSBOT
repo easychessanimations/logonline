@@ -1,0 +1,39 @@
+{
+  "fatmoon@lichess": {
+    "id": "fatmoon",
+    "provider": "lichess",
+    "username": "FatMoon",
+    "firstSeen": 1604404946683,
+    "lastSeen": 1604408558462,
+    "firstSeenTime": "12:02:26 PM",
+    "lastSeenTime": "1:02:38 PM",
+    "onlineDurationMins": 60.19631666666667
+  },
+  "chess_omar_2009@lichess": {
+    "id": "chess_omar_2009",
+    "provider": "lichess",
+    "username": "Chess_omar_2009",
+    "firstSeen": 1604406401292,
+    "lastSeen": 1604408568411,
+    "firstSeenTime": "12:26:41 PM",
+    "lastSeenTime": "1:02:48 PM",
+    "onlineDurationMins": 36.11865
+  },
+  "princess_fuzzie@lichess": {
+    "id": "princess_fuzzie",
+    "provider": "lichess",
+    "username": "princess_fuzzie",
+    "firstSeen": 1604408586260,
+    "lastSeen": 1604408712082,
+    "firstSeenTime": "1:03:06 PM",
+    "lastSeenTime": "1:05:12 PM",
+    "onlineDurationMins": 2.0970333333333335
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1604409339850,
+    "lastSeen": 1604409339850
+  }
+}
