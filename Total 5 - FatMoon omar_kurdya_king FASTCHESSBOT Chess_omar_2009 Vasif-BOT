@@ -1,0 +1,46 @@
+{
+  "fatmoon@lichess": {
+    "id": "fatmoon",
+    "provider": "lichess",
+    "username": "FatMoon",
+    "firstSeen": 1604404946683,
+    "lastSeen": 1604406458414,
+    "firstSeenTime": "12:02:26 PM",
+    "lastSeenTime": "12:13:42 PM",
+    "onlineDurationMins": 11.259083333333333
+  },
+  "omar_kurdya_king@lichess": {
+    "id": "omar_kurdya_king",
+    "provider": "lichess",
+    "username": "omar_kurdya_king",
+    "firstSeen": 1604405108304,
+    "lastSeen": 1604406399948,
+    "firstSeenTime": "12:05:08 PM",
+    "lastSeenTime": "12:16:14 PM",
+    "onlineDurationMins": 11.099233333333334
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1604405652559,
+    "lastSeen": 1604406405213,
+    "firstSeenTime": "12:14:12 PM",
+    "lastSeenTime": "12:19:07 PM",
+    "onlineDurationMins": 4.90745
+  },
+  "chess_omar_2009@lichess": {
+    "id": "chess_omar_2009",
+    "provider": "lichess",
+    "username": "Chess_omar_2009",
+    "firstSeen": 1604406401292,
+    "lastSeen": 1604406418110
+  },
+  "vasif-bot@lichess": {
+    "id": "vasif-bot",
+    "provider": "lichess",
+    "username": "Vasif-BOT",
+    "firstSeen": 1604406402079,
+    "lastSeen": 1604406533210
+  }
+}
