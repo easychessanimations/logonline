@@ -1,0 +1,29 @@
+{
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1604431244376,
+    "lastSeen": 1604436467875,
+    "firstSeenTime": "7:20:44 PM",
+    "lastSeenTime": "8:23:51 PM",
+    "onlineDurationMins": 63.12173333333333
+  },
+  "fatmoon@lichess": {
+    "id": "fatmoon",
+    "provider": "lichess",
+    "username": "FatMoon",
+    "firstSeen": 1604435104189,
+    "lastSeen": 1604436604769,
+    "firstSeenTime": "8:25:04 PM",
+    "lastSeenTime": "8:25:07 PM",
+    "onlineDurationMins": 0.05305
+  },
+  "varianttourneysbot@lichess": {
+    "id": "varianttourneysbot",
+    "provider": "lichess",
+    "username": "VariantTourneysBot",
+    "firstSeen": 1604436621971,
+    "lastSeen": 1604436621971
+  }
+}
