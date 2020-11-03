@@ -1,0 +1,30 @@
+{
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1604409339850,
+    "lastSeen": 1604411985229
+  },
+  "prathamshetty_bot@lichess": {
+    "id": "prathamshetty_bot",
+    "provider": "lichess",
+    "username": "Prathamshetty_BOT",
+    "firstSeen": 1604409673058,
+    "lastSeen": 1604412773382
+  },
+  "mrbaen@lichess": {
+    "id": "mrbaen",
+    "provider": "lichess",
+    "username": "MrBaen",
+    "firstSeen": 1604412295812,
+    "lastSeen": 1604412770958
+  },
+  "ahmedtasin06@lichess": {
+    "id": "ahmedtasin06",
+    "provider": "lichess",
+    "username": "AhmedTasin06",
+    "firstSeen": 1604412765459,
+    "lastSeen": 1604412776432
+  }
+}
