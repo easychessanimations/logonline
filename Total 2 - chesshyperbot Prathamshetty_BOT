@@ -1,0 +1,22 @@
+{
+  "chesshyperbot@lichess": {
+    "id": "chesshyperbot",
+    "provider": "lichess",
+    "username": "chesshyperbot",
+    "firstSeen": 1604388032792,
+    "lastSeen": 1604388714323,
+    "firstSeenTime": "7:20:32 AM",
+    "lastSeenTime": "7:31:54 AM",
+    "onlineDurationMins": 11.35885
+  },
+  "prathamshetty_bot@lichess": {
+    "id": "prathamshetty_bot",
+    "provider": "lichess",
+    "username": "Prathamshetty_BOT",
+    "firstSeen": 1604388303309,
+    "lastSeen": 1604389137247,
+    "firstSeenTime": "7:25:03 AM",
+    "lastSeenTime": "7:38:57 AM",
+    "onlineDurationMins": 13.898966666666666
+  }
+}
