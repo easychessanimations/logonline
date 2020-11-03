@@ -1,0 +1,69 @@
+{
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1604422780649,
+    "lastSeen": 1604426084458,
+    "firstSeenTime": "4:59:40 PM",
+    "lastSeenTime": "5:54:44 PM",
+    "onlineDurationMins": 55.06348333333333
+  },
+  "chessweb20@lichess": {
+    "id": "chessweb20",
+    "provider": "lichess",
+    "username": "ChessWeb20",
+    "firstSeen": 1604424742427,
+    "lastSeen": 1604426229520,
+    "firstSeenTime": "5:32:22 PM",
+    "lastSeenTime": "5:57:09 PM",
+    "onlineDurationMins": 24.784883333333333
+  },
+  "ramizsikici@lichess": {
+    "id": "ramizsikici",
+    "provider": "lichess",
+    "username": "ramizsikici",
+    "firstSeen": 1604425274118,
+    "lastSeen": 1604426201907,
+    "firstSeenTime": "5:41:14 PM",
+    "lastSeenTime": "5:56:41 PM",
+    "onlineDurationMins": 15.46315
+  },
+  "kaansungu@lichess": {
+    "id": "kaansungu",
+    "provider": "lichess",
+    "username": "KaanSungu",
+    "firstSeen": 1604426186086,
+    "lastSeen": 1604426204826,
+    "firstSeenTime": "5:56:26 PM",
+    "lastSeenTime": "5:56:44 PM",
+    "onlineDurationMins": 0.31233333333333335
+  },
+  "varianttourneysbot@lichess": {
+    "id": "varianttourneysbot",
+    "provider": "lichess",
+    "username": "VariantTourneysBot",
+    "firstSeen": 1604426198174,
+    "lastSeen": 1604426198174,
+    "firstSeenTime": "5:56:38 PM",
+    "lastSeenTime": "5:56:38 PM",
+    "onlineDurationMins": 0
+  },
+  "kaansungu_bot@lichess": {
+    "id": "kaansungu_bot",
+    "provider": "lichess",
+    "username": "KaanSungu_BOT",
+    "firstSeen": 1604426205961,
+    "lastSeen": 1604426217875,
+    "firstSeenTime": "5:56:45 PM",
+    "lastSeenTime": "5:56:57 PM",
+    "onlineDurationMins": 0.19856666666666667
+  },
+  "cinderbot@lichess": {
+    "id": "cinderbot",
+    "provider": "lichess",
+    "username": "cinderbot",
+    "firstSeen": 1604426551087,
+    "lastSeen": 1604426551087
+  }
+}
