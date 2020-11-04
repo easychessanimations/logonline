@@ -1,0 +1,29 @@
+{
+  "chessweb20@lichess": {
+    "id": "chessweb20",
+    "provider": "lichess",
+    "username": "ChessWeb20",
+    "firstSeen": 1604469240917,
+    "lastSeen": 1604479806240,
+    "firstSeenTime": "5:54:00 AM",
+    "lastSeenTime": "8:28:06 AM",
+    "onlineDurationMins": 154.08751666666666
+  },
+  "chess_king2000@lichess": {
+    "id": "chess_king2000",
+    "provider": "lichess",
+    "username": "CHESS_KING2000",
+    "firstSeen": 1604477373080,
+    "lastSeen": 1604479821031,
+    "firstSeenTime": "8:09:33 AM",
+    "lastSeenTime": "8:25:55 AM",
+    "onlineDurationMins": 16.37545
+  },
+  "chess_omar_2009@lichess": {
+    "id": "chess_omar_2009",
+    "provider": "lichess",
+    "username": "Chess_omar_2009",
+    "firstSeen": 1604480248969,
+    "lastSeen": 1604480248969
+  }
+}
