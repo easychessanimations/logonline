@@ -1,0 +1,39 @@
+{
+  "weak_player12@lichess": {
+    "id": "weak_player12",
+    "provider": "lichess",
+    "username": "weak_player12",
+    "firstSeen": 1604502446478,
+    "lastSeen": 1604507105052,
+    "firstSeenTime": "3:07:26 PM",
+    "lastSeenTime": "4:18:08 PM",
+    "onlineDurationMins": 70.70458333333333
+  },
+  "pdfbotu@lichess": {
+    "id": "pdfbotu",
+    "provider": "lichess",
+    "username": "pdfbotu",
+    "firstSeen": 1604503464651,
+    "lastSeen": 1604506943093,
+    "firstSeenTime": "3:24:24 PM",
+    "lastSeenTime": "4:22:23 PM",
+    "onlineDurationMins": 57.97403333333333
+  },
+  "krishna1312@lichess": {
+    "id": "krishna1312",
+    "provider": "lichess",
+    "username": "krishna1312",
+    "firstSeen": 1604505781284,
+    "lastSeen": 1604507329235,
+    "firstSeenTime": "4:03:01 PM",
+    "lastSeenTime": "4:14:25 PM",
+    "onlineDurationMins": 11.411783333333334
+  },
+  "mr84aminibot@lichess": {
+    "id": "mr84aminibot",
+    "provider": "lichess",
+    "username": "mr84aminibot",
+    "firstSeen": 1604507032056,
+    "lastSeen": 1604507089667
+  }
+}
