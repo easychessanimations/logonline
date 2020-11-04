@@ -1,0 +1,60 @@
+{
+  "chess_king2000@lichess": {
+    "id": "chess_king2000",
+    "provider": "lichess",
+    "username": "CHESS_KING2000",
+    "firstSeen": 1604477373080,
+    "lastSeen": 1604485018159,
+    "firstSeenTime": "8:09:33 AM",
+    "lastSeenTime": "10:03:25 AM",
+    "onlineDurationMins": 113.88138333333333
+  },
+  "krishna1312@lichess": {
+    "id": "krishna1312",
+    "provider": "lichess",
+    "username": "krishna1312",
+    "firstSeen": 1604482744036,
+    "lastSeen": 1604485443699,
+    "firstSeenTime": "9:39:04 AM",
+    "lastSeenTime": "9:55:05 AM",
+    "onlineDurationMins": 16.030783333333332
+  },
+  "spideychess0108@lichess": {
+    "id": "spideychess0108",
+    "provider": "lichess",
+    "username": "spideychess0108",
+    "firstSeen": 1604484157844,
+    "lastSeen": 1604485231710,
+    "firstSeenTime": "10:02:37 AM",
+    "lastSeenTime": "10:05:33 AM",
+    "onlineDurationMins": 2.92765
+  },
+  "noobbot1302@lichess": {
+    "id": "noobbot1302",
+    "provider": "lichess",
+    "username": "NoobBot1302",
+    "firstSeen": 1604485052166,
+    "lastSeen": 1604485382260
+  },
+  "lil-nrufide@lichess": {
+    "id": "lil-nrufide",
+    "provider": "lichess",
+    "username": "Lil-Nrufide",
+    "firstSeen": 1604485394890,
+    "lastSeen": 1604485434775
+  },
+  "siddhu007@lichess": {
+    "id": "siddhu007",
+    "provider": "lichess",
+    "username": "SiDDhu007",
+    "firstSeen": 1604485402447,
+    "lastSeen": 1604485479333
+  },
+  "bot_pro_gamer@lichess": {
+    "id": "bot_pro_gamer",
+    "provider": "lichess",
+    "username": "BOT_PRO_GAMER",
+    "firstSeen": 1604485479486,
+    "lastSeen": 1604485479486
+  }
+}
