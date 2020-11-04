@@ -1,0 +1,33 @@
+{
+  "krishna1312@lichess": {
+    "id": "krishna1312",
+    "provider": "lichess",
+    "username": "krishna1312",
+    "firstSeen": 1604492329447,
+    "lastSeen": 1604495338913,
+    "firstSeenTime": "12:18:49 PM",
+    "lastSeenTime": "12:19:13 PM",
+    "onlineDurationMins": 0.39915
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1604492901503,
+    "lastSeen": 1604495028517
+  },
+  "firedragonbot@lichess": {
+    "id": "firedragonbot",
+    "provider": "lichess",
+    "username": "FireDragonBOT",
+    "firstSeen": 1604493170101,
+    "lastSeen": 1604494754213
+  },
+  "terminator_darkfate@lichess": {
+    "id": "terminator_darkfate",
+    "provider": "lichess",
+    "username": "Terminator_DarkFate",
+    "firstSeen": 1604494469338,
+    "lastSeen": 1604495212206
+  }
+}
