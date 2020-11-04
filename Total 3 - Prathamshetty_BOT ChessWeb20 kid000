@@ -1,0 +1,29 @@
+{
+  "prathamshetty_bot@lichess": {
+    "id": "prathamshetty_bot",
+    "provider": "lichess",
+    "username": "Prathamshetty_BOT",
+    "firstSeen": 1604469148272,
+    "lastSeen": 1604471916835,
+    "firstSeenTime": "5:52:28 AM",
+    "lastSeenTime": "6:17:33 AM",
+    "onlineDurationMins": 25.07895
+  },
+  "chessweb20@lichess": {
+    "id": "chessweb20",
+    "provider": "lichess",
+    "username": "ChessWeb20",
+    "firstSeen": 1604469240917,
+    "lastSeen": 1604472015264,
+    "firstSeenTime": "5:54:00 AM",
+    "lastSeenTime": "6:16:06 AM",
+    "onlineDurationMins": 22.086366666666667
+  },
+  "kid000@lichess": {
+    "id": "kid000",
+    "provider": "lichess",
+    "username": "kid000",
+    "firstSeen": 1604472067277,
+    "lastSeen": 1604472067277
+  }
+}
