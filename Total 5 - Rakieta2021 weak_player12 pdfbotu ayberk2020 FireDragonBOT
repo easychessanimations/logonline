@@ -1,0 +1,49 @@
+{
+  "rakieta2021@lichess": {
+    "id": "rakieta2021",
+    "provider": "lichess",
+    "username": "Rakieta2021",
+    "firstSeen": 1604502297257,
+    "lastSeen": 1604504961874,
+    "firstSeenTime": "3:04:57 PM",
+    "lastSeenTime": "3:38:15 PM",
+    "onlineDurationMins": 33.30566666666667
+  },
+  "weak_player12@lichess": {
+    "id": "weak_player12",
+    "provider": "lichess",
+    "username": "weak_player12",
+    "firstSeen": 1604502446478,
+    "lastSeen": 1604505176053,
+    "firstSeenTime": "3:07:26 PM",
+    "lastSeenTime": "3:35:04 PM",
+    "onlineDurationMins": 27.64025
+  },
+  "pdfbotu@lichess": {
+    "id": "pdfbotu",
+    "provider": "lichess",
+    "username": "pdfbotu",
+    "firstSeen": 1604503464651,
+    "lastSeen": 1604505131968,
+    "firstSeenTime": "3:24:24 PM",
+    "lastSeenTime": "3:40:54 PM",
+    "onlineDurationMins": 16.495216666666668
+  },
+  "ayberk2020@lichess": {
+    "id": "ayberk2020",
+    "provider": "lichess",
+    "username": "ayberk2020",
+    "firstSeen": 1604504151067,
+    "lastSeen": 1604505175843,
+    "firstSeenTime": "3:35:51 PM",
+    "lastSeenTime": "3:36:07 PM",
+    "onlineDurationMins": 0.2753833333333333
+  },
+  "firedragonbot@lichess": {
+    "id": "firedragonbot",
+    "provider": "lichess",
+    "username": "FireDragonBOT",
+    "firstSeen": 1604505255587,
+    "lastSeen": 1604505255588
+  }
+}
