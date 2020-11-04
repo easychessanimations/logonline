@@ -1,0 +1,43 @@
+{
+  "rakieta2021@lichess": {
+    "id": "rakieta2021",
+    "provider": "lichess",
+    "username": "Rakieta2021",
+    "firstSeen": 1604502297257,
+    "lastSeen": 1604503024678,
+    "firstSeenTime": "3:04:57 PM",
+    "lastSeenTime": "3:05:10 PM",
+    "onlineDurationMins": 0.2289
+  },
+  "weak_player12@lichess": {
+    "id": "weak_player12",
+    "provider": "lichess",
+    "username": "weak_player12",
+    "firstSeen": 1604502446478,
+    "lastSeen": 1604503267295,
+    "firstSeenTime": "3:07:26 PM",
+    "lastSeenTime": "3:10:22 PM",
+    "onlineDurationMins": 2.9359166666666665
+  },
+  "firedragonbot@lichess": {
+    "id": "firedragonbot",
+    "provider": "lichess",
+    "username": "FireDragonBOT",
+    "firstSeen": 1604503228680,
+    "lastSeen": 1604503237518
+  },
+  "berat_6687@lichess": {
+    "id": "berat_6687",
+    "provider": "lichess",
+    "username": "berat_6687",
+    "firstSeen": 1604503238911,
+    "lastSeen": 1604503463595
+  },
+  "pdfbotu@lichess": {
+    "id": "pdfbotu",
+    "provider": "lichess",
+    "username": "pdfbotu",
+    "firstSeen": 1604503464651,
+    "lastSeen": 1604503464651
+  }
+}
