@@ -1,0 +1,26 @@
+{
+  "chess_king2000@lichess": {
+    "id": "chess_king2000",
+    "provider": "lichess",
+    "username": "CHESS_KING2000",
+    "firstSeen": 1604500009400,
+    "lastSeen": 1604501695249,
+    "firstSeenTime": "2:26:49 PM",
+    "lastSeenTime": "2:38:00 PM",
+    "onlineDurationMins": 11.18295
+  },
+  "swapneel@lichess": {
+    "id": "swapneel",
+    "provider": "lichess",
+    "username": "Swapneel",
+    "firstSeen": 1604501661512,
+    "lastSeen": 1604501689379
+  },
+  "ayberk2020@lichess": {
+    "id": "ayberk2020",
+    "provider": "lichess",
+    "username": "ayberk2020",
+    "firstSeen": 1604502292187,
+    "lastSeen": 1604502292187
+  }
+}
