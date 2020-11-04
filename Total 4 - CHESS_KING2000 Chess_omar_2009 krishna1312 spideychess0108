@@ -1,0 +1,39 @@
+{
+  "chess_king2000@lichess": {
+    "id": "chess_king2000",
+    "provider": "lichess",
+    "username": "CHESS_KING2000",
+    "firstSeen": 1604477373080,
+    "lastSeen": 1604483802737,
+    "firstSeenTime": "8:09:33 AM",
+    "lastSeenTime": "9:56:42 AM",
+    "onlineDurationMins": 107.16095
+  },
+  "chess_omar_2009@lichess": {
+    "id": "chess_omar_2009",
+    "provider": "lichess",
+    "username": "Chess_omar_2009",
+    "firstSeen": 1604480248969,
+    "lastSeen": 1604483804525,
+    "firstSeenTime": "8:57:28 AM",
+    "lastSeenTime": "9:56:44 AM",
+    "onlineDurationMins": 59.25926666666667
+  },
+  "krishna1312@lichess": {
+    "id": "krishna1312",
+    "provider": "lichess",
+    "username": "krishna1312",
+    "firstSeen": 1604482744036,
+    "lastSeen": 1604483705883,
+    "firstSeenTime": "9:39:04 AM",
+    "lastSeenTime": "9:55:05 AM",
+    "onlineDurationMins": 16.030783333333332
+  },
+  "spideychess0108@lichess": {
+    "id": "spideychess0108",
+    "provider": "lichess",
+    "username": "spideychess0108",
+    "firstSeen": 1604484157844,
+    "lastSeen": 1604484157845
+  }
+}
