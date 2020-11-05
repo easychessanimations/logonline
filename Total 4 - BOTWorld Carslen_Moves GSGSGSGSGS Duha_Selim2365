@@ -1,0 +1,36 @@
+{
+  "botworld@lichess": {
+    "id": "botworld",
+    "provider": "lichess",
+    "username": "BOTWorld",
+    "firstSeen": 1604560096563,
+    "lastSeen": 1604571085094,
+    "firstSeenTime": "7:08:16 AM",
+    "lastSeenTime": "9:43:25 AM",
+    "onlineDurationMins": 155.14281666666668
+  },
+  "carslen_moves@lichess": {
+    "id": "carslen_moves",
+    "provider": "lichess",
+    "username": "Carslen_Moves",
+    "firstSeen": 1604569735735,
+    "lastSeen": 1604570672151,
+    "firstSeenTime": "9:48:55 AM",
+    "lastSeenTime": "9:49:01 AM",
+    "onlineDurationMins": 0.09696666666666667
+  },
+  "gsgsgsgsgs@lichess": {
+    "id": "gsgsgsgsgs",
+    "provider": "lichess",
+    "username": "GSGSGSGSGS",
+    "firstSeen": 1604571121740,
+    "lastSeen": 1604571125122
+  },
+  "duha_selim2365@lichess": {
+    "id": "duha_selim2365",
+    "provider": "lichess",
+    "username": "Duha_Selim2365",
+    "firstSeen": 1604571239504,
+    "lastSeen": 1604571239504
+  }
+}
