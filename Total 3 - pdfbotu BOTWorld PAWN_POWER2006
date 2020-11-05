@@ -1,0 +1,29 @@
+{
+  "pdfbotu@lichess": {
+    "id": "pdfbotu",
+    "provider": "lichess",
+    "username": "pdfbotu",
+    "firstSeen": 1604573524231,
+    "lastSeen": 1604576173282,
+    "firstSeenTime": "10:52:04 AM",
+    "lastSeenTime": "11:36:13 AM",
+    "onlineDurationMins": 44.15085
+  },
+  "botworld@lichess": {
+    "id": "botworld",
+    "provider": "lichess",
+    "username": "BOTWorld",
+    "firstSeen": 1604574845788,
+    "lastSeen": 1604576349968,
+    "firstSeenTime": "11:14:05 AM",
+    "lastSeenTime": "11:37:11 AM",
+    "onlineDurationMins": 23.1017
+  },
+  "pawn_power2006@lichess": {
+    "id": "pawn_power2006",
+    "provider": "lichess",
+    "username": "PAWN_POWER2006",
+    "firstSeen": 1604576426843,
+    "lastSeen": 1604576426843
+  }
+}
