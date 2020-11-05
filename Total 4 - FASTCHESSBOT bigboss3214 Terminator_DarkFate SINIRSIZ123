@@ -1,0 +1,33 @@
+{
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1604589876685,
+    "lastSeen": 1604591382720,
+    "firstSeenTime": "3:24:36 PM",
+    "lastSeenTime": "3:35:41 PM",
+    "onlineDurationMins": 11.0871
+  },
+  "bigboss3214@lichess": {
+    "id": "bigboss3214",
+    "provider": "lichess",
+    "username": "bigboss3214",
+    "firstSeen": 1604591163518,
+    "lastSeen": 1604591320715
+  },
+  "terminator_darkfate@lichess": {
+    "id": "terminator_darkfate",
+    "provider": "lichess",
+    "username": "Terminator_DarkFate",
+    "firstSeen": 1604591342079,
+    "lastSeen": 1604591481811
+  },
+  "sinirsiz123@lichess": {
+    "id": "sinirsiz123",
+    "provider": "lichess",
+    "username": "SINIRSIZ123",
+    "firstSeen": 1604591656010,
+    "lastSeen": 1604591656010
+  }
+}
