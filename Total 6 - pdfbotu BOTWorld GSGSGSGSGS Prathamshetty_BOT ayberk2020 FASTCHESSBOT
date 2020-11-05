@@ -1,0 +1,53 @@
+{
+  "pdfbotu@lichess": {
+    "id": "pdfbotu",
+    "provider": "lichess",
+    "username": "pdfbotu",
+    "firstSeen": 1604573524231,
+    "lastSeen": 1604577875304,
+    "firstSeenTime": "10:52:04 AM",
+    "lastSeenTime": "11:47:14 AM",
+    "onlineDurationMins": 55.16755
+  },
+  "botworld@lichess": {
+    "id": "botworld",
+    "provider": "lichess",
+    "username": "BOTWorld",
+    "firstSeen": 1604574845788,
+    "lastSeen": 1604577848458,
+    "firstSeenTime": "11:14:05 AM",
+    "lastSeenTime": "11:48:08 AM",
+    "onlineDurationMins": 34.04391666666667
+  },
+  "gsgsgsgsgs@lichess": {
+    "id": "gsgsgsgsgs",
+    "provider": "lichess",
+    "username": "GSGSGSGSGS",
+    "firstSeen": 1604576872439,
+    "lastSeen": 1604577536047,
+    "firstSeenTime": "11:47:52 AM",
+    "lastSeenTime": "11:48:00 AM",
+    "onlineDurationMins": 0.13651666666666668
+  },
+  "prathamshetty_bot@lichess": {
+    "id": "prathamshetty_bot",
+    "provider": "lichess",
+    "username": "Prathamshetty_BOT",
+    "firstSeen": 1604577288868,
+    "lastSeen": 1604577669485
+  },
+  "ayberk2020@lichess": {
+    "id": "ayberk2020",
+    "provider": "lichess",
+    "username": "ayberk2020",
+    "firstSeen": 1604577804590,
+    "lastSeen": 1604577818245
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1604577927942,
+    "lastSeen": 1604577927942
+  }
+}
