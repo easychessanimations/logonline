@@ -1,0 +1,39 @@
+{
+  "botworld@lichess": {
+    "id": "botworld",
+    "provider": "lichess",
+    "username": "BOTWorld",
+    "firstSeen": 1604594129357,
+    "lastSeen": 1604597436593,
+    "firstSeenTime": "4:35:29 PM",
+    "lastSeenTime": "5:19:36 PM",
+    "onlineDurationMins": 44.11826666666666
+  },
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1604595852524,
+    "lastSeen": 1604597418741,
+    "firstSeenTime": "5:04:12 PM",
+    "lastSeenTime": "5:19:19 PM",
+    "onlineDurationMins": 15.1082
+  },
+  "chessrobot623tech@lichess": {
+    "id": "chessrobot623tech",
+    "provider": "lichess",
+    "username": "ChessRobot623Tech",
+    "firstSeen": 1604596646933,
+    "lastSeen": 1604597317622,
+    "firstSeenTime": "5:17:26 PM",
+    "lastSeenTime": "5:17:36 PM",
+    "onlineDurationMins": 0.15546666666666667
+  },
+  "fatmoon@lichess": {
+    "id": "fatmoon",
+    "provider": "lichess",
+    "username": "FatMoon",
+    "firstSeen": 1604597870412,
+    "lastSeen": 1604597870412
+  }
+}
