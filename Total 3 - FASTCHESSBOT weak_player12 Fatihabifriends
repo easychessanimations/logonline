@@ -1,0 +1,32 @@
+{
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1604577927942,
+    "lastSeen": 1604581509988,
+    "firstSeenTime": "12:05:27 PM",
+    "lastSeenTime": "1:05:09 PM",
+    "onlineDurationMins": 59.70076666666667
+  },
+  "weak_player12@lichess": {
+    "id": "weak_player12",
+    "provider": "lichess",
+    "username": "weak_player12",
+    "firstSeen": 1604578588906,
+    "lastSeen": 1604581892432,
+    "firstSeenTime": "12:16:28 PM",
+    "lastSeenTime": "1:06:34 PM",
+    "onlineDurationMins": 50.08591666666667
+  },
+  "fatihabifriends@lichess": {
+    "id": "fatihabifriends",
+    "provider": "lichess",
+    "username": "Fatihabifriends",
+    "firstSeen": 1604581032717,
+    "lastSeen": 1604581932926,
+    "firstSeenTime": "12:57:12 PM",
+    "lastSeenTime": "1:09:32 PM",
+    "onlineDurationMins": 12.330816666666667
+  }
+}
