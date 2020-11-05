@@ -1,0 +1,22 @@
+{
+  "botworld@lichess": {
+    "id": "botworld",
+    "provider": "lichess",
+    "username": "BOTWorld",
+    "firstSeen": 1604560096563,
+    "lastSeen": 1604570500803,
+    "firstSeenTime": "7:08:16 AM",
+    "lastSeenTime": "9:43:25 AM",
+    "onlineDurationMins": 155.14281666666668
+  },
+  "carslen_moves@lichess": {
+    "id": "carslen_moves",
+    "provider": "lichess",
+    "username": "Carslen_Moves",
+    "firstSeen": 1604569735735,
+    "lastSeen": 1604570672151,
+    "firstSeenTime": "9:48:55 AM",
+    "lastSeenTime": "9:49:01 AM",
+    "onlineDurationMins": 0.09696666666666667
+  }
+}
