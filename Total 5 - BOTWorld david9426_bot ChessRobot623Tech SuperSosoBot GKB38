@@ -1,0 +1,46 @@
+{
+  "botworld@lichess": {
+    "id": "botworld",
+    "provider": "lichess",
+    "username": "BOTWorld",
+    "firstSeen": 1604594129357,
+    "lastSeen": 1604602053812,
+    "firstSeenTime": "4:35:29 PM",
+    "lastSeenTime": "5:19:36 PM",
+    "onlineDurationMins": 44.11826666666666
+  },
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1604595852524,
+    "lastSeen": 1604602035402,
+    "firstSeenTime": "5:04:12 PM",
+    "lastSeenTime": "5:19:19 PM",
+    "onlineDurationMins": 15.1082
+  },
+  "chessrobot623tech@lichess": {
+    "id": "chessrobot623tech",
+    "provider": "lichess",
+    "username": "ChessRobot623Tech",
+    "firstSeen": 1604596646933,
+    "lastSeen": 1604601457752,
+    "firstSeenTime": "5:17:26 PM",
+    "lastSeenTime": "5:17:36 PM",
+    "onlineDurationMins": 0.15546666666666667
+  },
+  "supersosobot@lichess": {
+    "id": "supersosobot",
+    "provider": "lichess",
+    "username": "SuperSosoBot",
+    "firstSeen": 1604602141436,
+    "lastSeen": 1604602144084
+  },
+  "gkb38@lichess": {
+    "id": "gkb38",
+    "provider": "lichess",
+    "username": "GKB38",
+    "firstSeen": 1604602145369,
+    "lastSeen": 1604602145369
+  }
+}
