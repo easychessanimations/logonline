@@ -1,0 +1,26 @@
+{
+  "pdfbotu@lichess": {
+    "id": "pdfbotu",
+    "provider": "lichess",
+    "username": "pdfbotu",
+    "firstSeen": 1604571625188,
+    "lastSeen": 1604572371631,
+    "firstSeenTime": "10:20:25 AM",
+    "lastSeenTime": "10:26:47 AM",
+    "onlineDurationMins": 6.369283333333334
+  },
+  "knightmarebeast@lichess": {
+    "id": "knightmarebeast",
+    "provider": "lichess",
+    "username": "KNIGHTMAREBEAST",
+    "firstSeen": 1604572355398,
+    "lastSeen": 1604573170860
+  },
+  "pranavbobby2008@lichess": {
+    "id": "pranavbobby2008",
+    "provider": "lichess",
+    "username": "PranavBobby2008",
+    "firstSeen": 1604573172143,
+    "lastSeen": 1604573255682
+  }
+}
