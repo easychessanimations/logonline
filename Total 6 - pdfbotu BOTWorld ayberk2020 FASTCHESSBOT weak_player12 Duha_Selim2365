@@ -1,0 +1,56 @@
+{
+  "pdfbotu@lichess": {
+    "id": "pdfbotu",
+    "provider": "lichess",
+    "username": "pdfbotu",
+    "firstSeen": 1604573524231,
+    "lastSeen": 1604579346879,
+    "firstSeenTime": "10:52:04 AM",
+    "lastSeenTime": "12:08:11 PM",
+    "onlineDurationMins": 76.12145
+  },
+  "botworld@lichess": {
+    "id": "botworld",
+    "provider": "lichess",
+    "username": "BOTWorld",
+    "firstSeen": 1604574845788,
+    "lastSeen": 1604578868385,
+    "firstSeenTime": "11:14:05 AM",
+    "lastSeenTime": "12:04:08 PM",
+    "onlineDurationMins": 50.0445
+  },
+  "ayberk2020@lichess": {
+    "id": "ayberk2020",
+    "provider": "lichess",
+    "username": "ayberk2020",
+    "firstSeen": 1604577804590,
+    "lastSeen": 1604579309591,
+    "firstSeenTime": "12:03:24 PM",
+    "lastSeenTime": "12:03:38 PM",
+    "onlineDurationMins": 0.22758333333333333
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1604577927942,
+    "lastSeen": 1604579322161,
+    "firstSeenTime": "12:05:27 PM",
+    "lastSeenTime": "12:05:37 PM",
+    "onlineDurationMins": 0.15356666666666666
+  },
+  "weak_player12@lichess": {
+    "id": "weak_player12",
+    "provider": "lichess",
+    "username": "weak_player12",
+    "firstSeen": 1604578588906,
+    "lastSeen": 1604579259519
+  },
+  "duha_selim2365@lichess": {
+    "id": "duha_selim2365",
+    "provider": "lichess",
+    "username": "Duha_Selim2365",
+    "firstSeen": 1604579347763,
+    "lastSeen": 1604579347763
+  }
+}
