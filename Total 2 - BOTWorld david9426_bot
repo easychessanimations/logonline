@@ -1,0 +1,19 @@
+{
+  "botworld@lichess": {
+    "id": "botworld",
+    "provider": "lichess",
+    "username": "BOTWorld",
+    "firstSeen": 1604594129357,
+    "lastSeen": 1604596164111,
+    "firstSeenTime": "4:35:29 PM",
+    "lastSeenTime": "4:46:36 PM",
+    "onlineDurationMins": 11.1117
+  },
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1604595852524,
+    "lastSeen": 1604595861884
+  }
+}
