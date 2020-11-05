@@ -1,0 +1,32 @@
+{
+  "botworld@lichess": {
+    "id": "botworld",
+    "provider": "lichess",
+    "username": "BOTWorld",
+    "firstSeen": 1604560096563,
+    "lastSeen": 1604571421081,
+    "firstSeenTime": "7:08:16 AM",
+    "lastSeenTime": "10:17:01 AM",
+    "onlineDurationMins": 188.74196666666666
+  },
+  "prathamshetty_bot@lichess": {
+    "id": "prathamshetty_bot",
+    "provider": "lichess",
+    "username": "Prathamshetty_BOT",
+    "firstSeen": 1604571394988,
+    "lastSeen": 1604571501685,
+    "firstSeenTime": "10:16:34 AM",
+    "lastSeenTime": "10:18:21 AM",
+    "onlineDurationMins": 1.7782833333333334
+  },
+  "pdfbotu@lichess": {
+    "id": "pdfbotu",
+    "provider": "lichess",
+    "username": "pdfbotu",
+    "firstSeen": 1604571625188,
+    "lastSeen": 1604572007345,
+    "firstSeenTime": "10:20:25 AM",
+    "lastSeenTime": "10:20:40 AM",
+    "onlineDurationMins": 0.2572333333333333
+  }
+}
