@@ -1,0 +1,29 @@
+{
+  "saiesh_ad@lichess": {
+    "id": "saiesh_ad",
+    "provider": "lichess",
+    "username": "saiesh_AD",
+    "firstSeen": 1604573309018,
+    "lastSeen": 1604573984430,
+    "firstSeenTime": "10:48:29 AM",
+    "lastSeenTime": "10:59:44 AM",
+    "onlineDurationMins": 11.256866666666667
+  },
+  "pdfbotu@lichess": {
+    "id": "pdfbotu",
+    "provider": "lichess",
+    "username": "pdfbotu",
+    "firstSeen": 1604573524231,
+    "lastSeen": 1604574196449,
+    "firstSeenTime": "10:52:04 AM",
+    "lastSeenTime": "11:03:16 AM",
+    "onlineDurationMins": 11.203633333333334
+  },
+  "chesshyperbot@lichess": {
+    "id": "chesshyperbot",
+    "provider": "lichess",
+    "username": "chesshyperbot",
+    "firstSeen": 1604574311742,
+    "lastSeen": 1604574311742
+  }
+}
