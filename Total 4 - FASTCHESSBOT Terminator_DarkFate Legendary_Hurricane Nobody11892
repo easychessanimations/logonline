@@ -1,0 +1,33 @@
+{
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1604589876685,
+    "lastSeen": 1604592878610,
+    "firstSeenTime": "3:24:36 PM",
+    "lastSeenTime": "3:35:41 PM",
+    "onlineDurationMins": 11.0871
+  },
+  "terminator_darkfate@lichess": {
+    "id": "terminator_darkfate",
+    "provider": "lichess",
+    "username": "Terminator_DarkFate",
+    "firstSeen": 1604591342079,
+    "lastSeen": 1604592730215
+  },
+  "legendary_hurricane@lichess": {
+    "id": "legendary_hurricane",
+    "provider": "lichess",
+    "username": "Legendary_Hurricane",
+    "firstSeen": 1604592746348,
+    "lastSeen": 1604592964984
+  },
+  "nobody11892@lichess": {
+    "id": "nobody11892",
+    "provider": "lichess",
+    "username": "Nobody11892",
+    "firstSeen": 1604592994749,
+    "lastSeen": 1604592994749
+  }
+}
