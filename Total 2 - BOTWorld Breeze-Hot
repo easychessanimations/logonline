@@ -1,0 +1,16 @@
+{
+  "botworld@lichess": {
+    "id": "botworld",
+    "provider": "lichess",
+    "username": "BOTWorld",
+    "firstSeen": 1604699257136,
+    "lastSeen": 1604701241116
+  },
+  "breeze-hot@lichess": {
+    "id": "breeze-hot",
+    "provider": "lichess",
+    "username": "Breeze-Hot",
+    "firstSeen": 1604701583957,
+    "lastSeen": 1604701583957
+  }
+}
