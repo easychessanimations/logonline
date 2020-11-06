@@ -1,0 +1,46 @@
+{
+  "weak_player12@lichess": {
+    "id": "weak_player12",
+    "provider": "lichess",
+    "username": "weak_player12",
+    "firstSeen": 1604667088518,
+    "lastSeen": 1604670901945,
+    "firstSeenTime": "12:51:28 PM",
+    "lastSeenTime": "1:40:05 PM",
+    "onlineDurationMins": 48.6087
+  },
+  "noobbot1302@lichess": {
+    "id": "noobbot1302",
+    "provider": "lichess",
+    "username": "NoobBot1302",
+    "firstSeen": 1604668605853,
+    "lastSeen": 1604671104493,
+    "firstSeenTime": "1:16:45 PM",
+    "lastSeenTime": "1:47:49 PM",
+    "onlineDurationMins": 31.058066666666665
+  },
+  "spideychess0108@lichess": {
+    "id": "spideychess0108",
+    "provider": "lichess",
+    "username": "spideychess0108",
+    "firstSeen": 1604669789130,
+    "lastSeen": 1604670839170,
+    "firstSeenTime": "1:36:29 PM",
+    "lastSeenTime": "1:43:12 PM",
+    "onlineDurationMins": 6.716366666666667
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1604670740077,
+    "lastSeen": 1604671289490
+  },
+  "gsgsgsgsgs@lichess": {
+    "id": "gsgsgsgsgs",
+    "provider": "lichess",
+    "username": "GSGSGSGSGS",
+    "firstSeen": 1604671000294,
+    "lastSeen": 1604671000689
+  }
+}
