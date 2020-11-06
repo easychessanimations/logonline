@@ -1,0 +1,36 @@
+{
+  "gsgsgsgsgs@lichess": {
+    "id": "gsgsgsgsgs",
+    "provider": "lichess",
+    "username": "GSGSGSGSGS",
+    "firstSeen": 1604674806205,
+    "lastSeen": 1604675532246,
+    "firstSeenTime": "3:00:06 PM",
+    "lastSeenTime": "3:00:39 PM",
+    "onlineDurationMins": 0.5545
+  },
+  "standardchessbot8055@lichess": {
+    "id": "standardchessbot8055",
+    "provider": "lichess",
+    "username": "StandardChessBot8055",
+    "firstSeen": 1604674870945,
+    "lastSeen": 1604674972461,
+    "firstSeenTime": "3:01:10 PM",
+    "lastSeenTime": "3:01:21 PM",
+    "onlineDurationMins": 0.1693
+  },
+  "fairychessgirl@lichess": {
+    "id": "fairychessgirl",
+    "provider": "lichess",
+    "username": "FairyChessGirl",
+    "firstSeen": 1604675060881,
+    "lastSeen": 1604675074481
+  },
+  "fatmoon@lichess": {
+    "id": "fatmoon",
+    "provider": "lichess",
+    "username": "FatMoon",
+    "firstSeen": 1604675356636,
+    "lastSeen": 1604675361402
+  }
+}
