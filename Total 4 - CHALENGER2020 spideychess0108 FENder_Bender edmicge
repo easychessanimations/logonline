@@ -1,0 +1,39 @@
+{
+  "chalenger2020@lichess": {
+    "id": "chalenger2020",
+    "provider": "lichess",
+    "username": "CHALENGER2020",
+    "firstSeen": 1604761272661,
+    "lastSeen": 1604770010472,
+    "firstSeenTime": "3:01:12 PM",
+    "lastSeenTime": "5:06:47 PM",
+    "onlineDurationMins": 125.57241666666667
+  },
+  "spideychess0108@lichess": {
+    "id": "spideychess0108",
+    "provider": "lichess",
+    "username": "spideychess0108",
+    "firstSeen": 1604762351699,
+    "lastSeen": 1604770023848,
+    "firstSeenTime": "3:19:11 PM",
+    "lastSeenTime": "5:06:00 PM",
+    "onlineDurationMins": 106.81076666666667
+  },
+  "fender_bender@lichess": {
+    "id": "fender_bender",
+    "provider": "lichess",
+    "username": "FENder_Bender",
+    "firstSeen": 1604762548641,
+    "lastSeen": 1604769989193,
+    "firstSeenTime": "3:22:28 PM",
+    "lastSeenTime": "5:05:28 PM",
+    "onlineDurationMins": 103.00401666666667
+  },
+  "edmicge@lichess": {
+    "id": "edmicge",
+    "provider": "lichess",
+    "username": "edmicge",
+    "firstSeen": 1604770066203,
+    "lastSeen": 1604770091326
+  }
+}
