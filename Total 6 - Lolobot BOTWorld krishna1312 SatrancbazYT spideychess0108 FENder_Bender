@@ -1,0 +1,59 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1604810785404,
+    "lastSeen": 1604832328959,
+    "firstSeenTime": "4:46:25 AM",
+    "lastSeenTime": "10:45:28 AM",
+    "onlineDurationMins": 359.05925
+  },
+  "botworld@lichess": {
+    "id": "botworld",
+    "provider": "lichess",
+    "username": "BOTWorld",
+    "firstSeen": 1604813031960,
+    "lastSeen": 1604832659305,
+    "firstSeenTime": "5:23:51 AM",
+    "lastSeenTime": "10:50:59 AM",
+    "onlineDurationMins": 327.12241666666665
+  },
+  "krishna1312@lichess": {
+    "id": "krishna1312",
+    "provider": "lichess",
+    "username": "krishna1312",
+    "firstSeen": 1604828963927,
+    "lastSeen": 1604832338289,
+    "firstSeenTime": "9:49:23 AM",
+    "lastSeenTime": "10:45:38 AM",
+    "onlineDurationMins": 56.23936666666667
+  },
+  "satrancbazyt@lichess": {
+    "id": "satrancbazyt",
+    "provider": "lichess",
+    "username": "SatrancbazYT",
+    "firstSeen": 1604831906783,
+    "lastSeen": 1604832836617,
+    "firstSeenTime": "10:38:26 AM",
+    "lastSeenTime": "10:52:47 AM",
+    "onlineDurationMins": 14.348216666666668
+  },
+  "spideychess0108@lichess": {
+    "id": "spideychess0108",
+    "provider": "lichess",
+    "username": "spideychess0108",
+    "firstSeen": 1604831989724,
+    "lastSeen": 1604832783631,
+    "firstSeenTime": "10:39:49 AM",
+    "lastSeenTime": "10:53:03 AM",
+    "onlineDurationMins": 13.231783333333333
+  },
+  "fender_bender@lichess": {
+    "id": "fender_bender",
+    "provider": "lichess",
+    "username": "FENder_Bender",
+    "firstSeen": 1604832959525,
+    "lastSeen": 1604832959525
+  }
+}
