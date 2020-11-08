@@ -1,0 +1,26 @@
+{
+  "spideychess0108@lichess": {
+    "id": "spideychess0108",
+    "provider": "lichess",
+    "username": "spideychess0108",
+    "firstSeen": 1604762351699,
+    "lastSeen": 1604804041021,
+    "firstSeenTime": "3:19:11 PM",
+    "lastSeenTime": "11:25:04 PM",
+    "onlineDurationMins": 485.87981666666667
+  },
+  "fender_bender@lichess": {
+    "id": "fender_bender",
+    "provider": "lichess",
+    "username": "FENder_Bender",
+    "firstSeen": 1604802932444,
+    "lastSeen": 1604803596490
+  },
+  "flightbot@lichess": {
+    "id": "flightbot",
+    "provider": "lichess",
+    "username": "FlightBot",
+    "firstSeen": 1604804191860,
+    "lastSeen": 1604804191860
+  }
+}
