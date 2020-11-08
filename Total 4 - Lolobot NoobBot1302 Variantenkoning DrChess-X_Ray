@@ -1,0 +1,42 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1604810785404,
+    "lastSeen": 1604843309279,
+    "firstSeenTime": "4:46:25 AM",
+    "lastSeenTime": "1:37:32 PM",
+    "onlineDurationMins": 531.1239333333333
+  },
+  "noobbot1302@lichess": {
+    "id": "noobbot1302",
+    "provider": "lichess",
+    "username": "NoobBot1302",
+    "firstSeen": 1604836391402,
+    "lastSeen": 1604843297332,
+    "firstSeenTime": "11:53:11 AM",
+    "lastSeenTime": "1:37:17 PM",
+    "onlineDurationMins": 104.10551666666667
+  },
+  "variantenkoning@lichess": {
+    "id": "variantenkoning",
+    "provider": "lichess",
+    "username": "Variantenkoning",
+    "firstSeen": 1604840116865,
+    "lastSeen": 1604843482187,
+    "firstSeenTime": "12:55:16 PM",
+    "lastSeenTime": "1:40:22 PM",
+    "onlineDurationMins": 45.089666666666666
+  },
+  "drchess-x_ray@lichess": {
+    "id": "drchess-x_ray",
+    "provider": "lichess",
+    "username": "DrChess-X_Ray",
+    "firstSeen": 1604842083705,
+    "lastSeen": 1604843533681,
+    "firstSeenTime": "1:28:03 PM",
+    "lastSeenTime": "1:41:40 PM",
+    "onlineDurationMins": 13.61505
+  }
+}
