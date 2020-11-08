@@ -1,0 +1,57 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1604810785404,
+    "lastSeen": 1604839952739,
+    "firstSeenTime": "4:46:25 AM",
+    "lastSeenTime": "11:32:32 AM",
+    "onlineDurationMins": 406.1198166666667
+  },
+  "spideychess0108@lichess": {
+    "id": "spideychess0108",
+    "provider": "lichess",
+    "username": "spideychess0108",
+    "firstSeen": 1604834889857,
+    "lastSeen": 1604839924865,
+    "firstSeenTime": "11:28:09 AM",
+    "lastSeenTime": "11:35:30 AM",
+    "onlineDurationMins": 7.34505
+  },
+  "noobbot1302@lichess": {
+    "id": "noobbot1302",
+    "provider": "lichess",
+    "username": "NoobBot1302",
+    "firstSeen": 1604836391402,
+    "lastSeen": 1604839934551
+  },
+  "gsgsgsgsgs@lichess": {
+    "id": "gsgsgsgsgs",
+    "provider": "lichess",
+    "username": "GSGSGSGSGS",
+    "firstSeen": 1604836942611,
+    "lastSeen": 1604839980909
+  },
+  "kesirlerde_siralama@lichess": {
+    "id": "kesirlerde_siralama",
+    "provider": "lichess",
+    "username": "Kesirlerde_Siralama",
+    "firstSeen": 1604840053063,
+    "lastSeen": 1604840133824
+  },
+  "variantenkoning@lichess": {
+    "id": "variantenkoning",
+    "provider": "lichess",
+    "username": "Variantenkoning",
+    "firstSeen": 1604840116865,
+    "lastSeen": 1604840126066
+  },
+  "hero_chess_king@lichess": {
+    "id": "hero_chess_king",
+    "provider": "lichess",
+    "username": "HERO_CHESS_KING",
+    "firstSeen": 1604840517468,
+    "lastSeen": 1604840546753
+  }
+}
