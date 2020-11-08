@@ -1,0 +1,39 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1604810785404,
+    "lastSeen": 1604848649455,
+    "firstSeenTime": "4:46:25 AM",
+    "lastSeenTime": "3:11:29 PM",
+    "onlineDurationMins": 625.0682666666667
+  },
+  "variantenkoning@lichess": {
+    "id": "variantenkoning",
+    "provider": "lichess",
+    "username": "Variantenkoning",
+    "firstSeen": 1604840116865,
+    "lastSeen": 1604848262707,
+    "firstSeenTime": "12:55:16 PM",
+    "lastSeenTime": "3:11:02 PM",
+    "onlineDurationMins": 135.76403333333334
+  },
+  "botworld@lichess": {
+    "id": "botworld",
+    "provider": "lichess",
+    "username": "BOTWorld",
+    "firstSeen": 1604847874823,
+    "lastSeen": 1604848720966,
+    "firstSeenTime": "3:04:34 PM",
+    "lastSeenTime": "3:15:06 PM",
+    "onlineDurationMins": 10.535383333333334
+  },
+  "aarsh123@lichess": {
+    "id": "aarsh123",
+    "provider": "lichess",
+    "username": "aarsh123",
+    "firstSeen": 1604848722530,
+    "lastSeen": 1604848754519
+  }
+}
