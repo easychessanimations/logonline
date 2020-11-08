@@ -1,0 +1,30 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1604810785404,
+    "lastSeen": 1604820148608
+  },
+  "botworld@lichess": {
+    "id": "botworld",
+    "provider": "lichess",
+    "username": "BOTWorld",
+    "firstSeen": 1604813031960,
+    "lastSeen": 1604819758972
+  },
+  "spideychess0108@lichess": {
+    "id": "spideychess0108",
+    "provider": "lichess",
+    "username": "spideychess0108",
+    "firstSeen": 1604819119083,
+    "lastSeen": 1604820148328
+  },
+  "dineshoman@lichess": {
+    "id": "dineshoman",
+    "provider": "lichess",
+    "username": "dineshoman",
+    "firstSeen": 1604820150884,
+    "lastSeen": 1604820150884
+  }
+}
