@@ -1,0 +1,32 @@
+{
+  "spideychess0108@lichess": {
+    "id": "spideychess0108",
+    "provider": "lichess",
+    "username": "spideychess0108",
+    "firstSeen": 1604919096529,
+    "lastSeen": 1604931956290,
+    "firstSeenTime": "10:51:36 AM",
+    "lastSeenTime": "2:25:56 PM",
+    "onlineDurationMins": 214.32935
+  },
+  "fender_bender@lichess": {
+    "id": "fender_bender",
+    "provider": "lichess",
+    "username": "FENder_Bender",
+    "firstSeen": 1604930106983,
+    "lastSeen": 1604932630617,
+    "firstSeenTime": "1:55:06 PM",
+    "lastSeenTime": "2:32:07 PM",
+    "onlineDurationMins": 37.00425
+  },
+  "chessismatter@lichess": {
+    "id": "chessismatter",
+    "provider": "lichess",
+    "username": "CheSSisMatter",
+    "firstSeen": 1604931169375,
+    "lastSeen": 1604932666295,
+    "firstSeenTime": "2:12:49 PM",
+    "lastSeenTime": "2:25:46 PM",
+    "onlineDurationMins": 12.94815
+  }
+}
