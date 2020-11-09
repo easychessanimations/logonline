@@ -1,0 +1,29 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1604883083404,
+    "lastSeen": 1604897316233,
+    "firstSeenTime": "12:51:23 AM",
+    "lastSeenTime": "4:42:08 AM",
+    "onlineDurationMins": 230.75163333333333
+  },
+  "spideychess0108@lichess": {
+    "id": "spideychess0108",
+    "provider": "lichess",
+    "username": "spideychess0108",
+    "firstSeen": 1604894169847,
+    "lastSeen": 1604896918536,
+    "firstSeenTime": "3:56:09 AM",
+    "lastSeenTime": "4:41:58 AM",
+    "onlineDurationMins": 45.811483333333335
+  },
+  "noobbot1302@lichess": {
+    "id": "noobbot1302",
+    "provider": "lichess",
+    "username": "NoobBot1302",
+    "firstSeen": 1604897415210,
+    "lastSeen": 1604897415210
+  }
+}
