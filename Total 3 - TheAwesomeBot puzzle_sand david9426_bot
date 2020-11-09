@@ -1,0 +1,29 @@
+{
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1604952649902,
+    "lastSeen": 1604962309469,
+    "firstSeenTime": "8:10:49 PM",
+    "lastSeenTime": "9:39:49 PM",
+    "onlineDurationMins": 88.99575
+  },
+  "puzzle_sand@lichess": {
+    "id": "puzzle_sand",
+    "provider": "lichess",
+    "username": "puzzle_sand",
+    "firstSeen": 1604958288509,
+    "lastSeen": 1604962488702,
+    "firstSeenTime": "9:44:48 PM",
+    "lastSeenTime": "9:46:51 PM",
+    "onlineDurationMins": 2.0513833333333333
+  },
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1604962516542,
+    "lastSeen": 1604962516542
+  }
+}
