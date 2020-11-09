@@ -1,0 +1,39 @@
+{
+  "fender_bender@lichess": {
+    "id": "fender_bender",
+    "provider": "lichess",
+    "username": "FENder_Bender",
+    "firstSeen": 1604941027099,
+    "lastSeen": 1604958671684,
+    "firstSeenTime": "4:57:07 PM",
+    "lastSeenTime": "9:40:11 PM",
+    "onlineDurationMins": 283.07981666666666
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1604952649902,
+    "lastSeen": 1604958652895,
+    "firstSeenTime": "8:10:49 PM",
+    "lastSeenTime": "9:39:49 PM",
+    "onlineDurationMins": 88.99575
+  },
+  "puzzle_sand@lichess": {
+    "id": "puzzle_sand",
+    "provider": "lichess",
+    "username": "puzzle_sand",
+    "firstSeen": 1604958288509,
+    "lastSeen": 1604959221372,
+    "firstSeenTime": "9:44:48 PM",
+    "lastSeenTime": "9:46:51 PM",
+    "onlineDurationMins": 2.0513833333333333
+  },
+  "varianttourneysbot@lichess": {
+    "id": "varianttourneysbot",
+    "provider": "lichess",
+    "username": "VariantTourneysBot",
+    "firstSeen": 1604959283300,
+    "lastSeen": 1604959283300
+  }
+}
