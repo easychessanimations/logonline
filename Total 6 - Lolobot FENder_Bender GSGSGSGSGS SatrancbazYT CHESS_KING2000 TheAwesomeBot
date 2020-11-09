@@ -1,0 +1,59 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1604940976175,
+    "lastSeen": 1604941700103,
+    "firstSeenTime": "4:56:16 PM",
+    "lastSeenTime": "5:08:20 PM",
+    "onlineDurationMins": 12.065466666666667
+  },
+  "fender_bender@lichess": {
+    "id": "fender_bender",
+    "provider": "lichess",
+    "username": "FENder_Bender",
+    "firstSeen": 1604941027099,
+    "lastSeen": 1604941691629,
+    "firstSeenTime": "4:57:07 PM",
+    "lastSeenTime": "5:08:11 PM",
+    "onlineDurationMins": 11.0755
+  },
+  "gsgsgsgsgs@lichess": {
+    "id": "gsgsgsgsgs",
+    "provider": "lichess",
+    "username": "GSGSGSGSGS",
+    "firstSeen": 1604941168868,
+    "lastSeen": 1604941828757,
+    "firstSeenTime": "4:59:28 PM",
+    "lastSeenTime": "5:10:28 PM",
+    "onlineDurationMins": 10.99815
+  },
+  "satrancbazyt@lichess": {
+    "id": "satrancbazyt",
+    "provider": "lichess",
+    "username": "SatrancbazYT",
+    "firstSeen": 1604941890804,
+    "lastSeen": 1604941902895,
+    "firstSeenTime": "5:11:30 PM",
+    "lastSeenTime": "5:11:42 PM",
+    "onlineDurationMins": 0.20151666666666668
+  },
+  "chess_king2000@lichess": {
+    "id": "chess_king2000",
+    "provider": "lichess",
+    "username": "CHESS_KING2000",
+    "firstSeen": 1604941975074,
+    "lastSeen": 1604942002442,
+    "firstSeenTime": "5:12:55 PM",
+    "lastSeenTime": "5:13:22 PM",
+    "onlineDurationMins": 0.45613333333333334
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1604942279916,
+    "lastSeen": 1604942279916
+  }
+}
