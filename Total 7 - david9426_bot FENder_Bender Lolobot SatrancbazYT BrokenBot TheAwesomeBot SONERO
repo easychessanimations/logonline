@@ -1,0 +1,60 @@
+{
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1605027772562,
+    "lastSeen": 1605037439531,
+    "firstSeenTime": "5:02:52 PM",
+    "lastSeenTime": "6:36:55 PM",
+    "onlineDurationMins": 94.05665
+  },
+  "fender_bender@lichess": {
+    "id": "fender_bender",
+    "provider": "lichess",
+    "username": "FENder_Bender",
+    "firstSeen": 1605028216079,
+    "lastSeen": 1605038056140,
+    "firstSeenTime": "5:10:16 PM",
+    "lastSeenTime": "6:36:20 PM",
+    "onlineDurationMins": 86.0658
+  },
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1605029497255,
+    "lastSeen": 1605037489631,
+    "firstSeenTime": "5:31:37 PM",
+    "lastSeenTime": "6:32:19 PM",
+    "onlineDurationMins": 60.709983333333334
+  },
+  "satrancbazyt@lichess": {
+    "id": "satrancbazyt",
+    "provider": "lichess",
+    "username": "SatrancbazYT",
+    "firstSeen": 1605035626619,
+    "lastSeen": 1605037673897
+  },
+  "brokenbot@lichess": {
+    "id": "brokenbot",
+    "provider": "lichess",
+    "username": "BrokenBot",
+    "firstSeen": 1605035879311,
+    "lastSeen": 1605038017232
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1605037756879,
+    "lastSeen": 1605037756879
+  },
+  "sonero@lichess": {
+    "id": "sonero",
+    "provider": "lichess",
+    "username": "SONERO",
+    "firstSeen": 1605037974353,
+    "lastSeen": 1605037991752
+  }
+}
