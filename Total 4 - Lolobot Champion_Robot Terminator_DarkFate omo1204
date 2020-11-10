@@ -1,0 +1,39 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1605003186367,
+    "lastSeen": 1605004509930,
+    "firstSeenTime": "10:13:06 AM",
+    "lastSeenTime": "10:13:09 AM",
+    "onlineDurationMins": 0.06043333333333333
+  },
+  "champion_robot@lichess": {
+    "id": "champion_robot",
+    "provider": "lichess",
+    "username": "Champion_Robot",
+    "firstSeen": 1605003386545,
+    "lastSeen": 1605003731155,
+    "firstSeenTime": "10:16:26 AM",
+    "lastSeenTime": "10:19:37 AM",
+    "onlineDurationMins": 3.1851
+  },
+  "terminator_darkfate@lichess": {
+    "id": "terminator_darkfate",
+    "provider": "lichess",
+    "username": "Terminator_DarkFate",
+    "firstSeen": 1605003532034,
+    "lastSeen": 1605003800438,
+    "firstSeenTime": "10:18:52 AM",
+    "lastSeenTime": "10:19:37 AM",
+    "onlineDurationMins": 0.7497666666666667
+  },
+  "omo1204@lichess": {
+    "id": "omo1204",
+    "provider": "lichess",
+    "username": "omo1204",
+    "firstSeen": 1605004551539,
+    "lastSeen": 1605004551539
+  }
+}
