@@ -1,0 +1,87 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1605003186367,
+    "lastSeen": 1605025447030,
+    "firstSeenTime": "10:13:06 AM",
+    "lastSeenTime": "4:10:10 PM",
+    "onlineDurationMins": 357.07161666666667
+  },
+  "fender_bender@lichess": {
+    "id": "fender_bender",
+    "provider": "lichess",
+    "username": "FENder_Bender",
+    "firstSeen": 1605018735381,
+    "lastSeen": 1605025456072,
+    "firstSeenTime": "2:32:15 PM",
+    "lastSeenTime": "4:12:19 PM",
+    "onlineDurationMins": 100.07358333333333
+  },
+  "chessismatter@lichess": {
+    "id": "chessismatter",
+    "provider": "lichess",
+    "username": "CheSSisMatter",
+    "firstSeen": 1605023398529,
+    "lastSeen": 1605024809039,
+    "firstSeenTime": "3:49:58 PM",
+    "lastSeenTime": "4:12:03 PM",
+    "onlineDurationMins": 22.087566666666667
+  },
+  "ziyatr1@lichess": {
+    "id": "ziyatr1",
+    "provider": "lichess",
+    "username": "ZiyaTR1",
+    "firstSeen": 1605023735599,
+    "lastSeen": 1605025459981,
+    "firstSeenTime": "3:55:35 PM",
+    "lastSeenTime": "4:10:26 PM",
+    "onlineDurationMins": 14.8426
+  },
+  "crazycrushingg@lichess": {
+    "id": "crazycrushingg",
+    "provider": "lichess",
+    "username": "CrazyCrushingG",
+    "firstSeen": 1605024642389,
+    "lastSeen": 1605025287724,
+    "firstSeenTime": "4:10:42 PM",
+    "lastSeenTime": "4:13:20 PM",
+    "onlineDurationMins": 2.629583333333333
+  },
+  "ilya4ir@lichess": {
+    "id": "ilya4ir",
+    "provider": "lichess",
+    "username": "Ilya4ir",
+    "firstSeen": 1605024913327,
+    "lastSeen": 1605025407706
+  },
+  "gsgsgsgsgs@lichess": {
+    "id": "gsgsgsgsgs",
+    "provider": "lichess",
+    "username": "GSGSGSGSGS",
+    "firstSeen": 1605025037589,
+    "lastSeen": 1605025047475
+  },
+  "terminator_darkfate@lichess": {
+    "id": "terminator_darkfate",
+    "provider": "lichess",
+    "username": "Terminator_DarkFate",
+    "firstSeen": 1605025078601,
+    "lastSeen": 1605025209980
+  },
+  "akaty@lichess": {
+    "id": "akaty",
+    "provider": "lichess",
+    "username": "Akaty",
+    "firstSeen": 1605025164850,
+    "lastSeen": 1605025305416
+  },
+  "fatmoon@lichess": {
+    "id": "fatmoon",
+    "provider": "lichess",
+    "username": "FatMoon",
+    "firstSeen": 1605025462227,
+    "lastSeen": 1605025462227
+  }
+}
