@@ -1,0 +1,66 @@
+{
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1605027772562,
+    "lastSeen": 1605030775771,
+    "firstSeenTime": "5:02:52 PM",
+    "lastSeenTime": "5:13:59 PM",
+    "onlineDurationMins": 11.11715
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1605027966090,
+    "lastSeen": 1605030729473,
+    "firstSeenTime": "5:06:06 PM",
+    "lastSeenTime": "5:18:09 PM",
+    "onlineDurationMins": 12.054233333333332
+  },
+  "gsgsgsgsgs@lichess": {
+    "id": "gsgsgsgsgs",
+    "provider": "lichess",
+    "username": "GSGSGSGSGS",
+    "firstSeen": 1605027979887,
+    "lastSeen": 1605030679867,
+    "firstSeenTime": "5:06:19 PM",
+    "lastSeenTime": "5:17:23 PM",
+    "onlineDurationMins": 11.055333333333333
+  },
+  "fender_bender@lichess": {
+    "id": "fender_bender",
+    "provider": "lichess",
+    "username": "FENder_Bender",
+    "firstSeen": 1605028216079,
+    "lastSeen": 1605030679671,
+    "firstSeenTime": "5:10:16 PM",
+    "lastSeenTime": "5:15:15 PM",
+    "onlineDurationMins": 4.998666666666667
+  },
+  "fatmoon@lichess": {
+    "id": "fatmoon",
+    "provider": "lichess",
+    "username": "FatMoon",
+    "firstSeen": 1605028225015,
+    "lastSeen": 1605030685138,
+    "firstSeenTime": "5:10:25 PM",
+    "lastSeenTime": "5:14:25 PM",
+    "onlineDurationMins": 4.00035
+  },
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1605029497255,
+    "lastSeen": 1605030738311
+  },
+  "chessismatter@lichess": {
+    "id": "chessismatter",
+    "provider": "lichess",
+    "username": "CheSSisMatter",
+    "firstSeen": 1605030874878,
+    "lastSeen": 1605030883726
+  }
+}
