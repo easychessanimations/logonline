@@ -4,13 +4,19 @@
     "provider": "lichess",
     "username": "Lolobot",
     "firstSeen": 1604982809087,
-    "lastSeen": 1604986994304
+    "lastSeen": 1604989870900,
+    "firstSeenTime": "4:33:29 AM",
+    "lastSeenTime": "6:05:14 AM",
+    "onlineDurationMins": 91.75926666666666
   },
   "fender_bender@lichess": {
     "id": "fender_bender",
     "provider": "lichess",
     "username": "FENder_Bender",
     "firstSeen": 1604987275811,
-    "lastSeen": 1604987275811
+    "lastSeen": 1604989615845,
+    "firstSeenTime": "5:47:55 AM",
+    "lastSeenTime": "6:01:55 AM",
+    "onlineDurationMins": 14.003116666666667
   }
 }
