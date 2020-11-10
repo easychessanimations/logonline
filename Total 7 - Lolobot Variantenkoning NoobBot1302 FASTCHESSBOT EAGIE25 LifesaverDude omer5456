@@ -1,0 +1,69 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1605003186367,
+    "lastSeen": 1605013570437,
+    "firstSeenTime": "10:13:06 AM",
+    "lastSeenTime": "1:00:06 PM",
+    "onlineDurationMins": 167.00545
+  },
+  "variantenkoning@lichess": {
+    "id": "variantenkoning",
+    "provider": "lichess",
+    "username": "Variantenkoning",
+    "firstSeen": 1605006091320,
+    "lastSeen": 1605012874401,
+    "firstSeenTime": "11:01:31 AM",
+    "lastSeenTime": "12:54:34 PM",
+    "onlineDurationMins": 113.05135
+  },
+  "noobbot1302@lichess": {
+    "id": "noobbot1302",
+    "provider": "lichess",
+    "username": "NoobBot1302",
+    "firstSeen": 1605012284223,
+    "lastSeen": 1605013576453,
+    "firstSeenTime": "12:44:44 PM",
+    "lastSeenTime": "12:59:50 PM",
+    "onlineDurationMins": 15.103466666666666
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1605012792407,
+    "lastSeen": 1605013175017,
+    "firstSeenTime": "12:53:12 PM",
+    "lastSeenTime": "12:59:35 PM",
+    "onlineDurationMins": 6.376833333333333
+  },
+  "eagie25@lichess": {
+    "id": "eagie25",
+    "provider": "lichess",
+    "username": "EAGIE25",
+    "firstSeen": 1605012894634,
+    "lastSeen": 1605012936242,
+    "firstSeenTime": "12:54:54 PM",
+    "lastSeenTime": "12:55:36 PM",
+    "onlineDurationMins": 0.6934666666666667
+  },
+  "lifesaverdude@lichess": {
+    "id": "lifesaverdude",
+    "provider": "lichess",
+    "username": "LifesaverDude",
+    "firstSeen": 1605013236222,
+    "lastSeen": 1605013680672,
+    "firstSeenTime": "1:00:36 PM",
+    "lastSeenTime": "1:01:33 PM",
+    "onlineDurationMins": 0.9473166666666667
+  },
+  "omer5456@lichess": {
+    "id": "omer5456",
+    "provider": "lichess",
+    "username": "omer5456",
+    "firstSeen": 1605013682715,
+    "lastSeen": 1605013682715
+  }
+}
