@@ -1,0 +1,59 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1605003186367,
+    "lastSeen": 1605024610664,
+    "firstSeenTime": "10:13:06 AM",
+    "lastSeenTime": "3:58:07 PM",
+    "onlineDurationMins": 345.0109
+  },
+  "fender_bender@lichess": {
+    "id": "fender_bender",
+    "provider": "lichess",
+    "username": "FENder_Bender",
+    "firstSeen": 1605018735381,
+    "lastSeen": 1605024079457,
+    "firstSeenTime": "2:32:15 PM",
+    "lastSeenTime": "4:00:15 PM",
+    "onlineDurationMins": 88.00818333333333
+  },
+  "puntoaligato@lichess": {
+    "id": "puntoaligato",
+    "provider": "lichess",
+    "username": "Puntoaligato",
+    "firstSeen": 1605023350893,
+    "lastSeen": 1605024078067,
+    "firstSeenTime": "3:49:10 PM",
+    "lastSeenTime": "3:59:11 PM",
+    "onlineDurationMins": 10.016383333333334
+  },
+  "chessismatter@lichess": {
+    "id": "chessismatter",
+    "provider": "lichess",
+    "username": "CheSSisMatter",
+    "firstSeen": 1605023398529,
+    "lastSeen": 1605024603613,
+    "firstSeenTime": "3:49:58 PM",
+    "lastSeenTime": "3:58:28 PM",
+    "onlineDurationMins": 8.501816666666667
+  },
+  "ziyatr1@lichess": {
+    "id": "ziyatr1",
+    "provider": "lichess",
+    "username": "ZiyaTR1",
+    "firstSeen": 1605023735599,
+    "lastSeen": 1605024626155,
+    "firstSeenTime": "3:55:35 PM",
+    "lastSeenTime": "4:00:49 PM",
+    "onlineDurationMins": 5.229116666666667
+  },
+  "crazycrushingg@lichess": {
+    "id": "crazycrushingg",
+    "provider": "lichess",
+    "username": "CrazyCrushingG",
+    "firstSeen": 1605024642389,
+    "lastSeen": 1605024642389
+  }
+}
