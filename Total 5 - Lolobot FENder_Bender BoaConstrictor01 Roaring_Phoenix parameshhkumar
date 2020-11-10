@@ -1,0 +1,49 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1604982809087,
+    "lastSeen": 1604988314643,
+    "firstSeenTime": "4:33:29 AM",
+    "lastSeenTime": "6:05:14 AM",
+    "onlineDurationMins": 91.75926666666666
+  },
+  "fender_bender@lichess": {
+    "id": "fender_bender",
+    "provider": "lichess",
+    "username": "FENder_Bender",
+    "firstSeen": 1604987275811,
+    "lastSeen": 1604988659905,
+    "firstSeenTime": "5:47:55 AM",
+    "lastSeenTime": "6:01:55 AM",
+    "onlineDurationMins": 14.003116666666667
+  },
+  "boaconstrictor01@lichess": {
+    "id": "boaconstrictor01",
+    "provider": "lichess",
+    "username": "BoaConstrictor01",
+    "firstSeen": 1604988173011,
+    "lastSeen": 1604988559146,
+    "firstSeenTime": "6:02:53 AM",
+    "lastSeenTime": "6:08:55 AM",
+    "onlineDurationMins": 6.036416666666667
+  },
+  "roaring_phoenix@lichess": {
+    "id": "roaring_phoenix",
+    "provider": "lichess",
+    "username": "Roaring_Phoenix",
+    "firstSeen": 1604988515130,
+    "lastSeen": 1604988555844,
+    "firstSeenTime": "6:08:35 AM",
+    "lastSeenTime": "6:08:48 AM",
+    "onlineDurationMins": 0.21825
+  },
+  "parameshhkumar@lichess": {
+    "id": "parameshhkumar",
+    "provider": "lichess",
+    "username": "parameshhkumar",
+    "firstSeen": 1604988880869,
+    "lastSeen": 1604988880869
+  }
+}
