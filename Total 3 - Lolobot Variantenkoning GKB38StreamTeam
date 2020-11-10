@@ -1,0 +1,26 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1605003186367,
+    "lastSeen": 1605006546496,
+    "firstSeenTime": "10:13:06 AM",
+    "lastSeenTime": "10:13:09 AM",
+    "onlineDurationMins": 0.06043333333333333
+  },
+  "variantenkoning@lichess": {
+    "id": "variantenkoning",
+    "provider": "lichess",
+    "username": "Variantenkoning",
+    "firstSeen": 1605006091320,
+    "lastSeen": 1605006757802
+  },
+  "gkb38streamteam@lichess": {
+    "id": "gkb38streamteam",
+    "provider": "lichess",
+    "username": "GKB38StreamTeam",
+    "firstSeen": 1605007116223,
+    "lastSeen": 1605007116223
+  }
+}
