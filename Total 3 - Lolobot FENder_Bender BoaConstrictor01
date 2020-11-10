@@ -1,0 +1,23 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1604982809087,
+    "lastSeen": 1604988010627
+  },
+  "fender_bender@lichess": {
+    "id": "fender_bender",
+    "provider": "lichess",
+    "username": "FENder_Bender",
+    "firstSeen": 1604987275811,
+    "lastSeen": 1604988115998
+  },
+  "boaconstrictor01@lichess": {
+    "id": "boaconstrictor01",
+    "provider": "lichess",
+    "username": "BoaConstrictor01",
+    "firstSeen": 1604988173011,
+    "lastSeen": 1604988173011
+  }
+}
