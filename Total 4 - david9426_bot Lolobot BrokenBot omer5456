@@ -1,0 +1,36 @@
+{
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1605027772562,
+    "lastSeen": 1605048775840,
+    "firstSeenTime": "5:02:52 PM",
+    "lastSeenTime": "6:36:55 PM",
+    "onlineDurationMins": 94.05665
+  },
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1605029497255,
+    "lastSeen": 1605048654572,
+    "firstSeenTime": "5:31:37 PM",
+    "lastSeenTime": "6:32:19 PM",
+    "onlineDurationMins": 60.709983333333334
+  },
+  "brokenbot@lichess": {
+    "id": "brokenbot",
+    "provider": "lichess",
+    "username": "BrokenBot",
+    "firstSeen": 1605043550081,
+    "lastSeen": 1605048838261
+  },
+  "omer5456@lichess": {
+    "id": "omer5456",
+    "provider": "lichess",
+    "username": "omer5456",
+    "firstSeen": 1605048843605,
+    "lastSeen": 1605048843605
+  }
+}
