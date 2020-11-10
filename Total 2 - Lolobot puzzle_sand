@@ -1,0 +1,19 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1605003186367,
+    "lastSeen": 1605017286867,
+    "firstSeenTime": "10:13:06 AM",
+    "lastSeenTime": "1:19:06 PM",
+    "onlineDurationMins": 186.00545
+  },
+  "puzzle_sand@lichess": {
+    "id": "puzzle_sand",
+    "provider": "lichess",
+    "username": "puzzle_sand",
+    "firstSeen": 1605016449291,
+    "lastSeen": 1605016627018
+  }
+}
