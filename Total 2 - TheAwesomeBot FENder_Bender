@@ -1,0 +1,19 @@
+{
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1604952649902,
+    "lastSeen": 1604972964680,
+    "firstSeenTime": "8:10:49 PM",
+    "lastSeenTime": "9:39:49 PM",
+    "onlineDurationMins": 88.99575
+  },
+  "fender_bender@lichess": {
+    "id": "fender_bender",
+    "provider": "lichess",
+    "username": "FENder_Bender",
+    "firstSeen": 1604962980153,
+    "lastSeen": 1604972704143
+  }
+}
