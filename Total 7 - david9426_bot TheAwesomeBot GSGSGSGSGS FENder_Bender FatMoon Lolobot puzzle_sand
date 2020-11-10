@@ -1,0 +1,72 @@
+{
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1605027772562,
+    "lastSeen": 1605031379558,
+    "firstSeenTime": "5:02:52 PM",
+    "lastSeenTime": "6:02:59 PM",
+    "onlineDurationMins": 60.1166
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1605027966090,
+    "lastSeen": 1605031389036,
+    "firstSeenTime": "5:06:06 PM",
+    "lastSeenTime": "6:03:09 PM",
+    "onlineDurationMins": 57.0491
+  },
+  "gsgsgsgsgs@lichess": {
+    "id": "gsgsgsgsgs",
+    "provider": "lichess",
+    "username": "GSGSGSGSGS",
+    "firstSeen": 1605027979887,
+    "lastSeen": 1605031343139,
+    "firstSeenTime": "5:06:19 PM",
+    "lastSeenTime": "6:02:23 PM",
+    "onlineDurationMins": 56.0542
+  },
+  "fender_bender@lichess": {
+    "id": "fender_bender",
+    "provider": "lichess",
+    "username": "FENder_Bender",
+    "firstSeen": 1605028216079,
+    "lastSeen": 1605032056208,
+    "firstSeenTime": "5:10:16 PM",
+    "lastSeenTime": "6:05:16 PM",
+    "onlineDurationMins": 55.0002
+  },
+  "fatmoon@lichess": {
+    "id": "fatmoon",
+    "provider": "lichess",
+    "username": "FatMoon",
+    "firstSeen": 1605028225015,
+    "lastSeen": 1605031465022,
+    "firstSeenTime": "5:10:25 PM",
+    "lastSeenTime": "6:04:25 PM",
+    "onlineDurationMins": 54.00011666666666
+  },
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1605029497255,
+    "lastSeen": 1605031889008,
+    "firstSeenTime": "5:31:37 PM",
+    "lastSeenTime": "6:08:32 PM",
+    "onlineDurationMins": 36.9262
+  },
+  "puzzle_sand@lichess": {
+    "id": "puzzle_sand",
+    "provider": "lichess",
+    "username": "puzzle_sand",
+    "firstSeen": 1605031421913,
+    "lastSeen": 1605031692471,
+    "firstSeenTime": "6:03:41 PM",
+    "lastSeenTime": "6:08:12 PM",
+    "onlineDurationMins": 4.5093
+  }
+}
