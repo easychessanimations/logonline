@@ -1,0 +1,50 @@
+{
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1605027772562,
+    "lastSeen": 1605054179315,
+    "firstSeenTime": "5:02:52 PM",
+    "lastSeenTime": "6:36:55 PM",
+    "onlineDurationMins": 94.05665
+  },
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1605029497255,
+    "lastSeen": 1605054034810,
+    "firstSeenTime": "5:31:37 PM",
+    "lastSeenTime": "6:32:19 PM",
+    "onlineDurationMins": 60.709983333333334
+  },
+  "brokenbot@lichess": {
+    "id": "brokenbot",
+    "provider": "lichess",
+    "username": "BrokenBot",
+    "firstSeen": 1605043550081,
+    "lastSeen": 1605054073093
+  },
+  "puzzle_sand@lichess": {
+    "id": "puzzle_sand",
+    "provider": "lichess",
+    "username": "puzzle_sand",
+    "firstSeen": 1605052222560,
+    "lastSeen": 1605054219021
+  },
+  "fender_bender@lichess": {
+    "id": "fender_bender",
+    "provider": "lichess",
+    "username": "FENder_Bender",
+    "firstSeen": 1605052977801,
+    "lastSeen": 1605054537633
+  },
+  "loveboy22@lichess": {
+    "id": "loveboy22",
+    "provider": "lichess",
+    "username": "LoveBoy22",
+    "firstSeen": 1605053677074,
+    "lastSeen": 1605054628774
+  }
+}
