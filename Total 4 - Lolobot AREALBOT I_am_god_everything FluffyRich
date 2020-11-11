@@ -1,0 +1,36 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1605116258498,
+    "lastSeen": 1605138520303,
+    "firstSeenTime": "5:37:38 PM",
+    "lastSeenTime": "11:15:39 PM",
+    "onlineDurationMins": 338.01236666666665
+  },
+  "arealbot@lichess": {
+    "id": "arealbot",
+    "provider": "lichess",
+    "username": "AREALBOT",
+    "firstSeen": 1605129509846,
+    "lastSeen": 1605138527124,
+    "firstSeenTime": "9:18:29 PM",
+    "lastSeenTime": "11:14:47 PM",
+    "onlineDurationMins": 116.29056666666666
+  },
+  "i_am_god_everything@lichess": {
+    "id": "i_am_god_everything",
+    "provider": "lichess",
+    "username": "I_am_god_everything",
+    "firstSeen": 1605137518311,
+    "lastSeen": 1605138184530
+  },
+  "fluffyrich@lichess": {
+    "id": "fluffyrich",
+    "provider": "lichess",
+    "username": "FluffyRich",
+    "firstSeen": 1605137848980,
+    "lastSeen": 1605138740618
+  }
+}
