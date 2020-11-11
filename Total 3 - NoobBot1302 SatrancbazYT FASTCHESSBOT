@@ -1,0 +1,29 @@
+{
+  "noobbot1302@lichess": {
+    "id": "noobbot1302",
+    "provider": "lichess",
+    "username": "NoobBot1302",
+    "firstSeen": 1605100391909,
+    "lastSeen": 1605102435280,
+    "firstSeenTime": "1:13:11 PM",
+    "lastSeenTime": "1:38:15 PM",
+    "onlineDurationMins": 25.0574
+  },
+  "satrancbazyt@lichess": {
+    "id": "satrancbazyt",
+    "provider": "lichess",
+    "username": "SatrancbazYT",
+    "firstSeen": 1605101044984,
+    "lastSeen": 1605102648817,
+    "firstSeenTime": "1:24:04 PM",
+    "lastSeenTime": "1:37:11 PM",
+    "onlineDurationMins": 13.115466666666666
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1605102926538,
+    "lastSeen": 1605102926538
+  }
+}
