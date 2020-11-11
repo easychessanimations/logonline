@@ -1,0 +1,33 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1605029497255,
+    "lastSeen": 1605058651197,
+    "firstSeenTime": "5:31:37 PM",
+    "lastSeenTime": "6:32:19 PM",
+    "onlineDurationMins": 60.709983333333334
+  },
+  "puzzle_sand@lichess": {
+    "id": "puzzle_sand",
+    "provider": "lichess",
+    "username": "puzzle_sand",
+    "firstSeen": 1605052222560,
+    "lastSeen": 1605058482064
+  },
+  "fender_bender@lichess": {
+    "id": "fender_bender",
+    "provider": "lichess",
+    "username": "FENder_Bender",
+    "firstSeen": 1605052977801,
+    "lastSeen": 1605058382213
+  },
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1605058736842,
+    "lastSeen": 1605058736842
+  }
+}
