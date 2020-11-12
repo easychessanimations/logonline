@@ -1,0 +1,76 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1605116258498,
+    "lastSeen": 1605144160073,
+    "firstSeenTime": "5:37:38 PM",
+    "lastSeenTime": "1:00:39 AM",
+    "onlineDurationMins": 443.0147666666667
+  },
+  "arealbot@lichess": {
+    "id": "arealbot",
+    "provider": "lichess",
+    "username": "AREALBOT",
+    "firstSeen": 1605129509846,
+    "lastSeen": 1605144101587,
+    "firstSeenTime": "9:18:29 PM",
+    "lastSeenTime": "1:10:56 AM",
+    "onlineDurationMins": 232.45113333333333
+  },
+  "fluffyrich@lichess": {
+    "id": "fluffyrich",
+    "provider": "lichess",
+    "username": "FluffyRich",
+    "firstSeen": 1605137848980,
+    "lastSeen": 1605144176494,
+    "firstSeenTime": "11:37:28 PM",
+    "lastSeenTime": "1:07:52 AM",
+    "onlineDurationMins": 90.39605
+  },
+  "drmeowmeow@lichess": {
+    "id": "drmeowmeow",
+    "provider": "lichess",
+    "username": "DrMeowMeow",
+    "firstSeen": 1605139226154,
+    "lastSeen": 1605143638837,
+    "firstSeenTime": "12:00:26 AM",
+    "lastSeenTime": "1:11:12 AM",
+    "onlineDurationMins": 70.77501666666667
+  },
+  "i_am_god_everything@lichess": {
+    "id": "i_am_god_everything",
+    "provider": "lichess",
+    "username": "I_am_god_everything",
+    "firstSeen": 1605140958944,
+    "lastSeen": 1605143665033,
+    "firstSeenTime": "12:29:18 AM",
+    "lastSeenTime": "1:11:36 AM",
+    "onlineDurationMins": 42.291466666666665
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1605142959517,
+    "lastSeen": 1605143626246,
+    "firstSeenTime": "1:02:39 AM",
+    "lastSeenTime": "1:04:04 AM",
+    "onlineDurationMins": 1.4177833333333334
+  },
+  "thebignoobatchess@lichess": {
+    "id": "thebignoobatchess",
+    "provider": "lichess",
+    "username": "TheBigNoobAtChess",
+    "firstSeen": 1605143498591,
+    "lastSeen": 1605144283641
+  },
+  "brokenbot@lichess": {
+    "id": "brokenbot",
+    "provider": "lichess",
+    "username": "BrokenBot",
+    "firstSeen": 1605144172418,
+    "lastSeen": 1605144260233
+  }
+}
