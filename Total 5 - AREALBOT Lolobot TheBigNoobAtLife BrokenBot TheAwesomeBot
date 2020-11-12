@@ -1,0 +1,40 @@
+{
+  "arealbot@lichess": {
+    "id": "arealbot",
+    "provider": "lichess",
+    "username": "AREALBOT",
+    "firstSeen": 1605129509846,
+    "lastSeen": 1605151923858,
+    "firstSeenTime": "9:18:29 PM",
+    "lastSeenTime": "1:10:56 AM",
+    "onlineDurationMins": 232.45113333333333
+  },
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1605145239399,
+    "lastSeen": 1605152023466
+  },
+  "thebignoobatlife@lichess": {
+    "id": "thebignoobatlife",
+    "provider": "lichess",
+    "username": "TheBigNoobAtLife",
+    "firstSeen": 1605146344375,
+    "lastSeen": 1605151910862
+  },
+  "brokenbot@lichess": {
+    "id": "brokenbot",
+    "provider": "lichess",
+    "username": "BrokenBot",
+    "firstSeen": 1605147377809,
+    "lastSeen": 1605151913277
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1605152098730,
+    "lastSeen": 1605152098730
+  }
+}
