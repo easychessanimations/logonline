@@ -1,0 +1,97 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1605202006332,
+    "lastSeen": 1605216912426,
+    "firstSeenTime": "5:26:46 PM",
+    "lastSeenTime": "9:18:12 PM",
+    "onlineDurationMins": 231.4407
+  },
+  "brokenbot@lichess": {
+    "id": "brokenbot",
+    "provider": "lichess",
+    "username": "BrokenBot",
+    "firstSeen": 1605202080311,
+    "lastSeen": 1605217269070,
+    "firstSeenTime": "5:28:00 PM",
+    "lastSeenTime": "9:17:06 PM",
+    "onlineDurationMins": 229.09506666666667
+  },
+  "thebignoobatlife@lichess": {
+    "id": "thebignoobatlife",
+    "provider": "lichess",
+    "username": "TheBigNoobAtLife",
+    "firstSeen": 1605208016927,
+    "lastSeen": 1605217016937,
+    "firstSeenTime": "7:06:56 PM",
+    "lastSeenTime": "9:11:57 PM",
+    "onlineDurationMins": 125.00286666666666
+  },
+  "fluffballcuddly@lichess": {
+    "id": "fluffballcuddly",
+    "provider": "lichess",
+    "username": "FluffBallCuddly",
+    "firstSeen": 1605208171810,
+    "lastSeen": 1605217175262,
+    "firstSeenTime": "7:09:31 PM",
+    "lastSeenTime": "9:14:35 PM",
+    "onlineDurationMins": 125.06246666666667
+  },
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1605209759365,
+    "lastSeen": 1605217262391,
+    "firstSeenTime": "7:35:59 PM",
+    "lastSeenTime": "9:16:02 PM",
+    "onlineDurationMins": 100.05046666666667
+  },
+  "aston_liu@lichess": {
+    "id": "aston_liu",
+    "provider": "lichess",
+    "username": "Aston_Liu",
+    "firstSeen": 1605212805168,
+    "lastSeen": 1605216595320,
+    "firstSeenTime": "8:26:45 PM",
+    "lastSeenTime": "9:21:29 PM",
+    "onlineDurationMins": 54.7411
+  },
+  "chesspuzzle3min@lichess": {
+    "id": "chesspuzzle3min",
+    "provider": "lichess",
+    "username": "chesspuzzle3min",
+    "firstSeen": 1605216467647,
+    "lastSeen": 1605216499101
+  },
+  "security99@lichess": {
+    "id": "security99",
+    "provider": "lichess",
+    "username": "Security99",
+    "firstSeen": 1605216497280,
+    "lastSeen": 1605217282437
+  },
+  "arealbot@lichess": {
+    "id": "arealbot",
+    "provider": "lichess",
+    "username": "AREALBOT",
+    "firstSeen": 1605216500788,
+    "lastSeen": 1605216510522
+  },
+  "magwalls@lichess": {
+    "id": "magwalls",
+    "provider": "lichess",
+    "username": "magwalls",
+    "firstSeen": 1605216621693,
+    "lastSeen": 1605216835586
+  },
+  "kigoco@lichess": {
+    "id": "kigoco",
+    "provider": "lichess",
+    "username": "Kigoco",
+    "firstSeen": 1605217312958,
+    "lastSeen": 1605217312958
+  }
+}
