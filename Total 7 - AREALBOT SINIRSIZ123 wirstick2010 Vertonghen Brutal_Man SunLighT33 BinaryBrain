@@ -1,0 +1,54 @@
+{
+  "arealbot@lichess": {
+    "id": "arealbot",
+    "provider": "lichess",
+    "username": "AREALBOT",
+    "firstSeen": 1605129509846,
+    "lastSeen": 1605173283426,
+    "firstSeenTime": "9:18:29 PM",
+    "lastSeenTime": "8:46:59 AM",
+    "onlineDurationMins": 688.4980833333333
+  },
+  "sinirsiz123@lichess": {
+    "id": "sinirsiz123",
+    "provider": "lichess",
+    "username": "SINIRSIZ123",
+    "firstSeen": 1605172975859,
+    "lastSeen": 1605173513705
+  },
+  "wirstick2010@lichess": {
+    "id": "wirstick2010",
+    "provider": "lichess",
+    "username": "wirstick2010",
+    "firstSeen": 1605173201781,
+    "lastSeen": 1605173387337
+  },
+  "vertonghen@lichess": {
+    "id": "vertonghen",
+    "provider": "lichess",
+    "username": "Vertonghen",
+    "firstSeen": 1605173388375,
+    "lastSeen": 1605173597697
+  },
+  "brutal_man@lichess": {
+    "id": "brutal_man",
+    "provider": "lichess",
+    "username": "Brutal_Man",
+    "firstSeen": 1605173521713,
+    "lastSeen": 1605173527413
+  },
+  "sunlight33@lichess": {
+    "id": "sunlight33",
+    "provider": "lichess",
+    "username": "SunLighT33",
+    "firstSeen": 1605173528519,
+    "lastSeen": 1605173558355
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1605173599188,
+    "lastSeen": 1605173599188
+  }
+}
