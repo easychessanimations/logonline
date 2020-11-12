@@ -1,0 +1,72 @@
+{
+  "arealbot@lichess": {
+    "id": "arealbot",
+    "provider": "lichess",
+    "username": "AREALBOT",
+    "firstSeen": 1605129509846,
+    "lastSeen": 1605177267881,
+    "firstSeenTime": "9:18:29 PM",
+    "lastSeenTime": "10:26:59 AM",
+    "onlineDurationMins": 788.49685
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1605173599188,
+    "lastSeen": 1605177244858,
+    "firstSeenTime": "9:33:19 AM",
+    "lastSeenTime": "10:23:03 AM",
+    "onlineDurationMins": 49.74326666666666
+  },
+  "jackthepigeon@lichess": {
+    "id": "jackthepigeon",
+    "provider": "lichess",
+    "username": "JackThePigeon",
+    "firstSeen": 1605173633482,
+    "lastSeen": 1605177198106,
+    "firstSeenTime": "9:33:53 AM",
+    "lastSeenTime": "10:31:21 AM",
+    "onlineDurationMins": 57.464816666666664
+  },
+  "fighterbot@lichess": {
+    "id": "fighterbot",
+    "provider": "lichess",
+    "username": "FighterBOT",
+    "firstSeen": 1605175402669,
+    "lastSeen": 1605176847740,
+    "firstSeenTime": "10:03:22 AM",
+    "lastSeenTime": "10:27:27 AM",
+    "onlineDurationMins": 24.084516666666666
+  },
+  "satrancbazyt@lichess": {
+    "id": "satrancbazyt",
+    "provider": "lichess",
+    "username": "SatrancbazYT",
+    "firstSeen": 1605175524625,
+    "lastSeen": 1605177155340,
+    "firstSeenTime": "10:05:24 AM",
+    "lastSeenTime": "10:32:35 AM",
+    "onlineDurationMins": 27.178583333333332
+  },
+  "btgoal@lichess": {
+    "id": "btgoal",
+    "provider": "lichess",
+    "username": "btgoal",
+    "firstSeen": 1605176676511,
+    "lastSeen": 1605177191401,
+    "firstSeenTime": "10:24:36 AM",
+    "lastSeenTime": "10:29:53 AM",
+    "onlineDurationMins": 5.281116666666667
+  },
+  "avengerbot@lichess": {
+    "id": "avengerbot",
+    "provider": "lichess",
+    "username": "AvengerBOT",
+    "firstSeen": 1605176733757,
+    "lastSeen": 1605177274179,
+    "firstSeenTime": "10:25:33 AM",
+    "lastSeenTime": "10:32:21 AM",
+    "onlineDurationMins": 6.794116666666667
+  }
+}
