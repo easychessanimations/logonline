@@ -1,0 +1,62 @@
+{
+  "gapple_2@lichess": {
+    "id": "gapple_2",
+    "provider": "lichess",
+    "username": "Gapple_2",
+    "firstSeen": 1605179271513,
+    "lastSeen": 1605189539392,
+    "firstSeenTime": "11:07:51 AM",
+    "lastSeenTime": "1:58:59 PM",
+    "onlineDurationMins": 171.13131666666666
+  },
+  "armybot@lichess": {
+    "id": "armybot",
+    "provider": "lichess",
+    "username": "ArmyBOT",
+    "firstSeen": 1605182522512,
+    "lastSeen": 1605189883263,
+    "firstSeenTime": "12:02:02 PM",
+    "lastSeenTime": "2:04:43 PM",
+    "onlineDurationMins": 122.67918333333333
+  },
+  "drmeowmeow@lichess": {
+    "id": "drmeowmeow",
+    "provider": "lichess",
+    "username": "DrMeowMeow",
+    "firstSeen": 1605186175007,
+    "lastSeen": 1605189915817,
+    "firstSeenTime": "1:02:55 PM",
+    "lastSeenTime": "2:05:15 PM",
+    "onlineDurationMins": 62.346833333333336
+  },
+  "bennjoe@lichess": {
+    "id": "bennjoe",
+    "provider": "lichess",
+    "username": "bennjoe",
+    "firstSeen": 1605188260925,
+    "lastSeen": 1605189336896,
+    "firstSeenTime": "1:37:40 PM",
+    "lastSeenTime": "1:55:36 PM",
+    "onlineDurationMins": 17.93285
+  },
+  "i_am_god_everything@lichess": {
+    "id": "i_am_god_everything",
+    "provider": "lichess",
+    "username": "I_Am_God_Everything",
+    "firstSeen": 1605188944452,
+    "lastSeen": 1605189919659,
+    "firstSeenTime": "1:49:04 PM",
+    "lastSeenTime": "2:05:19 PM",
+    "onlineDurationMins": 16.25345
+  },
+  "thebignoobatlife@lichess": {
+    "id": "thebignoobatlife",
+    "provider": "lichess",
+    "username": "TheBigNoobAtLife",
+    "firstSeen": 1605189257071,
+    "lastSeen": 1605189923774,
+    "firstSeenTime": "1:54:17 PM",
+    "lastSeenTime": "2:05:23 PM",
+    "onlineDurationMins": 11.111716666666666
+  }
+}
