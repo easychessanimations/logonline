@@ -1,0 +1,88 @@
+{
+  "armybot@lichess": {
+    "id": "armybot",
+    "provider": "lichess",
+    "username": "ArmyBOT",
+    "firstSeen": 1605193745918,
+    "lastSeen": 1605209489359,
+    "firstSeenTime": "3:09:05 PM",
+    "lastSeenTime": "6:21:09 PM",
+    "onlineDurationMins": 192.06386666666666
+  },
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1605202006332,
+    "lastSeen": 1605209510662,
+    "firstSeenTime": "5:26:46 PM",
+    "lastSeenTime": "6:16:49 PM",
+    "onlineDurationMins": 50.057633333333335
+  },
+  "brokenbot@lichess": {
+    "id": "brokenbot",
+    "provider": "lichess",
+    "username": "BrokenBot",
+    "firstSeen": 1605202080311,
+    "lastSeen": 1605209583735,
+    "firstSeenTime": "5:28:00 PM",
+    "lastSeenTime": "6:18:03 PM",
+    "onlineDurationMins": 50.0559
+  },
+  "i-am-kedar@lichess": {
+    "id": "i-am-kedar",
+    "provider": "lichess",
+    "username": "I-Am-Kedar",
+    "firstSeen": 1605205659208,
+    "lastSeen": 1605209531074
+  },
+  "i_am_god_everything@lichess": {
+    "id": "i_am_god_everything",
+    "provider": "lichess",
+    "username": "I_Am_God_Everything",
+    "firstSeen": 1605205752981,
+    "lastSeen": 1605209149877
+  },
+  "gkb38streamteam@lichess": {
+    "id": "gkb38streamteam",
+    "provider": "lichess",
+    "username": "GKB38StreamTeam",
+    "firstSeen": 1605205873238,
+    "lastSeen": 1605209489105
+  },
+  "thebignoobatlife@lichess": {
+    "id": "thebignoobatlife",
+    "provider": "lichess",
+    "username": "TheBigNoobAtLife",
+    "firstSeen": 1605208016927,
+    "lastSeen": 1605209516878
+  },
+  "fluffballcuddly@lichess": {
+    "id": "fluffballcuddly",
+    "provider": "lichess",
+    "username": "FluffBallCuddly",
+    "firstSeen": 1605208171810,
+    "lastSeen": 1605209675199
+  },
+  "btgoal@lichess": {
+    "id": "btgoal",
+    "provider": "lichess",
+    "username": "btgoal",
+    "firstSeen": 1605208286769,
+    "lastSeen": 1605209193289
+  },
+  "drmeowmeow@lichess": {
+    "id": "drmeowmeow",
+    "provider": "lichess",
+    "username": "DrMeowMeow",
+    "firstSeen": 1605209200653,
+    "lastSeen": 1605209481553
+  },
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1605209759365,
+    "lastSeen": 1605209759365
+  }
+}
