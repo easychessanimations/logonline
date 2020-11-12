@@ -1,0 +1,66 @@
+{
+  "arealbot@lichess": {
+    "id": "arealbot",
+    "provider": "lichess",
+    "username": "AREALBOT",
+    "firstSeen": 1605129509846,
+    "lastSeen": 1605178859631,
+    "firstSeenTime": "9:18:29 PM",
+    "lastSeenTime": "10:26:59 AM",
+    "onlineDurationMins": 788.49685
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1605173599188,
+    "lastSeen": 1605178938991,
+    "firstSeenTime": "9:33:19 AM",
+    "lastSeenTime": "10:23:03 AM",
+    "onlineDurationMins": 49.74326666666666
+  },
+  "jackthepigeon@lichess": {
+    "id": "jackthepigeon",
+    "provider": "lichess",
+    "username": "JackThePigeon",
+    "firstSeen": 1605173633482,
+    "lastSeen": 1605178821552,
+    "firstSeenTime": "9:33:53 AM",
+    "lastSeenTime": "10:31:21 AM",
+    "onlineDurationMins": 57.464816666666664
+  },
+  "btgoal@lichess": {
+    "id": "btgoal",
+    "provider": "lichess",
+    "username": "btgoal",
+    "firstSeen": 1605176676511,
+    "lastSeen": 1605178670017,
+    "firstSeenTime": "10:24:36 AM",
+    "lastSeenTime": "10:29:53 AM",
+    "onlineDurationMins": 5.281116666666667
+  },
+  "avengerbot@lichess": {
+    "id": "avengerbot",
+    "provider": "lichess",
+    "username": "AvengerBOT",
+    "firstSeen": 1605176733757,
+    "lastSeen": 1605178815852,
+    "firstSeenTime": "10:25:33 AM",
+    "lastSeenTime": "10:32:21 AM",
+    "onlineDurationMins": 6.794116666666667
+  },
+  "sanayiyeverinbeni@lichess": {
+    "id": "sanayiyeverinbeni",
+    "provider": "lichess",
+    "username": "sanayiyeverinbeni",
+    "firstSeen": 1605178187836,
+    "lastSeen": 1605178673723
+  },
+  "wirstick2010@lichess": {
+    "id": "wirstick2010",
+    "provider": "lichess",
+    "username": "wirstick2010",
+    "firstSeen": 1605179027430,
+    "lastSeen": 1605179027430
+  }
+}
