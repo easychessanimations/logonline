@@ -1,0 +1,69 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1605116258498,
+    "lastSeen": 1605142839384,
+    "firstSeenTime": "5:37:38 PM",
+    "lastSeenTime": "12:49:43 AM",
+    "onlineDurationMins": 432.07618333333335
+  },
+  "arealbot@lichess": {
+    "id": "arealbot",
+    "provider": "lichess",
+    "username": "AREALBOT",
+    "firstSeen": 1605129509846,
+    "lastSeen": 1605143219548,
+    "firstSeenTime": "9:18:29 PM",
+    "lastSeenTime": "12:49:47 AM",
+    "onlineDurationMins": 211.28648333333334
+  },
+  "fluffyrich@lichess": {
+    "id": "fluffyrich",
+    "provider": "lichess",
+    "username": "FluffyRich",
+    "firstSeen": 1605137848980,
+    "lastSeen": 1605143272743,
+    "firstSeenTime": "11:37:28 PM",
+    "lastSeenTime": "12:49:56 AM",
+    "onlineDurationMins": 72.45881666666666
+  },
+  "drmeowmeow@lichess": {
+    "id": "drmeowmeow",
+    "provider": "lichess",
+    "username": "DrMeowMeow",
+    "firstSeen": 1605139226154,
+    "lastSeen": 1605143192394,
+    "firstSeenTime": "12:00:26 AM",
+    "lastSeenTime": "12:48:01 AM",
+    "onlineDurationMins": 47.591483333333336
+  },
+  "i_am_god_everything@lichess": {
+    "id": "i_am_god_everything",
+    "provider": "lichess",
+    "username": "I_am_god_everything",
+    "firstSeen": 1605140958944,
+    "lastSeen": 1605143182677,
+    "firstSeenTime": "12:29:18 AM",
+    "lastSeenTime": "12:43:09 AM",
+    "onlineDurationMins": 13.841166666666666
+  },
+  "chessrobot623tech@lichess": {
+    "id": "chessrobot623tech",
+    "provider": "lichess",
+    "username": "ChessRobot623Tech",
+    "firstSeen": 1605141748056,
+    "lastSeen": 1605143231732,
+    "firstSeenTime": "12:42:28 AM",
+    "lastSeenTime": "12:44:44 AM",
+    "onlineDurationMins": 2.2667333333333333
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1605142959517,
+    "lastSeen": 1605143044584
+  }
+}
