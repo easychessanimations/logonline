@@ -1,0 +1,86 @@
+{
+  "btgoal@lichess": {
+    "id": "btgoal",
+    "provider": "lichess",
+    "username": "btgoal",
+    "firstSeen": 1605277279244,
+    "lastSeen": 1605285619646,
+    "firstSeenTime": "2:21:19 PM",
+    "lastSeenTime": "4:29:22 PM",
+    "onlineDurationMins": 128.06226666666666
+  },
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1605277334795,
+    "lastSeen": 1605285843009,
+    "firstSeenTime": "2:22:14 PM",
+    "lastSeenTime": "4:34:59 PM",
+    "onlineDurationMins": 132.74015
+  },
+  "fluffballcuddly@lichess": {
+    "id": "fluffballcuddly",
+    "provider": "lichess",
+    "username": "FluffBallCuddly",
+    "firstSeen": 1605277490278,
+    "lastSeen": 1605285345513,
+    "firstSeenTime": "2:24:50 PM",
+    "lastSeenTime": "4:35:45 PM",
+    "onlineDurationMins": 130.92058333333333
+  },
+  "i_am_god_everything@lichess": {
+    "id": "i_am_god_everything",
+    "provider": "lichess",
+    "username": "I_Am_God_Everything",
+    "firstSeen": 1605279810331,
+    "lastSeen": 1605285816429,
+    "firstSeenTime": "3:03:30 PM",
+    "lastSeenTime": "4:32:32 PM",
+    "onlineDurationMins": 89.03535
+  },
+  "i-am-kedar@lichess": {
+    "id": "i-am-kedar",
+    "provider": "lichess",
+    "username": "I-Am-Kedar",
+    "firstSeen": 1605284331738,
+    "lastSeen": 1605285366295,
+    "firstSeenTime": "4:18:51 PM",
+    "lastSeenTime": "4:25:10 PM",
+    "onlineDurationMins": 6.31345
+  },
+  "puzzle_sand@lichess": {
+    "id": "puzzle_sand",
+    "provider": "lichess",
+    "username": "puzzle_sand",
+    "firstSeen": 1605284991464,
+    "lastSeen": 1605285315493,
+    "firstSeenTime": "4:29:51 PM",
+    "lastSeenTime": "4:35:15 PM",
+    "onlineDurationMins": 5.400483333333334
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1605285334596,
+    "lastSeen": 1605285338084,
+    "firstSeenTime": "4:35:34 PM",
+    "lastSeenTime": "4:35:38 PM",
+    "onlineDurationMins": 0.058133333333333335
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1605285655083,
+    "lastSeen": 1605285693966
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1605285850199,
+    "lastSeen": 1605285850199
+  }
+}
