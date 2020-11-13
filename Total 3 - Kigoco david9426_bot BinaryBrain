@@ -1,0 +1,29 @@
+{
+  "kigoco@lichess": {
+    "id": "kigoco",
+    "provider": "lichess",
+    "username": "Kigoco",
+    "firstSeen": 1605244530646,
+    "lastSeen": 1605245738872,
+    "firstSeenTime": "5:15:30 AM",
+    "lastSeenTime": "5:35:38 AM",
+    "onlineDurationMins": 20.1371
+  },
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1605244713500,
+    "lastSeen": 1605245377104,
+    "firstSeenTime": "5:18:33 AM",
+    "lastSeenTime": "5:29:37 AM",
+    "onlineDurationMins": 11.060066666666666
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1605245896984,
+    "lastSeen": 1605245896984
+  }
+}
