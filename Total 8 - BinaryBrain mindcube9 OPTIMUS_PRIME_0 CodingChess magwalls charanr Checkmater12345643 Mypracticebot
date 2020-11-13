@@ -1,0 +1,67 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1605245896984,
+    "lastSeen": 1605265133237,
+    "firstSeenTime": "5:38:16 AM",
+    "lastSeenTime": "10:12:30 AM",
+    "onlineDurationMins": 274.22855
+  },
+  "mindcube9@lichess": {
+    "id": "mindcube9",
+    "provider": "lichess",
+    "username": "mindcube9",
+    "firstSeen": 1605258610660,
+    "lastSeen": 1605264972206,
+    "firstSeenTime": "9:10:10 AM",
+    "lastSeenTime": "10:09:12 AM",
+    "onlineDurationMins": 59.02633333333333
+  },
+  "optimus_prime_0@lichess": {
+    "id": "optimus_prime_0",
+    "provider": "lichess",
+    "username": "OPTIMUS_PRIME_0",
+    "firstSeen": 1605260565274,
+    "lastSeen": 1605264673717,
+    "firstSeenTime": "9:42:45 AM",
+    "lastSeenTime": "10:07:51 AM",
+    "onlineDurationMins": 25.10525
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1605262483541,
+    "lastSeen": 1605265131490
+  },
+  "magwalls@lichess": {
+    "id": "magwalls",
+    "provider": "lichess",
+    "username": "magwalls",
+    "firstSeen": 1605263356477,
+    "lastSeen": 1605264858076
+  },
+  "charanr@lichess": {
+    "id": "charanr",
+    "provider": "lichess",
+    "username": "charanr",
+    "firstSeen": 1605264940294,
+    "lastSeen": 1605265185693
+  },
+  "checkmater12345643@lichess": {
+    "id": "checkmater12345643",
+    "provider": "lichess",
+    "username": "Checkmater12345643",
+    "firstSeen": 1605265157476,
+    "lastSeen": 1605265200964
+  },
+  "mypracticebot@lichess": {
+    "id": "mypracticebot",
+    "provider": "lichess",
+    "username": "Mypracticebot",
+    "firstSeen": 1605265202679,
+    "lastSeen": 1605265202679
+  }
+}
