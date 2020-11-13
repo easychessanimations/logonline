@@ -1,0 +1,81 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1605285655083,
+    "lastSeen": 1605295436256,
+    "firstSeenTime": "4:40:55 PM",
+    "lastSeenTime": "5:11:28 PM",
+    "onlineDurationMins": 30.55976666666667
+  },
+  "shawnyisbest@lichess": {
+    "id": "shawnyisbest",
+    "provider": "lichess",
+    "username": "Shawnyisbest",
+    "firstSeen": 1605286831053,
+    "lastSeen": 1605295896992,
+    "firstSeenTime": "5:00:31 PM",
+    "lastSeenTime": "5:17:12 PM",
+    "onlineDurationMins": 16.682716666666668
+  },
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1605286965425,
+    "lastSeen": 1605295968282,
+    "firstSeenTime": "5:02:45 PM",
+    "lastSeenTime": "5:13:52 PM",
+    "onlineDurationMins": 11.112583333333333
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1605288970394,
+    "lastSeen": 1605295935488
+  },
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1605289128587,
+    "lastSeen": 1605295911743
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1605289610993,
+    "lastSeen": 1605295945120
+  },
+  "i-am-kedar@lichess": {
+    "id": "i-am-kedar",
+    "provider": "lichess",
+    "username": "I-Am-Kedar",
+    "firstSeen": 1605292676950,
+    "lastSeen": 1605295643588
+  },
+  "arealbot@lichess": {
+    "id": "arealbot",
+    "provider": "lichess",
+    "username": "AREALBOT",
+    "firstSeen": 1605293634690,
+    "lastSeen": 1605295746908
+  },
+  "aston_liu@lichess": {
+    "id": "aston_liu",
+    "provider": "lichess",
+    "username": "Aston_Liu",
+    "firstSeen": 1605294723937,
+    "lastSeen": 1605295566013
+  },
+  "alliedalien@lichess": {
+    "id": "alliedalien",
+    "provider": "lichess",
+    "username": "AlliedAlien",
+    "firstSeen": 1605295785631,
+    "lastSeen": 1605295791775
+  }
+}
