@@ -1,0 +1,66 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1605245896984,
+    "lastSeen": 1605275597972,
+    "firstSeenTime": "5:38:16 AM",
+    "lastSeenTime": "1:45:47 PM",
+    "onlineDurationMins": 487.50418333333334
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1605262483541,
+    "lastSeen": 1605275609044,
+    "firstSeenTime": "10:14:43 AM",
+    "lastSeenTime": "1:42:08 PM",
+    "onlineDurationMins": 207.41875
+  },
+  "btgoal@lichess": {
+    "id": "btgoal",
+    "provider": "lichess",
+    "username": "btgoal",
+    "firstSeen": 1605266356921,
+    "lastSeen": 1605275358886,
+    "firstSeenTime": "11:19:16 AM",
+    "lastSeenTime": "1:49:18 PM",
+    "onlineDurationMins": 150.03275
+  },
+  "kigoco@lichess": {
+    "id": "kigoco",
+    "provider": "lichess",
+    "username": "Kigoco",
+    "firstSeen": 1605272641564,
+    "lastSeen": 1605275259827,
+    "firstSeenTime": "1:04:01 PM",
+    "lastSeenTime": "1:47:39 PM",
+    "onlineDurationMins": 43.63771666666667
+  },
+  "ruler_of_chess-bot@lichess": {
+    "id": "ruler_of_chess-bot",
+    "provider": "lichess",
+    "username": "Ruler_Of_Chess-BOT",
+    "firstSeen": 1605273810825,
+    "lastSeen": 1605275313403,
+    "firstSeenTime": "1:23:30 PM",
+    "lastSeenTime": "1:48:33 PM",
+    "onlineDurationMins": 25.04296666666667
+  },
+  "i-am-kedar@lichess": {
+    "id": "i-am-kedar",
+    "provider": "lichess",
+    "username": "I-Am-Kedar",
+    "firstSeen": 1605275571593,
+    "lastSeen": 1605275598309
+  },
+  "jackthepigeon@lichess": {
+    "id": "jackthepigeon",
+    "provider": "lichess",
+    "username": "JackThePigeon",
+    "firstSeen": 1605275739263,
+    "lastSeen": 1605275739263
+  }
+}
