@@ -1,0 +1,70 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1605245896984,
+    "lastSeen": 1605276978954,
+    "firstSeenTime": "5:38:16 AM",
+    "lastSeenTime": "1:45:47 PM",
+    "onlineDurationMins": 487.50418333333334
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1605262483541,
+    "lastSeen": 1605276984014,
+    "firstSeenTime": "10:14:43 AM",
+    "lastSeenTime": "1:42:08 PM",
+    "onlineDurationMins": 207.41875
+  },
+  "btgoal@lichess": {
+    "id": "btgoal",
+    "provider": "lichess",
+    "username": "btgoal",
+    "firstSeen": 1605266356921,
+    "lastSeen": 1605276859240,
+    "firstSeenTime": "11:19:16 AM",
+    "lastSeenTime": "1:49:18 PM",
+    "onlineDurationMins": 150.03275
+  },
+  "ruler_of_chess-bot@lichess": {
+    "id": "ruler_of_chess-bot",
+    "provider": "lichess",
+    "username": "Ruler_Of_Chess-BOT",
+    "firstSeen": 1605273810825,
+    "lastSeen": 1605276587626,
+    "firstSeenTime": "1:23:30 PM",
+    "lastSeenTime": "1:48:33 PM",
+    "onlineDurationMins": 25.04296666666667
+  },
+  "i-am-kedar@lichess": {
+    "id": "i-am-kedar",
+    "provider": "lichess",
+    "username": "I-Am-Kedar",
+    "firstSeen": 1605275571593,
+    "lastSeen": 1605276954639
+  },
+  "fluffballcuddly@lichess": {
+    "id": "fluffballcuddly",
+    "provider": "lichess",
+    "username": "FluffBallCuddly",
+    "firstSeen": 1605276167268,
+    "lastSeen": 1605276841013
+  },
+  "gsgsgsgsgs@lichess": {
+    "id": "gsgsgsgsgs",
+    "provider": "lichess",
+    "username": "GSGSGSGSGS",
+    "firstSeen": 1605276170381,
+    "lastSeen": 1605276836728
+  },
+  "littlejennyren@lichess": {
+    "id": "littlejennyren",
+    "provider": "lichess",
+    "username": "littlejennyren",
+    "firstSeen": 1605276985571,
+    "lastSeen": 1605276985571
+  }
+}
