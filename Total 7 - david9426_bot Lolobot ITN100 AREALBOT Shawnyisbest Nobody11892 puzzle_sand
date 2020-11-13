@@ -1,0 +1,54 @@
+{
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1605286965425,
+    "lastSeen": 1605311388372,
+    "firstSeenTime": "5:02:45 PM",
+    "lastSeenTime": "5:13:52 PM",
+    "onlineDurationMins": 11.112583333333333
+  },
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1605289128587,
+    "lastSeen": 1605311634212
+  },
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1605297515104,
+    "lastSeen": 1605311673305
+  },
+  "arealbot@lichess": {
+    "id": "arealbot",
+    "provider": "lichess",
+    "username": "AREALBOT",
+    "firstSeen": 1605300835162,
+    "lastSeen": 1605311395204
+  },
+  "shawnyisbest@lichess": {
+    "id": "shawnyisbest",
+    "provider": "lichess",
+    "username": "Shawnyisbest",
+    "firstSeen": 1605301297014,
+    "lastSeen": 1605311377602
+  },
+  "nobody11892@lichess": {
+    "id": "nobody11892",
+    "provider": "lichess",
+    "username": "Nobody11892",
+    "firstSeen": 1605301593505,
+    "lastSeen": 1605311380093
+  },
+  "puzzle_sand@lichess": {
+    "id": "puzzle_sand",
+    "provider": "lichess",
+    "username": "puzzle_sand",
+    "firstSeen": 1605308154377,
+    "lastSeen": 1605311471532
+  }
+}
