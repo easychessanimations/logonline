@@ -1,0 +1,52 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1605245896984,
+    "lastSeen": 1605267892480,
+    "firstSeenTime": "5:38:16 AM",
+    "lastSeenTime": "11:40:47 AM",
+    "onlineDurationMins": 362.51048333333335
+  },
+  "optimus_prime_0@lichess": {
+    "id": "optimus_prime_0",
+    "provider": "lichess",
+    "username": "OPTIMUS_PRIME_0",
+    "firstSeen": 1605260565274,
+    "lastSeen": 1605267542530,
+    "firstSeenTime": "9:42:45 AM",
+    "lastSeenTime": "11:39:02 AM",
+    "onlineDurationMins": 116.2876
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1605262483541,
+    "lastSeen": 1605267910856,
+    "firstSeenTime": "10:14:43 AM",
+    "lastSeenTime": "11:40:29 AM",
+    "onlineDurationMins": 85.7715
+  },
+  "btgoal@lichess": {
+    "id": "btgoal",
+    "provider": "lichess",
+    "username": "btgoal",
+    "firstSeen": 1605266356921,
+    "lastSeen": 1605267859208,
+    "firstSeenTime": "11:19:16 AM",
+    "lastSeenTime": "11:42:19 AM",
+    "onlineDurationMins": 23.0381
+  },
+  "spideychess0108@lichess": {
+    "id": "spideychess0108",
+    "provider": "lichess",
+    "username": "spideychess0108",
+    "firstSeen": 1605267043363,
+    "lastSeen": 1605267291491,
+    "firstSeenTime": "11:30:43 AM",
+    "lastSeenTime": "11:34:51 AM",
+    "onlineDurationMins": 4.135466666666667
+  }
+}
