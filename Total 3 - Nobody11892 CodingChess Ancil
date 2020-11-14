@@ -1,0 +1,32 @@
+{
+  "nobody11892@lichess": {
+    "id": "nobody11892",
+    "provider": "lichess",
+    "username": "Nobody11892",
+    "firstSeen": 1605301593505,
+    "lastSeen": 1605330880046,
+    "firstSeenTime": "9:06:33 PM",
+    "lastSeenTime": "4:38:36 AM",
+    "onlineDurationMins": 452.04858333333334
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1605311864032,
+    "lastSeen": 1605330243807,
+    "firstSeenTime": "11:57:44 PM",
+    "lastSeenTime": "4:48:07 AM",
+    "onlineDurationMins": 290.3881
+  },
+  "ancil@lichess": {
+    "id": "ancil",
+    "provider": "lichess",
+    "username": "Ancil",
+    "firstSeen": 1605328450222,
+    "lastSeen": 1605330875895,
+    "firstSeenTime": "4:34:10 AM",
+    "lastSeenTime": "4:41:12 AM",
+    "onlineDurationMins": 7.0328
+  }
+}
