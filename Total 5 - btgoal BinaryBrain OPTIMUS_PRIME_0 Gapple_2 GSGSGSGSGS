@@ -1,0 +1,43 @@
+{
+  "btgoal@lichess": {
+    "id": "btgoal",
+    "provider": "lichess",
+    "username": "btgoal",
+    "firstSeen": 1605333952616,
+    "lastSeen": 1605352558935,
+    "firstSeenTime": "6:05:52 AM",
+    "lastSeenTime": "11:05:55 AM",
+    "onlineDurationMins": 300.04716666666667
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1605345099156,
+    "lastSeen": 1605352553715,
+    "firstSeenTime": "9:11:39 AM",
+    "lastSeenTime": "11:04:57 AM",
+    "onlineDurationMins": 113.31296666666667
+  },
+  "optimus_prime_0@lichess": {
+    "id": "optimus_prime_0",
+    "provider": "lichess",
+    "username": "OPTIMUS_PRIME_0",
+    "firstSeen": 1605352373137,
+    "lastSeen": 1605353081732
+  },
+  "gapple_2@lichess": {
+    "id": "gapple_2",
+    "provider": "lichess",
+    "username": "Gapple_2",
+    "firstSeen": 1605352686291,
+    "lastSeen": 1605353070245
+  },
+  "gsgsgsgsgs@lichess": {
+    "id": "gsgsgsgsgs",
+    "provider": "lichess",
+    "username": "GSGSGSGSGS",
+    "firstSeen": 1605353117906,
+    "lastSeen": 1605353117907
+  }
+}
