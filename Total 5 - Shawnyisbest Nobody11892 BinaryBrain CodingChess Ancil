@@ -1,0 +1,49 @@
+{
+  "shawnyisbest@lichess": {
+    "id": "shawnyisbest",
+    "provider": "lichess",
+    "username": "Shawnyisbest",
+    "firstSeen": 1605301297014,
+    "lastSeen": 1605328061311,
+    "firstSeenTime": "9:01:37 PM",
+    "lastSeenTime": "1:07:41 AM",
+    "onlineDurationMins": 246.0683
+  },
+  "nobody11892@lichess": {
+    "id": "nobody11892",
+    "provider": "lichess",
+    "username": "Nobody11892",
+    "firstSeen": 1605301593505,
+    "lastSeen": 1605328060030,
+    "firstSeenTime": "9:06:33 PM",
+    "lastSeenTime": "1:07:39 AM",
+    "onlineDurationMins": 241.10698333333335
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1605311843238,
+    "lastSeen": 1605328050925,
+    "firstSeenTime": "11:57:23 PM",
+    "lastSeenTime": "1:13:26 AM",
+    "onlineDurationMins": 76.04983333333334
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1605311864032,
+    "lastSeen": 1605328081638,
+    "firstSeenTime": "11:57:44 PM",
+    "lastSeenTime": "1:08:47 AM",
+    "onlineDurationMins": 71.0551
+  },
+  "ancil@lichess": {
+    "id": "ancil",
+    "provider": "lichess",
+    "username": "Ancil",
+    "firstSeen": 1605328450222,
+    "lastSeen": 1605328450222
+  }
+}
