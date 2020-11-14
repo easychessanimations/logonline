@@ -1,0 +1,72 @@
+{
+  "lolobot@lichess": {
+    "id": "lolobot",
+    "provider": "lichess",
+    "username": "Lolobot",
+    "firstSeen": 1605289128587,
+    "lastSeen": 1605318712669,
+    "firstSeenTime": "5:38:48 PM",
+    "lastSeenTime": "1:08:52 AM",
+    "onlineDurationMins": 450.0634166666667
+  },
+  "arealbot@lichess": {
+    "id": "arealbot",
+    "provider": "lichess",
+    "username": "AREALBOT",
+    "firstSeen": 1605300835162,
+    "lastSeen": 1605318835211,
+    "firstSeenTime": "8:53:55 PM",
+    "lastSeenTime": "1:07:55 AM",
+    "onlineDurationMins": 254.00183333333334
+  },
+  "shawnyisbest@lichess": {
+    "id": "shawnyisbest",
+    "provider": "lichess",
+    "username": "Shawnyisbest",
+    "firstSeen": 1605301297014,
+    "lastSeen": 1605318701138,
+    "firstSeenTime": "9:01:37 PM",
+    "lastSeenTime": "1:07:41 AM",
+    "onlineDurationMins": 246.0683
+  },
+  "nobody11892@lichess": {
+    "id": "nobody11892",
+    "provider": "lichess",
+    "username": "Nobody11892",
+    "firstSeen": 1605301593505,
+    "lastSeen": 1605318696576,
+    "firstSeenTime": "9:06:33 PM",
+    "lastSeenTime": "1:07:39 AM",
+    "onlineDurationMins": 241.10698333333335
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1605311843238,
+    "lastSeen": 1605318853908,
+    "firstSeenTime": "11:57:23 PM",
+    "lastSeenTime": "1:13:26 AM",
+    "onlineDurationMins": 76.04983333333334
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1605311864032,
+    "lastSeen": 1605318780852,
+    "firstSeenTime": "11:57:44 PM",
+    "lastSeenTime": "1:08:47 AM",
+    "onlineDurationMins": 71.0551
+  },
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1605313734077,
+    "lastSeen": 1605318750683,
+    "firstSeenTime": "12:28:54 AM",
+    "lastSeenTime": "1:10:55 AM",
+    "onlineDurationMins": 42.0217
+  }
+}
