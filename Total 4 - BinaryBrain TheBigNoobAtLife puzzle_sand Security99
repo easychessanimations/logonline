@@ -1,0 +1,39 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1605372376542,
+    "lastSeen": 1605381076749,
+    "firstSeenTime": "4:46:16 PM",
+    "lastSeenTime": "7:06:59 PM",
+    "onlineDurationMins": 140.71455
+  },
+  "thebignoobatlife@lichess": {
+    "id": "thebignoobatlife",
+    "provider": "lichess",
+    "username": "TheBigNoobAtLife",
+    "firstSeen": 1605376674220,
+    "lastSeen": 1605381254794,
+    "firstSeenTime": "5:57:54 PM",
+    "lastSeenTime": "7:08:21 PM",
+    "onlineDurationMins": 70.4575
+  },
+  "puzzle_sand@lichess": {
+    "id": "puzzle_sand",
+    "provider": "lichess",
+    "username": "puzzle_sand",
+    "firstSeen": 1605376703820,
+    "lastSeen": 1605381019870,
+    "firstSeenTime": "5:58:23 PM",
+    "lastSeenTime": "7:00:25 PM",
+    "onlineDurationMins": 62.03338333333333
+  },
+  "security99@lichess": {
+    "id": "security99",
+    "provider": "lichess",
+    "username": "Security99",
+    "firstSeen": 1605381276022,
+    "lastSeen": 1605381276022
+  }
+}
