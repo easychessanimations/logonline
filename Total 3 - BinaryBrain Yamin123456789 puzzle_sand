@@ -1,0 +1,29 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1605372376542,
+    "lastSeen": 1605389059294,
+    "firstSeenTime": "4:46:16 PM",
+    "lastSeenTime": "9:24:19 PM",
+    "onlineDurationMins": 278.04586666666665
+  },
+  "yamin123456789@lichess": {
+    "id": "yamin123456789",
+    "provider": "lichess",
+    "username": "Yamin123456789",
+    "firstSeen": 1605387590401,
+    "lastSeen": 1605389091964,
+    "firstSeenTime": "8:59:50 PM",
+    "lastSeenTime": "9:24:51 PM",
+    "onlineDurationMins": 25.02605
+  },
+  "puzzle_sand@lichess": {
+    "id": "puzzle_sand",
+    "provider": "lichess",
+    "username": "puzzle_sand",
+    "firstSeen": 1605389586140,
+    "lastSeen": 1605389586140
+  }
+}
