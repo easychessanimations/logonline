@@ -1,0 +1,29 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1605353918109,
+    "lastSeen": 1605357174334,
+    "firstSeenTime": "11:38:38 AM",
+    "lastSeenTime": "12:08:58 PM",
+    "onlineDurationMins": 30.337666666666667
+  },
+  "gapple_2@lichess": {
+    "id": "gapple_2",
+    "provider": "lichess",
+    "username": "Gapple_2",
+    "firstSeen": 1605354191296,
+    "lastSeen": 1605356942158,
+    "firstSeenTime": "11:43:11 AM",
+    "lastSeenTime": "12:10:10 PM",
+    "onlineDurationMins": 26.981416666666668
+  },
+  "gsgsgsgsgs@lichess": {
+    "id": "gsgsgsgsgs",
+    "provider": "lichess",
+    "username": "GSGSGSGSGS",
+    "firstSeen": 1605356986620,
+    "lastSeen": 1605357653451
+  }
+}
