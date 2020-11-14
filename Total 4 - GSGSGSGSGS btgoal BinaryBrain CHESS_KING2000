@@ -4,36 +4,39 @@
     "provider": "lichess",
     "username": "GSGSGSGSGS",
     "firstSeen": 1605332956661,
-    "lastSeen": 1605348058540,
+    "lastSeen": 1605351242673,
     "firstSeenTime": "5:49:16 AM",
-    "lastSeenTime": "9:23:01 AM",
-    "onlineDurationMins": 213.7515
+    "lastSeenTime": "10:54:02 AM",
+    "onlineDurationMins": 304.76686666666666
   },
   "btgoal@lichess": {
     "id": "btgoal",
     "provider": "lichess",
     "username": "btgoal",
     "firstSeen": 1605333952616,
-    "lastSeen": 1605347939035,
+    "lastSeen": 1605351238984,
     "firstSeenTime": "6:05:52 AM",
-    "lastSeenTime": "9:25:55 AM",
-    "onlineDurationMins": 200.0464
+    "lastSeenTime": "10:53:58 AM",
+    "onlineDurationMins": 288.10613333333333
   },
   "binarybrain@lichess": {
     "id": "binarybrain",
     "provider": "lichess",
     "username": "BinaryBrain",
     "firstSeen": 1605345099156,
-    "lastSeen": 1605347936080,
+    "lastSeen": 1605351235131,
     "firstSeenTime": "9:11:39 AM",
-    "lastSeenTime": "9:24:38 AM",
-    "onlineDurationMins": 12.9919
+    "lastSeenTime": "10:53:55 AM",
+    "onlineDurationMins": 102.26625
   },
   "chess_king2000@lichess": {
     "id": "chess_king2000",
     "provider": "lichess",
     "username": "CHESS_KING2000",
-    "firstSeen": 1605346103224,
-    "lastSeen": 1605347472370
+    "firstSeen": 1605350492314,
+    "lastSeen": 1605351791675,
+    "firstSeenTime": "10:41:32 AM",
+    "lastSeenTime": "10:52:14 AM",
+    "onlineDurationMins": 10.694866666666666
   }
 }
