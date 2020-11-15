@@ -1,0 +1,29 @@
+{
+  "arealbot@lichess": {
+    "id": "arealbot",
+    "provider": "lichess",
+    "username": "AREALBOT",
+    "firstSeen": 1605442663668,
+    "lastSeen": 1605459163376,
+    "firstSeenTime": "12:17:43 PM",
+    "lastSeenTime": "4:48:47 PM",
+    "onlineDurationMins": 271.05585
+  },
+  "puzzle_sand@lichess": {
+    "id": "puzzle_sand",
+    "provider": "lichess",
+    "username": "puzzle_sand",
+    "firstSeen": 1605458363984,
+    "lastSeen": 1605459030991,
+    "firstSeenTime": "4:39:23 PM",
+    "lastSeenTime": "4:50:30 PM",
+    "onlineDurationMins": 11.116783333333334
+  },
+  "gsgsgsgsgs@lichess": {
+    "id": "gsgsgsgsgs",
+    "provider": "lichess",
+    "username": "GSGSGSGSGS",
+    "firstSeen": 1605459300646,
+    "lastSeen": 1605459300646
+  }
+}
