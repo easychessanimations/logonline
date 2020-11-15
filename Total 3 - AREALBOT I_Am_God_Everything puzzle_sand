@@ -1,0 +1,23 @@
+{
+  "arealbot@lichess": {
+    "id": "arealbot",
+    "provider": "lichess",
+    "username": "AREALBOT",
+    "firstSeen": 1605442663668,
+    "lastSeen": 1605450827008
+  },
+  "i_am_god_everything@lichess": {
+    "id": "i_am_god_everything",
+    "provider": "lichess",
+    "username": "I_Am_God_Everything",
+    "firstSeen": 1605445106158,
+    "lastSeen": 1605450452492
+  },
+  "puzzle_sand@lichess": {
+    "id": "puzzle_sand",
+    "provider": "lichess",
+    "username": "puzzle_sand",
+    "firstSeen": 1605450522130,
+    "lastSeen": 1605450594263
+  }
+}
