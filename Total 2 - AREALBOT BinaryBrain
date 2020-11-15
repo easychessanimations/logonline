@@ -4,16 +4,19 @@
     "provider": "lichess",
     "username": "AREALBOT",
     "firstSeen": 1605417160451,
-    "lastSeen": 1605429167174,
+    "lastSeen": 1605439967219,
     "firstSeenTime": "5:12:40 AM",
-    "lastSeenTime": "8:32:47 AM",
-    "onlineDurationMins": 200.11205
+    "lastSeenTime": "11:32:47 AM",
+    "onlineDurationMins": 380.1128
   },
   "binarybrain@lichess": {
     "id": "binarybrain",
     "provider": "lichess",
     "username": "BinaryBrain",
-    "firstSeen": 1605429213481,
-    "lastSeen": 1605429824580
+    "firstSeen": 1605433569647,
+    "lastSeen": 1605440381388,
+    "firstSeenTime": "9:46:09 AM",
+    "lastSeenTime": "11:39:41 AM",
+    "onlineDurationMins": 113.52901666666666
   }
 }
