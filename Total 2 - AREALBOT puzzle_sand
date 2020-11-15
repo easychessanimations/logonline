@@ -1,0 +1,19 @@
+{
+  "arealbot@lichess": {
+    "id": "arealbot",
+    "provider": "lichess",
+    "username": "AREALBOT",
+    "firstSeen": 1605442663668,
+    "lastSeen": 1605458263396,
+    "firstSeenTime": "12:17:43 PM",
+    "lastSeenTime": "4:27:43 PM",
+    "onlineDurationMins": 249.9939
+  },
+  "puzzle_sand@lichess": {
+    "id": "puzzle_sand",
+    "provider": "lichess",
+    "username": "puzzle_sand",
+    "firstSeen": 1605458363984,
+    "lastSeen": 1605458363984
+  }
+}
