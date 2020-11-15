@@ -1,0 +1,22 @@
+{
+  "arealbot@lichess": {
+    "id": "arealbot",
+    "provider": "lichess",
+    "username": "AREALBOT",
+    "firstSeen": 1605442663668,
+    "lastSeen": 1605456946904,
+    "firstSeenTime": "12:17:43 PM",
+    "lastSeenTime": "4:15:46 PM",
+    "onlineDurationMins": 238.05393333333333
+  },
+  "gapple_classical@lichess": {
+    "id": "gapple_classical",
+    "provider": "lichess",
+    "username": "Gapple_Classical",
+    "firstSeen": 1605456232366,
+    "lastSeen": 1605456271893,
+    "firstSeenTime": "4:03:52 PM",
+    "lastSeenTime": "4:04:31 PM",
+    "onlineDurationMins": 0.6587833333333334
+  }
+}
