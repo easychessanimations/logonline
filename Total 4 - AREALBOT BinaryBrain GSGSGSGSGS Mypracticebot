@@ -1,0 +1,30 @@
+{
+  "arealbot@lichess": {
+    "id": "arealbot",
+    "provider": "lichess",
+    "username": "AREALBOT",
+    "firstSeen": 1605417160451,
+    "lastSeen": 1605421784013
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1605419547011,
+    "lastSeen": 1605421665814
+  },
+  "gsgsgsgsgs@lichess": {
+    "id": "gsgsgsgsgs",
+    "provider": "lichess",
+    "username": "GSGSGSGSGS",
+    "firstSeen": 1605419892915,
+    "lastSeen": 1605422416499
+  },
+  "mypracticebot@lichess": {
+    "id": "mypracticebot",
+    "provider": "lichess",
+    "username": "Mypracticebot",
+    "firstSeen": 1605422442680,
+    "lastSeen": 1605422442680
+  }
+}
