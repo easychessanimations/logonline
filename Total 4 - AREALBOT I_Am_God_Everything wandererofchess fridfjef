@@ -1,0 +1,30 @@
+{
+  "arealbot@lichess": {
+    "id": "arealbot",
+    "provider": "lichess",
+    "username": "AREALBOT",
+    "firstSeen": 1605442663668,
+    "lastSeen": 1605453163515
+  },
+  "i_am_god_everything@lichess": {
+    "id": "i_am_god_everything",
+    "provider": "lichess",
+    "username": "I_Am_God_Everything",
+    "firstSeen": 1605445106158,
+    "lastSeen": 1605453273146
+  },
+  "wandererofchess@lichess": {
+    "id": "wandererofchess",
+    "provider": "lichess",
+    "username": "wandererofchess",
+    "firstSeen": 1605452860661,
+    "lastSeen": 1605453017325
+  },
+  "fridfjef@lichess": {
+    "id": "fridfjef",
+    "provider": "lichess",
+    "username": "fridfjef",
+    "firstSeen": 1605453510273,
+    "lastSeen": 1605453510273
+  }
+}
