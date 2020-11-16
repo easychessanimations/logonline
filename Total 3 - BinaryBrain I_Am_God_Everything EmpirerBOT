@@ -1,0 +1,29 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1605530290183,
+    "lastSeen": 1605554596279,
+    "firstSeenTime": "12:38:10 PM",
+    "lastSeenTime": "7:02:08 PM",
+    "onlineDurationMins": 383.9650833333333
+  },
+  "i_am_god_everything@lichess": {
+    "id": "i_am_god_everything",
+    "provider": "lichess",
+    "username": "I_Am_God_Everything",
+    "firstSeen": 1605537466174,
+    "lastSeen": 1605554392229,
+    "firstSeenTime": "2:37:46 PM",
+    "lastSeenTime": "6:56:52 PM",
+    "onlineDurationMins": 259.10738333333336
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1605553849733,
+    "lastSeen": 1605554815169
+  }
+}
