@@ -1,0 +1,29 @@
+{
+  "gsgsgsgsgs@lichess": {
+    "id": "gsgsgsgsgs",
+    "provider": "lichess",
+    "username": "GSGSGSGSGS",
+    "firstSeen": 1605503370538,
+    "lastSeen": 1605524922236,
+    "firstSeenTime": "5:09:30 AM",
+    "lastSeenTime": "10:34:42 AM",
+    "onlineDurationMins": 325.1956666666667
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1605520330505,
+    "lastSeen": 1605525250534,
+    "firstSeenTime": "9:52:10 AM",
+    "lastSeenTime": "10:29:15 AM",
+    "onlineDurationMins": 37.075833333333335
+  },
+  "ultra_bulletmaster@lichess": {
+    "id": "ultra_bulletmaster",
+    "provider": "lichess",
+    "username": "Ultra_BulletMaster",
+    "firstSeen": 1605523530029,
+    "lastSeen": 1605524918304
+  }
+}
