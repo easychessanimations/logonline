@@ -1,0 +1,22 @@
+{
+  "arealbot@lichess": {
+    "id": "arealbot",
+    "provider": "lichess",
+    "username": "AREALBOT",
+    "firstSeen": 1605635176540,
+    "lastSeen": 1605637400201,
+    "firstSeenTime": "5:46:16 PM",
+    "lastSeenTime": "6:12:19 PM",
+    "onlineDurationMins": 26.057366666666667
+  },
+  "yjpisthebest@lichess": {
+    "id": "yjpisthebest",
+    "provider": "lichess",
+    "username": "YJPISTHEBEST",
+    "firstSeen": 1605635777731,
+    "lastSeen": 1605637606461,
+    "firstSeenTime": "5:56:17 PM",
+    "lastSeenTime": "6:21:23 PM",
+    "onlineDurationMins": 25.093566666666668
+  }
+}
