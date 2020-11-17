@@ -1,0 +1,46 @@
+{
+  "arealbot@lichess": {
+    "id": "arealbot",
+    "provider": "lichess",
+    "username": "AREALBOT",
+    "firstSeen": 1605635176540,
+    "lastSeen": 1605640040128,
+    "firstSeenTime": "5:46:16 PM",
+    "lastSeenTime": "6:56:23 PM",
+    "onlineDurationMins": 70.11756666666666
+  },
+  "yjpisthebest@lichess": {
+    "id": "yjpisthebest",
+    "provider": "lichess",
+    "username": "YJPISTHEBEST",
+    "firstSeen": 1605635777731,
+    "lastSeen": 1605639398727,
+    "firstSeenTime": "5:56:17 PM",
+    "lastSeenTime": "6:56:38 PM",
+    "onlineDurationMins": 60.34993333333333
+  },
+  "sharktiger2020@lichess": {
+    "id": "sharktiger2020",
+    "provider": "lichess",
+    "username": "Sharktiger2020",
+    "firstSeen": 1605639351572,
+    "lastSeen": 1605639420004,
+    "firstSeenTime": "6:55:51 PM",
+    "lastSeenTime": "6:56:57 PM",
+    "onlineDurationMins": 1.0966833333333332
+  },
+  "ziyatr1@lichess": {
+    "id": "ziyatr1",
+    "provider": "lichess",
+    "username": "ZiyaTR1",
+    "firstSeen": 1605639773418,
+    "lastSeen": 1605640012448
+  },
+  "alejandrodiazr_73568@lichess": {
+    "id": "alejandrodiazr_73568",
+    "provider": "lichess",
+    "username": "AlejandroDiazR_73568",
+    "firstSeen": 1605639895804,
+    "lastSeen": 1605639919413
+  }
+}
