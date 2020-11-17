@@ -1,0 +1,29 @@
+{
+  "optimus_prime_0@lichess": {
+    "id": "optimus_prime_0",
+    "provider": "lichess",
+    "username": "OPTIMUS_PRIME_0",
+    "firstSeen": 1605590042631,
+    "lastSeen": 1605593907347,
+    "firstSeenTime": "5:14:02 AM",
+    "lastSeenTime": "6:07:19 AM",
+    "onlineDurationMins": 53.277683333333336
+  },
+  "noobbot1302@lichess": {
+    "id": "noobbot1302",
+    "provider": "lichess",
+    "username": "NoobBot1302",
+    "firstSeen": 1605592696119,
+    "lastSeen": 1605593364753,
+    "firstSeenTime": "5:58:16 AM",
+    "lastSeenTime": "6:06:55 AM",
+    "onlineDurationMins": 8.656333333333333
+  },
+  "carlsenisback@lichess": {
+    "id": "carlsenisback",
+    "provider": "lichess",
+    "username": "CARLSENisBack",
+    "firstSeen": 1605593921307,
+    "lastSeen": 1605593921307
+  }
+}
