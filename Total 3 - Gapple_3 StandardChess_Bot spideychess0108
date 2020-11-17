@@ -1,0 +1,26 @@
+{
+  "gapple_3@lichess": {
+    "id": "gapple_3",
+    "provider": "lichess",
+    "username": "Gapple_3",
+    "firstSeen": 1605594576963,
+    "lastSeen": 1605597124174,
+    "firstSeenTime": "6:29:36 AM",
+    "lastSeenTime": "6:30:12 AM",
+    "onlineDurationMins": 0.5891166666666666
+  },
+  "standardchess_bot@lichess": {
+    "id": "standardchess_bot",
+    "provider": "lichess",
+    "username": "StandardChess_Bot",
+    "firstSeen": 1605596898961,
+    "lastSeen": 1605597187750
+  },
+  "spideychess0108@lichess": {
+    "id": "spideychess0108",
+    "provider": "lichess",
+    "username": "spideychess0108",
+    "firstSeen": 1605596916435,
+    "lastSeen": 1605597174756
+  }
+}
