@@ -1,0 +1,30 @@
+{
+  "chesshyperbot@lichess": {
+    "id": "chesshyperbot",
+    "provider": "lichess",
+    "username": "chesshyperbot",
+    "firstSeen": 1605619303604,
+    "lastSeen": 1605619307626
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1605619350679,
+    "lastSeen": 1605619409840
+  },
+  "gapple_3@lichess": {
+    "id": "gapple_3",
+    "provider": "lichess",
+    "username": "Gapple_3",
+    "firstSeen": 1605619677130,
+    "lastSeen": 1605619705383
+  },
+  "fluffballcuddly@lichess": {
+    "id": "fluffballcuddly",
+    "provider": "lichess",
+    "username": "FluffBallCuddly",
+    "firstSeen": 1605619734916,
+    "lastSeen": 1605619734916
+  }
+}
