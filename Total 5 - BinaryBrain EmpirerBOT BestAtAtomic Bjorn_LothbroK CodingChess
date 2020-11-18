@@ -1,0 +1,40 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1605683326633,
+    "lastSeen": 1605697040841,
+    "firstSeenTime": "7:08:46 AM",
+    "lastSeenTime": "8:29:25 AM",
+    "onlineDurationMins": 80.6489
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1605690849659,
+    "lastSeen": 1605697124208
+  },
+  "bestatatomic@lichess": {
+    "id": "bestatatomic",
+    "provider": "lichess",
+    "username": "BestAtAtomic",
+    "firstSeen": 1605692634864,
+    "lastSeen": 1605697138620
+  },
+  "bjorn_lothbrok@lichess": {
+    "id": "bjorn_lothbrok",
+    "provider": "lichess",
+    "username": "Bjorn_LothbroK",
+    "firstSeen": 1605694865444,
+    "lastSeen": 1605697251885
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1605697202315,
+    "lastSeen": 1605697442648
+  }
+}
