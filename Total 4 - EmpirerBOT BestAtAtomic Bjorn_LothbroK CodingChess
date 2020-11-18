@@ -1,0 +1,30 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1605690849659,
+    "lastSeen": 1605699177503
+  },
+  "bestatatomic@lichess": {
+    "id": "bestatatomic",
+    "provider": "lichess",
+    "username": "BestAtAtomic",
+    "firstSeen": 1605692634864,
+    "lastSeen": 1605699268330
+  },
+  "bjorn_lothbrok@lichess": {
+    "id": "bjorn_lothbrok",
+    "provider": "lichess",
+    "username": "Bjorn_LothbroK",
+    "firstSeen": 1605694865444,
+    "lastSeen": 1605699289555
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1605697202315,
+    "lastSeen": 1605699006340
+  }
+}
