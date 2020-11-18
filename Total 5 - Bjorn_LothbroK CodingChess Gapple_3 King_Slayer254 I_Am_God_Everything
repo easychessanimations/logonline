@@ -1,0 +1,49 @@
+{
+  "bjorn_lothbrok@lichess": {
+    "id": "bjorn_lothbrok",
+    "provider": "lichess",
+    "username": "Bjorn_LothbroK",
+    "firstSeen": 1605704527497,
+    "lastSeen": 1605706974502,
+    "firstSeenTime": "1:02:07 PM",
+    "lastSeenTime": "1:42:54 PM",
+    "onlineDurationMins": 40.78341666666667
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1605704642116,
+    "lastSeen": 1605707471113,
+    "firstSeenTime": "1:04:02 PM",
+    "lastSeenTime": "1:39:09 PM",
+    "onlineDurationMins": 35.12263333333333
+  },
+  "gapple_3@lichess": {
+    "id": "gapple_3",
+    "provider": "lichess",
+    "username": "Gapple_3",
+    "firstSeen": 1605705548185,
+    "lastSeen": 1605707400025,
+    "firstSeenTime": "1:19:08 PM",
+    "lastSeenTime": "1:43:07 PM",
+    "onlineDurationMins": 23.9821
+  },
+  "king_slayer254@lichess": {
+    "id": "king_slayer254",
+    "provider": "lichess",
+    "username": "King_Slayer254",
+    "firstSeen": 1605706682969,
+    "lastSeen": 1605707683937,
+    "firstSeenTime": "1:38:02 PM",
+    "lastSeenTime": "1:38:22 PM",
+    "onlineDurationMins": 0.3232833333333333
+  },
+  "i_am_god_everything@lichess": {
+    "id": "i_am_god_everything",
+    "provider": "lichess",
+    "username": "I_Am_God_Everything",
+    "firstSeen": 1605707725932,
+    "lastSeen": 1605707725933
+  }
+}
