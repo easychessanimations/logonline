@@ -1,0 +1,66 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1605708790542,
+    "lastSeen": 1605730134123,
+    "firstSeenTime": "2:13:10 PM",
+    "lastSeenTime": "7:42:35 PM",
+    "onlineDurationMins": 329.4142166666667
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1605715402118,
+    "lastSeen": 1605729982765,
+    "firstSeenTime": "4:03:22 PM",
+    "lastSeenTime": "7:42:25 PM",
+    "onlineDurationMins": 219.06106666666668
+  },
+  "catfischxiistcentury@lichess": {
+    "id": "catfischxiistcentury",
+    "provider": "lichess",
+    "username": "CatfischXIIstCentury",
+    "firstSeen": 1605717100745,
+    "lastSeen": 1605730198330,
+    "firstSeenTime": "4:31:40 PM",
+    "lastSeenTime": "7:42:14 PM",
+    "onlineDurationMins": 190.56246666666667
+  },
+  "superman-chess@lichess": {
+    "id": "superman-chess",
+    "provider": "lichess",
+    "username": "Superman-Chess",
+    "firstSeen": 1605721895465,
+    "lastSeen": 1605730133923,
+    "firstSeenTime": "5:51:35 PM",
+    "lastSeenTime": "7:45:20 PM",
+    "onlineDurationMins": 113.75541666666666
+  },
+  "followifyouwant@lichess": {
+    "id": "followifyouwant",
+    "provider": "lichess",
+    "username": "FollowIfyouWant",
+    "firstSeen": 1605724905897,
+    "lastSeen": 1605730334448,
+    "firstSeenTime": "6:41:45 PM",
+    "lastSeenTime": "7:43:31 PM",
+    "onlineDurationMins": 61.75331666666667
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1605729838741,
+    "lastSeen": 1605729841986
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1605730351082,
+    "lastSeen": 1605730351082
+  }
+}
