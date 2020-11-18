@@ -1,0 +1,30 @@
+{
+  "bestatatomic@lichess": {
+    "id": "bestatatomic",
+    "provider": "lichess",
+    "username": "BestAtAtomic",
+    "firstSeen": 1605692634864,
+    "lastSeen": 1605700980063
+  },
+  "bjorn_lothbrok@lichess": {
+    "id": "bjorn_lothbrok",
+    "provider": "lichess",
+    "username": "Bjorn_LothbroK",
+    "firstSeen": 1605694865444,
+    "lastSeen": 1605701223903
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1605697202315,
+    "lastSeen": 1605700632252
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1605699293321,
+    "lastSeen": 1605700931408
+  }
+}
