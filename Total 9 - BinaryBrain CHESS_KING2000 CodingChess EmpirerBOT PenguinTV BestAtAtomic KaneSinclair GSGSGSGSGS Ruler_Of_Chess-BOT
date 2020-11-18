@@ -1,0 +1,71 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1605683326633,
+    "lastSeen": 1605692404470,
+    "firstSeenTime": "7:08:46 AM",
+    "lastSeenTime": "8:29:25 AM",
+    "onlineDurationMins": 80.6489
+  },
+  "chess_king2000@lichess": {
+    "id": "chess_king2000",
+    "provider": "lichess",
+    "username": "CHESS_KING2000",
+    "firstSeen": 1605685013126,
+    "lastSeen": 1605692497396,
+    "firstSeenTime": "7:36:53 AM",
+    "lastSeenTime": "8:29:33 AM",
+    "onlineDurationMins": 52.67405
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1605690329331,
+    "lastSeen": 1605692555328
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1605690849659,
+    "lastSeen": 1605693017377
+  },
+  "penguintv@lichess": {
+    "id": "penguintv",
+    "provider": "lichess",
+    "username": "PenguinTV",
+    "firstSeen": 1605691972995,
+    "lastSeen": 1605692633421
+  },
+  "bestatatomic@lichess": {
+    "id": "bestatatomic",
+    "provider": "lichess",
+    "username": "BestAtAtomic",
+    "firstSeen": 1605692634864,
+    "lastSeen": 1605693045458
+  },
+  "kanesinclair@lichess": {
+    "id": "kanesinclair",
+    "provider": "lichess",
+    "username": "KaneSinclair",
+    "firstSeen": 1605692856581,
+    "lastSeen": 1605692919245
+  },
+  "gsgsgsgsgs@lichess": {
+    "id": "gsgsgsgsgs",
+    "provider": "lichess",
+    "username": "GSGSGSGSGS",
+    "firstSeen": 1605692929435,
+    "lastSeen": 1605692937670
+  },
+  "ruler_of_chess-bot@lichess": {
+    "id": "ruler_of_chess-bot",
+    "provider": "lichess",
+    "username": "Ruler_Of_Chess-BOT",
+    "firstSeen": 1605693046410,
+    "lastSeen": 1605693046410
+  }
+}
