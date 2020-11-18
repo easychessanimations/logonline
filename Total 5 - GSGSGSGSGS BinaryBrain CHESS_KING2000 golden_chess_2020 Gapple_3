@@ -4,34 +4,46 @@
     "provider": "lichess",
     "username": "GSGSGSGSGS",
     "firstSeen": 1605682287365,
-    "lastSeen": 1605687698190
+    "lastSeen": 1605688037906,
+    "firstSeenTime": "6:51:27 AM",
+    "lastSeenTime": "8:27:17 AM",
+    "onlineDurationMins": 95.84235
   },
   "binarybrain@lichess": {
     "id": "binarybrain",
     "provider": "lichess",
     "username": "BinaryBrain",
     "firstSeen": 1605683326633,
-    "lastSeen": 1605687848976
+    "lastSeen": 1605688165567,
+    "firstSeenTime": "7:08:46 AM",
+    "lastSeenTime": "8:29:25 AM",
+    "onlineDurationMins": 80.6489
   },
   "chess_king2000@lichess": {
     "id": "chess_king2000",
     "provider": "lichess",
     "username": "CHESS_KING2000",
     "firstSeen": 1605685013126,
-    "lastSeen": 1605687577977
+    "lastSeen": 1605688173569,
+    "firstSeenTime": "7:36:53 AM",
+    "lastSeenTime": "8:29:33 AM",
+    "onlineDurationMins": 52.67405
   },
   "golden_chess_2020@lichess": {
     "id": "golden_chess_2020",
     "provider": "lichess",
     "username": "golden_chess_2020",
     "firstSeen": 1605685885518,
-    "lastSeen": 1605687488752
+    "lastSeen": 1605687488752,
+    "firstSeenTime": "7:51:25 AM",
+    "lastSeenTime": "8:18:08 AM",
+    "onlineDurationMins": 26.720566666666667
   },
   "gapple_3@lichess": {
     "id": "gapple_3",
     "provider": "lichess",
     "username": "Gapple_3",
-    "firstSeen": 1605687155514,
-    "lastSeen": 1605687166702
+    "firstSeen": 1605688288800,
+    "lastSeen": 1605688288800
   }
 }
