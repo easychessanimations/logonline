@@ -1,0 +1,50 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1605683326633,
+    "lastSeen": 1605693686148,
+    "firstSeenTime": "7:08:46 AM",
+    "lastSeenTime": "8:29:25 AM",
+    "onlineDurationMins": 80.6489
+  },
+  "chess_king2000@lichess": {
+    "id": "chess_king2000",
+    "provider": "lichess",
+    "username": "CHESS_KING2000",
+    "firstSeen": 1605685013126,
+    "lastSeen": 1605693822797,
+    "firstSeenTime": "7:36:53 AM",
+    "lastSeenTime": "8:29:33 AM",
+    "onlineDurationMins": 52.67405
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1605690849659,
+    "lastSeen": 1605693853880
+  },
+  "bestatatomic@lichess": {
+    "id": "bestatatomic",
+    "provider": "lichess",
+    "username": "BestAtAtomic",
+    "firstSeen": 1605692634864,
+    "lastSeen": 1605694308217
+  },
+  "gsgsgsgsgs@lichess": {
+    "id": "gsgsgsgsgs",
+    "provider": "lichess",
+    "username": "GSGSGSGSGS",
+    "firstSeen": 1605692929435,
+    "lastSeen": 1605693593435
+  },
+  "ruler_of_chess-bot@lichess": {
+    "id": "ruler_of_chess-bot",
+    "provider": "lichess",
+    "username": "Ruler_Of_Chess-BOT",
+    "firstSeen": 1605693046410,
+    "lastSeen": 1605693836952
+  }
+}
