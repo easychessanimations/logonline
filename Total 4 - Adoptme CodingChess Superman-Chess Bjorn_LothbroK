@@ -1,0 +1,39 @@
+{
+  "adoptme@lichess": {
+    "id": "adoptme",
+    "provider": "lichess",
+    "username": "Adoptme",
+    "firstSeen": 1605787254684,
+    "lastSeen": 1605809096994,
+    "firstSeenTime": "12:00:54 PM",
+    "lastSeenTime": "5:54:07 PM",
+    "onlineDurationMins": 353.20995
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1605788392249,
+    "lastSeen": 1605809062128,
+    "firstSeenTime": "12:19:52 PM",
+    "lastSeenTime": "5:57:11 PM",
+    "onlineDurationMins": 337.31986666666666
+  },
+  "superman-chess@lichess": {
+    "id": "superman-chess",
+    "provider": "lichess",
+    "username": "Superman-Chess",
+    "firstSeen": 1605806515447,
+    "lastSeen": 1605809157589,
+    "firstSeenTime": "5:21:55 PM",
+    "lastSeenTime": "5:55:00 PM",
+    "onlineDurationMins": 33.08983333333333
+  },
+  "bjorn_lothbrok@lichess": {
+    "id": "bjorn_lothbrok",
+    "provider": "lichess",
+    "username": "Bjorn_LothbroK",
+    "firstSeen": 1605809413763,
+    "lastSeen": 1605809413763
+  }
+}
