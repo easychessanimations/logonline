@@ -1,0 +1,33 @@
+{
+  "adoptme@lichess": {
+    "id": "adoptme",
+    "provider": "lichess",
+    "username": "Adoptme",
+    "firstSeen": 1605770754656,
+    "lastSeen": 1605783884409,
+    "firstSeenTime": "7:25:54 AM",
+    "lastSeenTime": "8:10:01 AM",
+    "onlineDurationMins": 44.11391666666667
+  },
+  "chess_king2000@lichess": {
+    "id": "chess_king2000",
+    "provider": "lichess",
+    "username": "CHESS_KING2000",
+    "firstSeen": 1605782342040,
+    "lastSeen": 1605783844970
+  },
+  "king_stars_bot@lichess": {
+    "id": "king_stars_bot",
+    "provider": "lichess",
+    "username": "King_Stars_BOT",
+    "firstSeen": 1605783834784,
+    "lastSeen": 1605783896547
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1605784231266,
+    "lastSeen": 1605784231266
+  }
+}
