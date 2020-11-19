@@ -1,0 +1,36 @@
+{
+  "adoptme@lichess": {
+    "id": "adoptme",
+    "provider": "lichess",
+    "username": "Adoptme",
+    "firstSeen": 1605787254684,
+    "lastSeen": 1605802981809,
+    "firstSeenTime": "12:00:54 PM",
+    "lastSeenTime": "1:05:58 PM",
+    "onlineDurationMins": 65.06398333333334
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1605788392249,
+    "lastSeen": 1605803061269,
+    "firstSeenTime": "12:19:52 PM",
+    "lastSeenTime": "1:05:56 PM",
+    "onlineDurationMins": 46.074216666666665
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1605801531879,
+    "lastSeen": 1605802963715
+  },
+  "drmeowmeow@lichess": {
+    "id": "drmeowmeow",
+    "provider": "lichess",
+    "username": "DrMeowMeow",
+    "firstSeen": 1605802305732,
+    "lastSeen": 1605802971842
+  }
+}
