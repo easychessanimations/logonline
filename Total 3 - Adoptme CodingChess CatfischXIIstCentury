@@ -1,0 +1,32 @@
+{
+  "adoptme@lichess": {
+    "id": "adoptme",
+    "provider": "lichess",
+    "username": "Adoptme",
+    "firstSeen": 1605787254684,
+    "lastSeen": 1605812938565,
+    "firstSeenTime": "12:00:54 PM",
+    "lastSeenTime": "7:03:27 PM",
+    "onlineDurationMins": 422.54045
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1605788392249,
+    "lastSeen": 1605813021452,
+    "firstSeenTime": "12:19:52 PM",
+    "lastSeenTime": "7:00:16 PM",
+    "onlineDurationMins": 400.4032833333333
+  },
+  "catfischxiistcentury@lichess": {
+    "id": "catfischxiistcentury",
+    "provider": "lichess",
+    "username": "CatfischXIIstCentury",
+    "firstSeen": 1605812467127,
+    "lastSeen": 1605812888728,
+    "firstSeenTime": "7:01:07 PM",
+    "lastSeenTime": "7:02:33 PM",
+    "onlineDurationMins": 1.4392666666666667
+  }
+}
