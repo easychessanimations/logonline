@@ -1,0 +1,23 @@
+{
+  "mentalofchess@lichess": {
+    "id": "mentalofchess",
+    "provider": "lichess",
+    "username": "MeNtAlOfChEsS",
+    "firstSeen": 1605786055569,
+    "lastSeen": 1605786055569
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1605786055586,
+    "lastSeen": 1605786060008
+  },
+  "adoptme@lichess": {
+    "id": "adoptme",
+    "provider": "lichess",
+    "username": "Adoptme",
+    "firstSeen": 1605786266472,
+    "lastSeen": 1605786266472
+  }
+}
