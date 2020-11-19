@@ -1,0 +1,26 @@
+{
+  "adoptme@lichess": {
+    "id": "adoptme",
+    "provider": "lichess",
+    "username": "Adoptme",
+    "firstSeen": 1605770754656,
+    "lastSeen": 1605777022829,
+    "firstSeenTime": "7:25:54 AM",
+    "lastSeenTime": "8:10:01 AM",
+    "onlineDurationMins": 44.11391666666667
+  },
+  "superman-chess@lichess": {
+    "id": "superman-chess",
+    "provider": "lichess",
+    "username": "Superman-Chess",
+    "firstSeen": 1605776476945,
+    "lastSeen": 1605777143646
+  },
+  "angas_icpilar@lichess": {
+    "id": "angas_icpilar",
+    "provider": "lichess",
+    "username": "angas_icpilar",
+    "firstSeen": 1605777444869,
+    "lastSeen": 1605777444869
+  }
+}
