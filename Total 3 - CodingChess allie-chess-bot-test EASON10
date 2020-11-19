@@ -1,0 +1,26 @@
+{
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1605788392249,
+    "lastSeen": 1605821125711,
+    "firstSeenTime": "12:19:52 PM",
+    "lastSeenTime": "7:13:15 PM",
+    "onlineDurationMins": 413.38828333333333
+  },
+  "allie-chess-bot-test@lichess": {
+    "id": "allie-chess-bot-test",
+    "provider": "lichess",
+    "username": "allie-chess-bot-test",
+    "firstSeen": 1605818801845,
+    "lastSeen": 1605820779502
+  },
+  "eason10@lichess": {
+    "id": "eason10",
+    "provider": "lichess",
+    "username": "EASON10",
+    "firstSeen": 1605821372611,
+    "lastSeen": 1605821372611
+  }
+}
