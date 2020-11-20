@@ -1,0 +1,79 @@
+{
+  "thepersonofchess@lichess": {
+    "id": "thepersonofchess",
+    "provider": "lichess",
+    "username": "ThePersonOfChess",
+    "firstSeen": 1605897654078,
+    "lastSeen": 1605901519097,
+    "firstSeenTime": "6:40:54 PM",
+    "lastSeenTime": "7:45:19 PM",
+    "onlineDurationMins": 64.41698333333333
+  },
+  "butzke_bot@lichess": {
+    "id": "butzke_bot",
+    "provider": "lichess",
+    "username": "Butzke_BOT",
+    "firstSeen": 1605897899548,
+    "lastSeen": 1605901423522,
+    "firstSeenTime": "6:44:59 PM",
+    "lastSeenTime": "7:43:43 PM",
+    "onlineDurationMins": 58.7329
+  },
+  "catfischxiistcentury@lichess": {
+    "id": "catfischxiistcentury",
+    "provider": "lichess",
+    "username": "CatfischXIIstCentury",
+    "firstSeen": 1605898181114,
+    "lastSeen": 1605901282549,
+    "firstSeenTime": "6:49:41 PM",
+    "lastSeenTime": "7:41:22 PM",
+    "onlineDurationMins": 51.690583333333336
+  },
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1605899147830,
+    "lastSeen": 1605901131524,
+    "firstSeenTime": "7:05:47 PM",
+    "lastSeenTime": "7:38:51 PM",
+    "onlineDurationMins": 33.061566666666664
+  },
+  "bjorn_lothbrok@lichess": {
+    "id": "bjorn_lothbrok",
+    "provider": "lichess",
+    "username": "Bjorn_LothbroK",
+    "firstSeen": 1605899796352,
+    "lastSeen": 1605901094611,
+    "firstSeenTime": "7:16:36 PM",
+    "lastSeenTime": "7:38:14 PM",
+    "onlineDurationMins": 21.63765
+  },
+  "allie-chess-bot-test@lichess": {
+    "id": "allie-chess-bot-test",
+    "provider": "lichess",
+    "username": "allie-chess-bot-test",
+    "firstSeen": 1605900225304,
+    "lastSeen": 1605901727479,
+    "firstSeenTime": "7:23:45 PM",
+    "lastSeenTime": "7:35:50 PM",
+    "onlineDurationMins": 12.093083333333333
+  },
+  "lolcheckmategg@lichess": {
+    "id": "lolcheckmategg",
+    "provider": "lichess",
+    "username": "LolCheckmategg",
+    "firstSeen": 1605901085894,
+    "lastSeen": 1605901090022,
+    "firstSeenTime": "7:38:05 PM",
+    "lastSeenTime": "7:38:10 PM",
+    "onlineDurationMins": 0.0688
+  },
+  "komodowannabe@lichess": {
+    "id": "komodowannabe",
+    "provider": "lichess",
+    "username": "KomodoWannabe",
+    "firstSeen": 1605901748282,
+    "lastSeen": 1605901748283
+  }
+}
