@@ -1,0 +1,63 @@
+{
+  "thepersonofchess@lichess": {
+    "id": "thepersonofchess",
+    "provider": "lichess",
+    "username": "ThePersonOfChess",
+    "firstSeen": 1605897654078,
+    "lastSeen": 1605911156477,
+    "firstSeenTime": "6:40:54 PM",
+    "lastSeenTime": "8:21:37 PM",
+    "onlineDurationMins": 100.71575
+  },
+  "butzke_bot@lichess": {
+    "id": "butzke_bot",
+    "provider": "lichess",
+    "username": "Butzke_BOT",
+    "firstSeen": 1605897899548,
+    "lastSeen": 1605911147386,
+    "firstSeenTime": "6:44:59 PM",
+    "lastSeenTime": "8:18:50 PM",
+    "onlineDurationMins": 93.8417
+  },
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1605899147830,
+    "lastSeen": 1605911387767,
+    "firstSeenTime": "7:05:47 PM",
+    "lastSeenTime": "8:12:51 PM",
+    "onlineDurationMins": 67.05988333333333
+  },
+  "komodowannabe@lichess": {
+    "id": "komodowannabe",
+    "provider": "lichess",
+    "username": "KomodoWannabe",
+    "firstSeen": 1605901748282,
+    "lastSeen": 1605911314019,
+    "firstSeenTime": "7:49:08 PM",
+    "lastSeenTime": "8:14:11 PM",
+    "onlineDurationMins": 25.056116666666668
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1605907906887,
+    "lastSeen": 1605910669558
+  },
+  "bot-samuelkc-bot@lichess": {
+    "id": "bot-samuelkc-bot",
+    "provider": "lichess",
+    "username": "bot-samuelkc-bot",
+    "firstSeen": 1605908226239,
+    "lastSeen": 1605911279997
+  },
+  "lolcheckmategg@lichess": {
+    "id": "lolcheckmategg",
+    "provider": "lichess",
+    "username": "LolCheckmategg",
+    "firstSeen": 1605909463788,
+    "lastSeen": 1605910973466
+  }
+}
