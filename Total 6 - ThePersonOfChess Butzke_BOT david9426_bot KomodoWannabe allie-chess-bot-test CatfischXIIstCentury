@@ -1,0 +1,56 @@
+{
+  "thepersonofchess@lichess": {
+    "id": "thepersonofchess",
+    "provider": "lichess",
+    "username": "ThePersonOfChess",
+    "firstSeen": 1605897654078,
+    "lastSeen": 1605907252961,
+    "firstSeenTime": "6:40:54 PM",
+    "lastSeenTime": "8:21:37 PM",
+    "onlineDurationMins": 100.71575
+  },
+  "butzke_bot@lichess": {
+    "id": "butzke_bot",
+    "provider": "lichess",
+    "username": "Butzke_BOT",
+    "firstSeen": 1605897899548,
+    "lastSeen": 1605907492053,
+    "firstSeenTime": "6:44:59 PM",
+    "lastSeenTime": "8:18:50 PM",
+    "onlineDurationMins": 93.8417
+  },
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1605899147830,
+    "lastSeen": 1605907127788,
+    "firstSeenTime": "7:05:47 PM",
+    "lastSeenTime": "8:12:51 PM",
+    "onlineDurationMins": 67.05988333333333
+  },
+  "komodowannabe@lichess": {
+    "id": "komodowannabe",
+    "provider": "lichess",
+    "username": "KomodoWannabe",
+    "firstSeen": 1605901748282,
+    "lastSeen": 1605907717528,
+    "firstSeenTime": "7:49:08 PM",
+    "lastSeenTime": "8:14:11 PM",
+    "onlineDurationMins": 25.056116666666668
+  },
+  "allie-chess-bot-test@lichess": {
+    "id": "allie-chess-bot-test",
+    "provider": "lichess",
+    "username": "allie-chess-bot-test",
+    "firstSeen": 1605904727483,
+    "lastSeen": 1605907547497
+  },
+  "catfischxiistcentury@lichess": {
+    "id": "catfischxiistcentury",
+    "provider": "lichess",
+    "username": "CatfischXIIstCentury",
+    "firstSeen": 1605906773715,
+    "lastSeen": 1605907319733
+  }
+}
