@@ -1,0 +1,51 @@
+{
+  "thepersonofchess@lichess": {
+    "id": "thepersonofchess",
+    "provider": "lichess",
+    "username": "ThePersonOfChess",
+    "firstSeen": 1605897654078,
+    "lastSeen": 1605900521959
+  },
+  "butzke_bot@lichess": {
+    "id": "butzke_bot",
+    "provider": "lichess",
+    "username": "Butzke_BOT",
+    "firstSeen": 1605897899548,
+    "lastSeen": 1605900466733
+  },
+  "catfischxiistcentury@lichess": {
+    "id": "catfischxiistcentury",
+    "provider": "lichess",
+    "username": "CatfischXIIstCentury",
+    "firstSeen": 1605898181114,
+    "lastSeen": 1605900784676
+  },
+  "david9426_bot@lichess": {
+    "id": "david9426_bot",
+    "provider": "lichess",
+    "username": "david9426_bot",
+    "firstSeen": 1605899147830,
+    "lastSeen": 1605900887834
+  },
+  "bjorn_lothbrok@lichess": {
+    "id": "bjorn_lothbrok",
+    "provider": "lichess",
+    "username": "Bjorn_LothbroK",
+    "firstSeen": 1605899796352,
+    "lastSeen": 1605901034071
+  },
+  "allie-chess-bot-test@lichess": {
+    "id": "allie-chess-bot-test",
+    "provider": "lichess",
+    "username": "allie-chess-bot-test",
+    "firstSeen": 1605900225304,
+    "lastSeen": 1605900950889
+  },
+  "lolcheckmategg@lichess": {
+    "id": "lolcheckmategg",
+    "provider": "lichess",
+    "username": "LolCheckmategg",
+    "firstSeen": 1605901085894,
+    "lastSeen": 1605901085894
+  }
+}
