@@ -1,0 +1,29 @@
+{
+  "sabbareesh_8@lichess": {
+    "id": "sabbareesh_8",
+    "provider": "lichess",
+    "username": "sabbareesh_8",
+    "firstSeen": 1605937710417,
+    "lastSeen": 1605949081556,
+    "firstSeenTime": "5:48:30 AM",
+    "lastSeenTime": "8:47:01 AM",
+    "onlineDurationMins": 178.52148333333332
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1605947457622,
+    "lastSeen": 1605949137079,
+    "firstSeenTime": "8:30:57 AM",
+    "lastSeenTime": "8:56:29 AM",
+    "onlineDurationMins": 25.52541666666667
+  },
+  "gmchessmapbuddy@lichess": {
+    "id": "gmchessmapbuddy",
+    "provider": "lichess",
+    "username": "gmchessmapbuddy",
+    "firstSeen": 1605949373820,
+    "lastSeen": 1605949373820
+  }
+}
