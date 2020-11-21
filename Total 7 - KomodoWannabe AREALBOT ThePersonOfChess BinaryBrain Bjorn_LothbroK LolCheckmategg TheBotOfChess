@@ -1,0 +1,60 @@
+{
+  "komodowannabe@lichess": {
+    "id": "komodowannabe",
+    "provider": "lichess",
+    "username": "KomodoWannabe",
+    "firstSeen": 1605986042943,
+    "lastSeen": 1606002963321,
+    "firstSeenTime": "7:14:02 PM",
+    "lastSeenTime": "7:50:11 PM",
+    "onlineDurationMins": 36.144333333333336
+  },
+  "arealbot@lichess": {
+    "id": "arealbot",
+    "provider": "lichess",
+    "username": "AREALBOT",
+    "firstSeen": 1605986071985,
+    "lastSeen": 1606002751687,
+    "firstSeenTime": "7:14:31 PM",
+    "lastSeenTime": "7:47:35 PM",
+    "onlineDurationMins": 33.05403333333334
+  },
+  "thepersonofchess@lichess": {
+    "id": "thepersonofchess",
+    "provider": "lichess",
+    "username": "ThePersonOfChess",
+    "firstSeen": 1605986394126,
+    "lastSeen": 1606003059075,
+    "firstSeenTime": "7:19:54 PM",
+    "lastSeenTime": "7:47:39 PM",
+    "onlineDurationMins": 27.7643
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606002562740,
+    "lastSeen": 1606002908701
+  },
+  "bjorn_lothbrok@lichess": {
+    "id": "bjorn_lothbrok",
+    "provider": "lichess",
+    "username": "Bjorn_LothbroK",
+    "firstSeen": 1606002651427,
+    "lastSeen": 1606003053484
+  },
+  "lolcheckmategg@lichess": {
+    "id": "lolcheckmategg",
+    "provider": "lichess",
+    "username": "LolCheckmategg",
+    "firstSeen": 1606002790598,
+    "lastSeen": 1606002804599
+  },
+  "thebotofchess@lichess": {
+    "id": "thebotofchess",
+    "provider": "lichess",
+    "username": "TheBotOfChess",
+    "firstSeen": 1606003069310,
+    "lastSeen": 1606003069310
+  }
+}
