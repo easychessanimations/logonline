@@ -1,0 +1,33 @@
+{
+  "thepersonofchess@lichess": {
+    "id": "thepersonofchess",
+    "provider": "lichess",
+    "username": "ThePersonOfChess",
+    "firstSeen": 1605968275665,
+    "lastSeen": 1605973808199,
+    "firstSeenTime": "2:17:55 PM",
+    "lastSeenTime": "2:40:12 PM",
+    "onlineDurationMins": 22.28445
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1605971206260,
+    "lastSeen": 1605973308481
+  },
+  "alliedalien@lichess": {
+    "id": "alliedalien",
+    "provider": "lichess",
+    "username": "AlliedAlien",
+    "firstSeen": 1605972979055,
+    "lastSeen": 1605973149784
+  },
+  "calmbot@lichess": {
+    "id": "calmbot",
+    "provider": "lichess",
+    "username": "CalmBot",
+    "firstSeen": 1605973965559,
+    "lastSeen": 1605973965559
+  }
+}
