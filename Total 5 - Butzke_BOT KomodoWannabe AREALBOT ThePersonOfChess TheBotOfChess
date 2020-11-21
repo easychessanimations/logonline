@@ -4,46 +4,49 @@
     "provider": "lichess",
     "username": "Butzke_BOT",
     "firstSeen": 1605986037923,
-    "lastSeen": 1605987697626,
+    "lastSeen": 1605989402378,
     "firstSeenTime": "7:13:57 PM",
-    "lastSeenTime": "7:36:56 PM",
-    "onlineDurationMins": 22.973133333333333
+    "lastSeenTime": "7:49:33 PM",
+    "onlineDurationMins": 35.5876
   },
   "komodowannabe@lichess": {
     "id": "komodowannabe",
     "provider": "lichess",
     "username": "KomodoWannabe",
     "firstSeen": 1605986042943,
-    "lastSeen": 1605987544976,
+    "lastSeen": 1605989402608,
     "firstSeenTime": "7:14:02 PM",
-    "lastSeenTime": "7:39:04 PM",
-    "onlineDurationMins": 25.033883333333332
+    "lastSeenTime": "7:50:11 PM",
+    "onlineDurationMins": 36.144333333333336
   },
   "arealbot@lichess": {
     "id": "arealbot",
     "provider": "lichess",
     "username": "AREALBOT",
     "firstSeen": 1605986071985,
-    "lastSeen": 1605987391973,
+    "lastSeen": 1605989371901,
     "firstSeenTime": "7:14:31 PM",
-    "lastSeenTime": "7:36:31 PM",
-    "onlineDurationMins": 21.9998
+    "lastSeenTime": "7:47:35 PM",
+    "onlineDurationMins": 33.05403333333334
   },
   "thepersonofchess@lichess": {
     "id": "thepersonofchess",
     "provider": "lichess",
     "username": "ThePersonOfChess",
     "firstSeen": 1605986394126,
-    "lastSeen": 1605987702541,
+    "lastSeen": 1605989559231,
     "firstSeenTime": "7:19:54 PM",
-    "lastSeenTime": "7:30:42 PM",
-    "onlineDurationMins": 10.804516666666666
+    "lastSeenTime": "7:47:39 PM",
+    "onlineDurationMins": 27.7643
   },
   "thebotofchess@lichess": {
     "id": "thebotofchess",
     "provider": "lichess",
     "username": "TheBotOfChess",
     "firstSeen": 1605987770079,
-    "lastSeen": 1605987770080
+    "lastSeen": 1605989449375,
+    "firstSeenTime": "7:42:50 PM",
+    "lastSeenTime": "7:49:37 PM",
+    "onlineDurationMins": 6.785833333333334
   }
 }
