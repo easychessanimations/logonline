@@ -1,0 +1,33 @@
+{
+  "komodowannabe@lichess": {
+    "id": "komodowannabe",
+    "provider": "lichess",
+    "username": "KomodoWannabe",
+    "firstSeen": 1605901748282,
+    "lastSeen": 1605932075979,
+    "firstSeenTime": "7:49:08 PM",
+    "lastSeenTime": "12:38:11 AM",
+    "onlineDurationMins": 289.05815
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1605930665418,
+    "lastSeen": 1605932014253
+  },
+  "smasherarijit@lichess": {
+    "id": "smasherarijit",
+    "provider": "lichess",
+    "username": "SmasherArijit",
+    "firstSeen": 1605931771613,
+    "lastSeen": 1605932100930
+  },
+  "bot_hara@lichess": {
+    "id": "bot_hara",
+    "provider": "lichess",
+    "username": "BOT_HARA",
+    "firstSeen": 1605932102097,
+    "lastSeen": 1605932102097
+  }
+}
