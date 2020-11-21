@@ -1,0 +1,36 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1605957256437,
+    "lastSeen": 1605968049926,
+    "firstSeenTime": "11:14:16 AM",
+    "lastSeenTime": "1:21:16 PM",
+    "onlineDurationMins": 127.00691666666667
+  },
+  "sabbareesh_8@lichess": {
+    "id": "sabbareesh_8",
+    "provider": "lichess",
+    "username": "sabbareesh_8",
+    "firstSeen": 1605958621642,
+    "lastSeen": 1605967281951,
+    "firstSeenTime": "11:37:01 AM",
+    "lastSeenTime": "1:23:24 PM",
+    "onlineDurationMins": 106.375
+  },
+  "goodplayer1212@lichess": {
+    "id": "goodplayer1212",
+    "provider": "lichess",
+    "username": "goodplayer1212",
+    "firstSeen": 1605966363847,
+    "lastSeen": 1605967471127
+  },
+  "bot-samuelkc-bot@lichess": {
+    "id": "bot-samuelkc-bot",
+    "provider": "lichess",
+    "username": "bot-samuelkc-bot",
+    "firstSeen": 1605967520811,
+    "lastSeen": 1605967526216
+  }
+}
