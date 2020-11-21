@@ -1,0 +1,33 @@
+{
+  "komodowannabe@lichess": {
+    "id": "komodowannabe",
+    "provider": "lichess",
+    "username": "KomodoWannabe",
+    "firstSeen": 1605901748282,
+    "lastSeen": 1605930672104,
+    "firstSeenTime": "7:49:08 PM",
+    "lastSeenTime": "12:38:11 AM",
+    "onlineDurationMins": 289.05815
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1605929909954,
+    "lastSeen": 1605930615001
+  },
+  "killerking2020@lichess": {
+    "id": "killerking2020",
+    "provider": "lichess",
+    "username": "KillerKing2020",
+    "firstSeen": 1605930194295,
+    "lastSeen": 1605930435445
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1605930665418,
+    "lastSeen": 1605930669983
+  }
+}
