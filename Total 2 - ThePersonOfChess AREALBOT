@@ -1,0 +1,22 @@
+{
+  "thepersonofchess@lichess": {
+    "id": "thepersonofchess",
+    "provider": "lichess",
+    "username": "ThePersonOfChess",
+    "firstSeen": 1605968275665,
+    "lastSeen": 1605984411382,
+    "firstSeenTime": "2:17:55 PM",
+    "lastSeenTime": "6:35:58 PM",
+    "onlineDurationMins": 258.0457333333333
+  },
+  "arealbot@lichess": {
+    "id": "arealbot",
+    "provider": "lichess",
+    "username": "AREALBOT",
+    "firstSeen": 1605981115647,
+    "lastSeen": 1605984755528,
+    "firstSeenTime": "5:51:55 PM",
+    "lastSeenTime": "6:30:35 PM",
+    "onlineDurationMins": 38.666466666666665
+  }
+}
