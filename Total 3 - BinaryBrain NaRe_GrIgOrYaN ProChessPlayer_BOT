@@ -1,0 +1,23 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606017474222,
+    "lastSeen": 1606026078242
+  },
+  "nare_grigoryan@lichess": {
+    "id": "nare_grigoryan",
+    "provider": "lichess",
+    "username": "NaRe_GrIgOrYaN",
+    "firstSeen": 1606024009952,
+    "lastSeen": 1606025661674
+  },
+  "prochessplayer_bot@lichess": {
+    "id": "prochessplayer_bot",
+    "provider": "lichess",
+    "username": "ProChessPlayer_BOT",
+    "firstSeen": 1606025414878,
+    "lastSeen": 1606025590448
+  }
+}
