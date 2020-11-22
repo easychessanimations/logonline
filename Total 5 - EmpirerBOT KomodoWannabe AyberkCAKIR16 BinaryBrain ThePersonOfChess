@@ -1,0 +1,46 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1606073630562,
+    "lastSeen": 1606077770877,
+    "firstSeenTime": "7:33:50 PM",
+    "lastSeenTime": "8:28:54 PM",
+    "onlineDurationMins": 55.06446666666667
+  },
+  "komodowannabe@lichess": {
+    "id": "komodowannabe",
+    "provider": "lichess",
+    "username": "KomodoWannabe",
+    "firstSeen": 1606076519873,
+    "lastSeen": 1606077963334,
+    "firstSeenTime": "8:21:59 PM",
+    "lastSeenTime": "8:35:59 PM",
+    "onlineDurationMins": 13.99775
+  },
+  "ayberkcakir16@lichess": {
+    "id": "ayberkcakir16",
+    "provider": "lichess",
+    "username": "AyberkCAKIR16",
+    "firstSeen": 1606077008448,
+    "lastSeen": 1606077973041,
+    "firstSeenTime": "8:30:08 PM",
+    "lastSeenTime": "8:35:55 PM",
+    "onlineDurationMins": 5.78665
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606077618836,
+    "lastSeen": 1606078279980
+  },
+  "thepersonofchess@lichess": {
+    "id": "thepersonofchess",
+    "provider": "lichess",
+    "username": "ThePersonOfChess",
+    "firstSeen": 1606078347598,
+    "lastSeen": 1606078347598
+  }
+}
