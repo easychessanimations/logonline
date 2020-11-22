@@ -1,0 +1,37 @@
+{
+  "superman-chess@lichess": {
+    "id": "superman-chess",
+    "provider": "lichess",
+    "username": "Superman-Chess",
+    "firstSeen": 1606049235172,
+    "lastSeen": 1606050742410
+  },
+  "gmchessmapbuddy@lichess": {
+    "id": "gmchessmapbuddy",
+    "provider": "lichess",
+    "username": "gmchessmapbuddy",
+    "firstSeen": 1606049891922,
+    "lastSeen": 1606050193229
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606050065577,
+    "lastSeen": 1606050736580
+  },
+  "noobbot1302@lichess": {
+    "id": "noobbot1302",
+    "provider": "lichess",
+    "username": "NoobBot1302",
+    "firstSeen": 1606050495678,
+    "lastSeen": 1606050530123
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1606050923449,
+    "lastSeen": 1606050923449
+  }
+}
