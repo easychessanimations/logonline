@@ -1,0 +1,30 @@
+{
+  "selam16dsa@lichess": {
+    "id": "selam16dsa",
+    "provider": "lichess",
+    "username": "Selam16dsa",
+    "firstSeen": 1606073391048,
+    "lastSeen": 1606075303157
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1606073630562,
+    "lastSeen": 1606075430598
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606073820964,
+    "lastSeen": 1606075523484
+  },
+  "brokenbot@lichess": {
+    "id": "brokenbot",
+    "provider": "lichess",
+    "username": "BrokenBot",
+    "firstSeen": 1606075601321,
+    "lastSeen": 1606075601321
+  }
+}
