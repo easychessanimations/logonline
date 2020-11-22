@@ -1,0 +1,40 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1606050923449,
+    "lastSeen": 1606059093939,
+    "firstSeenTime": "1:15:23 PM",
+    "lastSeenTime": "2:35:34 PM",
+    "onlineDurationMins": 80.18673333333334
+  },
+  "annihilatoru47333@lichess": {
+    "id": "annihilatoru47333",
+    "provider": "lichess",
+    "username": "Annihilatoru47333",
+    "firstSeen": 1606056304869,
+    "lastSeen": 1606059309452
+  },
+  "gsgsgsgsgs@lichess": {
+    "id": "gsgsgsgsgs",
+    "provider": "lichess",
+    "username": "GSGSGSGSGS",
+    "firstSeen": 1606057538461,
+    "lastSeen": 1606059062072
+  },
+  "gmchessmapbuddy@lichess": {
+    "id": "gmchessmapbuddy",
+    "provider": "lichess",
+    "username": "gmchessmapbuddy",
+    "firstSeen": 1606057948047,
+    "lastSeen": 1606058633333
+  },
+  "friedliverbot@lichess": {
+    "id": "friedliverbot",
+    "provider": "lichess",
+    "username": "FriedLiverBot",
+    "firstSeen": 1606059340213,
+    "lastSeen": 1606059340213
+  }
+}
