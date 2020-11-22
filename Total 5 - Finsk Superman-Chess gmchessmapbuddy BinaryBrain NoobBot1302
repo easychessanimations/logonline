@@ -1,0 +1,37 @@
+{
+  "finsk@lichess": {
+    "id": "finsk",
+    "provider": "lichess",
+    "username": "Finsk",
+    "firstSeen": 1606048800928,
+    "lastSeen": 1606049953690
+  },
+  "superman-chess@lichess": {
+    "id": "superman-chess",
+    "provider": "lichess",
+    "username": "Superman-Chess",
+    "firstSeen": 1606049235172,
+    "lastSeen": 1606049905880
+  },
+  "gmchessmapbuddy@lichess": {
+    "id": "gmchessmapbuddy",
+    "provider": "lichess",
+    "username": "gmchessmapbuddy",
+    "firstSeen": 1606049891922,
+    "lastSeen": 1606050193229
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606050065577,
+    "lastSeen": 1606050292059
+  },
+  "noobbot1302@lichess": {
+    "id": "noobbot1302",
+    "provider": "lichess",
+    "username": "NoobBot1302",
+    "firstSeen": 1606050495678,
+    "lastSeen": 1606050495678
+  }
+}
