@@ -1,0 +1,32 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1606073630562,
+    "lastSeen": 1606079997411,
+    "firstSeenTime": "7:33:50 PM",
+    "lastSeenTime": "9:19:57 PM",
+    "onlineDurationMins": 106.11415
+  },
+  "komodowannabe@lichess": {
+    "id": "komodowannabe",
+    "provider": "lichess",
+    "username": "KomodoWannabe",
+    "firstSeen": 1606076519873,
+    "lastSeen": 1606080359783,
+    "firstSeenTime": "8:21:59 PM",
+    "lastSeenTime": "9:19:03 PM",
+    "onlineDurationMins": 57.05381666666667
+  },
+  "thepersonofchess@lichess": {
+    "id": "thepersonofchess",
+    "provider": "lichess",
+    "username": "ThePersonOfChess",
+    "firstSeen": 1606078347598,
+    "lastSeen": 1606080376478,
+    "firstSeenTime": "8:52:27 PM",
+    "lastSeenTime": "9:17:47 PM",
+    "onlineDurationMins": 25.337966666666667
+  }
+}
