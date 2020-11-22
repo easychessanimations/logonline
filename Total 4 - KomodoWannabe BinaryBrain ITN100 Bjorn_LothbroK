@@ -1,0 +1,33 @@
+{
+  "komodowannabe@lichess": {
+    "id": "komodowannabe",
+    "provider": "lichess",
+    "username": "KomodoWannabe",
+    "firstSeen": 1605986042943,
+    "lastSeen": 1606012954819,
+    "firstSeenTime": "7:14:02 PM",
+    "lastSeenTime": "7:50:11 PM",
+    "onlineDurationMins": 36.144333333333336
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606002562740,
+    "lastSeen": 1606013406696
+  },
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1606013246134,
+    "lastSeen": 1606013249716
+  },
+  "bjorn_lothbrok@lichess": {
+    "id": "bjorn_lothbrok",
+    "provider": "lichess",
+    "username": "Bjorn_LothbroK",
+    "firstSeen": 1606013566600,
+    "lastSeen": 1606013566600
+  }
+}
