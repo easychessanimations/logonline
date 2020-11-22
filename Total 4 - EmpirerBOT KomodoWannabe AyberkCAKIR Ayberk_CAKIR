@@ -1,0 +1,30 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1606073630562,
+    "lastSeen": 1606076270598
+  },
+  "komodowannabe@lichess": {
+    "id": "komodowannabe",
+    "provider": "lichess",
+    "username": "KomodoWannabe",
+    "firstSeen": 1606076519873,
+    "lastSeen": 1606076523438
+  },
+  "ayberkcakir@lichess": {
+    "id": "ayberkcakir",
+    "provider": "lichess",
+    "username": "AyberkCAKIR",
+    "firstSeen": 1606076656084,
+    "lastSeen": 1606076709904
+  },
+  "ayberk_cakir@lichess": {
+    "id": "ayberk_cakir",
+    "provider": "lichess",
+    "username": "Ayberk_CAKIR",
+    "firstSeen": 1606076711438,
+    "lastSeen": 1606076790522
+  }
+}
