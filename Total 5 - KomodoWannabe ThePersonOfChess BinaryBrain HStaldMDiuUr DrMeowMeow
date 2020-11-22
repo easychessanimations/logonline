@@ -1,0 +1,43 @@
+{
+  "komodowannabe@lichess": {
+    "id": "komodowannabe",
+    "provider": "lichess",
+    "username": "KomodoWannabe",
+    "firstSeen": 1605986042943,
+    "lastSeen": 1606009285465,
+    "firstSeenTime": "7:14:02 PM",
+    "lastSeenTime": "7:50:11 PM",
+    "onlineDurationMins": 36.144333333333336
+  },
+  "thepersonofchess@lichess": {
+    "id": "thepersonofchess",
+    "provider": "lichess",
+    "username": "ThePersonOfChess",
+    "firstSeen": 1605986394126,
+    "lastSeen": 1606008792290,
+    "firstSeenTime": "7:19:54 PM",
+    "lastSeenTime": "7:47:39 PM",
+    "onlineDurationMins": 27.7643
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606002562740,
+    "lastSeen": 1606009288484
+  },
+  "hstaldmdiuur@lichess": {
+    "id": "hstaldmdiuur",
+    "provider": "lichess",
+    "username": "HStaldMDiuUr",
+    "firstSeen": 1606005962264,
+    "lastSeen": 1606008956201
+  },
+  "drmeowmeow@lichess": {
+    "id": "drmeowmeow",
+    "provider": "lichess",
+    "username": "DrMeowMeow",
+    "firstSeen": 1606008856906,
+    "lastSeen": 1606008943013
+  }
+}
