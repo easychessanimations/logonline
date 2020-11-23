@@ -1,0 +1,46 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606117712226,
+    "lastSeen": 1606148704144,
+    "firstSeenTime": "7:48:32 AM",
+    "lastSeenTime": "4:08:55 PM",
+    "onlineDurationMins": 500.38433333333336
+  },
+  "thepersonofchess@lichess": {
+    "id": "thepersonofchess",
+    "provider": "lichess",
+    "username": "ThePersonOfChess",
+    "firstSeen": 1606141500059,
+    "lastSeen": 1606148289360,
+    "firstSeenTime": "2:25:00 PM",
+    "lastSeenTime": "4:07:07 PM",
+    "onlineDurationMins": 102.1215
+  },
+  "butzke_bot@lichess": {
+    "id": "butzke_bot",
+    "provider": "lichess",
+    "username": "Butzke_BOT",
+    "firstSeen": 1606147311634,
+    "lastSeen": 1606148934063,
+    "firstSeenTime": "4:01:51 PM",
+    "lastSeenTime": "4:04:49 PM",
+    "onlineDurationMins": 2.9588666666666668
+  },
+  "amir_dragon_bot@lichess": {
+    "id": "amir_dragon_bot",
+    "provider": "lichess",
+    "username": "amir_dragon_BOT",
+    "firstSeen": 1606148179640,
+    "lastSeen": 1606148847335
+  },
+  "thestockfishofchess@lichess": {
+    "id": "thestockfishofchess",
+    "provider": "lichess",
+    "username": "TheStockfishOfChess",
+    "firstSeen": 1606148943607,
+    "lastSeen": 1606148943607
+  }
+}
