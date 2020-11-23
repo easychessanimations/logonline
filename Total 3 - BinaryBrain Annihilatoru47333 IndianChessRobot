@@ -1,0 +1,29 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606117712226,
+    "lastSeen": 1606139299382,
+    "firstSeenTime": "7:48:32 AM",
+    "lastSeenTime": "1:32:54 PM",
+    "onlineDurationMins": 344.37243333333333
+  },
+  "annihilatoru47333@lichess": {
+    "id": "annihilatoru47333",
+    "provider": "lichess",
+    "username": "Annihilatoru47333",
+    "firstSeen": 1606121561322,
+    "lastSeen": 1606138943158,
+    "firstSeenTime": "8:52:41 AM",
+    "lastSeenTime": "1:31:22 PM",
+    "onlineDurationMins": 278.6920666666667
+  },
+  "indianchessrobot@lichess": {
+    "id": "indianchessrobot",
+    "provider": "lichess",
+    "username": "IndianChessRobot",
+    "firstSeen": 1606138589616,
+    "lastSeen": 1606138825565
+  }
+}
