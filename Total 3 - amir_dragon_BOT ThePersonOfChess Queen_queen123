@@ -1,0 +1,29 @@
+{
+  "amir_dragon_bot@lichess": {
+    "id": "amir_dragon_bot",
+    "provider": "lichess",
+    "username": "amir_dragon_BOT",
+    "firstSeen": 1606232966524,
+    "lastSeen": 1606240113910,
+    "firstSeenTime": "3:49:26 PM",
+    "lastSeenTime": "4:42:33 PM",
+    "onlineDurationMins": 53.11855
+  },
+  "thepersonofchess@lichess": {
+    "id": "thepersonofchess",
+    "provider": "lichess",
+    "username": "ThePersonOfChess",
+    "firstSeen": 1606236259314,
+    "lastSeen": 1606240162093,
+    "firstSeenTime": "4:44:19 PM",
+    "lastSeenTime": "4:44:39 PM",
+    "onlineDurationMins": 0.33741666666666664
+  },
+  "queen_queen123@lichess": {
+    "id": "queen_queen123",
+    "provider": "lichess",
+    "username": "Queen_queen123",
+    "firstSeen": 1606237220626,
+    "lastSeen": 1606240423987
+  }
+}
