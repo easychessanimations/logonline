@@ -1,0 +1,33 @@
+{
+  "botworld@lichess": {
+    "id": "botworld",
+    "provider": "lichess",
+    "username": "BOTWorld",
+    "firstSeen": 1606220186839,
+    "lastSeen": 1606229374552,
+    "firstSeenTime": "12:16:26 PM",
+    "lastSeenTime": "2:08:36 PM",
+    "onlineDurationMins": 112.16318333333334
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606227382061,
+    "lastSeen": 1606229677514
+  },
+  "annihilatoru47333@lichess": {
+    "id": "annihilatoru47333",
+    "provider": "lichess",
+    "username": "Annihilatoru47333",
+    "firstSeen": 1606228025650,
+    "lastSeen": 1606229350004
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1606229341576,
+    "lastSeen": 1606229593731
+  }
+}
