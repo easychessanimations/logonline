@@ -1,0 +1,22 @@
+{
+  "quinngambit@lichess": {
+    "id": "quinngambit",
+    "provider": "lichess",
+    "username": "quinngambit",
+    "firstSeen": 1606202547419,
+    "lastSeen": 1606206580412,
+    "firstSeenTime": "7:22:27 AM",
+    "lastSeenTime": "8:06:35 AM",
+    "onlineDurationMins": 44.13803333333333
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1606203640579,
+    "lastSeen": 1606206985241,
+    "firstSeenTime": "7:40:40 AM",
+    "lastSeenTime": "8:10:48 AM",
+    "onlineDurationMins": 30.127183333333335
+  }
+}
