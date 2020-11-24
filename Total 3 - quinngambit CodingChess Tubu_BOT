@@ -1,0 +1,29 @@
+{
+  "quinngambit@lichess": {
+    "id": "quinngambit",
+    "provider": "lichess",
+    "username": "quinngambit",
+    "firstSeen": 1606202547419,
+    "lastSeen": 1606207297236,
+    "firstSeenTime": "7:22:27 AM",
+    "lastSeenTime": "8:37:31 AM",
+    "onlineDurationMins": 75.07011666666666
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1606203640579,
+    "lastSeen": 1606207456065,
+    "firstSeenTime": "7:40:40 AM",
+    "lastSeenTime": "8:40:16 AM",
+    "onlineDurationMins": 59.59376666666667
+  },
+  "tubu_bot@lichess": {
+    "id": "tubu_bot",
+    "provider": "lichess",
+    "username": "Tubu_BOT",
+    "firstSeen": 1606207460194,
+    "lastSeen": 1606207460194
+  }
+}
