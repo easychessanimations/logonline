@@ -1,0 +1,26 @@
+{
+  "botworld@lichess": {
+    "id": "botworld",
+    "provider": "lichess",
+    "username": "BOTWorld",
+    "firstSeen": 1606220186839,
+    "lastSeen": 1606225018939,
+    "firstSeenTime": "12:16:26 PM",
+    "lastSeenTime": "12:27:37 PM",
+    "onlineDurationMins": 11.169733333333333
+  },
+  "noobbot1302@lichess": {
+    "id": "noobbot1302",
+    "provider": "lichess",
+    "username": "NoobBot1302",
+    "firstSeen": 1606221813868,
+    "lastSeen": 1606224817635
+  },
+  "tubu_bot@lichess": {
+    "id": "tubu_bot",
+    "provider": "lichess",
+    "username": "Tubu_BOT",
+    "firstSeen": 1606221904976,
+    "lastSeen": 1606224940252
+  }
+}
