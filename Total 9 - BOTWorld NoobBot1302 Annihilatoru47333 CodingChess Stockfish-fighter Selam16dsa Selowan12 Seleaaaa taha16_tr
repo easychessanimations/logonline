@@ -1,0 +1,68 @@
+{
+  "botworld@lichess": {
+    "id": "botworld",
+    "provider": "lichess",
+    "username": "BOTWorld",
+    "firstSeen": 1606220186839,
+    "lastSeen": 1606226349879,
+    "firstSeenTime": "12:16:26 PM",
+    "lastSeenTime": "12:27:37 PM",
+    "onlineDurationMins": 11.169733333333333
+  },
+  "noobbot1302@lichess": {
+    "id": "noobbot1302",
+    "provider": "lichess",
+    "username": "NoobBot1302",
+    "firstSeen": 1606221813868,
+    "lastSeen": 1606226380953
+  },
+  "annihilatoru47333@lichess": {
+    "id": "annihilatoru47333",
+    "provider": "lichess",
+    "username": "Annihilatoru47333",
+    "firstSeen": 1606225799721,
+    "lastSeen": 1606226469950
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1606225973348,
+    "lastSeen": 1606226698515
+  },
+  "stockfish-fighter@lichess": {
+    "id": "stockfish-fighter",
+    "provider": "lichess",
+    "username": "Stockfish-fighter",
+    "firstSeen": 1606226058901,
+    "lastSeen": 1606226065649
+  },
+  "selam16dsa@lichess": {
+    "id": "selam16dsa",
+    "provider": "lichess",
+    "username": "Selam16dsa",
+    "firstSeen": 1606226377296,
+    "lastSeen": 1606226571465
+  },
+  "selowan12@lichess": {
+    "id": "selowan12",
+    "provider": "lichess",
+    "username": "Selowan12",
+    "firstSeen": 1606226459375,
+    "lastSeen": 1606226537277
+  },
+  "seleaaaa@lichess": {
+    "id": "seleaaaa",
+    "provider": "lichess",
+    "username": "Seleaaaa",
+    "firstSeen": 1606226539414,
+    "lastSeen": 1606226691032
+  },
+  "taha16_tr@lichess": {
+    "id": "taha16_tr",
+    "provider": "lichess",
+    "username": "taha16_tr",
+    "firstSeen": 1606226706687,
+    "lastSeen": 1606226706687
+  }
+}
