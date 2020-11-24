@@ -1,0 +1,36 @@
+{
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1606216291400,
+    "lastSeen": 1606220256683,
+    "firstSeenTime": "11:11:31 AM",
+    "lastSeenTime": "12:07:49 PM",
+    "onlineDurationMins": 56.30685
+  },
+  "stockfish-fighter@lichess": {
+    "id": "stockfish-fighter",
+    "provider": "lichess",
+    "username": "Stockfish-fighter",
+    "firstSeen": 1606218889808,
+    "lastSeen": 1606220168264,
+    "firstSeenTime": "11:54:49 AM",
+    "lastSeenTime": "12:10:05 PM",
+    "onlineDurationMins": 15.26155
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606220148630,
+    "lastSeen": 1606220152719
+  },
+  "botworld@lichess": {
+    "id": "botworld",
+    "provider": "lichess",
+    "username": "BOTWorld",
+    "firstSeen": 1606220186839,
+    "lastSeen": 1606220186839
+  }
+}
