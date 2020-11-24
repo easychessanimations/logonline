@@ -1,0 +1,30 @@
+{
+  "botworld@lichess": {
+    "id": "botworld",
+    "provider": "lichess",
+    "username": "BOTWorld",
+    "firstSeen": 1606210064592,
+    "lastSeen": 1606218004100
+  },
+  "tubu_bot@lichess": {
+    "id": "tubu_bot",
+    "provider": "lichess",
+    "username": "Tubu_BOT",
+    "firstSeen": 1606210310392,
+    "lastSeen": 1606218024912
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1606216291400,
+    "lastSeen": 1606218041282
+  },
+  "berkmuhammet2010@lichess": {
+    "id": "berkmuhammet2010",
+    "provider": "lichess",
+    "username": "berkmuhammet2010",
+    "firstSeen": 1606217747294,
+    "lastSeen": 1606218161661
+  }
+}
