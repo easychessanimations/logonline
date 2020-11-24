@@ -1,0 +1,32 @@
+{
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1606216291400,
+    "lastSeen": 1606221169668,
+    "firstSeenTime": "11:11:31 AM",
+    "lastSeenTime": "12:32:49 PM",
+    "onlineDurationMins": 81.30446666666667
+  },
+  "botworld@lichess": {
+    "id": "botworld",
+    "provider": "lichess",
+    "username": "BOTWorld",
+    "firstSeen": 1606220186839,
+    "lastSeen": 1606221520899,
+    "firstSeenTime": "12:16:26 PM",
+    "lastSeenTime": "12:27:37 PM",
+    "onlineDurationMins": 11.169733333333333
+  },
+  "syedmuqriz@lichess": {
+    "id": "syedmuqriz",
+    "provider": "lichess",
+    "username": "syedmuqriz",
+    "firstSeen": 1606220663855,
+    "lastSeen": 1606220899274,
+    "firstSeenTime": "12:24:23 PM",
+    "lastSeenTime": "12:28:19 PM",
+    "onlineDurationMins": 3.92365
+  }
+}
