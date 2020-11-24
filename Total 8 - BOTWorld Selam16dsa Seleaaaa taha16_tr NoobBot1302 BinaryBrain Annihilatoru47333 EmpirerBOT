@@ -1,0 +1,70 @@
+{
+  "botworld@lichess": {
+    "id": "botworld",
+    "provider": "lichess",
+    "username": "BOTWorld",
+    "firstSeen": 1606220186839,
+    "lastSeen": 1606228708854,
+    "firstSeenTime": "12:16:26 PM",
+    "lastSeenTime": "2:08:36 PM",
+    "onlineDurationMins": 112.16318333333334
+  },
+  "selam16dsa@lichess": {
+    "id": "selam16dsa",
+    "provider": "lichess",
+    "username": "Selam16dsa",
+    "firstSeen": 1606226377296,
+    "lastSeen": 1606228584586,
+    "firstSeenTime": "1:59:37 PM",
+    "lastSeenTime": "2:11:37 PM",
+    "onlineDurationMins": 11.997766666666667
+  },
+  "seleaaaa@lichess": {
+    "id": "seleaaaa",
+    "provider": "lichess",
+    "username": "Seleaaaa",
+    "firstSeen": 1606226539414,
+    "lastSeen": 1606228584765,
+    "firstSeenTime": "2:02:19 PM",
+    "lastSeenTime": "2:10:21 PM",
+    "onlineDurationMins": 8.043
+  },
+  "taha16_tr@lichess": {
+    "id": "taha16_tr",
+    "provider": "lichess",
+    "username": "taha16_tr",
+    "firstSeen": 1606226706687,
+    "lastSeen": 1606228781154,
+    "firstSeenTime": "2:05:06 PM",
+    "lastSeenTime": "2:09:59 PM",
+    "onlineDurationMins": 4.872183333333333
+  },
+  "noobbot1302@lichess": {
+    "id": "noobbot1302",
+    "provider": "lichess",
+    "username": "NoobBot1302",
+    "firstSeen": 1606227337756,
+    "lastSeen": 1606228657703
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606227382061,
+    "lastSeen": 1606229338379
+  },
+  "annihilatoru47333@lichess": {
+    "id": "annihilatoru47333",
+    "provider": "lichess",
+    "username": "Annihilatoru47333",
+    "firstSeen": 1606228025650,
+    "lastSeen": 1606228805527
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1606229341576,
+    "lastSeen": 1606229341576
+  }
+}
