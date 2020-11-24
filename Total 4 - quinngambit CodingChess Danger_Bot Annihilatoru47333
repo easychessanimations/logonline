@@ -1,0 +1,36 @@
+{
+  "quinngambit@lichess": {
+    "id": "quinngambit",
+    "provider": "lichess",
+    "username": "quinngambit",
+    "firstSeen": 1606202547419,
+    "lastSeen": 1606208616081,
+    "firstSeenTime": "7:22:27 AM",
+    "lastSeenTime": "8:41:37 AM",
+    "onlineDurationMins": 79.16361666666667
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1606203640579,
+    "lastSeen": 1606208920687,
+    "firstSeenTime": "7:40:40 AM",
+    "lastSeenTime": "8:44:20 AM",
+    "onlineDurationMins": 63.6705
+  },
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1606208688530,
+    "lastSeen": 1606208949440
+  },
+  "annihilatoru47333@lichess": {
+    "id": "annihilatoru47333",
+    "provider": "lichess",
+    "username": "Annihilatoru47333",
+    "firstSeen": 1606208949698,
+    "lastSeen": 1606208949698
+  }
+}
