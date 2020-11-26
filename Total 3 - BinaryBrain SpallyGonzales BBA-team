@@ -1,0 +1,23 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606399150415,
+    "lastSeen": 1606409174123
+  },
+  "spallygonzales@lichess": {
+    "id": "spallygonzales",
+    "provider": "lichess",
+    "username": "SpallyGonzales",
+    "firstSeen": 1606409259870,
+    "lastSeen": 1606409349599
+  },
+  "bba-team@lichess": {
+    "id": "bba-team",
+    "provider": "lichess",
+    "username": "BBA-team",
+    "firstSeen": 1606409385366,
+    "lastSeen": 1606409385366
+  }
+}
