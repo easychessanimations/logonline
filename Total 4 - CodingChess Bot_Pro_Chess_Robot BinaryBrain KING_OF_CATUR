@@ -1,0 +1,36 @@
+{
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1606808451318,
+    "lastSeen": 1606812583237,
+    "firstSeenTime": "7:40:51 AM",
+    "lastSeenTime": "8:29:19 AM",
+    "onlineDurationMins": 48.46395
+  },
+  "bot_pro_chess_robot@lichess": {
+    "id": "bot_pro_chess_robot",
+    "provider": "lichess",
+    "username": "Bot_Pro_Chess_Robot",
+    "firstSeen": 1606811027336,
+    "lastSeen": 1606811876217,
+    "firstSeenTime": "8:23:47 AM",
+    "lastSeenTime": "8:29:43 AM",
+    "onlineDurationMins": 5.939416666666666
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606811914476,
+    "lastSeen": 1606812589909
+  },
+  "king_of_catur@lichess": {
+    "id": "king_of_catur",
+    "provider": "lichess",
+    "username": "KING_OF_CATUR",
+    "firstSeen": 1606812685932,
+    "lastSeen": 1606812685932
+  }
+}
