@@ -1,0 +1,32 @@
+{
+  "star_2020@lichess": {
+    "id": "star_2020",
+    "provider": "lichess",
+    "username": "Star_2020",
+    "firstSeen": 1606816152870,
+    "lastSeen": 1606831340232,
+    "firstSeenTime": "9:49:12 AM",
+    "lastSeenTime": "1:40:20 PM",
+    "onlineDurationMins": 231.1334
+  },
+  "stockfish-fighter@lichess": {
+    "id": "stockfish-fighter",
+    "provider": "lichess",
+    "username": "Stockfish-fighter",
+    "firstSeen": 1606829494812,
+    "lastSeen": 1606830769001,
+    "firstSeenTime": "1:31:34 PM",
+    "lastSeenTime": "1:41:03 PM",
+    "onlineDurationMins": 9.475616666666667
+  },
+  "scc1-bot@lichess": {
+    "id": "scc1-bot",
+    "provider": "lichess",
+    "username": "SCC1-BOT",
+    "firstSeen": 1606829885152,
+    "lastSeen": 1606831491774,
+    "firstSeenTime": "1:38:05 PM",
+    "lastSeenTime": "1:41:46 PM",
+    "onlineDurationMins": 3.6921666666666666
+  }
+}
