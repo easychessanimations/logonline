@@ -1,0 +1,29 @@
+{
+  "star_2020@lichess": {
+    "id": "star_2020",
+    "provider": "lichess",
+    "username": "Star_2020",
+    "firstSeen": 1606816152870,
+    "lastSeen": 1606842682226,
+    "firstSeenTime": "9:49:12 AM",
+    "lastSeenTime": "5:11:22 PM",
+    "onlineDurationMins": 442.15593333333334
+  },
+  "kigoco@lichess": {
+    "id": "kigoco",
+    "provider": "lichess",
+    "username": "Kigoco",
+    "firstSeen": 1606842215629,
+    "lastSeen": 1606842751687,
+    "firstSeenTime": "5:03:35 PM",
+    "lastSeenTime": "5:12:31 PM",
+    "onlineDurationMins": 8.9343
+  },
+  "atomicstandart@lichess": {
+    "id": "atomicstandart",
+    "provider": "lichess",
+    "username": "AtomicStandart",
+    "firstSeen": 1606842795611,
+    "lastSeen": 1606842795612
+  }
+}
