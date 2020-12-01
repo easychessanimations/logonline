@@ -1,0 +1,26 @@
+{
+  "star_2020@lichess": {
+    "id": "star_2020",
+    "provider": "lichess",
+    "username": "Star_2020",
+    "firstSeen": 1606816152870,
+    "lastSeen": 1606849937479,
+    "firstSeenTime": "9:49:12 AM",
+    "lastSeenTime": "5:33:16 PM",
+    "onlineDurationMins": 464.0550333333333
+  },
+  "robot_anastasia@lichess": {
+    "id": "robot_anastasia",
+    "provider": "lichess",
+    "username": "Robot_Anastasia",
+    "firstSeen": 1606848283034,
+    "lastSeen": 1606850132780
+  },
+  "chess_omar_2009@lichess": {
+    "id": "chess_omar_2009",
+    "provider": "lichess",
+    "username": "Chess_omar_2009",
+    "firstSeen": 1606850207031,
+    "lastSeen": 1606850207031
+  }
+}
