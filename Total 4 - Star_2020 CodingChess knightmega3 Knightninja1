@@ -1,0 +1,36 @@
+{
+  "star_2020@lichess": {
+    "id": "star_2020",
+    "provider": "lichess",
+    "username": "Star_2020",
+    "firstSeen": 1606816152870,
+    "lastSeen": 1606828695116,
+    "firstSeenTime": "9:49:12 AM",
+    "lastSeenTime": "12:23:16 PM",
+    "onlineDurationMins": 154.0574
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1606822601396,
+    "lastSeen": 1606828544887,
+    "firstSeenTime": "11:36:41 AM",
+    "lastSeenTime": "12:29:40 PM",
+    "onlineDurationMins": 52.988166666666665
+  },
+  "knightmega3@lichess": {
+    "id": "knightmega3",
+    "provider": "lichess",
+    "username": "knightmega3",
+    "firstSeen": 1606828702736,
+    "lastSeen": 1606828710691
+  },
+  "knightninja1@lichess": {
+    "id": "knightninja1",
+    "provider": "lichess",
+    "username": "Knightninja1",
+    "firstSeen": 1606828712053,
+    "lastSeen": 1606828712053
+  }
+}
