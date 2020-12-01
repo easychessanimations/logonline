@@ -1,0 +1,22 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606801671079,
+    "lastSeen": 1606807674306,
+    "firstSeenTime": "5:47:51 AM",
+    "lastSeenTime": "7:16:19 AM",
+    "onlineDurationMins": 88.46623333333334
+  },
+  "gmchessmapbuddy@lichess": {
+    "id": "gmchessmapbuddy",
+    "provider": "lichess",
+    "username": "gmchessmapbuddy",
+    "firstSeen": 1606805809148,
+    "lastSeen": 1606807128989,
+    "firstSeenTime": "6:56:49 AM",
+    "lastSeenTime": "7:18:48 AM",
+    "onlineDurationMins": 21.99735
+  }
+}
