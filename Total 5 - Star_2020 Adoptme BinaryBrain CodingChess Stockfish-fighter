@@ -1,0 +1,49 @@
+{
+  "star_2020@lichess": {
+    "id": "star_2020",
+    "provider": "lichess",
+    "username": "Star_2020",
+    "firstSeen": 1606816152870,
+    "lastSeen": 1606824076429,
+    "firstSeenTime": "9:49:12 AM",
+    "lastSeenTime": "11:39:17 AM",
+    "onlineDurationMins": 110.07031666666667
+  },
+  "adoptme@lichess": {
+    "id": "adoptme",
+    "provider": "lichess",
+    "username": "Adoptme",
+    "firstSeen": 1606821792316,
+    "lastSeen": 1606823896531,
+    "firstSeenTime": "11:23:12 AM",
+    "lastSeenTime": "11:48:15 AM",
+    "onlineDurationMins": 25.057216666666665
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606822589179,
+    "lastSeen": 1606823874326,
+    "firstSeenTime": "11:36:29 AM",
+    "lastSeenTime": "11:47:44 AM",
+    "onlineDurationMins": 11.2495
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1606822601396,
+    "lastSeen": 1606824280976,
+    "firstSeenTime": "11:36:41 AM",
+    "lastSeenTime": "11:47:45 AM",
+    "onlineDurationMins": 11.064433333333334
+  },
+  "stockfish-fighter@lichess": {
+    "id": "stockfish-fighter",
+    "provider": "lichess",
+    "username": "Stockfish-fighter",
+    "firstSeen": 1606824331985,
+    "lastSeen": 1606824331986
+  }
+}
