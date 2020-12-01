@@ -1,0 +1,43 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606801671079,
+    "lastSeen": 1606805904198,
+    "firstSeenTime": "5:47:51 AM",
+    "lastSeenTime": "6:32:35 AM",
+    "onlineDurationMins": 44.733016666666664
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1606803327218,
+    "lastSeen": 1606805665611,
+    "firstSeenTime": "6:15:27 AM",
+    "lastSeenTime": "6:32:25 AM",
+    "onlineDurationMins": 16.977933333333333
+  },
+  "annihilatoru47333@lichess": {
+    "id": "annihilatoru47333",
+    "provider": "lichess",
+    "username": "Annihilatoru47333",
+    "firstSeen": 1606804979286,
+    "lastSeen": 1606805649485
+  },
+  "gmchessmapbuddy@lichess": {
+    "id": "gmchessmapbuddy",
+    "provider": "lichess",
+    "username": "gmchessmapbuddy",
+    "firstSeen": 1606805809148,
+    "lastSeen": 1606805809148
+  },
+  "ghost_07@lichess": {
+    "id": "ghost_07",
+    "provider": "lichess",
+    "username": "Ghost_07",
+    "firstSeen": 1606806120249,
+    "lastSeen": 1606806120249
+  }
+}
