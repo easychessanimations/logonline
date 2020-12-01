@@ -1,0 +1,30 @@
+{
+  "gmchessmapbuddy@lichess": {
+    "id": "gmchessmapbuddy",
+    "provider": "lichess",
+    "username": "gmchessmapbuddy",
+    "firstSeen": 1606799696591,
+    "lastSeen": 1606802743914
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606801671079,
+    "lastSeen": 1606803175584
+  },
+  "asvlm@lichess": {
+    "id": "asvlm",
+    "provider": "lichess",
+    "username": "asvlm",
+    "firstSeen": 1606802606945,
+    "lastSeen": 1606802846696
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1606803327218,
+    "lastSeen": 1606803327218
+  }
+}
