@@ -1,0 +1,30 @@
+{
+  "star_2020@lichess": {
+    "id": "star_2020",
+    "provider": "lichess",
+    "username": "Star_2020",
+    "firstSeen": 1606816152870,
+    "lastSeen": 1606822757089
+  },
+  "adoptme@lichess": {
+    "id": "adoptme",
+    "provider": "lichess",
+    "username": "Adoptme",
+    "firstSeen": 1606821792316,
+    "lastSeen": 1606822580261
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606822589179,
+    "lastSeen": 1606822681990
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1606822601396,
+    "lastSeen": 1606822781489
+  }
+}
