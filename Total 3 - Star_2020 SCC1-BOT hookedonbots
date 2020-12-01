@@ -1,0 +1,26 @@
+{
+  "star_2020@lichess": {
+    "id": "star_2020",
+    "provider": "lichess",
+    "username": "Star_2020",
+    "firstSeen": 1606816152870,
+    "lastSeen": 1606858155906,
+    "firstSeenTime": "9:49:12 AM",
+    "lastSeenTime": "5:33:16 PM",
+    "onlineDurationMins": 464.0550333333333
+  },
+  "scc1-bot@lichess": {
+    "id": "scc1-bot",
+    "provider": "lichess",
+    "username": "SCC1-BOT",
+    "firstSeen": 1606857898557,
+    "lastSeen": 1606858108319
+  },
+  "hookedonbots@lichess": {
+    "id": "hookedonbots",
+    "provider": "lichess",
+    "username": "hookedonbots",
+    "firstSeen": 1606858236191,
+    "lastSeen": 1606858236191
+  }
+}
