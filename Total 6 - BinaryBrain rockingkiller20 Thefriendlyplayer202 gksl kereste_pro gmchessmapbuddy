@@ -1,0 +1,53 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606896123920,
+    "lastSeen": 1606902256761,
+    "firstSeenTime": "8:02:03 AM",
+    "lastSeenTime": "9:44:16 AM",
+    "onlineDurationMins": 102.21401666666667
+  },
+  "rockingkiller20@lichess": {
+    "id": "rockingkiller20",
+    "provider": "lichess",
+    "username": "rockingkiller20",
+    "firstSeen": 1606900564663,
+    "lastSeen": 1606902659306,
+    "firstSeenTime": "9:16:04 AM",
+    "lastSeenTime": "9:44:25 AM",
+    "onlineDurationMins": 28.3399
+  },
+  "thefriendlyplayer202@lichess": {
+    "id": "thefriendlyplayer202",
+    "provider": "lichess",
+    "username": "Thefriendlyplayer202",
+    "firstSeen": 1606902142914,
+    "lastSeen": 1606902152345,
+    "firstSeenTime": "9:42:22 AM",
+    "lastSeenTime": "9:42:32 AM",
+    "onlineDurationMins": 0.15718333333333334
+  },
+  "gksl@lichess": {
+    "id": "gksl",
+    "provider": "lichess",
+    "username": "gksl",
+    "firstSeen": 1606902710087,
+    "lastSeen": 1606902728197
+  },
+  "kereste_pro@lichess": {
+    "id": "kereste_pro",
+    "provider": "lichess",
+    "username": "kereste_pro",
+    "firstSeen": 1606902729406,
+    "lastSeen": 1606902735437
+  },
+  "gmchessmapbuddy@lichess": {
+    "id": "gmchessmapbuddy",
+    "provider": "lichess",
+    "username": "gmchessmapbuddy",
+    "firstSeen": 1606902755990,
+    "lastSeen": 1606902755990
+  }
+}
