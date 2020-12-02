@@ -1,0 +1,46 @@
+{
+  "proinchess1234@lichess": {
+    "id": "proinchess1234",
+    "provider": "lichess",
+    "username": "proinchess1234",
+    "firstSeen": 1606880496927,
+    "lastSeen": 1606891722053,
+    "firstSeenTime": "3:41:36 AM",
+    "lastSeenTime": "6:15:37 AM",
+    "onlineDurationMins": 154.01008333333334
+  },
+  "robot_anastasia@lichess": {
+    "id": "robot_anastasia",
+    "provider": "lichess",
+    "username": "Robot_Anastasia",
+    "firstSeen": 1606888324385,
+    "lastSeen": 1606891552861,
+    "firstSeenTime": "5:52:04 AM",
+    "lastSeenTime": "6:22:00 AM",
+    "onlineDurationMins": 29.941216666666666
+  },
+  "annihilatoru47333@lichess": {
+    "id": "annihilatoru47333",
+    "provider": "lichess",
+    "username": "Annihilatoru47333",
+    "firstSeen": 1606890005850,
+    "lastSeen": 1606891574852,
+    "firstSeenTime": "6:20:05 AM",
+    "lastSeenTime": "6:21:21 AM",
+    "onlineDurationMins": 1.2533
+  },
+  "rockingkiller20@lichess": {
+    "id": "rockingkiller20",
+    "provider": "lichess",
+    "username": "rockingkiller20",
+    "firstSeen": 1606890193239,
+    "lastSeen": 1606891696040
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1606891840150,
+    "lastSeen": 1606891840150
+  }
+}
