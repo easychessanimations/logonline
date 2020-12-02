@@ -1,0 +1,42 @@
+{
+  "proinchess1234@lichess": {
+    "id": "proinchess1234",
+    "provider": "lichess",
+    "username": "proinchess1234",
+    "firstSeen": 1606880496927,
+    "lastSeen": 1606893956977,
+    "firstSeenTime": "3:41:36 AM",
+    "lastSeenTime": "7:25:56 AM",
+    "onlineDurationMins": 224.33416666666668
+  },
+  "krishna1312@lichess": {
+    "id": "krishna1312",
+    "provider": "lichess",
+    "username": "krishna1312",
+    "firstSeen": 1606892150680,
+    "lastSeen": 1606894088501,
+    "firstSeenTime": "6:55:50 AM",
+    "lastSeenTime": "7:28:08 AM",
+    "onlineDurationMins": 32.297016666666664
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606892945779,
+    "lastSeen": 1606893832273,
+    "firstSeenTime": "7:09:05 AM",
+    "lastSeenTime": "7:23:52 AM",
+    "onlineDurationMins": 14.7749
+  },
+  "gmchessmapbuddy@lichess": {
+    "id": "gmchessmapbuddy",
+    "provider": "lichess",
+    "username": "gmchessmapbuddy",
+    "firstSeen": 1606893001957,
+    "lastSeen": 1606894666714,
+    "firstSeenTime": "7:10:01 AM",
+    "lastSeenTime": "7:21:16 AM",
+    "onlineDurationMins": 11.242716666666666
+  }
+}
