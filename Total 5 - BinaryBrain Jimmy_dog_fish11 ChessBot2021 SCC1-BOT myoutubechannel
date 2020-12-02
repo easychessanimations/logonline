@@ -1,0 +1,40 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606896123920,
+    "lastSeen": 1606905904232,
+    "firstSeenTime": "8:02:03 AM",
+    "lastSeenTime": "9:44:16 AM",
+    "onlineDurationMins": 102.21401666666667
+  },
+  "jimmy_dog_fish11@lichess": {
+    "id": "jimmy_dog_fish11",
+    "provider": "lichess",
+    "username": "Jimmy_dog_fish11",
+    "firstSeen": 1606903253026,
+    "lastSeen": 1606905419513
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1606903948053,
+    "lastSeen": 1606905906781
+  },
+  "scc1-bot@lichess": {
+    "id": "scc1-bot",
+    "provider": "lichess",
+    "username": "SCC1-BOT",
+    "firstSeen": 1606903979802,
+    "lastSeen": 1606905869864
+  },
+  "myoutubechannel@lichess": {
+    "id": "myoutubechannel",
+    "provider": "lichess",
+    "username": "myoutubechannel",
+    "firstSeen": 1606905938904,
+    "lastSeen": 1606905938904
+  }
+}
