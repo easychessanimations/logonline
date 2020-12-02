@@ -1,0 +1,59 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606908585116,
+    "lastSeen": 1606925098350,
+    "firstSeenTime": "11:29:45 AM",
+    "lastSeenTime": "4:04:58 PM",
+    "onlineDurationMins": 275.2205666666667
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1606921952141,
+    "lastSeen": 1606925069926,
+    "firstSeenTime": "3:12:32 PM",
+    "lastSeenTime": "4:04:29 PM",
+    "onlineDurationMins": 51.96308333333333
+  },
+  "star_2020@lichess": {
+    "id": "star_2020",
+    "provider": "lichess",
+    "username": "Star_2020",
+    "firstSeen": 1606922221632,
+    "lastSeen": 1606924677662,
+    "firstSeenTime": "3:17:01 PM",
+    "lastSeenTime": "3:57:57 PM",
+    "onlineDurationMins": 40.93383333333333
+  },
+  "scc1-bot@lichess": {
+    "id": "scc1-bot",
+    "provider": "lichess",
+    "username": "SCC1-BOT",
+    "firstSeen": 1606923080097,
+    "lastSeen": 1606925362492,
+    "firstSeenTime": "3:31:20 PM",
+    "lastSeenTime": "4:05:35 PM",
+    "onlineDurationMins": 34.2519
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1606924760941,
+    "lastSeen": 1606925202249,
+    "firstSeenTime": "3:59:20 PM",
+    "lastSeenTime": "4:06:42 PM",
+    "onlineDurationMins": 7.355133333333334
+  },
+  "google-bot@lichess": {
+    "id": "google-bot",
+    "provider": "lichess",
+    "username": "Google-BOT",
+    "firstSeen": 1606925369018,
+    "lastSeen": 1606925369018
+  }
+}
