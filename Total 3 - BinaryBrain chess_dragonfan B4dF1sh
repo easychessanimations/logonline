@@ -1,0 +1,26 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606908585116,
+    "lastSeen": 1606930478772,
+    "firstSeenTime": "11:29:45 AM",
+    "lastSeenTime": "4:04:58 PM",
+    "onlineDurationMins": 275.2205666666667
+  },
+  "chess_dragonfan@lichess": {
+    "id": "chess_dragonfan",
+    "provider": "lichess",
+    "username": "chess_dragonfan",
+    "firstSeen": 1606929557821,
+    "lastSeen": 1606929945470
+  },
+  "b4df1sh@lichess": {
+    "id": "b4df1sh",
+    "provider": "lichess",
+    "username": "B4dF1sh",
+    "firstSeen": 1606929691597,
+    "lastSeen": 1606930567668
+  }
+}
