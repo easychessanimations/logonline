@@ -1,0 +1,33 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606908585116,
+    "lastSeen": 1606934401540,
+    "firstSeenTime": "11:29:45 AM",
+    "lastSeenTime": "4:04:58 PM",
+    "onlineDurationMins": 275.2205666666667
+  },
+  "b4df1sh@lichess": {
+    "id": "b4df1sh",
+    "provider": "lichess",
+    "username": "B4dF1sh",
+    "firstSeen": 1606929691597,
+    "lastSeen": 1606934684768
+  },
+  "mudye_jetpack@lichess": {
+    "id": "mudye_jetpack",
+    "provider": "lichess",
+    "username": "MUDYE_JETPACK",
+    "firstSeen": 1606934674102,
+    "lastSeen": 1606934694251
+  },
+  "madridfanchess@lichess": {
+    "id": "madridfanchess",
+    "provider": "lichess",
+    "username": "MadridFanChess",
+    "firstSeen": 1606934696035,
+    "lastSeen": 1606934696035
+  }
+}
