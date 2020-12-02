@@ -1,0 +1,26 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606908585116,
+    "lastSeen": 1606935722067,
+    "firstSeenTime": "11:29:45 AM",
+    "lastSeenTime": "4:04:58 PM",
+    "onlineDurationMins": 275.2205666666667
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1606935786856,
+    "lastSeen": 1606935839639
+  },
+  "aston_liu@lichess": {
+    "id": "aston_liu",
+    "provider": "lichess",
+    "username": "Aston_Liu",
+    "firstSeen": 1606936249990,
+    "lastSeen": 1606936249990
+  }
+}
