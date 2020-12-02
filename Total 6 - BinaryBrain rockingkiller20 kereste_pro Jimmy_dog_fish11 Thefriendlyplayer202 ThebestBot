@@ -1,0 +1,50 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606896123920,
+    "lastSeen": 1606903757756,
+    "firstSeenTime": "8:02:03 AM",
+    "lastSeenTime": "9:44:16 AM",
+    "onlineDurationMins": 102.21401666666667
+  },
+  "rockingkiller20@lichess": {
+    "id": "rockingkiller20",
+    "provider": "lichess",
+    "username": "rockingkiller20",
+    "firstSeen": 1606900564663,
+    "lastSeen": 1606903567151,
+    "firstSeenTime": "9:16:04 AM",
+    "lastSeenTime": "9:44:25 AM",
+    "onlineDurationMins": 28.3399
+  },
+  "kereste_pro@lichess": {
+    "id": "kereste_pro",
+    "provider": "lichess",
+    "username": "kereste_pro",
+    "firstSeen": 1606902729406,
+    "lastSeen": 1606903020934
+  },
+  "jimmy_dog_fish11@lichess": {
+    "id": "jimmy_dog_fish11",
+    "provider": "lichess",
+    "username": "Jimmy_dog_fish11",
+    "firstSeen": 1606903253026,
+    "lastSeen": 1606903667654
+  },
+  "thefriendlyplayer202@lichess": {
+    "id": "thefriendlyplayer202",
+    "provider": "lichess",
+    "username": "Thefriendlyplayer202",
+    "firstSeen": 1606903320757,
+    "lastSeen": 1606903384375
+  },
+  "thebestbot@lichess": {
+    "id": "thebestbot",
+    "provider": "lichess",
+    "username": "ThebestBot",
+    "firstSeen": 1606903386358,
+    "lastSeen": 1606903667994
+  }
+}
