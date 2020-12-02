@@ -3,14 +3,17 @@
     "id": "binarybrain",
     "provider": "lichess",
     "username": "BinaryBrain",
-    "firstSeen": 1606248389522,
-    "lastSeen": 1606254028148
+    "firstSeen": 1606908585116,
+    "lastSeen": 1606935722067,
+    "firstSeenTime": "11:29:45 AM",
+    "lastSeenTime": "4:04:58 PM",
+    "onlineDurationMins": 275.2205666666667
   },
   "empirerbot@lichess": {
     "id": "empirerbot",
     "provider": "lichess",
     "username": "EmpirerBOT",
-    "firstSeen": 1606253691997,
-    "lastSeen": 1606253691998
+    "firstSeen": 1606935786856,
+    "lastSeen": 1606935839639
   }
 }
