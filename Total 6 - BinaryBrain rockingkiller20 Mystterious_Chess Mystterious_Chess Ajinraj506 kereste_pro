@@ -1,0 +1,50 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606908585116,
+    "lastSeen": 1606916745161,
+    "firstSeenTime": "11:29:45 AM",
+    "lastSeenTime": "1:19:47 PM",
+    "onlineDurationMins": 110.04581666666667
+  },
+  "rockingkiller20@lichess": {
+    "id": "rockingkiller20",
+    "provider": "lichess",
+    "username": "rockingkiller20",
+    "firstSeen": 1606911626992,
+    "lastSeen": 1606916573134,
+    "firstSeenTime": "12:20:26 PM",
+    "lastSeenTime": "1:18:37 PM",
+    "onlineDurationMins": 58.17301666666667
+  },
+  "mystterious_chess@lichess": {
+    "id": "mystterious_chess",
+    "provider": "lichess",
+    "username": "Mystterious_Chess",
+    "firstSeen": 1606915774664,
+    "lastSeen": 1606916582014
+  },
+  "746575296970358857@discord": {
+    "id": "746575296970358857",
+    "provider": "discord",
+    "username": "Mystterious_Chess",
+    "firstSeen": 1606916583361,
+    "lastSeen": 1606916934531
+  },
+  "72801831@github": {
+    "id": "72801831",
+    "provider": "github",
+    "username": "Ajinraj506",
+    "firstSeen": 1606916694448,
+    "lastSeen": 1606916775766
+  },
+  "kereste_pro@lichess": {
+    "id": "kereste_pro",
+    "provider": "lichess",
+    "username": "kereste_pro",
+    "firstSeen": 1606916773357,
+    "lastSeen": 1606916777770
+  }
+}
