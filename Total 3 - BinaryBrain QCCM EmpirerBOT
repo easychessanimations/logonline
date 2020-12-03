@@ -1,0 +1,26 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606995898031,
+    "lastSeen": 1606998936002,
+    "firstSeenTime": "11:44:58 AM",
+    "lastSeenTime": "11:47:12 AM",
+    "onlineDurationMins": 2.24265
+  },
+  "qccm@lichess": {
+    "id": "qccm",
+    "provider": "lichess",
+    "username": "QCCM",
+    "firstSeen": 1606997280945,
+    "lastSeen": 1606999413335
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1606997318697,
+    "lastSeen": 1606998824432
+  }
+}
