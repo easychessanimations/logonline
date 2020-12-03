@@ -1,0 +1,47 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606995898031,
+    "lastSeen": 1607003435908,
+    "firstSeenTime": "11:44:58 AM",
+    "lastSeenTime": "11:47:12 AM",
+    "onlineDurationMins": 2.24265
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1606997318697,
+    "lastSeen": 1607003384261
+  },
+  "asv007@lichess": {
+    "id": "asv007",
+    "provider": "lichess",
+    "username": "asv007",
+    "firstSeen": 1607000937238,
+    "lastSeen": 1607003524208
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1607002197768,
+    "lastSeen": 1607003523611
+  },
+  "rockingkiller20@lichess": {
+    "id": "rockingkiller20",
+    "provider": "lichess",
+    "username": "rockingkiller20",
+    "firstSeen": 1607003564036,
+    "lastSeen": 1607003615009
+  },
+  "mystterious_chess@lichess": {
+    "id": "mystterious_chess",
+    "provider": "lichess",
+    "username": "Mystterious_Chess",
+    "firstSeen": 1607003618034,
+    "lastSeen": 1607003618034
+  }
+}
