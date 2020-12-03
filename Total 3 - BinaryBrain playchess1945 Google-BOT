@@ -1,0 +1,23 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606970216377,
+    "lastSeen": 1606979120022
+  },
+  "playchess1945@lichess": {
+    "id": "playchess1945",
+    "provider": "lichess",
+    "username": "playchess1945",
+    "firstSeen": 1606972908294,
+    "lastSeen": 1606978558741
+  },
+  "google-bot@lichess": {
+    "id": "google-bot",
+    "provider": "lichess",
+    "username": "Google-BOT",
+    "firstSeen": 1606978531598,
+    "lastSeen": 1606979433058
+  }
+}
