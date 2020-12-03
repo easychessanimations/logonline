@@ -1,0 +1,33 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606995898031,
+    "lastSeen": 1607007935675,
+    "firstSeenTime": "11:44:58 AM",
+    "lastSeenTime": "11:47:12 AM",
+    "onlineDurationMins": 2.24265
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1606997318697,
+    "lastSeen": 1607008129061
+  },
+  "asv007@lichess": {
+    "id": "asv007",
+    "provider": "lichess",
+    "username": "asv007",
+    "firstSeen": 1607000937238,
+    "lastSeen": 1607008190883
+  },
+  "drmeowmeow@lichess": {
+    "id": "drmeowmeow",
+    "provider": "lichess",
+    "username": "DrMeowMeow",
+    "firstSeen": 1607008125123,
+    "lastSeen": 1607008164876
+  }
+}
