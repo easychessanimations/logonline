@@ -1,0 +1,30 @@
+{
+  "kobramen@lichess": {
+    "id": "kobramen",
+    "provider": "lichess",
+    "username": "kobramen",
+    "firstSeen": 1606982620655,
+    "lastSeen": 1606985623322
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606982663463,
+    "lastSeen": 1606985447586
+  },
+  "google-bot@lichess": {
+    "id": "google-bot",
+    "provider": "lichess",
+    "username": "Google-BOT",
+    "firstSeen": 1606984670066,
+    "lastSeen": 1606985343742
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1606985699455,
+    "lastSeen": 1606985699455
+  }
+}
