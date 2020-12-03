@@ -1,0 +1,59 @@
+{
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1606985699455,
+    "lastSeen": 1606995543084,
+    "firstSeenTime": "8:54:59 AM",
+    "lastSeenTime": "11:39:03 AM",
+    "onlineDurationMins": 164.06048333333334
+  },
+  "jimmy_dog_fish11@lichess": {
+    "id": "jimmy_dog_fish11",
+    "provider": "lichess",
+    "username": "Jimmy_dog_fish11",
+    "firstSeen": 1606989945181,
+    "lastSeen": 1606995409739,
+    "firstSeenTime": "10:05:45 AM",
+    "lastSeenTime": "11:36:49 AM",
+    "onlineDurationMins": 91.07596666666667
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1606995070156,
+    "lastSeen": 1606995120063,
+    "firstSeenTime": "11:31:10 AM",
+    "lastSeenTime": "11:32:00 AM",
+    "onlineDurationMins": 0.8317833333333333
+  },
+  "chesshyperbot@lichess": {
+    "id": "chesshyperbot",
+    "provider": "lichess",
+    "username": "chesshyperbot",
+    "firstSeen": 1606995381597,
+    "lastSeen": 1606995388886,
+    "firstSeenTime": "11:36:21 AM",
+    "lastSeenTime": "11:36:28 AM",
+    "onlineDurationMins": 0.12148333333333333
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1606995898031,
+    "lastSeen": 1606995907589,
+    "firstSeenTime": "11:44:58 AM",
+    "lastSeenTime": "11:45:07 AM",
+    "onlineDurationMins": 0.1593
+  },
+  "dopeninja06@lichess": {
+    "id": "dopeninja06",
+    "provider": "lichess",
+    "username": "DopeNinja06",
+    "firstSeen": 1606995912831,
+    "lastSeen": 1606995912832
+  }
+}
