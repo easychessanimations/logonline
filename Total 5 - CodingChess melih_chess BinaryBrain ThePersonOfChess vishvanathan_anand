@@ -1,0 +1,40 @@
+{
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1607075646571,
+    "lastSeen": 1607097974167,
+    "firstSeenTime": "9:54:06 AM",
+    "lastSeenTime": "12:26:39 PM",
+    "onlineDurationMins": 152.55441666666667
+  },
+  "melih_chess@lichess": {
+    "id": "melih_chess",
+    "provider": "lichess",
+    "username": "melih_chess",
+    "firstSeen": 1607094729499,
+    "lastSeen": 1607097493087
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607095873250,
+    "lastSeen": 1607097974697
+  },
+  "thepersonofchess@lichess": {
+    "id": "thepersonofchess",
+    "provider": "lichess",
+    "username": "ThePersonOfChess",
+    "firstSeen": 1607096942947,
+    "lastSeen": 1607097609184
+  },
+  "vishvanathan_anand@lichess": {
+    "id": "vishvanathan_anand",
+    "provider": "lichess",
+    "username": "vishvanathan_anand",
+    "firstSeen": 1607098106834,
+    "lastSeen": 1607098106834
+  }
+}
