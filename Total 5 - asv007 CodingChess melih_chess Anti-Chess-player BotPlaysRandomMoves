@@ -1,0 +1,37 @@
+{
+  "asv007@lichess": {
+    "id": "asv007",
+    "provider": "lichess",
+    "username": "asv007",
+    "firstSeen": 1607074095395,
+    "lastSeen": 1607079667249
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1607075646571,
+    "lastSeen": 1607079309182
+  },
+  "melih_chess@lichess": {
+    "id": "melih_chess",
+    "provider": "lichess",
+    "username": "melih_chess",
+    "firstSeen": 1607076498076,
+    "lastSeen": 1607079588654
+  },
+  "anti-chess-player@lichess": {
+    "id": "anti-chess-player",
+    "provider": "lichess",
+    "username": "Anti-Chess-player",
+    "firstSeen": 1607078479904,
+    "lastSeen": 1607079497455
+  },
+  "botplaysrandommoves@lichess": {
+    "id": "botplaysrandommoves",
+    "provider": "lichess",
+    "username": "BotPlaysRandomMoves",
+    "firstSeen": 1607079498655,
+    "lastSeen": 1607079512444
+  }
+}
