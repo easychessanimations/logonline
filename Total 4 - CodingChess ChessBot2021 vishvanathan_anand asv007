@@ -1,0 +1,33 @@
+{
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1607075646571,
+    "lastSeen": 1607093766256,
+    "firstSeenTime": "9:54:06 AM",
+    "lastSeenTime": "12:26:39 PM",
+    "onlineDurationMins": 152.55441666666667
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607087056746,
+    "lastSeen": 1607093913843
+  },
+  "vishvanathan_anand@lichess": {
+    "id": "vishvanathan_anand",
+    "provider": "lichess",
+    "username": "vishvanathan_anand",
+    "firstSeen": 1607089659614,
+    "lastSeen": 1607094080462
+  },
+  "asv007@lichess": {
+    "id": "asv007",
+    "provider": "lichess",
+    "username": "asv007",
+    "firstSeen": 1607093792683,
+    "lastSeen": 1607093943109
+  }
+}
