@@ -1,0 +1,71 @@
+{
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1607075646571,
+    "lastSeen": 1607089701853,
+    "firstSeenTime": "9:54:06 AM",
+    "lastSeenTime": "12:26:39 PM",
+    "onlineDurationMins": 152.55441666666667
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607083406333,
+    "lastSeen": 1607089701218,
+    "firstSeenTime": "12:03:26 PM",
+    "lastSeenTime": "12:32:38 PM",
+    "onlineDurationMins": 29.202
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607087056746,
+    "lastSeen": 1607089815238
+  },
+  "krishna1312@lichess": {
+    "id": "krishna1312",
+    "provider": "lichess",
+    "username": "krishna1312",
+    "firstSeen": 1607089474154,
+    "lastSeen": 1607089788235
+  },
+  "rockingkiller20@lichess": {
+    "id": "rockingkiller20",
+    "provider": "lichess",
+    "username": "rockingkiller20",
+    "firstSeen": 1607089605495,
+    "lastSeen": 1607089701964
+  },
+  "shaashwadh47457@lichess": {
+    "id": "shaashwadh47457",
+    "provider": "lichess",
+    "username": "Shaashwadh47457",
+    "firstSeen": 1607089625260,
+    "lastSeen": 1607089634810
+  },
+  "vishvanathan_anand@lichess": {
+    "id": "vishvanathan_anand",
+    "provider": "lichess",
+    "username": "vishvanathan_anand",
+    "firstSeen": 1607089659614,
+    "lastSeen": 1607089785850
+  },
+  "knightmega3@lichess": {
+    "id": "knightmega3",
+    "provider": "lichess",
+    "username": "knightmega3",
+    "firstSeen": 1607089718152,
+    "lastSeen": 1607089743765
+  },
+  "gmchessmapbuddy@lichess": {
+    "id": "gmchessmapbuddy",
+    "provider": "lichess",
+    "username": "gmchessmapbuddy",
+    "firstSeen": 1607089948686,
+    "lastSeen": 1607089948687
+  }
+}
