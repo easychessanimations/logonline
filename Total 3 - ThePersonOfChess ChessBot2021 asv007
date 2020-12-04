@@ -1,0 +1,26 @@
+{
+  "thepersonofchess@lichess": {
+    "id": "thepersonofchess",
+    "provider": "lichess",
+    "username": "ThePersonOfChess",
+    "firstSeen": 1607018089528,
+    "lastSeen": 1607045092645,
+    "firstSeenTime": "5:54:49 PM",
+    "lastSeenTime": "8:45:38 PM",
+    "onlineDurationMins": 170.81026666666668
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607044853638,
+    "lastSeen": 1607044864833
+  },
+  "asv007@lichess": {
+    "id": "asv007",
+    "provider": "lichess",
+    "username": "asv007",
+    "firstSeen": 1607045109255,
+    "lastSeen": 1607045109255
+  }
+}
