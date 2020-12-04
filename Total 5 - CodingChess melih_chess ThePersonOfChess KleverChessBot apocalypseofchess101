@@ -1,0 +1,46 @@
+{
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1607075646571,
+    "lastSeen": 1607106025562,
+    "firstSeenTime": "9:54:06 AM",
+    "lastSeenTime": "5:59:04 PM",
+    "onlineDurationMins": 484.96425
+  },
+  "melih_chess@lichess": {
+    "id": "melih_chess",
+    "provider": "lichess",
+    "username": "melih_chess",
+    "firstSeen": 1607094729499,
+    "lastSeen": 1607106339744,
+    "firstSeenTime": "3:12:09 PM",
+    "lastSeenTime": "6:00:39 PM",
+    "onlineDurationMins": 168.5065
+  },
+  "thepersonofchess@lichess": {
+    "id": "thepersonofchess",
+    "provider": "lichess",
+    "username": "ThePersonOfChess",
+    "firstSeen": 1607103096727,
+    "lastSeen": 1607105831755,
+    "firstSeenTime": "5:31:36 PM",
+    "lastSeenTime": "6:05:38 PM",
+    "onlineDurationMins": 34.0298
+  },
+  "kleverchessbot@lichess": {
+    "id": "kleverchessbot",
+    "provider": "lichess",
+    "username": "KleverChessBot",
+    "firstSeen": 1607105591231,
+    "lastSeen": 1607106261996
+  },
+  "apocalypseofchess101@lichess": {
+    "id": "apocalypseofchess101",
+    "provider": "lichess",
+    "username": "apocalypseofchess101",
+    "firstSeen": 1607106350044,
+    "lastSeen": 1607106350045
+  }
+}
