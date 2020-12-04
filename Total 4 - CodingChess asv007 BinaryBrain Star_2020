@@ -1,0 +1,39 @@
+{
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1607075646571,
+    "lastSeen": 1607084128283,
+    "firstSeenTime": "9:54:06 AM",
+    "lastSeenTime": "12:03:16 PM",
+    "onlineDurationMins": 129.16175
+  },
+  "asv007@lichess": {
+    "id": "asv007",
+    "provider": "lichess",
+    "username": "asv007",
+    "firstSeen": 1607083360028,
+    "lastSeen": 1607084146286,
+    "firstSeenTime": "12:02:40 PM",
+    "lastSeenTime": "12:05:08 PM",
+    "onlineDurationMins": 2.466266666666667
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607083406333,
+    "lastSeen": 1607084174359,
+    "firstSeenTime": "12:03:26 PM",
+    "lastSeenTime": "12:08:18 PM",
+    "onlineDurationMins": 4.8761833333333335
+  },
+  "star_2020@lichess": {
+    "id": "star_2020",
+    "provider": "lichess",
+    "username": "Star_2020",
+    "firstSeen": 1607084255347,
+    "lastSeen": 1607084255347
+  }
+}
