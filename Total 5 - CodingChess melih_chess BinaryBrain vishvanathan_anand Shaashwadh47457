@@ -1,0 +1,49 @@
+{
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1607075646571,
+    "lastSeen": 1607099255381,
+    "firstSeenTime": "9:54:06 AM",
+    "lastSeenTime": "4:16:24 PM",
+    "onlineDurationMins": 382.2966166666667
+  },
+  "melih_chess@lichess": {
+    "id": "melih_chess",
+    "provider": "lichess",
+    "username": "melih_chess",
+    "firstSeen": 1607094729499,
+    "lastSeen": 1607099472862,
+    "firstSeenTime": "3:12:09 PM",
+    "lastSeenTime": "4:09:09 PM",
+    "onlineDurationMins": 57.00156666666667
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607095873250,
+    "lastSeen": 1607099303571,
+    "firstSeenTime": "3:31:13 PM",
+    "lastSeenTime": "4:17:11 PM",
+    "onlineDurationMins": 45.97611666666667
+  },
+  "vishvanathan_anand@lichess": {
+    "id": "vishvanathan_anand",
+    "provider": "lichess",
+    "username": "vishvanathan_anand",
+    "firstSeen": 1607098106834,
+    "lastSeen": 1607099324358,
+    "firstSeenTime": "4:08:26 PM",
+    "lastSeenTime": "4:13:54 PM",
+    "onlineDurationMins": 5.45805
+  },
+  "shaashwadh47457@lichess": {
+    "id": "shaashwadh47457",
+    "provider": "lichess",
+    "username": "Shaashwadh47457",
+    "firstSeen": 1607099338346,
+    "lastSeen": 1607099606394
+  }
+}
