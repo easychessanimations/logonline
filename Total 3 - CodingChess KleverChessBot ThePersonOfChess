@@ -1,0 +1,29 @@
+{
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1607075646571,
+    "lastSeen": 1607113467748,
+    "firstSeenTime": "9:54:06 AM",
+    "lastSeenTime": "8:24:27 PM",
+    "onlineDurationMins": 630.35295
+  },
+  "kleverchessbot@lichess": {
+    "id": "kleverchessbot",
+    "provider": "lichess",
+    "username": "KleverChessBot",
+    "firstSeen": 1607112114984,
+    "lastSeen": 1607113801009,
+    "firstSeenTime": "8:01:54 PM",
+    "lastSeenTime": "8:21:50 PM",
+    "onlineDurationMins": 19.9241
+  },
+  "thepersonofchess@lichess": {
+    "id": "thepersonofchess",
+    "provider": "lichess",
+    "username": "ThePersonOfChess",
+    "firstSeen": 1607113803702,
+    "lastSeen": 1607113803702
+  }
+}
