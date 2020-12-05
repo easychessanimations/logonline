@@ -1,0 +1,33 @@
+{
+  "ima_do_checkmate@lichess": {
+    "id": "ima_do_checkmate",
+    "provider": "lichess",
+    "username": "Ima_do_checkmate",
+    "firstSeen": 1607176710347,
+    "lastSeen": 1607189204433,
+    "firstSeenTime": "1:58:30 PM",
+    "lastSeenTime": "3:01:49 PM",
+    "onlineDurationMins": 63.312133333333335
+  },
+  "kleverchessbot@lichess": {
+    "id": "kleverchessbot",
+    "provider": "lichess",
+    "username": "KleverChessBot",
+    "firstSeen": 1607184005379,
+    "lastSeen": 1607189175831
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1607188449544,
+    "lastSeen": 1607189286007
+  },
+  "dragon_2010@lichess": {
+    "id": "dragon_2010",
+    "provider": "lichess",
+    "username": "DRAGON_2010",
+    "firstSeen": 1607188968825,
+    "lastSeen": 1607189480447
+  }
+}
