@@ -1,0 +1,19 @@
+{
+  "play-the-chess@lichess": {
+    "id": "play-the-chess",
+    "provider": "lichess",
+    "username": "Play-The-Chess",
+    "firstSeen": 1607201377215,
+    "lastSeen": 1607211695407,
+    "firstSeenTime": "8:49:37 PM",
+    "lastSeenTime": "11:08:38 PM",
+    "onlineDurationMins": 139.02131666666668
+  },
+  "nicholaswb_bot@lichess": {
+    "id": "nicholaswb_bot",
+    "provider": "lichess",
+    "username": "Nicholaswb_BOT",
+    "firstSeen": 1607212073816,
+    "lastSeen": 1607212073816
+  }
+}
