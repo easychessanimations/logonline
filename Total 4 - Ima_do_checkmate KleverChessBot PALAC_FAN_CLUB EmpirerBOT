@@ -1,0 +1,33 @@
+{
+  "ima_do_checkmate@lichess": {
+    "id": "ima_do_checkmate",
+    "provider": "lichess",
+    "username": "Ima_do_checkmate",
+    "firstSeen": 1607176710347,
+    "lastSeen": 1607198924558,
+    "firstSeenTime": "1:58:30 PM",
+    "lastSeenTime": "3:01:49 PM",
+    "onlineDurationMins": 63.312133333333335
+  },
+  "kleverchessbot@lichess": {
+    "id": "kleverchessbot",
+    "provider": "lichess",
+    "username": "KleverChessBot",
+    "firstSeen": 1607191583575,
+    "lastSeen": 1607199090309
+  },
+  "palac_fan_club@lichess": {
+    "id": "palac_fan_club",
+    "provider": "lichess",
+    "username": "PALAC_FAN_CLUB",
+    "firstSeen": 1607197104881,
+    "lastSeen": 1607198926411
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607198577897,
+    "lastSeen": 1607198639671
+  }
+}
