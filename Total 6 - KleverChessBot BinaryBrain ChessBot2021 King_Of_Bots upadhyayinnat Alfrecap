@@ -1,0 +1,44 @@
+{
+  "kleverchessbot@lichess": {
+    "id": "kleverchessbot",
+    "provider": "lichess",
+    "username": "KleverChessBot",
+    "firstSeen": 1607125703663,
+    "lastSeen": 1607140100264
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607132113884,
+    "lastSeen": 1607140289906
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607136392502,
+    "lastSeen": 1607139939077
+  },
+  "king_of_bots@lichess": {
+    "id": "king_of_bots",
+    "provider": "lichess",
+    "username": "King_Of_Bots",
+    "firstSeen": 1607137903192,
+    "lastSeen": 1607140211016
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1607138739966,
+    "lastSeen": 1607140109156
+  },
+  "alfrecap@lichess": {
+    "id": "alfrecap",
+    "provider": "lichess",
+    "username": "Alfrecap",
+    "firstSeen": 1607140315879,
+    "lastSeen": 1607140315879
+  }
+}
