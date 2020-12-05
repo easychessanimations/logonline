@@ -1,0 +1,30 @@
+{
+  "kleverchessbot@lichess": {
+    "id": "kleverchessbot",
+    "provider": "lichess",
+    "username": "KleverChessBot",
+    "firstSeen": 1607125703663,
+    "lastSeen": 1607135059365
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607132113884,
+    "lastSeen": 1607135417605
+  },
+  "emilianovargas@lichess": {
+    "id": "emilianovargas",
+    "provider": "lichess",
+    "username": "EmilianoVargas",
+    "firstSeen": 1607132385315,
+    "lastSeen": 1607135388126
+  },
+  "chessisbetterwhitfri@lichess": {
+    "id": "chessisbetterwhitfri",
+    "provider": "lichess",
+    "username": "chessisbetterwhitfri",
+    "firstSeen": 1607132434930,
+    "lastSeen": 1607135164844
+  }
+}
