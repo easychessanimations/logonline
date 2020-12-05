@@ -1,0 +1,40 @@
+{
+  "ima_do_checkmate@lichess": {
+    "id": "ima_do_checkmate",
+    "provider": "lichess",
+    "username": "Ima_do_checkmate",
+    "firstSeen": 1607176710347,
+    "lastSeen": 1607196644506,
+    "firstSeenTime": "1:58:30 PM",
+    "lastSeenTime": "3:01:49 PM",
+    "onlineDurationMins": 63.312133333333335
+  },
+  "kleverchessbot@lichess": {
+    "id": "kleverchessbot",
+    "provider": "lichess",
+    "username": "KleverChessBot",
+    "firstSeen": 1607191583575,
+    "lastSeen": 1607196518567
+  },
+  "75542039@github": {
+    "id": "75542039",
+    "provider": "github",
+    "username": "IBM-Deep-Thought",
+    "firstSeen": 1607193477725,
+    "lastSeen": 1607196481292
+  },
+  "onyonga@lichess": {
+    "id": "onyonga",
+    "provider": "lichess",
+    "username": "Onyonga",
+    "firstSeen": 1607195467636,
+    "lastSeen": 1607196761417
+  },
+  "746361583600664706@discord": {
+    "id": "746361583600664706",
+    "provider": "discord",
+    "username": "OnurBartu12",
+    "firstSeen": 1607196768280,
+    "lastSeen": 1607196768280
+  }
+}
