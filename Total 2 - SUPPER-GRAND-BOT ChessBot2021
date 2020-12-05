@@ -1,0 +1,22 @@
+{
+  "supper-grand-bot@lichess": {
+    "id": "supper-grand-bot",
+    "provider": "lichess",
+    "username": "SUPPER-GRAND-BOT",
+    "firstSeen": 1607154679527,
+    "lastSeen": 1607162496442,
+    "firstSeenTime": "7:51:19 AM",
+    "lastSeenTime": "9:50:36 AM",
+    "onlineDurationMins": 119.27866666666667
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607159961229,
+    "lastSeen": 1607162964229,
+    "firstSeenTime": "9:19:21 AM",
+    "lastSeenTime": "9:53:27 AM",
+    "onlineDurationMins": 34.1074
+  }
+}
