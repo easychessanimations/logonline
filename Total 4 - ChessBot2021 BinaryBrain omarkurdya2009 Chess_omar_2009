@@ -1,0 +1,33 @@
+{
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607159961229,
+    "lastSeen": 1607166729461,
+    "firstSeenTime": "9:19:21 AM",
+    "lastSeenTime": "9:53:27 AM",
+    "onlineDurationMins": 34.1074
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607164272060,
+    "lastSeen": 1607166925101
+  },
+  "omarkurdya2009@lichess": {
+    "id": "omarkurdya2009",
+    "provider": "lichess",
+    "username": "omarkurdya2009",
+    "firstSeen": 1607166917552,
+    "lastSeen": 1607167352703
+  },
+  "chess_omar_2009@lichess": {
+    "id": "chess_omar_2009",
+    "provider": "lichess",
+    "username": "Chess_omar_2009",
+    "firstSeen": 1607167353968,
+    "lastSeen": 1607167353968
+  }
+}
