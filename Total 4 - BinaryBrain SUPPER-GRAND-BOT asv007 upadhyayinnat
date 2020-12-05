@@ -1,0 +1,42 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607149205391,
+    "lastSeen": 1607159187616,
+    "firstSeenTime": "6:20:05 AM",
+    "lastSeenTime": "8:55:27 AM",
+    "onlineDurationMins": 155.36085
+  },
+  "supper-grand-bot@lichess": {
+    "id": "supper-grand-bot",
+    "provider": "lichess",
+    "username": "SUPPER-GRAND-BOT",
+    "firstSeen": 1607154679527,
+    "lastSeen": 1607159195604,
+    "firstSeenTime": "7:51:19 AM",
+    "lastSeenTime": "8:55:36 AM",
+    "onlineDurationMins": 64.28476666666667
+  },
+  "asv007@lichess": {
+    "id": "asv007",
+    "provider": "lichess",
+    "username": "asv007",
+    "firstSeen": 1607156006297,
+    "lastSeen": 1607159372079,
+    "firstSeenTime": "8:13:26 AM",
+    "lastSeenTime": "8:49:07 AM",
+    "onlineDurationMins": 35.687866666666665
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1607156808254,
+    "lastSeen": 1607159444296,
+    "firstSeenTime": "8:26:48 AM",
+    "lastSeenTime": "8:56:57 AM",
+    "onlineDurationMins": 30.1466
+  }
+}
