@@ -1,0 +1,26 @@
+{
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607159961229,
+    "lastSeen": 1607172430113,
+    "firstSeenTime": "9:19:21 AM",
+    "lastSeenTime": "11:33:54 AM",
+    "onlineDurationMins": 134.55276666666666
+  },
+  "iwillnevergetpinn@lichess": {
+    "id": "iwillnevergetpinn",
+    "provider": "lichess",
+    "username": "IWillNeverGetPinn",
+    "firstSeen": 1607171499565,
+    "lastSeen": 1607171985335
+  },
+  "onyonga@lichess": {
+    "id": "onyonga",
+    "provider": "lichess",
+    "username": "Onyonga",
+    "firstSeen": 1607171986580,
+    "lastSeen": 1607172288272
+  }
+}
