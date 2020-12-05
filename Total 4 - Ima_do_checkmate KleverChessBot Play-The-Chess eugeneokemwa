@@ -1,0 +1,33 @@
+{
+  "ima_do_checkmate@lichess": {
+    "id": "ima_do_checkmate",
+    "provider": "lichess",
+    "username": "Ima_do_checkmate",
+    "firstSeen": 1607176710347,
+    "lastSeen": 1607206481345,
+    "firstSeenTime": "1:58:30 PM",
+    "lastSeenTime": "3:01:49 PM",
+    "onlineDurationMins": 63.312133333333335
+  },
+  "kleverchessbot@lichess": {
+    "id": "kleverchessbot",
+    "provider": "lichess",
+    "username": "KleverChessBot",
+    "firstSeen": 1607191583575,
+    "lastSeen": 1607206302003
+  },
+  "play-the-chess@lichess": {
+    "id": "play-the-chess",
+    "provider": "lichess",
+    "username": "Play-The-Chess",
+    "firstSeen": 1607201377215,
+    "lastSeen": 1607206418572
+  },
+  "eugeneokemwa@lichess": {
+    "id": "eugeneokemwa",
+    "provider": "lichess",
+    "username": "eugeneokemwa",
+    "firstSeen": 1607206585954,
+    "lastSeen": 1607206585954
+  }
+}
