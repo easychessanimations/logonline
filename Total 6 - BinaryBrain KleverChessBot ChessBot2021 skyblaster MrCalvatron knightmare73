@@ -1,0 +1,44 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607144049533,
+    "lastSeen": 1607144894836
+  },
+  "kleverchessbot@lichess": {
+    "id": "kleverchessbot",
+    "provider": "lichess",
+    "username": "KleverChessBot",
+    "firstSeen": 1607144060482,
+    "lastSeen": 1607144920676
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607144100762,
+    "lastSeen": 1607144131456
+  },
+  "skyblaster@lichess": {
+    "id": "skyblaster",
+    "provider": "lichess",
+    "username": "skyblaster",
+    "firstSeen": 1607144214046,
+    "lastSeen": 1607144506014
+  },
+  "mrcalvatron@lichess": {
+    "id": "mrcalvatron",
+    "provider": "lichess",
+    "username": "MrCalvatron",
+    "firstSeen": 1607144423061,
+    "lastSeen": 1607144833863
+  },
+  "knightmare73@lichess": {
+    "id": "knightmare73",
+    "provider": "lichess",
+    "username": "knightmare73",
+    "firstSeen": 1607145013978,
+    "lastSeen": 1607145013978
+  }
+}
