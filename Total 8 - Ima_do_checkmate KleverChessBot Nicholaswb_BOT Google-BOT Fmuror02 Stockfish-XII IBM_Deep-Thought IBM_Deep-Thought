@@ -1,0 +1,61 @@
+{
+  "ima_do_checkmate@lichess": {
+    "id": "ima_do_checkmate",
+    "provider": "lichess",
+    "username": "Ima_do_checkmate",
+    "firstSeen": 1607176710347,
+    "lastSeen": 1607193037434,
+    "firstSeenTime": "1:58:30 PM",
+    "lastSeenTime": "3:01:49 PM",
+    "onlineDurationMins": 63.312133333333335
+  },
+  "kleverchessbot@lichess": {
+    "id": "kleverchessbot",
+    "provider": "lichess",
+    "username": "KleverChessBot",
+    "firstSeen": 1607191583575,
+    "lastSeen": 1607192907108
+  },
+  "nicholaswb_bot@lichess": {
+    "id": "nicholaswb_bot",
+    "provider": "lichess",
+    "username": "Nicholaswb_BOT",
+    "firstSeen": 1607191747759,
+    "lastSeen": 1607193057881
+  },
+  "google-bot@lichess": {
+    "id": "google-bot",
+    "provider": "lichess",
+    "username": "Google-BOT",
+    "firstSeen": 1607192402180,
+    "lastSeen": 1607192942575
+  },
+  "fmuror02@lichess": {
+    "id": "fmuror02",
+    "provider": "lichess",
+    "username": "Fmuror02",
+    "firstSeen": 1607192919958,
+    "lastSeen": 1607192924886
+  },
+  "stockfish-xii@lichess": {
+    "id": "stockfish-xii",
+    "provider": "lichess",
+    "username": "Stockfish-XII",
+    "firstSeen": 1607192926882,
+    "lastSeen": 1607192945698
+  },
+  "ibm_deep-thought@lichess": {
+    "id": "ibm_deep-thought",
+    "provider": "lichess",
+    "username": "IBM_Deep-Thought",
+    "firstSeen": 1607192946980,
+    "lastSeen": 1607193121281
+  },
+  "784849059714039828@discord": {
+    "id": "784849059714039828",
+    "provider": "discord",
+    "username": "IBM_Deep-Thought",
+    "firstSeen": 1607193121904,
+    "lastSeen": 1607193121904
+  }
+}
