@@ -1,0 +1,26 @@
+{
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607159961229,
+    "lastSeen": 1607164047690,
+    "firstSeenTime": "9:19:21 AM",
+    "lastSeenTime": "9:53:27 AM",
+    "onlineDurationMins": 34.1074
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607163532089,
+    "lastSeen": 1607164265922
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607164272060,
+    "lastSeen": 1607164272060
+  }
+}
