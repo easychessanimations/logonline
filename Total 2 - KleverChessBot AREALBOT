@@ -1,0 +1,22 @@
+{
+  "kleverchessbot@lichess": {
+    "id": "kleverchessbot",
+    "provider": "lichess",
+    "username": "KleverChessBot",
+    "firstSeen": 1607285098614,
+    "lastSeen": 1607287140528,
+    "firstSeenTime": "8:04:58 PM",
+    "lastSeenTime": "8:39:00 PM",
+    "onlineDurationMins": 34.0319
+  },
+  "arealbot@lichess": {
+    "id": "arealbot",
+    "provider": "lichess",
+    "username": "AREALBOT",
+    "firstSeen": 1607285452347,
+    "lastSeen": 1607287612417,
+    "firstSeenTime": "8:10:52 PM",
+    "lastSeenTime": "8:35:52 PM",
+    "onlineDurationMins": 25.0018
+  }
+}
