@@ -1,0 +1,37 @@
+{
+  "wolf_gm@lichess": {
+    "id": "wolf_gm",
+    "provider": "lichess",
+    "username": "WolF_Gm",
+    "firstSeen": 1607231444100,
+    "lastSeen": 1607239285526
+  },
+  "lion_king_gm@lichess": {
+    "id": "lion_king_gm",
+    "provider": "lichess",
+    "username": "LiOn_KInG_GM",
+    "firstSeen": 1607234770474,
+    "lastSeen": 1607239405108
+  },
+  "krishna1312@lichess": {
+    "id": "krishna1312",
+    "provider": "lichess",
+    "username": "krishna1312",
+    "firstSeen": 1607238331280,
+    "lastSeen": 1607239447837
+  },
+  "ibm_deep-thought@lichess": {
+    "id": "ibm_deep-thought",
+    "provider": "lichess",
+    "username": "IBM_Deep-Thought",
+    "firstSeen": 1607239441621,
+    "lastSeen": 1607239469018
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607239484030,
+    "lastSeen": 1607239484030
+  }
+}
