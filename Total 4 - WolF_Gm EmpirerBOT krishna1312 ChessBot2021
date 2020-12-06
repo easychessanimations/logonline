@@ -1,0 +1,36 @@
+{
+  "wolf_gm@lichess": {
+    "id": "wolf_gm",
+    "provider": "lichess",
+    "username": "WolF_Gm",
+    "firstSeen": 1607231444100,
+    "lastSeen": 1607246501567,
+    "firstSeenTime": "5:10:44 AM",
+    "lastSeenTime": "8:36:41 AM",
+    "onlineDurationMins": 205.9542
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607244180324,
+    "lastSeen": 1607246899503,
+    "firstSeenTime": "8:43:00 AM",
+    "lastSeenTime": "8:43:27 AM",
+    "onlineDurationMins": 0.4476333333333333
+  },
+  "krishna1312@lichess": {
+    "id": "krishna1312",
+    "provider": "lichess",
+    "username": "krishna1312",
+    "firstSeen": 1607244764814,
+    "lastSeen": 1607246086443
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607246981429,
+    "lastSeen": 1607246981429
+  }
+}
