@@ -1,0 +1,39 @@
+{
+  "asv007@lichess": {
+    "id": "asv007",
+    "provider": "lichess",
+    "username": "asv007",
+    "firstSeen": 1607218288873,
+    "lastSeen": 1607220990685,
+    "firstSeenTime": "1:31:28 AM",
+    "lastSeenTime": "2:05:30 AM",
+    "onlineDurationMins": 34.031933333333335
+  },
+  "nicholaswb_bot@lichess": {
+    "id": "nicholaswb_bot",
+    "provider": "lichess",
+    "username": "Nicholaswb_BOT",
+    "firstSeen": 1607218600406,
+    "lastSeen": 1607221138086,
+    "firstSeenTime": "1:36:40 AM",
+    "lastSeenTime": "2:10:04 AM",
+    "onlineDurationMins": 33.394666666666666
+  },
+  "kleverchessbot@lichess": {
+    "id": "kleverchessbot",
+    "provider": "lichess",
+    "username": "KleverChessBot",
+    "firstSeen": 1607220676314,
+    "lastSeen": 1607221339536,
+    "firstSeenTime": "2:11:16 AM",
+    "lastSeenTime": "2:11:19 AM",
+    "onlineDurationMins": 0.054516666666666665
+  },
+  "vishvanathan_anand@lichess": {
+    "id": "vishvanathan_anand",
+    "provider": "lichess",
+    "username": "vishvanathan_anand",
+    "firstSeen": 1607221654431,
+    "lastSeen": 1607221654431
+  }
+}
