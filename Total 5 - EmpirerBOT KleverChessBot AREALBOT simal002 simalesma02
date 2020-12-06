@@ -1,0 +1,40 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607244180324,
+    "lastSeen": 1607285181409,
+    "firstSeenTime": "8:43:00 AM",
+    "lastSeenTime": "7:22:20 PM",
+    "onlineDurationMins": 639.3383333333334
+  },
+  "kleverchessbot@lichess": {
+    "id": "kleverchessbot",
+    "provider": "lichess",
+    "username": "KleverChessBot",
+    "firstSeen": 1607285098614,
+    "lastSeen": 1607285638407
+  },
+  "arealbot@lichess": {
+    "id": "arealbot",
+    "provider": "lichess",
+    "username": "AREALBOT",
+    "firstSeen": 1607285452347,
+    "lastSeen": 1607285481220
+  },
+  "simal002@lichess": {
+    "id": "simal002",
+    "provider": "lichess",
+    "username": "simal002",
+    "firstSeen": 1607285550869,
+    "lastSeen": 1607285738815
+  },
+  "simalesma02@lichess": {
+    "id": "simalesma02",
+    "provider": "lichess",
+    "username": "simalesma02",
+    "firstSeen": 1607285775545,
+    "lastSeen": 1607285775546
+  }
+}
