@@ -1,0 +1,33 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607244180324,
+    "lastSeen": 1607271196340,
+    "firstSeenTime": "8:43:00 AM",
+    "lastSeenTime": "2:50:16 PM",
+    "onlineDurationMins": 367.2728
+  },
+  "arealbot@lichess": {
+    "id": "arealbot",
+    "provider": "lichess",
+    "username": "AREALBOT",
+    "firstSeen": 1607270787478,
+    "lastSeen": 1607271454430
+  },
+  "dragon_2010@lichess": {
+    "id": "dragon_2010",
+    "provider": "lichess",
+    "username": "DRAGON_2010",
+    "firstSeen": 1607271339670,
+    "lastSeen": 1607271595101
+  },
+  "dragon_official@lichess": {
+    "id": "dragon_official",
+    "provider": "lichess",
+    "username": "Dragon_Official",
+    "firstSeen": 1607271643314,
+    "lastSeen": 1607271643314
+  }
+}
