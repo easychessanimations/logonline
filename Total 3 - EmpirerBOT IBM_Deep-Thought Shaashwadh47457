@@ -1,0 +1,26 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607244180324,
+    "lastSeen": 1607264899908,
+    "firstSeenTime": "8:43:00 AM",
+    "lastSeenTime": "11:04:16 AM",
+    "onlineDurationMins": 141.26523333333333
+  },
+  "ibm_deep-thought@lichess": {
+    "id": "ibm_deep-thought",
+    "provider": "lichess",
+    "username": "IBM_Deep-Thought",
+    "firstSeen": 1607263943823,
+    "lastSeen": 1607264612452
+  },
+  "shaashwadh47457@lichess": {
+    "id": "shaashwadh47457",
+    "provider": "lichess",
+    "username": "Shaashwadh47457",
+    "firstSeen": 1607264364709,
+    "lastSeen": 1607264390345
+  }
+}
