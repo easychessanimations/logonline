@@ -1,0 +1,26 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607244180324,
+    "lastSeen": 1607262919809,
+    "firstSeenTime": "8:43:00 AM",
+    "lastSeenTime": "11:04:16 AM",
+    "onlineDurationMins": 141.26523333333333
+  },
+  "chess_king2000@lichess": {
+    "id": "chess_king2000",
+    "provider": "lichess",
+    "username": "CHESS_KING2000",
+    "firstSeen": 1607261481967,
+    "lastSeen": 1607262984777
+  },
+  "star_2020@lichess": {
+    "id": "star_2020",
+    "provider": "lichess",
+    "username": "Star_2020",
+    "firstSeen": 1607263467927,
+    "lastSeen": 1607263508587
+  }
+}
