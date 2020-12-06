@@ -1,0 +1,26 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607244180324,
+    "lastSeen": 1607270480057,
+    "firstSeenTime": "8:43:00 AM",
+    "lastSeenTime": "2:50:16 PM",
+    "onlineDurationMins": 367.2728
+  },
+  "nobody11892@lichess": {
+    "id": "nobody11892",
+    "provider": "lichess",
+    "username": "Nobody11892",
+    "firstSeen": 1607270118204,
+    "lastSeen": 1607270120181
+  },
+  "arealbot@lichess": {
+    "id": "arealbot",
+    "provider": "lichess",
+    "username": "AREALBOT",
+    "firstSeen": 1607270787478,
+    "lastSeen": 1607270798983
+  }
+}
