@@ -1,0 +1,16 @@
+{
+  "botplaysrandommoves@lichess": {
+    "id": "botplaysrandommoves",
+    "provider": "lichess",
+    "username": "BotPlaysRandomMoves",
+    "firstSeen": 1607257664353,
+    "lastSeen": 1607258684000
+  },
+  "antichess-bot1@lichess": {
+    "id": "antichess-bot1",
+    "provider": "lichess",
+    "username": "Antichess-bot1",
+    "firstSeen": 1607258685366,
+    "lastSeen": 1607258685367
+  }
+}
