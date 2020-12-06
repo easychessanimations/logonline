@@ -1,0 +1,40 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607244180324,
+    "lastSeen": 1607259439816,
+    "firstSeenTime": "8:43:00 AM",
+    "lastSeenTime": "11:04:16 AM",
+    "onlineDurationMins": 141.26523333333333
+  },
+  "man_sim_sum@lichess": {
+    "id": "man_sim_sum",
+    "provider": "lichess",
+    "username": "man_sim_sum",
+    "firstSeen": 1607257340851,
+    "lastSeen": 1607259723335
+  },
+  "chessandtechsbot@lichess": {
+    "id": "chessandtechsbot",
+    "provider": "lichess",
+    "username": "Chessandtechsbot",
+    "firstSeen": 1607257687644,
+    "lastSeen": 1607259196115
+  },
+  "antichess-bot1@lichess": {
+    "id": "antichess-bot1",
+    "provider": "lichess",
+    "username": "Antichess-bot1",
+    "firstSeen": 1607258723524,
+    "lastSeen": 1607259206035
+  },
+  "necroder_bot@lichess": {
+    "id": "necroder_bot",
+    "provider": "lichess",
+    "username": "NecrodeR_BOT",
+    "firstSeen": 1607259504717,
+    "lastSeen": 1607259614514
+  }
+}
