@@ -1,0 +1,19 @@
+{
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607223306624,
+    "lastSeen": 1607229180302,
+    "firstSeenTime": "2:55:06 AM",
+    "lastSeenTime": "2:57:29 AM",
+    "onlineDurationMins": 2.3853166666666668
+  },
+  "wolf_gm@lichess": {
+    "id": "wolf_gm",
+    "provider": "lichess",
+    "username": "WolF_Gm",
+    "firstSeen": 1607228575111,
+    "lastSeen": 1607228917847
+  }
+}
