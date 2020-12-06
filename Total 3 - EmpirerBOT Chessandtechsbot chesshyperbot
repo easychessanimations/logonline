@@ -1,0 +1,26 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607244180324,
+    "lastSeen": 1607252656238,
+    "firstSeenTime": "8:43:00 AM",
+    "lastSeenTime": "8:43:27 AM",
+    "onlineDurationMins": 0.4476333333333333
+  },
+  "chessandtechsbot@lichess": {
+    "id": "chessandtechsbot",
+    "provider": "lichess",
+    "username": "Chessandtechsbot",
+    "firstSeen": 1607247249766,
+    "lastSeen": 1607252412872
+  },
+  "chesshyperbot@lichess": {
+    "id": "chesshyperbot",
+    "provider": "lichess",
+    "username": "chesshyperbot",
+    "firstSeen": 1607252895437,
+    "lastSeen": 1607252895437
+  }
+}
