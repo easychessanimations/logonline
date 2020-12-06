@@ -1,0 +1,52 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607244180324,
+    "lastSeen": 1607266696704,
+    "firstSeenTime": "8:43:00 AM",
+    "lastSeenTime": "2:50:16 PM",
+    "onlineDurationMins": 367.2728
+  },
+  "ibm_deep-thought@lichess": {
+    "id": "ibm_deep-thought",
+    "provider": "lichess",
+    "username": "IBM_Deep-Thought",
+    "firstSeen": 1607263943823,
+    "lastSeen": 1607266664529,
+    "firstSeenTime": "2:12:23 PM",
+    "lastSeenTime": "2:53:18 PM",
+    "onlineDurationMins": 40.90538333333333
+  },
+  "star_2020@lichess": {
+    "id": "star_2020",
+    "provider": "lichess",
+    "username": "Star_2020",
+    "firstSeen": 1607265402751,
+    "lastSeen": 1607266007512,
+    "firstSeenTime": "2:36:42 PM",
+    "lastSeenTime": "2:46:47 PM",
+    "onlineDurationMins": 10.07935
+  },
+  "chessandtechsbot@lichess": {
+    "id": "chessandtechsbot",
+    "provider": "lichess",
+    "username": "Chessandtechsbot",
+    "firstSeen": 1607265761182,
+    "lastSeen": 1607266664806,
+    "firstSeenTime": "2:42:41 PM",
+    "lastSeenTime": "2:47:16 PM",
+    "onlineDurationMins": 4.5841666666666665
+  },
+  "wolf_gm@lichess": {
+    "id": "wolf_gm",
+    "provider": "lichess",
+    "username": "WolF_Gm",
+    "firstSeen": 1607266220881,
+    "lastSeen": 1607266575896,
+    "firstSeenTime": "2:50:20 PM",
+    "lastSeenTime": "2:54:21 PM",
+    "onlineDurationMins": 4.015933333333333
+  }
+}
