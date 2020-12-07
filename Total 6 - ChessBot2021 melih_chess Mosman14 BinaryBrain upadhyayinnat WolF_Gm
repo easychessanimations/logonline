@@ -1,0 +1,59 @@
+{
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607313269736,
+    "lastSeen": 1607337587029,
+    "firstSeenTime": "3:54:29 AM",
+    "lastSeenTime": "10:16:47 AM",
+    "onlineDurationMins": 382.29473333333334
+  },
+  "melih_chess@lichess": {
+    "id": "melih_chess",
+    "provider": "lichess",
+    "username": "melih_chess",
+    "firstSeen": 1607332143564,
+    "lastSeen": 1607337609400,
+    "firstSeenTime": "9:09:03 AM",
+    "lastSeenTime": "10:17:06 AM",
+    "onlineDurationMins": 68.05041666666666
+  },
+  "mosman14@lichess": {
+    "id": "mosman14",
+    "provider": "lichess",
+    "username": "Mosman14",
+    "firstSeen": 1607334160298,
+    "lastSeen": 1607337585921,
+    "firstSeenTime": "9:42:40 AM",
+    "lastSeenTime": "10:16:49 AM",
+    "onlineDurationMins": 34.149633333333334
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607335081685,
+    "lastSeen": 1607337929222,
+    "firstSeenTime": "9:58:01 AM",
+    "lastSeenTime": "10:21:28 AM",
+    "onlineDurationMins": 23.4524
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1607335772545,
+    "lastSeen": 1607337816563,
+    "firstSeenTime": "10:09:32 AM",
+    "lastSeenTime": "10:21:40 AM",
+    "onlineDurationMins": 12.133516666666667
+  },
+  "wolf_gm@lichess": {
+    "id": "wolf_gm",
+    "provider": "lichess",
+    "username": "WolF_Gm",
+    "firstSeen": 1607337948562,
+    "lastSeen": 1607337948563
+  }
+}
