@@ -1,0 +1,61 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607347549255,
+    "lastSeen": 1607355653277,
+    "firstSeenTime": "1:25:49 PM",
+    "lastSeenTime": "1:39:56 PM",
+    "onlineDurationMins": 14.128133333333333
+  },
+  "ibm_deep-thought@lichess": {
+    "id": "ibm_deep-thought",
+    "provider": "lichess",
+    "username": "IBM_Deep-Thought",
+    "firstSeen": 1607352374380,
+    "lastSeen": 1607355377382
+  },
+  "sabbareesh_8@lichess": {
+    "id": "sabbareesh_8",
+    "provider": "lichess",
+    "username": "sabbareesh_8",
+    "firstSeen": 1607354031527,
+    "lastSeen": 1607355643394
+  },
+  "star_2020@lichess": {
+    "id": "star_2020",
+    "provider": "lichess",
+    "username": "Star_2020",
+    "firstSeen": 1607354119406,
+    "lastSeen": 1607355691518
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1607354272469,
+    "lastSeen": 1607355372399
+  },
+  "kleverchessbot@lichess": {
+    "id": "kleverchessbot",
+    "provider": "lichess",
+    "username": "KleverChessBot",
+    "firstSeen": 1607354942515,
+    "lastSeen": 1607355122206
+  },
+  "varianttourneysbot@lichess": {
+    "id": "varianttourneysbot",
+    "provider": "lichess",
+    "username": "VariantTourneysBot",
+    "firstSeen": 1607355470977,
+    "lastSeen": 1607355470977
+  },
+  "fmuror02@lichess": {
+    "id": "fmuror02",
+    "provider": "lichess",
+    "username": "Fmuror02",
+    "firstSeen": 1607355728852,
+    "lastSeen": 1607355728852
+  }
+}
