@@ -1,0 +1,49 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607347549255,
+    "lastSeen": 1607356137448,
+    "firstSeenTime": "1:25:49 PM",
+    "lastSeenTime": "3:40:53 PM",
+    "onlineDurationMins": 135.06703333333334
+  },
+  "ibm_deep-thought@lichess": {
+    "id": "ibm_deep-thought",
+    "provider": "lichess",
+    "username": "IBM_Deep-Thought",
+    "firstSeen": 1607352374380,
+    "lastSeen": 1607356503441,
+    "firstSeenTime": "2:46:14 PM",
+    "lastSeenTime": "3:45:05 PM",
+    "onlineDurationMins": 58.85778333333333
+  },
+  "sabbareesh_8@lichess": {
+    "id": "sabbareesh_8",
+    "provider": "lichess",
+    "username": "sabbareesh_8",
+    "firstSeen": 1607354031527,
+    "lastSeen": 1607356086702,
+    "firstSeenTime": "3:13:51 PM",
+    "lastSeenTime": "3:40:43 PM",
+    "onlineDurationMins": 26.86445
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1607354272469,
+    "lastSeen": 1607356086923,
+    "firstSeenTime": "3:17:52 PM",
+    "lastSeenTime": "3:36:12 PM",
+    "onlineDurationMins": 18.332166666666666
+  },
+  "lucascbutzke16@lichess": {
+    "id": "lucascbutzke16",
+    "provider": "lichess",
+    "username": "LucasCbutzke16",
+    "firstSeen": 1607356635593,
+    "lastSeen": 1607356636989
+  }
+}
