@@ -1,0 +1,47 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607347549255,
+    "lastSeen": 1607353912041,
+    "firstSeenTime": "1:25:49 PM",
+    "lastSeenTime": "1:39:56 PM",
+    "onlineDurationMins": 14.128133333333333
+  },
+  "fmuror02@lichess": {
+    "id": "fmuror02",
+    "provider": "lichess",
+    "username": "Fmuror02",
+    "firstSeen": 1607352149251,
+    "lastSeen": 1607353808103
+  },
+  "ibm_deep-thought@lichess": {
+    "id": "ibm_deep-thought",
+    "provider": "lichess",
+    "username": "IBM_Deep-Thought",
+    "firstSeen": 1607352374380,
+    "lastSeen": 1607353876468
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1607353130101,
+    "lastSeen": 1607353296011
+  },
+  "kleverchessbot@lichess": {
+    "id": "kleverchessbot",
+    "provider": "lichess",
+    "username": "KleverChessBot",
+    "firstSeen": 1607353600218,
+    "lastSeen": 1607353605017
+  },
+  "blacksync@lichess": {
+    "id": "blacksync",
+    "provider": "lichess",
+    "username": "BlackSync",
+    "firstSeen": 1607353745650,
+    "lastSeen": 1607353878056
+  }
+}
