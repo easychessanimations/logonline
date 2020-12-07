@@ -1,0 +1,30 @@
+{
+  "proinchess1234@lichess": {
+    "id": "proinchess1234",
+    "provider": "lichess",
+    "username": "proinchess1234",
+    "firstSeen": 1607308282801,
+    "lastSeen": 1607308950004
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607308450260,
+    "lastSeen": 1607309140144
+  },
+  "g-max-jack-o-lantern@lichess": {
+    "id": "g-max-jack-o-lantern",
+    "provider": "lichess",
+    "username": "G-Max-Jack-O-Lantern",
+    "firstSeen": 1607308613074,
+    "lastSeen": 1607308700298
+  },
+  "arealbot@lichess": {
+    "id": "arealbot",
+    "provider": "lichess",
+    "username": "AREALBOT",
+    "firstSeen": 1607308972076,
+    "lastSeen": 1607308975641
+  }
+}
