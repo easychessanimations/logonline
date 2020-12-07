@@ -1,0 +1,65 @@
+{
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607313269736,
+    "lastSeen": 1607328925258
+  },
+  "chessandtechsbot@lichess": {
+    "id": "chessandtechsbot",
+    "provider": "lichess",
+    "username": "Chessandtechsbot",
+    "firstSeen": 1607316025180,
+    "lastSeen": 1607329101240
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607323599594,
+    "lastSeen": 1607328996867
+  },
+  "kleverchessbot@lichess": {
+    "id": "kleverchessbot",
+    "provider": "lichess",
+    "username": "KleverChessBot",
+    "firstSeen": 1607325330546,
+    "lastSeen": 1607329201441
+  },
+  "wolf_gm@lichess": {
+    "id": "wolf_gm",
+    "provider": "lichess",
+    "username": "WolF_Gm",
+    "firstSeen": 1607327143122,
+    "lastSeen": 1607328647566
+  },
+  "sabbareesh_8@lichess": {
+    "id": "sabbareesh_8",
+    "provider": "lichess",
+    "username": "sabbareesh_8",
+    "firstSeen": 1607328200671,
+    "lastSeen": 1607329241749
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1607328256619,
+    "lastSeen": 1607329019088
+  },
+  "skyblaster@lichess": {
+    "id": "skyblaster",
+    "provider": "lichess",
+    "username": "skyblaster",
+    "firstSeen": 1607328786325,
+    "lastSeen": 1607328842261
+  },
+  "asv007@lichess": {
+    "id": "asv007",
+    "provider": "lichess",
+    "username": "asv007",
+    "firstSeen": 1607329284260,
+    "lastSeen": 1607329284260
+  }
+}
