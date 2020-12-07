@@ -1,0 +1,40 @@
+{
+  "arealbot@lichess": {
+    "id": "arealbot",
+    "provider": "lichess",
+    "username": "AREALBOT",
+    "firstSeen": 1607285452347,
+    "lastSeen": 1607307955634,
+    "firstSeenTime": "8:10:52 PM",
+    "lastSeenTime": "10:40:55 PM",
+    "onlineDurationMins": 150.0516
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1607301879655,
+    "lastSeen": 1607307938942
+  },
+  "asv007@lichess": {
+    "id": "asv007",
+    "provider": "lichess",
+    "username": "asv007",
+    "firstSeen": 1607305187683,
+    "lastSeen": 1607307982398
+  },
+  "vats26march@lichess": {
+    "id": "vats26march",
+    "provider": "lichess",
+    "username": "vats26march",
+    "firstSeen": 1607308075611,
+    "lastSeen": 1607308214537
+  },
+  "proinchess1234@lichess": {
+    "id": "proinchess1234",
+    "provider": "lichess",
+    "username": "proinchess1234",
+    "firstSeen": 1607308282801,
+    "lastSeen": 1607308282801
+  }
+}
