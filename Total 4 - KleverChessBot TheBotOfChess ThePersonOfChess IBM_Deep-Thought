@@ -1,0 +1,33 @@
+{
+  "kleverchessbot@lichess": {
+    "id": "kleverchessbot",
+    "provider": "lichess",
+    "username": "KleverChessBot",
+    "firstSeen": 1607366225914,
+    "lastSeen": 1607371104783,
+    "firstSeenTime": "6:37:05 PM",
+    "lastSeenTime": "7:06:21 PM",
+    "onlineDurationMins": 29.258166666666668
+  },
+  "thebotofchess@lichess": {
+    "id": "thebotofchess",
+    "provider": "lichess",
+    "username": "TheBotOfChess",
+    "firstSeen": 1607370366990,
+    "lastSeen": 1607371322366
+  },
+  "thepersonofchess@lichess": {
+    "id": "thepersonofchess",
+    "provider": "lichess",
+    "username": "ThePersonOfChess",
+    "firstSeen": 1607370382338,
+    "lastSeen": 1607371322599
+  },
+  "ibm_deep-thought@lichess": {
+    "id": "ibm_deep-thought",
+    "provider": "lichess",
+    "username": "IBM_Deep-Thought",
+    "firstSeen": 1607371149241,
+    "lastSeen": 1607371604629
+  }
+}
