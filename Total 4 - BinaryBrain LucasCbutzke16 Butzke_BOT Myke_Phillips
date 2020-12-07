@@ -1,0 +1,33 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607347549255,
+    "lastSeen": 1607357633245,
+    "firstSeenTime": "1:25:49 PM",
+    "lastSeenTime": "3:40:53 PM",
+    "onlineDurationMins": 135.06703333333334
+  },
+  "lucascbutzke16@lichess": {
+    "id": "lucascbutzke16",
+    "provider": "lichess",
+    "username": "LucasCbutzke16",
+    "firstSeen": 1607356635593,
+    "lastSeen": 1607357049236
+  },
+  "butzke_bot@lichess": {
+    "id": "butzke_bot",
+    "provider": "lichess",
+    "username": "Butzke_BOT",
+    "firstSeen": 1607357088161,
+    "lastSeen": 1607357605899
+  },
+  "myke_phillips@lichess": {
+    "id": "myke_phillips",
+    "provider": "lichess",
+    "username": "Myke_Phillips",
+    "firstSeen": 1607357637578,
+    "lastSeen": 1607357637578
+  }
+}
