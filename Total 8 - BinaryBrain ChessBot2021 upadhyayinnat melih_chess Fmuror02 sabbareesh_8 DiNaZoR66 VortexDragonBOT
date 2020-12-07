@@ -1,0 +1,67 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607347549255,
+    "lastSeen": 1607351087396,
+    "firstSeenTime": "1:25:49 PM",
+    "lastSeenTime": "1:39:56 PM",
+    "onlineDurationMins": 14.128133333333333
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607347554092,
+    "lastSeen": 1607350992254,
+    "firstSeenTime": "1:25:54 PM",
+    "lastSeenTime": "1:41:05 PM",
+    "onlineDurationMins": 15.186766666666667
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1607347776545,
+    "lastSeen": 1607350776273,
+    "firstSeenTime": "1:29:36 PM",
+    "lastSeenTime": "1:34:39 PM",
+    "onlineDurationMins": 5.053483333333333
+  },
+  "melih_chess@lichess": {
+    "id": "melih_chess",
+    "provider": "lichess",
+    "username": "melih_chess",
+    "firstSeen": 1607348835367,
+    "lastSeen": 1607350999670
+  },
+  "fmuror02@lichess": {
+    "id": "fmuror02",
+    "provider": "lichess",
+    "username": "Fmuror02",
+    "firstSeen": 1607350584917,
+    "lastSeen": 1607351066865
+  },
+  "sabbareesh_8@lichess": {
+    "id": "sabbareesh_8",
+    "provider": "lichess",
+    "username": "sabbareesh_8",
+    "firstSeen": 1607350715715,
+    "lastSeen": 1607351000813
+  },
+  "dinazor66@lichess": {
+    "id": "dinazor66",
+    "provider": "lichess",
+    "username": "DiNaZoR66",
+    "firstSeen": 1607351084488,
+    "lastSeen": 1607351094361
+  },
+  "vortexdragonbot@lichess": {
+    "id": "vortexdragonbot",
+    "provider": "lichess",
+    "username": "VortexDragonBOT",
+    "firstSeen": 1607351095543,
+    "lastSeen": 1607351095543
+  }
+}
