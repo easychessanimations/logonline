@@ -4,34 +4,49 @@
     "provider": "lichess",
     "username": "upadhyayinnat",
     "firstSeen": 1607424253365,
-    "lastSeen": 1607433500533
+    "lastSeen": 1607434820476,
+    "firstSeenTime": "10:44:13 AM",
+    "lastSeenTime": "1:18:20 PM",
+    "onlineDurationMins": 154.11946666666665
   },
   "chessbot2021@lichess": {
     "id": "chessbot2021",
     "provider": "lichess",
     "username": "ChessBot2021",
     "firstSeen": 1607425515580,
-    "lastSeen": 1607433555151
+    "lastSeen": 1607434822954,
+    "firstSeenTime": "11:05:15 AM",
+    "lastSeenTime": "1:19:15 PM",
+    "onlineDurationMins": 133.99285
   },
   "chessandtechsbot@lichess": {
     "id": "chessandtechsbot",
     "provider": "lichess",
     "username": "Chessandtechsbot",
     "firstSeen": 1607429322055,
-    "lastSeen": 1607433609238
+    "lastSeen": 1607434841229,
+    "firstSeenTime": "12:08:42 PM",
+    "lastSeenTime": "1:20:09 PM",
+    "onlineDurationMins": 71.45305
   },
   "empirerbot@lichess": {
     "id": "empirerbot",
     "provider": "lichess",
     "username": "EmpirerBOT",
     "firstSeen": 1607432787826,
-    "lastSeen": 1607433624616
+    "lastSeen": 1607434838769,
+    "firstSeenTime": "1:06:27 PM",
+    "lastSeenTime": "1:20:24 PM",
+    "onlineDurationMins": 13.9465
   },
   "drmeowmeow@lichess": {
     "id": "drmeowmeow",
     "provider": "lichess",
     "username": "DrMeowMeow",
     "firstSeen": 1607434013035,
-    "lastSeen": 1607434013035
+    "lastSeen": 1607434947211,
+    "firstSeenTime": "1:26:53 PM",
+    "lastSeenTime": "1:27:26 PM",
+    "onlineDurationMins": 0.5576833333333333
   }
 }
