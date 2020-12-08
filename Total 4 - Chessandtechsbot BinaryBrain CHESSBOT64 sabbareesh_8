@@ -1,0 +1,33 @@
+{
+  "chessandtechsbot@lichess": {
+    "id": "chessandtechsbot",
+    "provider": "lichess",
+    "username": "Chessandtechsbot",
+    "firstSeen": 1607401780144,
+    "lastSeen": 1607413841216,
+    "firstSeenTime": "4:29:40 AM",
+    "lastSeenTime": "4:51:41 AM",
+    "onlineDurationMins": 22.01585
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607406512018,
+    "lastSeen": 1607413906376
+  },
+  "chessbot64@lichess": {
+    "id": "chessbot64",
+    "provider": "lichess",
+    "username": "CHESSBOT64",
+    "firstSeen": 1607409085495,
+    "lastSeen": 1607413650968
+  },
+  "sabbareesh_8@lichess": {
+    "id": "sabbareesh_8",
+    "provider": "lichess",
+    "username": "sabbareesh_8",
+    "firstSeen": 1607412120194,
+    "lastSeen": 1607413891795
+  }
+}
