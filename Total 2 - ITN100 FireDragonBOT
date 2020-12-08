@@ -1,0 +1,19 @@
+{
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1607438109075,
+    "lastSeen": 1607446204478,
+    "firstSeenTime": "2:35:09 PM",
+    "lastSeenTime": "3:48:16 PM",
+    "onlineDurationMins": 73.11973333333333
+  },
+  "firedragonbot@lichess": {
+    "id": "firedragonbot",
+    "provider": "lichess",
+    "username": "FireDragonBOT",
+    "firstSeen": 1607446270344,
+    "lastSeen": 1607446270344
+  }
+}
