@@ -1,0 +1,47 @@
+{
+  "chessandtechsbot@lichess": {
+    "id": "chessandtechsbot",
+    "provider": "lichess",
+    "username": "Chessandtechsbot",
+    "firstSeen": 1607401780144,
+    "lastSeen": 1607409826652,
+    "firstSeenTime": "4:29:40 AM",
+    "lastSeenTime": "4:51:41 AM",
+    "onlineDurationMins": 22.01585
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607406512018,
+    "lastSeen": 1607409810815
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607408352087,
+    "lastSeen": 1607409854830
+  },
+  "chessbot64@lichess": {
+    "id": "chessbot64",
+    "provider": "lichess",
+    "username": "CHESSBOT64",
+    "firstSeen": 1607409085495,
+    "lastSeen": 1607409875029
+  },
+  "crucifycruxcruuz@lichess": {
+    "id": "crucifycruxcruuz",
+    "provider": "lichess",
+    "username": "CrucifyCruxCruuz",
+    "firstSeen": 1607409751419,
+    "lastSeen": 1607409846163
+  },
+  "smasher49@lichess": {
+    "id": "smasher49",
+    "provider": "lichess",
+    "username": "Smasher49",
+    "firstSeen": 1607409852848,
+    "lastSeen": 1607410112192
+  }
+}
