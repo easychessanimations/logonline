@@ -1,0 +1,40 @@
+{
+  "chessandtechsbot@lichess": {
+    "id": "chessandtechsbot",
+    "provider": "lichess",
+    "username": "Chessandtechsbot",
+    "firstSeen": 1607401780144,
+    "lastSeen": 1607423984850,
+    "firstSeenTime": "4:29:40 AM",
+    "lastSeenTime": "4:51:41 AM",
+    "onlineDurationMins": 22.01585
+  },
+  "chessbot64@lichess": {
+    "id": "chessbot64",
+    "provider": "lichess",
+    "username": "CHESSBOT64",
+    "firstSeen": 1607409085495,
+    "lastSeen": 1607423930447
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607423053147,
+    "lastSeen": 1607423778563
+  },
+  "krutonline@lichess": {
+    "id": "krutonline",
+    "provider": "lichess",
+    "username": "Krutonline",
+    "firstSeen": 1607423519611,
+    "lastSeen": 1607424013505
+  },
+  "frozenrook@lichess": {
+    "id": "frozenrook",
+    "provider": "lichess",
+    "username": "FrozenRook",
+    "firstSeen": 1607423531783,
+    "lastSeen": 1607423550028
+  }
+}
