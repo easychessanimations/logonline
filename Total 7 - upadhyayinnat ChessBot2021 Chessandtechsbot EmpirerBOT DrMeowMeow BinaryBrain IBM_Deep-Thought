@@ -1,0 +1,66 @@
+{
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1607424253365,
+    "lastSeen": 1607435480420,
+    "firstSeenTime": "10:44:13 AM",
+    "lastSeenTime": "1:18:20 PM",
+    "onlineDurationMins": 154.11946666666665
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607425515580,
+    "lastSeen": 1607435478736,
+    "firstSeenTime": "11:05:15 AM",
+    "lastSeenTime": "1:19:15 PM",
+    "onlineDurationMins": 133.99285
+  },
+  "chessandtechsbot@lichess": {
+    "id": "chessandtechsbot",
+    "provider": "lichess",
+    "username": "Chessandtechsbot",
+    "firstSeen": 1607429322055,
+    "lastSeen": 1607435504845,
+    "firstSeenTime": "12:08:42 PM",
+    "lastSeenTime": "1:20:09 PM",
+    "onlineDurationMins": 71.45305
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607432787826,
+    "lastSeen": 1607435495299,
+    "firstSeenTime": "1:06:27 PM",
+    "lastSeenTime": "1:20:24 PM",
+    "onlineDurationMins": 13.9465
+  },
+  "drmeowmeow@lichess": {
+    "id": "drmeowmeow",
+    "provider": "lichess",
+    "username": "DrMeowMeow",
+    "firstSeen": 1607434013035,
+    "lastSeen": 1607435515035,
+    "firstSeenTime": "1:26:53 PM",
+    "lastSeenTime": "1:27:26 PM",
+    "onlineDurationMins": 0.5576833333333333
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607435472308,
+    "lastSeen": 1607435564789
+  },
+  "ibm_deep-thought@lichess": {
+    "id": "ibm_deep-thought",
+    "provider": "lichess",
+    "username": "IBM_Deep-Thought",
+    "firstSeen": 1607435679644,
+    "lastSeen": 1607435679644
+  }
+}
