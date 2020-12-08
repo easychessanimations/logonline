@@ -1,0 +1,33 @@
+{
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1607438109075,
+    "lastSeen": 1607448028168,
+    "firstSeenTime": "2:35:09 PM",
+    "lastSeenTime": "3:48:16 PM",
+    "onlineDurationMins": 73.11973333333333
+  },
+  "firedragonbot@lichess": {
+    "id": "firedragonbot",
+    "provider": "lichess",
+    "username": "FireDragonBOT",
+    "firstSeen": 1607446270344,
+    "lastSeen": 1607447894083
+  },
+  "randomtree77@lichess": {
+    "id": "randomtree77",
+    "provider": "lichess",
+    "username": "RandomTree77",
+    "firstSeen": 1607447241820,
+    "lastSeen": 1607447909515
+  },
+  "kleverchessbot@lichess": {
+    "id": "kleverchessbot",
+    "provider": "lichess",
+    "username": "KleverChessBot",
+    "firstSeen": 1607448158781,
+    "lastSeen": 1607448158782
+  }
+}
