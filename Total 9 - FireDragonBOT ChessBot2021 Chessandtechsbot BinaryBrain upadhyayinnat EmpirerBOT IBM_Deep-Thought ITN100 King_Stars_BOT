@@ -1,0 +1,65 @@
+{
+  "firedragonbot@lichess": {
+    "id": "firedragonbot",
+    "provider": "lichess",
+    "username": "FireDragonBOT",
+    "firstSeen": 1607436550064,
+    "lastSeen": 1607438151993
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607436555497,
+    "lastSeen": 1607438178937
+  },
+  "chessandtechsbot@lichess": {
+    "id": "chessandtechsbot",
+    "provider": "lichess",
+    "username": "Chessandtechsbot",
+    "firstSeen": 1607436609288,
+    "lastSeen": 1607437541299
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607436851038,
+    "lastSeen": 1607437808670
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1607436857148,
+    "lastSeen": 1607437665903
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607436875364,
+    "lastSeen": 1607438198692
+  },
+  "ibm_deep-thought@lichess": {
+    "id": "ibm_deep-thought",
+    "provider": "lichess",
+    "username": "IBM_Deep-Thought",
+    "firstSeen": 1607437044675,
+    "lastSeen": 1607437892294
+  },
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1607438109075,
+    "lastSeen": 1607438378429
+  },
+  "king_stars_bot@lichess": {
+    "id": "king_stars_bot",
+    "provider": "lichess",
+    "username": "King_Stars_BOT",
+    "firstSeen": 1607438399153,
+    "lastSeen": 1607438399153
+  }
+}
