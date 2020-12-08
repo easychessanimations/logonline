@@ -1,0 +1,36 @@
+{
+  "firedragonbot@lichess": {
+    "id": "firedragonbot",
+    "provider": "lichess",
+    "username": "FireDragonBOT",
+    "firstSeen": 1607436550064,
+    "lastSeen": 1607442364085,
+    "firstSeenTime": "2:09:10 PM",
+    "lastSeenTime": "3:46:04 PM",
+    "onlineDurationMins": 96.90035
+  },
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1607438109075,
+    "lastSeen": 1607442496259,
+    "firstSeenTime": "2:35:09 PM",
+    "lastSeenTime": "3:48:16 PM",
+    "onlineDurationMins": 73.11973333333333
+  },
+  "vortexdragonbot@lichess": {
+    "id": "vortexdragonbot",
+    "provider": "lichess",
+    "username": "VortexDragonBOT",
+    "firstSeen": 1607442557677,
+    "lastSeen": 1607442565492
+  },
+  "mrprogamertrk@lichess": {
+    "id": "mrprogamertrk",
+    "provider": "lichess",
+    "username": "MrProGamerTRK",
+    "firstSeen": 1607442566908,
+    "lastSeen": 1607442566908
+  }
+}
