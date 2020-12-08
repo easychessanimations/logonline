@@ -1,0 +1,26 @@
+{
+  "kleverchessbot@lichess": {
+    "id": "kleverchessbot",
+    "provider": "lichess",
+    "username": "KleverChessBot",
+    "firstSeen": 1607448158781,
+    "lastSeen": 1607451586970,
+    "firstSeenTime": "5:22:38 PM",
+    "lastSeenTime": "5:33:47 PM",
+    "onlineDurationMins": 11.1414
+  },
+  "play-the-chess@lichess": {
+    "id": "play-the-chess",
+    "provider": "lichess",
+    "username": "Play-The-CHESS",
+    "firstSeen": 1607451621698,
+    "lastSeen": 1607451632780
+  },
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1607452137619,
+    "lastSeen": 1607452137619
+  }
+}
