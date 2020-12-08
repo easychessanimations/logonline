@@ -1,0 +1,37 @@
+{
+  "play-the-chess@lichess": {
+    "id": "play-the-chess",
+    "provider": "lichess",
+    "username": "Play-The-CHESS",
+    "firstSeen": 1607451621698,
+    "lastSeen": 1607457901417
+  },
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1607452137619,
+    "lastSeen": 1607457399685
+  },
+  "i-am-kedar@lichess": {
+    "id": "i-am-kedar",
+    "provider": "lichess",
+    "username": "I-Am-Kedar",
+    "firstSeen": 1607453274076,
+    "lastSeen": 1607457778219
+  },
+  "kleverchessbot@lichess": {
+    "id": "kleverchessbot",
+    "provider": "lichess",
+    "username": "KleverChessBot",
+    "firstSeen": 1607454107468,
+    "lastSeen": 1607457647333
+  },
+  "isimsizisim12345@lichess": {
+    "id": "isimsizisim12345",
+    "provider": "lichess",
+    "username": "isimsizisim12345",
+    "firstSeen": 1607457942988,
+    "lastSeen": 1607457942988
+  }
+}
