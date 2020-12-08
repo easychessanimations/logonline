@@ -1,0 +1,39 @@
+{
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1607452137619,
+    "lastSeen": 1607459707372,
+    "firstSeenTime": "6:28:57 PM",
+    "lastSeenTime": "8:20:38 PM",
+    "onlineDurationMins": 111.68941666666667
+  },
+  "i-am-kedar@lichess": {
+    "id": "i-am-kedar",
+    "provider": "lichess",
+    "username": "I-Am-Kedar",
+    "firstSeen": 1607453274076,
+    "lastSeen": 1607460121769,
+    "firstSeenTime": "6:47:54 PM",
+    "lastSeenTime": "8:27:58 PM",
+    "onlineDurationMins": 100.06888333333333
+  },
+  "kleverchessbot@lichess": {
+    "id": "kleverchessbot",
+    "provider": "lichess",
+    "username": "KleverChessBot",
+    "firstSeen": 1607454107468,
+    "lastSeen": 1607459688425,
+    "firstSeenTime": "7:01:47 PM",
+    "lastSeenTime": "8:25:47 PM",
+    "onlineDurationMins": 84.00863333333334
+  },
+  "thepersonofchess@lichess": {
+    "id": "thepersonofchess",
+    "provider": "lichess",
+    "username": "ThePersonOfChess",
+    "firstSeen": 1607459705666,
+    "lastSeen": 1607459715768
+  }
+}
