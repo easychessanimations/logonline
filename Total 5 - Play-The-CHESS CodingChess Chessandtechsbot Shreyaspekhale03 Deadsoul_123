@@ -1,0 +1,37 @@
+{
+  "play-the-chess@lichess": {
+    "id": "play-the-chess",
+    "provider": "lichess",
+    "username": "Play-The-CHESS",
+    "firstSeen": 1607495952623,
+    "lastSeen": 1607498956486
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1607497635557,
+    "lastSeen": 1607499146084
+  },
+  "chessandtechsbot@lichess": {
+    "id": "chessandtechsbot",
+    "provider": "lichess",
+    "username": "Chessandtechsbot",
+    "firstSeen": 1607498848949,
+    "lastSeen": 1607498972843
+  },
+  "shreyaspekhale03@lichess": {
+    "id": "shreyaspekhale03",
+    "provider": "lichess",
+    "username": "Shreyaspekhale03",
+    "firstSeen": 1607499188189,
+    "lastSeen": 1607499286742
+  },
+  "deadsoul_123@lichess": {
+    "id": "deadsoul_123",
+    "provider": "lichess",
+    "username": "Deadsoul_123",
+    "firstSeen": 1607499295116,
+    "lastSeen": 1607499329415
+  }
+}
