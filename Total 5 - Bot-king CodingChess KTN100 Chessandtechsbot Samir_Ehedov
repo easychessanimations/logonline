@@ -1,0 +1,37 @@
+{
+  "bot-king@lichess": {
+    "id": "bot-king",
+    "provider": "lichess",
+    "username": "Bot-king",
+    "firstSeen": 1607524279793,
+    "lastSeen": 1607524288808
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1607524293059,
+    "lastSeen": 1607524293059
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1607524352608,
+    "lastSeen": 1607524356080
+  },
+  "chessandtechsbot@lichess": {
+    "id": "chessandtechsbot",
+    "provider": "lichess",
+    "username": "Chessandtechsbot",
+    "firstSeen": 1607524355735,
+    "lastSeen": 1607524358976
+  },
+  "samir_ehedov@lichess": {
+    "id": "samir_ehedov",
+    "provider": "lichess",
+    "username": "Samir_Ehedov",
+    "firstSeen": 1607524390637,
+    "lastSeen": 1607524390637
+  }
+}
