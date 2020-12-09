@@ -1,0 +1,63 @@
+{
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1607524293059,
+    "lastSeen": 1607526679148,
+    "firstSeenTime": "2:31:33 PM",
+    "lastSeenTime": "2:36:38 PM",
+    "onlineDurationMins": 5.098916666666667
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1607524352608,
+    "lastSeen": 1607526478996,
+    "firstSeenTime": "2:32:32 PM",
+    "lastSeenTime": "2:44:57 PM",
+    "onlineDurationMins": 12.408583333333333
+  },
+  "chessandtechsbot@lichess": {
+    "id": "chessandtechsbot",
+    "provider": "lichess",
+    "username": "Chessandtechsbot",
+    "firstSeen": 1607524355735,
+    "lastSeen": 1607525855873,
+    "firstSeenTime": "2:32:35 PM",
+    "lastSeenTime": "2:44:39 PM",
+    "onlineDurationMins": 12.06175
+  },
+  "samir_ehedov@lichess": {
+    "id": "samir_ehedov",
+    "provider": "lichess",
+    "username": "Samir_Ehedov",
+    "firstSeen": 1607524390637,
+    "lastSeen": 1607526625818,
+    "firstSeenTime": "2:33:10 PM",
+    "lastSeenTime": "2:41:45 PM",
+    "onlineDurationMins": 8.581133333333334
+  },
+  "melcin188@lichess": {
+    "id": "melcin188",
+    "provider": "lichess",
+    "username": "melcin188",
+    "firstSeen": 1607526453154,
+    "lastSeen": 1607526558292
+  },
+  "bot-king@lichess": {
+    "id": "bot-king",
+    "provider": "lichess",
+    "username": "Bot-king",
+    "firstSeen": 1607526454612,
+    "lastSeen": 1607526536209
+  },
+  "stockfish_12_bot@lichess": {
+    "id": "stockfish_12_bot",
+    "provider": "lichess",
+    "username": "Stockfish_12_Bot",
+    "firstSeen": 1607526741244,
+    "lastSeen": 1607526741244
+  }
+}
