@@ -1,0 +1,46 @@
+{
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1607524293059,
+    "lastSeen": 1607530398399,
+    "firstSeenTime": "2:31:33 PM",
+    "lastSeenTime": "3:49:10 PM",
+    "onlineDurationMins": 77.63221666666666
+  },
+  "samir_ehedov@lichess": {
+    "id": "samir_ehedov",
+    "provider": "lichess",
+    "username": "Samir_Ehedov",
+    "firstSeen": 1607524390637,
+    "lastSeen": 1607530387681,
+    "firstSeenTime": "2:33:10 PM",
+    "lastSeenTime": "3:47:09 PM",
+    "onlineDurationMins": 73.9741
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1607529180981,
+    "lastSeen": 1607529901481,
+    "firstSeenTime": "3:53:00 PM",
+    "lastSeenTime": "3:53:04 PM",
+    "onlineDurationMins": 0.0576
+  },
+  "chessakura@lichess": {
+    "id": "chessakura",
+    "provider": "lichess",
+    "username": "Chessakura",
+    "firstSeen": 1607530614767,
+    "lastSeen": 1607530636631
+  },
+  "jackthepigeon@lichess": {
+    "id": "jackthepigeon",
+    "provider": "lichess",
+    "username": "JackThePigeon",
+    "firstSeen": 1607530651162,
+    "lastSeen": 1607530651162
+  }
+}
