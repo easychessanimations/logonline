@@ -1,0 +1,29 @@
+{
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1607524293059,
+    "lastSeen": 1607535525410,
+    "firstSeenTime": "2:31:33 PM",
+    "lastSeenTime": "5:28:09 PM",
+    "onlineDurationMins": 176.61035
+  },
+  "jackthepigeon@lichess": {
+    "id": "jackthepigeon",
+    "provider": "lichess",
+    "username": "JackThePigeon",
+    "firstSeen": 1607530651162,
+    "lastSeen": 1607535358364,
+    "firstSeenTime": "4:17:31 PM",
+    "lastSeenTime": "5:32:58 PM",
+    "onlineDurationMins": 75.45348333333334
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1607536121148,
+    "lastSeen": 1607536121148
+  }
+}
