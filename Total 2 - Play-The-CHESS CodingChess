@@ -1,0 +1,16 @@
+{
+  "play-the-chess@lichess": {
+    "id": "play-the-chess",
+    "provider": "lichess",
+    "username": "Play-The-CHESS",
+    "firstSeen": 1607495952623,
+    "lastSeen": 1607498249767
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1607497635557,
+    "lastSeen": 1607497993443
+  }
+}
