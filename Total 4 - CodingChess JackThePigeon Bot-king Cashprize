@@ -1,0 +1,42 @@
+{
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1607524293059,
+    "lastSeen": 1607534176109,
+    "firstSeenTime": "2:31:33 PM",
+    "lastSeenTime": "5:16:16 PM",
+    "onlineDurationMins": 164.7175
+  },
+  "jackthepigeon@lichess": {
+    "id": "jackthepigeon",
+    "provider": "lichess",
+    "username": "JackThePigeon",
+    "firstSeen": 1607530651162,
+    "lastSeen": 1607534518407,
+    "firstSeenTime": "4:17:31 PM",
+    "lastSeenTime": "5:12:00 PM",
+    "onlineDurationMins": 54.495783333333335
+  },
+  "bot-king@lichess": {
+    "id": "bot-king",
+    "provider": "lichess",
+    "username": "Bot-king",
+    "firstSeen": 1607533148228,
+    "lastSeen": 1607533627726,
+    "firstSeenTime": "4:59:08 PM",
+    "lastSeenTime": "5:07:07 PM",
+    "onlineDurationMins": 7.991633333333334
+  },
+  "cashprize@lichess": {
+    "id": "cashprize",
+    "provider": "lichess",
+    "username": "Cashprize",
+    "firstSeen": 1607533616731,
+    "lastSeen": 1607533698007,
+    "firstSeenTime": "5:06:56 PM",
+    "lastSeenTime": "5:08:18 PM",
+    "onlineDurationMins": 1.3546
+  }
+}
