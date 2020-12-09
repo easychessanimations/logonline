@@ -1,0 +1,54 @@
+{
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1607524293059,
+    "lastSeen": 1607532528162,
+    "firstSeenTime": "2:31:33 PM",
+    "lastSeenTime": "3:49:10 PM",
+    "onlineDurationMins": 77.63221666666666
+  },
+  "jackthepigeon@lichess": {
+    "id": "jackthepigeon",
+    "provider": "lichess",
+    "username": "JackThePigeon",
+    "firstSeen": 1607530651162,
+    "lastSeen": 1607532597365
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1607531849869,
+    "lastSeen": 1607532693529
+  },
+  "mg5608@lichess": {
+    "id": "mg5608",
+    "provider": "lichess",
+    "username": "mg5608",
+    "firstSeen": 1607532576887,
+    "lastSeen": 1607532595418
+  },
+  "pytigenio@lichess": {
+    "id": "pytigenio",
+    "provider": "lichess",
+    "username": "Pytigenio",
+    "firstSeen": 1607532579803,
+    "lastSeen": 1607532853694
+  },
+  "ultr4master_4@lichess": {
+    "id": "ultr4master_4",
+    "provider": "lichess",
+    "username": "Ultr4Master_4",
+    "firstSeen": 1607532678053,
+    "lastSeen": 1607532738671
+  },
+  "bot-king@lichess": {
+    "id": "bot-king",
+    "provider": "lichess",
+    "username": "Bot-king",
+    "firstSeen": 1607533148228,
+    "lastSeen": 1607533157129
+  }
+}
