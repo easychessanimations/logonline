@@ -1,0 +1,46 @@
+{
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1607497635557,
+    "lastSeen": 1607505661016,
+    "firstSeenTime": "7:07:15 AM",
+    "lastSeenTime": "9:12:30 AM",
+    "onlineDurationMins": 125.24281666666667
+  },
+  "chessandtechsbot@lichess": {
+    "id": "chessandtechsbot",
+    "provider": "lichess",
+    "username": "Chessandtechsbot",
+    "firstSeen": 1607498848949,
+    "lastSeen": 1607505579164,
+    "firstSeenTime": "7:27:28 AM",
+    "lastSeenTime": "9:08:35 AM",
+    "onlineDurationMins": 101.1102
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607501613691,
+    "lastSeen": 1607505580242,
+    "firstSeenTime": "8:13:33 AM",
+    "lastSeenTime": "9:08:36 AM",
+    "onlineDurationMins": 55.049166666666665
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1607505297803,
+    "lastSeen": 1607505812357
+  },
+  "mamis123@lichess": {
+    "id": "mamis123",
+    "provider": "lichess",
+    "username": "mAmIs123",
+    "firstSeen": 1607505845869,
+    "lastSeen": 1607505845869
+  }
+}
