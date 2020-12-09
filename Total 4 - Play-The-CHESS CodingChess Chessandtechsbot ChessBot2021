@@ -1,0 +1,39 @@
+{
+  "play-the-chess@lichess": {
+    "id": "play-the-chess",
+    "provider": "lichess",
+    "username": "Play-The-CHESS",
+    "firstSeen": 1607495952623,
+    "lastSeen": 1607500916576,
+    "firstSeenTime": "6:39:12 AM",
+    "lastSeenTime": "8:01:19 AM",
+    "onlineDurationMins": 82.12221666666667
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1607497635557,
+    "lastSeen": 1607501079315,
+    "firstSeenTime": "7:07:15 AM",
+    "lastSeenTime": "7:57:27 AM",
+    "onlineDurationMins": 50.19638333333333
+  },
+  "chessandtechsbot@lichess": {
+    "id": "chessandtechsbot",
+    "provider": "lichess",
+    "username": "Chessandtechsbot",
+    "firstSeen": 1607498848949,
+    "lastSeen": 1607501559107,
+    "firstSeenTime": "7:27:28 AM",
+    "lastSeenTime": "8:01:39 AM",
+    "onlineDurationMins": 34.17595
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607501613691,
+    "lastSeen": 1607501613691
+  }
+}
