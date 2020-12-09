@@ -1,0 +1,46 @@
+{
+  "chessandtechsbot@lichess": {
+    "id": "chessandtechsbot",
+    "provider": "lichess",
+    "username": "Chessandtechsbot",
+    "firstSeen": 1607498848949,
+    "lastSeen": 1607518235268,
+    "firstSeenTime": "7:27:28 AM",
+    "lastSeenTime": "12:40:53 PM",
+    "onlineDurationMins": 313.4144
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1607516050755,
+    "lastSeen": 1607517551826,
+    "firstSeenTime": "12:14:10 PM",
+    "lastSeenTime": "12:39:11 PM",
+    "onlineDurationMins": 25.01785
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1607517692455,
+    "lastSeen": 1607518232147,
+    "firstSeenTime": "12:41:32 PM",
+    "lastSeenTime": "12:41:38 PM",
+    "onlineDurationMins": 0.09973333333333333
+  },
+  "bot-king@lichess": {
+    "id": "bot-king",
+    "provider": "lichess",
+    "username": "Bot-king",
+    "firstSeen": 1607518155935,
+    "lastSeen": 1607518169185
+  },
+  "seleaaaa@lichess": {
+    "id": "seleaaaa",
+    "provider": "lichess",
+    "username": "Seleaaaa",
+    "firstSeen": 1607518337451,
+    "lastSeen": 1607518337451
+  }
+}
