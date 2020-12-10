@@ -1,0 +1,54 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607582725357,
+    "lastSeen": 1607610228482,
+    "firstSeenTime": "6:45:25 AM",
+    "lastSeenTime": "12:08:02 PM",
+    "onlineDurationMins": 322.62055
+  },
+  "fatihsafran@lichess": {
+    "id": "fatihsafran",
+    "provider": "lichess",
+    "username": "fatihsafran",
+    "firstSeen": 1607603067967,
+    "lastSeen": 1607609903117
+  },
+  "chess_king2000@lichess": {
+    "id": "chess_king2000",
+    "provider": "lichess",
+    "username": "CHESS_KING2000",
+    "firstSeen": 1607607035544,
+    "lastSeen": 1607609864645
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1607608115886,
+    "lastSeen": 1607610193327
+  },
+  "krutrobot@lichess": {
+    "id": "krutrobot",
+    "provider": "lichess",
+    "username": "KrutRoBOT",
+    "firstSeen": 1607608372224,
+    "lastSeen": 1607610358402
+  },
+  "skyblaster@lichess": {
+    "id": "skyblaster",
+    "provider": "lichess",
+    "username": "skyblaster",
+    "firstSeen": 1607610114570,
+    "lastSeen": 1607610118763
+  },
+  "stockfish_12_bot@lichess": {
+    "id": "stockfish_12_bot",
+    "provider": "lichess",
+    "username": "Stockfish_12_Bot",
+    "firstSeen": 1607610429590,
+    "lastSeen": 1607610503130
+  }
+}
