@@ -1,0 +1,54 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607582725357,
+    "lastSeen": 1607601127165,
+    "firstSeenTime": "6:45:25 AM",
+    "lastSeenTime": "9:13:02 AM",
+    "onlineDurationMins": 147.62078333333332
+  },
+  "krutrobot@lichess": {
+    "id": "krutrobot",
+    "provider": "lichess",
+    "username": "KrutRoBOT",
+    "firstSeen": 1607598593266,
+    "lastSeen": 1607601321675
+  },
+  "mayra123-751@lichess": {
+    "id": "mayra123-751",
+    "provider": "lichess",
+    "username": "mayra123-751",
+    "firstSeen": 1607600449129,
+    "lastSeen": 1607601571752
+  },
+  "711199760220028939@discord": {
+    "id": "711199760220028939",
+    "provider": "discord",
+    "username": "yigitomerunlu03",
+    "firstSeen": 1607600763753,
+    "lastSeen": 1607600808445
+  },
+  "superorhun@lichess": {
+    "id": "superorhun",
+    "provider": "lichess",
+    "username": "Superorhun",
+    "firstSeen": 1607601204406,
+    "lastSeen": 1607601639835
+  },
+  "asv007@lichess": {
+    "id": "asv007",
+    "provider": "lichess",
+    "username": "asv007",
+    "firstSeen": 1607601230229,
+    "lastSeen": 1607601244407
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607601641268,
+    "lastSeen": 1607601641268
+  }
+}
