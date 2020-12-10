@@ -3,20 +3,17 @@
     "id": "empirerbot",
     "provider": "lichess",
     "username": "EmpirerBOT",
-    "firstSeen": 1607244180324,
-    "lastSeen": 1607253316813,
-    "firstSeenTime": "8:43:00 AM",
-    "lastSeenTime": "11:04:16 AM",
-    "onlineDurationMins": 141.26523333333333
+    "firstSeen": 1607582725357,
+    "lastSeen": 1607589764977,
+    "firstSeenTime": "6:45:25 AM",
+    "lastSeenTime": "7:45:48 AM",
+    "onlineDurationMins": 60.378366666666665
   },
   "chessandtechsbot@lichess": {
     "id": "chessandtechsbot",
     "provider": "lichess",
     "username": "Chessandtechsbot",
-    "firstSeen": 1607247249766,
-    "lastSeen": 1607253727394,
-    "firstSeenTime": "9:34:09 AM",
-    "lastSeenTime": "11:00:12 AM",
-    "onlineDurationMins": 86.05176666666667
+    "firstSeen": 1607589565293,
+    "lastSeen": 1607589577708
   }
 }
