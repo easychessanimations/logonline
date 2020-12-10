@@ -1,0 +1,37 @@
+{
+  "skyblaster@lichess": {
+    "id": "skyblaster",
+    "provider": "lichess",
+    "username": "skyblaster",
+    "firstSeen": 1607575769627,
+    "lastSeen": 1607585065114
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607582725357,
+    "lastSeen": 1607584962280
+  },
+  "superorhun@lichess": {
+    "id": "superorhun",
+    "provider": "lichess",
+    "username": "Superorhun",
+    "firstSeen": 1607583888877,
+    "lastSeen": 1607584243871
+  },
+  "krishna1312@lichess": {
+    "id": "krishna1312",
+    "provider": "lichess",
+    "username": "krishna1312",
+    "firstSeen": 1607584261111,
+    "lastSeen": 1607584375951
+  },
+  "bullet-bot@lichess": {
+    "id": "bullet-bot",
+    "provider": "lichess",
+    "username": "Bullet-BOT",
+    "firstSeen": 1607584478201,
+    "lastSeen": 1607584803425
+  }
+}
