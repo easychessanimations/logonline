@@ -1,0 +1,50 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607582725357,
+    "lastSeen": 1607597114245,
+    "firstSeenTime": "6:45:25 AM",
+    "lastSeenTime": "9:13:02 AM",
+    "onlineDurationMins": 147.62078333333332
+  },
+  "skyblaster@lichess": {
+    "id": "skyblaster",
+    "provider": "lichess",
+    "username": "skyblaster",
+    "firstSeen": 1607591489987,
+    "lastSeen": 1607597091681,
+    "firstSeenTime": "9:11:29 AM",
+    "lastSeenTime": "9:20:49 AM",
+    "onlineDurationMins": 9.331366666666666
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607595736775,
+    "lastSeen": 1607597146339
+  },
+  "pytigenio@lichess": {
+    "id": "pytigenio",
+    "provider": "lichess",
+    "username": "Pytigenio",
+    "firstSeen": 1607595894591,
+    "lastSeen": 1607596398828
+  },
+  "fatihsafran@lichess": {
+    "id": "fatihsafran",
+    "provider": "lichess",
+    "username": "fatihsafran",
+    "firstSeen": 1607596092922,
+    "lastSeen": 1607597140981
+  },
+  "star_2020@lichess": {
+    "id": "star_2020",
+    "provider": "lichess",
+    "username": "Star_2020",
+    "firstSeen": 1607597155832,
+    "lastSeen": 1607597155832
+  }
+}
