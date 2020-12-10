@@ -1,0 +1,57 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607612328368,
+    "lastSeen": 1607629250250,
+    "firstSeenTime": "2:58:48 PM",
+    "lastSeenTime": "6:09:52 PM",
+    "onlineDurationMins": 191.06375
+  },
+  "thebotofchess@lichess": {
+    "id": "thebotofchess",
+    "provider": "lichess",
+    "username": "TheBotOfChess",
+    "firstSeen": 1607613858412,
+    "lastSeen": 1607629106759,
+    "firstSeenTime": "3:24:18 PM",
+    "lastSeenTime": "6:10:26 PM",
+    "onlineDurationMins": 166.14111666666668
+  },
+  "randomtree77@lichess": {
+    "id": "randomtree77",
+    "provider": "lichess",
+    "username": "RandomTree77",
+    "firstSeen": 1607625486438,
+    "lastSeen": 1607629089369
+  },
+  "thepersonofchess@lichess": {
+    "id": "thepersonofchess",
+    "provider": "lichess",
+    "username": "ThePersonOfChess",
+    "firstSeen": 1607626971536,
+    "lastSeen": 1607629078816
+  },
+  "windows7pro@lichess": {
+    "id": "windows7pro",
+    "provider": "lichess",
+    "username": "Windows7Pro",
+    "firstSeen": 1607627626695,
+    "lastSeen": 1607629472763
+  },
+  "star_2020@lichess": {
+    "id": "star_2020",
+    "provider": "lichess",
+    "username": "Star_2020",
+    "firstSeen": 1607629486594,
+    "lastSeen": 1607629496705
+  },
+  "jackthepigeon@lichess": {
+    "id": "jackthepigeon",
+    "provider": "lichess",
+    "username": "JackThePigeon",
+    "firstSeen": 1607629501233,
+    "lastSeen": 1607629501233
+  }
+}
