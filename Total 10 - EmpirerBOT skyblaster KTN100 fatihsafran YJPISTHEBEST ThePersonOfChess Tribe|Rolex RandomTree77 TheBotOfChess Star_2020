@@ -1,0 +1,96 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607612328368,
+    "lastSeen": 1607613648683,
+    "firstSeenTime": "2:58:48 PM",
+    "lastSeenTime": "3:20:48 PM",
+    "onlineDurationMins": 22.00525
+  },
+  "skyblaster@lichess": {
+    "id": "skyblaster",
+    "provider": "lichess",
+    "username": "skyblaster",
+    "firstSeen": 1607612336561,
+    "lastSeen": 1607613659933,
+    "firstSeenTime": "2:58:56 PM",
+    "lastSeenTime": "3:20:59 PM",
+    "onlineDurationMins": 22.0562
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1607612653254,
+    "lastSeen": 1607613436787,
+    "firstSeenTime": "3:04:13 PM",
+    "lastSeenTime": "3:17:16 PM",
+    "onlineDurationMins": 13.058883333333334
+  },
+  "fatihsafran@lichess": {
+    "id": "fatihsafran",
+    "provider": "lichess",
+    "username": "fatihsafran",
+    "firstSeen": 1607612659845,
+    "lastSeen": 1607613739812,
+    "firstSeenTime": "3:04:19 PM",
+    "lastSeenTime": "3:22:19 PM",
+    "onlineDurationMins": 17.99945
+  },
+  "yjpisthebest@lichess": {
+    "id": "yjpisthebest",
+    "provider": "lichess",
+    "username": "YJPISTHEBEST",
+    "firstSeen": 1607612717844,
+    "lastSeen": 1607613823663,
+    "firstSeenTime": "3:05:17 PM",
+    "lastSeenTime": "3:21:54 PM",
+    "onlineDurationMins": 16.60955
+  },
+  "thepersonofchess@lichess": {
+    "id": "thepersonofchess",
+    "provider": "lichess",
+    "username": "ThePersonOfChess",
+    "firstSeen": 1607612748745,
+    "lastSeen": 1607613450933,
+    "firstSeenTime": "3:05:48 PM",
+    "lastSeenTime": "3:17:30 PM",
+    "onlineDurationMins": 11.703133333333334
+  },
+  "770636018940510230@discord": {
+    "id": "770636018940510230",
+    "provider": "discord",
+    "username": "Tribe|Rolex",
+    "firstSeen": 1607613198905,
+    "lastSeen": 1607613269161,
+    "firstSeenTime": "3:13:18 PM",
+    "lastSeenTime": "3:14:29 PM",
+    "onlineDurationMins": 1.1709333333333334
+  },
+  "randomtree77@lichess": {
+    "id": "randomtree77",
+    "provider": "lichess",
+    "username": "RandomTree77",
+    "firstSeen": 1607613735340,
+    "lastSeen": 1607613793851,
+    "firstSeenTime": "3:22:15 PM",
+    "lastSeenTime": "3:22:25 PM",
+    "onlineDurationMins": 0.1724
+  },
+  "thebotofchess@lichess": {
+    "id": "thebotofchess",
+    "provider": "lichess",
+    "username": "TheBotOfChess",
+    "firstSeen": 1607613858412,
+    "lastSeen": 1607613865156
+  },
+  "star_2020@lichess": {
+    "id": "star_2020",
+    "provider": "lichess",
+    "username": "Star_2020",
+    "firstSeen": 1607613866217,
+    "lastSeen": 1607613866217
+  }
+}
