@@ -1,0 +1,44 @@
+{
+  "skyblaster@lichess": {
+    "id": "skyblaster",
+    "provider": "lichess",
+    "username": "skyblaster",
+    "firstSeen": 1607575769627,
+    "lastSeen": 1607582822613
+  },
+  "komodo_14_bot@lichess": {
+    "id": "komodo_14_bot",
+    "provider": "lichess",
+    "username": "Komodo_14_Bot",
+    "firstSeen": 1607579566851,
+    "lastSeen": 1607582757092
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607580846393,
+    "lastSeen": 1607582786918
+  },
+  "chessnutacademy@lichess": {
+    "id": "chessnutacademy",
+    "provider": "lichess",
+    "username": "ChessNutAcademy",
+    "firstSeen": 1607582555936,
+    "lastSeen": 1607582596625
+  },
+  "bhoot_unkle@lichess": {
+    "id": "bhoot_unkle",
+    "provider": "lichess",
+    "username": "Bhoot_Unkle",
+    "firstSeen": 1607582642580,
+    "lastSeen": 1607582673728
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607582725357,
+    "lastSeen": 1607582797585
+  }
+}
