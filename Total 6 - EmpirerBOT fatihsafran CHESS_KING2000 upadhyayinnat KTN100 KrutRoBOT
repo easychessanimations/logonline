@@ -1,0 +1,47 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607582725357,
+    "lastSeen": 1607608788374,
+    "firstSeenTime": "6:45:25 AM",
+    "lastSeenTime": "12:08:02 PM",
+    "onlineDurationMins": 322.62055
+  },
+  "fatihsafran@lichess": {
+    "id": "fatihsafran",
+    "provider": "lichess",
+    "username": "fatihsafran",
+    "firstSeen": 1607603067967,
+    "lastSeen": 1607609246861
+  },
+  "chess_king2000@lichess": {
+    "id": "chess_king2000",
+    "provider": "lichess",
+    "username": "CHESS_KING2000",
+    "firstSeen": 1607607035544,
+    "lastSeen": 1607609141468
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1607608033796,
+    "lastSeen": 1607608701211
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1607608115886,
+    "lastSeen": 1607609176674
+  },
+  "krutrobot@lichess": {
+    "id": "krutrobot",
+    "provider": "lichess",
+    "username": "KrutRoBOT",
+    "firstSeen": 1607608372224,
+    "lastSeen": 1607609038452
+  }
+}
