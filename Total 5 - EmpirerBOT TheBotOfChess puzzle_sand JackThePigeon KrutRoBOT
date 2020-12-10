@@ -1,0 +1,52 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607612328368,
+    "lastSeen": 1607624749104,
+    "firstSeenTime": "2:58:48 PM",
+    "lastSeenTime": "6:09:52 PM",
+    "onlineDurationMins": 191.06375
+  },
+  "thebotofchess@lichess": {
+    "id": "thebotofchess",
+    "provider": "lichess",
+    "username": "TheBotOfChess",
+    "firstSeen": 1607613858412,
+    "lastSeen": 1607624363171,
+    "firstSeenTime": "3:24:18 PM",
+    "lastSeenTime": "6:10:26 PM",
+    "onlineDurationMins": 166.14111666666668
+  },
+  "puzzle_sand@lichess": {
+    "id": "puzzle_sand",
+    "provider": "lichess",
+    "username": "puzzle_sand",
+    "firstSeen": 1607623876570,
+    "lastSeen": 1607624119873,
+    "firstSeenTime": "6:11:16 PM",
+    "lastSeenTime": "6:15:19 PM",
+    "onlineDurationMins": 4.05505
+  },
+  "jackthepigeon@lichess": {
+    "id": "jackthepigeon",
+    "provider": "lichess",
+    "username": "JackThePigeon",
+    "firstSeen": 1607624141380,
+    "lastSeen": 1607624507575,
+    "firstSeenTime": "6:15:41 PM",
+    "lastSeenTime": "6:16:34 PM",
+    "onlineDurationMins": 0.8872333333333333
+  },
+  "krutrobot@lichess": {
+    "id": "krutrobot",
+    "provider": "lichess",
+    "username": "KrutRoBOT",
+    "firstSeen": 1607624238553,
+    "lastSeen": 1607624244635,
+    "firstSeenTime": "6:17:18 PM",
+    "lastSeenTime": "6:17:24 PM",
+    "onlineDurationMins": 0.10136666666666666
+  }
+}
