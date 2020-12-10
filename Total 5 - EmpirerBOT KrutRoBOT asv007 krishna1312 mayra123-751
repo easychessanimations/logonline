@@ -1,0 +1,40 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607582725357,
+    "lastSeen": 1607600582964,
+    "firstSeenTime": "6:45:25 AM",
+    "lastSeenTime": "9:13:02 AM",
+    "onlineDurationMins": 147.62078333333332
+  },
+  "krutrobot@lichess": {
+    "id": "krutrobot",
+    "provider": "lichess",
+    "username": "KrutRoBOT",
+    "firstSeen": 1607598593266,
+    "lastSeen": 1607600598357
+  },
+  "asv007@lichess": {
+    "id": "asv007",
+    "provider": "lichess",
+    "username": "asv007",
+    "firstSeen": 1607599691140,
+    "lastSeen": 1607599864825
+  },
+  "krishna1312@lichess": {
+    "id": "krishna1312",
+    "provider": "lichess",
+    "username": "krishna1312",
+    "firstSeen": 1607600397164,
+    "lastSeen": 1607600445633
+  },
+  "mayra123-751@lichess": {
+    "id": "mayra123-751",
+    "provider": "lichess",
+    "username": "mayra123-751",
+    "firstSeen": 1607600449129,
+    "lastSeen": 1607600461275
+  }
+}
