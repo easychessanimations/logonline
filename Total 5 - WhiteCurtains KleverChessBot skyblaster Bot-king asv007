@@ -1,0 +1,40 @@
+{
+  "whitecurtains@lichess": {
+    "id": "whitecurtains",
+    "provider": "lichess",
+    "username": "WhiteCurtains",
+    "firstSeen": 1607573880925,
+    "lastSeen": 1607577061075,
+    "firstSeenTime": "4:18:00 AM",
+    "lastSeenTime": "4:28:12 AM",
+    "onlineDurationMins": 10.19895
+  },
+  "kleverchessbot@lichess": {
+    "id": "kleverchessbot",
+    "provider": "lichess",
+    "username": "KleverChessBot",
+    "firstSeen": 1607575450206,
+    "lastSeen": 1607576892802
+  },
+  "skyblaster@lichess": {
+    "id": "skyblaster",
+    "provider": "lichess",
+    "username": "skyblaster",
+    "firstSeen": 1607575769627,
+    "lastSeen": 1607577041185
+  },
+  "bot-king@lichess": {
+    "id": "bot-king",
+    "provider": "lichess",
+    "username": "Bot-king",
+    "firstSeen": 1607577087217,
+    "lastSeen": 1607577129240
+  },
+  "asv007@lichess": {
+    "id": "asv007",
+    "provider": "lichess",
+    "username": "asv007",
+    "firstSeen": 1607577144870,
+    "lastSeen": 1607577144870
+  }
+}
