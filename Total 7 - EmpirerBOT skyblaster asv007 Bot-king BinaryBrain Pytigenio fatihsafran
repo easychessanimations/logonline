@@ -1,0 +1,57 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607582725357,
+    "lastSeen": 1607596083085,
+    "firstSeenTime": "6:45:25 AM",
+    "lastSeenTime": "9:13:02 AM",
+    "onlineDurationMins": 147.62078333333332
+  },
+  "skyblaster@lichess": {
+    "id": "skyblaster",
+    "provider": "lichess",
+    "username": "skyblaster",
+    "firstSeen": 1607591489987,
+    "lastSeen": 1607596030216,
+    "firstSeenTime": "9:11:29 AM",
+    "lastSeenTime": "9:20:49 AM",
+    "onlineDurationMins": 9.331366666666666
+  },
+  "asv007@lichess": {
+    "id": "asv007",
+    "provider": "lichess",
+    "username": "asv007",
+    "firstSeen": 1607594537868,
+    "lastSeen": 1607595398845
+  },
+  "bot-king@lichess": {
+    "id": "bot-king",
+    "provider": "lichess",
+    "username": "Bot-king",
+    "firstSeen": 1607594690323,
+    "lastSeen": 1607596029253
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607595736775,
+    "lastSeen": 1607595873675
+  },
+  "pytigenio@lichess": {
+    "id": "pytigenio",
+    "provider": "lichess",
+    "username": "Pytigenio",
+    "firstSeen": 1607595894591,
+    "lastSeen": 1607595903599
+  },
+  "fatihsafran@lichess": {
+    "id": "fatihsafran",
+    "provider": "lichess",
+    "username": "fatihsafran",
+    "firstSeen": 1607596092922,
+    "lastSeen": 1607596092922
+  }
+}
