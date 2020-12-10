@@ -1,0 +1,81 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607612328368,
+    "lastSeen": 1607619474228,
+    "firstSeenTime": "2:58:48 PM",
+    "lastSeenTime": "3:20:48 PM",
+    "onlineDurationMins": 22.00525
+  },
+  "fatihsafran@lichess": {
+    "id": "fatihsafran",
+    "provider": "lichess",
+    "username": "fatihsafran",
+    "firstSeen": 1607612659845,
+    "lastSeen": 1607618955035,
+    "firstSeenTime": "3:04:19 PM",
+    "lastSeenTime": "3:22:19 PM",
+    "onlineDurationMins": 17.99945
+  },
+  "thepersonofchess@lichess": {
+    "id": "thepersonofchess",
+    "provider": "lichess",
+    "username": "ThePersonOfChess",
+    "firstSeen": 1607612748745,
+    "lastSeen": 1607618988468,
+    "firstSeenTime": "3:05:48 PM",
+    "lastSeenTime": "3:17:30 PM",
+    "onlineDurationMins": 11.703133333333334
+  },
+  "thebotofchess@lichess": {
+    "id": "thebotofchess",
+    "provider": "lichess",
+    "username": "TheBotOfChess",
+    "firstSeen": 1607613858412,
+    "lastSeen": 1607618955545
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1607618294280,
+    "lastSeen": 1607619134311
+  },
+  "krutrobot@lichess": {
+    "id": "krutrobot",
+    "provider": "lichess",
+    "username": "KrutRoBOT",
+    "firstSeen": 1607618659267,
+    "lastSeen": 1607619162436
+  },
+  "stockfish_12_bot@lichess": {
+    "id": "stockfish_12_bot",
+    "provider": "lichess",
+    "username": "Stockfish_12_Bot",
+    "firstSeen": 1607618822923,
+    "lastSeen": 1607619451206
+  },
+  "randomtree77@lichess": {
+    "id": "randomtree77",
+    "provider": "lichess",
+    "username": "RandomTree77",
+    "firstSeen": 1607619394986,
+    "lastSeen": 1607619416192
+  },
+  "krishna1312@lichess": {
+    "id": "krishna1312",
+    "provider": "lichess",
+    "username": "krishna1312",
+    "firstSeen": 1607619543597,
+    "lastSeen": 1607619558860
+  },
+  "windows7pro@lichess": {
+    "id": "windows7pro",
+    "provider": "lichess",
+    "username": "Windows7Pro",
+    "firstSeen": 1607619559809,
+    "lastSeen": 1607619559809
+  }
+}
