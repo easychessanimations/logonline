@@ -1,0 +1,47 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607582725357,
+    "lastSeen": 1607591465975,
+    "firstSeenTime": "6:45:25 AM",
+    "lastSeenTime": "7:45:48 AM",
+    "onlineDurationMins": 60.378366666666665
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607590546364,
+    "lastSeen": 1607591433544
+  },
+  "bot-king@lichess": {
+    "id": "bot-king",
+    "provider": "lichess",
+    "username": "Bot-king",
+    "firstSeen": 1607590712775,
+    "lastSeen": 1607591328292
+  },
+  "erdmaytc@lichess": {
+    "id": "erdmaytc",
+    "provider": "lichess",
+    "username": "ErdmAytc",
+    "firstSeen": 1607591258538,
+    "lastSeen": 1607591377349
+  },
+  "skyblaster@lichess": {
+    "id": "skyblaster",
+    "provider": "lichess",
+    "username": "skyblaster",
+    "firstSeen": 1607591489987,
+    "lastSeen": 1607591500150
+  },
+  "hamzakubilay@lichess": {
+    "id": "hamzakubilay",
+    "provider": "lichess",
+    "username": "hamzakubilay",
+    "firstSeen": 1607591521587,
+    "lastSeen": 1607591521587
+  }
+}
