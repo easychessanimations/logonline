@@ -1,0 +1,33 @@
+{
+  "chessandtechsbot@lichess": {
+    "id": "chessandtechsbot",
+    "provider": "lichess",
+    "username": "Chessandtechsbot",
+    "firstSeen": 1607669746838,
+    "lastSeen": 1607674491414,
+    "firstSeenTime": "6:55:46 AM",
+    "lastSeenTime": "7:34:19 AM",
+    "onlineDurationMins": 38.5457
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1607674221139,
+    "lastSeen": 1607674944281
+  },
+  "iplayrandommoves@lichess": {
+    "id": "iplayrandommoves",
+    "provider": "lichess",
+    "username": "IPlayRandomMoves",
+    "firstSeen": 1607674309304,
+    "lastSeen": 1607674488463
+  },
+  "asv007@lichess": {
+    "id": "asv007",
+    "provider": "lichess",
+    "username": "asv007",
+    "firstSeen": 1607675367993,
+    "lastSeen": 1607675367993
+  }
+}
