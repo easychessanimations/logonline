@@ -1,0 +1,32 @@
+{
+  "skyblaster@lichess": {
+    "id": "skyblaster",
+    "provider": "lichess",
+    "username": "skyblaster",
+    "firstSeen": 1607669599416,
+    "lastSeen": 1607672148210,
+    "firstSeenTime": "6:53:19 AM",
+    "lastSeenTime": "7:16:48 AM",
+    "onlineDurationMins": 23.4898
+  },
+  "chessandtechsbot@lichess": {
+    "id": "chessandtechsbot",
+    "provider": "lichess",
+    "username": "Chessandtechsbot",
+    "firstSeen": 1607669746838,
+    "lastSeen": 1607672059580,
+    "firstSeenTime": "6:55:46 AM",
+    "lastSeenTime": "7:18:00 AM",
+    "onlineDurationMins": 22.230416666666667
+  },
+  "asv007@lichess": {
+    "id": "asv007",
+    "provider": "lichess",
+    "username": "asv007",
+    "firstSeen": 1607670972090,
+    "lastSeen": 1607671639048,
+    "firstSeenTime": "7:16:12 AM",
+    "lastSeenTime": "7:22:00 AM",
+    "onlineDurationMins": 5.808433333333333
+  }
+}
