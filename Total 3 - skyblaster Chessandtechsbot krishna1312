@@ -1,0 +1,29 @@
+{
+  "skyblaster@lichess": {
+    "id": "skyblaster",
+    "provider": "lichess",
+    "username": "skyblaster",
+    "firstSeen": 1607669599416,
+    "lastSeen": 1607673982725,
+    "firstSeenTime": "6:53:19 AM",
+    "lastSeenTime": "7:35:48 AM",
+    "onlineDurationMins": 42.4799
+  },
+  "chessandtechsbot@lichess": {
+    "id": "chessandtechsbot",
+    "provider": "lichess",
+    "username": "Chessandtechsbot",
+    "firstSeen": 1607669746838,
+    "lastSeen": 1607673826558,
+    "firstSeenTime": "6:55:46 AM",
+    "lastSeenTime": "7:34:19 AM",
+    "onlineDurationMins": 38.5457
+  },
+  "krishna1312@lichess": {
+    "id": "krishna1312",
+    "provider": "lichess",
+    "username": "krishna1312",
+    "firstSeen": 1607674004166,
+    "lastSeen": 1607674004166
+  }
+}
