@@ -1,0 +1,29 @@
+{
+  "thebotofchess@lichess": {
+    "id": "thebotofchess",
+    "provider": "lichess",
+    "username": "TheBotOfChess",
+    "firstSeen": 1607716706108,
+    "lastSeen": 1607720781786,
+    "firstSeenTime": "7:58:26 PM",
+    "lastSeenTime": "8:31:23 PM",
+    "onlineDurationMins": 32.958733333333335
+  },
+  "nobody11892@lichess": {
+    "id": "nobody11892",
+    "provider": "lichess",
+    "username": "Nobody11892",
+    "firstSeen": 1607717328024,
+    "lastSeen": 1607720750575,
+    "firstSeenTime": "8:08:48 PM",
+    "lastSeenTime": "8:20:54 PM",
+    "onlineDurationMins": 12.104316666666668
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607718697138,
+    "lastSeen": 1607720894691
+  }
+}
