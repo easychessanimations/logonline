@@ -1,0 +1,33 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607683374643,
+    "lastSeen": 1607692115968,
+    "firstSeenTime": "10:42:54 AM",
+    "lastSeenTime": "12:37:39 PM",
+    "onlineDurationMins": 114.74253333333333
+  },
+  "asv007@lichess": {
+    "id": "asv007",
+    "provider": "lichess",
+    "username": "asv007",
+    "firstSeen": 1607690804409,
+    "lastSeen": 1607691470978
+  },
+  "ercanmetinn@lichess": {
+    "id": "ercanmetinn",
+    "provider": "lichess",
+    "username": "ercanmetinn",
+    "firstSeen": 1607691053029,
+    "lastSeen": 1607691719082
+  },
+  "skyblaster@lichess": {
+    "id": "skyblaster",
+    "provider": "lichess",
+    "username": "skyblaster",
+    "firstSeen": 1607692124843,
+    "lastSeen": 1607692124844
+  }
+}
