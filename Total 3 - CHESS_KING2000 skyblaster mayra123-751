@@ -1,0 +1,29 @@
+{
+  "chess_king2000@lichess": {
+    "id": "chess_king2000",
+    "provider": "lichess",
+    "username": "CHESS_KING2000",
+    "firstSeen": 1607681100883,
+    "lastSeen": 1607682604393,
+    "firstSeenTime": "10:05:00 AM",
+    "lastSeenTime": "10:26:37 AM",
+    "onlineDurationMins": 21.61081666666667
+  },
+  "skyblaster@lichess": {
+    "id": "skyblaster",
+    "provider": "lichess",
+    "username": "skyblaster",
+    "firstSeen": 1607682203548,
+    "lastSeen": 1607682684448,
+    "firstSeenTime": "10:23:23 AM",
+    "lastSeenTime": "10:25:43 AM",
+    "onlineDurationMins": 2.3387333333333333
+  },
+  "mayra123-751@lichess": {
+    "id": "mayra123-751",
+    "provider": "lichess",
+    "username": "mayra123-751",
+    "firstSeen": 1607683000347,
+    "lastSeen": 1607683000347
+  }
+}
