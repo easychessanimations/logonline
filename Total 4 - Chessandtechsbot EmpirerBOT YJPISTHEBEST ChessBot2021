@@ -1,0 +1,30 @@
+{
+  "chessandtechsbot@lichess": {
+    "id": "chessandtechsbot",
+    "provider": "lichess",
+    "username": "Chessandtechsbot",
+    "firstSeen": 1607788166813,
+    "lastSeen": 1607789001307
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607788171485,
+    "lastSeen": 1607789014734
+  },
+  "yjpisthebest@lichess": {
+    "id": "yjpisthebest",
+    "provider": "lichess",
+    "username": "YJPISTHEBEST",
+    "firstSeen": 1607789056683,
+    "lastSeen": 1607789132988
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607789160186,
+    "lastSeen": 1607789160186
+  }
+}
