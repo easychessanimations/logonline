@@ -1,0 +1,50 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607766090682,
+    "lastSeen": 1607785534636,
+    "firstSeenTime": "9:41:30 AM",
+    "lastSeenTime": "1:19:31 PM",
+    "onlineDurationMins": 218.00628333333333
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607772060342,
+    "lastSeen": 1607785800620,
+    "firstSeenTime": "11:21:00 AM",
+    "lastSeenTime": "1:14:04 PM",
+    "onlineDurationMins": 113.06468333333333
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1607783542060,
+    "lastSeen": 1607785687922
+  },
+  "chessandtechsbot@lichess": {
+    "id": "chessandtechsbot",
+    "provider": "lichess",
+    "username": "Chessandtechsbot",
+    "firstSeen": 1607785163532,
+    "lastSeen": 1607785821298
+  },
+  "turritopsisdohrnii0@lichess": {
+    "id": "turritopsisdohrnii0",
+    "provider": "lichess",
+    "username": "TurritopsisDohrnii0",
+    "firstSeen": 1607785611260,
+    "lastSeen": 1607785789207
+  },
+  "ibm_deep-thought@lichess": {
+    "id": "ibm_deep-thought",
+    "provider": "lichess",
+    "username": "IBM_Deep-Thought",
+    "firstSeen": 1607785890065,
+    "lastSeen": 1607785890065
+  }
+}
