@@ -1,0 +1,44 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607766090682,
+    "lastSeen": 1607776774394
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607772060342,
+    "lastSeen": 1607776799496
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607775842731,
+    "lastSeen": 1607776508440
+  },
+  "iplayrandommoves@lichess": {
+    "id": "iplayrandommoves",
+    "provider": "lichess",
+    "username": "IPlayRandomMoves",
+    "firstSeen": 1607776939012,
+    "lastSeen": 1607777251720
+  },
+  "ibm_deep-thought@lichess": {
+    "id": "ibm_deep-thought",
+    "provider": "lichess",
+    "username": "IBM_Deep-Thought",
+    "firstSeen": 1607777315309,
+    "lastSeen": 1607777318635
+  },
+  "krutrobot@lichess": {
+    "id": "krutrobot",
+    "provider": "lichess",
+    "username": "KrutRoBOT",
+    "firstSeen": 1607777384589,
+    "lastSeen": 1607777384589
+  }
+}
