@@ -1,0 +1,63 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607763300651,
+    "lastSeen": 1607763540606,
+    "firstSeenTime": "8:55:00 AM",
+    "lastSeenTime": "8:55:00 AM",
+    "onlineDurationMins": 0
+  },
+  "chessmagicionbot@lichess": {
+    "id": "chessmagicionbot",
+    "provider": "lichess",
+    "username": "chessmagicionbot",
+    "firstSeen": 1607763359351,
+    "lastSeen": 1607763659975,
+    "firstSeenTime": "8:55:59 AM",
+    "lastSeenTime": "8:57:43 AM",
+    "onlineDurationMins": 1.72855
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607763388820,
+    "lastSeen": 1607763392110,
+    "firstSeenTime": "8:56:28 AM",
+    "lastSeenTime": "8:56:32 AM",
+    "onlineDurationMins": 0.05483333333333333
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607763450557,
+    "lastSeen": 1607763454079,
+    "firstSeenTime": "8:57:30 AM",
+    "lastSeenTime": "8:57:34 AM",
+    "onlineDurationMins": 0.0587
+  },
+  "skyblaster@lichess": {
+    "id": "skyblaster",
+    "provider": "lichess",
+    "username": "SkyBlaster",
+    "firstSeen": 1607763674421,
+    "lastSeen": 1607763684607
+  },
+  "ibm_deep-thought@lichess": {
+    "id": "ibm_deep-thought",
+    "provider": "lichess",
+    "username": "IBM_Deep-Thought",
+    "firstSeen": 1607763777320,
+    "lastSeen": 1607763788897
+  },
+  "greatbigyellowlambb@lichess": {
+    "id": "greatbigyellowlambb",
+    "provider": "lichess",
+    "username": "GreatBigYellowLambb",
+    "firstSeen": 1607763796676,
+    "lastSeen": 1607763796676
+  }
+}
