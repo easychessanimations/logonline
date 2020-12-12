@@ -1,0 +1,49 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607759400656,
+    "lastSeen": 1607761184846,
+    "firstSeenTime": "7:50:00 AM",
+    "lastSeenTime": "8:05:00 AM",
+    "onlineDurationMins": 15.001616666666667
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607759488694,
+    "lastSeen": 1607760988744,
+    "firstSeenTime": "7:51:28 AM",
+    "lastSeenTime": "8:05:32 AM",
+    "onlineDurationMins": 14.055416666666666
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607759550698,
+    "lastSeen": 1607761170527,
+    "firstSeenTime": "7:52:30 AM",
+    "lastSeenTime": "8:03:33 AM",
+    "onlineDurationMins": 11.05135
+  },
+  "ibm_deep-thought@lichess": {
+    "id": "ibm_deep-thought",
+    "provider": "lichess",
+    "username": "IBM_Deep-Thought",
+    "firstSeen": 1607760351291,
+    "lastSeen": 1607760691493,
+    "firstSeenTime": "8:05:51 AM",
+    "lastSeenTime": "8:06:16 AM",
+    "onlineDurationMins": 0.4138
+  },
+  "greatbigyellowlambb@lichess": {
+    "id": "greatbigyellowlambb",
+    "provider": "lichess",
+    "username": "GreatBigYellowLambb",
+    "firstSeen": 1607761368111,
+    "lastSeen": 1607761368111
+  }
+}
