@@ -1,0 +1,44 @@
+{
+  "nobody11892@lichess": {
+    "id": "nobody11892",
+    "provider": "lichess",
+    "username": "Nobody11892",
+    "firstSeen": 1607759330565,
+    "lastSeen": 1607760054055
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607759400656,
+    "lastSeen": 1607760300753
+  },
+  "skyblaster@lichess": {
+    "id": "skyblaster",
+    "provider": "lichess",
+    "username": "skyblaster",
+    "firstSeen": 1607759403402,
+    "lastSeen": 1607760344486
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607759488694,
+    "lastSeen": 1607760332019
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607759550698,
+    "lastSeen": 1607760213779
+  },
+  "ibm_deep-thought@lichess": {
+    "id": "ibm_deep-thought",
+    "provider": "lichess",
+    "username": "IBM_Deep-Thought",
+    "firstSeen": 1607760351291,
+    "lastSeen": 1607760351292
+  }
+}
