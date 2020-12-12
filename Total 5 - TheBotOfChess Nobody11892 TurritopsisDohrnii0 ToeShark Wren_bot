@@ -1,0 +1,49 @@
+{
+  "thebotofchess@lichess": {
+    "id": "thebotofchess",
+    "provider": "lichess",
+    "username": "TheBotOfChess",
+    "firstSeen": 1607716706108,
+    "lastSeen": 1607731235912,
+    "firstSeenTime": "7:58:26 PM",
+    "lastSeenTime": "12:00:35 AM",
+    "onlineDurationMins": 242.1634
+  },
+  "nobody11892@lichess": {
+    "id": "nobody11892",
+    "provider": "lichess",
+    "username": "Nobody11892",
+    "firstSeen": 1607717328024,
+    "lastSeen": 1607731070580,
+    "firstSeenTime": "8:08:48 PM",
+    "lastSeenTime": "11:57:50 PM",
+    "onlineDurationMins": 229.0426
+  },
+  "turritopsisdohrnii0@lichess": {
+    "id": "turritopsisdohrnii0",
+    "provider": "lichess",
+    "username": "TurritopsisDohrnii0",
+    "firstSeen": 1607728073959,
+    "lastSeen": 1607731866356,
+    "firstSeenTime": "11:07:53 PM",
+    "lastSeenTime": "12:03:14 AM",
+    "onlineDurationMins": 55.34256666666667
+  },
+  "toeshark@lichess": {
+    "id": "toeshark",
+    "provider": "lichess",
+    "username": "ToeShark",
+    "firstSeen": 1607729521932,
+    "lastSeen": 1607731833668,
+    "firstSeenTime": "11:32:01 PM",
+    "lastSeenTime": "12:03:14 AM",
+    "onlineDurationMins": 31.206016666666667
+  },
+  "wren_bot@lichess": {
+    "id": "wren_bot",
+    "provider": "lichess",
+    "username": "Wren_bot",
+    "firstSeen": 1607731884244,
+    "lastSeen": 1607731884244
+  }
+}
