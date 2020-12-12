@@ -1,0 +1,29 @@
+{
+  "toeshark@lichess": {
+    "id": "toeshark",
+    "provider": "lichess",
+    "username": "ToeShark",
+    "firstSeen": 1607803372023,
+    "lastSeen": 1607804857699,
+    "firstSeenTime": "8:02:52 PM",
+    "lastSeenTime": "8:24:28 PM",
+    "onlineDurationMins": 21.607266666666668
+  },
+  "turritopsisdohrnii0@lichess": {
+    "id": "turritopsisdohrnii0",
+    "provider": "lichess",
+    "username": "TurritopsisDohrnii0",
+    "firstSeen": 1607803408843,
+    "lastSeen": 1607804675881,
+    "firstSeenTime": "8:03:28 PM",
+    "lastSeenTime": "8:24:35 PM",
+    "onlineDurationMins": 21.1173
+  },
+  "wren_bot@lichess": {
+    "id": "wren_bot",
+    "provider": "lichess",
+    "username": "Wren_bot",
+    "firstSeen": 1607805191757,
+    "lastSeen": 1607805191757
+  }
+}
