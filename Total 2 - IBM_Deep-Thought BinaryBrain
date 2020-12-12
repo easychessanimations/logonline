@@ -1,0 +1,16 @@
+{
+  "ibm_deep-thought@lichess": {
+    "id": "ibm_deep-thought",
+    "provider": "lichess",
+    "username": "IBM_Deep-Thought",
+    "firstSeen": 1607785890065,
+    "lastSeen": 1607787576916
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607787300642,
+    "lastSeen": 1607787300642
+  }
+}
