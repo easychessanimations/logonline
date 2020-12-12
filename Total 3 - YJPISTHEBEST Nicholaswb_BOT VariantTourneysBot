@@ -1,0 +1,29 @@
+{
+  "yjpisthebest@lichess": {
+    "id": "yjpisthebest",
+    "provider": "lichess",
+    "username": "YJPISTHEBEST",
+    "firstSeen": 1607792383599,
+    "lastSeen": 1607799886463,
+    "firstSeenTime": "4:59:43 PM",
+    "lastSeenTime": "6:54:47 PM",
+    "onlineDurationMins": 115.07021666666667
+  },
+  "nicholaswb_bot@lichess": {
+    "id": "nicholaswb_bot",
+    "provider": "lichess",
+    "username": "Nicholaswb_BOT",
+    "firstSeen": 1607795884390,
+    "lastSeen": 1607799849179,
+    "firstSeenTime": "5:58:04 PM",
+    "lastSeenTime": "6:53:05 PM",
+    "onlineDurationMins": 55.02381666666667
+  },
+  "varianttourneysbot@lichess": {
+    "id": "varianttourneysbot",
+    "provider": "lichess",
+    "username": "VariantTourneysBot",
+    "firstSeen": 1607800001681,
+    "lastSeen": 1607800001681
+  }
+}
