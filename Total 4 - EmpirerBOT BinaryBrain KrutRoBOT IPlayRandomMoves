@@ -1,0 +1,39 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607766090682,
+    "lastSeen": 1607780854688,
+    "firstSeenTime": "9:41:30 AM",
+    "lastSeenTime": "1:19:31 PM",
+    "onlineDurationMins": 218.00628333333333
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607772060342,
+    "lastSeen": 1607780820333,
+    "firstSeenTime": "11:21:00 AM",
+    "lastSeenTime": "1:14:04 PM",
+    "onlineDurationMins": 113.06468333333333
+  },
+  "krutrobot@lichess": {
+    "id": "krutrobot",
+    "provider": "lichess",
+    "username": "KrutRoBOT",
+    "firstSeen": 1607777384589,
+    "lastSeen": 1607780737411,
+    "firstSeenTime": "12:49:44 PM",
+    "lastSeenTime": "1:24:04 PM",
+    "onlineDurationMins": 34.330533333333335
+  },
+  "iplayrandommoves@lichess": {
+    "id": "iplayrandommoves",
+    "provider": "lichess",
+    "username": "IPlayRandomMoves",
+    "firstSeen": 1607781131085,
+    "lastSeen": 1607781131085
+  }
+}
