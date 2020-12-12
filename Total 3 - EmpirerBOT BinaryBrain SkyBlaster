@@ -1,0 +1,23 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607766090682,
+    "lastSeen": 1607767980946
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607766180606,
+    "lastSeen": 1607767800314
+  },
+  "skyblaster@lichess": {
+    "id": "skyblaster",
+    "provider": "lichess",
+    "username": "SkyBlaster",
+    "firstSeen": 1607766417997,
+    "lastSeen": 1607768093903
+  }
+}
