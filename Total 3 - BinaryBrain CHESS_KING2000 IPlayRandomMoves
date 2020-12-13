@@ -1,0 +1,29 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607873009945,
+    "lastSeen": 1607884533186,
+    "firstSeenTime": "3:23:29 PM",
+    "lastSeenTime": "6:18:29 PM",
+    "onlineDurationMins": 175.00026666666668
+  },
+  "chess_king2000@lichess": {
+    "id": "chess_king2000",
+    "provider": "lichess",
+    "username": "CHESS_KING2000",
+    "firstSeen": 1607881815477,
+    "lastSeen": 1607883792757,
+    "firstSeenTime": "5:50:15 PM",
+    "lastSeenTime": "6:13:30 PM",
+    "onlineDurationMins": 23.258616666666665
+  },
+  "iplayrandommoves@lichess": {
+    "id": "iplayrandommoves",
+    "provider": "lichess",
+    "username": "IPlayRandomMoves",
+    "firstSeen": 1607884535501,
+    "lastSeen": 1607884535501
+  }
+}
