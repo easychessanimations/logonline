@@ -1,0 +1,37 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607823146235,
+    "lastSeen": 1607826752778
+  },
+  "nicholaswb_bot@lichess": {
+    "id": "nicholaswb_bot",
+    "provider": "lichess",
+    "username": "Nicholaswb_BOT",
+    "firstSeen": 1607825332450,
+    "lastSeen": 1607827135565
+  },
+  "whitecurtains@lichess": {
+    "id": "whitecurtains",
+    "provider": "lichess",
+    "username": "WhiteCurtains",
+    "firstSeen": 1607825388577,
+    "lastSeen": 1607826752825
+  },
+  "swisscheesybot@lichess": {
+    "id": "swisscheesybot",
+    "provider": "lichess",
+    "username": "SwissCheesyBot",
+    "firstSeen": 1607826408778,
+    "lastSeen": 1607827168806
+  },
+  "greatbigyellowlambb@lichess": {
+    "id": "greatbigyellowlambb",
+    "provider": "lichess",
+    "username": "GreatBigYellowLambb",
+    "firstSeen": 1607827169588,
+    "lastSeen": 1607827169588
+  }
+}
