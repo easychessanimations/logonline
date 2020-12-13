@@ -1,0 +1,23 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607823146235,
+    "lastSeen": 1607838512340
+  },
+  "skyblaster@lichess": {
+    "id": "skyblaster",
+    "provider": "lichess",
+    "username": "SkyBlaster",
+    "firstSeen": 1607832604311,
+    "lastSeen": 1607838792452
+  },
+  "whitecurtains@lichess": {
+    "id": "whitecurtains",
+    "provider": "lichess",
+    "username": "WhiteCurtains",
+    "firstSeen": 1607834570431,
+    "lastSeen": 1607838158103
+  }
+}
