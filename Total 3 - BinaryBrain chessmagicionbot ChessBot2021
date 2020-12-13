@@ -3,21 +3,24 @@
     "id": "binarybrain",
     "provider": "lichess",
     "username": "BinaryBrain",
-    "firstSeen": 1607763300651,
-    "lastSeen": 1607763300651
+    "firstSeen": 1607853937250,
+    "lastSeen": 1607867013449,
+    "firstSeenTime": "10:05:37 AM",
+    "lastSeenTime": "10:57:41 AM",
+    "onlineDurationMins": 52.07386666666667
   },
   "chessmagicionbot@lichess": {
     "id": "chessmagicionbot",
     "provider": "lichess",
     "username": "chessmagicionbot",
-    "firstSeen": 1607763359351,
-    "lastSeen": 1607763371976
+    "firstSeen": 1607863360712,
+    "lastSeen": 1607867328375
   },
   "chessbot2021@lichess": {
     "id": "chessbot2021",
     "provider": "lichess",
     "username": "ChessBot2021",
-    "firstSeen": 1607763388820,
-    "lastSeen": 1607763388820
+    "firstSeen": 1607867482415,
+    "lastSeen": 1607867482416
   }
 }
