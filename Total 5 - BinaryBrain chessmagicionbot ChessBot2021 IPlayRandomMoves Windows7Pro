@@ -1,0 +1,40 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607853937250,
+    "lastSeen": 1607868333069,
+    "firstSeenTime": "10:05:37 AM",
+    "lastSeenTime": "10:57:41 AM",
+    "onlineDurationMins": 52.07386666666667
+  },
+  "chessmagicionbot@lichess": {
+    "id": "chessmagicionbot",
+    "provider": "lichess",
+    "username": "chessmagicionbot",
+    "firstSeen": 1607863360712,
+    "lastSeen": 1607868286164
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607867482415,
+    "lastSeen": 1607867876365
+  },
+  "iplayrandommoves@lichess": {
+    "id": "iplayrandommoves",
+    "provider": "lichess",
+    "username": "IPlayRandomMoves",
+    "firstSeen": 1607868101665,
+    "lastSeen": 1607868112078
+  },
+  "windows7pro@lichess": {
+    "id": "windows7pro",
+    "provider": "lichess",
+    "username": "Windows7Pro",
+    "firstSeen": 1607868408604,
+    "lastSeen": 1607868408604
+  }
+}
