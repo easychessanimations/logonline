@@ -1,0 +1,57 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607851449539,
+    "lastSeen": 1607854757459,
+    "firstSeenTime": "9:24:09 AM",
+    "lastSeenTime": "9:49:16 AM",
+    "onlineDurationMins": 25.119216666666667
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1607851699333,
+    "lastSeen": 1607854700241,
+    "firstSeenTime": "9:28:19 AM",
+    "lastSeenTime": "9:51:23 AM",
+    "onlineDurationMins": 23.0704
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607853683256,
+    "lastSeen": 1607854926240
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607853937250,
+    "lastSeen": 1607854785053
+  },
+  "adoptme@lichess": {
+    "id": "adoptme",
+    "provider": "lichess",
+    "username": "Adoptme",
+    "firstSeen": 1607854360466,
+    "lastSeen": 1607854403688
+  },
+  "christmaschess4you@lichess": {
+    "id": "christmaschess4you",
+    "provider": "lichess",
+    "username": "christmaschess4you",
+    "firstSeen": 1607854432604,
+    "lastSeen": 1607854866153
+  },
+  "crucifycruxcruuz@lichess": {
+    "id": "crucifycruxcruuz",
+    "provider": "lichess",
+    "username": "CrucifyCruxCruuz",
+    "firstSeen": 1607854813508,
+    "lastSeen": 1607854975895
+  }
+}
