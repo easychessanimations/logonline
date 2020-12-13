@@ -1,0 +1,26 @@
+{
+  "swisscheesybot@lichess": {
+    "id": "swisscheesybot",
+    "provider": "lichess",
+    "username": "SwissCheesyBot",
+    "firstSeen": 1607871969816,
+    "lastSeen": 1607873399758,
+    "firstSeenTime": "3:06:09 PM",
+    "lastSeenTime": "3:09:50 PM",
+    "onlineDurationMins": 3.6808833333333335
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607873009945,
+    "lastSeen": 1607873133150
+  },
+  "iplayrandommoves@lichess": {
+    "id": "iplayrandommoves",
+    "provider": "lichess",
+    "username": "IPlayRandomMoves",
+    "firstSeen": 1607873148547,
+    "lastSeen": 1607873151879
+  }
+}
