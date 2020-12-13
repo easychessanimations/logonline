@@ -1,0 +1,42 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607851449539,
+    "lastSeen": 1607856800090,
+    "firstSeenTime": "9:24:09 AM",
+    "lastSeenTime": "10:53:20 AM",
+    "onlineDurationMins": 89.17585
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1607851699333,
+    "lastSeen": 1607857163789,
+    "firstSeenTime": "9:28:19 AM",
+    "lastSeenTime": "10:53:44 AM",
+    "onlineDurationMins": 85.42465
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607853937250,
+    "lastSeen": 1607857061682,
+    "firstSeenTime": "10:05:37 AM",
+    "lastSeenTime": "10:57:41 AM",
+    "onlineDurationMins": 52.07386666666667
+  },
+  "iplayrandommoves@lichess": {
+    "id": "iplayrandommoves",
+    "provider": "lichess",
+    "username": "IPlayRandomMoves",
+    "firstSeen": 1607856657753,
+    "lastSeen": 1607856969812,
+    "firstSeenTime": "10:50:57 AM",
+    "lastSeenTime": "10:56:09 AM",
+    "onlineDurationMins": 5.200983333333333
+  }
+}
