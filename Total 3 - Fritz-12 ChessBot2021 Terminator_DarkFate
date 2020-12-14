@@ -1,0 +1,29 @@
+{
+  "fritz-12@lichess": {
+    "id": "fritz-12",
+    "provider": "lichess",
+    "username": "Fritz-12",
+    "firstSeen": 1607926558590,
+    "lastSeen": 1607933389063,
+    "firstSeenTime": "6:15:58 AM",
+    "lastSeenTime": "8:03:24 AM",
+    "onlineDurationMins": 107.42935
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607927668773,
+    "lastSeen": 1607933426236,
+    "firstSeenTime": "6:34:28 AM",
+    "lastSeenTime": "7:59:26 AM",
+    "onlineDurationMins": 84.95838333333333
+  },
+  "terminator_darkfate@lichess": {
+    "id": "terminator_darkfate",
+    "provider": "lichess",
+    "username": "Terminator_DarkFate",
+    "firstSeen": 1607933166122,
+    "lastSeen": 1607933177329
+  }
+}
