@@ -1,0 +1,46 @@
+{
+  "fritz-12@lichess": {
+    "id": "fritz-12",
+    "provider": "lichess",
+    "username": "Fritz-12",
+    "firstSeen": 1607926558590,
+    "lastSeen": 1607933389063,
+    "firstSeenTime": "6:15:58 AM",
+    "lastSeenTime": "8:09:49 AM",
+    "onlineDurationMins": 113.84121666666667
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607927668773,
+    "lastSeen": 1607933426236,
+    "firstSeenTime": "6:34:28 AM",
+    "lastSeenTime": "8:10:26 AM",
+    "onlineDurationMins": 95.95771666666667
+  },
+  "terminator_darkfate@lichess": {
+    "id": "terminator_darkfate",
+    "provider": "lichess",
+    "username": "Terminator_DarkFate",
+    "firstSeen": 1607933166122,
+    "lastSeen": 1607933580701,
+    "firstSeenTime": "8:06:06 AM",
+    "lastSeenTime": "8:06:17 AM",
+    "onlineDurationMins": 0.18678333333333333
+  },
+  "fastandfurious10@lichess": {
+    "id": "fastandfurious10",
+    "provider": "lichess",
+    "username": "fastandfurious10",
+    "firstSeen": 1607933618652,
+    "lastSeen": 1607933775233
+  },
+  "mahmutkel78@lichess": {
+    "id": "mahmutkel78",
+    "provider": "lichess",
+    "username": "mahmutkel78",
+    "firstSeen": 1607933775464,
+    "lastSeen": 1607933775464
+  }
+}
