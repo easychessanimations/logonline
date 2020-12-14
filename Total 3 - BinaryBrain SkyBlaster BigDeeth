@@ -1,0 +1,26 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607935976837,
+    "lastSeen": 1607942880956,
+    "firstSeenTime": "8:52:56 AM",
+    "lastSeenTime": "10:26:01 AM",
+    "onlineDurationMins": 93.07866666666666
+  },
+  "skyblaster@lichess": {
+    "id": "skyblaster",
+    "provider": "lichess",
+    "username": "SkyBlaster",
+    "firstSeen": 1607941800280,
+    "lastSeen": 1607943280928
+  },
+  "bigdeeth@lichess": {
+    "id": "bigdeeth",
+    "provider": "lichess",
+    "username": "BigDeeth",
+    "firstSeen": 1607943483253,
+    "lastSeen": 1607943483253
+  }
+}
