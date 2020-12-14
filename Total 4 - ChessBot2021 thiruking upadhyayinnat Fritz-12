@@ -1,0 +1,30 @@
+{
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607913922350,
+    "lastSeen": 1607925121418
+  },
+  "thiruking@lichess": {
+    "id": "thiruking",
+    "provider": "lichess",
+    "username": "thiruking",
+    "firstSeen": 1607918752216,
+    "lastSeen": 1607924823913
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1607921255625,
+    "lastSeen": 1607925091181
+  },
+  "fritz-12@lichess": {
+    "id": "fritz-12",
+    "provider": "lichess",
+    "username": "Fritz-12",
+    "firstSeen": 1607925307021,
+    "lastSeen": 1607925307021
+  }
+}
