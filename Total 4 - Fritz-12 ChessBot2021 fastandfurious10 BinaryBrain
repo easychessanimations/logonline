@@ -1,0 +1,36 @@
+{
+  "fritz-12@lichess": {
+    "id": "fritz-12",
+    "provider": "lichess",
+    "username": "Fritz-12",
+    "firstSeen": 1607926558590,
+    "lastSeen": 1607935804588,
+    "firstSeenTime": "6:15:58 AM",
+    "lastSeenTime": "8:09:49 AM",
+    "onlineDurationMins": 113.84121666666667
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607927668773,
+    "lastSeen": 1607935582805,
+    "firstSeenTime": "6:34:28 AM",
+    "lastSeenTime": "8:10:26 AM",
+    "onlineDurationMins": 95.95771666666667
+  },
+  "fastandfurious10@lichess": {
+    "id": "fastandfurious10",
+    "provider": "lichess",
+    "username": "fastandfurious10",
+    "firstSeen": 1607933618652,
+    "lastSeen": 1607935920610
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607935976837,
+    "lastSeen": 1607935976837
+  }
+}
