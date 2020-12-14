@@ -1,0 +1,49 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607935976837,
+    "lastSeen": 1607959021981,
+    "firstSeenTime": "8:52:56 AM",
+    "lastSeenTime": "2:44:01 PM",
+    "onlineDurationMins": 351.08255
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1607944600343,
+    "lastSeen": 1607959023974,
+    "firstSeenTime": "11:16:40 AM",
+    "lastSeenTime": "2:44:03 PM",
+    "onlineDurationMins": 207.39403333333334
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607947844201,
+    "lastSeen": 1607959011703,
+    "firstSeenTime": "12:10:44 PM",
+    "lastSeenTime": "2:43:51 PM",
+    "onlineDurationMins": 153.12
+  },
+  "fritz-12@lichess": {
+    "id": "fritz-12",
+    "provider": "lichess",
+    "username": "Fritz-12",
+    "firstSeen": 1607950359053,
+    "lastSeen": 1607959171425,
+    "firstSeenTime": "12:52:39 PM",
+    "lastSeenTime": "2:46:31 PM",
+    "onlineDurationMins": 113.87258333333334
+  },
+  "thiruking@lichess": {
+    "id": "thiruking",
+    "provider": "lichess",
+    "username": "thiruking",
+    "firstSeen": 1607959478508,
+    "lastSeen": 1607959478508
+  }
+}
