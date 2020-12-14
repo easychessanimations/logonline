@@ -1,0 +1,59 @@
+{
+  "fritz-12@lichess": {
+    "id": "fritz-12",
+    "provider": "lichess",
+    "username": "Fritz-12",
+    "firstSeen": 1607926558590,
+    "lastSeen": 1607937568026,
+    "firstSeenTime": "6:15:58 AM",
+    "lastSeenTime": "9:04:17 AM",
+    "onlineDurationMins": 168.3169
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1607927668773,
+    "lastSeen": 1607937491591,
+    "firstSeenTime": "6:34:28 AM",
+    "lastSeenTime": "9:06:15 AM",
+    "onlineDurationMins": 151.77551666666668
+  },
+  "fastandfurious10@lichess": {
+    "id": "fastandfurious10",
+    "provider": "lichess",
+    "username": "fastandfurious10",
+    "firstSeen": 1607933618652,
+    "lastSeen": 1607937420672,
+    "firstSeenTime": "8:13:38 AM",
+    "lastSeenTime": "9:06:01 AM",
+    "onlineDurationMins": 52.376333333333335
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607935976837,
+    "lastSeen": 1607937537958,
+    "firstSeenTime": "8:52:56 AM",
+    "lastSeenTime": "9:06:17 AM",
+    "onlineDurationMins": 13.351183333333333
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1607936010093,
+    "lastSeen": 1607937513943,
+    "firstSeenTime": "8:53:30 AM",
+    "lastSeenTime": "9:05:37 AM",
+    "onlineDurationMins": 12.122783333333333
+  },
+  "medium2008@lichess": {
+    "id": "medium2008",
+    "provider": "lichess",
+    "username": "Medium2008",
+    "firstSeen": 1607937459948,
+    "lastSeen": 1607937522407
+  }
+}
