@@ -1,0 +1,32 @@
+{
+  "fritz-12@lichess": {
+    "id": "fritz-12",
+    "provider": "lichess",
+    "username": "Fritz-12",
+    "firstSeen": 1607926558590,
+    "lastSeen": 1607937805414,
+    "firstSeenTime": "6:15:58 AM",
+    "lastSeenTime": "9:04:17 AM",
+    "onlineDurationMins": 168.3169
+  },
+  "fastandfurious10@lichess": {
+    "id": "fastandfurious10",
+    "provider": "lichess",
+    "username": "fastandfurious10",
+    "firstSeen": 1607933618652,
+    "lastSeen": 1607938618304,
+    "firstSeenTime": "8:13:38 AM",
+    "lastSeenTime": "9:06:01 AM",
+    "onlineDurationMins": 52.376333333333335
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1607935976837,
+    "lastSeen": 1607938261003,
+    "firstSeenTime": "8:52:56 AM",
+    "lastSeenTime": "9:06:17 AM",
+    "onlineDurationMins": 13.351183333333333
+  }
+}
