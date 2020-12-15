@@ -1,0 +1,26 @@
+{
+  "variantenkoning@lichess": {
+    "id": "variantenkoning",
+    "provider": "lichess",
+    "username": "Variantenkoning",
+    "firstSeen": 1608053021965,
+    "lastSeen": 1608058574562,
+    "firstSeenTime": "5:23:41 PM",
+    "lastSeenTime": "5:57:48 PM",
+    "onlineDurationMins": 34.11046666666667
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1608056302249,
+    "lastSeen": 1608058350025
+  },
+  "antichess_master123@lichess": {
+    "id": "antichess_master123",
+    "provider": "lichess",
+    "username": "Antichess_Master123",
+    "firstSeen": 1608058013560,
+    "lastSeen": 1608058906486
+  }
+}
