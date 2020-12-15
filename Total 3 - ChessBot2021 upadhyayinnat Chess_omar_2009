@@ -1,0 +1,26 @@
+{
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1608020541626,
+    "lastSeen": 1608024024588,
+    "firstSeenTime": "8:22:21 AM",
+    "lastSeenTime": "8:22:31 AM",
+    "onlineDurationMins": 0.1587
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1608022039522,
+    "lastSeen": 1608023543488
+  },
+  "chess_omar_2009@lichess": {
+    "id": "chess_omar_2009",
+    "provider": "lichess",
+    "username": "Chess_omar_2009",
+    "firstSeen": 1608023948963,
+    "lastSeen": 1608023961969
+  }
+}
