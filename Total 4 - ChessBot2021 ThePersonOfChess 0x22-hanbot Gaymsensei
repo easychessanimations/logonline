@@ -1,0 +1,36 @@
+{
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1608041510746,
+    "lastSeen": 1608045298676,
+    "firstSeenTime": "2:11:50 PM",
+    "lastSeenTime": "3:07:55 PM",
+    "onlineDurationMins": 56.07445
+  },
+  "thepersonofchess@lichess": {
+    "id": "thepersonofchess",
+    "provider": "lichess",
+    "username": "ThePersonOfChess",
+    "firstSeen": 1608044388658,
+    "lastSeen": 1608045903575,
+    "firstSeenTime": "2:59:48 PM",
+    "lastSeenTime": "3:00:01 PM",
+    "onlineDurationMins": 0.2061
+  },
+  "65676879@github": {
+    "id": "65676879",
+    "provider": "github",
+    "username": "0x22-hanbot",
+    "firstSeen": 1608046008922,
+    "lastSeen": 1608046099927
+  },
+  "gaymsensei@lichess": {
+    "id": "gaymsensei",
+    "provider": "lichess",
+    "username": "Gaymsensei",
+    "firstSeen": 1608046106872,
+    "lastSeen": 1608046106873
+  }
+}
