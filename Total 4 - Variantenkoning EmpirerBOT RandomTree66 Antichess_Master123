@@ -1,0 +1,33 @@
+{
+  "variantenkoning@lichess": {
+    "id": "variantenkoning",
+    "provider": "lichess",
+    "username": "Variantenkoning",
+    "firstSeen": 1608053021965,
+    "lastSeen": 1608057846656,
+    "firstSeenTime": "5:23:41 PM",
+    "lastSeenTime": "5:57:48 PM",
+    "onlineDurationMins": 34.11046666666667
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1608056302249,
+    "lastSeen": 1608057806457
+  },
+  "randomtree66@lichess": {
+    "id": "randomtree66",
+    "provider": "lichess",
+    "username": "RandomTree66",
+    "firstSeen": 1608057829025,
+    "lastSeen": 1608057852535
+  },
+  "antichess_master123@lichess": {
+    "id": "antichess_master123",
+    "provider": "lichess",
+    "username": "Antichess_Master123",
+    "firstSeen": 1608058013560,
+    "lastSeen": 1608058013560
+  }
+}
