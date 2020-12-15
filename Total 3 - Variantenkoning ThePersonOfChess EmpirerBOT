@@ -1,0 +1,29 @@
+{
+  "variantenkoning@lichess": {
+    "id": "variantenkoning",
+    "provider": "lichess",
+    "username": "Variantenkoning",
+    "firstSeen": 1608053021965,
+    "lastSeen": 1608056211828,
+    "firstSeenTime": "5:23:41 PM",
+    "lastSeenTime": "5:57:48 PM",
+    "onlineDurationMins": 34.11046666666667
+  },
+  "thepersonofchess@lichess": {
+    "id": "thepersonofchess",
+    "provider": "lichess",
+    "username": "ThePersonOfChess",
+    "firstSeen": 1608054044692,
+    "lastSeen": 1608055547555,
+    "firstSeenTime": "5:40:44 PM",
+    "lastSeenTime": "5:51:48 PM",
+    "onlineDurationMins": 11.069166666666666
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1608056302249,
+    "lastSeen": 1608056302249
+  }
+}
