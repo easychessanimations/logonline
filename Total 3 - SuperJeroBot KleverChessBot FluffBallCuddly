@@ -1,0 +1,26 @@
+{
+  "superjerobot@lichess": {
+    "id": "superjerobot",
+    "provider": "lichess",
+    "username": "SuperJeroBot",
+    "firstSeen": 1608139293191,
+    "lastSeen": 1608146493387,
+    "firstSeenTime": "5:21:33 PM",
+    "lastSeenTime": "6:57:02 PM",
+    "onlineDurationMins": 95.4892
+  },
+  "kleverchessbot@lichess": {
+    "id": "kleverchessbot",
+    "provider": "lichess",
+    "username": "KleverChessBot",
+    "firstSeen": 1608145389069,
+    "lastSeen": 1608146289173
+  },
+  "fluffballcuddly@lichess": {
+    "id": "fluffballcuddly",
+    "provider": "lichess",
+    "username": "FluffBallCuddly",
+    "firstSeen": 1608146088913,
+    "lastSeen": 1608146388948
+  }
+}
