@@ -1,0 +1,43 @@
+{
+  "thechessmonster09@lichess": {
+    "id": "thechessmonster09",
+    "provider": "lichess",
+    "username": "TheChessMonster09",
+    "firstSeen": 1608097885935,
+    "lastSeen": 1608129391050,
+    "firstSeenTime": "5:51:25 AM",
+    "lastSeenTime": "12:01:30 PM",
+    "onlineDurationMins": 370.0824166666667
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1608102697632,
+    "lastSeen": 1608129082902,
+    "firstSeenTime": "7:11:37 AM",
+    "lastSeenTime": "12:02:00 PM",
+    "onlineDurationMins": 290.38281666666666
+  },
+  "codingchess@lichess": {
+    "id": "codingchess",
+    "provider": "lichess",
+    "username": "CodingChess",
+    "firstSeen": 1608124513310,
+    "lastSeen": 1608129417063
+  },
+  "drdrunkernstein@lichess": {
+    "id": "drdrunkernstein",
+    "provider": "lichess",
+    "username": "DrDrunkernstein",
+    "firstSeen": 1608128008427,
+    "lastSeen": 1608129511754
+  },
+  "chesssalama@lichess": {
+    "id": "chesssalama",
+    "provider": "lichess",
+    "username": "ChessSalama",
+    "firstSeen": 1608129521019,
+    "lastSeen": 1608129521019
+  }
+}
