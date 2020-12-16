@@ -1,0 +1,46 @@
+{
+  "superjerobot@lichess": {
+    "id": "superjerobot",
+    "provider": "lichess",
+    "username": "SuperJeroBot",
+    "firstSeen": 1608139293191,
+    "lastSeen": 1608158195262,
+    "firstSeenTime": "5:21:33 PM",
+    "lastSeenTime": "10:10:42 PM",
+    "onlineDurationMins": 289.16201666666666
+  },
+  "kleverchessbot@lichess": {
+    "id": "kleverchessbot",
+    "provider": "lichess",
+    "username": "KleverChessBot",
+    "firstSeen": 1608145389069,
+    "lastSeen": 1608157689876,
+    "firstSeenTime": "7:03:09 PM",
+    "lastSeenTime": "10:06:10 PM",
+    "onlineDurationMins": 183.01876666666666
+  },
+  "fluffballcuddly@lichess": {
+    "id": "fluffballcuddly",
+    "provider": "lichess",
+    "username": "FluffBallCuddly",
+    "firstSeen": 1608146088913,
+    "lastSeen": 1608158332639,
+    "firstSeenTime": "7:14:48 PM",
+    "lastSeenTime": "10:09:49 PM",
+    "onlineDurationMins": 175.00258333333332
+  },
+  "thebotofchess@lichess": {
+    "id": "thebotofchess",
+    "provider": "lichess",
+    "username": "TheBotOfChess",
+    "firstSeen": 1608157634497,
+    "lastSeen": 1608158311276
+  },
+  "nobody11892@lichess": {
+    "id": "nobody11892",
+    "provider": "lichess",
+    "username": "Nobody11892",
+    "firstSeen": 1608158422748,
+    "lastSeen": 1608158422748
+  }
+}
