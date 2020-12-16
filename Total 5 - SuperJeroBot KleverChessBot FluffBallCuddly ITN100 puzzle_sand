@@ -1,0 +1,49 @@
+{
+  "superjerobot@lichess": {
+    "id": "superjerobot",
+    "provider": "lichess",
+    "username": "SuperJeroBot",
+    "firstSeen": 1608139293191,
+    "lastSeen": 1608150024120,
+    "firstSeenTime": "5:21:33 PM",
+    "lastSeenTime": "8:20:24 PM",
+    "onlineDurationMins": 178.84881666666666
+  },
+  "kleverchessbot@lichess": {
+    "id": "kleverchessbot",
+    "provider": "lichess",
+    "username": "KleverChessBot",
+    "firstSeen": 1608145389069,
+    "lastSeen": 1608150249214,
+    "firstSeenTime": "7:03:09 PM",
+    "lastSeenTime": "8:24:09 PM",
+    "onlineDurationMins": 81.00241666666666
+  },
+  "fluffballcuddly@lichess": {
+    "id": "fluffballcuddly",
+    "provider": "lichess",
+    "username": "FluffBallCuddly",
+    "firstSeen": 1608146088913,
+    "lastSeen": 1608150409108,
+    "firstSeenTime": "7:14:48 PM",
+    "lastSeenTime": "8:26:49 PM",
+    "onlineDurationMins": 72.00325
+  },
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1608150004555,
+    "lastSeen": 1608150203935,
+    "firstSeenTime": "8:20:04 PM",
+    "lastSeenTime": "8:23:23 PM",
+    "onlineDurationMins": 3.323
+  },
+  "puzzle_sand@lichess": {
+    "id": "puzzle_sand",
+    "provider": "lichess",
+    "username": "puzzle_sand",
+    "firstSeen": 1608150487325,
+    "lastSeen": 1608150487325
+  }
+}
