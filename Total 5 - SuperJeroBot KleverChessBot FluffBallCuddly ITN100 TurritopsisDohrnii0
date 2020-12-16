@@ -1,0 +1,49 @@
+{
+  "superjerobot@lichess": {
+    "id": "superjerobot",
+    "provider": "lichess",
+    "username": "SuperJeroBot",
+    "firstSeen": 1608139293191,
+    "lastSeen": 1608151337831,
+    "firstSeenTime": "5:21:33 PM",
+    "lastSeenTime": "8:20:24 PM",
+    "onlineDurationMins": 178.84881666666666
+  },
+  "kleverchessbot@lichess": {
+    "id": "kleverchessbot",
+    "provider": "lichess",
+    "username": "KleverChessBot",
+    "firstSeen": 1608145389069,
+    "lastSeen": 1608150972645,
+    "firstSeenTime": "7:03:09 PM",
+    "lastSeenTime": "8:24:09 PM",
+    "onlineDurationMins": 81.00241666666666
+  },
+  "fluffballcuddly@lichess": {
+    "id": "fluffballcuddly",
+    "provider": "lichess",
+    "username": "FluffBallCuddly",
+    "firstSeen": 1608146088913,
+    "lastSeen": 1608151072420,
+    "firstSeenTime": "7:14:48 PM",
+    "lastSeenTime": "8:26:49 PM",
+    "onlineDurationMins": 72.00325
+  },
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1608150004555,
+    "lastSeen": 1608151330029,
+    "firstSeenTime": "8:20:04 PM",
+    "lastSeenTime": "8:23:23 PM",
+    "onlineDurationMins": 3.323
+  },
+  "turritopsisdohrnii0@lichess": {
+    "id": "turritopsisdohrnii0",
+    "provider": "lichess",
+    "username": "TurritopsisDohrnii0",
+    "firstSeen": 1608150636052,
+    "lastSeen": 1608151409933
+  }
+}
