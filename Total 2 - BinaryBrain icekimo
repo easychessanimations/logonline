@@ -1,0 +1,22 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1608197172850,
+    "lastSeen": 1608228317896,
+    "firstSeenTime": "9:26:12 AM",
+    "lastSeenTime": "5:46:18 PM",
+    "onlineDurationMins": 500.09636666666665
+  },
+  "icekimo@lichess": {
+    "id": "icekimo",
+    "provider": "lichess",
+    "username": "icekimo",
+    "firstSeen": 1608221636846,
+    "lastSeen": 1608228303234,
+    "firstSeenTime": "4:13:56 PM",
+    "lastSeenTime": "5:41:03 PM",
+    "onlineDurationMins": 87.11111666666666
+  }
+}
