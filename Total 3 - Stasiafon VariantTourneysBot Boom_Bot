@@ -1,0 +1,23 @@
+{
+  "stasiafon@lichess": {
+    "id": "stasiafon",
+    "provider": "lichess",
+    "username": "Stasiafon",
+    "firstSeen": 1608247737454,
+    "lastSeen": 1608249240013
+  },
+  "varianttourneysbot@lichess": {
+    "id": "varianttourneysbot",
+    "provider": "lichess",
+    "username": "VariantTourneysBot",
+    "firstSeen": 1608249102977,
+    "lastSeen": 1608249260174
+  },
+  "boom_bot@lichess": {
+    "id": "boom_bot",
+    "provider": "lichess",
+    "username": "Boom_Bot",
+    "firstSeen": 1608249267861,
+    "lastSeen": 1608249267861
+  }
+}
