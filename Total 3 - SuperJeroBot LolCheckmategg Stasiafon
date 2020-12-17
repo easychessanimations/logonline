@@ -1,0 +1,26 @@
+{
+  "superjerobot@lichess": {
+    "id": "superjerobot",
+    "provider": "lichess",
+    "username": "SuperJeroBot",
+    "firstSeen": 1608231519443,
+    "lastSeen": 1608247725984,
+    "firstSeenTime": "6:58:39 PM",
+    "lastSeenTime": "10:06:45 PM",
+    "onlineDurationMins": 188.10896666666667
+  },
+  "lolcheckmategg@lichess": {
+    "id": "lolcheckmategg",
+    "provider": "lichess",
+    "username": "LolCheckmategg",
+    "firstSeen": 1608245155919,
+    "lastSeen": 1608247414388
+  },
+  "stasiafon@lichess": {
+    "id": "stasiafon",
+    "provider": "lichess",
+    "username": "Stasiafon",
+    "firstSeen": 1608247737454,
+    "lastSeen": 1608247737454
+  }
+}
