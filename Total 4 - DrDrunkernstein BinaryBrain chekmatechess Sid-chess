@@ -4,7 +4,7 @@
     "provider": "lichess",
     "username": "DrDrunkernstein",
     "firstSeen": 1608197163025,
-    "lastSeen": 1608201669258,
+    "lastSeen": 1608203889271,
     "firstSeenTime": "9:26:03 AM",
     "lastSeenTime": "10:16:09 AM",
     "onlineDurationMins": 50.1042
@@ -14,7 +14,7 @@
     "provider": "lichess",
     "username": "BinaryBrain",
     "firstSeen": 1608197172850,
-    "lastSeen": 1608201888704,
+    "lastSeen": 1608203901220,
     "firstSeenTime": "9:26:12 AM",
     "lastSeenTime": "10:16:21 AM",
     "onlineDurationMins": 50.14893333333333
@@ -23,17 +23,14 @@
     "id": "chekmatechess",
     "provider": "lichess",
     "username": "chekmatechess",
-    "firstSeen": 1608200783350,
-    "lastSeen": 1608201735086,
-    "firstSeenTime": "10:26:23 AM",
-    "lastSeenTime": "10:26:33 AM",
-    "onlineDurationMins": 0.169
+    "firstSeen": 1608203247488,
+    "lastSeen": 1608203910852
   },
   "sid-chess@lichess": {
     "id": "sid-chess",
     "provider": "lichess",
     "username": "Sid-chess",
-    "firstSeen": 1608201696601,
-    "lastSeen": 1608202357758
+    "firstSeen": 1608204365722,
+    "lastSeen": 1608204365722
   }
 }
