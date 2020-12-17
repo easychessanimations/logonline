@@ -1,0 +1,33 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1608197172850,
+    "lastSeen": 1608212297890,
+    "firstSeenTime": "9:26:12 AM",
+    "lastSeenTime": "10:16:21 AM",
+    "onlineDurationMins": 50.14893333333333
+  },
+  "superjerobot@lichess": {
+    "id": "superjerobot",
+    "provider": "lichess",
+    "username": "SuperJeroBot",
+    "firstSeen": 1608205118165,
+    "lastSeen": 1608212300027
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1608207081841,
+    "lastSeen": 1608212300809
+  },
+  "narenzzz@lichess": {
+    "id": "narenzzz",
+    "provider": "lichess",
+    "username": "Narenzzz",
+    "firstSeen": 1608211856380,
+    "lastSeen": 1608212415281
+  }
+}
