@@ -1,0 +1,23 @@
+{
+  "sid-chess@lichess": {
+    "id": "sid-chess",
+    "provider": "lichess",
+    "username": "Sid-chess",
+    "firstSeen": 1608231460928,
+    "lastSeen": 1608232369697
+  },
+  "superjerobot@lichess": {
+    "id": "superjerobot",
+    "provider": "lichess",
+    "username": "SuperJeroBot",
+    "firstSeen": 1608231519443,
+    "lastSeen": 1608232344257
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1608231600642,
+    "lastSeen": 1608232319818
+  }
+}
