@@ -4,13 +4,19 @@
     "provider": "lichess",
     "username": "SuperJeroBot",
     "firstSeen": 1608231519443,
-    "lastSeen": 1608233505843
+    "lastSeen": 1608238125867,
+    "firstSeenTime": "6:58:39 PM",
+    "lastSeenTime": "7:48:42 PM",
+    "onlineDurationMins": 50.05286666666667
   },
   "binarybrain@lichess": {
     "id": "binarybrain",
     "provider": "lichess",
     "username": "BinaryBrain",
     "firstSeen": 1608231600642,
-    "lastSeen": 1608233880956
+    "lastSeen": 1608238578958,
+    "firstSeenTime": "7:00:00 PM",
+    "lastSeenTime": "7:46:59 PM",
+    "onlineDurationMins": 46.987433333333335
   }
 }
