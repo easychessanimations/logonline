@@ -1,0 +1,59 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1608197172850,
+    "lastSeen": 1608225678650,
+    "firstSeenTime": "9:26:12 AM",
+    "lastSeenTime": "5:00:22 PM",
+    "onlineDurationMins": 454.1530833333333
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1608218855731,
+    "lastSeen": 1608225384108,
+    "firstSeenTime": "3:27:35 PM",
+    "lastSeenTime": "5:00:22 PM",
+    "onlineDurationMins": 92.77398333333333
+  },
+  "icekimo@lichess": {
+    "id": "icekimo",
+    "provider": "lichess",
+    "username": "icekimo",
+    "firstSeen": 1608221636846,
+    "lastSeen": 1608225363346,
+    "firstSeenTime": "4:13:56 PM",
+    "lastSeenTime": "5:03:59 PM",
+    "onlineDurationMins": 50.0503
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1608224532506,
+    "lastSeen": 1608225313981,
+    "firstSeenTime": "5:02:12 PM",
+    "lastSeenTime": "5:02:23 PM",
+    "onlineDurationMins": 0.18165
+  },
+  "krishna1312@lichess": {
+    "id": "krishna1312",
+    "provider": "lichess",
+    "username": "krishna1312",
+    "firstSeen": 1608224673457,
+    "lastSeen": 1608225388409,
+    "firstSeenTime": "5:04:33 PM",
+    "lastSeenTime": "5:05:20 PM",
+    "onlineDurationMins": 0.7881666666666667
+  },
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1608225366060,
+    "lastSeen": 1608225426001
+  }
+}
