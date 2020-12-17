@@ -1,0 +1,62 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1608197172850,
+    "lastSeen": 1608224880944,
+    "firstSeenTime": "9:26:12 AM",
+    "lastSeenTime": "5:00:22 PM",
+    "onlineDurationMins": 454.1530833333333
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1608218855731,
+    "lastSeen": 1608225111998,
+    "firstSeenTime": "3:27:35 PM",
+    "lastSeenTime": "5:00:22 PM",
+    "onlineDurationMins": 92.77398333333333
+  },
+  "icekimo@lichess": {
+    "id": "icekimo",
+    "provider": "lichess",
+    "username": "icekimo",
+    "firstSeen": 1608221636846,
+    "lastSeen": 1608224639864,
+    "firstSeenTime": "4:13:56 PM",
+    "lastSeenTime": "5:03:59 PM",
+    "onlineDurationMins": 50.0503
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1608224532506,
+    "lastSeen": 1608225313562,
+    "firstSeenTime": "5:02:12 PM",
+    "lastSeenTime": "5:02:23 PM",
+    "onlineDurationMins": 0.18165
+  },
+  "sid-chess@lichess": {
+    "id": "sid-chess",
+    "provider": "lichess",
+    "username": "Sid-chess",
+    "firstSeen": 1608224651057,
+    "lastSeen": 1608224659153,
+    "firstSeenTime": "5:04:11 PM",
+    "lastSeenTime": "5:04:19 PM",
+    "onlineDurationMins": 0.13493333333333332
+  },
+  "krishna1312@lichess": {
+    "id": "krishna1312",
+    "provider": "lichess",
+    "username": "krishna1312",
+    "firstSeen": 1608224673457,
+    "lastSeen": 1608225292861,
+    "firstSeenTime": "5:04:33 PM",
+    "lastSeenTime": "5:05:20 PM",
+    "onlineDurationMins": 0.7881666666666667
+  }
+}
