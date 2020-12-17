@@ -1,0 +1,39 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1608197172850,
+    "lastSeen": 1608226881745,
+    "firstSeenTime": "9:26:12 AM",
+    "lastSeenTime": "5:00:22 PM",
+    "onlineDurationMins": 454.1530833333333
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1608218855731,
+    "lastSeen": 1608226884102,
+    "firstSeenTime": "3:27:35 PM",
+    "lastSeenTime": "5:00:22 PM",
+    "onlineDurationMins": 92.77398333333333
+  },
+  "icekimo@lichess": {
+    "id": "icekimo",
+    "provider": "lichess",
+    "username": "icekimo",
+    "firstSeen": 1608221636846,
+    "lastSeen": 1608226863513,
+    "firstSeenTime": "4:13:56 PM",
+    "lastSeenTime": "5:03:59 PM",
+    "onlineDurationMins": 50.0503
+  },
+  "chessburger11111@lichess": {
+    "id": "chessburger11111",
+    "provider": "lichess",
+    "username": "ChessBurger11111",
+    "firstSeen": 1608227156200,
+    "lastSeen": 1608227156200
+  }
+}
