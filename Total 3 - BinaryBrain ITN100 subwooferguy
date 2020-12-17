@@ -1,0 +1,26 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1608197172850,
+    "lastSeen": 1608215880669,
+    "firstSeenTime": "9:26:12 AM",
+    "lastSeenTime": "10:16:21 AM",
+    "onlineDurationMins": 50.14893333333333
+  },
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1608214395402,
+    "lastSeen": 1608215387399
+  },
+  "subwooferguy@lichess": {
+    "id": "subwooferguy",
+    "provider": "lichess",
+    "username": "subwooferguy",
+    "firstSeen": 1608215419663,
+    "lastSeen": 1608215554392
+  }
+}
