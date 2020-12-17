@@ -1,0 +1,36 @@
+{
+  "superjerobot@lichess": {
+    "id": "superjerobot",
+    "provider": "lichess",
+    "username": "SuperJeroBot",
+    "firstSeen": 1608231519443,
+    "lastSeen": 1608238785976,
+    "firstSeenTime": "6:58:39 PM",
+    "lastSeenTime": "7:48:42 PM",
+    "onlineDurationMins": 50.05286666666667
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1608231600642,
+    "lastSeen": 1608238619897,
+    "firstSeenTime": "7:00:00 PM",
+    "lastSeenTime": "7:46:59 PM",
+    "onlineDurationMins": 46.987433333333335
+  },
+  "helicopter111@lichess": {
+    "id": "helicopter111",
+    "provider": "lichess",
+    "username": "Helicopter111",
+    "firstSeen": 1608238807616,
+    "lastSeen": 1608238810040
+  },
+  "gkb38@lichess": {
+    "id": "gkb38",
+    "provider": "lichess",
+    "username": "GKB38",
+    "firstSeen": 1608238811437,
+    "lastSeen": 1608238811437
+  }
+}
