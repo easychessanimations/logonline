@@ -1,0 +1,29 @@
+{
+  "drdrunkernstein@lichess": {
+    "id": "drdrunkernstein",
+    "provider": "lichess",
+    "username": "DrDrunkernstein",
+    "firstSeen": 1608197163025,
+    "lastSeen": 1608202509287,
+    "firstSeenTime": "9:26:03 AM",
+    "lastSeenTime": "10:16:09 AM",
+    "onlineDurationMins": 50.1042
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1608197172850,
+    "lastSeen": 1608202517805,
+    "firstSeenTime": "9:26:12 AM",
+    "lastSeenTime": "10:16:21 AM",
+    "onlineDurationMins": 50.14893333333333
+  },
+  "sid-chess@lichess": {
+    "id": "sid-chess",
+    "provider": "lichess",
+    "username": "Sid-chess",
+    "firstSeen": 1608201696601,
+    "lastSeen": 1608202502146
+  }
+}
