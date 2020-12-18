@@ -1,0 +1,43 @@
+{
+  "chessandtechsbot@lichess": {
+    "id": "chessandtechsbot",
+    "provider": "lichess",
+    "username": "Chessandtechsbot",
+    "firstSeen": 1608269142158,
+    "lastSeen": 1608294762350,
+    "firstSeenTime": "5:25:42 AM",
+    "lastSeenTime": "11:36:46 AM",
+    "onlineDurationMins": 371.06413333333336
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1608283152770,
+    "lastSeen": 1608295157816,
+    "firstSeenTime": "9:19:12 AM",
+    "lastSeenTime": "11:41:18 AM",
+    "onlineDurationMins": 142.0979
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1608293133847,
+    "lastSeen": 1608294992078
+  },
+  "superjerobot@lichess": {
+    "id": "superjerobot",
+    "provider": "lichess",
+    "username": "SuperJeroBot",
+    "firstSeen": 1608294003171,
+    "lastSeen": 1608294739052
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1608294073178,
+    "lastSeen": 1608294778792
+  }
+}
