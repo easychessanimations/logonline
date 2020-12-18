@@ -1,0 +1,29 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1608283152770,
+    "lastSeen": 1608313342201,
+    "firstSeenTime": "9:19:12 AM",
+    "lastSeenTime": "5:17:22 PM",
+    "onlineDurationMins": 478.15635
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1608293133847,
+    "lastSeen": 1608313723028,
+    "firstSeenTime": "12:05:33 PM",
+    "lastSeenTime": "5:23:41 PM",
+    "onlineDurationMins": 318.12945
+  },
+  "sixfeetup@lichess": {
+    "id": "sixfeetup",
+    "provider": "lichess",
+    "username": "sixfeetup",
+    "firstSeen": 1608313338708,
+    "lastSeen": 1608313740519
+  }
+}
