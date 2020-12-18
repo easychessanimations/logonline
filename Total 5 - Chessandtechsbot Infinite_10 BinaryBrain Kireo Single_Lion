@@ -1,0 +1,46 @@
+{
+  "chessandtechsbot@lichess": {
+    "id": "chessandtechsbot",
+    "provider": "lichess",
+    "username": "Chessandtechsbot",
+    "firstSeen": 1608269142158,
+    "lastSeen": 1608292062247,
+    "firstSeenTime": "5:25:42 AM",
+    "lastSeenTime": "11:36:46 AM",
+    "onlineDurationMins": 371.06413333333336
+  },
+  "infinite_10@lichess": {
+    "id": "infinite_10",
+    "provider": "lichess",
+    "username": "Infinite_10",
+    "firstSeen": 1608276233523,
+    "lastSeen": 1608292050155,
+    "firstSeenTime": "7:23:53 AM",
+    "lastSeenTime": "11:44:55 AM",
+    "onlineDurationMins": 261.0301
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1608283152770,
+    "lastSeen": 1608292158918,
+    "firstSeenTime": "9:19:12 AM",
+    "lastSeenTime": "11:41:18 AM",
+    "onlineDurationMins": 142.0979
+  },
+  "kireo@lichess": {
+    "id": "kireo",
+    "provider": "lichess",
+    "username": "Kireo",
+    "firstSeen": 1608292137694,
+    "lastSeen": 1608292314711
+  },
+  "single_lion@lichess": {
+    "id": "single_lion",
+    "provider": "lichess",
+    "username": "Single_Lion",
+    "firstSeen": 1608292344697,
+    "lastSeen": 1608292344697
+  }
+}
