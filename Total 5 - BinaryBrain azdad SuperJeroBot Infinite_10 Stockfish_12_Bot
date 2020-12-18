@@ -1,0 +1,40 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1608283152770,
+    "lastSeen": 1608299658623,
+    "firstSeenTime": "9:19:12 AM",
+    "lastSeenTime": "11:41:18 AM",
+    "onlineDurationMins": 142.0979
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1608293133847,
+    "lastSeen": 1608299667832
+  },
+  "superjerobot@lichess": {
+    "id": "superjerobot",
+    "provider": "lichess",
+    "username": "SuperJeroBot",
+    "firstSeen": 1608294003171,
+    "lastSeen": 1608299659105
+  },
+  "infinite_10@lichess": {
+    "id": "infinite_10",
+    "provider": "lichess",
+    "username": "Infinite_10",
+    "firstSeen": 1608297812958,
+    "lastSeen": 1608299360131
+  },
+  "stockfish_12_bot@lichess": {
+    "id": "stockfish_12_bot",
+    "provider": "lichess",
+    "username": "Stockfish_12_Bot",
+    "firstSeen": 1608299672439,
+    "lastSeen": 1608299672439
+  }
+}
