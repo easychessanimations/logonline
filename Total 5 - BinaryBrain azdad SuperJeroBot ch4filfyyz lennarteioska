@@ -1,0 +1,46 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1608283152770,
+    "lastSeen": 1608309202046,
+    "firstSeenTime": "9:19:12 AM",
+    "lastSeenTime": "2:44:18 PM",
+    "onlineDurationMins": 325.1023333333333
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1608293133847,
+    "lastSeen": 1608309231886,
+    "firstSeenTime": "12:05:33 PM",
+    "lastSeenTime": "2:45:22 PM",
+    "onlineDurationMins": 159.80473333333333
+  },
+  "superjerobot@lichess": {
+    "id": "superjerobot",
+    "provider": "lichess",
+    "username": "SuperJeroBot",
+    "firstSeen": 1608294003171,
+    "lastSeen": 1608309199301,
+    "firstSeenTime": "12:20:03 PM",
+    "lastSeenTime": "2:41:19 PM",
+    "onlineDurationMins": 141.26618333333334
+  },
+  "ch4filfyyz@lichess": {
+    "id": "ch4filfyyz",
+    "provider": "lichess",
+    "username": "ch4filfyyz",
+    "firstSeen": 1608309473978,
+    "lastSeen": 1608309481255
+  },
+  "lennarteioska@lichess": {
+    "id": "lennarteioska",
+    "provider": "lichess",
+    "username": "lennarteioska",
+    "firstSeen": 1608309641543,
+    "lastSeen": 1608309641543
+  }
+}
