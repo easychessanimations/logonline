@@ -1,0 +1,42 @@
+{
+  "chessandtechsbot@lichess": {
+    "id": "chessandtechsbot",
+    "provider": "lichess",
+    "username": "Chessandtechsbot",
+    "firstSeen": 1608269142158,
+    "lastSeen": 1608291406006,
+    "firstSeenTime": "5:25:42 AM",
+    "lastSeenTime": "11:36:46 AM",
+    "onlineDurationMins": 371.06413333333336
+  },
+  "infinite_10@lichess": {
+    "id": "infinite_10",
+    "provider": "lichess",
+    "username": "Infinite_10",
+    "firstSeen": 1608276233523,
+    "lastSeen": 1608291895329,
+    "firstSeenTime": "7:23:53 AM",
+    "lastSeenTime": "11:44:55 AM",
+    "onlineDurationMins": 261.0301
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1608283152770,
+    "lastSeen": 1608292042071,
+    "firstSeenTime": "9:19:12 AM",
+    "lastSeenTime": "11:41:18 AM",
+    "onlineDurationMins": 142.0979
+  },
+  "784708829073768458@discord": {
+    "id": "784708829073768458",
+    "provider": "discord",
+    "username": "Guest2018293",
+    "firstSeen": 1608291139381,
+    "lastSeen": 1608291163490,
+    "firstSeenTime": "11:32:19 AM",
+    "lastSeenTime": "11:32:43 AM",
+    "onlineDurationMins": 0.40181666666666666
+  }
+}
