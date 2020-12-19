@@ -1,0 +1,50 @@
+{
+  "chessandtechsbot@lichess": {
+    "id": "chessandtechsbot",
+    "provider": "lichess",
+    "username": "Chessandtechsbot",
+    "firstSeen": 1608382527503,
+    "lastSeen": 1608390725742,
+    "firstSeenTime": "12:55:27 PM",
+    "lastSeenTime": "2:47:45 PM",
+    "onlineDurationMins": 112.30225
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1608389313814,
+    "lastSeen": 1608390821878,
+    "firstSeenTime": "2:48:33 PM",
+    "lastSeenTime": "2:52:16 PM",
+    "onlineDurationMins": 3.717
+  },
+  "turritopsisdohrnii0@lichess": {
+    "id": "turritopsisdohrnii0",
+    "provider": "lichess",
+    "username": "TurritopsisDohrnii0",
+    "firstSeen": 1608389812825,
+    "lastSeen": 1608391136226
+  },
+  "superjerobot@lichess": {
+    "id": "superjerobot",
+    "provider": "lichess",
+    "username": "SuperJeroBot",
+    "firstSeen": 1608390064269,
+    "lastSeen": 1608390730721
+  },
+  "lulik_2010@lichess": {
+    "id": "lulik_2010",
+    "provider": "lichess",
+    "username": "Lulik_2010",
+    "firstSeen": 1608390164377,
+    "lastSeen": 1608390842676
+  },
+  "wren_bot@lichess": {
+    "id": "wren_bot",
+    "provider": "lichess",
+    "username": "Wren_bot",
+    "firstSeen": 1608391089405,
+    "lastSeen": 1608391105538
+  }
+}
