@@ -1,0 +1,33 @@
+{
+  "superjerobot@lichess": {
+    "id": "superjerobot",
+    "provider": "lichess",
+    "username": "SuperJeroBot",
+    "firstSeen": 1608390064269,
+    "lastSeen": 1608400867845,
+    "firstSeenTime": "3:01:04 PM",
+    "lastSeenTime": "4:54:10 PM",
+    "onlineDurationMins": 113.11118333333333
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1608398401921,
+    "lastSeen": 1608401052147
+  },
+  "bjorn_lothbrok@lichess": {
+    "id": "bjorn_lothbrok",
+    "provider": "lichess",
+    "username": "Bjorn_LothbroK",
+    "firstSeen": 1608399298898,
+    "lastSeen": 1608401058975
+  },
+  "stockfish1259@lichess": {
+    "id": "stockfish1259",
+    "provider": "lichess",
+    "username": "Stockfish1259",
+    "firstSeen": 1608400034589,
+    "lastSeen": 1608400876236
+  }
+}
