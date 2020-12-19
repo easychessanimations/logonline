@@ -1,0 +1,42 @@
+{
+  "chessandtechsbot@lichess": {
+    "id": "chessandtechsbot",
+    "provider": "lichess",
+    "username": "Chessandtechsbot",
+    "firstSeen": 1608382527503,
+    "lastSeen": 1608397562125,
+    "firstSeenTime": "12:55:27 PM",
+    "lastSeenTime": "4:54:02 PM",
+    "onlineDurationMins": 238.57973333333334
+  },
+  "superjerobot@lichess": {
+    "id": "superjerobot",
+    "provider": "lichess",
+    "username": "SuperJeroBot",
+    "firstSeen": 1608390064269,
+    "lastSeen": 1608397566800,
+    "firstSeenTime": "3:01:04 PM",
+    "lastSeenTime": "4:54:10 PM",
+    "onlineDurationMins": 113.11118333333333
+  },
+  "gsgsgsgsgs_2@lichess": {
+    "id": "gsgsgsgsgs_2",
+    "provider": "lichess",
+    "username": "GSGSGSGSGS_2",
+    "firstSeen": 1608392817743,
+    "lastSeen": 1608397510735,
+    "firstSeenTime": "3:46:57 PM",
+    "lastSeenTime": "5:02:07 PM",
+    "onlineDurationMins": 75.15638333333334
+  },
+  "botmobile@lichess": {
+    "id": "botmobile",
+    "provider": "lichess",
+    "username": "Botmobile",
+    "firstSeen": 1608392845870,
+    "lastSeen": 1608397664770,
+    "firstSeenTime": "3:47:25 PM",
+    "lastSeenTime": "4:57:41 PM",
+    "onlineDurationMins": 70.25975
+  }
+}
