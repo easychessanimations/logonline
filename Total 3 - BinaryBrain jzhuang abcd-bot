@@ -1,0 +1,26 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1608457185765,
+    "lastSeen": 1608484190779,
+    "firstSeenTime": "9:39:45 AM",
+    "lastSeenTime": "3:54:50 PM",
+    "onlineDurationMins": 375.08335
+  },
+  "jzhuang@lichess": {
+    "id": "jzhuang",
+    "provider": "lichess",
+    "username": "jzhuang",
+    "firstSeen": 1608483542676,
+    "lastSeen": 1608483594418
+  },
+  "abcd-bot@lichess": {
+    "id": "abcd-bot",
+    "provider": "lichess",
+    "username": "abcd-bot",
+    "firstSeen": 1608483595532,
+    "lastSeen": 1608484108816
+  }
+}
