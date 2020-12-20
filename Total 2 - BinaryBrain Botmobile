@@ -1,0 +1,19 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1608457185765,
+    "lastSeen": 1608492054339,
+    "firstSeenTime": "9:39:45 AM",
+    "lastSeenTime": "6:58:54 PM",
+    "onlineDurationMins": 559.1416166666667
+  },
+  "botmobile@lichess": {
+    "id": "botmobile",
+    "provider": "lichess",
+    "username": "Botmobile",
+    "firstSeen": 1608492136532,
+    "lastSeen": 1608492136532
+  }
+}
