@@ -1,0 +1,16 @@
+{
+  "wren_bot@lichess": {
+    "id": "wren_bot",
+    "provider": "lichess",
+    "username": "Wren_bot",
+    "firstSeen": 1608501543668,
+    "lastSeen": 1608502490059
+  },
+  "botmobile@lichess": {
+    "id": "botmobile",
+    "provider": "lichess",
+    "username": "Botmobile",
+    "firstSeen": 1608502697249,
+    "lastSeen": 1608502697249
+  }
+}
