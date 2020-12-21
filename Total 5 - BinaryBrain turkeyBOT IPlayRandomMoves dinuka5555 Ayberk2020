@@ -1,0 +1,40 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1608536645043,
+    "lastSeen": 1608556925037,
+    "firstSeenTime": "7:44:05 AM",
+    "lastSeenTime": "7:58:08 AM",
+    "onlineDurationMins": 14.051483333333334
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1608552115906,
+    "lastSeen": 1608557021454
+  },
+  "iplayrandommoves@lichess": {
+    "id": "iplayrandommoves",
+    "provider": "lichess",
+    "username": "IPlayRandomMoves",
+    "firstSeen": 1608555721252,
+    "lastSeen": 1608557223725
+  },
+  "dinuka5555@lichess": {
+    "id": "dinuka5555",
+    "provider": "lichess",
+    "username": "dinuka5555",
+    "firstSeen": 1608556497769,
+    "lastSeen": 1608556571116
+  },
+  "ayberk2020@lichess": {
+    "id": "ayberk2020",
+    "provider": "lichess",
+    "username": "Ayberk2020",
+    "firstSeen": 1608556594390,
+    "lastSeen": 1608557404948
+  }
+}
