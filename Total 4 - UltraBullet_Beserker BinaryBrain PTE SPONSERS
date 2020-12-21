@@ -1,0 +1,36 @@
+{
+  "ultrabullet_beserker@lichess": {
+    "id": "ultrabullet_beserker",
+    "provider": "lichess",
+    "username": "UltraBullet_Beserker",
+    "firstSeen": 1608520668709,
+    "lastSeen": 1608529035764,
+    "firstSeenTime": "3:17:48 AM",
+    "lastSeenTime": "3:29:55 AM",
+    "onlineDurationMins": 12.1072
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1608521508525,
+    "lastSeen": 1608529145053,
+    "firstSeenTime": "3:31:48 AM",
+    "lastSeenTime": "3:32:24 AM",
+    "onlineDurationMins": 0.5947666666666667
+  },
+  "pte@lichess": {
+    "id": "pte",
+    "provider": "lichess",
+    "username": "PTE",
+    "firstSeen": 1608528597220,
+    "lastSeen": 1608528608315
+  },
+  "sponsers@lichess": {
+    "id": "sponsers",
+    "provider": "lichess",
+    "username": "SPONSERS",
+    "firstSeen": 1608528694744,
+    "lastSeen": 1608529301191
+  }
+}
