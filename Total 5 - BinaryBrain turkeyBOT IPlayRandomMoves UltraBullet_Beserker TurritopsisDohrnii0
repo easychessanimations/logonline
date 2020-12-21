@@ -1,0 +1,40 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1608536645043,
+    "lastSeen": 1608560045052,
+    "firstSeenTime": "7:44:05 AM",
+    "lastSeenTime": "7:58:08 AM",
+    "onlineDurationMins": 14.051483333333334
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1608552115906,
+    "lastSeen": 1608560041958
+  },
+  "iplayrandommoves@lichess": {
+    "id": "iplayrandommoves",
+    "provider": "lichess",
+    "username": "IPlayRandomMoves",
+    "firstSeen": 1608555721252,
+    "lastSeen": 1608560224834
+  },
+  "ultrabullet_beserker@lichess": {
+    "id": "ultrabullet_beserker",
+    "provider": "lichess",
+    "username": "UltraBullet_Beserker",
+    "firstSeen": 1608560102871,
+    "lastSeen": 1608560264520
+  },
+  "turritopsisdohrnii0@lichess": {
+    "id": "turritopsisdohrnii0",
+    "provider": "lichess",
+    "username": "TurritopsisDohrnii0",
+    "firstSeen": 1608560265909,
+    "lastSeen": 1608560265909
+  }
+}
