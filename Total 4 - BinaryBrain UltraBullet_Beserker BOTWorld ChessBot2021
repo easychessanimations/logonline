@@ -1,0 +1,42 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1608521508525,
+    "lastSeen": 1608535144753,
+    "firstSeenTime": "3:31:48 AM",
+    "lastSeenTime": "7:19:04 AM",
+    "onlineDurationMins": 227.27046666666666
+  },
+  "ultrabullet_beserker@lichess": {
+    "id": "ultrabullet_beserker",
+    "provider": "lichess",
+    "username": "UltraBullet_Beserker",
+    "firstSeen": 1608533514277,
+    "lastSeen": 1608535460938,
+    "firstSeenTime": "6:51:54 AM",
+    "lastSeenTime": "7:16:55 AM",
+    "onlineDurationMins": 25.020866666666667
+  },
+  "botworld@lichess": {
+    "id": "botworld",
+    "provider": "lichess",
+    "username": "BOTWorld",
+    "firstSeen": 1608533648476,
+    "lastSeen": 1608535589121,
+    "firstSeenTime": "6:54:08 AM",
+    "lastSeenTime": "7:19:11 AM",
+    "onlineDurationMins": 25.0443
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1608534647557,
+    "lastSeen": 1608535317575,
+    "firstSeenTime": "7:10:47 AM",
+    "lastSeenTime": "7:15:51 AM",
+    "onlineDurationMins": 5.068033333333333
+  }
+}
