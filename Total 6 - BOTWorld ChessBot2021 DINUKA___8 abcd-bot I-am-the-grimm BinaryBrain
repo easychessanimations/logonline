@@ -1,0 +1,50 @@
+{
+  "botworld@lichess": {
+    "id": "botworld",
+    "provider": "lichess",
+    "username": "BOTWorld",
+    "firstSeen": 1608533648476,
+    "lastSeen": 1608536575170,
+    "firstSeenTime": "6:54:08 AM",
+    "lastSeenTime": "7:19:11 AM",
+    "onlineDurationMins": 25.0443
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1608534647557,
+    "lastSeen": 1608535972543,
+    "firstSeenTime": "7:10:47 AM",
+    "lastSeenTime": "7:15:51 AM",
+    "onlineDurationMins": 5.068033333333333
+  },
+  "dinuka___8@lichess": {
+    "id": "dinuka___8",
+    "provider": "lichess",
+    "username": "DINUKA___8",
+    "firstSeen": 1608535906017,
+    "lastSeen": 1608535958828
+  },
+  "abcd-bot@lichess": {
+    "id": "abcd-bot",
+    "provider": "lichess",
+    "username": "abcd-bot",
+    "firstSeen": 1608536026725,
+    "lastSeen": 1608536589341
+  },
+  "i-am-the-grimm@lichess": {
+    "id": "i-am-the-grimm",
+    "provider": "lichess",
+    "username": "I-am-the-grimm",
+    "firstSeen": 1608536134855,
+    "lastSeen": 1608536578204
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1608536645043,
+    "lastSeen": 1608536645043
+  }
+}
