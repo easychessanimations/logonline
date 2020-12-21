@@ -1,0 +1,33 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1608536645043,
+    "lastSeen": 1608550145078,
+    "firstSeenTime": "7:44:05 AM",
+    "lastSeenTime": "7:58:08 AM",
+    "onlineDurationMins": 14.051483333333334
+  },
+  "ultrabullet_beserker@lichess": {
+    "id": "ultrabullet_beserker",
+    "provider": "lichess",
+    "username": "UltraBullet_Beserker",
+    "firstSeen": 1608538113788,
+    "lastSeen": 1608549823153
+  },
+  "abcd-bot@lichess": {
+    "id": "abcd-bot",
+    "provider": "lichess",
+    "username": "abcd-bot",
+    "firstSeen": 1608549545788,
+    "lastSeen": 1608549617298
+  },
+  "tr-bot@lichess": {
+    "id": "tr-bot",
+    "provider": "lichess",
+    "username": "TR-BOT",
+    "firstSeen": 1608550200016,
+    "lastSeen": 1608550200016
+  }
+}
