@@ -1,0 +1,47 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1608536645043,
+    "lastSeen": 1608555608192,
+    "firstSeenTime": "7:44:05 AM",
+    "lastSeenTime": "7:58:08 AM",
+    "onlineDurationMins": 14.051483333333334
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1608552115906,
+    "lastSeen": 1608555601781
+  },
+  "bot-king@lichess": {
+    "id": "bot-king",
+    "provider": "lichess",
+    "username": "bOt-kInG",
+    "firstSeen": 1608554712379,
+    "lastSeen": 1608555068329
+  },
+  "dhyfm5@lichess": {
+    "id": "dhyfm5",
+    "provider": "lichess",
+    "username": "dHYfM5",
+    "firstSeen": 1608554782301,
+    "lastSeen": 1608554909065
+  },
+  "suvitangirash@lichess": {
+    "id": "suvitangirash",
+    "provider": "lichess",
+    "username": "SUVITANGIRASH",
+    "firstSeen": 1608555108672,
+    "lastSeen": 1608555719861
+  },
+  "iplayrandommoves@lichess": {
+    "id": "iplayrandommoves",
+    "provider": "lichess",
+    "username": "IPlayRandomMoves",
+    "firstSeen": 1608555721252,
+    "lastSeen": 1608555721252
+  }
+}
