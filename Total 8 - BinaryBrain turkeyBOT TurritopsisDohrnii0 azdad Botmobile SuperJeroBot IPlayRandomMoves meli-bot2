@@ -1,0 +1,70 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1608536645043,
+    "lastSeen": 1608562928140,
+    "firstSeenTime": "7:44:05 AM",
+    "lastSeenTime": "2:26:05 PM",
+    "onlineDurationMins": 401.9999666666667
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1608552115906,
+    "lastSeen": 1608562618659,
+    "firstSeenTime": "12:01:55 PM",
+    "lastSeenTime": "2:31:58 PM",
+    "onlineDurationMins": 150.04601666666667
+  },
+  "turritopsisdohrnii0@lichess": {
+    "id": "turritopsisdohrnii0",
+    "provider": "lichess",
+    "username": "TurritopsisDohrnii0",
+    "firstSeen": 1608560265909,
+    "lastSeen": 1608563154395,
+    "firstSeenTime": "2:17:45 PM",
+    "lastSeenTime": "2:26:50 PM",
+    "onlineDurationMins": 9.0751
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1608560752101,
+    "lastSeen": 1608563041356,
+    "firstSeenTime": "2:25:52 PM",
+    "lastSeenTime": "2:27:00 PM",
+    "onlineDurationMins": 1.1434
+  },
+  "botmobile@lichess": {
+    "id": "botmobile",
+    "provider": "lichess",
+    "username": "Botmobile",
+    "firstSeen": 1608562251235,
+    "lastSeen": 1608563041109
+  },
+  "superjerobot@lichess": {
+    "id": "superjerobot",
+    "provider": "lichess",
+    "username": "SuperJeroBot",
+    "firstSeen": 1608562548557,
+    "lastSeen": 1608562880222
+  },
+  "iplayrandommoves@lichess": {
+    "id": "iplayrandommoves",
+    "provider": "lichess",
+    "username": "IPlayRandomMoves",
+    "firstSeen": 1608562822343,
+    "lastSeen": 1608562825851
+  },
+  "meli-bot2@lichess": {
+    "id": "meli-bot2",
+    "provider": "lichess",
+    "username": "meli-bot2",
+    "firstSeen": 1608563244430,
+    "lastSeen": 1608563244430
+  }
+}
