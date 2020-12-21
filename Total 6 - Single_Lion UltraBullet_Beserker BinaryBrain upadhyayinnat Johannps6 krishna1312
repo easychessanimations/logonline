@@ -1,0 +1,53 @@
+{
+  "single_lion@lichess": {
+    "id": "single_lion",
+    "provider": "lichess",
+    "username": "Single_Lion",
+    "firstSeen": 1608520503677,
+    "lastSeen": 1608522401479,
+    "firstSeenTime": "3:15:03 AM",
+    "lastSeenTime": "3:22:20 AM",
+    "onlineDurationMins": 7.277783333333334
+  },
+  "ultrabullet_beserker@lichess": {
+    "id": "ultrabullet_beserker",
+    "provider": "lichess",
+    "username": "UltraBullet_Beserker",
+    "firstSeen": 1608520668709,
+    "lastSeen": 1608522260386,
+    "firstSeenTime": "3:17:48 AM",
+    "lastSeenTime": "3:29:55 AM",
+    "onlineDurationMins": 12.1072
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1608521508525,
+    "lastSeen": 1608522309065,
+    "firstSeenTime": "3:31:48 AM",
+    "lastSeenTime": "3:32:24 AM",
+    "onlineDurationMins": 0.5947666666666667
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1608522073036,
+    "lastSeen": 1608522086282
+  },
+  "johannps6@lichess": {
+    "id": "johannps6",
+    "provider": "lichess",
+    "username": "Johannps6",
+    "firstSeen": 1608522132545,
+    "lastSeen": 1608522136622
+  },
+  "krishna1312@lichess": {
+    "id": "krishna1312",
+    "provider": "lichess",
+    "username": "krishna1312",
+    "firstSeen": 1608522641690,
+    "lastSeen": 1608522641691
+  }
+}
