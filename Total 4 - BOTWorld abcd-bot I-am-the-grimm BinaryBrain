@@ -1,0 +1,33 @@
+{
+  "botworld@lichess": {
+    "id": "botworld",
+    "provider": "lichess",
+    "username": "BOTWorld",
+    "firstSeen": 1608533648476,
+    "lastSeen": 1608536839076,
+    "firstSeenTime": "6:54:08 AM",
+    "lastSeenTime": "7:19:11 AM",
+    "onlineDurationMins": 25.0443
+  },
+  "abcd-bot@lichess": {
+    "id": "abcd-bot",
+    "provider": "lichess",
+    "username": "abcd-bot",
+    "firstSeen": 1608536026725,
+    "lastSeen": 1608537271221
+  },
+  "i-am-the-grimm@lichess": {
+    "id": "i-am-the-grimm",
+    "provider": "lichess",
+    "username": "I-am-the-grimm",
+    "firstSeen": 1608536134855,
+    "lastSeen": 1608536578204
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1608536645043,
+    "lastSeen": 1608536828476
+  }
+}
