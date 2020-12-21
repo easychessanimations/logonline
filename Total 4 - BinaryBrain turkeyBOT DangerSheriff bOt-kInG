@@ -1,0 +1,33 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1608536645043,
+    "lastSeen": 1608554681440,
+    "firstSeenTime": "7:44:05 AM",
+    "lastSeenTime": "7:58:08 AM",
+    "onlineDurationMins": 14.051483333333334
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1608552115906,
+    "lastSeen": 1608554218478
+  },
+  "dangersheriff@lichess": {
+    "id": "dangersheriff",
+    "provider": "lichess",
+    "username": "DangerSheriff",
+    "firstSeen": 1608553526920,
+    "lastSeen": 1608553963194
+  },
+  "bot-king@lichess": {
+    "id": "bot-king",
+    "provider": "lichess",
+    "username": "bOt-kInG",
+    "firstSeen": 1608554712379,
+    "lastSeen": 1608554712379
+  }
+}
