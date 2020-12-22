@@ -1,0 +1,26 @@
+{
+  "the_best_bot_ever@lichess": {
+    "id": "the_best_bot_ever",
+    "provider": "lichess",
+    "username": "The_Best_Bot_Ever",
+    "firstSeen": 1608601623961,
+    "lastSeen": 1608605567816,
+    "firstSeenTime": "1:47:03 AM",
+    "lastSeenTime": "1:51:14 AM",
+    "onlineDurationMins": 4.183966666666667
+  },
+  "komodowannabe@lichess": {
+    "id": "komodowannabe",
+    "provider": "lichess",
+    "username": "KomodoWannabe",
+    "firstSeen": 1608603876384,
+    "lastSeen": 1608605236233
+  },
+  "justin_w@lichess": {
+    "id": "justin_w",
+    "provider": "lichess",
+    "username": "Justin_W",
+    "firstSeen": 1608605576644,
+    "lastSeen": 1608605576644
+  }
+}
