@@ -1,0 +1,50 @@
+{
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1608635811566,
+    "lastSeen": 1608640454600,
+    "firstSeenTime": "11:16:51 AM",
+    "lastSeenTime": "12:09:20 PM",
+    "onlineDurationMins": 52.48813333333333
+  },
+  "abcd-bot@lichess": {
+    "id": "abcd-bot",
+    "provider": "lichess",
+    "username": "abcd-bot",
+    "firstSeen": 1608637775817,
+    "lastSeen": 1608639757933,
+    "firstSeenTime": "11:49:35 AM",
+    "lastSeenTime": "12:11:41 PM",
+    "onlineDurationMins": 22.09573333333333
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1608639578539,
+    "lastSeen": 1608640252167
+  },
+  "gsgsgsgsgs_2@lichess": {
+    "id": "gsgsgsgsgs_2",
+    "provider": "lichess",
+    "username": "GSGSGSGSGS_2",
+    "firstSeen": 1608640280327,
+    "lastSeen": 1608640282074
+  },
+  "botplaysrandommoves@lichess": {
+    "id": "botplaysrandommoves",
+    "provider": "lichess",
+    "username": "BotPlaysRandomMoves",
+    "firstSeen": 1608640542082,
+    "lastSeen": 1608640606724
+  },
+  "iplayrandommoves@lichess": {
+    "id": "iplayrandommoves",
+    "provider": "lichess",
+    "username": "IPlayRandomMoves",
+    "firstSeen": 1608640611090,
+    "lastSeen": 1608640611091
+  }
+}
