@@ -1,0 +1,19 @@
+{
+  "om_the_great_bot@lichess": {
+    "id": "om_the_great_bot",
+    "provider": "lichess",
+    "username": "Om_The_Great_BOT",
+    "firstSeen": 1608626766801,
+    "lastSeen": 1608626857630,
+    "firstSeenTime": "8:46:06 AM",
+    "lastSeenTime": "8:47:37 AM",
+    "onlineDurationMins": 1.5138166666666666
+  },
+  "iplayrandommoves@lichess": {
+    "id": "iplayrandommoves",
+    "provider": "lichess",
+    "username": "IPlayRandomMoves",
+    "firstSeen": 1608627736356,
+    "lastSeen": 1608627736357
+  }
+}
