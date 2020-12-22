@@ -1,0 +1,19 @@
+{
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1608621723496,
+    "lastSeen": 1608622858465,
+    "firstSeenTime": "7:22:03 AM",
+    "lastSeenTime": "7:40:58 AM",
+    "onlineDurationMins": 18.91615
+  },
+  "abcd-bot@lichess": {
+    "id": "abcd-bot",
+    "provider": "lichess",
+    "username": "abcd-bot",
+    "firstSeen": 1608622998436,
+    "lastSeen": 1608622998436
+  }
+}
