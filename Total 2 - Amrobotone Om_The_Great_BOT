@@ -1,0 +1,22 @@
+{
+  "amrobotone@lichess": {
+    "id": "amrobotone",
+    "provider": "lichess",
+    "username": "Amrobotone",
+    "firstSeen": 1608630402897,
+    "lastSeen": 1608631358321,
+    "firstSeenTime": "9:46:42 AM",
+    "lastSeenTime": "10:02:38 AM",
+    "onlineDurationMins": 15.923733333333333
+  },
+  "om_the_great_bot@lichess": {
+    "id": "om_the_great_bot",
+    "provider": "lichess",
+    "username": "Om_The_Great_BOT",
+    "firstSeen": 1608631045995,
+    "lastSeen": 1608631487879,
+    "firstSeenTime": "9:57:25 AM",
+    "lastSeenTime": "10:04:47 AM",
+    "onlineDurationMins": 7.364733333333334
+  }
+}
