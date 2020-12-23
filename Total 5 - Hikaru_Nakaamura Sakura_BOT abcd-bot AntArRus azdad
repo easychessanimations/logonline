@@ -1,0 +1,40 @@
+{
+  "hikaru_nakaamura@lichess": {
+    "id": "hikaru_nakaamura",
+    "provider": "lichess",
+    "username": "Hikaru_Nakaamura",
+    "firstSeen": 1608719459564,
+    "lastSeen": 1608723239901,
+    "firstSeenTime": "10:30:59 AM",
+    "lastSeenTime": "10:51:20 AM",
+    "onlineDurationMins": 20.34875
+  },
+  "sakura_bot@lichess": {
+    "id": "sakura_bot",
+    "provider": "lichess",
+    "username": "Sakura_BOT",
+    "firstSeen": 1608720885910,
+    "lastSeen": 1608723233174
+  },
+  "abcd-bot@lichess": {
+    "id": "abcd-bot",
+    "provider": "lichess",
+    "username": "abcd-bot",
+    "firstSeen": 1608721643012,
+    "lastSeen": 1608723468154
+  },
+  "antarrus@lichess": {
+    "id": "antarrus",
+    "provider": "lichess",
+    "username": "AntArRus",
+    "firstSeen": 1608722301485,
+    "lastSeen": 1608723002331
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1608723838884,
+    "lastSeen": 1608723838884
+  }
+}
