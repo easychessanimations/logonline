@@ -1,0 +1,42 @@
+{
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1608723838884,
+    "lastSeen": 1608731350896,
+    "firstSeenTime": "11:43:58 AM",
+    "lastSeenTime": "1:37:14 PM",
+    "onlineDurationMins": 113.25613333333334
+  },
+  "hikaru_nakaamura@lichess": {
+    "id": "hikaru_nakaamura",
+    "provider": "lichess",
+    "username": "Hikaru_Nakaamura",
+    "firstSeen": 1608726436245,
+    "lastSeen": 1608730652268,
+    "firstSeenTime": "12:27:16 PM",
+    "lastSeenTime": "1:37:32 PM",
+    "onlineDurationMins": 70.26705
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1608726717801,
+    "lastSeen": 1608731228363,
+    "firstSeenTime": "12:31:57 PM",
+    "lastSeenTime": "1:33:46 PM",
+    "onlineDurationMins": 61.81835
+  },
+  "the_best_bot_ever@lichess": {
+    "id": "the_best_bot_ever",
+    "provider": "lichess",
+    "username": "The_Best_Bot_Ever",
+    "firstSeen": 1608729893306,
+    "lastSeen": 1608730915604,
+    "firstSeenTime": "1:24:53 PM",
+    "lastSeenTime": "1:41:55 PM",
+    "onlineDurationMins": 17.0383
+  }
+}
