@@ -1,0 +1,37 @@
+{
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1608723838884,
+    "lastSeen": 1608728286915
+  },
+  "hikaru_nakaamura@lichess": {
+    "id": "hikaru_nakaamura",
+    "provider": "lichess",
+    "username": "Hikaru_Nakaamura",
+    "firstSeen": 1608726436245,
+    "lastSeen": 1608728031232
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1608726717801,
+    "lastSeen": 1608728304101
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1608726979236,
+    "lastSeen": 1608728301611
+  },
+  "botmobile@lichess": {
+    "id": "botmobile",
+    "provider": "lichess",
+    "username": "Botmobile",
+    "firstSeen": 1608728030776,
+    "lastSeen": 1608728088719
+  }
+}
