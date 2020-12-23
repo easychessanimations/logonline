@@ -1,0 +1,71 @@
+{
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1608723838884,
+    "lastSeen": 1608735074321,
+    "firstSeenTime": "11:43:58 AM",
+    "lastSeenTime": "1:37:14 PM",
+    "onlineDurationMins": 113.25613333333334
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1608726717801,
+    "lastSeen": 1608735136081,
+    "firstSeenTime": "12:31:57 PM",
+    "lastSeenTime": "1:33:46 PM",
+    "onlineDurationMins": 61.81835
+  },
+  "sakura_bot@lichess": {
+    "id": "sakura_bot",
+    "provider": "lichess",
+    "username": "Sakura_BOT",
+    "firstSeen": 1608732154347,
+    "lastSeen": 1608734389516
+  },
+  "lbot007@lichess": {
+    "id": "lbot007",
+    "provider": "lichess",
+    "username": "LBOT007",
+    "firstSeen": 1608733569257,
+    "lastSeen": 1608734655311
+  },
+  "hikaru_nakaamura@lichess": {
+    "id": "hikaru_nakaamura",
+    "provider": "lichess",
+    "username": "Hikaru_Nakaamura",
+    "firstSeen": 1608734123588,
+    "lastSeen": 1608735026306
+  },
+  "riyan-chess@lichess": {
+    "id": "riyan-chess",
+    "provider": "lichess",
+    "username": "Riyan-chess",
+    "firstSeen": 1608734437722,
+    "lastSeen": 1608734456496
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1608734699535,
+    "lastSeen": 1608734713148
+  },
+  "georgii1@lichess": {
+    "id": "georgii1",
+    "provider": "lichess",
+    "username": "Georgii1",
+    "firstSeen": 1608734842002,
+    "lastSeen": 1608735232481
+  },
+  "dfastest@lichess": {
+    "id": "dfastest",
+    "provider": "lichess",
+    "username": "DFastest",
+    "firstSeen": 1608735180722,
+    "lastSeen": 1608735189903
+  }
+}
