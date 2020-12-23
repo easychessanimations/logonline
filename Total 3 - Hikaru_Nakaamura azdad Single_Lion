@@ -1,0 +1,26 @@
+{
+  "hikaru_nakaamura@lichess": {
+    "id": "hikaru_nakaamura",
+    "provider": "lichess",
+    "username": "Hikaru_Nakaamura",
+    "firstSeen": 1608719459564,
+    "lastSeen": 1608725178417,
+    "firstSeenTime": "10:30:59 AM",
+    "lastSeenTime": "10:51:20 AM",
+    "onlineDurationMins": 20.34875
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1608723838884,
+    "lastSeen": 1608725354471
+  },
+  "single_lion@lichess": {
+    "id": "single_lion",
+    "provider": "lichess",
+    "username": "Single_Lion",
+    "firstSeen": 1608725398637,
+    "lastSeen": 1608725398637
+  }
+}
