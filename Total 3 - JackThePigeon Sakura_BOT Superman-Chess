@@ -1,0 +1,29 @@
+{
+  "jackthepigeon@lichess": {
+    "id": "jackthepigeon",
+    "provider": "lichess",
+    "username": "JackThePigeon",
+    "firstSeen": 1608747882951,
+    "lastSeen": 1608748612323,
+    "firstSeenTime": "6:24:42 PM",
+    "lastSeenTime": "6:24:52 PM",
+    "onlineDurationMins": 0.15285
+  },
+  "sakura_bot@lichess": {
+    "id": "sakura_bot",
+    "provider": "lichess",
+    "username": "Sakura_BOT",
+    "firstSeen": 1608747885800,
+    "lastSeen": 1608748617139,
+    "firstSeenTime": "6:24:45 PM",
+    "lastSeenTime": "6:24:51 PM",
+    "onlineDurationMins": 0.10328333333333334
+  },
+  "superman-chess@lichess": {
+    "id": "superman-chess",
+    "provider": "lichess",
+    "username": "Superman-Chess",
+    "firstSeen": 1608749031807,
+    "lastSeen": 1608749031807
+  }
+}
