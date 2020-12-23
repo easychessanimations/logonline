@@ -1,0 +1,53 @@
+{
+  "jackthepigeon@lichess": {
+    "id": "jackthepigeon",
+    "provider": "lichess",
+    "username": "JackThePigeon",
+    "firstSeen": 1608719319972,
+    "lastSeen": 1608721895437,
+    "firstSeenTime": "10:28:39 AM",
+    "lastSeenTime": "10:50:38 AM",
+    "onlineDurationMins": 21.982966666666666
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1608719320241,
+    "lastSeen": 1608721529127,
+    "firstSeenTime": "10:28:40 AM",
+    "lastSeenTime": "10:48:09 AM",
+    "onlineDurationMins": 19.48895
+  },
+  "hikaru_nakaamura@lichess": {
+    "id": "hikaru_nakaamura",
+    "provider": "lichess",
+    "username": "Hikaru_Nakaamura",
+    "firstSeen": 1608719459564,
+    "lastSeen": 1608721350597,
+    "firstSeenTime": "10:30:59 AM",
+    "lastSeenTime": "10:51:20 AM",
+    "onlineDurationMins": 20.34875
+  },
+  "sakura_bot@lichess": {
+    "id": "sakura_bot",
+    "provider": "lichess",
+    "username": "Sakura_BOT",
+    "firstSeen": 1608720885910,
+    "lastSeen": 1608721804826
+  },
+  "antarrus@lichess": {
+    "id": "antarrus",
+    "provider": "lichess",
+    "username": "AntArRus",
+    "firstSeen": 1608721099111,
+    "lastSeen": 1608721138065
+  },
+  "abcd-bot@lichess": {
+    "id": "abcd-bot",
+    "provider": "lichess",
+    "username": "abcd-bot",
+    "firstSeen": 1608721643012,
+    "lastSeen": 1608721780582
+  }
+}
