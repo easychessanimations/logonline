@@ -1,0 +1,30 @@
+{
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1608701769060,
+    "lastSeen": 1608714869450
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1608712601087,
+    "lastSeen": 1608714198312
+  },
+  "single_lion@lichess": {
+    "id": "single_lion",
+    "provider": "lichess",
+    "username": "Single_Lion",
+    "firstSeen": 1608714199619,
+    "lastSeen": 1608714866571
+  },
+  "botmobile@lichess": {
+    "id": "botmobile",
+    "provider": "lichess",
+    "username": "Botmobile",
+    "firstSeen": 1608714892209,
+    "lastSeen": 1608714892209
+  }
+}
