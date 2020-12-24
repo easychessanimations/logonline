@@ -4,20 +4,26 @@
     "provider": "lichess",
     "username": "azdad",
     "firstSeen": 1608792523611,
-    "lastSeen": 1608794030165
+    "lastSeen": 1608798110243,
+    "firstSeenTime": "6:48:43 AM",
+    "lastSeenTime": "7:54:53 AM",
+    "onlineDurationMins": 66.1653
   },
   "turkeybot@lichess": {
     "id": "turkeybot",
     "provider": "lichess",
     "username": "turkeyBOT",
     "firstSeen": 1608792867012,
-    "lastSeen": 1608793534694
+    "lastSeen": 1608798129279,
+    "firstSeenTime": "6:54:27 AM",
+    "lastSeenTime": "7:55:33 AM",
+    "onlineDurationMins": 61.10503333333333
   },
   "noveltychess@lichess": {
     "id": "noveltychess",
     "provider": "lichess",
     "username": "NoveltyChess",
-    "firstSeen": 1608794032710,
-    "lastSeen": 1608794032710
+    "firstSeen": 1608798356404,
+    "lastSeen": 1608798356404
   }
 }
