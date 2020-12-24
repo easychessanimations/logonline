@@ -1,0 +1,69 @@
+{
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1608792523611,
+    "lastSeen": 1608796493529,
+    "firstSeenTime": "6:48:43 AM",
+    "lastSeenTime": "7:43:53 AM",
+    "onlineDurationMins": 55.16905
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1608792867012,
+    "lastSeen": 1608796533314,
+    "firstSeenTime": "6:54:27 AM",
+    "lastSeenTime": "7:53:14 AM",
+    "onlineDurationMins": 58.78745
+  },
+  "iplayrandommoves@lichess": {
+    "id": "iplayrandommoves",
+    "provider": "lichess",
+    "username": "IPlayRandomMoves",
+    "firstSeen": 1608794349900,
+    "lastSeen": 1608796516702,
+    "firstSeenTime": "7:19:09 AM",
+    "lastSeenTime": "7:44:13 AM",
+    "onlineDurationMins": 25.056
+  },
+  "ayberk2020@lichess": {
+    "id": "ayberk2020",
+    "provider": "lichess",
+    "username": "Ayberk2020",
+    "firstSeen": 1608795275701,
+    "lastSeen": 1608796487939,
+    "firstSeenTime": "7:34:35 AM",
+    "lastSeenTime": "7:53:45 AM",
+    "onlineDurationMins": 19.1703
+  },
+  "noveltychess@lichess": {
+    "id": "noveltychess",
+    "provider": "lichess",
+    "username": "NoveltyChess",
+    "firstSeen": 1608796103473,
+    "lastSeen": 1608796626679,
+    "firstSeenTime": "7:48:23 AM",
+    "lastSeenTime": "7:48:56 AM",
+    "onlineDurationMins": 0.5526333333333333
+  },
+  "gmcfcoach@lichess": {
+    "id": "gmcfcoach",
+    "provider": "lichess",
+    "username": "gmcfcoach",
+    "firstSeen": 1608796180486,
+    "lastSeen": 1608796333869,
+    "firstSeenTime": "7:49:40 AM",
+    "lastSeenTime": "7:52:13 AM",
+    "onlineDurationMins": 2.5563833333333332
+  },
+  "botchinhduong@lichess": {
+    "id": "botchinhduong",
+    "provider": "lichess",
+    "username": "Botchinhduong",
+    "firstSeen": 1608796627807,
+    "lastSeen": 1608796627807
+  }
+}
