@@ -1,0 +1,23 @@
+{
+  "abcd-bot@lichess": {
+    "id": "abcd-bot",
+    "provider": "lichess",
+    "username": "abcd-bot",
+    "firstSeen": 1608817527638,
+    "lastSeen": 1608819509634
+  },
+  "eluwa1234@lichess": {
+    "id": "eluwa1234",
+    "provider": "lichess",
+    "username": "eluwa1234",
+    "firstSeen": 1608819399113,
+    "lastSeen": 1608819408259
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1608819935601,
+    "lastSeen": 1608819935601
+  }
+}
