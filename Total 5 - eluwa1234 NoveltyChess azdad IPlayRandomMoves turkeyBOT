@@ -1,0 +1,40 @@
+{
+  "eluwa1234@lichess": {
+    "id": "eluwa1234",
+    "provider": "lichess",
+    "username": "eluwa1234",
+    "firstSeen": 1608779470200,
+    "lastSeen": 1608792830661,
+    "firstSeenTime": "3:11:10 AM",
+    "lastSeenTime": "4:28:39 AM",
+    "onlineDurationMins": 77.48603333333334
+  },
+  "noveltychess@lichess": {
+    "id": "noveltychess",
+    "provider": "lichess",
+    "username": "NoveltyChess",
+    "firstSeen": 1608791072868,
+    "lastSeen": 1608792844791
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1608792523611,
+    "lastSeen": 1608792536655
+  },
+  "iplayrandommoves@lichess": {
+    "id": "iplayrandommoves",
+    "provider": "lichess",
+    "username": "IPlayRandomMoves",
+    "firstSeen": 1608792664760,
+    "lastSeen": 1608792748388
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1608792867012,
+    "lastSeen": 1608792867012
+  }
+}
