@@ -1,0 +1,44 @@
+{
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1608792523611,
+    "lastSeen": 1608795833754
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1608792867012,
+    "lastSeen": 1608796172242
+  },
+  "iplayrandommoves@lichess": {
+    "id": "iplayrandommoves",
+    "provider": "lichess",
+    "username": "IPlayRandomMoves",
+    "firstSeen": 1608794349900,
+    "lastSeen": 1608795853260
+  },
+  "ayberk2020@lichess": {
+    "id": "ayberk2020",
+    "provider": "lichess",
+    "username": "Ayberk2020",
+    "firstSeen": 1608795275701,
+    "lastSeen": 1608795956740
+  },
+  "noveltychess@lichess": {
+    "id": "noveltychess",
+    "provider": "lichess",
+    "username": "NoveltyChess",
+    "firstSeen": 1608796103473,
+    "lastSeen": 1608796136631
+  },
+  "gmcfcoach@lichess": {
+    "id": "gmcfcoach",
+    "provider": "lichess",
+    "username": "gmcfcoach",
+    "firstSeen": 1608796180486,
+    "lastSeen": 1608796180486
+  }
+}
