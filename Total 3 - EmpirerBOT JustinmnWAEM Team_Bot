@@ -1,0 +1,26 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1608826540783,
+    "lastSeen": 1608834164257,
+    "firstSeenTime": "4:15:40 PM",
+    "lastSeenTime": "5:24:40 PM",
+    "onlineDurationMins": 69.00041666666667
+  },
+  "justinmnwaem@lichess": {
+    "id": "justinmnwaem",
+    "provider": "lichess",
+    "username": "JustinmnWAEM",
+    "firstSeen": 1608833154610,
+    "lastSeen": 1608834124662
+  },
+  "team_bot@lichess": {
+    "id": "team_bot",
+    "provider": "lichess",
+    "username": "Team_Bot",
+    "firstSeen": 1608834631440,
+    "lastSeen": 1608834631440
+  }
+}
