@@ -1,0 +1,39 @@
+{
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1608792523611,
+    "lastSeen": 1608798110243,
+    "firstSeenTime": "6:48:43 AM",
+    "lastSeenTime": "7:54:53 AM",
+    "onlineDurationMins": 66.1653
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1608792867012,
+    "lastSeen": 1608797469318,
+    "firstSeenTime": "6:54:27 AM",
+    "lastSeenTime": "7:55:33 AM",
+    "onlineDurationMins": 61.10503333333333
+  },
+  "botchinhduong@lichess": {
+    "id": "botchinhduong",
+    "provider": "lichess",
+    "username": "Botchinhduong",
+    "firstSeen": 1608796627807,
+    "lastSeen": 1608797441059,
+    "firstSeenTime": "7:57:07 AM",
+    "lastSeenTime": "7:57:17 AM",
+    "onlineDurationMins": 0.16846666666666665
+  },
+  "m-901@lichess": {
+    "id": "m-901",
+    "provider": "lichess",
+    "username": "m-901",
+    "firstSeen": 1608797240852,
+    "lastSeen": 1608797250801
+  }
+}
