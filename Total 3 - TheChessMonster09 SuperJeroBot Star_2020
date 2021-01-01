@@ -4,23 +4,26 @@
     "provider": "lichess",
     "username": "TheChessMonster09",
     "firstSeen": 1609477671623,
-    "lastSeen": 1609510766669,
+    "lastSeen": 1609513766774,
     "firstSeenTime": "5:07:51 AM",
-    "lastSeenTime": "9:28:26 AM",
-    "onlineDurationMins": 260.58051666666665
+    "lastSeenTime": "2:50:30 PM",
+    "onlineDurationMins": 582.64455
   },
   "superjerobot@lichess": {
     "id": "superjerobot",
     "provider": "lichess",
     "username": "SuperJeroBot",
     "firstSeen": 1609509268353,
-    "lastSeen": 1609510748683
+    "lastSeen": 1609513740503,
+    "firstSeenTime": "1:54:28 PM",
+    "lastSeenTime": "2:54:39 PM",
+    "onlineDurationMins": 60.18275
   },
   "star_2020@lichess": {
     "id": "star_2020",
     "provider": "lichess",
     "username": "Star_2020",
-    "firstSeen": 1609510629853,
-    "lastSeen": 1609511111061
+    "firstSeen": 1609513929867,
+    "lastSeen": 1609513929867
   }
 }
