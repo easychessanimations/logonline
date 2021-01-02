@@ -1,0 +1,19 @@
+{
+  "kleverchessbot@lichess": {
+    "id": "kleverchessbot",
+    "provider": "lichess",
+    "username": "KleverChessBot",
+    "firstSeen": 1609608266429,
+    "lastSeen": 1609618329319,
+    "firstSeenTime": "5:24:26 PM",
+    "lastSeenTime": "7:39:09 PM",
+    "onlineDurationMins": 134.71416666666667
+  },
+  "enispythonbot@lichess": {
+    "id": "enispythonbot",
+    "provider": "lichess",
+    "username": "enispythonbot",
+    "firstSeen": 1609618579603,
+    "lastSeen": 1609618579603
+  }
+}
