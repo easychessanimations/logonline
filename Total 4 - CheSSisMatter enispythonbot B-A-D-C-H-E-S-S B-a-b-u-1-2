@@ -1,0 +1,36 @@
+{
+  "chessismatter@lichess": {
+    "id": "chessismatter",
+    "provider": "lichess",
+    "username": "CheSSisMatter",
+    "firstSeen": 1609582503764,
+    "lastSeen": 1609589097775,
+    "firstSeenTime": "10:15:03 AM",
+    "lastSeenTime": "10:40:46 AM",
+    "onlineDurationMins": 25.708333333333332
+  },
+  "enispythonbot@lichess": {
+    "id": "enispythonbot",
+    "provider": "lichess",
+    "username": "enispythonbot",
+    "firstSeen": 1609584176323,
+    "lastSeen": 1609589253783,
+    "firstSeenTime": "10:42:56 AM",
+    "lastSeenTime": "10:43:14 AM",
+    "onlineDurationMins": 0.3017
+  },
+  "b-a-d-c-h-e-s-s@lichess": {
+    "id": "b-a-d-c-h-e-s-s",
+    "provider": "lichess",
+    "username": "B-A-D-C-H-E-S-S",
+    "firstSeen": 1609588501913,
+    "lastSeen": 1609588505739
+  },
+  "b-a-b-u-1-2@lichess": {
+    "id": "b-a-b-u-1-2",
+    "provider": "lichess",
+    "username": "B-a-b-u-1-2",
+    "firstSeen": 1609589316817,
+    "lastSeen": 1609589316817
+  }
+}
