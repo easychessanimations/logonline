@@ -4,16 +4,19 @@
     "provider": "lichess",
     "username": "enispythonbot",
     "firstSeen": 1609584176323,
-    "lastSeen": 1609608347046,
+    "lastSeen": 1609611722738,
     "firstSeenTime": "10:42:56 AM",
-    "lastSeenTime": "4:47:43 PM",
-    "onlineDurationMins": 364.7931
+    "lastSeenTime": "5:49:43 PM",
+    "onlineDurationMins": 426.7851333333333
   },
   "kleverchessbot@lichess": {
     "id": "kleverchessbot",
     "provider": "lichess",
     "username": "KleverChessBot",
     "firstSeen": 1609608266429,
-    "lastSeen": 1609609029250
+    "lastSeen": 1609611369200,
+    "firstSeenTime": "5:24:26 PM",
+    "lastSeenTime": "5:48:12 PM",
+    "onlineDurationMins": 23.7696
   }
 }
