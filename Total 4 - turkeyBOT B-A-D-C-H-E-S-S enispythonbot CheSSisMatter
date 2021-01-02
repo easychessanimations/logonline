@@ -1,0 +1,30 @@
+{
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1609569484659,
+    "lastSeen": 1609574419941
+  },
+  "b-a-d-c-h-e-s-s@lichess": {
+    "id": "b-a-d-c-h-e-s-s",
+    "provider": "lichess",
+    "username": "B-A-D-C-H-E-S-S",
+    "firstSeen": 1609573508897,
+    "lastSeen": 1609574711275
+  },
+  "enispythonbot@lichess": {
+    "id": "enispythonbot",
+    "provider": "lichess",
+    "username": "enispythonbot",
+    "firstSeen": 1609574440098,
+    "lastSeen": 1609574489351
+  },
+  "chessismatter@lichess": {
+    "id": "chessismatter",
+    "provider": "lichess",
+    "username": "CheSSisMatter",
+    "firstSeen": 1609574756647,
+    "lastSeen": 1609574756647
+  }
+}
