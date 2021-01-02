@@ -1,0 +1,23 @@
+{
+  "enispythonbot@lichess": {
+    "id": "enispythonbot",
+    "provider": "lichess",
+    "username": "enispythonbot",
+    "firstSeen": 1609576673077,
+    "lastSeen": 1609578080148
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1609577301707,
+    "lastSeen": 1609578099869
+  },
+  "b-a-d-c-h-e-s-s@lichess": {
+    "id": "b-a-d-c-h-e-s-s",
+    "provider": "lichess",
+    "username": "B-A-D-C-H-E-S-S",
+    "firstSeen": 1609578448783,
+    "lastSeen": 1609578448783
+  }
+}
