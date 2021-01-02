@@ -1,0 +1,26 @@
+{
+  "enispythonbot@lichess": {
+    "id": "enispythonbot",
+    "provider": "lichess",
+    "username": "enispythonbot",
+    "firstSeen": 1609584176323,
+    "lastSeen": 1609595970043,
+    "firstSeenTime": "10:42:56 AM",
+    "lastSeenTime": "10:43:14 AM",
+    "onlineDurationMins": 0.3017
+  },
+  "thecervantes@lichess": {
+    "id": "thecervantes",
+    "provider": "lichess",
+    "username": "thecervantes",
+    "firstSeen": 1609596219872,
+    "lastSeen": 1609596348291
+  },
+  "wren_bot@lichess": {
+    "id": "wren_bot",
+    "provider": "lichess",
+    "username": "Wren_bot",
+    "firstSeen": 1609596373768,
+    "lastSeen": 1609596373768
+  }
+}
