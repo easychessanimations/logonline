@@ -1,0 +1,29 @@
+{
+  "enispythonbot@lichess": {
+    "id": "enispythonbot",
+    "provider": "lichess",
+    "username": "enispythonbot",
+    "firstSeen": 1609584176323,
+    "lastSeen": 1609607727162,
+    "firstSeenTime": "10:42:56 AM",
+    "lastSeenTime": "4:47:43 PM",
+    "onlineDurationMins": 364.7931
+  },
+  "chessandtechsbot@lichess": {
+    "id": "chessandtechsbot",
+    "provider": "lichess",
+    "username": "Chessandtechsbot",
+    "firstSeen": 1609597981660,
+    "lastSeen": 1609607988767,
+    "firstSeenTime": "2:33:01 PM",
+    "lastSeenTime": "4:45:45 PM",
+    "onlineDurationMins": 132.7226
+  },
+  "kleverchessbot@lichess": {
+    "id": "kleverchessbot",
+    "provider": "lichess",
+    "username": "KleverChessBot",
+    "firstSeen": 1609608266429,
+    "lastSeen": 1609608266429
+  }
+}
