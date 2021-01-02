@@ -1,0 +1,47 @@
+{
+  "enispythonbot@lichess": {
+    "id": "enispythonbot",
+    "provider": "lichess",
+    "username": "enispythonbot",
+    "firstSeen": 1609584176323,
+    "lastSeen": 1609599376843,
+    "firstSeenTime": "10:42:56 AM",
+    "lastSeenTime": "1:59:30 PM",
+    "onlineDurationMins": 196.562
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1609597664243,
+    "lastSeen": 1609599278877
+  },
+  "chessandtechsbot@lichess": {
+    "id": "chessandtechsbot",
+    "provider": "lichess",
+    "username": "Chessandtechsbot",
+    "firstSeen": 1609597981660,
+    "lastSeen": 1609599348796
+  },
+  "superjerobot@lichess": {
+    "id": "superjerobot",
+    "provider": "lichess",
+    "username": "SuperJeroBot",
+    "firstSeen": 1609598683040,
+    "lastSeen": 1609599385477
+  },
+  "orangethechecks@lichess": {
+    "id": "orangethechecks",
+    "provider": "lichess",
+    "username": "OrangeTheChecks",
+    "firstSeen": 1609598803580,
+    "lastSeen": 1609599353699
+  },
+  "krishna1312@lichess": {
+    "id": "krishna1312",
+    "provider": "lichess",
+    "username": "krishna1312",
+    "firstSeen": 1609599424916,
+    "lastSeen": 1609599424916
+  }
+}
