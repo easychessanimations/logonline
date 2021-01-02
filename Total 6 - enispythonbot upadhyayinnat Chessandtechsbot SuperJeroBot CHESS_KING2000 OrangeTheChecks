@@ -1,0 +1,56 @@
+{
+  "enispythonbot@lichess": {
+    "id": "enispythonbot",
+    "provider": "lichess",
+    "username": "enispythonbot",
+    "firstSeen": 1609584176323,
+    "lastSeen": 1609601076848,
+    "firstSeenTime": "10:42:56 AM",
+    "lastSeenTime": "2:58:06 PM",
+    "onlineDurationMins": 255.16138333333333
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1609597664243,
+    "lastSeen": 1609600797569,
+    "firstSeenTime": "2:27:44 PM",
+    "lastSeenTime": "2:54:38 PM",
+    "onlineDurationMins": 26.910566666666668
+  },
+  "chessandtechsbot@lichess": {
+    "id": "chessandtechsbot",
+    "provider": "lichess",
+    "username": "Chessandtechsbot",
+    "firstSeen": 1609597981660,
+    "lastSeen": 1609600986118,
+    "firstSeenTime": "2:33:01 PM",
+    "lastSeenTime": "2:58:06 PM",
+    "onlineDurationMins": 25.074533333333335
+  },
+  "superjerobot@lichess": {
+    "id": "superjerobot",
+    "provider": "lichess",
+    "username": "SuperJeroBot",
+    "firstSeen": 1609598683040,
+    "lastSeen": 1609600807100,
+    "firstSeenTime": "2:44:43 PM",
+    "lastSeenTime": "3:00:22 PM",
+    "onlineDurationMins": 15.66525
+  },
+  "chess_king2000@lichess": {
+    "id": "chess_king2000",
+    "provider": "lichess",
+    "username": "CHESS_KING2000",
+    "firstSeen": 1609600649124,
+    "lastSeen": 1609600822936
+  },
+  "orangethechecks@lichess": {
+    "id": "orangethechecks",
+    "provider": "lichess",
+    "username": "OrangeTheChecks",
+    "firstSeen": 1609601155271,
+    "lastSeen": 1609601155271
+  }
+}
