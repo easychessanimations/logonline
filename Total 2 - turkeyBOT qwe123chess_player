@@ -1,0 +1,19 @@
+{
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1609766779837,
+    "lastSeen": 1609774127365,
+    "firstSeenTime": "1:26:19 PM",
+    "lastSeenTime": "2:43:24 PM",
+    "onlineDurationMins": 77.0712
+  },
+  "qwe123chess_player@lichess": {
+    "id": "qwe123chess_player",
+    "provider": "lichess",
+    "username": "qwe123chess_player",
+    "firstSeen": 1609774614215,
+    "lastSeen": 1609774614216
+  }
+}
