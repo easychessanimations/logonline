@@ -1,0 +1,23 @@
+{
+  "ectsybot@lichess": {
+    "id": "ectsybot",
+    "provider": "lichess",
+    "username": "ectsybot",
+    "firstSeen": 1609735014117,
+    "lastSeen": 1609740380658
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1609738673979,
+    "lastSeen": 1609740131770
+  },
+  "bot-king@lichess": {
+    "id": "bot-king",
+    "provider": "lichess",
+    "username": "bOt-kInG",
+    "firstSeen": 1609740594985,
+    "lastSeen": 1609740594985
+  }
+}
