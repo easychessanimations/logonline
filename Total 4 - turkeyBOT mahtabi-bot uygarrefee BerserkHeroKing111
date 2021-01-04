@@ -1,0 +1,30 @@
+{
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1609759924573,
+    "lastSeen": 1609763290578
+  },
+  "mahtabi-bot@lichess": {
+    "id": "mahtabi-bot",
+    "provider": "lichess",
+    "username": "mahtabi-bot",
+    "firstSeen": 1609762399928,
+    "lastSeen": 1609762655532
+  },
+  "uygarrefee@lichess": {
+    "id": "uygarrefee",
+    "provider": "lichess",
+    "username": "uygarrefee",
+    "firstSeen": 1609762854743,
+    "lastSeen": 1609763019423
+  },
+  "berserkheroking111@lichess": {
+    "id": "berserkheroking111",
+    "provider": "lichess",
+    "username": "BerserkHeroKing111",
+    "firstSeen": 1609763486005,
+    "lastSeen": 1609763486006
+  }
+}
