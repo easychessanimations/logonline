@@ -1,0 +1,26 @@
+{
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1609824354194,
+    "lastSeen": 1609835160245,
+    "firstSeenTime": "5:25:54 AM",
+    "lastSeenTime": "6:10:59 AM",
+    "onlineDurationMins": 45.09465
+  },
+  "uygarrefee@lichess": {
+    "id": "uygarrefee",
+    "provider": "lichess",
+    "username": "uygarrefee",
+    "firstSeen": 1609829734908,
+    "lastSeen": 1609834442049
+  },
+  "noobbot1302@lichess": {
+    "id": "noobbot1302",
+    "provider": "lichess",
+    "username": "NoobBot1302",
+    "firstSeen": 1609835191951,
+    "lastSeen": 1609835191951
+  }
+}
