@@ -3,14 +3,17 @@
     "id": "turkeybot",
     "provider": "lichess",
     "username": "turkeyBOT",
-    "firstSeen": 1609569484659,
-    "lastSeen": 1609570807190
+    "firstSeen": 1609824354194,
+    "lastSeen": 1609835160245,
+    "firstSeenTime": "5:25:54 AM",
+    "lastSeenTime": "6:10:59 AM",
+    "onlineDurationMins": 45.09465
   },
   "noobbot1302@lichess": {
     "id": "noobbot1302",
     "provider": "lichess",
     "username": "NoobBot1302",
-    "firstSeen": 1609570899531,
-    "lastSeen": 1609570899531
+    "firstSeen": 1609835191951,
+    "lastSeen": 1609835204374
   }
 }
