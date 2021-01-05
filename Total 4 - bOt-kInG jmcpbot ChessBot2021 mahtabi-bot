@@ -1,0 +1,30 @@
+{
+  "bot-king@lichess": {
+    "id": "bot-king",
+    "provider": "lichess",
+    "username": "bOt-kInG",
+    "firstSeen": 1609843632445,
+    "lastSeen": 1609843794063
+  },
+  "jmcpbot@lichess": {
+    "id": "jmcpbot",
+    "provider": "lichess",
+    "username": "jmcpbot",
+    "firstSeen": 1609843647753,
+    "lastSeen": 1609844605973
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1609844023904,
+    "lastSeen": 1609844480914
+  },
+  "mahtabi-bot@lichess": {
+    "id": "mahtabi-bot",
+    "provider": "lichess",
+    "username": "mahtabi-bot",
+    "firstSeen": 1609844259001,
+    "lastSeen": 1609844478211
+  }
+}
