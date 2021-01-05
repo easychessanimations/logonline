@@ -1,0 +1,30 @@
+{
+  "iplayrandommoves@lichess": {
+    "id": "iplayrandommoves",
+    "provider": "lichess",
+    "username": "IPlayRandomMoves",
+    "firstSeen": 1609823289225,
+    "lastSeen": 1609823935381
+  },
+  "kleverchessbot@lichess": {
+    "id": "kleverchessbot",
+    "provider": "lichess",
+    "username": "KleverChessBot",
+    "firstSeen": 1609823780062,
+    "lastSeen": 1609823783506
+  },
+  "tryingtobeagm@lichess": {
+    "id": "tryingtobeagm",
+    "provider": "lichess",
+    "username": "tryingtobeagm",
+    "firstSeen": 1609824157785,
+    "lastSeen": 1609824341883
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1609824354194,
+    "lastSeen": 1609824354194
+  }
+}
