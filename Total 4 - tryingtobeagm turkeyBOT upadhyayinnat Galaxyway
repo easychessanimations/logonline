@@ -1,0 +1,42 @@
+{
+  "tryingtobeagm@lichess": {
+    "id": "tryingtobeagm",
+    "provider": "lichess",
+    "username": "tryingtobeagm",
+    "firstSeen": 1609824157785,
+    "lastSeen": 1609827164769,
+    "firstSeenTime": "5:22:37 AM",
+    "lastSeenTime": "6:12:44 AM",
+    "onlineDurationMins": 50.1164
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1609824354194,
+    "lastSeen": 1609827311227,
+    "firstSeenTime": "5:25:54 AM",
+    "lastSeenTime": "6:10:59 AM",
+    "onlineDurationMins": 45.09465
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1609825747154,
+    "lastSeen": 1609827021925,
+    "firstSeenTime": "5:49:07 AM",
+    "lastSeenTime": "6:10:21 AM",
+    "onlineDurationMins": 21.246183333333335
+  },
+  "galaxyway@lichess": {
+    "id": "galaxyway",
+    "provider": "lichess",
+    "username": "Galaxyway",
+    "firstSeen": 1609827171231,
+    "lastSeen": 1609827255362,
+    "firstSeenTime": "6:12:51 AM",
+    "lastSeenTime": "6:12:57 AM",
+    "onlineDurationMins": 0.10851666666666666
+  }
+}
