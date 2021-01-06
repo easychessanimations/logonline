@@ -1,0 +1,29 @@
+{
+  "fastandfurious10@lichess": {
+    "id": "fastandfurious10",
+    "provider": "lichess",
+    "username": "fastandfurious10",
+    "firstSeen": 1609926352824,
+    "lastSeen": 1609929717952,
+    "firstSeenTime": "9:45:52 AM",
+    "lastSeenTime": "10:31:01 AM",
+    "onlineDurationMins": 45.150016666666666
+  },
+  "classical-bot@lichess": {
+    "id": "classical-bot",
+    "provider": "lichess",
+    "username": "Classical-Bot",
+    "firstSeen": 1609927901912,
+    "lastSeen": 1609929566684,
+    "firstSeenTime": "10:11:41 AM",
+    "lastSeenTime": "10:27:31 AM",
+    "onlineDurationMins": 15.824266666666666
+  },
+  "thesamsun55@lichess": {
+    "id": "thesamsun55",
+    "provider": "lichess",
+    "username": "TheSamsun55",
+    "firstSeen": 1609929624167,
+    "lastSeen": 1609929670215
+  }
+}
