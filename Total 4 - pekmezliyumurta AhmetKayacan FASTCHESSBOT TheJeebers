@@ -1,0 +1,33 @@
+{
+  "pekmezliyumurta@lichess": {
+    "id": "pekmezliyumurta",
+    "provider": "lichess",
+    "username": "pekmezliyumurta",
+    "firstSeen": 1609948258032,
+    "lastSeen": 1609960558796,
+    "firstSeenTime": "3:50:58 PM",
+    "lastSeenTime": "5:52:04 PM",
+    "onlineDurationMins": 121.10646666666666
+  },
+  "ahmetkayacan@lichess": {
+    "id": "ahmetkayacan",
+    "provider": "lichess",
+    "username": "AhmetKayacan",
+    "firstSeen": 1609959776640,
+    "lastSeen": 1609960504846
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1609960085311,
+    "lastSeen": 1609960094307
+  },
+  "thejeebers@lichess": {
+    "id": "thejeebers",
+    "provider": "lichess",
+    "username": "TheJeebers",
+    "firstSeen": 1609960560785,
+    "lastSeen": 1609960560785
+  }
+}
