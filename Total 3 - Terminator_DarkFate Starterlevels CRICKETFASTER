@@ -1,0 +1,29 @@
+{
+  "terminator_darkfate@lichess": {
+    "id": "terminator_darkfate",
+    "provider": "lichess",
+    "username": "Terminator_DarkFate",
+    "firstSeen": 1609922789320,
+    "lastSeen": 1609924376072,
+    "firstSeenTime": "8:46:29 AM",
+    "lastSeenTime": "9:12:56 AM",
+    "onlineDurationMins": 26.445866666666667
+  },
+  "starterlevels@lichess": {
+    "id": "starterlevels",
+    "provider": "lichess",
+    "username": "Starterlevels",
+    "firstSeen": 1609924483655,
+    "lastSeen": 1609924717258,
+    "firstSeenTime": "9:14:43 AM",
+    "lastSeenTime": "9:15:16 AM",
+    "onlineDurationMins": 0.5549333333333333
+  },
+  "cricketfaster@lichess": {
+    "id": "cricketfaster",
+    "provider": "lichess",
+    "username": "CRICKETFASTER",
+    "firstSeen": 1609924718831,
+    "lastSeen": 1609924718831
+  }
+}
