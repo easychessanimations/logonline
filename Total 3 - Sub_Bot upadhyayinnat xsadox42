@@ -1,0 +1,26 @@
+{
+  "sub_bot@lichess": {
+    "id": "sub_bot",
+    "provider": "lichess",
+    "username": "Sub_Bot",
+    "firstSeen": 1610035720882,
+    "lastSeen": 1610042886279,
+    "firstSeenTime": "4:08:40 PM",
+    "lastSeenTime": "4:46:44 PM",
+    "onlineDurationMins": 38.05426666666666
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1610039828729,
+    "lastSeen": 1610043432308
+  },
+  "xsadox42@lichess": {
+    "id": "xsadox42",
+    "provider": "lichess",
+    "username": "xsadox42",
+    "firstSeen": 1610043521390,
+    "lastSeen": 1610043521391
+  }
+}
