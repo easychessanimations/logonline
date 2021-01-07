@@ -1,0 +1,22 @@
+{
+  "star_2020@lichess": {
+    "id": "star_2020",
+    "provider": "lichess",
+    "username": "Star_2020",
+    "firstSeen": 1610022402046,
+    "lastSeen": 1610028102099,
+    "firstSeenTime": "12:26:42 PM",
+    "lastSeenTime": "1:41:41 PM",
+    "onlineDurationMins": 74.99866666666667
+  },
+  "grandchessbot@lichess": {
+    "id": "grandchessbot",
+    "provider": "lichess",
+    "username": "GrandChessBot",
+    "firstSeen": 1610026990030,
+    "lastSeen": 1610027374427,
+    "firstSeenTime": "1:43:10 PM",
+    "lastSeenTime": "1:43:16 PM",
+    "onlineDurationMins": 0.10526666666666666
+  }
+}
