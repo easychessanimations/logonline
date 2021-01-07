@@ -1,0 +1,26 @@
+{
+  "kvothearcane@lichess": {
+    "id": "kvothearcane",
+    "provider": "lichess",
+    "username": "KvotheArcane",
+    "firstSeen": 1610031931199,
+    "lastSeen": 1610035352504,
+    "firstSeenTime": "3:05:31 PM",
+    "lastSeenTime": "3:30:32 PM",
+    "onlineDurationMins": 25.0201
+  },
+  "suban1@lichess": {
+    "id": "suban1",
+    "provider": "lichess",
+    "username": "Suban1",
+    "firstSeen": 1610035429919,
+    "lastSeen": 1610035447703
+  },
+  "sub_bot@lichess": {
+    "id": "sub_bot",
+    "provider": "lichess",
+    "username": "Sub_Bot",
+    "firstSeen": 1610035720882,
+    "lastSeen": 1610035720882
+  }
+}
