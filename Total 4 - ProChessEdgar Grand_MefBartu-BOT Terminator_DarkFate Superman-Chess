@@ -1,0 +1,42 @@
+{
+  "prochessedgar@lichess": {
+    "id": "prochessedgar",
+    "provider": "lichess",
+    "username": "ProChessEdgar",
+    "firstSeen": 1610009692027,
+    "lastSeen": 1610016762659,
+    "firstSeenTime": "8:54:52 AM",
+    "lastSeenTime": "10:37:02 AM",
+    "onlineDurationMins": 102.18266666666666
+  },
+  "grand_mefbartu-bot@lichess": {
+    "id": "grand_mefbartu-bot",
+    "provider": "lichess",
+    "username": "Grand_MefBartu-BOT",
+    "firstSeen": 1610012130078,
+    "lastSeen": 1610016405379,
+    "firstSeenTime": "9:35:30 AM",
+    "lastSeenTime": "10:38:55 AM",
+    "onlineDurationMins": 63.41916666666667
+  },
+  "terminator_darkfate@lichess": {
+    "id": "terminator_darkfate",
+    "provider": "lichess",
+    "username": "Terminator_DarkFate",
+    "firstSeen": 1610013096246,
+    "lastSeen": 1610016854796,
+    "firstSeenTime": "9:51:36 AM",
+    "lastSeenTime": "10:39:04 AM",
+    "onlineDurationMins": 47.470816666666664
+  },
+  "superman-chess@lichess": {
+    "id": "superman-chess",
+    "provider": "lichess",
+    "username": "Superman-Chess",
+    "firstSeen": 1610013663222,
+    "lastSeen": 1610016691498,
+    "firstSeenTime": "10:01:03 AM",
+    "lastSeenTime": "10:38:09 AM",
+    "onlineDurationMins": 37.11005
+  }
+}
