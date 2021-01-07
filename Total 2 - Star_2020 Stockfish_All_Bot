@@ -1,0 +1,19 @@
+{
+  "star_2020@lichess": {
+    "id": "star_2020",
+    "provider": "lichess",
+    "username": "Star_2020",
+    "firstSeen": 1610022402046,
+    "lastSeen": 1610028766046,
+    "firstSeenTime": "12:26:42 PM",
+    "lastSeenTime": "1:41:41 PM",
+    "onlineDurationMins": 74.99866666666667
+  },
+  "stockfish_all_bot@lichess": {
+    "id": "stockfish_all_bot",
+    "provider": "lichess",
+    "username": "Stockfish_All_Bot",
+    "firstSeen": 1610028887449,
+    "lastSeen": 1610028887449
+  }
+}
