@@ -1,0 +1,36 @@
+{
+  "star_2020@lichess": {
+    "id": "star_2020",
+    "provider": "lichess",
+    "username": "Star_2020",
+    "firstSeen": 1610022402046,
+    "lastSeen": 1610031402035,
+    "firstSeenTime": "12:26:42 PM",
+    "lastSeenTime": "2:45:46 PM",
+    "onlineDurationMins": 139.06781666666666
+  },
+  "windows7pro@lichess": {
+    "id": "windows7pro",
+    "provider": "lichess",
+    "username": "Windows7Pro",
+    "firstSeen": 1610029773032,
+    "lastSeen": 1610031518718,
+    "firstSeenTime": "2:29:33 PM",
+    "lastSeenTime": "2:39:07 PM",
+    "onlineDurationMins": 9.578616666666667
+  },
+  "pekmezliyumurta@lichess": {
+    "id": "pekmezliyumurta",
+    "provider": "lichess",
+    "username": "pekmezliyumurta",
+    "firstSeen": 1610030996103,
+    "lastSeen": 1610031686987
+  },
+  "kvothearcane@lichess": {
+    "id": "kvothearcane",
+    "provider": "lichess",
+    "username": "KvotheArcane",
+    "firstSeen": 1610031931199,
+    "lastSeen": 1610031931199
+  }
+}
