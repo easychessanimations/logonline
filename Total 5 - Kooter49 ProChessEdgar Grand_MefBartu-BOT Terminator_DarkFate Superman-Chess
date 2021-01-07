@@ -1,0 +1,46 @@
+{
+  "kooter49@lichess": {
+    "id": "kooter49",
+    "provider": "lichess",
+    "username": "Kooter49",
+    "firstSeen": 1610008369869,
+    "lastSeen": 1610013896017,
+    "firstSeenTime": "8:32:49 AM",
+    "lastSeenTime": "9:39:56 AM",
+    "onlineDurationMins": 67.10396666666666
+  },
+  "prochessedgar@lichess": {
+    "id": "prochessedgar",
+    "provider": "lichess",
+    "username": "ProChessEdgar",
+    "firstSeen": 1610009692027,
+    "lastSeen": 1610013982491,
+    "firstSeenTime": "8:54:52 AM",
+    "lastSeenTime": "9:41:39 AM",
+    "onlineDurationMins": 46.79343333333333
+  },
+  "grand_mefbartu-bot@lichess": {
+    "id": "grand_mefbartu-bot",
+    "provider": "lichess",
+    "username": "Grand_MefBartu-BOT",
+    "firstSeen": 1610012130078,
+    "lastSeen": 1610013632249,
+    "firstSeenTime": "9:35:30 AM",
+    "lastSeenTime": "9:35:39 AM",
+    "onlineDurationMins": 0.16168333333333335
+  },
+  "terminator_darkfate@lichess": {
+    "id": "terminator_darkfate",
+    "provider": "lichess",
+    "username": "Terminator_DarkFate",
+    "firstSeen": 1610013096246,
+    "lastSeen": 1610013920967
+  },
+  "superman-chess@lichess": {
+    "id": "superman-chess",
+    "provider": "lichess",
+    "username": "Superman-Chess",
+    "firstSeen": 1610013663222,
+    "lastSeen": 1610013919690
+  }
+}
