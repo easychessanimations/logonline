@@ -1,0 +1,32 @@
+{
+  "star_2020@lichess": {
+    "id": "star_2020",
+    "provider": "lichess",
+    "username": "Star_2020",
+    "firstSeen": 1610022402046,
+    "lastSeen": 1610033321943,
+    "firstSeenTime": "12:26:42 PM",
+    "lastSeenTime": "3:18:46 PM",
+    "onlineDurationMins": 172.07993333333334
+  },
+  "kvothearcane@lichess": {
+    "id": "kvothearcane",
+    "provider": "lichess",
+    "username": "KvotheArcane",
+    "firstSeen": 1610031931199,
+    "lastSeen": 1610033432405,
+    "firstSeenTime": "3:05:31 PM",
+    "lastSeenTime": "3:18:35 PM",
+    "onlineDurationMins": 13.073183333333333
+  },
+  "ufopro@lichess": {
+    "id": "ufopro",
+    "provider": "lichess",
+    "username": "ufopro",
+    "firstSeen": 1610032204312,
+    "lastSeen": 1610033442733,
+    "firstSeenTime": "3:10:04 PM",
+    "lastSeenTime": "3:16:46 PM",
+    "onlineDurationMins": 6.703333333333333
+  }
+}
