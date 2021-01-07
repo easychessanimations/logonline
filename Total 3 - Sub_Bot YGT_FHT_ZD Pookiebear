@@ -1,0 +1,29 @@
+{
+  "sub_bot@lichess": {
+    "id": "sub_bot",
+    "provider": "lichess",
+    "username": "Sub_Bot",
+    "firstSeen": 1610035720882,
+    "lastSeen": 1610038729465,
+    "firstSeenTime": "4:08:40 PM",
+    "lastSeenTime": "4:46:44 PM",
+    "onlineDurationMins": 38.05426666666666
+  },
+  "ygt_fht_zd@lichess": {
+    "id": "ygt_fht_zd",
+    "provider": "lichess",
+    "username": "YGT_FHT_ZD",
+    "firstSeen": 1610037876288,
+    "lastSeen": 1610038368235,
+    "firstSeenTime": "4:44:36 PM",
+    "lastSeenTime": "4:46:47 PM",
+    "onlineDurationMins": 2.183483333333333
+  },
+  "pookiebear@lichess": {
+    "id": "pookiebear",
+    "provider": "lichess",
+    "username": "Pookiebear",
+    "firstSeen": 1610039259934,
+    "lastSeen": 1610039259934
+  }
+}
