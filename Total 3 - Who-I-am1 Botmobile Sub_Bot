@@ -1,0 +1,29 @@
+{
+  "who-i-am1@lichess": {
+    "id": "who-i-am1",
+    "provider": "lichess",
+    "username": "Who-I-am1",
+    "firstSeen": 1610103801276,
+    "lastSeen": 1610112738524,
+    "firstSeenTime": "11:03:21 AM",
+    "lastSeenTime": "1:19:26 PM",
+    "onlineDurationMins": 136.08868333333334
+  },
+  "botmobile@lichess": {
+    "id": "botmobile",
+    "provider": "lichess",
+    "username": "Botmobile",
+    "firstSeen": 1610111628838,
+    "lastSeen": 1610112291892,
+    "firstSeenTime": "1:13:48 PM",
+    "lastSeenTime": "1:24:51 PM",
+    "onlineDurationMins": 11.0509
+  },
+  "sub_bot@lichess": {
+    "id": "sub_bot",
+    "provider": "lichess",
+    "username": "Sub_Bot",
+    "firstSeen": 1610112791427,
+    "lastSeen": 1610112791428
+  }
+}
