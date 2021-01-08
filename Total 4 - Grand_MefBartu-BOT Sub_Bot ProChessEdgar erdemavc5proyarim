@@ -1,0 +1,33 @@
+{
+  "grand_mefbartu-bot@lichess": {
+    "id": "grand_mefbartu-bot",
+    "provider": "lichess",
+    "username": "Grand_MefBartu-BOT",
+    "firstSeen": 1610087220008,
+    "lastSeen": 1610102855250,
+    "firstSeenTime": "6:27:00 AM",
+    "lastSeenTime": "9:20:58 AM",
+    "onlineDurationMins": 173.97711666666666
+  },
+  "sub_bot@lichess": {
+    "id": "sub_bot",
+    "provider": "lichess",
+    "username": "Sub_Bot",
+    "firstSeen": 1610098281301,
+    "lastSeen": 1610102785039
+  },
+  "prochessedgar@lichess": {
+    "id": "prochessedgar",
+    "provider": "lichess",
+    "username": "ProChessEdgar",
+    "firstSeen": 1610098731073,
+    "lastSeen": 1610102932052
+  },
+  "erdemavc5proyarim@lichess": {
+    "id": "erdemavc5proyarim",
+    "provider": "lichess",
+    "username": "erdemavc5proyarim",
+    "firstSeen": 1610102624919,
+    "lastSeen": 1610102847870
+  }
+}
