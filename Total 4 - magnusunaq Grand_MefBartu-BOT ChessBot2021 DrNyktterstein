@@ -1,0 +1,36 @@
+{
+  "magnusunaq@lichess": {
+    "id": "magnusunaq",
+    "provider": "lichess",
+    "username": "magnusunaq",
+    "firstSeen": 1610086069433,
+    "lastSeen": 1610092256059,
+    "firstSeenTime": "6:07:49 AM",
+    "lastSeenTime": "6:41:56 AM",
+    "onlineDurationMins": 34.11281666666667
+  },
+  "grand_mefbartu-bot@lichess": {
+    "id": "grand_mefbartu-bot",
+    "provider": "lichess",
+    "username": "Grand_MefBartu-BOT",
+    "firstSeen": 1610087220008,
+    "lastSeen": 1610092182882,
+    "firstSeenTime": "6:27:00 AM",
+    "lastSeenTime": "6:44:01 AM",
+    "onlineDurationMins": 17.0187
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1610090830987,
+    "lastSeen": 1610091599739
+  },
+  "drnyktterstein@lichess": {
+    "id": "drnyktterstein",
+    "provider": "lichess",
+    "username": "DrNyktterstein",
+    "firstSeen": 1610090840440,
+    "lastSeen": 1610092479475
+  }
+}
