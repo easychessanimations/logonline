@@ -1,0 +1,29 @@
+{
+  "sub_bot@lichess": {
+    "id": "sub_bot",
+    "provider": "lichess",
+    "username": "Sub_Bot",
+    "firstSeen": 1610118510142,
+    "lastSeen": 1610124883982,
+    "firstSeenTime": "3:08:30 PM",
+    "lastSeenTime": "4:32:33 PM",
+    "onlineDurationMins": 84.05286666666667
+  },
+  "anuworld@lichess": {
+    "id": "anuworld",
+    "provider": "lichess",
+    "username": "Anuworld",
+    "firstSeen": 1610121169638,
+    "lastSeen": 1610124405637,
+    "firstSeenTime": "3:52:49 PM",
+    "lastSeenTime": "4:21:03 PM",
+    "onlineDurationMins": 28.235383333333335
+  },
+  "fmuror02@lichess": {
+    "id": "fmuror02",
+    "provider": "lichess",
+    "username": "Fmuror02",
+    "firstSeen": 1610124754895,
+    "lastSeen": 1610125249916
+  }
+}
