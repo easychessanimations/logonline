@@ -1,0 +1,30 @@
+{
+  "sub_bot@lichess": {
+    "id": "sub_bot",
+    "provider": "lichess",
+    "username": "Sub_Bot",
+    "firstSeen": 1610118510142,
+    "lastSeen": 1610122284604
+  },
+  "who-i-am1@lichess": {
+    "id": "who-i-am1",
+    "provider": "lichess",
+    "username": "Who-I-am1",
+    "firstSeen": 1610118513133,
+    "lastSeen": 1610122290684
+  },
+  "anuworld@lichess": {
+    "id": "anuworld",
+    "provider": "lichess",
+    "username": "Anuworld",
+    "firstSeen": 1610121169638,
+    "lastSeen": 1610122249218
+  },
+  "sriramastockfish@lichess": {
+    "id": "sriramastockfish",
+    "provider": "lichess",
+    "username": "Sriramastockfish",
+    "firstSeen": 1610122315476,
+    "lastSeen": 1610122315476
+  }
+}
