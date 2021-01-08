@@ -1,0 +1,32 @@
+{
+  "grand_mefbartu-bot@lichess": {
+    "id": "grand_mefbartu-bot",
+    "provider": "lichess",
+    "username": "Grand_MefBartu-BOT",
+    "firstSeen": 1610087220008,
+    "lastSeen": 1610104895370,
+    "firstSeenTime": "6:27:00 AM",
+    "lastSeenTime": "11:03:07 AM",
+    "onlineDurationMins": 276.13026666666667
+  },
+  "sub_bot@lichess": {
+    "id": "sub_bot",
+    "provider": "lichess",
+    "username": "Sub_Bot",
+    "firstSeen": 1610098281301,
+    "lastSeen": 1610105425149,
+    "firstSeenTime": "9:31:21 AM",
+    "lastSeenTime": "11:02:21 AM",
+    "onlineDurationMins": 91.00985
+  },
+  "who-i-am1@lichess": {
+    "id": "who-i-am1",
+    "provider": "lichess",
+    "username": "Who-I-am1",
+    "firstSeen": 1610103801276,
+    "lastSeen": 1610105072323,
+    "firstSeenTime": "11:03:21 AM",
+    "lastSeenTime": "11:04:17 AM",
+    "onlineDurationMins": 0.9352666666666667
+  }
+}
