@@ -1,0 +1,36 @@
+{
+  "anuworld@lichess": {
+    "id": "anuworld",
+    "provider": "lichess",
+    "username": "Anuworld",
+    "firstSeen": 1610166780985,
+    "lastSeen": 1610183914900,
+    "firstSeenTime": "4:33:00 AM",
+    "lastSeenTime": "7:40:50 AM",
+    "onlineDurationMins": 187.83138333333332
+  },
+  "zero_lost@lichess": {
+    "id": "zero_lost",
+    "provider": "lichess",
+    "username": "Zero_lost",
+    "firstSeen": 1610175119262,
+    "lastSeen": 1610183469869,
+    "firstSeenTime": "6:51:59 AM",
+    "lastSeenTime": "7:40:52 AM",
+    "onlineDurationMins": 48.8827
+  },
+  "eagleeye2021@lichess": {
+    "id": "eagleeye2021",
+    "provider": "lichess",
+    "username": "EagleEye2021",
+    "firstSeen": 1610182557999,
+    "lastSeen": 1610183822165
+  },
+  "grand_mefbartu-bot@lichess": {
+    "id": "grand_mefbartu-bot",
+    "provider": "lichess",
+    "username": "Grand_MefBartu-BOT",
+    "firstSeen": 1610184063635,
+    "lastSeen": 1610184063635
+  }
+}
