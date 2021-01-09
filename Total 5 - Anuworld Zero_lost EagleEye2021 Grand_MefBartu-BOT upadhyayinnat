@@ -1,0 +1,49 @@
+{
+  "anuworld@lichess": {
+    "id": "anuworld",
+    "provider": "lichess",
+    "username": "Anuworld",
+    "firstSeen": 1610166780985,
+    "lastSeen": 1610184809291,
+    "firstSeenTime": "4:33:00 AM",
+    "lastSeenTime": "9:29:50 AM",
+    "onlineDurationMins": 296.81826666666666
+  },
+  "zero_lost@lichess": {
+    "id": "zero_lost",
+    "provider": "lichess",
+    "username": "Zero_lost",
+    "firstSeen": 1610175119262,
+    "lastSeen": 1610184853615,
+    "firstSeenTime": "6:51:59 AM",
+    "lastSeenTime": "9:33:09 AM",
+    "onlineDurationMins": 161.17808333333332
+  },
+  "eagleeye2021@lichess": {
+    "id": "eagleeye2021",
+    "provider": "lichess",
+    "username": "EagleEye2021",
+    "firstSeen": 1610182557999,
+    "lastSeen": 1610184709818,
+    "firstSeenTime": "8:55:57 AM",
+    "lastSeenTime": "9:31:49 AM",
+    "onlineDurationMins": 35.86365
+  },
+  "grand_mefbartu-bot@lichess": {
+    "id": "grand_mefbartu-bot",
+    "provider": "lichess",
+    "username": "Grand_MefBartu-BOT",
+    "firstSeen": 1610184063635,
+    "lastSeen": 1610184790742,
+    "firstSeenTime": "9:21:03 AM",
+    "lastSeenTime": "9:33:10 AM",
+    "onlineDurationMins": 12.11845
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1610185028029,
+    "lastSeen": 1610185028029
+  }
+}
