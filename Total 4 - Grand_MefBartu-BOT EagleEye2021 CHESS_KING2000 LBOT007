@@ -1,0 +1,36 @@
+{
+  "grand_mefbartu-bot@lichess": {
+    "id": "grand_mefbartu-bot",
+    "provider": "lichess",
+    "username": "Grand_MefBartu-BOT",
+    "firstSeen": 1610195767437,
+    "lastSeen": 1610200631006,
+    "firstSeenTime": "12:36:07 PM",
+    "lastSeenTime": "1:24:11 PM",
+    "onlineDurationMins": 48.062016666666665
+  },
+  "eagleeye2021@lichess": {
+    "id": "eagleeye2021",
+    "provider": "lichess",
+    "username": "EagleEye2021",
+    "firstSeen": 1610196476737,
+    "lastSeen": 1610200988430,
+    "firstSeenTime": "12:47:56 PM",
+    "lastSeenTime": "1:29:49 PM",
+    "onlineDurationMins": 41.8728
+  },
+  "chess_king2000@lichess": {
+    "id": "chess_king2000",
+    "provider": "lichess",
+    "username": "CHESS_KING2000",
+    "firstSeen": 1610199193171,
+    "lastSeen": 1610200696197
+  },
+  "lbot007@lichess": {
+    "id": "lbot007",
+    "provider": "lichess",
+    "username": "LBOT007",
+    "firstSeen": 1610200991961,
+    "lastSeen": 1610200991961
+  }
+}
