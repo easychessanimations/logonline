@@ -4,13 +4,19 @@
     "provider": "lichess",
     "username": "Anuworld",
     "firstSeen": 1610166780985,
-    "lastSeen": 1610175118070
+    "lastSeen": 1610179837685,
+    "firstSeenTime": "4:33:00 AM",
+    "lastSeenTime": "7:40:50 AM",
+    "onlineDurationMins": 187.83138333333332
   },
   "zero_lost@lichess": {
     "id": "zero_lost",
     "provider": "lichess",
     "username": "Zero_lost",
     "firstSeen": 1610175119262,
-    "lastSeen": 1610175119262
+    "lastSeen": 1610179743416,
+    "firstSeenTime": "6:51:59 AM",
+    "lastSeenTime": "7:40:52 AM",
+    "onlineDurationMins": 48.8827
   }
 }
