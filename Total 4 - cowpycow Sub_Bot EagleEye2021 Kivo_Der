@@ -1,0 +1,33 @@
+{
+  "cowpycow@lichess": {
+    "id": "cowpycow",
+    "provider": "lichess",
+    "username": "cowpycow",
+    "firstSeen": 1610205102737,
+    "lastSeen": 1610219327375,
+    "firstSeenTime": "3:11:42 PM",
+    "lastSeenTime": "4:10:47 PM",
+    "onlineDurationMins": 59.08198333333333
+  },
+  "sub_bot@lichess": {
+    "id": "sub_bot",
+    "provider": "lichess",
+    "username": "Sub_Bot",
+    "firstSeen": 1610213194524,
+    "lastSeen": 1610219341345
+  },
+  "eagleeye2021@lichess": {
+    "id": "eagleeye2021",
+    "provider": "lichess",
+    "username": "EagleEye2021",
+    "firstSeen": 1610218753933,
+    "lastSeen": 1610219565253
+  },
+  "kivo_der@lichess": {
+    "id": "kivo_der",
+    "provider": "lichess",
+    "username": "Kivo_Der",
+    "firstSeen": 1610219721433,
+    "lastSeen": 1610219721433
+  }
+}
