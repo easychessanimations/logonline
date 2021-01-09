@@ -1,0 +1,29 @@
+{
+  "efsocn@lichess": {
+    "id": "efsocn",
+    "provider": "lichess",
+    "username": "Efsocn",
+    "firstSeen": 1610202214036,
+    "lastSeen": 1610208648994,
+    "firstSeenTime": "2:23:34 PM",
+    "lastSeenTime": "4:10:48 PM",
+    "onlineDurationMins": 107.2493
+  },
+  "cowpycow@lichess": {
+    "id": "cowpycow",
+    "provider": "lichess",
+    "username": "cowpycow",
+    "firstSeen": 1610205102737,
+    "lastSeen": 1610208647656,
+    "firstSeenTime": "3:11:42 PM",
+    "lastSeenTime": "4:10:47 PM",
+    "onlineDurationMins": 59.08198333333333
+  },
+  "anuworld@lichess": {
+    "id": "anuworld",
+    "provider": "lichess",
+    "username": "Anuworld",
+    "firstSeen": 1610209063828,
+    "lastSeen": 1610209063828
+  }
+}
