@@ -1,0 +1,26 @@
+{
+  "cowpycow@lichess": {
+    "id": "cowpycow",
+    "provider": "lichess",
+    "username": "cowpycow",
+    "firstSeen": 1610205102737,
+    "lastSeen": 1610218604306,
+    "firstSeenTime": "3:11:42 PM",
+    "lastSeenTime": "4:10:47 PM",
+    "onlineDurationMins": 59.08198333333333
+  },
+  "sub_bot@lichess": {
+    "id": "sub_bot",
+    "provider": "lichess",
+    "username": "Sub_Bot",
+    "firstSeen": 1610213194524,
+    "lastSeen": 1610218092114
+  },
+  "kaganinkocasi@lichess": {
+    "id": "kaganinkocasi",
+    "provider": "lichess",
+    "username": "KaganinKocasi",
+    "firstSeen": 1610217784758,
+    "lastSeen": 1610217863074
+  }
+}
