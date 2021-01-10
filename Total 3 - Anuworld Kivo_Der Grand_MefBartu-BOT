@@ -1,0 +1,26 @@
+{
+  "anuworld@lichess": {
+    "id": "anuworld",
+    "provider": "lichess",
+    "username": "Anuworld",
+    "firstSeen": 1610267277170,
+    "lastSeen": 1610275019627,
+    "firstSeenTime": "8:27:57 AM",
+    "lastSeenTime": "10:10:16 AM",
+    "onlineDurationMins": 102.33023333333334
+  },
+  "kivo_der@lichess": {
+    "id": "kivo_der",
+    "provider": "lichess",
+    "username": "Kivo_Der",
+    "firstSeen": 1610274752350,
+    "lastSeen": 1610274761948
+  },
+  "grand_mefbartu-bot@lichess": {
+    "id": "grand_mefbartu-bot",
+    "provider": "lichess",
+    "username": "Grand_MefBartu-BOT",
+    "firstSeen": 1610275039400,
+    "lastSeen": 1610275039400
+  }
+}
