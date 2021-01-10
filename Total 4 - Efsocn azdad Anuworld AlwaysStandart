@@ -1,0 +1,36 @@
+{
+  "efsocn@lichess": {
+    "id": "efsocn",
+    "provider": "lichess",
+    "username": "Efsocn",
+    "firstSeen": 1610282460505,
+    "lastSeen": 1610303081562,
+    "firstSeenTime": "12:41:00 PM",
+    "lastSeenTime": "4:54:44 PM",
+    "onlineDurationMins": 253.73093333333333
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1610295627473,
+    "lastSeen": 1610302282938,
+    "firstSeenTime": "4:20:27 PM",
+    "lastSeenTime": "4:55:01 PM",
+    "onlineDurationMins": 34.56251666666667
+  },
+  "anuworld@lichess": {
+    "id": "anuworld",
+    "provider": "lichess",
+    "username": "Anuworld",
+    "firstSeen": 1610301530811,
+    "lastSeen": 1610303052002
+  },
+  "alwaysstandart@lichess": {
+    "id": "alwaysstandart",
+    "provider": "lichess",
+    "username": "AlwaysStandart",
+    "firstSeen": 1610302173141,
+    "lastSeen": 1610302687908
+  }
+}
