@@ -1,0 +1,29 @@
+{
+  "efsocn@lichess": {
+    "id": "efsocn",
+    "provider": "lichess",
+    "username": "Efsocn",
+    "firstSeen": 1610282460505,
+    "lastSeen": 1610295230518,
+    "firstSeenTime": "12:41:00 PM",
+    "lastSeenTime": "3:39:18 PM",
+    "onlineDurationMins": 178.29635
+  },
+  "eagleeye2021@lichess": {
+    "id": "eagleeye2021",
+    "provider": "lichess",
+    "username": "EagleEye2021",
+    "firstSeen": 1610291818652,
+    "lastSeen": 1610295626030,
+    "firstSeenTime": "3:16:58 PM",
+    "lastSeenTime": "3:39:05 PM",
+    "onlineDurationMins": 22.112433333333332
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1610295627473,
+    "lastSeen": 1610295627473
+  }
+}
