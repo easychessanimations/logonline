@@ -1,0 +1,42 @@
+{
+  "efsocn@lichess": {
+    "id": "efsocn",
+    "provider": "lichess",
+    "username": "Efsocn",
+    "firstSeen": 1610282460505,
+    "lastSeen": 1610304161534,
+    "firstSeenTime": "12:41:00 PM",
+    "lastSeenTime": "6:42:41 PM",
+    "onlineDurationMins": 361.68381666666664
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1610295627473,
+    "lastSeen": 1610304679560,
+    "firstSeenTime": "4:20:27 PM",
+    "lastSeenTime": "6:37:19 PM",
+    "onlineDurationMins": 136.86786666666666
+  },
+  "anuworld@lichess": {
+    "id": "anuworld",
+    "provider": "lichess",
+    "username": "Anuworld",
+    "firstSeen": 1610301530811,
+    "lastSeen": 1610304073522,
+    "firstSeenTime": "5:58:50 PM",
+    "lastSeenTime": "6:41:13 PM",
+    "onlineDurationMins": 42.37851666666667
+  },
+  "meren2007@lichess": {
+    "id": "meren2007",
+    "provider": "lichess",
+    "username": "meren2007",
+    "firstSeen": 1610304250407,
+    "lastSeen": 1610304813200,
+    "firstSeenTime": "6:44:10 PM",
+    "lastSeenTime": "6:46:20 PM",
+    "onlineDurationMins": 2.1678333333333333
+  }
+}
