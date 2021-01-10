@@ -1,0 +1,36 @@
+{
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1610282216110,
+    "lastSeen": 1610289411127,
+    "firstSeenTime": "12:36:56 PM",
+    "lastSeenTime": "2:26:33 PM",
+    "onlineDurationMins": 109.61611666666667
+  },
+  "efsocn@lichess": {
+    "id": "efsocn",
+    "provider": "lichess",
+    "username": "Efsocn",
+    "firstSeen": 1610282460505,
+    "lastSeen": 1610289618753,
+    "firstSeenTime": "12:41:00 PM",
+    "lastSeenTime": "2:29:18 PM",
+    "onlineDurationMins": 108.29878333333333
+  },
+  "bot-king@lichess": {
+    "id": "bot-king",
+    "provider": "lichess",
+    "username": "bOt-kInG",
+    "firstSeen": 1610289129733,
+    "lastSeen": 1610289914520
+  },
+  "botmobile@lichess": {
+    "id": "botmobile",
+    "provider": "lichess",
+    "username": "Botmobile",
+    "firstSeen": 1610290093009,
+    "lastSeen": 1610290093009
+  }
+}
