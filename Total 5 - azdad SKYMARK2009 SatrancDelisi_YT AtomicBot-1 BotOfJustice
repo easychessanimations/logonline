@@ -1,0 +1,43 @@
+{
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1610369434107,
+    "lastSeen": 1610379452643,
+    "firstSeenTime": "12:50:34 PM",
+    "lastSeenTime": "3:26:32 PM",
+    "onlineDurationMins": 155.97676666666666
+  },
+  "skymark2009@lichess": {
+    "id": "skymark2009",
+    "provider": "lichess",
+    "username": "SKYMARK2009",
+    "firstSeen": 1610378468626,
+    "lastSeen": 1610379927266,
+    "firstSeenTime": "3:21:08 PM",
+    "lastSeenTime": "3:26:15 PM",
+    "onlineDurationMins": 5.119266666666666
+  },
+  "satrancdelisi_yt@lichess": {
+    "id": "satrancdelisi_yt",
+    "provider": "lichess",
+    "username": "SatrancDelisi_YT",
+    "firstSeen": 1610379648219,
+    "lastSeen": 1610379812883
+  },
+  "atomicbot-1@lichess": {
+    "id": "atomicbot-1",
+    "provider": "lichess",
+    "username": "AtomicBot-1",
+    "firstSeen": 1610379911579,
+    "lastSeen": 1610379927802
+  },
+  "botofjustice@lichess": {
+    "id": "botofjustice",
+    "provider": "lichess",
+    "username": "BotOfJustice",
+    "firstSeen": 1610379928935,
+    "lastSeen": 1610379928935
+  }
+}
