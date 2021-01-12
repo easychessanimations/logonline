@@ -1,0 +1,33 @@
+{
+  "kivo_der@lichess": {
+    "id": "kivo_der",
+    "provider": "lichess",
+    "username": "Kivo_Der",
+    "firstSeen": 1610446920070,
+    "lastSeen": 1610452658027,
+    "firstSeenTime": "10:22:00 AM",
+    "lastSeenTime": "10:22:24 AM",
+    "onlineDurationMins": 0.41523333333333334
+  },
+  "anu_bot523@lichess": {
+    "id": "anu_bot523",
+    "provider": "lichess",
+    "username": "Anu_bot523",
+    "firstSeen": 1610452226087,
+    "lastSeen": 1610452633236
+  },
+  "stockfish_level_one1@lichess": {
+    "id": "stockfish_level_one1",
+    "provider": "lichess",
+    "username": "Stockfish_level_One1",
+    "firstSeen": 1610452254911,
+    "lastSeen": 1610452266304
+  },
+  "iplayrandommoves@lichess": {
+    "id": "iplayrandommoves",
+    "provider": "lichess",
+    "username": "IPlayRandomMoves",
+    "firstSeen": 1610452279606,
+    "lastSeen": 1610452290644
+  }
+}
