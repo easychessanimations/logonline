@@ -1,0 +1,39 @@
+{
+  "bulletchessbot@lichess": {
+    "id": "bulletchessbot",
+    "provider": "lichess",
+    "username": "BulletChessBot",
+    "firstSeen": 1610519520676,
+    "lastSeen": 1610522021685,
+    "firstSeenTime": "6:32:00 AM",
+    "lastSeenTime": "7:13:41 AM",
+    "onlineDurationMins": 41.683483333333335
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1610521056285,
+    "lastSeen": 1610521197617,
+    "firstSeenTime": "6:57:36 AM",
+    "lastSeenTime": "6:59:57 AM",
+    "onlineDurationMins": 2.3555333333333333
+  },
+  "anu_bot523@lichess": {
+    "id": "anu_bot523",
+    "provider": "lichess",
+    "username": "Anu_bot523",
+    "firstSeen": 1610521232431,
+    "lastSeen": 1610521832604,
+    "firstSeenTime": "7:00:32 AM",
+    "lastSeenTime": "7:10:32 AM",
+    "onlineDurationMins": 10.002883333333333
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1610522071301,
+    "lastSeen": 1610522071301
+  }
+}
