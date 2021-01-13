@@ -1,0 +1,23 @@
+{
+  "bulletchessbot@lichess": {
+    "id": "bulletchessbot",
+    "provider": "lichess",
+    "username": "BulletChessBot",
+    "firstSeen": 1610519520676,
+    "lastSeen": 1610521023941
+  },
+  "single-lion@lichess": {
+    "id": "single-lion",
+    "provider": "lichess",
+    "username": "Single-Lion",
+    "firstSeen": 1610521030922,
+    "lastSeen": 1610521055146
+  },
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1610521056285,
+    "lastSeen": 1610521056285
+  }
+}
