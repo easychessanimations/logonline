@@ -1,0 +1,30 @@
+{
+  "chessbot2021@lichess": {
+    "id": "chessbot2021",
+    "provider": "lichess",
+    "username": "ChessBot2021",
+    "firstSeen": 1610518273247,
+    "lastSeen": 1610519519500
+  },
+  "sandaludissa1234@lichess": {
+    "id": "sandaludissa1234",
+    "provider": "lichess",
+    "username": "sandaludissa1234",
+    "firstSeen": 1610519430004,
+    "lastSeen": 1610519583917
+  },
+  "sandalu@lichess": {
+    "id": "sandalu",
+    "provider": "lichess",
+    "username": "sandalu",
+    "firstSeen": 1610519502435,
+    "lastSeen": 1610519650851
+  },
+  "bulletchessbot@lichess": {
+    "id": "bulletchessbot",
+    "provider": "lichess",
+    "username": "BulletChessBot",
+    "firstSeen": 1610519520676,
+    "lastSeen": 1610519786234
+  }
+}
