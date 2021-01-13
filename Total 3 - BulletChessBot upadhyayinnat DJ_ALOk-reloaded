@@ -1,0 +1,26 @@
+{
+  "bulletchessbot@lichess": {
+    "id": "bulletchessbot",
+    "provider": "lichess",
+    "username": "BulletChessBot",
+    "firstSeen": 1610519520676,
+    "lastSeen": 1610522078707,
+    "firstSeenTime": "6:32:00 AM",
+    "lastSeenTime": "7:13:41 AM",
+    "onlineDurationMins": 41.683483333333335
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1610522071301,
+    "lastSeen": 1610522733451
+  },
+  "dj_alok-reloaded@lichess": {
+    "id": "dj_alok-reloaded",
+    "provider": "lichess",
+    "username": "DJ_ALOk-reloaded",
+    "firstSeen": 1610522584096,
+    "lastSeen": 1610522596853
+  }
+}
