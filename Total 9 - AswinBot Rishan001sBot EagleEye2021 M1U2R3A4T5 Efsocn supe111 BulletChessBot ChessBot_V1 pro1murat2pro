@@ -1,0 +1,80 @@
+{
+  "aswinbot@lichess": {
+    "id": "aswinbot",
+    "provider": "lichess",
+    "username": "AswinBot",
+    "firstSeen": 1610528660771,
+    "lastSeen": 1610532718575,
+    "firstSeenTime": "9:04:20 AM",
+    "lastSeenTime": "9:46:15 AM",
+    "onlineDurationMins": 41.918733333333336
+  },
+  "rishan001sbot@lichess": {
+    "id": "rishan001sbot",
+    "provider": "lichess",
+    "username": "Rishan001sBot",
+    "firstSeen": 1610529152017,
+    "lastSeen": 1610532551420,
+    "firstSeenTime": "9:12:32 AM",
+    "lastSeenTime": "9:46:14 AM",
+    "onlineDurationMins": 33.712916666666665
+  },
+  "eagleeye2021@lichess": {
+    "id": "eagleeye2021",
+    "provider": "lichess",
+    "username": "EagleEye2021",
+    "firstSeen": 1610529240055,
+    "lastSeen": 1610532768678,
+    "firstSeenTime": "9:14:00 AM",
+    "lastSeenTime": "9:46:02 AM",
+    "onlineDurationMins": 32.04005
+  },
+  "m1u2r3a4t5@lichess": {
+    "id": "m1u2r3a4t5",
+    "provider": "lichess",
+    "username": "M1U2R3A4T5",
+    "firstSeen": 1610530142788,
+    "lastSeen": 1610532549327,
+    "firstSeenTime": "9:29:02 AM",
+    "lastSeenTime": "9:48:25 AM",
+    "onlineDurationMins": 19.3707
+  },
+  "efsocn@lichess": {
+    "id": "efsocn",
+    "provider": "lichess",
+    "username": "Efsocn",
+    "firstSeen": 1610531152645,
+    "lastSeen": 1610532729956,
+    "firstSeenTime": "9:45:52 AM",
+    "lastSeenTime": "9:45:52 AM",
+    "onlineDurationMins": 0
+  },
+  "supe111@lichess": {
+    "id": "supe111",
+    "provider": "lichess",
+    "username": "supe111",
+    "firstSeen": 1610531345561,
+    "lastSeen": 1610532281992
+  },
+  "bulletchessbot@lichess": {
+    "id": "bulletchessbot",
+    "provider": "lichess",
+    "username": "BulletChessBot",
+    "firstSeen": 1610532151267,
+    "lastSeen": 1610532162958
+  },
+  "chessbot_v1@lichess": {
+    "id": "chessbot_v1",
+    "provider": "lichess",
+    "username": "ChessBot_V1",
+    "firstSeen": 1610532164144,
+    "lastSeen": 1610532178077
+  },
+  "pro1murat2pro@lichess": {
+    "id": "pro1murat2pro",
+    "provider": "lichess",
+    "username": "pro1murat2pro",
+    "firstSeen": 1610532551589,
+    "lastSeen": 1610532561127
+  }
+}
