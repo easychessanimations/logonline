@@ -1,0 +1,70 @@
+{
+  "aswinbot@lichess": {
+    "id": "aswinbot",
+    "provider": "lichess",
+    "username": "AswinBot",
+    "firstSeen": 1610528660771,
+    "lastSeen": 1610533794343,
+    "firstSeenTime": "9:04:20 AM",
+    "lastSeenTime": "9:46:15 AM",
+    "onlineDurationMins": 41.918733333333336
+  },
+  "rishan001sbot@lichess": {
+    "id": "rishan001sbot",
+    "provider": "lichess",
+    "username": "Rishan001sBot",
+    "firstSeen": 1610529152017,
+    "lastSeen": 1610533514638,
+    "firstSeenTime": "9:12:32 AM",
+    "lastSeenTime": "9:46:14 AM",
+    "onlineDurationMins": 33.712916666666665
+  },
+  "eagleeye2021@lichess": {
+    "id": "eagleeye2021",
+    "provider": "lichess",
+    "username": "EagleEye2021",
+    "firstSeen": 1610529240055,
+    "lastSeen": 1610533812975,
+    "firstSeenTime": "9:14:00 AM",
+    "lastSeenTime": "9:46:02 AM",
+    "onlineDurationMins": 32.04005
+  },
+  "efsocn@lichess": {
+    "id": "efsocn",
+    "provider": "lichess",
+    "username": "Efsocn",
+    "firstSeen": 1610531152645,
+    "lastSeen": 1610533653294,
+    "firstSeenTime": "9:45:52 AM",
+    "lastSeenTime": "9:45:52 AM",
+    "onlineDurationMins": 0
+  },
+  "chessbot_v1@lichess": {
+    "id": "chessbot_v1",
+    "provider": "lichess",
+    "username": "ChessBot_V1",
+    "firstSeen": 1610532164144,
+    "lastSeen": 1610533782385
+  },
+  "pro1murat2pro@lichess": {
+    "id": "pro1murat2pro",
+    "provider": "lichess",
+    "username": "pro1murat2pro",
+    "firstSeen": 1610532551589,
+    "lastSeen": 1610533217957
+  },
+  "upadhyayinnat@lichess": {
+    "id": "upadhyayinnat",
+    "provider": "lichess",
+    "username": "upadhyayinnat",
+    "firstSeen": 1610533625758,
+    "lastSeen": 1610533633334
+  },
+  "pswlodoths@lichess": {
+    "id": "pswlodoths",
+    "provider": "lichess",
+    "username": "pswlodoths",
+    "firstSeen": 1610533818095,
+    "lastSeen": 1610533818095
+  }
+}
