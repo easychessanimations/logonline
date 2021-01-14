@@ -1,0 +1,36 @@
+{
+  "legend_bot@lichess": {
+    "id": "legend_bot",
+    "provider": "lichess",
+    "username": "Legend_Bot",
+    "firstSeen": 1610620596774,
+    "lastSeen": 1610631162715,
+    "firstSeenTime": "10:36:36 AM",
+    "lastSeenTime": "1:17:47 PM",
+    "onlineDurationMins": 161.1803
+  },
+  "bjkstorm702@lichess": {
+    "id": "bjkstorm702",
+    "provider": "lichess",
+    "username": "Bjkstorm702",
+    "firstSeen": 1610626770784,
+    "lastSeen": 1610631460351,
+    "firstSeenTime": "12:19:30 PM",
+    "lastSeenTime": "1:18:43 PM",
+    "onlineDurationMins": 59.21661666666667
+  },
+  "captainmagic@lichess": {
+    "id": "captainmagic",
+    "provider": "lichess",
+    "username": "CaptainMagic",
+    "firstSeen": 1610631106387,
+    "lastSeen": 1610631149602
+  },
+  "destruyotusjugadas@lichess": {
+    "id": "destruyotusjugadas",
+    "provider": "lichess",
+    "username": "DESTRUYOTUSJUGADAS",
+    "firstSeen": 1610631466341,
+    "lastSeen": 1610631466341
+  }
+}
