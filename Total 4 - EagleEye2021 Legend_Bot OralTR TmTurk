@@ -1,0 +1,36 @@
+{
+  "eagleeye2021@lichess": {
+    "id": "eagleeye2021",
+    "provider": "lichess",
+    "username": "EagleEye2021",
+    "firstSeen": 1610615030440,
+    "lastSeen": 1610625479726,
+    "firstSeenTime": "9:03:50 AM",
+    "lastSeenTime": "11:07:24 AM",
+    "onlineDurationMins": 123.574
+  },
+  "legend_bot@lichess": {
+    "id": "legend_bot",
+    "provider": "lichess",
+    "username": "Legend_Bot",
+    "firstSeen": 1610620596774,
+    "lastSeen": 1610625479338,
+    "firstSeenTime": "10:36:36 AM",
+    "lastSeenTime": "11:11:40 AM",
+    "onlineDurationMins": 35.054566666666666
+  },
+  "oraltr@lichess": {
+    "id": "oraltr",
+    "provider": "lichess",
+    "username": "OralTR",
+    "firstSeen": 1610623703601,
+    "lastSeen": 1610624802057
+  },
+  "tmturk@lichess": {
+    "id": "tmturk",
+    "provider": "lichess",
+    "username": "TmTurk",
+    "firstSeen": 1610625507876,
+    "lastSeen": 1610625509313
+  }
+}
