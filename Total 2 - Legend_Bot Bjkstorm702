@@ -1,0 +1,22 @@
+{
+  "legend_bot@lichess": {
+    "id": "legend_bot",
+    "provider": "lichess",
+    "username": "Legend_Bot",
+    "firstSeen": 1610620596774,
+    "lastSeen": 1610628159569,
+    "firstSeenTime": "10:36:36 AM",
+    "lastSeenTime": "12:31:43 PM",
+    "onlineDurationMins": 115.1191
+  },
+  "bjkstorm702@lichess": {
+    "id": "bjkstorm702",
+    "provider": "lichess",
+    "username": "Bjkstorm702",
+    "firstSeen": 1610626770784,
+    "lastSeen": 1610627623738,
+    "firstSeenTime": "12:19:30 PM",
+    "lastSeenTime": "12:22:47 PM",
+    "onlineDurationMins": 3.2782666666666667
+  }
+}
