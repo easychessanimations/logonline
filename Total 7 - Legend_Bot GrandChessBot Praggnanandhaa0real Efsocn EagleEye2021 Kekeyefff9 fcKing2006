@@ -1,0 +1,63 @@
+{
+  "legend_bot@lichess": {
+    "id": "legend_bot",
+    "provider": "lichess",
+    "username": "Legend_Bot",
+    "firstSeen": 1610694702777,
+    "lastSeen": 1610698850448,
+    "firstSeenTime": "7:11:42 AM",
+    "lastSeenTime": "8:01:46 AM",
+    "onlineDurationMins": 50.06613333333333
+  },
+  "grandchessbot@lichess": {
+    "id": "grandchessbot",
+    "provider": "lichess",
+    "username": "GrandChessBot",
+    "firstSeen": 1610695966619,
+    "lastSeen": 1610698971181,
+    "firstSeenTime": "7:32:46 AM",
+    "lastSeenTime": "7:57:59 AM",
+    "onlineDurationMins": 25.2065
+  },
+  "praggnanandhaa0real@lichess": {
+    "id": "praggnanandhaa0real",
+    "provider": "lichess",
+    "username": "Praggnanandhaa0real",
+    "firstSeen": 1610697112510,
+    "lastSeen": 1610699156193,
+    "firstSeenTime": "7:51:52 AM",
+    "lastSeenTime": "8:02:56 AM",
+    "onlineDurationMins": 11.07335
+  },
+  "efsocn@lichess": {
+    "id": "efsocn",
+    "provider": "lichess",
+    "username": "Efsocn",
+    "firstSeen": 1610697684312,
+    "lastSeen": 1610699160861,
+    "firstSeenTime": "8:01:24 AM",
+    "lastSeenTime": "8:01:35 AM",
+    "onlineDurationMins": 0.1819
+  },
+  "eagleeye2021@lichess": {
+    "id": "eagleeye2021",
+    "provider": "lichess",
+    "username": "EagleEye2021",
+    "firstSeen": 1610698124856,
+    "lastSeen": 1610699000940
+  },
+  "kekeyefff9@lichess": {
+    "id": "kekeyefff9",
+    "provider": "lichess",
+    "username": "Kekeyefff9",
+    "firstSeen": 1610698403530,
+    "lastSeen": 1610699160596
+  },
+  "fcking2006@lichess": {
+    "id": "fcking2006",
+    "provider": "lichess",
+    "username": "fcKing2006",
+    "firstSeen": 1610699161863,
+    "lastSeen": 1610699161863
+  }
+}
