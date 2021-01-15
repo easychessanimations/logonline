@@ -1,0 +1,59 @@
+{
+  "gorilla_12@lichess": {
+    "id": "gorilla_12",
+    "provider": "lichess",
+    "username": "gorilla_12",
+    "firstSeen": 1610741524946,
+    "lastSeen": 1610746310984,
+    "firstSeenTime": "8:12:04 PM",
+    "lastSeenTime": "9:31:50 PM",
+    "onlineDurationMins": 79.7673
+  },
+  "thellamalover@lichess": {
+    "id": "thellamalover",
+    "provider": "lichess",
+    "username": "TheLlamaLover",
+    "firstSeen": 1610743466199,
+    "lastSeen": 1610746064496,
+    "firstSeenTime": "8:44:26 PM",
+    "lastSeenTime": "9:27:44 PM",
+    "onlineDurationMins": 43.30495
+  },
+  "n3wb0t@lichess": {
+    "id": "n3wb0t",
+    "provider": "lichess",
+    "username": "N3wB0t",
+    "firstSeen": 1610745854484,
+    "lastSeen": 1610746915626,
+    "firstSeenTime": "9:24:14 PM",
+    "lastSeenTime": "9:35:54 PM",
+    "onlineDurationMins": 11.663266666666667
+  },
+  "lolcheckmategg@lichess": {
+    "id": "lolcheckmategg",
+    "provider": "lichess",
+    "username": "LolCheckmategg",
+    "firstSeen": 1610746385006,
+    "lastSeen": 1610746925776,
+    "firstSeenTime": "9:33:05 PM",
+    "lastSeenTime": "9:33:14 PM",
+    "onlineDurationMins": 0.15946666666666667
+  },
+  "themostuselessbot@lichess": {
+    "id": "themostuselessbot",
+    "provider": "lichess",
+    "username": "TheMostUselessBot",
+    "firstSeen": 1610746470900,
+    "lastSeen": 1610746488332,
+    "firstSeenTime": "9:34:30 PM",
+    "lastSeenTime": "9:34:48 PM",
+    "onlineDurationMins": 0.2905333333333333
+  },
+  "thestockfishofchess@lichess": {
+    "id": "thestockfishofchess",
+    "provider": "lichess",
+    "username": "TheStockfishOfChess",
+    "firstSeen": 1610746927190,
+    "lastSeen": 1610746927190
+  }
+}
