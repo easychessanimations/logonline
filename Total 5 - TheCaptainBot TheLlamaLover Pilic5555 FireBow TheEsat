@@ -1,0 +1,40 @@
+{
+  "thecaptainbot@lichess": {
+    "id": "thecaptainbot",
+    "provider": "lichess",
+    "username": "TheCaptainBot",
+    "firstSeen": 1610732017764,
+    "lastSeen": 1610737234830,
+    "firstSeenTime": "5:33:37 PM",
+    "lastSeenTime": "6:29:13 PM",
+    "onlineDurationMins": 55.60086666666667
+  },
+  "thellamalover@lichess": {
+    "id": "thellamalover",
+    "provider": "lichess",
+    "username": "TheLlamaLover",
+    "firstSeen": 1610736431490,
+    "lastSeen": 1610736981416
+  },
+  "pilic5555@lichess": {
+    "id": "pilic5555",
+    "provider": "lichess",
+    "username": "Pilic5555",
+    "firstSeen": 1610736629852,
+    "lastSeen": 1610736925643
+  },
+  "firebow@lichess": {
+    "id": "firebow",
+    "provider": "lichess",
+    "username": "FireBow",
+    "firstSeen": 1610737188104,
+    "lastSeen": 1610737210272
+  },
+  "theesat@lichess": {
+    "id": "theesat",
+    "provider": "lichess",
+    "username": "TheEsat",
+    "firstSeen": 1610737540936,
+    "lastSeen": 1610737552237
+  }
+}
