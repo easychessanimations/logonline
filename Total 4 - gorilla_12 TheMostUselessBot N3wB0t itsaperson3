@@ -1,0 +1,36 @@
+{
+  "gorilla_12@lichess": {
+    "id": "gorilla_12",
+    "provider": "lichess",
+    "username": "gorilla_12",
+    "firstSeen": 1610741524946,
+    "lastSeen": 1610752276776,
+    "firstSeenTime": "8:12:04 PM",
+    "lastSeenTime": "9:42:16 PM",
+    "onlineDurationMins": 90.19638333333333
+  },
+  "themostuselessbot@lichess": {
+    "id": "themostuselessbot",
+    "provider": "lichess",
+    "username": "TheMostUselessBot",
+    "firstSeen": 1610746470900,
+    "lastSeen": 1610752149917,
+    "firstSeenTime": "9:34:30 PM",
+    "lastSeenTime": "9:45:42 PM",
+    "onlineDurationMins": 11.1963
+  },
+  "n3wb0t@lichess": {
+    "id": "n3wb0t",
+    "provider": "lichess",
+    "username": "N3wB0t",
+    "firstSeen": 1610751108736,
+    "lastSeen": 1610752558840
+  },
+  "itsaperson3@lichess": {
+    "id": "itsaperson3",
+    "provider": "lichess",
+    "username": "itsaperson3",
+    "firstSeen": 1610752633372,
+    "lastSeen": 1610752633372
+  }
+}
