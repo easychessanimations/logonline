@@ -1,0 +1,63 @@
+{
+  "legend_bot@lichess": {
+    "id": "legend_bot",
+    "provider": "lichess",
+    "username": "Legend_Bot",
+    "firstSeen": 1610694702777,
+    "lastSeen": 1610719227982,
+    "firstSeenTime": "7:11:42 AM",
+    "lastSeenTime": "1:06:31 PM",
+    "onlineDurationMins": 354.81528333333335
+  },
+  "eagleeye2021@lichess": {
+    "id": "eagleeye2021",
+    "provider": "lichess",
+    "username": "EagleEye2021",
+    "firstSeen": 1610710065385,
+    "lastSeen": 1610718761619,
+    "firstSeenTime": "11:27:45 AM",
+    "lastSeenTime": "1:05:39 PM",
+    "onlineDurationMins": 97.8967
+  },
+  "efsocn@lichess": {
+    "id": "efsocn",
+    "provider": "lichess",
+    "username": "Efsocn",
+    "firstSeen": 1610711882220,
+    "lastSeen": 1610719220127,
+    "firstSeenTime": "11:58:02 AM",
+    "lastSeenTime": "1:06:18 PM",
+    "onlineDurationMins": 68.26858333333334
+  },
+  "pilic5555@lichess": {
+    "id": "pilic5555",
+    "provider": "lichess",
+    "username": "Pilic5555",
+    "firstSeen": 1610712777989,
+    "lastSeen": 1610718925417,
+    "firstSeenTime": "12:12:57 PM",
+    "lastSeenTime": "1:05:25 PM",
+    "onlineDurationMins": 52.45636666666667
+  },
+  "sry_for_checkmat@lichess": {
+    "id": "sry_for_checkmat",
+    "provider": "lichess",
+    "username": "Sry_for_Checkmat",
+    "firstSeen": 1610718337952,
+    "lastSeen": 1610718359070
+  },
+  "sakura_bot@lichess": {
+    "id": "sakura_bot",
+    "provider": "lichess",
+    "username": "Sakura_BOT",
+    "firstSeen": 1610718883447,
+    "lastSeen": 1610718961832
+  },
+  "captainbot2@lichess": {
+    "id": "captainbot2",
+    "provider": "lichess",
+    "username": "CaptainBot2",
+    "firstSeen": 1610719248196,
+    "lastSeen": 1610719248196
+  }
+}
