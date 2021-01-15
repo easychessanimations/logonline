@@ -1,0 +1,83 @@
+{
+  "legend_bot@lichess": {
+    "id": "legend_bot",
+    "provider": "lichess",
+    "username": "Legend_Bot",
+    "firstSeen": 1610694702777,
+    "lastSeen": 1610716707973,
+    "firstSeenTime": "7:11:42 AM",
+    "lastSeenTime": "1:06:31 PM",
+    "onlineDurationMins": 354.81528333333335
+  },
+  "eagleeye2021@lichess": {
+    "id": "eagleeye2021",
+    "provider": "lichess",
+    "username": "EagleEye2021",
+    "firstSeen": 1610710065385,
+    "lastSeen": 1610717159588,
+    "firstSeenTime": "11:27:45 AM",
+    "lastSeenTime": "1:05:39 PM",
+    "onlineDurationMins": 97.8967
+  },
+  "efsocn@lichess": {
+    "id": "efsocn",
+    "provider": "lichess",
+    "username": "Efsocn",
+    "firstSeen": 1610711882220,
+    "lastSeen": 1610717360719,
+    "firstSeenTime": "11:58:02 AM",
+    "lastSeenTime": "1:06:18 PM",
+    "onlineDurationMins": 68.26858333333334
+  },
+  "pilic5555@lichess": {
+    "id": "pilic5555",
+    "provider": "lichess",
+    "username": "Pilic5555",
+    "firstSeen": 1610712777989,
+    "lastSeen": 1610716705476,
+    "firstSeenTime": "12:12:57 PM",
+    "lastSeenTime": "1:05:25 PM",
+    "onlineDurationMins": 52.45636666666667
+  },
+  "jedo19@lichess": {
+    "id": "jedo19",
+    "provider": "lichess",
+    "username": "JeDo19",
+    "firstSeen": 1610713951585,
+    "lastSeen": 1610716954311,
+    "firstSeenTime": "12:32:31 PM",
+    "lastSeenTime": "1:06:36 PM",
+    "onlineDurationMins": 34.08425
+  },
+  "ziya3k@lichess": {
+    "id": "ziya3k",
+    "provider": "lichess",
+    "username": "ziya3k",
+    "firstSeen": 1610715210200,
+    "lastSeen": 1610717355971,
+    "firstSeenTime": "12:53:30 PM",
+    "lastSeenTime": "1:06:37 PM",
+    "onlineDurationMins": 13.117733333333334
+  },
+  "the_atomic_pawn@lichess": {
+    "id": "the_atomic_pawn",
+    "provider": "lichess",
+    "username": "The_Atomic_pawn",
+    "firstSeen": 1610716468956,
+    "lastSeen": 1610716773836
+  },
+  "captainbot2@lichess": {
+    "id": "captainbot2",
+    "provider": "lichess",
+    "username": "CaptainBot2",
+    "firstSeen": 1610716491820,
+    "lastSeen": 1610716920979
+  },
+  "dsr-manav@lichess": {
+    "id": "dsr-manav",
+    "provider": "lichess",
+    "username": "dsr-manav",
+    "firstSeen": 1610716720802,
+    "lastSeen": 1610716724100
+  }
+}
