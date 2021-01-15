@@ -1,0 +1,76 @@
+{
+  "legend_bot@lichess": {
+    "id": "legend_bot",
+    "provider": "lichess",
+    "username": "Legend_Bot",
+    "firstSeen": 1610694702777,
+    "lastSeen": 1610700938381,
+    "firstSeenTime": "7:11:42 AM",
+    "lastSeenTime": "8:42:50 AM",
+    "onlineDurationMins": 91.12823333333333
+  },
+  "grandchessbot@lichess": {
+    "id": "grandchessbot",
+    "provider": "lichess",
+    "username": "GrandChessBot",
+    "firstSeen": 1610695966619,
+    "lastSeen": 1610700458385,
+    "firstSeenTime": "7:32:46 AM",
+    "lastSeenTime": "8:34:25 AM",
+    "onlineDurationMins": 61.65571666666666
+  },
+  "praggnanandhaa0real@lichess": {
+    "id": "praggnanandhaa0real",
+    "provider": "lichess",
+    "username": "Praggnanandhaa0real",
+    "firstSeen": 1610697112510,
+    "lastSeen": 1610700869908,
+    "firstSeenTime": "7:51:52 AM",
+    "lastSeenTime": "8:44:34 AM",
+    "onlineDurationMins": 52.69455
+  },
+  "efsocn@lichess": {
+    "id": "efsocn",
+    "provider": "lichess",
+    "username": "Efsocn",
+    "firstSeen": 1610697684312,
+    "lastSeen": 1610700951065,
+    "firstSeenTime": "8:01:24 AM",
+    "lastSeenTime": "8:40:16 AM",
+    "onlineDurationMins": 38.87291666666667
+  },
+  "eagleeye2021@lichess": {
+    "id": "eagleeye2021",
+    "provider": "lichess",
+    "username": "EagleEye2021",
+    "firstSeen": 1610698124856,
+    "lastSeen": 1610700668885,
+    "firstSeenTime": "8:08:44 AM",
+    "lastSeenTime": "8:43:01 AM",
+    "onlineDurationMins": 34.2768
+  },
+  "ziya3k@lichess": {
+    "id": "ziya3k",
+    "provider": "lichess",
+    "username": "ziya3k",
+    "firstSeen": 1610700010070,
+    "lastSeen": 1610700935460,
+    "firstSeenTime": "8:40:10 AM",
+    "lastSeenTime": "8:44:15 AM",
+    "onlineDurationMins": 4.094533333333334
+  },
+  "x-mystery@lichess": {
+    "id": "x-mystery",
+    "provider": "lichess",
+    "username": "X-Mystery",
+    "firstSeen": 1610700500413,
+    "lastSeen": 1610700914556
+  },
+  "captainbot2@lichess": {
+    "id": "captainbot2",
+    "provider": "lichess",
+    "username": "CaptainBot2",
+    "firstSeen": 1610700915987,
+    "lastSeen": 1610700940743
+  }
+}
