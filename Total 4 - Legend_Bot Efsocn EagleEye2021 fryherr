@@ -1,0 +1,36 @@
+{
+  "legend_bot@lichess": {
+    "id": "legend_bot",
+    "provider": "lichess",
+    "username": "Legend_Bot",
+    "firstSeen": 1610694702777,
+    "lastSeen": 1610710763388,
+    "firstSeenTime": "7:11:42 AM",
+    "lastSeenTime": "10:03:27 AM",
+    "onlineDurationMins": 171.74536666666665
+  },
+  "efsocn@lichess": {
+    "id": "efsocn",
+    "provider": "lichess",
+    "username": "Efsocn",
+    "firstSeen": 1610697684312,
+    "lastSeen": 1610710773530,
+    "firstSeenTime": "8:01:24 AM",
+    "lastSeenTime": "9:55:30 AM",
+    "onlineDurationMins": 114.10348333333333
+  },
+  "eagleeye2021@lichess": {
+    "id": "eagleeye2021",
+    "provider": "lichess",
+    "username": "EagleEye2021",
+    "firstSeen": 1610710065385,
+    "lastSeen": 1610710738678
+  },
+  "fryherr@lichess": {
+    "id": "fryherr",
+    "provider": "lichess",
+    "username": "fryherr",
+    "firstSeen": 1610710540846,
+    "lastSeen": 1610710846727
+  }
+}
