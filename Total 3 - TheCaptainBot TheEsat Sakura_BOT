@@ -1,0 +1,26 @@
+{
+  "thecaptainbot@lichess": {
+    "id": "thecaptainbot",
+    "provider": "lichess",
+    "username": "TheCaptainBot",
+    "firstSeen": 1610732017764,
+    "lastSeen": 1610737887710,
+    "firstSeenTime": "5:33:37 PM",
+    "lastSeenTime": "6:29:13 PM",
+    "onlineDurationMins": 55.60086666666667
+  },
+  "theesat@lichess": {
+    "id": "theesat",
+    "provider": "lichess",
+    "username": "TheEsat",
+    "firstSeen": 1610737540936,
+    "lastSeen": 1610738111999
+  },
+  "sakura_bot@lichess": {
+    "id": "sakura_bot",
+    "provider": "lichess",
+    "username": "Sakura_BOT",
+    "firstSeen": 1610737620624,
+    "lastSeen": 1610737620624
+  }
+}
