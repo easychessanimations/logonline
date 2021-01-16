@@ -1,0 +1,19 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1610811486739,
+    "lastSeen": 1610827336744,
+    "firstSeenTime": "3:38:06 PM",
+    "lastSeenTime": "6:34:16 PM",
+    "onlineDurationMins": 176.15991666666667
+  },
+  "chessbothere@lichess": {
+    "id": "chessbothere",
+    "provider": "lichess",
+    "username": "ChessBotHere",
+    "firstSeen": 1610827722458,
+    "lastSeen": 1610827722458
+  }
+}
