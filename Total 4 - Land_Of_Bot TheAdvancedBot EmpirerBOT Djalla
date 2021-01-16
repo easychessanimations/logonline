@@ -1,0 +1,30 @@
+{
+  "land_of_bot@lichess": {
+    "id": "land_of_bot",
+    "provider": "lichess",
+    "username": "Land_Of_Bot",
+    "firstSeen": 1610809057102,
+    "lastSeen": 1610811215150
+  },
+  "theadvancedbot@lichess": {
+    "id": "theadvancedbot",
+    "provider": "lichess",
+    "username": "TheAdvancedBot",
+    "firstSeen": 1610810891597,
+    "lastSeen": 1610811718353
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1610811486739,
+    "lastSeen": 1610811507114
+  },
+  "djalla@lichess": {
+    "id": "djalla",
+    "provider": "lichess",
+    "username": "Djalla",
+    "firstSeen": 1610811522571,
+    "lastSeen": 1610811779767
+  }
+}
