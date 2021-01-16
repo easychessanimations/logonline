@@ -1,0 +1,37 @@
+{
+  "theadvancedbot@lichess": {
+    "id": "theadvancedbot",
+    "provider": "lichess",
+    "username": "TheAdvancedBot",
+    "firstSeen": 1610810891597,
+    "lastSeen": 1610813917947
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1610811486739,
+    "lastSeen": 1610814492933
+  },
+  "djalla@lichess": {
+    "id": "djalla",
+    "provider": "lichess",
+    "username": "Djalla",
+    "firstSeen": 1610811522571,
+    "lastSeen": 1610813727213
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1610813543805,
+    "lastSeen": 1610814461855
+  },
+  "vibhav0@lichess": {
+    "id": "vibhav0",
+    "provider": "lichess",
+    "username": "vibhav0",
+    "firstSeen": 1610814502445,
+    "lastSeen": 1610814502445
+  }
+}
