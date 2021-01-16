@@ -1,0 +1,23 @@
+{
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1610811486739,
+    "lastSeen": 1610816296550
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1610813543805,
+    "lastSeen": 1610816294178
+  },
+  "efsocn@lichess": {
+    "id": "efsocn",
+    "provider": "lichess",
+    "username": "Efsocn",
+    "firstSeen": 1610815245023,
+    "lastSeen": 1610816759543
+  }
+}
