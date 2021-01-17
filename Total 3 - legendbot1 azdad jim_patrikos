@@ -1,0 +1,26 @@
+{
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1610908143192,
+    "lastSeen": 1610910280616,
+    "firstSeenTime": "6:29:03 PM",
+    "lastSeenTime": "6:54:07 PM",
+    "onlineDurationMins": 25.0641
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1610910206977,
+    "lastSeen": 1610911140102
+  },
+  "jim_patrikos@lichess": {
+    "id": "jim_patrikos",
+    "provider": "lichess",
+    "username": "jim_patrikos",
+    "firstSeen": 1610910644667,
+    "lastSeen": 1610910651439
+  }
+}
