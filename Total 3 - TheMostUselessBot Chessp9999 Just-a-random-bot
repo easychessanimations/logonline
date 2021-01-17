@@ -1,0 +1,23 @@
+{
+  "themostuselessbot@lichess": {
+    "id": "themostuselessbot",
+    "provider": "lichess",
+    "username": "TheMostUselessBot",
+    "firstSeen": 1610851162340,
+    "lastSeen": 1610851183740
+  },
+  "chessp9999@lichess": {
+    "id": "chessp9999",
+    "provider": "lichess",
+    "username": "Chessp9999",
+    "firstSeen": 1610851297742,
+    "lastSeen": 1610851303836
+  },
+  "just-a-random-bot@lichess": {
+    "id": "just-a-random-bot",
+    "provider": "lichess",
+    "username": "Just-a-random-bot",
+    "firstSeen": 1610851500366,
+    "lastSeen": 1610851500366
+  }
+}
