@@ -1,0 +1,23 @@
+{
+  "just-a-random-bot@lichess": {
+    "id": "just-a-random-bot",
+    "provider": "lichess",
+    "username": "Just-a-random-bot",
+    "firstSeen": 1610889568673,
+    "lastSeen": 1610892160710
+  },
+  "lgzero@lichess": {
+    "id": "lgzero",
+    "provider": "lichess",
+    "username": "LGZero",
+    "firstSeen": 1610892008776,
+    "lastSeen": 1610892158934
+  },
+  "bored-bot@lichess": {
+    "id": "bored-bot",
+    "provider": "lichess",
+    "username": "Bored-Bot",
+    "firstSeen": 1610892254417,
+    "lastSeen": 1610892254417
+  }
+}
