@@ -1,0 +1,36 @@
+{
+  "just-a-random-bot@lichess": {
+    "id": "just-a-random-bot",
+    "provider": "lichess",
+    "username": "Just-a-random-bot",
+    "firstSeen": 1610896218612,
+    "lastSeen": 1610906217573,
+    "firstSeenTime": "3:10:18 PM",
+    "lastSeenTime": "5:56:57 PM",
+    "onlineDurationMins": 166.64935
+  },
+  "bera_of_bbot@lichess": {
+    "id": "bera_of_bbot",
+    "provider": "lichess",
+    "username": "bera_of_bbot",
+    "firstSeen": 1610906228804,
+    "lastSeen": 1610906771482,
+    "firstSeenTime": "5:57:08 PM",
+    "lastSeenTime": "5:57:20 PM",
+    "onlineDurationMins": 0.1954
+  },
+  "land_of_bot@lichess": {
+    "id": "land_of_bot",
+    "provider": "lichess",
+    "username": "Land_Of_Bot",
+    "firstSeen": 1610906772921,
+    "lastSeen": 1610906850221
+  },
+  "ke4nan@lichess": {
+    "id": "ke4nan",
+    "provider": "lichess",
+    "username": "KE4NAN",
+    "firstSeen": 1610906938912,
+    "lastSeen": 1610907057251
+  }
+}
