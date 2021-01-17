@@ -1,0 +1,54 @@
+{
+  "just-a-random-bot@lichess": {
+    "id": "just-a-random-bot",
+    "provider": "lichess",
+    "username": "Just-a-random-bot",
+    "firstSeen": 1610896218612,
+    "lastSeen": 1610903620980,
+    "firstSeenTime": "3:10:18 PM",
+    "lastSeenTime": "3:37:58 PM",
+    "onlineDurationMins": 27.66433333333333
+  },
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1610898774333,
+    "lastSeen": 1610903796920
+  },
+  "theadvancedbot@lichess": {
+    "id": "theadvancedbot",
+    "provider": "lichess",
+    "username": "TheAdvancedBot",
+    "firstSeen": 1610900013226,
+    "lastSeen": 1610903379117
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1610900941038,
+    "lastSeen": 1610903940896
+  },
+  "ziya3k@lichess": {
+    "id": "ziya3k",
+    "provider": "lichess",
+    "username": "ziya3k",
+    "firstSeen": 1610902027045,
+    "lastSeen": 1610903983222
+  },
+  "eagleeye2021@lichess": {
+    "id": "eagleeye2021",
+    "provider": "lichess",
+    "username": "EagleEye2021",
+    "firstSeen": 1610903593015,
+    "lastSeen": 1610903805715
+  },
+  "bored-bot@lichess": {
+    "id": "bored-bot",
+    "provider": "lichess",
+    "username": "Bored-Bot",
+    "firstSeen": 1610903669985,
+    "lastSeen": 1610903839675
+  }
+}
