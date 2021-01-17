@@ -1,0 +1,47 @@
+{
+  "just-a-random-bot@lichess": {
+    "id": "just-a-random-bot",
+    "provider": "lichess",
+    "username": "Just-a-random-bot",
+    "firstSeen": 1610896218612,
+    "lastSeen": 1610902943185,
+    "firstSeenTime": "3:10:18 PM",
+    "lastSeenTime": "3:37:58 PM",
+    "onlineDurationMins": 27.66433333333333
+  },
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1610898774333,
+    "lastSeen": 1610902254745
+  },
+  "theadvancedbot@lichess": {
+    "id": "theadvancedbot",
+    "provider": "lichess",
+    "username": "TheAdvancedBot",
+    "firstSeen": 1610900013226,
+    "lastSeen": 1610902605364
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1610900941038,
+    "lastSeen": 1610902924373
+  },
+  "ziya3k@lichess": {
+    "id": "ziya3k",
+    "provider": "lichess",
+    "username": "ziya3k",
+    "firstSeen": 1610902027045,
+    "lastSeen": 1610902923213
+  },
+  "umutdeniz2010@lichess": {
+    "id": "umutdeniz2010",
+    "provider": "lichess",
+    "username": "UmutDeniz2010",
+    "firstSeen": 1610903012547,
+    "lastSeen": 1610903038354
+  }
+}
