@@ -1,0 +1,53 @@
+{
+  "just-a-random-bot@lichess": {
+    "id": "just-a-random-bot",
+    "provider": "lichess",
+    "username": "Just-a-random-bot",
+    "firstSeen": 1610896218612,
+    "lastSeen": 1610905785762,
+    "firstSeenTime": "3:10:18 PM",
+    "lastSeenTime": "5:13:40 PM",
+    "onlineDurationMins": 123.3728
+  },
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1610898774333,
+    "lastSeen": 1610905172997,
+    "firstSeenTime": "3:52:54 PM",
+    "lastSeenTime": "5:27:36 PM",
+    "onlineDurationMins": 94.70611666666667
+  },
+  "theadvancedbot@lichess": {
+    "id": "theadvancedbot",
+    "provider": "lichess",
+    "username": "TheAdvancedBot",
+    "firstSeen": 1610900013226,
+    "lastSeen": 1610905596558,
+    "firstSeenTime": "4:13:33 PM",
+    "lastSeenTime": "5:23:51 PM",
+    "onlineDurationMins": 70.31263333333334
+  },
+  "land_of_bot@lichess": {
+    "id": "land_of_bot",
+    "provider": "lichess",
+    "username": "Land_Of_Bot",
+    "firstSeen": 1610905740316,
+    "lastSeen": 1610905750431
+  },
+  "greece_bot@lichess": {
+    "id": "greece_bot",
+    "provider": "lichess",
+    "username": "Greece_Bot",
+    "firstSeen": 1610905773527,
+    "lastSeen": 1610905779178
+  },
+  "jim_patrikos@lichess": {
+    "id": "jim_patrikos",
+    "provider": "lichess",
+    "username": "jim_patrikos",
+    "firstSeen": 1610905799958,
+    "lastSeen": 1610905799958
+  }
+}
