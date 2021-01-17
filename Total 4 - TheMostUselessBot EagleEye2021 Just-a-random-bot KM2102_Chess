@@ -1,0 +1,36 @@
+{
+  "themostuselessbot@lichess": {
+    "id": "themostuselessbot",
+    "provider": "lichess",
+    "username": "TheMostUselessBot",
+    "firstSeen": 1610888512190,
+    "lastSeen": 1610889469523,
+    "firstSeenTime": "1:01:52 PM",
+    "lastSeenTime": "1:17:49 PM",
+    "onlineDurationMins": 15.95555
+  },
+  "eagleeye2021@lichess": {
+    "id": "eagleeye2021",
+    "provider": "lichess",
+    "username": "EagleEye2021",
+    "firstSeen": 1610889016957,
+    "lastSeen": 1610889043895,
+    "firstSeenTime": "1:10:16 PM",
+    "lastSeenTime": "1:10:43 PM",
+    "onlineDurationMins": 0.4489666666666667
+  },
+  "just-a-random-bot@lichess": {
+    "id": "just-a-random-bot",
+    "provider": "lichess",
+    "username": "Just-a-random-bot",
+    "firstSeen": 1610889568673,
+    "lastSeen": 1610889772118
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1610889775735,
+    "lastSeen": 1610889775736
+  }
+}
