@@ -1,0 +1,39 @@
+{
+  "ziya3k@lichess": {
+    "id": "ziya3k",
+    "provider": "lichess",
+    "username": "ziya3k",
+    "firstSeen": 1610870420599,
+    "lastSeen": 1610876077289,
+    "firstSeenTime": "8:00:20 AM",
+    "lastSeenTime": "9:12:15 AM",
+    "onlineDurationMins": 71.91963333333334
+  },
+  "bored-bot@lichess": {
+    "id": "bored-bot",
+    "provider": "lichess",
+    "username": "Bored-Bot",
+    "firstSeen": 1610874301705,
+    "lastSeen": 1610876081857,
+    "firstSeenTime": "9:05:01 AM",
+    "lastSeenTime": "9:17:09 AM",
+    "onlineDurationMins": 12.128283333333334
+  },
+  "eagleeye2021@lichess": {
+    "id": "eagleeye2021",
+    "provider": "lichess",
+    "username": "EagleEye2021",
+    "firstSeen": 1610874855546,
+    "lastSeen": 1610876102320,
+    "firstSeenTime": "9:14:15 AM",
+    "lastSeenTime": "9:17:09 AM",
+    "onlineDurationMins": 2.892533333333333
+  },
+  "greece_bot@lichess": {
+    "id": "greece_bot",
+    "provider": "lichess",
+    "username": "Greece_Bot",
+    "firstSeen": 1610876102455,
+    "lastSeen": 1610876102455
+  }
+}
