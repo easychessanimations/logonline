@@ -1,0 +1,16 @@
+{
+  "bored-bot@lichess": {
+    "id": "bored-bot",
+    "provider": "lichess",
+    "username": "Bored-Bot",
+    "firstSeen": 1610878967350,
+    "lastSeen": 1610880784027
+  },
+  "theadvancedbot@lichess": {
+    "id": "theadvancedbot",
+    "provider": "lichess",
+    "username": "TheAdvancedBot",
+    "firstSeen": 1610880663917,
+    "lastSeen": 1610880674334
+  }
+}
