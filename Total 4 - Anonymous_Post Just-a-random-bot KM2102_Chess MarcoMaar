@@ -1,0 +1,30 @@
+{
+  "anonymous_post@lichess": {
+    "id": "anonymous_post",
+    "provider": "lichess",
+    "username": "Anonymous_Post",
+    "firstSeen": 1610894026171,
+    "lastSeen": 1610895889905
+  },
+  "just-a-random-bot@lichess": {
+    "id": "just-a-random-bot",
+    "provider": "lichess",
+    "username": "Just-a-random-bot",
+    "firstSeen": 1610896218612,
+    "lastSeen": 1610896313829
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1610896281823,
+    "lastSeen": 1610896281823
+  },
+  "marcomaar@lichess": {
+    "id": "marcomaar",
+    "provider": "lichess",
+    "username": "MarcoMaar",
+    "firstSeen": 1610896593403,
+    "lastSeen": 1610896593403
+  }
+}
