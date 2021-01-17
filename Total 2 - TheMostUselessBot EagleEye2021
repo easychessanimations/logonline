@@ -1,0 +1,22 @@
+{
+  "themostuselessbot@lichess": {
+    "id": "themostuselessbot",
+    "provider": "lichess",
+    "username": "TheMostUselessBot",
+    "firstSeen": 1610888512190,
+    "lastSeen": 1610889469523,
+    "firstSeenTime": "1:01:52 PM",
+    "lastSeenTime": "1:09:26 PM",
+    "onlineDurationMins": 7.5703
+  },
+  "eagleeye2021@lichess": {
+    "id": "eagleeye2021",
+    "provider": "lichess",
+    "username": "EagleEye2021",
+    "firstSeen": 1610889016957,
+    "lastSeen": 1610889043895,
+    "firstSeenTime": "1:10:16 PM",
+    "lastSeenTime": "1:10:43 PM",
+    "onlineDurationMins": 0.4489666666666667
+  }
+}
