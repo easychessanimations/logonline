@@ -1,0 +1,26 @@
+{
+  "themostuselessbot@lichess": {
+    "id": "themostuselessbot",
+    "provider": "lichess",
+    "username": "TheMostUselessBot",
+    "firstSeen": 1610888512190,
+    "lastSeen": 1610889469523,
+    "firstSeenTime": "1:01:52 PM",
+    "lastSeenTime": "1:17:49 PM",
+    "onlineDurationMins": 15.95555
+  },
+  "just-a-random-bot@lichess": {
+    "id": "just-a-random-bot",
+    "provider": "lichess",
+    "username": "Just-a-random-bot",
+    "firstSeen": 1610889568673,
+    "lastSeen": 1610889980901
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1610889775735,
+    "lastSeen": 1610889778913
+  }
+}
