@@ -1,0 +1,23 @@
+{
+  "bored-bot@lichess": {
+    "id": "bored-bot",
+    "provider": "lichess",
+    "username": "Bored-Bot",
+    "firstSeen": 1610892254417,
+    "lastSeen": 1610895454456
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1610893067689,
+    "lastSeen": 1610895233878
+  },
+  "anonymous_post@lichess": {
+    "id": "anonymous_post",
+    "provider": "lichess",
+    "username": "Anonymous_Post",
+    "firstSeen": 1610894026171,
+    "lastSeen": 1610895889905
+  }
+}
