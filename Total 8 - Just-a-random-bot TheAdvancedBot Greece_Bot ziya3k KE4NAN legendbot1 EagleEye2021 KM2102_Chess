@@ -1,0 +1,70 @@
+{
+  "just-a-random-bot@lichess": {
+    "id": "just-a-random-bot",
+    "provider": "lichess",
+    "username": "Just-a-random-bot",
+    "firstSeen": 1610896218612,
+    "lastSeen": 1610898747717,
+    "firstSeenTime": "3:10:18 PM",
+    "lastSeenTime": "3:37:58 PM",
+    "onlineDurationMins": 27.66433333333333
+  },
+  "theadvancedbot@lichess": {
+    "id": "theadvancedbot",
+    "provider": "lichess",
+    "username": "TheAdvancedBot",
+    "firstSeen": 1610896632899,
+    "lastSeen": 1610898622974,
+    "firstSeenTime": "3:17:12 PM",
+    "lastSeenTime": "3:28:19 PM",
+    "onlineDurationMins": 11.108183333333333
+  },
+  "greece_bot@lichess": {
+    "id": "greece_bot",
+    "provider": "lichess",
+    "username": "Greece_Bot",
+    "firstSeen": 1610897573375,
+    "lastSeen": 1610898525726,
+    "firstSeenTime": "3:32:53 PM",
+    "lastSeenTime": "3:33:48 PM",
+    "onlineDurationMins": 0.9246333333333333
+  },
+  "ziya3k@lichess": {
+    "id": "ziya3k",
+    "provider": "lichess",
+    "username": "ziya3k",
+    "firstSeen": 1610897815962,
+    "lastSeen": 1610898721455,
+    "firstSeenTime": "3:36:55 PM",
+    "lastSeenTime": "3:38:17 PM",
+    "onlineDurationMins": 1.3543166666666666
+  },
+  "ke4nan@lichess": {
+    "id": "ke4nan",
+    "provider": "lichess",
+    "username": "KE4NAN",
+    "firstSeen": 1610898728490,
+    "lastSeen": 1610898737984
+  },
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1610898774333,
+    "lastSeen": 1610898782096
+  },
+  "eagleeye2021@lichess": {
+    "id": "eagleeye2021",
+    "provider": "lichess",
+    "username": "EagleEye2021",
+    "firstSeen": 1610898785220,
+    "lastSeen": 1610898785220
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1610898807428,
+    "lastSeen": 1610898807429
+  }
+}
