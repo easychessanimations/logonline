@@ -1,0 +1,23 @@
+{
+  "bored-bot@lichess": {
+    "id": "bored-bot",
+    "provider": "lichess",
+    "username": "Bored-Bot",
+    "firstSeen": 1610878967350,
+    "lastSeen": 1610881576009
+  },
+  "greece_bot@lichess": {
+    "id": "greece_bot",
+    "provider": "lichess",
+    "username": "Greece_Bot",
+    "firstSeen": 1610881022270,
+    "lastSeen": 1610881074228
+  },
+  "grandchessbot@lichess": {
+    "id": "grandchessbot",
+    "provider": "lichess",
+    "username": "GrandChessBot",
+    "firstSeen": 1610881336567,
+    "lastSeen": 1610881347460
+  }
+}
