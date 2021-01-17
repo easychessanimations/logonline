@@ -1,0 +1,42 @@
+{
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1610886513877,
+    "lastSeen": 1610888576767,
+    "firstSeenTime": "12:28:33 PM",
+    "lastSeenTime": "1:02:56 PM",
+    "onlineDurationMins": 34.3815
+  },
+  "ananyachhabra21@lichess": {
+    "id": "ananyachhabra21",
+    "provider": "lichess",
+    "username": "Ananyachhabra21",
+    "firstSeen": 1610888346260,
+    "lastSeen": 1610888632933,
+    "firstSeenTime": "12:59:06 PM",
+    "lastSeenTime": "1:03:52 PM",
+    "onlineDurationMins": 4.7778833333333335
+  },
+  "themostuselessbot@lichess": {
+    "id": "themostuselessbot",
+    "provider": "lichess",
+    "username": "TheMostUselessBot",
+    "firstSeen": 1610888512190,
+    "lastSeen": 1610889465584,
+    "firstSeenTime": "1:01:52 PM",
+    "lastSeenTime": "1:09:26 PM",
+    "onlineDurationMins": 7.5703
+  },
+  "eagleeye2021@lichess": {
+    "id": "eagleeye2021",
+    "provider": "lichess",
+    "username": "EagleEye2021",
+    "firstSeen": 1610889016957,
+    "lastSeen": 1610889043895,
+    "firstSeenTime": "1:10:16 PM",
+    "lastSeenTime": "1:10:43 PM",
+    "onlineDurationMins": 0.4489666666666667
+  }
+}
