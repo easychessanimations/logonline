@@ -1,0 +1,92 @@
+{
+  "just-a-random-bot@lichess": {
+    "id": "just-a-random-bot",
+    "provider": "lichess",
+    "username": "Just-a-random-bot",
+    "firstSeen": 1610896218612,
+    "lastSeen": 1610904571937,
+    "firstSeenTime": "3:10:18 PM",
+    "lastSeenTime": "5:13:40 PM",
+    "onlineDurationMins": 123.3728
+  },
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1610898774333,
+    "lastSeen": 1610904572955,
+    "firstSeenTime": "3:52:54 PM",
+    "lastSeenTime": "5:27:36 PM",
+    "onlineDurationMins": 94.70611666666667
+  },
+  "theadvancedbot@lichess": {
+    "id": "theadvancedbot",
+    "provider": "lichess",
+    "username": "TheAdvancedBot",
+    "firstSeen": 1610900013226,
+    "lastSeen": 1610904231984,
+    "firstSeenTime": "4:13:33 PM",
+    "lastSeenTime": "5:23:51 PM",
+    "onlineDurationMins": 70.31263333333334
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1610900941038,
+    "lastSeen": 1610903940896,
+    "firstSeenTime": "4:29:01 PM",
+    "lastSeenTime": "5:19:00 PM",
+    "onlineDurationMins": 49.99763333333333
+  },
+  "ziya3k@lichess": {
+    "id": "ziya3k",
+    "provider": "lichess",
+    "username": "ziya3k",
+    "firstSeen": 1610902027045,
+    "lastSeen": 1610903983222,
+    "firstSeenTime": "4:47:07 PM",
+    "lastSeenTime": "5:19:43 PM",
+    "onlineDurationMins": 32.60295
+  },
+  "rayan-amirafshari@lichess": {
+    "id": "rayan-amirafshari",
+    "provider": "lichess",
+    "username": "rAyaN-aMIraFshArI",
+    "firstSeen": 1610904144523,
+    "lastSeen": 1610904284316,
+    "firstSeenTime": "5:22:24 PM",
+    "lastSeenTime": "5:24:44 PM",
+    "onlineDurationMins": 2.3298833333333335
+  },
+  "leelabotmaster@lichess": {
+    "id": "leelabotmaster",
+    "provider": "lichess",
+    "username": "Leelabotmaster",
+    "firstSeen": 1610904238540,
+    "lastSeen": 1610904261257,
+    "firstSeenTime": "5:23:58 PM",
+    "lastSeenTime": "5:24:21 PM",
+    "onlineDurationMins": 0.37861666666666666
+  },
+  "hoseinafshari1393@lichess": {
+    "id": "hoseinafshari1393",
+    "provider": "lichess",
+    "username": "hoseinafshari1393",
+    "firstSeen": 1610904300389,
+    "lastSeen": 1610904327802,
+    "firstSeenTime": "5:25:00 PM",
+    "lastSeenTime": "5:25:27 PM",
+    "onlineDurationMins": 0.4568833333333333
+  },
+  "xxtroloxx5@lichess": {
+    "id": "xxtroloxx5",
+    "provider": "lichess",
+    "username": "xxtroloxx5",
+    "firstSeen": 1610904428131,
+    "lastSeen": 1610904429537,
+    "firstSeenTime": "5:27:08 PM",
+    "lastSeenTime": "5:27:09 PM",
+    "onlineDurationMins": 0.023433333333333334
+  }
+}
