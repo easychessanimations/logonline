@@ -1,0 +1,26 @@
+{
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1610910206977,
+    "lastSeen": 1610917896397,
+    "firstSeenTime": "7:03:26 PM",
+    "lastSeenTime": "8:06:53 PM",
+    "onlineDurationMins": 63.44951666666667
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1610917702671,
+    "lastSeen": 1610917706064
+  },
+  "just-a-random-bot@lichess": {
+    "id": "just-a-random-bot",
+    "provider": "lichess",
+    "username": "Just-a-random-bot",
+    "firstSeen": 1610917968927,
+    "lastSeen": 1610917968927
+  }
+}
