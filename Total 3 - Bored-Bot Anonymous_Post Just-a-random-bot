@@ -1,0 +1,23 @@
+{
+  "bored-bot@lichess": {
+    "id": "bored-bot",
+    "provider": "lichess",
+    "username": "Bored-Bot",
+    "firstSeen": 1610892254417,
+    "lastSeen": 1610895454456
+  },
+  "anonymous_post@lichess": {
+    "id": "anonymous_post",
+    "provider": "lichess",
+    "username": "Anonymous_Post",
+    "firstSeen": 1610894026171,
+    "lastSeen": 1610895889905
+  },
+  "just-a-random-bot@lichess": {
+    "id": "just-a-random-bot",
+    "provider": "lichess",
+    "username": "Just-a-random-bot",
+    "firstSeen": 1610896218612,
+    "lastSeen": 1610896218612
+  }
+}
