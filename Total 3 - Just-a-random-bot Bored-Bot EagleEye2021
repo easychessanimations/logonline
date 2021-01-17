@@ -1,0 +1,23 @@
+{
+  "just-a-random-bot@lichess": {
+    "id": "just-a-random-bot",
+    "provider": "lichess",
+    "username": "Just-a-random-bot",
+    "firstSeen": 1610889568673,
+    "lastSeen": 1610893040806
+  },
+  "bored-bot@lichess": {
+    "id": "bored-bot",
+    "provider": "lichess",
+    "username": "Bored-Bot",
+    "firstSeen": 1610892254417,
+    "lastSeen": 1610893021380
+  },
+  "eagleeye2021@lichess": {
+    "id": "eagleeye2021",
+    "provider": "lichess",
+    "username": "EagleEye2021",
+    "firstSeen": 1610892283310,
+    "lastSeen": 1610892952241
+  }
+}
