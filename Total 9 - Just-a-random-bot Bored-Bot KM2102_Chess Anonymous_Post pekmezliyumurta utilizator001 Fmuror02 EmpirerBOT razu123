@@ -1,0 +1,65 @@
+{
+  "just-a-random-bot@lichess": {
+    "id": "just-a-random-bot",
+    "provider": "lichess",
+    "username": "Just-a-random-bot",
+    "firstSeen": 1610889568673,
+    "lastSeen": 1610894445741
+  },
+  "bored-bot@lichess": {
+    "id": "bored-bot",
+    "provider": "lichess",
+    "username": "Bored-Bot",
+    "firstSeen": 1610892254417,
+    "lastSeen": 1610894725168
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1610893067689,
+    "lastSeen": 1610894576563
+  },
+  "anonymous_post@lichess": {
+    "id": "anonymous_post",
+    "provider": "lichess",
+    "username": "Anonymous_Post",
+    "firstSeen": 1610894026171,
+    "lastSeen": 1610894869073
+  },
+  "pekmezliyumurta@lichess": {
+    "id": "pekmezliyumurta",
+    "provider": "lichess",
+    "username": "pekmezliyumurta",
+    "firstSeen": 1610894028450,
+    "lastSeen": 1610894480214
+  },
+  "utilizator001@lichess": {
+    "id": "utilizator001",
+    "provider": "lichess",
+    "username": "utilizator001",
+    "firstSeen": 1610894112584,
+    "lastSeen": 1610894869021
+  },
+  "fmuror02@lichess": {
+    "id": "fmuror02",
+    "provider": "lichess",
+    "username": "Fmuror02",
+    "firstSeen": 1610894119314,
+    "lastSeen": 1610894645677
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1610894806488,
+    "lastSeen": 1610894806488
+  },
+  "razu123@lichess": {
+    "id": "razu123",
+    "provider": "lichess",
+    "username": "razu123",
+    "firstSeen": 1610894871587,
+    "lastSeen": 1610894871588
+  }
+}
