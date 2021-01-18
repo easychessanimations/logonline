@@ -1,0 +1,46 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1610960864943,
+    "lastSeen": 1610981274100,
+    "firstSeenTime": "9:07:44 AM",
+    "lastSeenTime": "1:13:54 PM",
+    "onlineDurationMins": 246.158
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1610962742925,
+    "lastSeen": 1610981222255,
+    "firstSeenTime": "9:39:02 AM",
+    "lastSeenTime": "1:13:02 PM",
+    "onlineDurationMins": 213.9854
+  },
+  "ziya3k@lichess": {
+    "id": "ziya3k",
+    "provider": "lichess",
+    "username": "ziya3k",
+    "firstSeen": 1610972805134,
+    "lastSeen": 1610981449856,
+    "firstSeenTime": "12:26:45 PM",
+    "lastSeenTime": "1:14:19 PM",
+    "onlineDurationMins": 47.567616666666666
+  },
+  "dklf@lichess": {
+    "id": "dklf",
+    "provider": "lichess",
+    "username": "DKLF",
+    "firstSeen": 1610979109189,
+    "lastSeen": 1610980754173
+  },
+  "bored-bot@lichess": {
+    "id": "bored-bot",
+    "provider": "lichess",
+    "username": "Bored-Bot",
+    "firstSeen": 1610980364177,
+    "lastSeen": 1610981308454
+  }
+}
