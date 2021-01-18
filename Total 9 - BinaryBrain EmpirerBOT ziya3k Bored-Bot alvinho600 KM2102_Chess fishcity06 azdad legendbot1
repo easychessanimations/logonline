@@ -1,0 +1,77 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1610960864943,
+    "lastSeen": 1610983915033,
+    "firstSeenTime": "9:07:44 AM",
+    "lastSeenTime": "2:47:54 PM",
+    "onlineDurationMins": 340.1526166666667
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1610962742925,
+    "lastSeen": 1610983861809,
+    "firstSeenTime": "9:39:02 AM",
+    "lastSeenTime": "2:47:02 PM",
+    "onlineDurationMins": 307.98883333333333
+  },
+  "ziya3k@lichess": {
+    "id": "ziya3k",
+    "provider": "lichess",
+    "username": "ziya3k",
+    "firstSeen": 1610972805134,
+    "lastSeen": 1610984291236,
+    "firstSeenTime": "12:26:45 PM",
+    "lastSeenTime": "2:50:50 PM",
+    "onlineDurationMins": 144.08355
+  },
+  "bored-bot@lichess": {
+    "id": "bored-bot",
+    "provider": "lichess",
+    "username": "Bored-Bot",
+    "firstSeen": 1610980364177,
+    "lastSeen": 1610984178239,
+    "firstSeenTime": "2:32:44 PM",
+    "lastSeenTime": "2:48:28 PM",
+    "onlineDurationMins": 15.73795
+  },
+  "alvinho600@lichess": {
+    "id": "alvinho600",
+    "provider": "lichess",
+    "username": "alvinho600",
+    "firstSeen": 1610981609163,
+    "lastSeen": 1610984255822
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1610981805589,
+    "lastSeen": 1610983976785
+  },
+  "fishcity06@lichess": {
+    "id": "fishcity06",
+    "provider": "lichess",
+    "username": "fishcity06",
+    "firstSeen": 1610983593115,
+    "lastSeen": 1610984061537
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1610984348977,
+    "lastSeen": 1610984377947
+  },
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1610984381227,
+    "lastSeen": 1610984381227
+  }
+}
