@@ -1,0 +1,56 @@
+{
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1610954437426,
+    "lastSeen": 1610971777675,
+    "firstSeenTime": "7:20:37 AM",
+    "lastSeenTime": "11:10:41 AM",
+    "onlineDurationMins": 230.06228333333334
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1610960864943,
+    "lastSeen": 1610972090577,
+    "firstSeenTime": "9:07:44 AM",
+    "lastSeenTime": "11:17:54 AM",
+    "onlineDurationMins": 130.15578333333335
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1610962742925,
+    "lastSeen": 1610971801651,
+    "firstSeenTime": "9:39:02 AM",
+    "lastSeenTime": "11:23:01 AM",
+    "onlineDurationMins": 103.97935
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1610965860362,
+    "lastSeen": 1610971855742,
+    "firstSeenTime": "10:31:00 AM",
+    "lastSeenTime": "11:18:35 AM",
+    "onlineDurationMins": 47.58205
+  },
+  "eagleeye2021@lichess": {
+    "id": "eagleeye2021",
+    "provider": "lichess",
+    "username": "EagleEye2021",
+    "firstSeen": 1610970032679,
+    "lastSeen": 1610971391365
+  },
+  "praggnanandhaa0real@lichess": {
+    "id": "praggnanandhaa0real",
+    "provider": "lichess",
+    "username": "Praggnanandhaa0real",
+    "firstSeen": 1610971808895,
+    "lastSeen": 1610971892198
+  }
+}
