@@ -1,0 +1,56 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1610960864943,
+    "lastSeen": 1610979834675,
+    "firstSeenTime": "9:07:44 AM",
+    "lastSeenTime": "1:13:54 PM",
+    "onlineDurationMins": 246.158
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1610962742925,
+    "lastSeen": 1610979782241,
+    "firstSeenTime": "9:39:02 AM",
+    "lastSeenTime": "1:13:02 PM",
+    "onlineDurationMins": 213.9854
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1610965860362,
+    "lastSeen": 1610979903128,
+    "firstSeenTime": "10:31:00 AM",
+    "lastSeenTime": "1:14:23 PM",
+    "onlineDurationMins": 163.37795
+  },
+  "ziya3k@lichess": {
+    "id": "ziya3k",
+    "provider": "lichess",
+    "username": "ziya3k",
+    "firstSeen": 1610972805134,
+    "lastSeen": 1610980285290,
+    "firstSeenTime": "12:26:45 PM",
+    "lastSeenTime": "1:14:19 PM",
+    "onlineDurationMins": 47.567616666666666
+  },
+  "dklf@lichess": {
+    "id": "dklf",
+    "provider": "lichess",
+    "username": "DKLF",
+    "firstSeen": 1610979109189,
+    "lastSeen": 1610980353420
+  },
+  "trybeatingoceanchess@lichess": {
+    "id": "trybeatingoceanchess",
+    "provider": "lichess",
+    "username": "TryBeatingOceanChess",
+    "firstSeen": 1610979243129,
+    "lastSeen": 1610980322996
+  }
+}
