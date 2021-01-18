@@ -1,0 +1,114 @@
+{
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1610954437426,
+    "lastSeen": 1610974597363,
+    "firstSeenTime": "7:20:37 AM",
+    "lastSeenTime": "12:45:33 PM",
+    "onlineDurationMins": 324.9395166666667
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1610960864943,
+    "lastSeen": 1610974914837,
+    "firstSeenTime": "9:07:44 AM",
+    "lastSeenTime": "12:44:57 PM",
+    "onlineDurationMins": 217.20653333333334
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1610962742925,
+    "lastSeen": 1610974801914,
+    "firstSeenTime": "9:39:02 AM",
+    "lastSeenTime": "12:45:05 PM",
+    "onlineDurationMins": 186.04495
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1610965860362,
+    "lastSeen": 1610974855816,
+    "firstSeenTime": "10:31:00 AM",
+    "lastSeenTime": "12:46:25 PM",
+    "onlineDurationMins": 135.41888333333333
+  },
+  "ziya3k@lichess": {
+    "id": "ziya3k",
+    "provider": "lichess",
+    "username": "ziya3k",
+    "firstSeen": 1610972805134,
+    "lastSeen": 1610975038870,
+    "firstSeenTime": "12:26:45 PM",
+    "lastSeenTime": "12:47:09 PM",
+    "onlineDurationMins": 20.403466666666667
+  },
+  "praggnanandhaa0real@lichess": {
+    "id": "praggnanandhaa0real",
+    "provider": "lichess",
+    "username": "Praggnanandhaa0real",
+    "firstSeen": 1610973462051,
+    "lastSeen": 1610974245792,
+    "firstSeenTime": "12:37:42 PM",
+    "lastSeenTime": "12:39:50 PM",
+    "onlineDurationMins": 2.137
+  },
+  "best_bot@lichess": {
+    "id": "best_bot",
+    "provider": "lichess",
+    "username": "Best_Bot",
+    "firstSeen": 1610973563528,
+    "lastSeen": 1610975085828,
+    "firstSeenTime": "12:39:23 PM",
+    "lastSeenTime": "12:47:09 PM",
+    "onlineDurationMins": 7.75985
+  },
+  "sinirsiz123@lichess": {
+    "id": "sinirsiz123",
+    "provider": "lichess",
+    "username": "SINIRSIZ123",
+    "firstSeen": 1610974366479,
+    "lastSeen": 1610974373942
+  },
+  "theworstbot@lichess": {
+    "id": "theworstbot",
+    "provider": "lichess",
+    "username": "theWorstBot",
+    "firstSeen": 1610974544462,
+    "lastSeen": 1610974554542
+  },
+  "josephe8@lichess": {
+    "id": "josephe8",
+    "provider": "lichess",
+    "username": "JosephE8",
+    "firstSeen": 1610974626891,
+    "lastSeen": 1610974953857
+  },
+  "atanwinbot@lichess": {
+    "id": "atanwinbot",
+    "provider": "lichess",
+    "username": "atanwinBOT",
+    "firstSeen": 1610974759566,
+    "lastSeen": 1610974822558
+  },
+  "jaimelesmacarons@lichess": {
+    "id": "jaimelesmacarons",
+    "provider": "lichess",
+    "username": "Jaimelesmacarons",
+    "firstSeen": 1610974954953,
+    "lastSeen": 1610975108981
+  },
+  "just-a-random-bot@lichess": {
+    "id": "just-a-random-bot",
+    "provider": "lichess",
+    "username": "Just-a-random-bot",
+    "firstSeen": 1610975112585,
+    "lastSeen": 1610975112585
+  }
+}
