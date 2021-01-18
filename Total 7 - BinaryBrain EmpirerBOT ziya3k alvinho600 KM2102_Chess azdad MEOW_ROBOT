@@ -1,0 +1,69 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1610960864943,
+    "lastSeen": 1610988714162,
+    "firstSeenTime": "9:07:44 AM",
+    "lastSeenTime": "3:53:53 PM",
+    "onlineDurationMins": 406.1499166666667
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1610962742925,
+    "lastSeen": 1610988665785,
+    "firstSeenTime": "9:39:02 AM",
+    "lastSeenTime": "3:55:02 PM",
+    "onlineDurationMins": 375.98726666666664
+  },
+  "ziya3k@lichess": {
+    "id": "ziya3k",
+    "provider": "lichess",
+    "username": "ziya3k",
+    "firstSeen": 1610972805134,
+    "lastSeen": 1610988726950,
+    "firstSeenTime": "12:26:45 PM",
+    "lastSeenTime": "4:05:21 PM",
+    "onlineDurationMins": 218.60218333333333
+  },
+  "alvinho600@lichess": {
+    "id": "alvinho600",
+    "provider": "lichess",
+    "username": "alvinho600",
+    "firstSeen": 1610981609163,
+    "lastSeen": 1610988515832,
+    "firstSeenTime": "2:53:29 PM",
+    "lastSeenTime": "4:01:35 PM",
+    "onlineDurationMins": 68.11196666666666
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1610981805589,
+    "lastSeen": 1610988624095,
+    "firstSeenTime": "2:56:45 PM",
+    "lastSeenTime": "3:54:32 PM",
+    "onlineDurationMins": 57.78863333333334
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1610984348977,
+    "lastSeen": 1610988699419,
+    "firstSeenTime": "3:39:08 PM",
+    "lastSeenTime": "4:05:21 PM",
+    "onlineDurationMins": 26.205733333333335
+  },
+  "meow_robot@lichess": {
+    "id": "meow_robot",
+    "provider": "lichess",
+    "username": "MEOW_ROBOT",
+    "firstSeen": 1610986073232,
+    "lastSeen": 1610988234866
+  }
+}
