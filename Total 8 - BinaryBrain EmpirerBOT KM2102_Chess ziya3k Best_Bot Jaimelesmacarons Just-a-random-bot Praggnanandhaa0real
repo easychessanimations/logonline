@@ -1,0 +1,79 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1610960864943,
+    "lastSeen": 1610975634423,
+    "firstSeenTime": "9:07:44 AM",
+    "lastSeenTime": "1:13:54 PM",
+    "onlineDurationMins": 246.158
+  },
+  "empirerbot@lichess": {
+    "id": "empirerbot",
+    "provider": "lichess",
+    "username": "EmpirerBOT",
+    "firstSeen": 1610962742925,
+    "lastSeen": 1610975582049,
+    "firstSeenTime": "9:39:02 AM",
+    "lastSeenTime": "1:13:02 PM",
+    "onlineDurationMins": 213.9854
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1610965860362,
+    "lastSeen": 1610975663039,
+    "firstSeenTime": "10:31:00 AM",
+    "lastSeenTime": "1:14:23 PM",
+    "onlineDurationMins": 163.37795
+  },
+  "ziya3k@lichess": {
+    "id": "ziya3k",
+    "provider": "lichess",
+    "username": "ziya3k",
+    "firstSeen": 1610972805134,
+    "lastSeen": 1610975859723,
+    "firstSeenTime": "12:26:45 PM",
+    "lastSeenTime": "1:14:19 PM",
+    "onlineDurationMins": 47.567616666666666
+  },
+  "best_bot@lichess": {
+    "id": "best_bot",
+    "provider": "lichess",
+    "username": "Best_Bot",
+    "firstSeen": 1610973563528,
+    "lastSeen": 1610975627873,
+    "firstSeenTime": "12:39:23 PM",
+    "lastSeenTime": "1:13:47 PM",
+    "onlineDurationMins": 34.40575
+  },
+  "jaimelesmacarons@lichess": {
+    "id": "jaimelesmacarons",
+    "provider": "lichess",
+    "username": "Jaimelesmacarons",
+    "firstSeen": 1610974954953,
+    "lastSeen": 1610975277172,
+    "firstSeenTime": "1:02:34 PM",
+    "lastSeenTime": "1:07:57 PM",
+    "onlineDurationMins": 5.370316666666667
+  },
+  "just-a-random-bot@lichess": {
+    "id": "just-a-random-bot",
+    "provider": "lichess",
+    "username": "Just-a-random-bot",
+    "firstSeen": 1610975112585,
+    "lastSeen": 1610975838771,
+    "firstSeenTime": "1:05:12 PM",
+    "lastSeenTime": "1:10:54 PM",
+    "onlineDurationMins": 5.699
+  },
+  "praggnanandhaa0real@lichess": {
+    "id": "praggnanandhaa0real",
+    "provider": "lichess",
+    "username": "Praggnanandhaa0real",
+    "firstSeen": 1610975748134,
+    "lastSeen": 1610975757428
+  }
+}
