@@ -1,0 +1,36 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1610960864943,
+    "lastSeen": 1611003474575,
+    "firstSeenTime": "9:07:44 AM",
+    "lastSeenTime": "8:01:54 PM",
+    "onlineDurationMins": 654.1561666666666
+  },
+  "alvinho600@lichess": {
+    "id": "alvinho600",
+    "provider": "lichess",
+    "username": "alvinho600",
+    "firstSeen": 1610981609163,
+    "lastSeen": 1611003456051,
+    "firstSeenTime": "2:53:29 PM",
+    "lastSeenTime": "8:01:35 PM",
+    "onlineDurationMins": 308.1111666666667
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1611002916846,
+    "lastSeen": 1611002916846
+  },
+  "xfiless@lichess": {
+    "id": "xfiless",
+    "provider": "lichess",
+    "username": "XfiLeSs",
+    "firstSeen": 1611003631819,
+    "lastSeen": 1611003631820
+  }
+}
