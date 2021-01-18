@@ -1,0 +1,30 @@
+{
+  "jithesh_bot@lichess": {
+    "id": "jithesh_bot",
+    "provider": "lichess",
+    "username": "Jithesh_bot",
+    "firstSeen": 1610954381768,
+    "lastSeen": 1610959346160
+  },
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1610954437426,
+    "lastSeen": 1610959506701
+  },
+  "theworstbot@lichess": {
+    "id": "theworstbot",
+    "provider": "lichess",
+    "username": "theWorstBot",
+    "firstSeen": 1610958169177,
+    "lastSeen": 1610959088968
+  },
+  "meow_robot@lichess": {
+    "id": "meow_robot",
+    "provider": "lichess",
+    "username": "MEOW_ROBOT",
+    "firstSeen": 1610959372777,
+    "lastSeen": 1610959376076
+  }
+}
