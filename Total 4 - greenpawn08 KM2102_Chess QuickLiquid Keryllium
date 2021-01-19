@@ -1,0 +1,39 @@
+{
+  "greenpawn08@lichess": {
+    "id": "greenpawn08",
+    "provider": "lichess",
+    "username": "greenpawn08",
+    "firstSeen": 1611067914218,
+    "lastSeen": 1611083460221,
+    "firstSeenTime": "2:51:54 PM",
+    "lastSeenTime": "7:01:56 PM",
+    "onlineDurationMins": 250.04525
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1611080232096,
+    "lastSeen": 1611083900550,
+    "firstSeenTime": "6:17:12 PM",
+    "lastSeenTime": "7:05:13 PM",
+    "onlineDurationMins": 48.01755
+  },
+  "quickliquid@lichess": {
+    "id": "quickliquid",
+    "provider": "lichess",
+    "username": "QuickLiquid",
+    "firstSeen": 1611082657836,
+    "lastSeen": 1611083901436,
+    "firstSeenTime": "6:57:37 PM",
+    "lastSeenTime": "7:03:43 PM",
+    "onlineDurationMins": 6.086966666666667
+  },
+  "keryllium@lichess": {
+    "id": "keryllium",
+    "provider": "lichess",
+    "username": "Keryllium",
+    "firstSeen": 1611083911918,
+    "lastSeen": 1611083911918
+  }
+}
