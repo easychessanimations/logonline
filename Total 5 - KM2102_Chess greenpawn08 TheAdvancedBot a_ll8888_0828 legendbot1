@@ -1,0 +1,43 @@
+{
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1611055037282,
+    "lastSeen": 1611059896456,
+    "firstSeenTime": "11:17:17 AM",
+    "lastSeenTime": "12:24:58 PM",
+    "onlineDurationMins": 67.6879
+  },
+  "greenpawn08@lichess": {
+    "id": "greenpawn08",
+    "provider": "lichess",
+    "username": "greenpawn08",
+    "firstSeen": 1611057682143,
+    "lastSeen": 1611059848779,
+    "firstSeenTime": "12:01:22 PM",
+    "lastSeenTime": "12:26:25 PM",
+    "onlineDurationMins": 25.05378333333333
+  },
+  "theadvancedbot@lichess": {
+    "id": "theadvancedbot",
+    "provider": "lichess",
+    "username": "TheAdvancedBot",
+    "firstSeen": 1611059422284,
+    "lastSeen": 1611060278716
+  },
+  "a_ll8888_0828@lichess": {
+    "id": "a_ll8888_0828",
+    "provider": "lichess",
+    "username": "a_ll8888_0828",
+    "firstSeen": 1611059770560,
+    "lastSeen": 1611059793155
+  },
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1611060426053,
+    "lastSeen": 1611060426053
+  }
+}
