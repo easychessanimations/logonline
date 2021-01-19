@@ -1,0 +1,42 @@
+{
+  "greenpawn08@lichess": {
+    "id": "greenpawn08",
+    "provider": "lichess",
+    "username": "greenpawn08",
+    "firstSeen": 1611067914218,
+    "lastSeen": 1611082916933,
+    "firstSeenTime": "2:51:54 PM",
+    "lastSeenTime": "7:01:56 PM",
+    "onlineDurationMins": 250.04525
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1611080232096,
+    "lastSeen": 1611083234245,
+    "firstSeenTime": "6:17:12 PM",
+    "lastSeenTime": "7:05:13 PM",
+    "onlineDurationMins": 48.01755
+  },
+  "teamgalaxywars@lichess": {
+    "id": "teamgalaxywars",
+    "provider": "lichess",
+    "username": "TeamGalaxyWars",
+    "firstSeen": 1611081909511,
+    "lastSeen": 1611082641923,
+    "firstSeenTime": "6:45:09 PM",
+    "lastSeenTime": "6:57:21 PM",
+    "onlineDurationMins": 12.206866666666667
+  },
+  "quickliquid@lichess": {
+    "id": "quickliquid",
+    "provider": "lichess",
+    "username": "QuickLiquid",
+    "firstSeen": 1611082657836,
+    "lastSeen": 1611083418228,
+    "firstSeenTime": "6:57:37 PM",
+    "lastSeenTime": "7:03:43 PM",
+    "onlineDurationMins": 6.086966666666667
+  }
+}
