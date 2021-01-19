@@ -1,0 +1,40 @@
+{
+  "greenpawn08@lichess": {
+    "id": "greenpawn08",
+    "provider": "lichess",
+    "username": "greenpawn08",
+    "firstSeen": 1611067914218,
+    "lastSeen": 1611081416621,
+    "firstSeenTime": "2:51:54 PM",
+    "lastSeenTime": "3:41:56 PM",
+    "onlineDurationMins": 50.03895
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1611080232096,
+    "lastSeen": 1611081734105
+  },
+  "hakaishinc@lichess": {
+    "id": "hakaishinc",
+    "provider": "lichess",
+    "username": "hakaishinc",
+    "firstSeen": 1611081127408,
+    "lastSeen": 1611081138770
+  },
+  "crazymaraca@lichess": {
+    "id": "crazymaraca",
+    "provider": "lichess",
+    "username": "crazymaraca",
+    "firstSeen": 1611081365413,
+    "lastSeen": 1611081908343
+  },
+  "teamgalaxywars@lichess": {
+    "id": "teamgalaxywars",
+    "provider": "lichess",
+    "username": "TeamGalaxyWars",
+    "firstSeen": 1611081909511,
+    "lastSeen": 1611081909511
+  }
+}
