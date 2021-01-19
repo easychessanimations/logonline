@@ -1,0 +1,26 @@
+{
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1611055037282,
+    "lastSeen": 1611068990146,
+    "firstSeenTime": "11:17:17 AM",
+    "lastSeenTime": "2:24:06 PM",
+    "onlineDurationMins": 186.81383333333332
+  },
+  "greenpawn08@lichess": {
+    "id": "greenpawn08",
+    "provider": "lichess",
+    "username": "greenpawn08",
+    "firstSeen": 1611067914218,
+    "lastSeen": 1611068579729
+  },
+  "meow_robot@lichess": {
+    "id": "meow_robot",
+    "provider": "lichess",
+    "username": "MEOW_ROBOT",
+    "firstSeen": 1611069021757,
+    "lastSeen": 1611069021757
+  }
+}
