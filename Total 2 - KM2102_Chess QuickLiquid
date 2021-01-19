@@ -1,0 +1,22 @@
+{
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1611080232096,
+    "lastSeen": 1611086351725,
+    "firstSeenTime": "6:17:12 PM",
+    "lastSeenTime": "7:05:13 PM",
+    "onlineDurationMins": 48.01755
+  },
+  "quickliquid@lichess": {
+    "id": "quickliquid",
+    "provider": "lichess",
+    "username": "QuickLiquid",
+    "firstSeen": 1611082657836,
+    "lastSeen": 1611086372462,
+    "firstSeenTime": "6:57:37 PM",
+    "lastSeenTime": "7:03:43 PM",
+    "onlineDurationMins": 6.086966666666667
+  }
+}
