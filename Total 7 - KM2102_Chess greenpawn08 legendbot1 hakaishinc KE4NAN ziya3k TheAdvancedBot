@@ -1,0 +1,60 @@
+{
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1611055037282,
+    "lastSeen": 1611062860413,
+    "firstSeenTime": "11:17:17 AM",
+    "lastSeenTime": "1:02:35 PM",
+    "onlineDurationMins": 105.30076666666666
+  },
+  "greenpawn08@lichess": {
+    "id": "greenpawn08",
+    "provider": "lichess",
+    "username": "greenpawn08",
+    "firstSeen": 1611057682143,
+    "lastSeen": 1611062981233,
+    "firstSeenTime": "12:01:22 PM",
+    "lastSeenTime": "12:51:25 PM",
+    "onlineDurationMins": 50.05665
+  },
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1611060426053,
+    "lastSeen": 1611062449765,
+    "firstSeenTime": "12:47:06 PM",
+    "lastSeenTime": "12:59:44 PM",
+    "onlineDurationMins": 12.641616666666666
+  },
+  "hakaishinc@lichess": {
+    "id": "hakaishinc",
+    "provider": "lichess",
+    "username": "hakaishinc",
+    "firstSeen": 1611061834353,
+    "lastSeen": 1611062982523
+  },
+  "ke4nan@lichess": {
+    "id": "ke4nan",
+    "provider": "lichess",
+    "username": "KE4NAN",
+    "firstSeen": 1611062420131,
+    "lastSeen": 1611062951040
+  },
+  "ziya3k@lichess": {
+    "id": "ziya3k",
+    "provider": "lichess",
+    "username": "ziya3k",
+    "firstSeen": 1611062459518,
+    "lastSeen": 1611062923431
+  },
+  "theadvancedbot@lichess": {
+    "id": "theadvancedbot",
+    "provider": "lichess",
+    "username": "TheAdvancedBot",
+    "firstSeen": 1611063004197,
+    "lastSeen": 1611063004197
+  }
+}
