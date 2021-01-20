@@ -1,0 +1,42 @@
+{
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1611159916595,
+    "lastSeen": 1611170206888,
+    "firstSeenTime": "4:25:16 PM",
+    "lastSeenTime": "7:16:46 PM",
+    "onlineDurationMins": 171.50488333333334
+  },
+  "mistakebot@lichess": {
+    "id": "mistakebot",
+    "provider": "lichess",
+    "username": "MistakeBOT",
+    "firstSeen": 1611167741643,
+    "lastSeen": 1611169872024,
+    "firstSeenTime": "6:35:41 PM",
+    "lastSeenTime": "7:11:12 PM",
+    "onlineDurationMins": 35.50635
+  },
+  "chen_sbot@lichess": {
+    "id": "chen_sbot",
+    "provider": "lichess",
+    "username": "Chen_SBOT",
+    "firstSeen": 1611169344244,
+    "lastSeen": 1611169988347,
+    "firstSeenTime": "7:02:24 PM",
+    "lastSeenTime": "7:13:08 PM",
+    "onlineDurationMins": 10.73505
+  },
+  "a_ll8888_0828@lichess": {
+    "id": "a_ll8888_0828",
+    "provider": "lichess",
+    "username": "a_ll8888_0828",
+    "firstSeen": 1611169950519,
+    "lastSeen": 1611169958774,
+    "firstSeenTime": "7:12:30 PM",
+    "lastSeenTime": "7:12:38 PM",
+    "onlineDurationMins": 0.13758333333333334
+  }
+}
