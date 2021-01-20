@@ -1,0 +1,32 @@
+{
+  "jithesh_bot@lichess": {
+    "id": "jithesh_bot",
+    "provider": "lichess",
+    "username": "Jithesh_bot",
+    "firstSeen": 1611128045012,
+    "lastSeen": 1611128778087,
+    "firstSeenTime": "7:34:05 AM",
+    "lastSeenTime": "7:34:15 AM",
+    "onlineDurationMins": 0.17293333333333333
+  },
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1611128124142,
+    "lastSeen": 1611128942996,
+    "firstSeenTime": "7:35:24 AM",
+    "lastSeenTime": "7:35:29 AM",
+    "onlineDurationMins": 0.08951666666666666
+  },
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1611128124507,
+    "lastSeen": 1611128792352,
+    "firstSeenTime": "7:35:24 AM",
+    "lastSeenTime": "7:35:31 AM",
+    "onlineDurationMins": 0.11068333333333333
+  }
+}
