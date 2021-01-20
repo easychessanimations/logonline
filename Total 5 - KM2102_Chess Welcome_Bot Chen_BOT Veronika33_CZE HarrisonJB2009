@@ -1,0 +1,52 @@
+{
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1611147185386,
+    "lastSeen": 1611150273511,
+    "firstSeenTime": "12:53:05 PM",
+    "lastSeenTime": "1:44:33 PM",
+    "onlineDurationMins": 51.46875
+  },
+  "welcome_bot@lichess": {
+    "id": "welcome_bot",
+    "provider": "lichess",
+    "username": "Welcome_Bot",
+    "firstSeen": 1611147203324,
+    "lastSeen": 1611150266915,
+    "firstSeenTime": "12:53:23 PM",
+    "lastSeenTime": "1:44:26 PM",
+    "onlineDurationMins": 51.05985
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611147280900,
+    "lastSeen": 1611150530179,
+    "firstSeenTime": "12:54:40 PM",
+    "lastSeenTime": "1:46:45 PM",
+    "onlineDurationMins": 52.081966666666666
+  },
+  "veronika33_cze@lichess": {
+    "id": "veronika33_cze",
+    "provider": "lichess",
+    "username": "Veronika33_CZE",
+    "firstSeen": 1611147391192,
+    "lastSeen": 1611149914875,
+    "firstSeenTime": "12:56:31 PM",
+    "lastSeenTime": "1:38:34 PM",
+    "onlineDurationMins": 42.06138333333333
+  },
+  "harrisonjb2009@lichess": {
+    "id": "harrisonjb2009",
+    "provider": "lichess",
+    "username": "HarrisonJB2009",
+    "firstSeen": 1611150181590,
+    "lastSeen": 1611150530286,
+    "firstSeenTime": "1:43:01 PM",
+    "lastSeenTime": "1:45:37 PM",
+    "onlineDurationMins": 2.598133333333333
+  }
+}
