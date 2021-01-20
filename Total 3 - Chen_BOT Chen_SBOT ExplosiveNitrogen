@@ -1,0 +1,29 @@
+{
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611170529356,
+    "lastSeen": 1611174783583,
+    "firstSeenTime": "7:22:09 PM",
+    "lastSeenTime": "8:11:03 PM",
+    "onlineDurationMins": 48.903083333333335
+  },
+  "chen_sbot@lichess": {
+    "id": "chen_sbot",
+    "provider": "lichess",
+    "username": "Chen_SBOT",
+    "firstSeen": 1611173104019,
+    "lastSeen": 1611174720876,
+    "firstSeenTime": "8:05:04 PM",
+    "lastSeenTime": "8:18:04 PM",
+    "onlineDurationMins": 13.000066666666667
+  },
+  "explosivenitrogen@lichess": {
+    "id": "explosivenitrogen",
+    "provider": "lichess",
+    "username": "ExplosiveNitrogen",
+    "firstSeen": 1611174860865,
+    "lastSeen": 1611174860865
+  }
+}
