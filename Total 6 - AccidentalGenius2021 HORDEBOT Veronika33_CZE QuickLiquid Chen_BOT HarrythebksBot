@@ -1,0 +1,62 @@
+{
+  "accidentalgenius2021@lichess": {
+    "id": "accidentalgenius2021",
+    "provider": "lichess",
+    "username": "AccidentalGenius2021",
+    "firstSeen": 1611129518133,
+    "lastSeen": 1611143926931,
+    "firstSeenTime": "7:58:38 AM",
+    "lastSeenTime": "11:47:43 AM",
+    "onlineDurationMins": 229.08608333333333
+  },
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1611132986928,
+    "lastSeen": 1611144139251,
+    "firstSeenTime": "8:56:26 AM",
+    "lastSeenTime": "11:55:25 AM",
+    "onlineDurationMins": 178.98138333333333
+  },
+  "veronika33_cze@lichess": {
+    "id": "veronika33_cze",
+    "provider": "lichess",
+    "username": "Veronika33_CZE",
+    "firstSeen": 1611141691077,
+    "lastSeen": 1611144057869,
+    "firstSeenTime": "11:21:31 AM",
+    "lastSeenTime": "11:54:34 AM",
+    "onlineDurationMins": 33.057316666666665
+  },
+  "quickliquid@lichess": {
+    "id": "quickliquid",
+    "provider": "lichess",
+    "username": "QuickLiquid",
+    "firstSeen": 1611142174273,
+    "lastSeen": 1611144094032,
+    "firstSeenTime": "11:29:34 AM",
+    "lastSeenTime": "11:52:56 AM",
+    "onlineDurationMins": 23.36375
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611143433736,
+    "lastSeen": 1611144155552,
+    "firstSeenTime": "11:50:33 AM",
+    "lastSeenTime": "11:55:45 AM",
+    "onlineDurationMins": 5.199
+  },
+  "harrythebksbot@lichess": {
+    "id": "harrythebksbot",
+    "provider": "lichess",
+    "username": "HarrythebksBot",
+    "firstSeen": 1611143693115,
+    "lastSeen": 1611144155631,
+    "firstSeenTime": "11:54:53 AM",
+    "lastSeenTime": "11:55:45 AM",
+    "onlineDurationMins": 0.8767166666666667
+  }
+}
