@@ -1,0 +1,29 @@
+{
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1611147185386,
+    "lastSeen": 1611157630298,
+    "firstSeenTime": "12:53:05 PM",
+    "lastSeenTime": "3:36:51 PM",
+    "onlineDurationMins": 163.77561666666668
+  },
+  "quickliquid@lichess": {
+    "id": "quickliquid",
+    "provider": "lichess",
+    "username": "QuickLiquid",
+    "firstSeen": 1611153359385,
+    "lastSeen": 1611156950909,
+    "firstSeenTime": "2:35:59 PM",
+    "lastSeenTime": "3:35:50 PM",
+    "onlineDurationMins": 59.85873333333333
+  },
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1611157712328,
+    "lastSeen": 1611157712328
+  }
+}
