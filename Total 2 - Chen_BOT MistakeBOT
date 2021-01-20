@@ -1,0 +1,22 @@
+{
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611170529356,
+    "lastSeen": 1611179159853,
+    "firstSeenTime": "7:22:09 PM",
+    "lastSeenTime": "9:33:03 PM",
+    "onlineDurationMins": 130.9051
+  },
+  "mistakebot@lichess": {
+    "id": "mistakebot",
+    "provider": "lichess",
+    "username": "MistakeBOT",
+    "firstSeen": 1611175819661,
+    "lastSeen": 1611179447269,
+    "firstSeenTime": "8:50:19 PM",
+    "lastSeenTime": "9:34:23 PM",
+    "onlineDurationMins": 44.06228333333333
+  }
+}
