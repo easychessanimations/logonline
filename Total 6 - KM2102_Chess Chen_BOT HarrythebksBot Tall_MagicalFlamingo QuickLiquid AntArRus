@@ -1,0 +1,50 @@
+{
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1611147185386,
+    "lastSeen": 1611154966370,
+    "firstSeenTime": "12:53:05 PM",
+    "lastSeenTime": "1:44:33 PM",
+    "onlineDurationMins": 51.46875
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611147280900,
+    "lastSeen": 1611154929957,
+    "firstSeenTime": "12:54:40 PM",
+    "lastSeenTime": "1:46:45 PM",
+    "onlineDurationMins": 52.081966666666666
+  },
+  "harrythebksbot@lichess": {
+    "id": "harrythebksbot",
+    "provider": "lichess",
+    "username": "HarrythebksBot",
+    "firstSeen": 1611152313386,
+    "lastSeen": 1611155047221
+  },
+  "tall_magicalflamingo@lichess": {
+    "id": "tall_magicalflamingo",
+    "provider": "lichess",
+    "username": "Tall_MagicalFlamingo",
+    "firstSeen": 1611152421240,
+    "lastSeen": 1611154861408
+  },
+  "quickliquid@lichess": {
+    "id": "quickliquid",
+    "provider": "lichess",
+    "username": "QuickLiquid",
+    "firstSeen": 1611153359385,
+    "lastSeen": 1611155002068
+  },
+  "antarrus@lichess": {
+    "id": "antarrus",
+    "provider": "lichess",
+    "username": "AntArRus",
+    "firstSeen": 1611154046294,
+    "lastSeen": 1611154736586
+  }
+}
