@@ -1,0 +1,39 @@
+{
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1611147185386,
+    "lastSeen": 1611150913134,
+    "firstSeenTime": "12:53:05 PM",
+    "lastSeenTime": "1:44:33 PM",
+    "onlineDurationMins": 51.46875
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611147280900,
+    "lastSeen": 1611151277373,
+    "firstSeenTime": "12:54:40 PM",
+    "lastSeenTime": "1:46:45 PM",
+    "onlineDurationMins": 52.081966666666666
+  },
+  "harrisonjb2009@lichess": {
+    "id": "harrisonjb2009",
+    "provider": "lichess",
+    "username": "HarrisonJB2009",
+    "firstSeen": 1611150181590,
+    "lastSeen": 1611150785934,
+    "firstSeenTime": "1:43:01 PM",
+    "lastSeenTime": "1:45:37 PM",
+    "onlineDurationMins": 2.598133333333333
+  },
+  "agent-777@lichess": {
+    "id": "agent-777",
+    "provider": "lichess",
+    "username": "Agent-777",
+    "firstSeen": 1611151123293,
+    "lastSeen": 1611151128500
+  }
+}
