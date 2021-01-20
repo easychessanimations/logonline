@@ -1,0 +1,79 @@
+{
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1611157712328,
+    "lastSeen": 1611161321820,
+    "firstSeenTime": "3:48:32 PM",
+    "lastSeenTime": "4:46:30 PM",
+    "onlineDurationMins": 57.96125
+  },
+  "chen_sbot@lichess": {
+    "id": "chen_sbot",
+    "provider": "lichess",
+    "username": "Chen_SBOT",
+    "firstSeen": 1611158410797,
+    "lastSeen": 1611161347291,
+    "firstSeenTime": "4:00:10 PM",
+    "lastSeenTime": "4:38:07 PM",
+    "onlineDurationMins": 37.94185
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611158601885,
+    "lastSeen": 1611161321591,
+    "firstSeenTime": "4:03:21 PM",
+    "lastSeenTime": "4:45:33 PM",
+    "onlineDurationMins": 42.2012
+  },
+  "harrythebksbot@lichess": {
+    "id": "harrythebksbot",
+    "provider": "lichess",
+    "username": "HarrythebksBot",
+    "firstSeen": 1611159084614,
+    "lastSeen": 1611161300683,
+    "firstSeenTime": "4:11:24 PM",
+    "lastSeenTime": "4:44:56 PM",
+    "onlineDurationMins": 33.53276666666667
+  },
+  "tall_magicalflamingo@lichess": {
+    "id": "tall_magicalflamingo",
+    "provider": "lichess",
+    "username": "Tall_MagicalFlamingo",
+    "firstSeen": 1611159422099,
+    "lastSeen": 1611161398480,
+    "firstSeenTime": "4:17:02 PM",
+    "lastSeenTime": "4:42:47 PM",
+    "onlineDurationMins": 25.753816666666665
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1611159916595,
+    "lastSeen": 1611161034347,
+    "firstSeenTime": "4:25:16 PM",
+    "lastSeenTime": "4:43:54 PM",
+    "onlineDurationMins": 18.6292
+  },
+  "welcome_bot@lichess": {
+    "id": "welcome_bot",
+    "provider": "lichess",
+    "username": "Welcome_Bot",
+    "firstSeen": 1611160480430,
+    "lastSeen": 1611161322102,
+    "firstSeenTime": "4:34:40 PM",
+    "lastSeenTime": "4:46:49 PM",
+    "onlineDurationMins": 12.15
+  },
+  "veronika33_cze@lichess": {
+    "id": "veronika33_cze",
+    "provider": "lichess",
+    "username": "Veronika33_CZE",
+    "firstSeen": 1611161417201,
+    "lastSeen": 1611161417207
+  }
+}
