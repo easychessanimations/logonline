@@ -1,0 +1,26 @@
+{
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1611128124142,
+    "lastSeen": 1611131017921,
+    "firstSeenTime": "7:35:24 AM",
+    "lastSeenTime": "7:35:29 AM",
+    "onlineDurationMins": 0.08951666666666666
+  },
+  "accidentalgenius2021@lichess": {
+    "id": "accidentalgenius2021",
+    "provider": "lichess",
+    "username": "AccidentalGenius2021",
+    "firstSeen": 1611129518133,
+    "lastSeen": 1611131024477
+  },
+  "ziya3k@lichess": {
+    "id": "ziya3k",
+    "provider": "lichess",
+    "username": "ziya3k",
+    "firstSeen": 1611131125068,
+    "lastSeen": 1611131125068
+  }
+}
