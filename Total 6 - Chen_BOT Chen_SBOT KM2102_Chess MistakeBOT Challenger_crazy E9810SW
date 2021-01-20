@@ -1,0 +1,56 @@
+{
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611170529356,
+    "lastSeen": 1611176627150,
+    "firstSeenTime": "7:22:09 PM",
+    "lastSeenTime": "8:51:01 PM",
+    "onlineDurationMins": 88.86891666666666
+  },
+  "chen_sbot@lichess": {
+    "id": "chen_sbot",
+    "provider": "lichess",
+    "username": "Chen_SBOT",
+    "firstSeen": 1611173104019,
+    "lastSeen": 1611176704627,
+    "firstSeenTime": "8:05:04 PM",
+    "lastSeenTime": "8:48:07 PM",
+    "onlineDurationMins": 43.06496666666666
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1611175118650,
+    "lastSeen": 1611176628642,
+    "firstSeenTime": "8:38:38 PM",
+    "lastSeenTime": "8:47:30 PM",
+    "onlineDurationMins": 8.867483333333332
+  },
+  "mistakebot@lichess": {
+    "id": "mistakebot",
+    "provider": "lichess",
+    "username": "MistakeBOT",
+    "firstSeen": 1611175819661,
+    "lastSeen": 1611176744459,
+    "firstSeenTime": "8:50:19 PM",
+    "lastSeenTime": "8:52:19 PM",
+    "onlineDurationMins": 2.0002
+  },
+  "challenger_crazy@lichess": {
+    "id": "challenger_crazy",
+    "provider": "lichess",
+    "username": "Challenger_crazy",
+    "firstSeen": 1611176231480,
+    "lastSeen": 1611176600331
+  },
+  "e9810sw@lichess": {
+    "id": "e9810sw",
+    "provider": "lichess",
+    "username": "E9810SW",
+    "firstSeen": 1611176853525,
+    "lastSeen": 1611176853525
+  }
+}
