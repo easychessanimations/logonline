@@ -1,0 +1,39 @@
+{
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1611157712328,
+    "lastSeen": 1611167733937,
+    "firstSeenTime": "3:48:32 PM",
+    "lastSeenTime": "6:19:53 PM",
+    "onlineDurationMins": 151.35508333333334
+  },
+  "harrythebksbot@lichess": {
+    "id": "harrythebksbot",
+    "provider": "lichess",
+    "username": "HarrythebksBot",
+    "firstSeen": 1611159084614,
+    "lastSeen": 1611167604053,
+    "firstSeenTime": "4:11:24 PM",
+    "lastSeenTime": "6:16:04 PM",
+    "onlineDurationMins": 124.6615
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1611159916595,
+    "lastSeen": 1611167059145,
+    "firstSeenTime": "4:25:16 PM",
+    "lastSeenTime": "6:11:29 PM",
+    "onlineDurationMins": 106.21145
+  },
+  "mistakebot@lichess": {
+    "id": "mistakebot",
+    "provider": "lichess",
+    "username": "MistakeBOT",
+    "firstSeen": 1611167741643,
+    "lastSeen": 1611167741643
+  }
+}
