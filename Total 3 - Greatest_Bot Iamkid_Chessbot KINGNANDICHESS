@@ -1,0 +1,23 @@
+{
+  "greatest_bot@lichess": {
+    "id": "greatest_bot",
+    "provider": "lichess",
+    "username": "Greatest_Bot",
+    "firstSeen": 1611206667175,
+    "lastSeen": 1611206683760
+  },
+  "iamkid_chessbot@lichess": {
+    "id": "iamkid_chessbot",
+    "provider": "lichess",
+    "username": "Iamkid_Chessbot",
+    "firstSeen": 1611206742429,
+    "lastSeen": 1611206742429
+  },
+  "kingnandichess@lichess": {
+    "id": "kingnandichess",
+    "provider": "lichess",
+    "username": "KINGNANDICHESS",
+    "firstSeen": 1611206772661,
+    "lastSeen": 1611206772661
+  }
+}
