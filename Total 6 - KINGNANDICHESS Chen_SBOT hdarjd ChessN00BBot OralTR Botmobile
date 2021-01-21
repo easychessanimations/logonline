@@ -1,0 +1,53 @@
+{
+  "kingnandichess@lichess": {
+    "id": "kingnandichess",
+    "provider": "lichess",
+    "username": "KINGNANDICHESS",
+    "firstSeen": 1611229243281,
+    "lastSeen": 1611233169927,
+    "firstSeenTime": "11:40:43 AM",
+    "lastSeenTime": "12:25:32 PM",
+    "onlineDurationMins": 44.826033333333335
+  },
+  "chen_sbot@lichess": {
+    "id": "chen_sbot",
+    "provider": "lichess",
+    "username": "Chen_SBOT",
+    "firstSeen": 1611229429893,
+    "lastSeen": 1611233335166,
+    "firstSeenTime": "11:43:49 AM",
+    "lastSeenTime": "12:26:26 PM",
+    "onlineDurationMins": 42.60438333333333
+  },
+  "hdarjd@lichess": {
+    "id": "hdarjd",
+    "provider": "lichess",
+    "username": "hdarjd",
+    "firstSeen": 1611231965641,
+    "lastSeen": 1611233358561,
+    "firstSeenTime": "12:26:05 PM",
+    "lastSeenTime": "12:26:34 PM",
+    "onlineDurationMins": 0.48811666666666664
+  },
+  "chessn00bbot@lichess": {
+    "id": "chessn00bbot",
+    "provider": "lichess",
+    "username": "ChessN00BBot",
+    "firstSeen": 1611232414003,
+    "lastSeen": 1611232736854
+  },
+  "oraltr@lichess": {
+    "id": "oraltr",
+    "provider": "lichess",
+    "username": "OralTR",
+    "firstSeen": 1611232970179,
+    "lastSeen": 1611233253635
+  },
+  "botmobile@lichess": {
+    "id": "botmobile",
+    "provider": "lichess",
+    "username": "Botmobile",
+    "firstSeen": 1611233358955,
+    "lastSeen": 1611233358955
+  }
+}
