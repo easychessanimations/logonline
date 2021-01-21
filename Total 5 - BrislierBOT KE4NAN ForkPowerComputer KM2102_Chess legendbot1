@@ -1,0 +1,49 @@
+{
+  "brislierbot@lichess": {
+    "id": "brislierbot",
+    "provider": "lichess",
+    "username": "BrislierBOT",
+    "firstSeen": 1611243784349,
+    "lastSeen": 1611252127454,
+    "firstSeenTime": "3:43:04 PM",
+    "lastSeenTime": "6:02:07 PM",
+    "onlineDurationMins": 139.05175
+  },
+  "ke4nan@lichess": {
+    "id": "ke4nan",
+    "provider": "lichess",
+    "username": "KE4NAN",
+    "firstSeen": 1611248034947,
+    "lastSeen": 1611252476419,
+    "firstSeenTime": "4:53:54 PM",
+    "lastSeenTime": "6:06:46 PM",
+    "onlineDurationMins": 72.8637
+  },
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1611249310494,
+    "lastSeen": 1611251652963,
+    "firstSeenTime": "5:15:10 PM",
+    "lastSeenTime": "5:54:12 PM",
+    "onlineDurationMins": 39.04115
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1611251768193,
+    "lastSeen": 1611251771741,
+    "firstSeenTime": "5:56:08 PM",
+    "lastSeenTime": "5:56:11 PM",
+    "onlineDurationMins": 0.059133333333333336
+  },
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1611252498076,
+    "lastSeen": 1611252498076
+  }
+}
