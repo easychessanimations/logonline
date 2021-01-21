@@ -1,0 +1,67 @@
+{
+  "kingnandichess@lichess": {
+    "id": "kingnandichess",
+    "provider": "lichess",
+    "username": "KINGNANDICHESS",
+    "firstSeen": 1611229243281,
+    "lastSeen": 1611233940982,
+    "firstSeenTime": "11:40:43 AM",
+    "lastSeenTime": "12:25:32 PM",
+    "onlineDurationMins": 44.826033333333335
+  },
+  "chen_sbot@lichess": {
+    "id": "chen_sbot",
+    "provider": "lichess",
+    "username": "Chen_SBOT",
+    "firstSeen": 1611229429893,
+    "lastSeen": 1611233426169,
+    "firstSeenTime": "11:43:49 AM",
+    "lastSeenTime": "12:26:26 PM",
+    "onlineDurationMins": 42.60438333333333
+  },
+  "hdarjd@lichess": {
+    "id": "hdarjd",
+    "provider": "lichess",
+    "username": "hdarjd",
+    "firstSeen": 1611231965641,
+    "lastSeen": 1611233926837,
+    "firstSeenTime": "12:26:05 PM",
+    "lastSeenTime": "12:26:34 PM",
+    "onlineDurationMins": 0.48811666666666664
+  },
+  "oraltr@lichess": {
+    "id": "oraltr",
+    "provider": "lichess",
+    "username": "OralTR",
+    "firstSeen": 1611232970179,
+    "lastSeen": 1611233449817
+  },
+  "botmobile@lichess": {
+    "id": "botmobile",
+    "provider": "lichess",
+    "username": "Botmobile",
+    "firstSeen": 1611233358955,
+    "lastSeen": 1611233358986
+  },
+  "799237961912025089@discord": {
+    "id": "799237961912025089",
+    "provider": "discord",
+    "username": "Mustafa_Oral",
+    "firstSeen": 1611233450346,
+    "lastSeen": 1611233967215
+  },
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1611233745599,
+    "lastSeen": 1611233918411
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611234004923,
+    "lastSeen": 1611234004924
+  }
+}
