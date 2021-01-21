@@ -1,0 +1,73 @@
+{
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1611212808296,
+    "lastSeen": 1611224430860,
+    "firstSeenTime": "7:06:48 AM",
+    "lastSeenTime": "9:32:15 AM",
+    "onlineDurationMins": 145.45413333333335
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611216425100,
+    "lastSeen": 1611224471968,
+    "firstSeenTime": "8:07:05 AM",
+    "lastSeenTime": "9:31:48 AM",
+    "onlineDurationMins": 84.73013333333333
+  },
+  "kingnandichess@lichess": {
+    "id": "kingnandichess",
+    "provider": "lichess",
+    "username": "KINGNANDICHESS",
+    "firstSeen": 1611219448615,
+    "lastSeen": 1611224052728,
+    "firstSeenTime": "8:57:28 AM",
+    "lastSeenTime": "9:33:43 AM",
+    "onlineDurationMins": 36.24151666666667
+  },
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1611221086487,
+    "lastSeen": 1611224457308,
+    "firstSeenTime": "9:24:46 AM",
+    "lastSeenTime": "9:24:57 AM",
+    "onlineDurationMins": 0.18801666666666667
+  },
+  "veronika33_cze@lichess": {
+    "id": "veronika33_cze",
+    "provider": "lichess",
+    "username": "Veronika33_CZE",
+    "firstSeen": 1611221295302,
+    "lastSeen": 1611224435829,
+    "firstSeenTime": "9:28:15 AM",
+    "lastSeenTime": "9:33:38 AM",
+    "onlineDurationMins": 5.392
+  },
+  "adam207@lichess": {
+    "id": "adam207",
+    "provider": "lichess",
+    "username": "adam207",
+    "firstSeen": 1611222796376,
+    "lastSeen": 1611224466777
+  },
+  "brislierbot@lichess": {
+    "id": "brislierbot",
+    "provider": "lichess",
+    "username": "BrislierBOT",
+    "firstSeen": 1611223090251,
+    "lastSeen": 1611224808518
+  },
+  "thejanamax@lichess": {
+    "id": "thejanamax",
+    "provider": "lichess",
+    "username": "thejanamax",
+    "firstSeen": 1611224810542,
+    "lastSeen": 1611224810542
+  }
+}
