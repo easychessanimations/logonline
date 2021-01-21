@@ -4,23 +4,26 @@
     "provider": "lichess",
     "username": "Chen_SBOT",
     "firstSeen": 1611260720507,
-    "lastSeen": 1611262710563,
+    "lastSeen": 1611264656098,
     "firstSeenTime": "8:25:20 PM",
-    "lastSeenTime": "8:58:30 PM",
-    "onlineDurationMins": 33.1676
+    "lastSeenTime": "9:20:31 PM",
+    "onlineDurationMins": 55.18345
   },
   "best_lool@lichess": {
     "id": "best_lool",
     "provider": "lichess",
     "username": "BEST_LOOL",
     "firstSeen": 1611262958962,
-    "lastSeen": 1611262975090
+    "lastSeen": 1611263935498,
+    "firstSeenTime": "9:02:38 PM",
+    "lastSeenTime": "9:18:55 PM",
+    "onlineDurationMins": 16.2756
   },
   "km2102_chess@lichess": {
     "id": "km2102_chess",
     "provider": "lichess",
     "username": "KM2102_Chess",
-    "firstSeen": 1611263052946,
-    "lastSeen": 1611263052946
+    "firstSeen": 1611264828845,
+    "lastSeen": 1611264828845
   }
 }
