@@ -1,0 +1,72 @@
+{
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1611212808296,
+    "lastSeen": 1611225160071,
+    "firstSeenTime": "7:06:48 AM",
+    "lastSeenTime": "10:32:40 AM",
+    "onlineDurationMins": 205.86291666666668
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611216425100,
+    "lastSeen": 1611225321175,
+    "firstSeenTime": "8:07:05 AM",
+    "lastSeenTime": "10:35:18 AM",
+    "onlineDurationMins": 148.22
+  },
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1611221086487,
+    "lastSeen": 1611225115869,
+    "firstSeenTime": "9:24:46 AM",
+    "lastSeenTime": "10:31:55 AM",
+    "onlineDurationMins": 67.15636666666667
+  },
+  "veronika33_cze@lichess": {
+    "id": "veronika33_cze",
+    "provider": "lichess",
+    "username": "Veronika33_CZE",
+    "firstSeen": 1611221295302,
+    "lastSeen": 1611225095028,
+    "firstSeenTime": "9:28:15 AM",
+    "lastSeenTime": "10:31:35 AM",
+    "onlineDurationMins": 63.32876666666667
+  },
+  "brislierbot@lichess": {
+    "id": "brislierbot",
+    "provider": "lichess",
+    "username": "BrislierBOT",
+    "firstSeen": 1611223090251,
+    "lastSeen": 1611225284469,
+    "firstSeenTime": "9:58:10 AM",
+    "lastSeenTime": "10:34:44 AM",
+    "onlineDurationMins": 36.5703
+  },
+  "thejanamax@lichess": {
+    "id": "thejanamax",
+    "provider": "lichess",
+    "username": "thejanamax",
+    "firstSeen": 1611224810542,
+    "lastSeen": 1611224960823,
+    "firstSeenTime": "10:26:50 AM",
+    "lastSeenTime": "10:29:20 AM",
+    "onlineDurationMins": 2.5046833333333334
+  },
+  "johan201023_chess@lichess": {
+    "id": "johan201023_chess",
+    "provider": "lichess",
+    "username": "Johan201023_Chess",
+    "firstSeen": 1611224980477,
+    "lastSeen": 1611225141459,
+    "firstSeenTime": "10:29:40 AM",
+    "lastSeenTime": "10:32:21 AM",
+    "onlineDurationMins": 2.6830333333333334
+  }
+}
