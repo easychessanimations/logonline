@@ -1,0 +1,56 @@
+{
+  "salmontrys@lichess": {
+    "id": "salmontrys",
+    "provider": "lichess",
+    "username": "SalmonTrys",
+    "firstSeen": 1611242541592,
+    "lastSeen": 1611243011956,
+    "firstSeenTime": "3:22:21 PM",
+    "lastSeenTime": "3:30:11 PM",
+    "onlineDurationMins": 7.8394
+  },
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1611242975707,
+    "lastSeen": 1611242978904,
+    "firstSeenTime": "3:29:35 PM",
+    "lastSeenTime": "3:29:38 PM",
+    "onlineDurationMins": 0.053283333333333335
+  },
+  "chen_sbot@lichess": {
+    "id": "chen_sbot",
+    "provider": "lichess",
+    "username": "Chen_SBOT",
+    "firstSeen": 1611242995508,
+    "lastSeen": 1611243063386,
+    "firstSeenTime": "3:29:55 PM",
+    "lastSeenTime": "3:30:41 PM",
+    "onlineDurationMins": 0.7675666666666666
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611243038931,
+    "lastSeen": 1611243042251,
+    "firstSeenTime": "3:30:38 PM",
+    "lastSeenTime": "3:30:42 PM",
+    "onlineDurationMins": 0.05533333333333333
+  },
+  "brislierbot@lichess": {
+    "id": "brislierbot",
+    "provider": "lichess",
+    "username": "BrislierBOT",
+    "firstSeen": 1611243064365,
+    "lastSeen": 1611243067563
+  },
+  "kaan_2012@lichess": {
+    "id": "kaan_2012",
+    "provider": "lichess",
+    "username": "KAAN_2012",
+    "firstSeen": 1611243082551,
+    "lastSeen": 1611243082552
+  }
+}
