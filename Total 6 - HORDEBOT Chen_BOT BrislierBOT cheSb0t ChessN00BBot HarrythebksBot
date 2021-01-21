@@ -1,0 +1,62 @@
+{
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1611212808296,
+    "lastSeen": 1611227435004,
+    "firstSeenTime": "7:06:48 AM",
+    "lastSeenTime": "11:05:34 AM",
+    "onlineDurationMins": 238.77346666666668
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611216425100,
+    "lastSeen": 1611227448953,
+    "firstSeenTime": "8:07:05 AM",
+    "lastSeenTime": "11:04:01 AM",
+    "onlineDurationMins": 176.94696666666667
+  },
+  "brislierbot@lichess": {
+    "id": "brislierbot",
+    "provider": "lichess",
+    "username": "BrislierBOT",
+    "firstSeen": 1611223090251,
+    "lastSeen": 1611226773622,
+    "firstSeenTime": "9:58:10 AM",
+    "lastSeenTime": "10:59:33 AM",
+    "onlineDurationMins": 61.389516666666665
+  },
+  "chesb0t@lichess": {
+    "id": "chesb0t",
+    "provider": "lichess",
+    "username": "cheSb0t",
+    "firstSeen": 1611225680034,
+    "lastSeen": 1611227044948,
+    "firstSeenTime": "10:41:20 AM",
+    "lastSeenTime": "11:04:04 AM",
+    "onlineDurationMins": 22.748566666666665
+  },
+  "chessn00bbot@lichess": {
+    "id": "chessn00bbot",
+    "provider": "lichess",
+    "username": "ChessN00BBot",
+    "firstSeen": 1611225888517,
+    "lastSeen": 1611227474900,
+    "firstSeenTime": "10:44:48 AM",
+    "lastSeenTime": "10:59:09 AM",
+    "onlineDurationMins": 14.3503
+  },
+  "harrythebksbot@lichess": {
+    "id": "harrythebksbot",
+    "provider": "lichess",
+    "username": "HarrythebksBot",
+    "firstSeen": 1611226532500,
+    "lastSeen": 1611227449001,
+    "firstSeenTime": "10:55:32 AM",
+    "lastSeenTime": "11:03:51 AM",
+    "onlineDurationMins": 8.323683333333333
+  }
+}
