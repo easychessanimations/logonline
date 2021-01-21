@@ -1,0 +1,80 @@
+{
+  "chen_sbot@lichess": {
+    "id": "chen_sbot",
+    "provider": "lichess",
+    "username": "Chen_SBOT",
+    "firstSeen": 1611243743521,
+    "lastSeen": 1611247958518,
+    "firstSeenTime": "3:42:23 PM",
+    "lastSeenTime": "4:33:55 PM",
+    "onlineDurationMins": 51.5338
+  },
+  "kaan_2012@lichess": {
+    "id": "kaan_2012",
+    "provider": "lichess",
+    "username": "KAAN_2012",
+    "firstSeen": 1611243743651,
+    "lastSeen": 1611247289774,
+    "firstSeenTime": "3:42:23 PM",
+    "lastSeenTime": "4:33:22 PM",
+    "onlineDurationMins": 50.97748333333333
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611243758958,
+    "lastSeen": 1611247899173,
+    "firstSeenTime": "3:42:38 PM",
+    "lastSeenTime": "4:29:42 PM",
+    "onlineDurationMins": 47.05381666666667
+  },
+  "brislierbot@lichess": {
+    "id": "brislierbot",
+    "provider": "lichess",
+    "username": "BrislierBOT",
+    "firstSeen": 1611243784349,
+    "lastSeen": 1611247927591,
+    "firstSeenTime": "3:43:04 PM",
+    "lastSeenTime": "4:36:04 PM",
+    "onlineDurationMins": 53.00125
+  },
+  "salmontrys@lichess": {
+    "id": "salmontrys",
+    "provider": "lichess",
+    "username": "SalmonTrys",
+    "firstSeen": 1611243788644,
+    "lastSeen": 1611247268635,
+    "firstSeenTime": "3:43:08 PM",
+    "lastSeenTime": "4:37:08 PM",
+    "onlineDurationMins": 54.00038333333333
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1611247057401,
+    "lastSeen": 1611247261906
+  },
+  "ziya3k@lichess": {
+    "id": "ziya3k",
+    "provider": "lichess",
+    "username": "ziya3k",
+    "firstSeen": 1611247997850,
+    "lastSeen": 1611248021791
+  },
+  "ke4nan@lichess": {
+    "id": "ke4nan",
+    "provider": "lichess",
+    "username": "KE4NAN",
+    "firstSeen": 1611248034947,
+    "lastSeen": 1611248057837
+  },
+  "botcava@lichess": {
+    "id": "botcava",
+    "provider": "lichess",
+    "username": "botcava",
+    "firstSeen": 1611248069473,
+    "lastSeen": 1611248069473
+  }
+}
