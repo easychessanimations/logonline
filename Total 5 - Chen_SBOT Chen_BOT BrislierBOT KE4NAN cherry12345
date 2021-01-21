@@ -1,0 +1,49 @@
+{
+  "chen_sbot@lichess": {
+    "id": "chen_sbot",
+    "provider": "lichess",
+    "username": "Chen_SBOT",
+    "firstSeen": 1611243743521,
+    "lastSeen": 1611248786732,
+    "firstSeenTime": "3:42:23 PM",
+    "lastSeenTime": "4:58:55 PM",
+    "onlineDurationMins": 76.53436666666667
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611243758958,
+    "lastSeen": 1611248742500,
+    "firstSeenTime": "3:42:38 PM",
+    "lastSeenTime": "4:51:39 PM",
+    "onlineDurationMins": 69.00358333333334
+  },
+  "brislierbot@lichess": {
+    "id": "brislierbot",
+    "provider": "lichess",
+    "username": "BrislierBOT",
+    "firstSeen": 1611243784349,
+    "lastSeen": 1611248767502,
+    "firstSeenTime": "3:43:04 PM",
+    "lastSeenTime": "5:01:04 PM",
+    "onlineDurationMins": 78.00136666666667
+  },
+  "ke4nan@lichess": {
+    "id": "ke4nan",
+    "provider": "lichess",
+    "username": "KE4NAN",
+    "firstSeen": 1611248034947,
+    "lastSeen": 1611249058372,
+    "firstSeenTime": "4:53:54 PM",
+    "lastSeenTime": "5:03:09 PM",
+    "onlineDurationMins": 9.24615
+  },
+  "cherry12345@lichess": {
+    "id": "cherry12345",
+    "provider": "lichess",
+    "username": "cherry12345",
+    "firstSeen": 1611248805439,
+    "lastSeen": 1611248835250
+  }
+}
