@@ -1,0 +1,79 @@
+{
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1611212808296,
+    "lastSeen": 1611224832096,
+    "firstSeenTime": "7:06:48 AM",
+    "lastSeenTime": "10:27:12 AM",
+    "onlineDurationMins": 200.39666666666668
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611216425100,
+    "lastSeen": 1611224980455,
+    "firstSeenTime": "8:07:05 AM",
+    "lastSeenTime": "10:28:55 AM",
+    "onlineDurationMins": 141.8324
+  },
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1611221086487,
+    "lastSeen": 1611224457308,
+    "firstSeenTime": "9:24:46 AM",
+    "lastSeenTime": "10:20:57 AM",
+    "onlineDurationMins": 56.18035
+  },
+  "veronika33_cze@lichess": {
+    "id": "veronika33_cze",
+    "provider": "lichess",
+    "username": "Veronika33_CZE",
+    "firstSeen": 1611221295302,
+    "lastSeen": 1611224435829,
+    "firstSeenTime": "9:28:15 AM",
+    "lastSeenTime": "10:20:35 AM",
+    "onlineDurationMins": 52.34211666666667
+  },
+  "adam207@lichess": {
+    "id": "adam207",
+    "provider": "lichess",
+    "username": "adam207",
+    "firstSeen": 1611222796376,
+    "lastSeen": 1611224466777,
+    "firstSeenTime": "9:53:16 AM",
+    "lastSeenTime": "10:21:06 AM",
+    "onlineDurationMins": 27.840016666666667
+  },
+  "brislierbot@lichess": {
+    "id": "brislierbot",
+    "provider": "lichess",
+    "username": "BrislierBOT",
+    "firstSeen": 1611223090251,
+    "lastSeen": 1611224808518,
+    "firstSeenTime": "9:58:10 AM",
+    "lastSeenTime": "10:26:48 AM",
+    "onlineDurationMins": 28.637783333333335
+  },
+  "thejanamax@lichess": {
+    "id": "thejanamax",
+    "provider": "lichess",
+    "username": "thejanamax",
+    "firstSeen": 1611224810542,
+    "lastSeen": 1611224960823,
+    "firstSeenTime": "10:26:50 AM",
+    "lastSeenTime": "10:29:13 AM",
+    "onlineDurationMins": 2.3885666666666667
+  },
+  "johan201023_chess@lichess": {
+    "id": "johan201023_chess",
+    "provider": "lichess",
+    "username": "Johan201023_Chess",
+    "firstSeen": 1611224980477,
+    "lastSeen": 1611224980477
+  }
+}
