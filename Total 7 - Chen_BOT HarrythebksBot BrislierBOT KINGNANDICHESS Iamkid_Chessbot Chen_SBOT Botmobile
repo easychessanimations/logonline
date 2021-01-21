@@ -1,0 +1,72 @@
+{
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611216425100,
+    "lastSeen": 1611231089064,
+    "firstSeenTime": "8:07:05 AM",
+    "lastSeenTime": "12:09:56 PM",
+    "onlineDurationMins": 242.8618
+  },
+  "harrythebksbot@lichess": {
+    "id": "harrythebksbot",
+    "provider": "lichess",
+    "username": "HarrythebksBot",
+    "firstSeen": 1611226532500,
+    "lastSeen": 1611230646124,
+    "firstSeenTime": "10:55:32 AM",
+    "lastSeenTime": "12:04:06 PM",
+    "onlineDurationMins": 68.5604
+  },
+  "brislierbot@lichess": {
+    "id": "brislierbot",
+    "provider": "lichess",
+    "username": "BrislierBOT",
+    "firstSeen": 1611228674021,
+    "lastSeen": 1611231071719,
+    "firstSeenTime": "11:31:14 AM",
+    "lastSeenTime": "12:09:56 PM",
+    "onlineDurationMins": 38.70993333333333
+  },
+  "kingnandichess@lichess": {
+    "id": "kingnandichess",
+    "provider": "lichess",
+    "username": "KINGNANDICHESS",
+    "firstSeen": 1611229243281,
+    "lastSeen": 1611230789348,
+    "firstSeenTime": "11:40:43 AM",
+    "lastSeenTime": "12:06:29 PM",
+    "onlineDurationMins": 25.767783333333334
+  },
+  "iamkid_chessbot@lichess": {
+    "id": "iamkid_chessbot",
+    "provider": "lichess",
+    "username": "Iamkid_Chessbot",
+    "firstSeen": 1611229332037,
+    "lastSeen": 1611230789869,
+    "firstSeenTime": "11:42:12 AM",
+    "lastSeenTime": "12:06:29 PM",
+    "onlineDurationMins": 24.2972
+  },
+  "chen_sbot@lichess": {
+    "id": "chen_sbot",
+    "provider": "lichess",
+    "username": "Chen_SBOT",
+    "firstSeen": 1611229429893,
+    "lastSeen": 1611230666189,
+    "firstSeenTime": "11:43:49 AM",
+    "lastSeenTime": "12:04:26 PM",
+    "onlineDurationMins": 20.604933333333335
+  },
+  "botmobile@lichess": {
+    "id": "botmobile",
+    "provider": "lichess",
+    "username": "Botmobile",
+    "firstSeen": 1611230605941,
+    "lastSeen": 1611230965926,
+    "firstSeenTime": "12:03:25 PM",
+    "lastSeenTime": "12:09:25 PM",
+    "onlineDurationMins": 5.99975
+  }
+}
