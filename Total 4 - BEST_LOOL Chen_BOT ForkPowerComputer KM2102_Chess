@@ -1,0 +1,42 @@
+{
+  "best_lool@lichess": {
+    "id": "best_lool",
+    "provider": "lichess",
+    "username": "BEST_LOOL",
+    "firstSeen": 1611253343405,
+    "lastSeen": 1611256898670,
+    "firstSeenTime": "6:22:23 PM",
+    "lastSeenTime": "7:21:38 PM",
+    "onlineDurationMins": 59.254416666666664
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611254255654,
+    "lastSeen": 1611256958994,
+    "firstSeenTime": "6:37:35 PM",
+    "lastSeenTime": "7:22:38 PM",
+    "onlineDurationMins": 45.05566666666667
+  },
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1611256589991,
+    "lastSeen": 1611256598737,
+    "firstSeenTime": "7:16:29 PM",
+    "lastSeenTime": "7:16:38 PM",
+    "onlineDurationMins": 0.14576666666666666
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1611256862744,
+    "lastSeen": 1611256866120,
+    "firstSeenTime": "7:21:02 PM",
+    "lastSeenTime": "7:21:06 PM",
+    "onlineDurationMins": 0.056266666666666666
+  }
+}
