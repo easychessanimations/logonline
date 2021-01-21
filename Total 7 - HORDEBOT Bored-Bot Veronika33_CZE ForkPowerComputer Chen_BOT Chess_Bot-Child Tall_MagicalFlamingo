@@ -1,0 +1,51 @@
+{
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1611212808296,
+    "lastSeen": 1611218291237
+  },
+  "bored-bot@lichess": {
+    "id": "bored-bot",
+    "provider": "lichess",
+    "username": "Bored-Bot",
+    "firstSeen": 1611213568389,
+    "lastSeen": 1611218316543
+  },
+  "veronika33_cze@lichess": {
+    "id": "veronika33_cze",
+    "provider": "lichess",
+    "username": "Veronika33_CZE",
+    "firstSeen": 1611214003750,
+    "lastSeen": 1611218244136
+  },
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1611214446802,
+    "lastSeen": 1611218108887
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611216425100,
+    "lastSeen": 1611218305380
+  },
+  "chess_bot-child@lichess": {
+    "id": "chess_bot-child",
+    "provider": "lichess",
+    "username": "Chess_Bot-Child",
+    "firstSeen": 1611217929670,
+    "lastSeen": 1611218013136
+  },
+  "tall_magicalflamingo@lichess": {
+    "id": "tall_magicalflamingo",
+    "provider": "lichess",
+    "username": "Tall_MagicalFlamingo",
+    "firstSeen": 1611218338698,
+    "lastSeen": 1611218338698
+  }
+}
