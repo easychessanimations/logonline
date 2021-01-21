@@ -1,0 +1,26 @@
+{
+  "johan201023_chess@lichess": {
+    "id": "johan201023_chess",
+    "provider": "lichess",
+    "username": "Johan201023_Chess",
+    "firstSeen": 1611209844758,
+    "lastSeen": 1611213328950,
+    "firstSeenTime": "6:17:24 AM",
+    "lastSeenTime": "6:37:11 AM",
+    "onlineDurationMins": 19.7794
+  },
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1611212808296,
+    "lastSeen": 1611213556222
+  },
+  "bored-bot@lichess": {
+    "id": "bored-bot",
+    "provider": "lichess",
+    "username": "Bored-Bot",
+    "firstSeen": 1611213568389,
+    "lastSeen": 1611213568390
+  }
+}
