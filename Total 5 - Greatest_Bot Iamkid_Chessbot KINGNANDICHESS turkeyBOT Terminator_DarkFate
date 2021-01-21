@@ -1,0 +1,37 @@
+{
+  "greatest_bot@lichess": {
+    "id": "greatest_bot",
+    "provider": "lichess",
+    "username": "Greatest_Bot",
+    "firstSeen": 1611206667175,
+    "lastSeen": 1611206683760
+  },
+  "iamkid_chessbot@lichess": {
+    "id": "iamkid_chessbot",
+    "provider": "lichess",
+    "username": "Iamkid_Chessbot",
+    "firstSeen": 1611206742429,
+    "lastSeen": 1611206742429
+  },
+  "kingnandichess@lichess": {
+    "id": "kingnandichess",
+    "provider": "lichess",
+    "username": "KINGNANDICHESS",
+    "firstSeen": 1611206772661,
+    "lastSeen": 1611206818592
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1611207031557,
+    "lastSeen": 1611207038102
+  },
+  "terminator_darkfate@lichess": {
+    "id": "terminator_darkfate",
+    "provider": "lichess",
+    "username": "Terminator_DarkFate",
+    "firstSeen": 1611207376555,
+    "lastSeen": 1611207376555
+  }
+}
