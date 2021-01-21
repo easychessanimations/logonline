@@ -1,0 +1,82 @@
+{
+  "chen_sbot@lichess": {
+    "id": "chen_sbot",
+    "provider": "lichess",
+    "username": "Chen_SBOT",
+    "firstSeen": 1611229429893,
+    "lastSeen": 1611237835719,
+    "firstSeenTime": "11:43:49 AM",
+    "lastSeenTime": "12:26:26 PM",
+    "onlineDurationMins": 42.60438333333333
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611234004923,
+    "lastSeen": 1611237954353
+  },
+  "kaan_2012@lichess": {
+    "id": "kaan_2012",
+    "provider": "lichess",
+    "username": "KAAN_2012",
+    "firstSeen": 1611234449340,
+    "lastSeen": 1611237523877
+  },
+  "chessn00bbot@lichess": {
+    "id": "chessn00bbot",
+    "provider": "lichess",
+    "username": "ChessN00BBot",
+    "firstSeen": 1611235062313,
+    "lastSeen": 1611237819697
+  },
+  "tall_magicalflamingo@lichess": {
+    "id": "tall_magicalflamingo",
+    "provider": "lichess",
+    "username": "Tall_MagicalFlamingo",
+    "firstSeen": 1611235738752,
+    "lastSeen": 1611237498516
+  },
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1611235841845,
+    "lastSeen": 1611237905953
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1611236463509,
+    "lastSeen": 1611237868050
+  },
+  "meryem_44@lichess": {
+    "id": "meryem_44",
+    "provider": "lichess",
+    "username": "meryem_44",
+    "firstSeen": 1611237140967,
+    "lastSeen": 1611237199427
+  },
+  "hdarjd@lichess": {
+    "id": "hdarjd",
+    "provider": "lichess",
+    "username": "hdarjd",
+    "firstSeen": 1611237213631,
+    "lastSeen": 1611237291093
+  },
+  "oceanchesskid@lichess": {
+    "id": "oceanchesskid",
+    "provider": "lichess",
+    "username": "OceanChessKid",
+    "firstSeen": 1611237756816,
+    "lastSeen": 1611237835434
+  },
+  "brislierbot@lichess": {
+    "id": "brislierbot",
+    "provider": "lichess",
+    "username": "BrislierBOT",
+    "firstSeen": 1611237962725,
+    "lastSeen": 1611237962726
+  }
+}
