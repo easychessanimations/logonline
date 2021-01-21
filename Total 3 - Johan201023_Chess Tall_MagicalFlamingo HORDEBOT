@@ -1,0 +1,29 @@
+{
+  "johan201023_chess@lichess": {
+    "id": "johan201023_chess",
+    "provider": "lichess",
+    "username": "Johan201023_Chess",
+    "firstSeen": 1611209844758,
+    "lastSeen": 1611212653968,
+    "firstSeenTime": "6:17:24 AM",
+    "lastSeenTime": "6:37:11 AM",
+    "onlineDurationMins": 19.7794
+  },
+  "tall_magicalflamingo@lichess": {
+    "id": "tall_magicalflamingo",
+    "provider": "lichess",
+    "username": "Tall_MagicalFlamingo",
+    "firstSeen": 1611209881853,
+    "lastSeen": 1611212557231,
+    "firstSeenTime": "6:18:01 AM",
+    "lastSeenTime": "6:39:07 AM",
+    "onlineDurationMins": 21.094433333333335
+  },
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1611212808296,
+    "lastSeen": 1611212945169
+  }
+}
