@@ -1,0 +1,56 @@
+{
+  "chen_sbot@lichess": {
+    "id": "chen_sbot",
+    "provider": "lichess",
+    "username": "Chen_SBOT",
+    "firstSeen": 1611243743521,
+    "lastSeen": 1611250166714,
+    "firstSeenTime": "3:42:23 PM",
+    "lastSeenTime": "4:58:55 PM",
+    "onlineDurationMins": 76.53436666666667
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611243758958,
+    "lastSeen": 1611250122362,
+    "firstSeenTime": "3:42:38 PM",
+    "lastSeenTime": "4:51:39 PM",
+    "onlineDurationMins": 69.00358333333334
+  },
+  "brislierbot@lichess": {
+    "id": "brislierbot",
+    "provider": "lichess",
+    "username": "BrislierBOT",
+    "firstSeen": 1611243784349,
+    "lastSeen": 1611250147488,
+    "firstSeenTime": "3:43:04 PM",
+    "lastSeenTime": "5:01:04 PM",
+    "onlineDurationMins": 78.00136666666667
+  },
+  "ke4nan@lichess": {
+    "id": "ke4nan",
+    "provider": "lichess",
+    "username": "KE4NAN",
+    "firstSeen": 1611248034947,
+    "lastSeen": 1611250413000,
+    "firstSeenTime": "4:53:54 PM",
+    "lastSeenTime": "5:03:09 PM",
+    "onlineDurationMins": 9.24615
+  },
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1611249310494,
+    "lastSeen": 1611250565446
+  },
+  "ttv-bot@lichess": {
+    "id": "ttv-bot",
+    "provider": "lichess",
+    "username": "TTV-bot",
+    "firstSeen": 1611249372810,
+    "lastSeen": 1611250007999
+  }
+}
