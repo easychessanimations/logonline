@@ -1,0 +1,42 @@
+{
+  "brislierbot@lichess": {
+    "id": "brislierbot",
+    "provider": "lichess",
+    "username": "BrislierBOT",
+    "firstSeen": 1611243784349,
+    "lastSeen": 1611256139762,
+    "firstSeenTime": "3:43:04 PM",
+    "lastSeenTime": "7:08:59 PM",
+    "onlineDurationMins": 205.92355
+  },
+  "best_lool@lichess": {
+    "id": "best_lool",
+    "provider": "lichess",
+    "username": "BEST_LOOL",
+    "firstSeen": 1611253343405,
+    "lastSeen": 1611256062185,
+    "firstSeenTime": "6:22:23 PM",
+    "lastSeenTime": "7:07:42 PM",
+    "onlineDurationMins": 45.313
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611254255654,
+    "lastSeen": 1611256295766,
+    "firstSeenTime": "6:37:35 PM",
+    "lastSeenTime": "7:11:35 PM",
+    "onlineDurationMins": 34.001866666666665
+  },
+  "theadvancedbot@lichess": {
+    "id": "theadvancedbot",
+    "provider": "lichess",
+    "username": "TheAdvancedBot",
+    "firstSeen": 1611256234262,
+    "lastSeen": 1611256247445,
+    "firstSeenTime": "7:10:34 PM",
+    "lastSeenTime": "7:10:47 PM",
+    "onlineDurationMins": 0.21971666666666667
+  }
+}
