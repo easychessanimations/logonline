@@ -1,0 +1,70 @@
+{
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611317952451,
+    "lastSeen": 1611332202487,
+    "firstSeenTime": "12:19:12 PM",
+    "lastSeenTime": "3:44:12 PM",
+    "onlineDurationMins": 205.00043333333332
+  },
+  "brislierbot@lichess": {
+    "id": "brislierbot",
+    "provider": "lichess",
+    "username": "BrislierBOT",
+    "firstSeen": 1611317970015,
+    "lastSeen": 1611332133106,
+    "firstSeenTime": "12:19:30 PM",
+    "lastSeenTime": "3:42:29 PM",
+    "onlineDurationMins": 202.99933333333334
+  },
+  "random-mover-bot@lichess": {
+    "id": "random-mover-bot",
+    "provider": "lichess",
+    "username": "Random-Mover-BOT",
+    "firstSeen": 1611323513818,
+    "lastSeen": 1611332749545,
+    "firstSeenTime": "1:51:53 PM",
+    "lastSeenTime": "3:50:11 PM",
+    "onlineDurationMins": 118.2949
+  },
+  "best_lool@lichess": {
+    "id": "best_lool",
+    "provider": "lichess",
+    "username": "BEST_LOOL",
+    "firstSeen": 1611329407368,
+    "lastSeen": 1611331921552,
+    "firstSeenTime": "3:30:07 PM",
+    "lastSeenTime": "3:49:51 PM",
+    "onlineDurationMins": 19.739483333333332
+  },
+  "oraltr_2@lichess": {
+    "id": "oraltr_2",
+    "provider": "lichess",
+    "username": "OralTR_2",
+    "firstSeen": 1611331131153,
+    "lastSeen": 1611332454136
+  },
+  "easychessherokubot@lichess": {
+    "id": "easychessherokubot",
+    "provider": "lichess",
+    "username": "EasyChessHerokubot",
+    "firstSeen": 1611331233002,
+    "lastSeen": 1611332645706
+  },
+  "kathhhh@lichess": {
+    "id": "kathhhh",
+    "provider": "lichess",
+    "username": "KaTHHHH",
+    "firstSeen": 1611331992949,
+    "lastSeen": 1611332062589
+  },
+  "boralper@lichess": {
+    "id": "boralper",
+    "provider": "lichess",
+    "username": "boralper",
+    "firstSeen": 1611332407072,
+    "lastSeen": 1611332766809
+  }
+}
