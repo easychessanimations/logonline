@@ -1,0 +1,82 @@
+{
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611307038465,
+    "lastSeen": 1611315821190,
+    "firstSeenTime": "9:17:18 AM",
+    "lastSeenTime": "11:43:41 AM",
+    "onlineDurationMins": 146.37875
+  },
+  "brislierbot@lichess": {
+    "id": "brislierbot",
+    "provider": "lichess",
+    "username": "BrislierBOT",
+    "firstSeen": 1611307117525,
+    "lastSeen": 1611315333194,
+    "firstSeenTime": "9:18:37 AM",
+    "lastSeenTime": "11:35:33 AM",
+    "onlineDurationMins": 136.92781666666667
+  },
+  "eagleeye2021@lichess": {
+    "id": "eagleeye2021",
+    "provider": "lichess",
+    "username": "EagleEye2021",
+    "firstSeen": 1611310047425,
+    "lastSeen": 1611315849955,
+    "firstSeenTime": "10:07:27 AM",
+    "lastSeenTime": "11:42:29 AM",
+    "onlineDurationMins": 95.04105
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1611311298107,
+    "lastSeen": 1611315853342,
+    "firstSeenTime": "10:28:18 AM",
+    "lastSeenTime": "11:31:26 AM",
+    "onlineDurationMins": 63.147216666666665
+  },
+  "harrythebksbot@lichess": {
+    "id": "harrythebksbot",
+    "provider": "lichess",
+    "username": "HarrythebksBot",
+    "firstSeen": 1611312718765,
+    "lastSeen": 1611315821312,
+    "firstSeenTime": "10:51:58 AM",
+    "lastSeenTime": "11:43:41 AM",
+    "onlineDurationMins": 51.70911666666667
+  },
+  "chen_sbot@lichess": {
+    "id": "chen_sbot",
+    "provider": "lichess",
+    "username": "Chen_SBOT",
+    "firstSeen": 1611313109801,
+    "lastSeen": 1611315841628,
+    "firstSeenTime": "10:58:29 AM",
+    "lastSeenTime": "11:44:01 AM",
+    "onlineDurationMins": 45.53045
+  },
+  "tamtt@lichess": {
+    "id": "tamtt",
+    "provider": "lichess",
+    "username": "tamtt",
+    "firstSeen": 1611315135290,
+    "lastSeen": 1611315445039,
+    "firstSeenTime": "11:32:15 AM",
+    "lastSeenTime": "11:37:25 AM",
+    "onlineDurationMins": 5.162483333333333
+  },
+  "kingnandichess@lichess": {
+    "id": "kingnandichess",
+    "provider": "lichess",
+    "username": "KINGNANDICHESS",
+    "firstSeen": 1611315216917,
+    "lastSeen": 1611315869633,
+    "firstSeenTime": "11:33:36 AM",
+    "lastSeenTime": "11:43:50 AM",
+    "onlineDurationMins": 10.233116666666668
+  }
+}
