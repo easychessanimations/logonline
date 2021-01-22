@@ -1,0 +1,109 @@
+{
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611307038465,
+    "lastSeen": 1611317295622,
+    "firstSeenTime": "9:17:18 AM",
+    "lastSeenTime": "12:08:15 PM",
+    "onlineDurationMins": 170.95261666666667
+  },
+  "brislierbot@lichess": {
+    "id": "brislierbot",
+    "provider": "lichess",
+    "username": "BrislierBOT",
+    "firstSeen": 1611307117525,
+    "lastSeen": 1611317310031,
+    "firstSeenTime": "9:18:37 AM",
+    "lastSeenTime": "11:57:33 AM",
+    "onlineDurationMins": 158.92763333333335
+  },
+  "eagleeye2021@lichess": {
+    "id": "eagleeye2021",
+    "provider": "lichess",
+    "username": "EagleEye2021",
+    "firstSeen": 1611310047425,
+    "lastSeen": 1611316662487,
+    "firstSeenTime": "10:07:27 AM",
+    "lastSeenTime": "11:57:42 AM",
+    "onlineDurationMins": 110.25103333333334
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1611311298107,
+    "lastSeen": 1611317026629,
+    "firstSeenTime": "10:28:18 AM",
+    "lastSeenTime": "12:03:46 PM",
+    "onlineDurationMins": 95.47536666666667
+  },
+  "harrythebksbot@lichess": {
+    "id": "harrythebksbot",
+    "provider": "lichess",
+    "username": "HarrythebksBot",
+    "firstSeen": 1611312718765,
+    "lastSeen": 1611317254101,
+    "firstSeenTime": "10:51:58 AM",
+    "lastSeenTime": "12:07:34 PM",
+    "onlineDurationMins": 75.58893333333333
+  },
+  "chen_sbot@lichess": {
+    "id": "chen_sbot",
+    "provider": "lichess",
+    "username": "Chen_SBOT",
+    "firstSeen": 1611313109801,
+    "lastSeen": 1611317211018,
+    "firstSeenTime": "10:58:29 AM",
+    "lastSeenTime": "12:06:51 PM",
+    "onlineDurationMins": 68.35361666666667
+  },
+  "kingnandichess@lichess": {
+    "id": "kingnandichess",
+    "provider": "lichess",
+    "username": "KINGNANDICHESS",
+    "firstSeen": 1611315216917,
+    "lastSeen": 1611317241321,
+    "firstSeenTime": "11:33:36 AM",
+    "lastSeenTime": "12:07:21 PM",
+    "onlineDurationMins": 33.740066666666664
+  },
+  "quickliquid@lichess": {
+    "id": "quickliquid",
+    "provider": "lichess",
+    "username": "QuickLiquid",
+    "firstSeen": 1611316483165,
+    "lastSeen": 1611316839503,
+    "firstSeenTime": "11:54:43 AM",
+    "lastSeenTime": "12:00:39 PM",
+    "onlineDurationMins": 5.9389666666666665
+  },
+  "atomicandchess@lichess": {
+    "id": "atomicandchess",
+    "provider": "lichess",
+    "username": "Atomicandchess",
+    "firstSeen": 1611316937209,
+    "lastSeen": 1611316937209,
+    "firstSeenTime": "12:02:17 PM",
+    "lastSeenTime": "12:02:17 PM",
+    "onlineDurationMins": 0
+  },
+  "welcome_bot@lichess": {
+    "id": "welcome_bot",
+    "provider": "lichess",
+    "username": "Welcome_Bot",
+    "firstSeen": 1611316957779,
+    "lastSeen": 1611317310895,
+    "firstSeenTime": "12:02:37 PM",
+    "lastSeenTime": "12:06:15 PM",
+    "onlineDurationMins": 3.6309666666666667
+  },
+  "tall_magicalflamingo@lichess": {
+    "id": "tall_magicalflamingo",
+    "provider": "lichess",
+    "username": "Tall_MagicalFlamingo",
+    "firstSeen": 1611317311597,
+    "lastSeen": 1611317311597
+  }
+}
