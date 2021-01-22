@@ -4,27 +4,36 @@
     "provider": "lichess",
     "username": "KINGNANDICHESS",
     "firstSeen": 1611303021102,
-    "lastSeen": 1611305187916
+    "lastSeen": 1611306067220,
+    "firstSeenTime": "8:10:21 AM",
+    "lastSeenTime": "9:01:07 AM",
+    "onlineDurationMins": 50.768633333333334
   },
   "atomicandchess@lichess": {
     "id": "atomicandchess",
     "provider": "lichess",
     "username": "Atomicandchess",
     "firstSeen": 1611304206014,
-    "lastSeen": 1611305156758
+    "lastSeen": 1611305412656,
+    "firstSeenTime": "8:30:06 AM",
+    "lastSeenTime": "8:50:12 AM",
+    "onlineDurationMins": 20.1107
   },
   "hordebot@lichess": {
     "id": "hordebot",
     "provider": "lichess",
     "username": "HORDEBOT",
     "firstSeen": 1611304667779,
-    "lastSeen": 1611305196381
+    "lastSeen": 1611305793841,
+    "firstSeenTime": "8:37:47 AM",
+    "lastSeenTime": "8:56:33 AM",
+    "onlineDurationMins": 18.7677
   },
   "veronika33_cze@lichess": {
     "id": "veronika33_cze",
     "provider": "lichess",
     "username": "Veronika33_CZE",
-    "firstSeen": 1611305209307,
-    "lastSeen": 1611305209307
+    "firstSeen": 1611306203617,
+    "lastSeen": 1611306203617
   }
 }
