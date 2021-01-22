@@ -1,0 +1,52 @@
+{
+  "chen_sbot@lichess": {
+    "id": "chen_sbot",
+    "provider": "lichess",
+    "username": "Chen_SBOT",
+    "firstSeen": 1611340696162,
+    "lastSeen": 1611346380090,
+    "firstSeenTime": "6:38:16 PM",
+    "lastSeenTime": "8:02:03 PM",
+    "onlineDurationMins": 83.78423333333333
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611341976203,
+    "lastSeen": 1611346564505,
+    "firstSeenTime": "6:59:36 PM",
+    "lastSeenTime": "8:01:38 PM",
+    "onlineDurationMins": 62.04521666666667
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1611343144984,
+    "lastSeen": 1611345921223,
+    "firstSeenTime": "7:19:04 PM",
+    "lastSeenTime": "8:01:45 PM",
+    "onlineDurationMins": 42.667
+  },
+  "the-2200-rated-bot@lichess": {
+    "id": "the-2200-rated-bot",
+    "provider": "lichess",
+    "username": "The-2200-Rated-Bot",
+    "firstSeen": 1611345145044,
+    "lastSeen": 1611346390242,
+    "firstSeenTime": "7:52:25 PM",
+    "lastSeenTime": "8:02:18 PM",
+    "onlineDurationMins": 9.893016666666666
+  },
+  "efsocn@lichess": {
+    "id": "efsocn",
+    "provider": "lichess",
+    "username": "Efsocn",
+    "firstSeen": 1611345631263,
+    "lastSeen": 1611346343984,
+    "firstSeenTime": "8:00:31 PM",
+    "lastSeenTime": "8:02:20 PM",
+    "onlineDurationMins": 1.8210666666666666
+  }
+}
