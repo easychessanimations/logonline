@@ -1,0 +1,79 @@
+{
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611317952451,
+    "lastSeen": 1611335202616,
+    "firstSeenTime": "12:19:12 PM",
+    "lastSeenTime": "5:06:42 PM",
+    "onlineDurationMins": 287.50275
+  },
+  "brislierbot@lichess": {
+    "id": "brislierbot",
+    "provider": "lichess",
+    "username": "BrislierBOT",
+    "firstSeen": 1611317970015,
+    "lastSeen": 1611334650307,
+    "firstSeenTime": "12:19:30 PM",
+    "lastSeenTime": "4:57:30 PM",
+    "onlineDurationMins": 278.00486666666666
+  },
+  "easychessherokubot@lichess": {
+    "id": "easychessherokubot",
+    "provider": "lichess",
+    "username": "EasyChessHerokubot",
+    "firstSeen": 1611331233002,
+    "lastSeen": 1611335084949,
+    "firstSeenTime": "4:00:33 PM",
+    "lastSeenTime": "5:04:44 PM",
+    "onlineDurationMins": 64.19911666666667
+  },
+  "best_lool@lichess": {
+    "id": "best_lool",
+    "provider": "lichess",
+    "username": "BEST_LOOL",
+    "firstSeen": 1611333414697,
+    "lastSeen": 1611334914710,
+    "firstSeenTime": "4:36:54 PM",
+    "lastSeenTime": "5:01:54 PM",
+    "onlineDurationMins": 25.000216666666667
+  },
+  "variantenkoning@lichess": {
+    "id": "variantenkoning",
+    "provider": "lichess",
+    "username": "Variantenkoning",
+    "firstSeen": 1611333765835,
+    "lastSeen": 1611335418485,
+    "firstSeenTime": "4:42:45 PM",
+    "lastSeenTime": "5:07:48 PM",
+    "onlineDurationMins": 25.0463
+  },
+  "random-mover-bot@lichess": {
+    "id": "random-mover-bot",
+    "provider": "lichess",
+    "username": "Random-Mover-BOT",
+    "firstSeen": 1611335097141,
+    "lastSeen": 1611335344285,
+    "firstSeenTime": "5:04:57 PM",
+    "lastSeenTime": "5:07:21 PM",
+    "onlineDurationMins": 2.40245
+  },
+  "arsenie-lisagor@lichess": {
+    "id": "arsenie-lisagor",
+    "provider": "lichess",
+    "username": "arsenie-lisagor",
+    "firstSeen": 1611335115097,
+    "lastSeen": 1611335241121,
+    "firstSeenTime": "5:05:15 PM",
+    "lastSeenTime": "5:07:21 PM",
+    "onlineDurationMins": 2.1004
+  },
+  "oraltr_2@lichess": {
+    "id": "oraltr_2",
+    "provider": "lichess",
+    "username": "OralTR_2",
+    "firstSeen": 1611335507503,
+    "lastSeen": 1611335507511
+  }
+}
