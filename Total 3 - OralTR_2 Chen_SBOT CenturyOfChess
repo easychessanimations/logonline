@@ -1,0 +1,29 @@
+{
+  "oraltr_2@lichess": {
+    "id": "oraltr_2",
+    "provider": "lichess",
+    "username": "OralTR_2",
+    "firstSeen": 1611338793379,
+    "lastSeen": 1611340042354,
+    "firstSeenTime": "6:06:33 PM",
+    "lastSeenTime": "6:22:00 PM",
+    "onlineDurationMins": 15.4553
+  },
+  "chen_sbot@lichess": {
+    "id": "chen_sbot",
+    "provider": "lichess",
+    "username": "Chen_SBOT",
+    "firstSeen": 1611339230174,
+    "lastSeen": 1611339298225,
+    "firstSeenTime": "6:13:50 PM",
+    "lastSeenTime": "6:14:58 PM",
+    "onlineDurationMins": 1.1341833333333333
+  },
+  "centuryofchess@lichess": {
+    "id": "centuryofchess",
+    "provider": "lichess",
+    "username": "CenturyOfChess",
+    "firstSeen": 1611340044304,
+    "lastSeen": 1611340044304
+  }
+}
