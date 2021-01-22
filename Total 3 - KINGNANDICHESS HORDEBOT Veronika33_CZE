@@ -1,0 +1,29 @@
+{
+  "kingnandichess@lichess": {
+    "id": "kingnandichess",
+    "provider": "lichess",
+    "username": "KINGNANDICHESS",
+    "firstSeen": 1611303021102,
+    "lastSeen": 1611306253928,
+    "firstSeenTime": "8:10:21 AM",
+    "lastSeenTime": "9:01:07 AM",
+    "onlineDurationMins": 50.768633333333334
+  },
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1611304667779,
+    "lastSeen": 1611306220389,
+    "firstSeenTime": "8:37:47 AM",
+    "lastSeenTime": "8:56:33 AM",
+    "onlineDurationMins": 18.7677
+  },
+  "veronika33_cze@lichess": {
+    "id": "veronika33_cze",
+    "provider": "lichess",
+    "username": "Veronika33_CZE",
+    "firstSeen": 1611306203617,
+    "lastSeen": 1611306237927
+  }
+}
