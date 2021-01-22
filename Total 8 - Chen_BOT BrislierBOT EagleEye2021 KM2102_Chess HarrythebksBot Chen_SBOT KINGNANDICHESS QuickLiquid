@@ -1,0 +1,79 @@
+{
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611307038465,
+    "lastSeen": 1611315975720,
+    "firstSeenTime": "9:17:18 AM",
+    "lastSeenTime": "11:46:15 AM",
+    "onlineDurationMins": 148.95425
+  },
+  "brislierbot@lichess": {
+    "id": "brislierbot",
+    "provider": "lichess",
+    "username": "BrislierBOT",
+    "firstSeen": 1611307117525,
+    "lastSeen": 1611315990040,
+    "firstSeenTime": "9:18:37 AM",
+    "lastSeenTime": "11:46:30 AM",
+    "onlineDurationMins": 147.87525
+  },
+  "eagleeye2021@lichess": {
+    "id": "eagleeye2021",
+    "provider": "lichess",
+    "username": "EagleEye2021",
+    "firstSeen": 1611310047425,
+    "lastSeen": 1611316390410,
+    "firstSeenTime": "10:07:27 AM",
+    "lastSeenTime": "11:53:10 AM",
+    "onlineDurationMins": 105.71641666666666
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1611311298107,
+    "lastSeen": 1611315974701,
+    "firstSeenTime": "10:28:18 AM",
+    "lastSeenTime": "11:46:14 AM",
+    "onlineDurationMins": 77.94323333333334
+  },
+  "harrythebksbot@lichess": {
+    "id": "harrythebksbot",
+    "provider": "lichess",
+    "username": "HarrythebksBot",
+    "firstSeen": 1611312718765,
+    "lastSeen": 1611316402859,
+    "firstSeenTime": "10:51:58 AM",
+    "lastSeenTime": "11:53:22 AM",
+    "onlineDurationMins": 61.40156666666667
+  },
+  "chen_sbot@lichess": {
+    "id": "chen_sbot",
+    "provider": "lichess",
+    "username": "Chen_SBOT",
+    "firstSeen": 1611313109801,
+    "lastSeen": 1611316434520,
+    "firstSeenTime": "10:58:29 AM",
+    "lastSeenTime": "11:53:54 AM",
+    "onlineDurationMins": 55.41198333333333
+  },
+  "kingnandichess@lichess": {
+    "id": "kingnandichess",
+    "provider": "lichess",
+    "username": "KINGNANDICHESS",
+    "firstSeen": 1611315216917,
+    "lastSeen": 1611316424754,
+    "firstSeenTime": "11:33:36 AM",
+    "lastSeenTime": "11:53:44 AM",
+    "onlineDurationMins": 20.13061666666667
+  },
+  "quickliquid@lichess": {
+    "id": "quickliquid",
+    "provider": "lichess",
+    "username": "QuickLiquid",
+    "firstSeen": 1611316483165,
+    "lastSeen": 1611316483165
+  }
+}
