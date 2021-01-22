@@ -1,0 +1,66 @@
+{
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1611304667779,
+    "lastSeen": 1611311041941,
+    "firstSeenTime": "8:37:47 AM",
+    "lastSeenTime": "9:27:39 AM",
+    "onlineDurationMins": 49.86841666666667
+  },
+  "veronika33_cze@lichess": {
+    "id": "veronika33_cze",
+    "provider": "lichess",
+    "username": "Veronika33_CZE",
+    "firstSeen": 1611306203617,
+    "lastSeen": 1611310737469,
+    "firstSeenTime": "9:03:23 AM",
+    "lastSeenTime": "9:28:26 AM",
+    "onlineDurationMins": 25.048866666666665
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611307038465,
+    "lastSeen": 1611310632370,
+    "firstSeenTime": "9:17:18 AM",
+    "lastSeenTime": "9:28:26 AM",
+    "onlineDurationMins": 11.134366666666667
+  },
+  "brislierbot@lichess": {
+    "id": "brislierbot",
+    "provider": "lichess",
+    "username": "BrislierBOT",
+    "firstSeen": 1611307117525,
+    "lastSeen": 1611310657926,
+    "firstSeenTime": "9:18:37 AM",
+    "lastSeenTime": "9:28:23 AM",
+    "onlineDurationMins": 9.76695
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1611307449425,
+    "lastSeen": 1611310213546,
+    "firstSeenTime": "9:24:09 AM",
+    "lastSeenTime": "9:24:18 AM",
+    "onlineDurationMins": 0.14471666666666666
+  },
+  "eagleeye2021@lichess": {
+    "id": "eagleeye2021",
+    "provider": "lichess",
+    "username": "EagleEye2021",
+    "firstSeen": 1611310047425,
+    "lastSeen": 1611311019154
+  },
+  "shovaliye999@lichess": {
+    "id": "shovaliye999",
+    "provider": "lichess",
+    "username": "shovaliye999",
+    "firstSeen": 1611310955010,
+    "lastSeen": 1611310958133
+  }
+}
