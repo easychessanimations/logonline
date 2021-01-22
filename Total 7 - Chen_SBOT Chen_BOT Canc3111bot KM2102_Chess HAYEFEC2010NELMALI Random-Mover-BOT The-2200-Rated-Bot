@@ -1,0 +1,66 @@
+{
+  "chen_sbot@lichess": {
+    "id": "chen_sbot",
+    "provider": "lichess",
+    "username": "Chen_SBOT",
+    "firstSeen": 1611340696162,
+    "lastSeen": 1611345003294,
+    "firstSeenTime": "6:38:16 PM",
+    "lastSeenTime": "7:39:03 PM",
+    "onlineDurationMins": 60.78411666666667
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611341976203,
+    "lastSeen": 1611345125262,
+    "firstSeenTime": "6:59:36 PM",
+    "lastSeenTime": "7:45:06 PM",
+    "onlineDurationMins": 45.504533333333335
+  },
+  "canc3111bot@lichess": {
+    "id": "canc3111bot",
+    "provider": "lichess",
+    "username": "Canc3111bot",
+    "firstSeen": 1611342321460,
+    "lastSeen": 1611344979364,
+    "firstSeenTime": "7:05:21 PM",
+    "lastSeenTime": "7:38:38 PM",
+    "onlineDurationMins": 33.28225
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1611343144984,
+    "lastSeen": 1611344561105,
+    "firstSeenTime": "7:19:04 PM",
+    "lastSeenTime": "7:42:41 PM",
+    "onlineDurationMins": 23.602016666666668
+  },
+  "hayefec2010nelmali@lichess": {
+    "id": "hayefec2010nelmali",
+    "provider": "lichess",
+    "username": "HAYEFEC2010NELMALI",
+    "firstSeen": 1611344110729,
+    "lastSeen": 1611344247294,
+    "firstSeenTime": "7:35:10 PM",
+    "lastSeenTime": "7:37:27 PM",
+    "onlineDurationMins": 2.2760833333333332
+  },
+  "random-mover-bot@lichess": {
+    "id": "random-mover-bot",
+    "provider": "lichess",
+    "username": "Random-Mover-BOT",
+    "firstSeen": 1611345133390,
+    "lastSeen": 1611345136447
+  },
+  "the-2200-rated-bot@lichess": {
+    "id": "the-2200-rated-bot",
+    "provider": "lichess",
+    "username": "The-2200-Rated-Bot",
+    "firstSeen": 1611345145044,
+    "lastSeen": 1611345145044
+  }
+}
