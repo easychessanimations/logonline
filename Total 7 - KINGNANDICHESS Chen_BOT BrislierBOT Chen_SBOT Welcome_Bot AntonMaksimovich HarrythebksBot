@@ -1,0 +1,51 @@
+{
+  "kingnandichess@lichess": {
+    "id": "kingnandichess",
+    "provider": "lichess",
+    "username": "KINGNANDICHESS",
+    "firstSeen": 1611317880669,
+    "lastSeen": 1611318054018
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611317952451,
+    "lastSeen": 1611317955649
+  },
+  "brislierbot@lichess": {
+    "id": "brislierbot",
+    "provider": "lichess",
+    "username": "BrislierBOT",
+    "firstSeen": 1611317970015,
+    "lastSeen": 1611317973119
+  },
+  "chen_sbot@lichess": {
+    "id": "chen_sbot",
+    "provider": "lichess",
+    "username": "Chen_SBOT",
+    "firstSeen": 1611317971894,
+    "lastSeen": 1611317975066
+  },
+  "welcome_bot@lichess": {
+    "id": "welcome_bot",
+    "provider": "lichess",
+    "username": "Welcome_Bot",
+    "firstSeen": 1611317972209,
+    "lastSeen": 1611318012138
+  },
+  "antonmaksimovich@lichess": {
+    "id": "antonmaksimovich",
+    "provider": "lichess",
+    "username": "AntonMaksimovich",
+    "firstSeen": 1611317975326,
+    "lastSeen": 1611318012479
+  },
+  "harrythebksbot@lichess": {
+    "id": "harrythebksbot",
+    "provider": "lichess",
+    "username": "HarrythebksBot",
+    "firstSeen": 1611318055969,
+    "lastSeen": 1611318055969
+  }
+}
