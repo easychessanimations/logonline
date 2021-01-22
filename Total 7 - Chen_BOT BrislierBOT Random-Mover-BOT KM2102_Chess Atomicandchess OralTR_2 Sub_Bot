@@ -1,0 +1,57 @@
+{
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611317952451,
+    "lastSeen": 1611329202829,
+    "firstSeenTime": "12:19:12 PM",
+    "lastSeenTime": "12:42:45 PM",
+    "onlineDurationMins": 23.553616666666667
+  },
+  "brislierbot@lichess": {
+    "id": "brislierbot",
+    "provider": "lichess",
+    "username": "BrislierBOT",
+    "firstSeen": 1611317970015,
+    "lastSeen": 1611328650025,
+    "firstSeenTime": "12:19:30 PM",
+    "lastSeenTime": "12:47:30 PM",
+    "onlineDurationMins": 27.99985
+  },
+  "random-mover-bot@lichess": {
+    "id": "random-mover-bot",
+    "provider": "lichess",
+    "username": "Random-Mover-BOT",
+    "firstSeen": 1611323513818,
+    "lastSeen": 1611329194799
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1611324819893,
+    "lastSeen": 1611328928899
+  },
+  "atomicandchess@lichess": {
+    "id": "atomicandchess",
+    "provider": "lichess",
+    "username": "Atomicandchess",
+    "firstSeen": 1611327331332,
+    "lastSeen": 1611328948527
+  },
+  "oraltr_2@lichess": {
+    "id": "oraltr_2",
+    "provider": "lichess",
+    "username": "OralTR_2",
+    "firstSeen": 1611327693337,
+    "lastSeen": 1611329249969
+  },
+  "sub_bot@lichess": {
+    "id": "sub_bot",
+    "provider": "lichess",
+    "username": "Sub_Bot",
+    "firstSeen": 1611329156779,
+    "lastSeen": 1611329165795
+  }
+}
