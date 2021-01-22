@@ -1,0 +1,70 @@
+{
+  "kingnandichess@lichess": {
+    "id": "kingnandichess",
+    "provider": "lichess",
+    "username": "KINGNANDICHESS",
+    "firstSeen": 1611317880669,
+    "lastSeen": 1611323129966,
+    "firstSeenTime": "12:18:00 PM",
+    "lastSeenTime": "12:48:04 PM",
+    "onlineDurationMins": 30.064133333333334
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611317952451,
+    "lastSeen": 1611323202551,
+    "firstSeenTime": "12:19:12 PM",
+    "lastSeenTime": "12:42:45 PM",
+    "onlineDurationMins": 23.553616666666667
+  },
+  "brislierbot@lichess": {
+    "id": "brislierbot",
+    "provider": "lichess",
+    "username": "BrislierBOT",
+    "firstSeen": 1611317970015,
+    "lastSeen": 1611323133120,
+    "firstSeenTime": "12:19:30 PM",
+    "lastSeenTime": "12:47:30 PM",
+    "onlineDurationMins": 27.99985
+  },
+  "chen_sbot@lichess": {
+    "id": "chen_sbot",
+    "provider": "lichess",
+    "username": "Chen_SBOT",
+    "firstSeen": 1611317971894,
+    "lastSeen": 1611323151078,
+    "firstSeenTime": "12:19:31 PM",
+    "lastSeenTime": "12:50:47 PM",
+    "onlineDurationMins": 31.264966666666666
+  },
+  "iamkid_chessbot@lichess": {
+    "id": "iamkid_chessbot",
+    "provider": "lichess",
+    "username": "Iamkid_Chessbot",
+    "firstSeen": 1611321248852,
+    "lastSeen": 1611323111581
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1611321987505,
+    "lastSeen": 1611322890243
+  },
+  "maurice147@lichess": {
+    "id": "maurice147",
+    "provider": "lichess",
+    "username": "Maurice147",
+    "firstSeen": 1611322388175,
+    "lastSeen": 1611322629516
+  },
+  "random-mover-bot@lichess": {
+    "id": "random-mover-bot",
+    "provider": "lichess",
+    "username": "Random-Mover-BOT",
+    "firstSeen": 1611323513818,
+    "lastSeen": 1611323513819
+  }
+}
