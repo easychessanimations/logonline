@@ -1,0 +1,76 @@
+{
+  "kingnandichess@lichess": {
+    "id": "kingnandichess",
+    "provider": "lichess",
+    "username": "KINGNANDICHESS",
+    "firstSeen": 1611317880669,
+    "lastSeen": 1611321071289,
+    "firstSeenTime": "12:18:00 PM",
+    "lastSeenTime": "12:48:04 PM",
+    "onlineDurationMins": 30.064133333333334
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611317952451,
+    "lastSeen": 1611321070619,
+    "firstSeenTime": "12:19:12 PM",
+    "lastSeenTime": "12:42:45 PM",
+    "onlineDurationMins": 23.553616666666667
+  },
+  "brislierbot@lichess": {
+    "id": "brislierbot",
+    "provider": "lichess",
+    "username": "BrislierBOT",
+    "firstSeen": 1611317970015,
+    "lastSeen": 1611320793171,
+    "firstSeenTime": "12:19:30 PM",
+    "lastSeenTime": "12:47:30 PM",
+    "onlineDurationMins": 27.99985
+  },
+  "chen_sbot@lichess": {
+    "id": "chen_sbot",
+    "provider": "lichess",
+    "username": "Chen_SBOT",
+    "firstSeen": 1611317971894,
+    "lastSeen": 1611320811017,
+    "firstSeenTime": "12:19:31 PM",
+    "lastSeenTime": "12:50:47 PM",
+    "onlineDurationMins": 31.264966666666666
+  },
+  "nihar_raju_23@lichess": {
+    "id": "nihar_raju_23",
+    "provider": "lichess",
+    "username": "Nihar_Raju_23",
+    "firstSeen": 1611318904114,
+    "lastSeen": 1611320576184,
+    "firstSeenTime": "12:35:04 PM",
+    "lastSeenTime": "12:46:15 PM",
+    "onlineDurationMins": 11.196133333333334
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1611319435495,
+    "lastSeen": 1611320338865,
+    "firstSeenTime": "12:43:55 PM",
+    "lastSeenTime": "12:53:32 PM",
+    "onlineDurationMins": 9.614633333333334
+  },
+  "nihar_raju_23_chess@lichess": {
+    "id": "nihar_raju_23_chess",
+    "provider": "lichess",
+    "username": "Nihar_Raju_23_chess",
+    "firstSeen": 1611320577461,
+    "lastSeen": 1611320622820
+  },
+  "atomicandchess@lichess": {
+    "id": "atomicandchess",
+    "provider": "lichess",
+    "username": "Atomicandchess",
+    "firstSeen": 1611321081693,
+    "lastSeen": 1611321081693
+  }
+}
