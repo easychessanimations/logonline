@@ -1,0 +1,23 @@
+{
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1611391862089,
+    "lastSeen": 1611396542878
+  },
+  "bongcloud-bot@lichess": {
+    "id": "bongcloud-bot",
+    "provider": "lichess",
+    "username": "Bongcloud-BOT",
+    "firstSeen": 1611395765669,
+    "lastSeen": 1611396635230
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611396321475,
+    "lastSeen": 1611396917958
+  }
+}
