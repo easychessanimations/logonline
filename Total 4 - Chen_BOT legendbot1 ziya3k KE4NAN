@@ -1,0 +1,36 @@
+{
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611396321475,
+    "lastSeen": 1611401625668,
+    "firstSeenTime": "10:05:21 AM",
+    "lastSeenTime": "11:00:42 AM",
+    "onlineDurationMins": 55.35066666666667
+  },
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1611397992510,
+    "lastSeen": 1611402076968,
+    "firstSeenTime": "10:33:12 AM",
+    "lastSeenTime": "11:06:16 AM",
+    "onlineDurationMins": 33.071783333333336
+  },
+  "ziya3k@lichess": {
+    "id": "ziya3k",
+    "provider": "lichess",
+    "username": "ziya3k",
+    "firstSeen": 1611400798258,
+    "lastSeen": 1611401819352
+  },
+  "ke4nan@lichess": {
+    "id": "ke4nan",
+    "provider": "lichess",
+    "username": "KE4NAN",
+    "firstSeen": 1611402079592,
+    "lastSeen": 1611402079592
+  }
+}
