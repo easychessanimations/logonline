@@ -1,0 +1,52 @@
+{
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1611408029019,
+    "lastSeen": 1611415886707,
+    "firstSeenTime": "1:20:29 PM",
+    "lastSeenTime": "3:31:26 PM",
+    "onlineDurationMins": 130.96146666666667
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611410131990,
+    "lastSeen": 1611415986187,
+    "firstSeenTime": "1:55:31 PM",
+    "lastSeenTime": "3:31:06 PM",
+    "onlineDurationMins": 95.5737
+  },
+  "kingnandichess@lichess": {
+    "id": "kingnandichess",
+    "provider": "lichess",
+    "username": "KINGNANDICHESS",
+    "firstSeen": 1611411952731,
+    "lastSeen": 1611415886598,
+    "firstSeenTime": "2:25:52 PM",
+    "lastSeenTime": "3:31:26 PM",
+    "onlineDurationMins": 65.56445
+  },
+  "iamkid_chessbot@lichess": {
+    "id": "iamkid_chessbot",
+    "provider": "lichess",
+    "username": "Iamkid_Chessbot",
+    "firstSeen": 1611415495944,
+    "lastSeen": 1611416044068,
+    "firstSeenTime": "3:24:55 PM",
+    "lastSeenTime": "3:29:51 PM",
+    "onlineDurationMins": 4.921916666666666
+  },
+  "greenpawn08@lichess": {
+    "id": "greenpawn08",
+    "provider": "lichess",
+    "username": "greenpawn08",
+    "firstSeen": 1611415585224,
+    "lastSeen": 1611415690838,
+    "firstSeenTime": "3:26:25 PM",
+    "lastSeenTime": "3:28:10 PM",
+    "onlineDurationMins": 1.7602333333333333
+  }
+}
