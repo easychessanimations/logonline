@@ -1,0 +1,43 @@
+{
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1611408029019,
+    "lastSeen": 1611420624569,
+    "firstSeenTime": "1:20:29 PM",
+    "lastSeenTime": "3:31:26 PM",
+    "onlineDurationMins": 130.96146666666667
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611410131990,
+    "lastSeen": 1611420246552,
+    "firstSeenTime": "1:55:31 PM",
+    "lastSeenTime": "3:31:06 PM",
+    "onlineDurationMins": 95.5737
+  },
+  "iamkid_chessbot@lichess": {
+    "id": "iamkid_chessbot",
+    "provider": "lichess",
+    "username": "Iamkid_Chessbot",
+    "firstSeen": 1611418309739,
+    "lastSeen": 1611420328438
+  },
+  "rayan-amirafshari@lichess": {
+    "id": "rayan-amirafshari",
+    "provider": "lichess",
+    "username": "rAyaN-aMIraFshArI",
+    "firstSeen": 1611420553861,
+    "lastSeen": 1611420640522
+  },
+  "fastandfurious10@lichess": {
+    "id": "fastandfurious10",
+    "provider": "lichess",
+    "username": "fastandfurious10",
+    "firstSeen": 1611420720579,
+    "lastSeen": 1611420720579
+  }
+}
