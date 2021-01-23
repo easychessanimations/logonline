@@ -1,0 +1,66 @@
+{
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1611408029019,
+    "lastSeen": 1611415341218,
+    "firstSeenTime": "1:20:29 PM",
+    "lastSeenTime": "3:22:21 PM",
+    "onlineDurationMins": 121.86998333333334
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611410131990,
+    "lastSeen": 1611415384122,
+    "firstSeenTime": "1:55:31 PM",
+    "lastSeenTime": "3:23:04 PM",
+    "onlineDurationMins": 87.53553333333333
+  },
+  "kingnandichess@lichess": {
+    "id": "kingnandichess",
+    "provider": "lichess",
+    "username": "KINGNANDICHESS",
+    "firstSeen": 1611411952731,
+    "lastSeen": 1611415531144,
+    "firstSeenTime": "2:25:52 PM",
+    "lastSeenTime": "3:22:52 PM",
+    "onlineDurationMins": 56.9897
+  },
+  "rayan-amirafshari@lichess": {
+    "id": "rayan-amirafshari",
+    "provider": "lichess",
+    "username": "rAyaN-aMIraFshArI",
+    "firstSeen": 1611414906075,
+    "lastSeen": 1611414944052,
+    "firstSeenTime": "3:15:06 PM",
+    "lastSeenTime": "3:15:44 PM",
+    "onlineDurationMins": 0.63295
+  },
+  "tall_magicalflamingo@lichess": {
+    "id": "tall_magicalflamingo",
+    "provider": "lichess",
+    "username": "Tall_MagicalFlamingo",
+    "firstSeen": 1611415123313,
+    "lastSeen": 1611415124536,
+    "firstSeenTime": "3:18:43 PM",
+    "lastSeenTime": "3:18:44 PM",
+    "onlineDurationMins": 0.020383333333333333
+  },
+  "iamkid_chessbot@lichess": {
+    "id": "iamkid_chessbot",
+    "provider": "lichess",
+    "username": "Iamkid_Chessbot",
+    "firstSeen": 1611415495944,
+    "lastSeen": 1611415563819
+  },
+  "greenpawn08@lichess": {
+    "id": "greenpawn08",
+    "provider": "lichess",
+    "username": "greenpawn08",
+    "firstSeen": 1611415585224,
+    "lastSeen": 1611415585224
+  }
+}
