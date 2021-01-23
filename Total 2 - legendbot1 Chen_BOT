@@ -1,0 +1,22 @@
+{
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1611408029019,
+    "lastSeen": 1611411033949,
+    "firstSeenTime": "1:20:29 PM",
+    "lastSeenTime": "2:10:33 PM",
+    "onlineDurationMins": 50.082166666666666
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611410131990,
+    "lastSeen": 1611411244223,
+    "firstSeenTime": "1:55:31 PM",
+    "lastSeenTime": "2:13:03 PM",
+    "onlineDurationMins": 17.517016666666667
+  }
+}
