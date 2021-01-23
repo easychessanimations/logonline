@@ -1,0 +1,43 @@
+{
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611396321475,
+    "lastSeen": 1611405342422,
+    "firstSeenTime": "10:05:21 AM",
+    "lastSeenTime": "11:00:42 AM",
+    "onlineDurationMins": 55.35066666666667
+  },
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1611397992510,
+    "lastSeen": 1611404837326,
+    "firstSeenTime": "10:33:12 AM",
+    "lastSeenTime": "11:06:16 AM",
+    "onlineDurationMins": 33.071783333333336
+  },
+  "ke4nan@lichess": {
+    "id": "ke4nan",
+    "provider": "lichess",
+    "username": "KE4NAN",
+    "firstSeen": 1611404143536,
+    "lastSeen": 1611405087805
+  },
+  "iamkid_chessbot@lichess": {
+    "id": "iamkid_chessbot",
+    "provider": "lichess",
+    "username": "Iamkid_Chessbot",
+    "firstSeen": 1611404586862,
+    "lastSeen": 1611405142103
+  },
+  "fatihefe50@lichess": {
+    "id": "fatihefe50",
+    "provider": "lichess",
+    "username": "Fatihefe50",
+    "firstSeen": 1611405358985,
+    "lastSeen": 1611405358985
+  }
+}
