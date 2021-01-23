@@ -1,0 +1,50 @@
+{
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611396321475,
+    "lastSeen": 1611406422547,
+    "firstSeenTime": "10:05:21 AM",
+    "lastSeenTime": "11:00:42 AM",
+    "onlineDurationMins": 55.35066666666667
+  },
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1611397992510,
+    "lastSeen": 1611406156972,
+    "firstSeenTime": "10:33:12 AM",
+    "lastSeenTime": "11:06:16 AM",
+    "onlineDurationMins": 33.071783333333336
+  },
+  "fatihefe50@lichess": {
+    "id": "fatihefe50",
+    "provider": "lichess",
+    "username": "Fatihefe50",
+    "firstSeen": 1611405358985,
+    "lastSeen": 1611406032955
+  },
+  "theziya1@lichess": {
+    "id": "theziya1",
+    "provider": "lichess",
+    "username": "TheZiya1",
+    "firstSeen": 1611405368753,
+    "lastSeen": 1611406620536
+  },
+  "muppetbot@lichess": {
+    "id": "muppetbot",
+    "provider": "lichess",
+    "username": "MuppetBOT",
+    "firstSeen": 1611406597254,
+    "lastSeen": 1611406608521
+  },
+  "ziya3k@lichess": {
+    "id": "ziya3k",
+    "provider": "lichess",
+    "username": "ziya3k",
+    "firstSeen": 1611406629330,
+    "lastSeen": 1611406629330
+  }
+}
