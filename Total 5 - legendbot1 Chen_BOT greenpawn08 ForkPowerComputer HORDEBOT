@@ -1,0 +1,46 @@
+{
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1611408029019,
+    "lastSeen": 1611417201232,
+    "firstSeenTime": "1:20:29 PM",
+    "lastSeenTime": "3:31:26 PM",
+    "onlineDurationMins": 130.96146666666667
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611410131990,
+    "lastSeen": 1611417486447,
+    "firstSeenTime": "1:55:31 PM",
+    "lastSeenTime": "3:31:06 PM",
+    "onlineDurationMins": 95.5737
+  },
+  "greenpawn08@lichess": {
+    "id": "greenpawn08",
+    "provider": "lichess",
+    "username": "greenpawn08",
+    "firstSeen": 1611415585224,
+    "lastSeen": 1611416907245,
+    "firstSeenTime": "3:26:25 PM",
+    "lastSeenTime": "3:28:10 PM",
+    "onlineDurationMins": 1.7602333333333333
+  },
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1611416353350,
+    "lastSeen": 1611417256020
+  },
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1611417531937,
+    "lastSeen": 1611417531937
+  }
+}
