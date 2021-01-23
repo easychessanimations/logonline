@@ -1,0 +1,26 @@
+{
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1611408029019,
+    "lastSeen": 1611421341010,
+    "firstSeenTime": "1:20:29 PM",
+    "lastSeenTime": "3:31:26 PM",
+    "onlineDurationMins": 130.96146666666667
+  },
+  "fastandfurious10@lichess": {
+    "id": "fastandfurious10",
+    "provider": "lichess",
+    "username": "fastandfurious10",
+    "firstSeen": 1611420720579,
+    "lastSeen": 1611421328821
+  },
+  "challenger_crazy@lichess": {
+    "id": "challenger_crazy",
+    "provider": "lichess",
+    "username": "Challenger_crazy",
+    "firstSeen": 1611420986410,
+    "lastSeen": 1611420997432
+  }
+}
