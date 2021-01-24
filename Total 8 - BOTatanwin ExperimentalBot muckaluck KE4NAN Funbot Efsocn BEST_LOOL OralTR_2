@@ -1,0 +1,73 @@
+{
+  "botatanwin@lichess": {
+    "id": "botatanwin",
+    "provider": "lichess",
+    "username": "BOTatanwin",
+    "firstSeen": 1611444113859,
+    "lastSeen": 1611501138348,
+    "firstSeenTime": "11:21:53 PM",
+    "lastSeenTime": "2:02:25 PM",
+    "onlineDurationMins": 880.52865
+  },
+  "experimentalbot@lichess": {
+    "id": "experimentalbot",
+    "provider": "lichess",
+    "username": "ExperimentalBot",
+    "firstSeen": 1611484366869,
+    "lastSeen": 1611501137255,
+    "firstSeenTime": "10:32:46 AM",
+    "lastSeenTime": "2:06:12 PM",
+    "onlineDurationMins": 213.42933333333335
+  },
+  "muckaluck@lichess": {
+    "id": "muckaluck",
+    "provider": "lichess",
+    "username": "muckaluck",
+    "firstSeen": 1611489111947,
+    "lastSeen": 1611501114229,
+    "firstSeenTime": "11:51:51 AM",
+    "lastSeenTime": "2:01:57 PM",
+    "onlineDurationMins": 130.08931666666666
+  },
+  "ke4nan@lichess": {
+    "id": "ke4nan",
+    "provider": "lichess",
+    "username": "KE4NAN",
+    "firstSeen": 1611494249398,
+    "lastSeen": 1611501157130,
+    "firstSeenTime": "1:17:29 PM",
+    "lastSeenTime": "2:05:56 PM",
+    "onlineDurationMins": 48.4537
+  },
+  "funbot@lichess": {
+    "id": "funbot",
+    "provider": "lichess",
+    "username": "Funbot",
+    "firstSeen": 1611494276478,
+    "lastSeen": 1611500608415,
+    "firstSeenTime": "1:17:56 PM",
+    "lastSeenTime": "2:04:42 PM",
+    "onlineDurationMins": 46.76128333333333
+  },
+  "efsocn@lichess": {
+    "id": "efsocn",
+    "provider": "lichess",
+    "username": "Efsocn",
+    "firstSeen": 1611500266754,
+    "lastSeen": 1611500933072
+  },
+  "best_lool@lichess": {
+    "id": "best_lool",
+    "provider": "lichess",
+    "username": "BEST_LOOL",
+    "firstSeen": 1611500912451,
+    "lastSeen": 1611501015775
+  },
+  "oraltr_2@lichess": {
+    "id": "oraltr_2",
+    "provider": "lichess",
+    "username": "OralTR_2",
+    "firstSeen": 1611501251475,
+    "lastSeen": 1611501251475
+  }
+}
