@@ -1,0 +1,39 @@
+{
+  "botatanwin@lichess": {
+    "id": "botatanwin",
+    "provider": "lichess",
+    "username": "BOTatanwin",
+    "firstSeen": 1611444113859,
+    "lastSeen": 1611472643391,
+    "firstSeenTime": "11:21:53 PM",
+    "lastSeenTime": "7:11:19 AM",
+    "onlineDurationMins": 469.4325166666667
+  },
+  "iamkid_chessbot@lichess": {
+    "id": "iamkid_chessbot",
+    "provider": "lichess",
+    "username": "Iamkid_Chessbot",
+    "firstSeen": 1611471206795,
+    "lastSeen": 1611472342645,
+    "firstSeenTime": "6:53:26 AM",
+    "lastSeenTime": "7:12:22 AM",
+    "onlineDurationMins": 18.930833333333332
+  },
+  "johan201023_chess@lichess": {
+    "id": "johan201023_chess",
+    "provider": "lichess",
+    "username": "Johan201023_Chess",
+    "firstSeen": 1611471981799,
+    "lastSeen": 1611473073225,
+    "firstSeenTime": "7:06:21 AM",
+    "lastSeenTime": "7:09:32 AM",
+    "onlineDurationMins": 3.1799833333333334
+  },
+  "knightmare73@lichess": {
+    "id": "knightmare73",
+    "provider": "lichess",
+    "username": "knightmare73",
+    "firstSeen": 1611473131209,
+    "lastSeen": 1611473131209
+  }
+}
