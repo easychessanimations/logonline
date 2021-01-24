@@ -1,0 +1,63 @@
+{
+  "botatanwin@lichess": {
+    "id": "botatanwin",
+    "provider": "lichess",
+    "username": "BOTatanwin",
+    "firstSeen": 1611444113859,
+    "lastSeen": 1611514390565,
+    "firstSeenTime": "11:21:53 PM",
+    "lastSeenTime": "5:01:13 PM",
+    "onlineDurationMins": 1059.321
+  },
+  "experimentalbot@lichess": {
+    "id": "experimentalbot",
+    "provider": "lichess",
+    "username": "ExperimentalBot",
+    "firstSeen": 1611484366869,
+    "lastSeen": 1611514637317,
+    "firstSeenTime": "10:32:46 AM",
+    "lastSeenTime": "5:01:21 PM",
+    "onlineDurationMins": 388.57225
+  },
+  "muckaluck@lichess": {
+    "id": "muckaluck",
+    "provider": "lichess",
+    "username": "muckaluck",
+    "firstSeen": 1611489111947,
+    "lastSeen": 1611514734787,
+    "firstSeenTime": "11:51:51 AM",
+    "lastSeenTime": "5:00:57 PM",
+    "onlineDurationMins": 309.09291666666667
+  },
+  "funbot@lichess": {
+    "id": "funbot",
+    "provider": "lichess",
+    "username": "Funbot",
+    "firstSeen": 1611494276478,
+    "lastSeen": 1611514108773,
+    "firstSeenTime": "1:17:56 PM",
+    "lastSeenTime": "5:02:49 PM",
+    "onlineDurationMins": 224.87558333333334
+  },
+  "best_lool@lichess": {
+    "id": "best_lool",
+    "provider": "lichess",
+    "username": "BEST_LOOL",
+    "firstSeen": 1611510459428,
+    "lastSeen": 1611514306212
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611513437385,
+    "lastSeen": 1611514100538
+  },
+  "variantenkoning@lichess": {
+    "id": "variantenkoning",
+    "provider": "lichess",
+    "username": "Variantenkoning",
+    "firstSeen": 1611513830632,
+    "lastSeen": 1611514496748
+  }
+}
