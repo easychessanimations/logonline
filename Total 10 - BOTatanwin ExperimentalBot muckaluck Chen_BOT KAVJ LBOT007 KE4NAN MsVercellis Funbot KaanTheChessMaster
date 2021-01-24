@@ -1,0 +1,75 @@
+{
+  "botatanwin@lichess": {
+    "id": "botatanwin",
+    "provider": "lichess",
+    "username": "BOTatanwin",
+    "firstSeen": 1611444113859,
+    "lastSeen": 1611494780720,
+    "firstSeenTime": "11:21:53 PM",
+    "lastSeenTime": "7:39:23 AM",
+    "onlineDurationMins": 497.48963333333336
+  },
+  "experimentalbot@lichess": {
+    "id": "experimentalbot",
+    "provider": "lichess",
+    "username": "ExperimentalBot",
+    "firstSeen": 1611484366869,
+    "lastSeen": 1611494388616
+  },
+  "muckaluck@lichess": {
+    "id": "muckaluck",
+    "provider": "lichess",
+    "username": "muckaluck",
+    "firstSeen": 1611489111947,
+    "lastSeen": 1611494934087
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611489689908,
+    "lastSeen": 1611494607128
+  },
+  "kavj@lichess": {
+    "id": "kavj",
+    "provider": "lichess",
+    "username": "KAVJ",
+    "firstSeen": 1611493892322,
+    "lastSeen": 1611494229983
+  },
+  "lbot007@lichess": {
+    "id": "lbot007",
+    "provider": "lichess",
+    "username": "LBOT007",
+    "firstSeen": 1611494235992,
+    "lastSeen": 1611494946793
+  },
+  "ke4nan@lichess": {
+    "id": "ke4nan",
+    "provider": "lichess",
+    "username": "KE4NAN",
+    "firstSeen": 1611494249398,
+    "lastSeen": 1611494838808
+  },
+  "msvercellis@lichess": {
+    "id": "msvercellis",
+    "provider": "lichess",
+    "username": "MsVercellis",
+    "firstSeen": 1611494250378,
+    "lastSeen": 1611494532196
+  },
+  "funbot@lichess": {
+    "id": "funbot",
+    "provider": "lichess",
+    "username": "Funbot",
+    "firstSeen": 1611494276478,
+    "lastSeen": 1611494910781
+  },
+  "kaanthechessmaster@lichess": {
+    "id": "kaanthechessmaster",
+    "provider": "lichess",
+    "username": "KaanTheChessMaster",
+    "firstSeen": 1611494551528,
+    "lastSeen": 1611494551528
+  }
+}
