@@ -1,0 +1,22 @@
+{
+  "muckaluck@lichess": {
+    "id": "muckaluck",
+    "provider": "lichess",
+    "username": "muckaluck",
+    "firstSeen": 1611489111947,
+    "lastSeen": 1611531294858,
+    "firstSeenTime": "11:51:51 AM",
+    "lastSeenTime": "11:12:55 PM",
+    "onlineDurationMins": 681.0538666666666
+  },
+  "funbot@lichess": {
+    "id": "funbot",
+    "provider": "lichess",
+    "username": "Funbot",
+    "firstSeen": 1611494276478,
+    "lastSeen": 1611531325818,
+    "firstSeenTime": "1:17:56 PM",
+    "lastSeenTime": "11:20:25 PM",
+    "onlineDurationMins": 602.4888333333333
+  }
+}
