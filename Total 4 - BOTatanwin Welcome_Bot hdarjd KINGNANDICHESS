@@ -1,0 +1,33 @@
+{
+  "botatanwin@lichess": {
+    "id": "botatanwin",
+    "provider": "lichess",
+    "username": "BOTatanwin",
+    "firstSeen": 1611444113859,
+    "lastSeen": 1611476779975,
+    "firstSeenTime": "11:21:53 PM",
+    "lastSeenTime": "7:39:23 AM",
+    "onlineDurationMins": 497.48963333333336
+  },
+  "welcome_bot@lichess": {
+    "id": "welcome_bot",
+    "provider": "lichess",
+    "username": "Welcome_Bot",
+    "firstSeen": 1611474988175,
+    "lastSeen": 1611476492714
+  },
+  "hdarjd@lichess": {
+    "id": "hdarjd",
+    "provider": "lichess",
+    "username": "hdarjd",
+    "firstSeen": 1611476495509,
+    "lastSeen": 1611476498871
+  },
+  "kingnandichess@lichess": {
+    "id": "kingnandichess",
+    "provider": "lichess",
+    "username": "KINGNANDICHESS",
+    "firstSeen": 1611477105619,
+    "lastSeen": 1611477171621
+  }
+}
