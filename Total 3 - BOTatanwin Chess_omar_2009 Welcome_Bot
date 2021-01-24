@@ -1,0 +1,29 @@
+{
+  "botatanwin@lichess": {
+    "id": "botatanwin",
+    "provider": "lichess",
+    "username": "BOTatanwin",
+    "firstSeen": 1611444113859,
+    "lastSeen": 1611475283118,
+    "firstSeenTime": "11:21:53 PM",
+    "lastSeenTime": "7:39:23 AM",
+    "onlineDurationMins": 497.48963333333336
+  },
+  "chess_omar_2009@lichess": {
+    "id": "chess_omar_2009",
+    "provider": "lichess",
+    "username": "Chess_omar_2009",
+    "firstSeen": 1611474144681,
+    "lastSeen": 1611474813975,
+    "firstSeenTime": "7:42:24 AM",
+    "lastSeenTime": "7:42:38 AM",
+    "onlineDurationMins": 0.23621666666666666
+  },
+  "welcome_bot@lichess": {
+    "id": "welcome_bot",
+    "provider": "lichess",
+    "username": "Welcome_Bot",
+    "firstSeen": 1611474988175,
+    "lastSeen": 1611475442751
+  }
+}
