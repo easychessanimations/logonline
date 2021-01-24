@@ -1,0 +1,87 @@
+{
+  "botatanwin@lichess": {
+    "id": "botatanwin",
+    "provider": "lichess",
+    "username": "BOTatanwin",
+    "firstSeen": 1611444113859,
+    "lastSeen": 1611503654614,
+    "firstSeenTime": "11:21:53 PM",
+    "lastSeenTime": "2:02:25 PM",
+    "onlineDurationMins": 880.52865
+  },
+  "experimentalbot@lichess": {
+    "id": "experimentalbot",
+    "provider": "lichess",
+    "username": "ExperimentalBot",
+    "firstSeen": 1611484366869,
+    "lastSeen": 1611503597245,
+    "firstSeenTime": "10:32:46 AM",
+    "lastSeenTime": "2:06:12 PM",
+    "onlineDurationMins": 213.42933333333335
+  },
+  "muckaluck@lichess": {
+    "id": "muckaluck",
+    "provider": "lichess",
+    "username": "muckaluck",
+    "firstSeen": 1611489111947,
+    "lastSeen": 1611503577455,
+    "firstSeenTime": "11:51:51 AM",
+    "lastSeenTime": "2:01:57 PM",
+    "onlineDurationMins": 130.08931666666666
+  },
+  "ke4nan@lichess": {
+    "id": "ke4nan",
+    "provider": "lichess",
+    "username": "KE4NAN",
+    "firstSeen": 1611494249398,
+    "lastSeen": 1611503590205,
+    "firstSeenTime": "1:17:29 PM",
+    "lastSeenTime": "2:05:56 PM",
+    "onlineDurationMins": 48.4537
+  },
+  "funbot@lichess": {
+    "id": "funbot",
+    "provider": "lichess",
+    "username": "Funbot",
+    "firstSeen": 1611494276478,
+    "lastSeen": 1611503425090,
+    "firstSeenTime": "1:17:56 PM",
+    "lastSeenTime": "2:04:42 PM",
+    "onlineDurationMins": 46.76128333333333
+  },
+  "efsocn@lichess": {
+    "id": "efsocn",
+    "provider": "lichess",
+    "username": "Efsocn",
+    "firstSeen": 1611500266754,
+    "lastSeen": 1611503345306
+  },
+  "best_lool@lichess": {
+    "id": "best_lool",
+    "provider": "lichess",
+    "username": "BEST_LOOL",
+    "firstSeen": 1611500912451,
+    "lastSeen": 1611503613552
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1611501721155,
+    "lastSeen": 1611503481268
+  },
+  "ziya3k@lichess": {
+    "id": "ziya3k",
+    "provider": "lichess",
+    "username": "ziya3k",
+    "firstSeen": 1611503505816,
+    "lastSeen": 1611503543234
+  },
+  "kingnandichess@lichess": {
+    "id": "kingnandichess",
+    "provider": "lichess",
+    "username": "KINGNANDICHESS",
+    "firstSeen": 1611503675373,
+    "lastSeen": 1611503675373
+  }
+}
