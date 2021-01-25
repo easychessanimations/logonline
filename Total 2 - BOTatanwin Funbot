@@ -3,14 +3,17 @@
     "id": "botatanwin",
     "provider": "lichess",
     "username": "BOTatanwin",
-    "firstSeen": 1611444113859,
-    "lastSeen": 1611452901494
+    "firstSeen": 1611532826566,
+    "lastSeen": 1611532830063,
+    "firstSeenTime": "12:00:26 AM",
+    "lastSeenTime": "12:00:30 AM",
+    "onlineDurationMins": 0.05828333333333333
   },
   "funbot@lichess": {
     "id": "funbot",
     "provider": "lichess",
     "username": "Funbot",
-    "firstSeen": 1611453119781,
-    "lastSeen": 1611453119781
+    "firstSeen": 1611533424632,
+    "lastSeen": 1611533424633
   }
 }
