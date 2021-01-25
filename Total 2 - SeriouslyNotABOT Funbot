@@ -1,0 +1,19 @@
+{
+  "seriouslynotabot@lichess": {
+    "id": "seriouslynotabot",
+    "provider": "lichess",
+    "username": "SeriouslyNotABOT",
+    "firstSeen": 1611535494101,
+    "lastSeen": 1611539417450,
+    "firstSeenTime": "12:44:54 AM",
+    "lastSeenTime": "1:28:40 AM",
+    "onlineDurationMins": 43.76805
+  },
+  "funbot@lichess": {
+    "id": "funbot",
+    "provider": "lichess",
+    "username": "Funbot",
+    "firstSeen": 1611538658786,
+    "lastSeen": 1611540077415
+  }
+}
