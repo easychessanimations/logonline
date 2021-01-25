@@ -1,0 +1,26 @@
+{
+  "experimentalbot@lichess": {
+    "id": "experimentalbot",
+    "provider": "lichess",
+    "username": "ExperimentalBot",
+    "firstSeen": 1611558487607,
+    "lastSeen": 1611568191662,
+    "firstSeenTime": "7:08:07 AM",
+    "lastSeenTime": "9:35:55 AM",
+    "onlineDurationMins": 147.79996666666668
+  },
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1611568376570,
+    "lastSeen": 1611568378864
+  },
+  "veronika33_cze@lichess": {
+    "id": "veronika33_cze",
+    "provider": "lichess",
+    "username": "Veronika33_CZE",
+    "firstSeen": 1611568502877,
+    "lastSeen": 1611568502877
+  }
+}
