@@ -1,0 +1,29 @@
+{
+  "botatanwin@lichess": {
+    "id": "botatanwin",
+    "provider": "lichess",
+    "username": "BOTatanwin",
+    "firstSeen": 1611532826566,
+    "lastSeen": 1611535207350,
+    "firstSeenTime": "12:00:26 AM",
+    "lastSeenTime": "12:26:40 AM",
+    "onlineDurationMins": 26.231133333333332
+  },
+  "funbot@lichess": {
+    "id": "funbot",
+    "provider": "lichess",
+    "username": "Funbot",
+    "firstSeen": 1611533424632,
+    "lastSeen": 1611534804574,
+    "firstSeenTime": "12:10:24 AM",
+    "lastSeenTime": "12:22:28 AM",
+    "onlineDurationMins": 12.056283333333333
+  },
+  "seriouslynotabot@lichess": {
+    "id": "seriouslynotabot",
+    "provider": "lichess",
+    "username": "SeriouslyNotABOT",
+    "firstSeen": 1611535494101,
+    "lastSeen": 1611535494101
+  }
+}
