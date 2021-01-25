@@ -4,13 +4,16 @@
     "provider": "lichess",
     "username": "ExperimentalBot",
     "firstSeen": 1611558487607,
-    "lastSeen": 1611558542141
+    "lastSeen": 1611568191662,
+    "firstSeenTime": "7:08:07 AM",
+    "lastSeenTime": "9:35:55 AM",
+    "onlineDurationMins": 147.79996666666668
   },
   "hordebot@lichess": {
     "id": "hordebot",
     "provider": "lichess",
     "username": "HORDEBOT",
-    "firstSeen": 1611558577846,
-    "lastSeen": 1611558577847
+    "firstSeen": 1611568376570,
+    "lastSeen": 1611568376571
   }
 }
