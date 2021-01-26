@@ -1,0 +1,23 @@
+{
+  "mistakebot@lichess": {
+    "id": "mistakebot",
+    "provider": "lichess",
+    "username": "MistakeBOT",
+    "firstSeen": 1611685509883,
+    "lastSeen": 1611686238006
+  },
+  "masterninja123456@lichess": {
+    "id": "masterninja123456",
+    "provider": "lichess",
+    "username": "MasterNinja123456",
+    "firstSeen": 1611685648504,
+    "lastSeen": 1611686668988
+  },
+  "theadvancedbot@lichess": {
+    "id": "theadvancedbot",
+    "provider": "lichess",
+    "username": "TheAdvancedBot",
+    "firstSeen": 1611686700652,
+    "lastSeen": 1611686700652
+  }
+}
