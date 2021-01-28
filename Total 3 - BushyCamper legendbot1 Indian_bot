@@ -4,20 +4,29 @@
     "provider": "lichess",
     "username": "BushyCamper",
     "firstSeen": 1611829476884,
-    "lastSeen": 1611830838568
+    "lastSeen": 1611842228075,
+    "firstSeenTime": "10:24:36 AM",
+    "lastSeenTime": "11:44:45 AM",
+    "onlineDurationMins": 80.14215
   },
   "legendbot1@lichess": {
     "id": "legendbot1",
     "provider": "lichess",
     "username": "legendbot1",
     "firstSeen": 1611830534627,
-    "lastSeen": 1611830709644
+    "lastSeen": 1611841940430,
+    "firstSeenTime": "10:42:14 AM",
+    "lastSeenTime": "11:39:19 AM",
+    "onlineDurationMins": 57.085683333333336
   },
   "indian_bot@lichess": {
     "id": "indian_bot",
     "provider": "lichess",
     "username": "Indian_bot",
     "firstSeen": 1611830561935,
-    "lastSeen": 1611830710570
+    "lastSeen": 1611841850356,
+    "firstSeenTime": "10:42:41 AM",
+    "lastSeenTime": "11:39:07 AM",
+    "onlineDurationMins": 56.42125
   }
 }
