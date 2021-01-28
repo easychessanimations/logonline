@@ -1,0 +1,19 @@
+{
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1611824686978,
+    "lastSeen": 1611828004424,
+    "firstSeenTime": "9:04:46 AM",
+    "lastSeenTime": "9:10:09 AM",
+    "onlineDurationMins": 5.367666666666667
+  },
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1611828026141,
+    "lastSeen": 1611828026141
+  }
+}
