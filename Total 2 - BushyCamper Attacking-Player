@@ -1,0 +1,19 @@
+{
+  "bushycamper@lichess": {
+    "id": "bushycamper",
+    "provider": "lichess",
+    "username": "BushyCamper",
+    "firstSeen": 1611906985820,
+    "lastSeen": 1611925378415,
+    "firstSeenTime": "7:56:25 AM",
+    "lastSeenTime": "10:26:00 AM",
+    "onlineDurationMins": 149.5791
+  },
+  "attacking-player@lichess": {
+    "id": "attacking-player",
+    "provider": "lichess",
+    "username": "Attacking-Player",
+    "firstSeen": 1611925403666,
+    "lastSeen": 1611925726858
+  }
+}
