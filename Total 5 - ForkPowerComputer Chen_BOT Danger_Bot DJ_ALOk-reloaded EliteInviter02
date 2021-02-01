@@ -1,0 +1,49 @@
+{
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1612175703322,
+    "lastSeen": 1612194113814,
+    "firstSeenTime": "10:35:03 AM",
+    "lastSeenTime": "3:04:50 PM",
+    "onlineDurationMins": 269.78965
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1612186875152,
+    "lastSeen": 1612194256929,
+    "firstSeenTime": "1:41:15 PM",
+    "lastSeenTime": "3:01:20 PM",
+    "onlineDurationMins": 80.08243333333333
+  },
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612191530873,
+    "lastSeen": 1612194477787,
+    "firstSeenTime": "2:58:50 PM",
+    "lastSeenTime": "3:05:33 PM",
+    "onlineDurationMins": 6.715566666666667
+  },
+  "dj_alok-reloaded@lichess": {
+    "id": "dj_alok-reloaded",
+    "provider": "lichess",
+    "username": "DJ_ALOk-reloaded",
+    "firstSeen": 1612191721172,
+    "lastSeen": 1612194282403,
+    "firstSeenTime": "3:02:01 PM",
+    "lastSeenTime": "3:09:00 PM",
+    "onlineDurationMins": 6.992683333333333
+  },
+  "eliteinviter02@lichess": {
+    "id": "eliteinviter02",
+    "provider": "lichess",
+    "username": "EliteInviter02",
+    "firstSeen": 1612194244055,
+    "lastSeen": 1612194350164
+  }
+}
