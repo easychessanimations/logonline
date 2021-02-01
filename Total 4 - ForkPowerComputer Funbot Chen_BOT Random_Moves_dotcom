@@ -1,0 +1,30 @@
+{
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1612175703322,
+    "lastSeen": 1612188474216
+  },
+  "funbot@lichess": {
+    "id": "funbot",
+    "provider": "lichess",
+    "username": "Funbot",
+    "firstSeen": 1612186515697,
+    "lastSeen": 1612188842867
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1612186875152,
+    "lastSeen": 1612188371196
+  },
+  "random_moves_dotcom@lichess": {
+    "id": "random_moves_dotcom",
+    "provider": "lichess",
+    "username": "Random_Moves_dotcom",
+    "firstSeen": 1612188079556,
+    "lastSeen": 1612189011048
+  }
+}
