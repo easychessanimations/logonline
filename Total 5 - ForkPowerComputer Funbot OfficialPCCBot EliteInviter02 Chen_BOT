@@ -1,0 +1,46 @@
+{
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1612201216522,
+    "lastSeen": 1612206016351,
+    "firstSeenTime": "5:40:16 PM",
+    "lastSeenTime": "6:49:19 PM",
+    "onlineDurationMins": 69.0494
+  },
+  "funbot@lichess": {
+    "id": "funbot",
+    "provider": "lichess",
+    "username": "Funbot",
+    "firstSeen": 1612201332943,
+    "lastSeen": 1612206018746,
+    "firstSeenTime": "5:42:12 PM",
+    "lastSeenTime": "6:52:46 PM",
+    "onlineDurationMins": 70.55531666666667
+  },
+  "officialpccbot@lichess": {
+    "id": "officialpccbot",
+    "provider": "lichess",
+    "username": "OfficialPCCBot",
+    "firstSeen": 1612205310022,
+    "lastSeen": 1612205803839,
+    "firstSeenTime": "6:48:30 PM",
+    "lastSeenTime": "6:49:06 PM",
+    "onlineDurationMins": 0.6104166666666667
+  },
+  "eliteinviter02@lichess": {
+    "id": "eliteinviter02",
+    "provider": "lichess",
+    "username": "EliteInviter02",
+    "firstSeen": 1612206185107,
+    "lastSeen": 1612206196614
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1612206565140,
+    "lastSeen": 1612206565140
+  }
+}
