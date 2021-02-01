@@ -1,0 +1,16 @@
+{
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1612156203966,
+    "lastSeen": 1612156223426
+  },
+  "betachessbot@lichess": {
+    "id": "betachessbot",
+    "provider": "lichess",
+    "username": "BetaChessBot",
+    "firstSeen": 1612156556012,
+    "lastSeen": 1612156556012
+  }
+}
