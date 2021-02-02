@@ -1,0 +1,33 @@
+{
+  "funbot@lichess": {
+    "id": "funbot",
+    "provider": "lichess",
+    "username": "Funbot",
+    "firstSeen": 1612274972767,
+    "lastSeen": 1612292976016,
+    "firstSeenTime": "2:09:32 PM",
+    "lastSeenTime": "6:36:39 PM",
+    "onlineDurationMins": 267.10883333333334
+  },
+  "resportcheess@lichess": {
+    "id": "resportcheess",
+    "provider": "lichess",
+    "username": "ResporTCheesS",
+    "firstSeen": 1612291773176,
+    "lastSeen": 1612292571706
+  },
+  "resportchesss@lichess": {
+    "id": "resportchesss",
+    "provider": "lichess",
+    "username": "ResporTChessS",
+    "firstSeen": 1612292572774,
+    "lastSeen": 1612292653832
+  },
+  "eliteinviter02@lichess": {
+    "id": "eliteinviter02",
+    "provider": "lichess",
+    "username": "EliteInviter02",
+    "firstSeen": 1612292723997,
+    "lastSeen": 1612292735148
+  }
+}
