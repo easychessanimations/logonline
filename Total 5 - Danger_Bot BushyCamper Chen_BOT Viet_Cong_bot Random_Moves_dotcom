@@ -1,0 +1,46 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612253702008,
+    "lastSeen": 1612261568358,
+    "firstSeenTime": "8:15:02 AM",
+    "lastSeenTime": "10:20:03 AM",
+    "onlineDurationMins": 125.03185
+  },
+  "bushycamper@lichess": {
+    "id": "bushycamper",
+    "provider": "lichess",
+    "username": "BushyCamper",
+    "firstSeen": 1612254050814,
+    "lastSeen": 1612261464572,
+    "firstSeenTime": "8:20:50 AM",
+    "lastSeenTime": "10:11:53 AM",
+    "onlineDurationMins": 111.05133333333333
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1612258663403,
+    "lastSeen": 1612261363441,
+    "firstSeenTime": "9:37:43 AM",
+    "lastSeenTime": "10:11:46 AM",
+    "onlineDurationMins": 34.05201666666667
+  },
+  "viet_cong_bot@lichess": {
+    "id": "viet_cong_bot",
+    "provider": "lichess",
+    "username": "Viet_Cong_bot",
+    "firstSeen": 1612261315832,
+    "lastSeen": 1612261706877
+  },
+  "random_moves_dotcom@lichess": {
+    "id": "random_moves_dotcom",
+    "provider": "lichess",
+    "username": "Random_Moves_dotcom",
+    "firstSeen": 1612261730664,
+    "lastSeen": 1612261730664
+  }
+}
