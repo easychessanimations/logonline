@@ -1,0 +1,53 @@
+{
+  "bushycamper@lichess": {
+    "id": "bushycamper",
+    "provider": "lichess",
+    "username": "BushyCamper",
+    "firstSeen": 1612254050814,
+    "lastSeen": 1612269953834,
+    "firstSeenTime": "8:20:50 AM",
+    "lastSeenTime": "12:04:50 PM",
+    "onlineDurationMins": 223.99706666666665
+  },
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1612263447953,
+    "lastSeen": 1612270359890,
+    "firstSeenTime": "10:57:27 AM",
+    "lastSeenTime": "11:59:09 AM",
+    "onlineDurationMins": 61.69141666666667
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1612263483446,
+    "lastSeen": 1612269963751,
+    "firstSeenTime": "10:58:03 AM",
+    "lastSeenTime": "11:59:03 AM",
+    "onlineDurationMins": 61.00268333333333
+  },
+  "ishant_chess@lichess": {
+    "id": "ishant_chess",
+    "provider": "lichess",
+    "username": "ISHANT_CHESS",
+    "firstSeen": 1612270212409,
+    "lastSeen": 1612270263652
+  },
+  "rrrchampion@lichess": {
+    "id": "rrrchampion",
+    "provider": "lichess",
+    "username": "RRRCHAMPION",
+    "firstSeen": 1612270302884,
+    "lastSeen": 1612270403445
+  },
+  "ishant_chess_2021@lichess": {
+    "id": "ishant_chess_2021",
+    "provider": "lichess",
+    "username": "ISHANT_CHESS_2021",
+    "firstSeen": 1612270404498,
+    "lastSeen": 1612270404498
+  }
+}
