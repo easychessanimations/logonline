@@ -1,0 +1,23 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612243449467,
+    "lastSeen": 1612248845276
+  },
+  "the_unknown_guy_423@lichess": {
+    "id": "the_unknown_guy_423",
+    "provider": "lichess",
+    "username": "The_Unknown_Guy_423",
+    "firstSeen": 1612248961518,
+    "lastSeen": 1612248979668
+  },
+  "devani_shlok@lichess": {
+    "id": "devani_shlok",
+    "provider": "lichess",
+    "username": "devani_shlok",
+    "firstSeen": 1612249200525,
+    "lastSeen": 1612249200525
+  }
+}
