@@ -1,0 +1,23 @@
+{
+  "funbot@lichess": {
+    "id": "funbot",
+    "provider": "lichess",
+    "username": "Funbot",
+    "firstSeen": 1612236247652,
+    "lastSeen": 1612236251978
+  },
+  "77822123@github": {
+    "id": "77822123",
+    "provider": "github",
+    "username": "kingnandi",
+    "firstSeen": 1612236307808,
+    "lastSeen": 1612236320316
+  },
+  "kingnandi_chessbot@lichess": {
+    "id": "kingnandi_chessbot",
+    "provider": "lichess",
+    "username": "KINGNANDI_chessbot",
+    "firstSeen": 1612236321158,
+    "lastSeen": 1612236321158
+  }
+}
