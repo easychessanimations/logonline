@@ -1,0 +1,52 @@
+{
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1612263483446,
+    "lastSeen": 1612288536798,
+    "firstSeenTime": "10:58:03 AM",
+    "lastSeenTime": "5:44:33 PM",
+    "onlineDurationMins": 406.50371666666666
+  },
+  "funbot@lichess": {
+    "id": "funbot",
+    "provider": "lichess",
+    "username": "Funbot",
+    "firstSeen": 1612274972767,
+    "lastSeen": 1612288475777,
+    "firstSeenTime": "2:09:32 PM",
+    "lastSeenTime": "5:51:39 PM",
+    "onlineDurationMins": 222.10768333333334
+  },
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612286268160,
+    "lastSeen": 1612288254535,
+    "firstSeenTime": "5:17:48 PM",
+    "lastSeenTime": "5:50:54 PM",
+    "onlineDurationMins": 33.10625
+  },
+  "mbm33@lichess": {
+    "id": "mbm33",
+    "provider": "lichess",
+    "username": "mbm33",
+    "firstSeen": 1612287552378,
+    "lastSeen": 1612288374100,
+    "firstSeenTime": "5:39:12 PM",
+    "lastSeenTime": "5:52:54 PM",
+    "onlineDurationMins": 13.695366666666667
+  },
+  "vactares_1@lichess": {
+    "id": "vactares_1",
+    "provider": "lichess",
+    "username": "VacTares_1",
+    "firstSeen": 1612287807593,
+    "lastSeen": 1612288737843,
+    "firstSeenTime": "5:43:27 PM",
+    "lastSeenTime": "5:53:49 PM",
+    "onlineDurationMins": 10.370666666666667
+  }
+}
