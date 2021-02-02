@@ -1,0 +1,47 @@
+{
+  "funbot@lichess": {
+    "id": "funbot",
+    "provider": "lichess",
+    "username": "Funbot",
+    "firstSeen": 1612274972767,
+    "lastSeen": 1612298976066,
+    "firstSeenTime": "2:09:32 PM",
+    "lastSeenTime": "6:36:39 PM",
+    "onlineDurationMins": 267.10883333333334
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1612295440633,
+    "lastSeen": 1612298817268
+  },
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1612296415792,
+    "lastSeen": 1612298412849
+  },
+  "natural-disaster@lichess": {
+    "id": "natural-disaster",
+    "provider": "lichess",
+    "username": "natural-disaster",
+    "firstSeen": 1612297225447,
+    "lastSeen": 1612298970246
+  },
+  "hookedonbots@lichess": {
+    "id": "hookedonbots",
+    "provider": "lichess",
+    "username": "hookedonbots",
+    "firstSeen": 1612298311019,
+    "lastSeen": 1612298314339
+  },
+  "alejbot@lichess": {
+    "id": "alejbot",
+    "provider": "lichess",
+    "username": "alejBOT",
+    "firstSeen": 1612298988907,
+    "lastSeen": 1612298988907
+  }
+}
