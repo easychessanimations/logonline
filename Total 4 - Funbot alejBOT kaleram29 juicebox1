@@ -1,0 +1,33 @@
+{
+  "funbot@lichess": {
+    "id": "funbot",
+    "provider": "lichess",
+    "username": "Funbot",
+    "firstSeen": 1612274972767,
+    "lastSeen": 1612302396160,
+    "firstSeenTime": "2:09:32 PM",
+    "lastSeenTime": "6:36:39 PM",
+    "onlineDurationMins": 267.10883333333334
+  },
+  "alejbot@lichess": {
+    "id": "alejbot",
+    "provider": "lichess",
+    "username": "alejBOT",
+    "firstSeen": 1612298988907,
+    "lastSeen": 1612302237641
+  },
+  "kaleram29@lichess": {
+    "id": "kaleram29",
+    "provider": "lichess",
+    "username": "kaleram29",
+    "firstSeen": 1612301916328,
+    "lastSeen": 1612301942550
+  },
+  "juicebox1@lichess": {
+    "id": "juicebox1",
+    "provider": "lichess",
+    "username": "juicebox1",
+    "firstSeen": 1612302466600,
+    "lastSeen": 1612302466600
+  }
+}
