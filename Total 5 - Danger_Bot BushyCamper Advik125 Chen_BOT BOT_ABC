@@ -1,0 +1,37 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612253702008,
+    "lastSeen": 1612256702119
+  },
+  "bushycamper@lichess": {
+    "id": "bushycamper",
+    "provider": "lichess",
+    "username": "BushyCamper",
+    "firstSeen": 1612254050814,
+    "lastSeen": 1612256684900
+  },
+  "advik125@lichess": {
+    "id": "advik125",
+    "provider": "lichess",
+    "username": "Advik125",
+    "firstSeen": 1612254376255,
+    "lastSeen": 1612256356314
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1612256081671,
+    "lastSeen": 1612256686629
+  },
+  "bot_abc@lichess": {
+    "id": "bot_abc",
+    "provider": "lichess",
+    "username": "BOT_ABC",
+    "firstSeen": 1612256844943,
+    "lastSeen": 1612256844944
+  }
+}
