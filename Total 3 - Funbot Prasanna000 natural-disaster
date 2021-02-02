@@ -1,0 +1,26 @@
+{
+  "funbot@lichess": {
+    "id": "funbot",
+    "provider": "lichess",
+    "username": "Funbot",
+    "firstSeen": 1612274972767,
+    "lastSeen": 1612294295956,
+    "firstSeenTime": "2:09:32 PM",
+    "lastSeenTime": "6:36:39 PM",
+    "onlineDurationMins": 267.10883333333334
+  },
+  "prasanna000@lichess": {
+    "id": "prasanna000",
+    "provider": "lichess",
+    "username": "Prasanna000",
+    "firstSeen": 1612294182052,
+    "lastSeen": 1612294190258
+  },
+  "natural-disaster@lichess": {
+    "id": "natural-disaster",
+    "provider": "lichess",
+    "username": "natural-disaster",
+    "firstSeen": 1612294191145,
+    "lastSeen": 1612294207895
+  }
+}
