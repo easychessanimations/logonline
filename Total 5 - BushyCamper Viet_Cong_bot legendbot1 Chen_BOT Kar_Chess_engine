@@ -1,0 +1,49 @@
+{
+  "bushycamper@lichess": {
+    "id": "bushycamper",
+    "provider": "lichess",
+    "username": "BushyCamper",
+    "firstSeen": 1612254050814,
+    "lastSeen": 1612267490638,
+    "firstSeenTime": "8:20:50 AM",
+    "lastSeenTime": "12:04:50 PM",
+    "onlineDurationMins": 223.99706666666665
+  },
+  "viet_cong_bot@lichess": {
+    "id": "viet_cong_bot",
+    "provider": "lichess",
+    "username": "Viet_Cong_bot",
+    "firstSeen": 1612261315832,
+    "lastSeen": 1612267599234,
+    "firstSeenTime": "10:21:55 AM",
+    "lastSeenTime": "12:06:39 PM",
+    "onlineDurationMins": 104.72336666666666
+  },
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1612263447953,
+    "lastSeen": 1612267149438,
+    "firstSeenTime": "10:57:27 AM",
+    "lastSeenTime": "11:59:09 AM",
+    "onlineDurationMins": 61.69141666666667
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1612263483446,
+    "lastSeen": 1612267143607,
+    "firstSeenTime": "10:58:03 AM",
+    "lastSeenTime": "11:59:03 AM",
+    "onlineDurationMins": 61.00268333333333
+  },
+  "kar_chess_engine@lichess": {
+    "id": "kar_chess_engine",
+    "provider": "lichess",
+    "username": "Kar_Chess_engine",
+    "firstSeen": 1612267827742,
+    "lastSeen": 1612267827743
+  }
+}
