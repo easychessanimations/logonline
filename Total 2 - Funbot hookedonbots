@@ -1,0 +1,19 @@
+{
+  "funbot@lichess": {
+    "id": "funbot",
+    "provider": "lichess",
+    "username": "Funbot",
+    "firstSeen": 1612274972767,
+    "lastSeen": 1612309716317,
+    "firstSeenTime": "2:09:32 PM",
+    "lastSeenTime": "11:26:36 PM",
+    "onlineDurationMins": 557.0584833333334
+  },
+  "hookedonbots@lichess": {
+    "id": "hookedonbots",
+    "provider": "lichess",
+    "username": "hookedonbots",
+    "firstSeen": 1612310167393,
+    "lastSeen": 1612310167393
+  }
+}
