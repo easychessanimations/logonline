@@ -1,0 +1,33 @@
+{
+  "funbot@lichess": {
+    "id": "funbot",
+    "provider": "lichess",
+    "username": "Funbot",
+    "firstSeen": 1612274972767,
+    "lastSeen": 1612300475739,
+    "firstSeenTime": "2:09:32 PM",
+    "lastSeenTime": "6:36:39 PM",
+    "onlineDurationMins": 267.10883333333334
+  },
+  "alejbot@lichess": {
+    "id": "alejbot",
+    "provider": "lichess",
+    "username": "alejBOT",
+    "firstSeen": 1612298988907,
+    "lastSeen": 1612300492462
+  },
+  "renkeraz@lichess": {
+    "id": "renkeraz",
+    "provider": "lichess",
+    "username": "renkeraz",
+    "firstSeen": 1612300680982,
+    "lastSeen": 1612300714341
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1612300720453,
+    "lastSeen": 1612300795703
+  }
+}
