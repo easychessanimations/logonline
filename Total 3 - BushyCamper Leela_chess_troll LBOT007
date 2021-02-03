@@ -1,0 +1,32 @@
+{
+  "bushycamper@lichess": {
+    "id": "bushycamper",
+    "provider": "lichess",
+    "username": "BushyCamper",
+    "firstSeen": 1612365571368,
+    "lastSeen": 1612385807384,
+    "firstSeenTime": "3:19:31 PM",
+    "lastSeenTime": "8:23:50 PM",
+    "onlineDurationMins": 304.31961666666666
+  },
+  "leela_chess_troll@lichess": {
+    "id": "leela_chess_troll",
+    "provider": "lichess",
+    "username": "Leela_chess_troll",
+    "firstSeen": 1612377854399,
+    "lastSeen": 1612385799179,
+    "firstSeenTime": "6:44:14 PM",
+    "lastSeenTime": "8:27:45 PM",
+    "onlineDurationMins": 103.5132
+  },
+  "lbot007@lichess": {
+    "id": "lbot007",
+    "provider": "lichess",
+    "username": "LBOT007",
+    "firstSeen": 1612383696553,
+    "lastSeen": 1612385982449,
+    "firstSeenTime": "8:21:36 PM",
+    "lastSeenTime": "8:32:46 PM",
+    "onlineDurationMins": 11.168583333333334
+  }
+}
