@@ -1,0 +1,19 @@
+{
+  "funbot@lichess": {
+    "id": "funbot",
+    "provider": "lichess",
+    "username": "Funbot",
+    "firstSeen": 1612274972767,
+    "lastSeen": 1612314339543,
+    "firstSeenTime": "2:09:32 PM",
+    "lastSeenTime": "1:05:39 AM",
+    "onlineDurationMins": 656.1129333333333
+  },
+  "forward_1@lichess": {
+    "id": "forward_1",
+    "provider": "lichess",
+    "username": "FORWARD_1",
+    "firstSeen": 1612314987130,
+    "lastSeen": 1612314987130
+  }
+}
