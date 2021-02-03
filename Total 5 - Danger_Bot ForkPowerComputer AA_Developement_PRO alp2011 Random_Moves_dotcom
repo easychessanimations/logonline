@@ -1,0 +1,43 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612341245582,
+    "lastSeen": 1612352039075,
+    "firstSeenTime": "8:34:05 AM",
+    "lastSeenTime": "9:53:58 AM",
+    "onlineDurationMins": 79.87826666666666
+  },
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1612343193780,
+    "lastSeen": 1612352538298,
+    "firstSeenTime": "9:06:33 AM",
+    "lastSeenTime": "9:52:14 AM",
+    "onlineDurationMins": 45.68438333333334
+  },
+  "aa_developement_pro@lichess": {
+    "id": "aa_developement_pro",
+    "provider": "lichess",
+    "username": "AA_Developement_PRO",
+    "firstSeen": 1612347630158,
+    "lastSeen": 1612352117497
+  },
+  "alp2011@lichess": {
+    "id": "alp2011",
+    "provider": "lichess",
+    "username": "alp2011",
+    "firstSeen": 1612351550145,
+    "lastSeen": 1612351770976
+  },
+  "random_moves_dotcom@lichess": {
+    "id": "random_moves_dotcom",
+    "provider": "lichess",
+    "username": "Random_Moves_dotcom",
+    "firstSeen": 1612351558472,
+    "lastSeen": 1612352458581
+  }
+}
