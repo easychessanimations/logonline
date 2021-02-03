@@ -1,0 +1,49 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612341245582,
+    "lastSeen": 1612354078522,
+    "firstSeenTime": "8:34:05 AM",
+    "lastSeenTime": "12:07:58 PM",
+    "onlineDurationMins": 213.88233333333332
+  },
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1612343193780,
+    "lastSeen": 1612353861586,
+    "firstSeenTime": "9:06:33 AM",
+    "lastSeenTime": "12:04:21 PM",
+    "onlineDurationMins": 177.79676666666666
+  },
+  "aa_developement_pro@lichess": {
+    "id": "aa_developement_pro",
+    "provider": "lichess",
+    "username": "AA_Developement_PRO",
+    "firstSeen": 1612347630158,
+    "lastSeen": 1612354094569,
+    "firstSeenTime": "10:20:30 AM",
+    "lastSeenTime": "12:08:14 PM",
+    "onlineDurationMins": 107.74018333333333
+  },
+  "natural-disaster@lichess": {
+    "id": "natural-disaster",
+    "provider": "lichess",
+    "username": "natural-disaster",
+    "firstSeen": 1612353426117,
+    "lastSeen": 1612354071438,
+    "firstSeenTime": "11:57:06 AM",
+    "lastSeenTime": "12:07:51 PM",
+    "onlineDurationMins": 10.75535
+  },
+  "eliteinviter02@lichess": {
+    "id": "eliteinviter02",
+    "provider": "lichess",
+    "username": "EliteInviter02",
+    "firstSeen": 1612354400773,
+    "lastSeen": 1612354400773
+  }
+}
