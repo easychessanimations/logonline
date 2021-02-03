@@ -1,0 +1,40 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612341245582,
+    "lastSeen": 1612378075445,
+    "firstSeenTime": "8:34:05 AM",
+    "lastSeenTime": "2:25:55 PM",
+    "onlineDurationMins": 351.8278833333333
+  },
+  "bushycamper@lichess": {
+    "id": "bushycamper",
+    "provider": "lichess",
+    "username": "BushyCamper",
+    "firstSeen": 1612365571368,
+    "lastSeen": 1612377650659
+  },
+  "bot_lc0_unoffical@lichess": {
+    "id": "bot_lc0_unoffical",
+    "provider": "lichess",
+    "username": "BOT_LC0_UNOFFICAL",
+    "firstSeen": 1612377573035,
+    "lastSeen": 1612377828284
+  },
+  "leela_chess_troll@lichess": {
+    "id": "leela_chess_troll",
+    "provider": "lichess",
+    "username": "Leela_chess_troll",
+    "firstSeen": 1612377854399,
+    "lastSeen": 1612378153888
+  },
+  "aa_developement_pro@lichess": {
+    "id": "aa_developement_pro",
+    "provider": "lichess",
+    "username": "AA_Developement_PRO",
+    "firstSeen": 1612378218477,
+    "lastSeen": 1612378218477
+  }
+}
