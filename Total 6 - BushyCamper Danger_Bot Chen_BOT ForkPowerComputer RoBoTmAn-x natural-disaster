@@ -1,0 +1,62 @@
+{
+  "bushycamper@lichess": {
+    "id": "bushycamper",
+    "provider": "lichess",
+    "username": "BushyCamper",
+    "firstSeen": 1612341227659,
+    "lastSeen": 1612345513204,
+    "firstSeenTime": "8:33:47 AM",
+    "lastSeenTime": "9:45:13 AM",
+    "onlineDurationMins": 71.42575
+  },
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612341245582,
+    "lastSeen": 1612346038278,
+    "firstSeenTime": "8:34:05 AM",
+    "lastSeenTime": "9:42:58 AM",
+    "onlineDurationMins": 68.87953333333333
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1612341970992,
+    "lastSeen": 1612346052229,
+    "firstSeenTime": "8:46:10 AM",
+    "lastSeenTime": "9:43:15 AM",
+    "onlineDurationMins": 57.07248333333333
+  },
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1612343193780,
+    "lastSeen": 1612345934843,
+    "firstSeenTime": "9:06:33 AM",
+    "lastSeenTime": "9:44:33 AM",
+    "onlineDurationMins": 38.00006666666667
+  },
+  "robotman-x@lichess": {
+    "id": "robotman-x",
+    "provider": "lichess",
+    "username": "RoBoTmAn-x",
+    "firstSeen": 1612345063415,
+    "lastSeen": 1612345648993,
+    "firstSeenTime": "9:37:43 AM",
+    "lastSeenTime": "9:47:28 AM",
+    "onlineDurationMins": 9.759633333333333
+  },
+  "natural-disaster@lichess": {
+    "id": "natural-disaster",
+    "provider": "lichess",
+    "username": "natural-disaster",
+    "firstSeen": 1612345388652,
+    "lastSeen": 1612346011395,
+    "firstSeenTime": "9:43:08 AM",
+    "lastSeenTime": "9:47:30 AM",
+    "onlineDurationMins": 4.371716666666667
+  }
+}
