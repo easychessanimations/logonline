@@ -1,0 +1,43 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612341245582,
+    "lastSeen": 1612375075353,
+    "firstSeenTime": "8:34:05 AM",
+    "lastSeenTime": "2:25:55 PM",
+    "onlineDurationMins": 351.8278833333333
+  },
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1612343193780,
+    "lastSeen": 1612375019612,
+    "firstSeenTime": "9:06:33 AM",
+    "lastSeenTime": "2:26:17 PM",
+    "onlineDurationMins": 319.7361666666667
+  },
+  "bushycamper@lichess": {
+    "id": "bushycamper",
+    "provider": "lichess",
+    "username": "BushyCamper",
+    "firstSeen": 1612365571368,
+    "lastSeen": 1612374947427
+  },
+  "frostbitefederation@lichess": {
+    "id": "frostbitefederation",
+    "provider": "lichess",
+    "username": "FrostbiteFederation",
+    "firstSeen": 1612374703452,
+    "lastSeen": 1612374716930
+  },
+  "rayan-amirafshari@lichess": {
+    "id": "rayan-amirafshari",
+    "provider": "lichess",
+    "username": "rAyaN-aMIraFshArI",
+    "firstSeen": 1612375475351,
+    "lastSeen": 1612375475351
+  }
+}
