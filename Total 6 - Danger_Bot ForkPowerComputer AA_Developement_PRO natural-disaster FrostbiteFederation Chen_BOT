@@ -1,0 +1,62 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612341245582,
+    "lastSeen": 1612354738481,
+    "firstSeenTime": "8:34:05 AM",
+    "lastSeenTime": "12:18:58 PM",
+    "onlineDurationMins": 224.88165
+  },
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1612343193780,
+    "lastSeen": 1612355181554,
+    "firstSeenTime": "9:06:33 AM",
+    "lastSeenTime": "12:15:18 PM",
+    "onlineDurationMins": 188.74218333333334
+  },
+  "aa_developement_pro@lichess": {
+    "id": "aa_developement_pro",
+    "provider": "lichess",
+    "username": "AA_Developement_PRO",
+    "firstSeen": 1612347630158,
+    "lastSeen": 1612354758978,
+    "firstSeenTime": "10:20:30 AM",
+    "lastSeenTime": "12:19:18 PM",
+    "onlineDurationMins": 118.81366666666666
+  },
+  "natural-disaster@lichess": {
+    "id": "natural-disaster",
+    "provider": "lichess",
+    "username": "natural-disaster",
+    "firstSeen": 1612353426117,
+    "lastSeen": 1612355226958,
+    "firstSeenTime": "11:57:06 AM",
+    "lastSeenTime": "12:22:20 PM",
+    "onlineDurationMins": 25.245683333333332
+  },
+  "frostbitefederation@lichess": {
+    "id": "frostbitefederation",
+    "provider": "lichess",
+    "username": "FrostbiteFederation",
+    "firstSeen": 1612354414009,
+    "lastSeen": 1612354751885,
+    "firstSeenTime": "12:13:34 PM",
+    "lastSeenTime": "12:19:11 PM",
+    "onlineDurationMins": 5.631266666666667
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1612354916544,
+    "lastSeen": 1612354925183,
+    "firstSeenTime": "12:21:56 PM",
+    "lastSeenTime": "12:22:05 PM",
+    "onlineDurationMins": 0.14398333333333332
+  }
+}
