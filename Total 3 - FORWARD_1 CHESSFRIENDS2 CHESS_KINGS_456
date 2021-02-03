@@ -1,0 +1,26 @@
+{
+  "forward_1@lichess": {
+    "id": "forward_1",
+    "provider": "lichess",
+    "username": "FORWARD_1",
+    "firstSeen": 1612314987130,
+    "lastSeen": 1612331889210,
+    "firstSeenTime": "1:16:27 AM",
+    "lastSeenTime": "3:06:33 AM",
+    "onlineDurationMins": 110.09995
+  },
+  "chessfriends2@lichess": {
+    "id": "chessfriends2",
+    "provider": "lichess",
+    "username": "CHESSFRIENDS2",
+    "firstSeen": 1612326683972,
+    "lastSeen": 1612331478660
+  },
+  "chess_kings_456@lichess": {
+    "id": "chess_kings_456",
+    "provider": "lichess",
+    "username": "CHESS_KINGS_456",
+    "firstSeen": 1612332213420,
+    "lastSeen": 1612332213421
+  }
+}
