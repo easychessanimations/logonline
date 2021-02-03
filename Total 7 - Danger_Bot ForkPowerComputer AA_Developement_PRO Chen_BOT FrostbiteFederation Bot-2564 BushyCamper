@@ -1,0 +1,72 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612341245582,
+    "lastSeen": 1612360112456,
+    "firstSeenTime": "8:34:05 AM",
+    "lastSeenTime": "1:48:32 PM",
+    "onlineDurationMins": 314.4479
+  },
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1612343193780,
+    "lastSeen": 1612360518022,
+    "firstSeenTime": "9:06:33 AM",
+    "lastSeenTime": "1:55:18 PM",
+    "onlineDurationMins": 288.7373666666667
+  },
+  "aa_developement_pro@lichess": {
+    "id": "aa_developement_pro",
+    "provider": "lichess",
+    "username": "AA_Developement_PRO",
+    "firstSeen": 1612347630158,
+    "lastSeen": 1612360811003,
+    "firstSeenTime": "10:20:30 AM",
+    "lastSeenTime": "2:00:11 PM",
+    "onlineDurationMins": 219.68075
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1612358998322,
+    "lastSeen": 1612360112454,
+    "firstSeenTime": "1:29:58 PM",
+    "lastSeenTime": "1:48:32 PM",
+    "onlineDurationMins": 18.56886666666667
+  },
+  "frostbitefederation@lichess": {
+    "id": "frostbitefederation",
+    "provider": "lichess",
+    "username": "FrostbiteFederation",
+    "firstSeen": 1612359325631,
+    "lastSeen": 1612360113712,
+    "firstSeenTime": "1:35:25 PM",
+    "lastSeenTime": "1:48:33 PM",
+    "onlineDurationMins": 13.134683333333333
+  },
+  "bot-2564@lichess": {
+    "id": "bot-2564",
+    "provider": "lichess",
+    "username": "Bot-2564",
+    "firstSeen": 1612359862970,
+    "lastSeen": 1612360298482,
+    "firstSeenTime": "1:44:22 PM",
+    "lastSeenTime": "1:51:38 PM",
+    "onlineDurationMins": 7.258533333333333
+  },
+  "bushycamper@lichess": {
+    "id": "bushycamper",
+    "provider": "lichess",
+    "username": "BushyCamper",
+    "firstSeen": 1612360519034,
+    "lastSeen": 1612360647904,
+    "firstSeenTime": "1:55:19 PM",
+    "lastSeenTime": "1:57:27 PM",
+    "onlineDurationMins": 2.1478333333333333
+  }
+}
