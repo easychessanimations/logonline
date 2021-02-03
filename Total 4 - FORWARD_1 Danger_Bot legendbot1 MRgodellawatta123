@@ -1,0 +1,33 @@
+{
+  "forward_1@lichess": {
+    "id": "forward_1",
+    "provider": "lichess",
+    "username": "FORWARD_1",
+    "firstSeen": 1612314987130,
+    "lastSeen": 1612333739763,
+    "firstSeenTime": "1:16:27 AM",
+    "lastSeenTime": "3:06:33 AM",
+    "onlineDurationMins": 110.09995
+  },
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612332720488,
+    "lastSeen": 1612334047662
+  },
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1612333367425,
+    "lastSeen": 1612334144612
+  },
+  "mrgodellawatta123@lichess": {
+    "id": "mrgodellawatta123",
+    "provider": "lichess",
+    "username": "MRgodellawatta123",
+    "firstSeen": 1612334150475,
+    "lastSeen": 1612334150475
+  }
+}
