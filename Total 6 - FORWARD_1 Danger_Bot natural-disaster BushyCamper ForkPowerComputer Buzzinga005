@@ -1,0 +1,47 @@
+{
+  "forward_1@lichess": {
+    "id": "forward_1",
+    "provider": "lichess",
+    "username": "FORWARD_1",
+    "firstSeen": 1612314987130,
+    "lastSeen": 1612339834125,
+    "firstSeenTime": "1:16:27 AM",
+    "lastSeenTime": "3:06:33 AM",
+    "onlineDurationMins": 110.09995
+  },
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612332720488,
+    "lastSeen": 1612340224841
+  },
+  "natural-disaster@lichess": {
+    "id": "natural-disaster",
+    "provider": "lichess",
+    "username": "natural-disaster",
+    "firstSeen": 1612338276343,
+    "lastSeen": 1612339820404
+  },
+  "bushycamper@lichess": {
+    "id": "bushycamper",
+    "provider": "lichess",
+    "username": "BushyCamper",
+    "firstSeen": 1612339378176,
+    "lastSeen": 1612340236822
+  },
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1612340077154,
+    "lastSeen": 1612340273934
+  },
+  "buzzinga005@lichess": {
+    "id": "buzzinga005",
+    "provider": "lichess",
+    "username": "Buzzinga005",
+    "firstSeen": 1612340273951,
+    "lastSeen": 1612340273951
+  }
+}
