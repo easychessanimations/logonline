@@ -1,0 +1,69 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612341245582,
+    "lastSeen": 1612358758441,
+    "firstSeenTime": "8:34:05 AM",
+    "lastSeenTime": "1:25:58 PM",
+    "onlineDurationMins": 291.88098333333335
+  },
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1612343193780,
+    "lastSeen": 1612359141233,
+    "firstSeenTime": "9:06:33 AM",
+    "lastSeenTime": "1:32:21 PM",
+    "onlineDurationMins": 265.79088333333334
+  },
+  "aa_developement_pro@lichess": {
+    "id": "aa_developement_pro",
+    "provider": "lichess",
+    "username": "AA_Developement_PRO",
+    "firstSeen": 1612347630158,
+    "lastSeen": 1612359311277,
+    "firstSeenTime": "10:20:30 AM",
+    "lastSeenTime": "1:35:11 PM",
+    "onlineDurationMins": 194.68531666666667
+  },
+  "natural-disaster@lichess": {
+    "id": "natural-disaster",
+    "provider": "lichess",
+    "username": "natural-disaster",
+    "firstSeen": 1612353426117,
+    "lastSeen": 1612358742068,
+    "firstSeenTime": "11:57:06 AM",
+    "lastSeenTime": "1:25:42 PM",
+    "onlineDurationMins": 88.59918333333333
+  },
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1612357045079,
+    "lastSeen": 1612358546930,
+    "firstSeenTime": "12:57:25 PM",
+    "lastSeenTime": "1:22:26 PM",
+    "onlineDurationMins": 25.03085
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1612358998322,
+    "lastSeen": 1612359183501,
+    "firstSeenTime": "1:29:58 PM",
+    "lastSeenTime": "1:33:03 PM",
+    "onlineDurationMins": 3.086316666666667
+  },
+  "frostbitefederation@lichess": {
+    "id": "frostbitefederation",
+    "provider": "lichess",
+    "username": "FrostbiteFederation",
+    "firstSeen": 1612359325631,
+    "lastSeen": 1612359325631
+  }
+}
