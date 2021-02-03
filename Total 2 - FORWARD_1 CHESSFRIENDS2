@@ -1,0 +1,19 @@
+{
+  "forward_1@lichess": {
+    "id": "forward_1",
+    "provider": "lichess",
+    "username": "FORWARD_1",
+    "firstSeen": 1612314987130,
+    "lastSeen": 1612320272640,
+    "firstSeenTime": "1:16:27 AM",
+    "lastSeenTime": "2:44:32 AM",
+    "onlineDurationMins": 88.09183333333333
+  },
+  "chessfriends2@lichess": {
+    "id": "chessfriends2",
+    "provider": "lichess",
+    "username": "CHESSFRIENDS2",
+    "firstSeen": 1612320847749,
+    "lastSeen": 1612320847749
+  }
+}
