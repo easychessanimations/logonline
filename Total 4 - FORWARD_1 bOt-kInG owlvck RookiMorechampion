@@ -1,0 +1,30 @@
+{
+  "forward_1@lichess": {
+    "id": "forward_1",
+    "provider": "lichess",
+    "username": "FORWARD_1",
+    "firstSeen": 1612413539138,
+    "lastSeen": 1612415527584
+  },
+  "bot-king@lichess": {
+    "id": "bot-king",
+    "provider": "lichess",
+    "username": "bOt-kInG",
+    "firstSeen": 1612415050126,
+    "lastSeen": 1612415381075
+  },
+  "owlvck@lichess": {
+    "id": "owlvck",
+    "provider": "lichess",
+    "username": "owlvck",
+    "firstSeen": 1612415675974,
+    "lastSeen": 1612415829116
+  },
+  "rookimorechampion@lichess": {
+    "id": "rookimorechampion",
+    "provider": "lichess",
+    "username": "RookiMorechampion",
+    "firstSeen": 1612416012586,
+    "lastSeen": 1612416012586
+  }
+}
