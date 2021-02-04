@@ -1,0 +1,64 @@
+{
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1612428031417,
+    "lastSeen": 1612432715140,
+    "firstSeenTime": "8:40:31 AM",
+    "lastSeenTime": "9:05:31 AM",
+    "onlineDurationMins": 24.9999
+  },
+  "bushycamper@lichess": {
+    "id": "bushycamper",
+    "provider": "lichess",
+    "username": "BushyCamper",
+    "firstSeen": 1612428038534,
+    "lastSeen": 1612432880566,
+    "firstSeenTime": "8:40:38 AM",
+    "lastSeenTime": "9:03:46 AM",
+    "onlineDurationMins": 23.133383333333335
+  },
+  "frostbitefederation@lichess": {
+    "id": "frostbitefederation",
+    "provider": "lichess",
+    "username": "FrostbiteFederation",
+    "firstSeen": 1612430271890,
+    "lastSeen": 1612433164714
+  },
+  "owlvck@lichess": {
+    "id": "owlvck",
+    "provider": "lichess",
+    "username": "owlvck",
+    "firstSeen": 1612430323366,
+    "lastSeen": 1612432370438
+  },
+  "lbot007@lichess": {
+    "id": "lbot007",
+    "provider": "lichess",
+    "username": "LBOT007",
+    "firstSeen": 1612430332204,
+    "lastSeen": 1612433095157
+  },
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612432637921,
+    "lastSeen": 1612432700648
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1612432936446,
+    "lastSeen": 1612433002702
+  },
+  "championdjj@lichess": {
+    "id": "championdjj",
+    "provider": "lichess",
+    "username": "championDJJ",
+    "firstSeen": 1612433165493,
+    "lastSeen": 1612433165493
+  }
+}
