@@ -1,0 +1,26 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612432637921,
+    "lastSeen": 1612469416612,
+    "firstSeenTime": "9:57:17 AM",
+    "lastSeenTime": "5:09:14 PM",
+    "onlineDurationMins": 431.9363333333333
+  },
+  "penguingim101@lichess": {
+    "id": "penguingim101",
+    "provider": "lichess",
+    "username": "penguingim101",
+    "firstSeen": 1612468757267,
+    "lastSeen": 1612468771222
+  },
+  "newaccount1234567@lichess": {
+    "id": "newaccount1234567",
+    "provider": "lichess",
+    "username": "newaccount1234567",
+    "firstSeen": 1612469221302,
+    "lastSeen": 1612469248496
+  }
+}
