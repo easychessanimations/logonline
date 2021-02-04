@@ -1,0 +1,72 @@
+{
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1612422922882,
+    "lastSeen": 1612427314978,
+    "firstSeenTime": "7:15:22 AM",
+    "lastSeenTime": "8:28:34 AM",
+    "onlineDurationMins": 73.2016
+  },
+  "frostbitefederation@lichess": {
+    "id": "frostbitefederation",
+    "provider": "lichess",
+    "username": "FrostbiteFederation",
+    "firstSeen": 1612424380476,
+    "lastSeen": 1612427041448,
+    "firstSeenTime": "7:39:40 AM",
+    "lastSeenTime": "8:24:01 AM",
+    "onlineDurationMins": 44.34953333333333
+  },
+  "alper2412@lichess": {
+    "id": "alper2412",
+    "provider": "lichess",
+    "username": "ALPER2412",
+    "firstSeen": 1612425758867,
+    "lastSeen": 1612427369629,
+    "firstSeenTime": "8:02:38 AM",
+    "lastSeenTime": "8:27:44 AM",
+    "onlineDurationMins": 25.100683333333333
+  },
+  "bushycamper@lichess": {
+    "id": "bushycamper",
+    "provider": "lichess",
+    "username": "BushyCamper",
+    "firstSeen": 1612425997359,
+    "lastSeen": 1612427038339,
+    "firstSeenTime": "8:06:37 AM",
+    "lastSeenTime": "8:23:58 AM",
+    "onlineDurationMins": 17.349666666666668
+  },
+  "789408161865662464@discord": {
+    "id": "789408161865662464",
+    "provider": "discord",
+    "username": "ALPER2412",
+    "firstSeen": 1612426598672,
+    "lastSeen": 1612426606415,
+    "firstSeenTime": "8:16:38 AM",
+    "lastSeenTime": "8:16:46 AM",
+    "onlineDurationMins": 0.12905
+  },
+  "chessfighter2021@lichess": {
+    "id": "chessfighter2021",
+    "provider": "lichess",
+    "username": "Chessfighter2021",
+    "firstSeen": 1612426998689,
+    "lastSeen": 1612427027108,
+    "firstSeenTime": "8:23:18 AM",
+    "lastSeenTime": "8:23:47 AM",
+    "onlineDurationMins": 0.47365
+  },
+  "owlvck@lichess": {
+    "id": "owlvck",
+    "provider": "lichess",
+    "username": "owlvck",
+    "firstSeen": 1612427164336,
+    "lastSeen": 1612427195902,
+    "firstSeenTime": "8:26:04 AM",
+    "lastSeenTime": "8:26:35 AM",
+    "onlineDurationMins": 0.5261
+  }
+}
