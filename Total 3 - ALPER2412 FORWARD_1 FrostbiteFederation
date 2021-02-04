@@ -1,0 +1,29 @@
+{
+  "alper2412@lichess": {
+    "id": "alper2412",
+    "provider": "lichess",
+    "username": "ALPER2412",
+    "firstSeen": 1612427594143,
+    "lastSeen": 1612427951305,
+    "firstSeenTime": "8:33:14 AM",
+    "lastSeenTime": "8:37:50 AM",
+    "onlineDurationMins": 4.5982666666666665
+  },
+  "forward_1@lichess": {
+    "id": "forward_1",
+    "provider": "lichess",
+    "username": "FORWARD_1",
+    "firstSeen": 1612427805363,
+    "lastSeen": 1612427814720,
+    "firstSeenTime": "8:36:45 AM",
+    "lastSeenTime": "8:36:54 AM",
+    "onlineDurationMins": 0.15595
+  },
+  "frostbitefederation@lichess": {
+    "id": "frostbitefederation",
+    "provider": "lichess",
+    "username": "FrostbiteFederation",
+    "firstSeen": 1612427967157,
+    "lastSeen": 1612427967157
+  }
+}
