@@ -1,0 +1,57 @@
+{
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1612428031417,
+    "lastSeen": 1612430735188,
+    "firstSeenTime": "8:40:31 AM",
+    "lastSeenTime": "9:05:31 AM",
+    "onlineDurationMins": 24.9999
+  },
+  "bushycamper@lichess": {
+    "id": "bushycamper",
+    "provider": "lichess",
+    "username": "BushyCamper",
+    "firstSeen": 1612428038534,
+    "lastSeen": 1612430749658,
+    "firstSeenTime": "8:40:38 AM",
+    "lastSeenTime": "9:03:46 AM",
+    "onlineDurationMins": 23.133383333333335
+  },
+  "mrgodellawatta123@lichess": {
+    "id": "mrgodellawatta123",
+    "provider": "lichess",
+    "username": "MRgodellawatta123",
+    "firstSeen": 1612430182577,
+    "lastSeen": 1612430290219
+  },
+  "frostbitefederation@lichess": {
+    "id": "frostbitefederation",
+    "provider": "lichess",
+    "username": "FrostbiteFederation",
+    "firstSeen": 1612430271890,
+    "lastSeen": 1612430618699
+  },
+  "owlvck@lichess": {
+    "id": "owlvck",
+    "provider": "lichess",
+    "username": "owlvck",
+    "firstSeen": 1612430323366,
+    "lastSeen": 1612430995250
+  },
+  "lbot007@lichess": {
+    "id": "lbot007",
+    "provider": "lichess",
+    "username": "LBOT007",
+    "firstSeen": 1612430332204,
+    "lastSeen": 1612431002267
+  },
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1612431003644,
+    "lastSeen": 1612431003644
+  }
+}
