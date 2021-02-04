@@ -1,0 +1,33 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612432637921,
+    "lastSeen": 1612471693385,
+    "firstSeenTime": "9:57:17 AM",
+    "lastSeenTime": "5:09:14 PM",
+    "onlineDurationMins": 431.9363333333333
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1612470558421,
+    "lastSeen": 1612471627358
+  },
+  "master_chess1234@lichess": {
+    "id": "master_chess1234",
+    "provider": "lichess",
+    "username": "Master_Chess1234",
+    "firstSeen": 1612470905598,
+    "lastSeen": 1612471719783
+  },
+  "cj_best@lichess": {
+    "id": "cj_best",
+    "provider": "lichess",
+    "username": "Cj_best",
+    "firstSeen": 1612471749456,
+    "lastSeen": 1612471749457
+  }
+}
