@@ -1,0 +1,29 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612515884694,
+    "lastSeen": 1612522547169,
+    "firstSeenTime": "9:04:44 AM",
+    "lastSeenTime": "9:12:43 AM",
+    "onlineDurationMins": 7.9874833333333335
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1612516148540,
+    "lastSeen": 1612522646684,
+    "firstSeenTime": "9:09:08 AM",
+    "lastSeenTime": "9:09:17 AM",
+    "onlineDurationMins": 0.15525
+  },
+  "azradilara4b@lichess": {
+    "id": "azradilara4b",
+    "provider": "lichess",
+    "username": "AzraDilara4b",
+    "firstSeen": 1612522769092,
+    "lastSeen": 1612522823421
+  }
+}
