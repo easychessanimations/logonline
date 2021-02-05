@@ -1,0 +1,42 @@
+{
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1612554730573,
+    "lastSeen": 1612568006944,
+    "firstSeenTime": "7:52:10 PM",
+    "lastSeenTime": "11:22:23 PM",
+    "onlineDurationMins": 210.21955
+  },
+  "djungelbot@lichess": {
+    "id": "djungelbot",
+    "provider": "lichess",
+    "username": "djungelbot",
+    "firstSeen": 1612565415922,
+    "lastSeen": 1612567728775,
+    "firstSeenTime": "10:50:15 PM",
+    "lastSeenTime": "11:28:48 PM",
+    "onlineDurationMins": 38.54755
+  },
+  "elbotdehector@lichess": {
+    "id": "elbotdehector",
+    "provider": "lichess",
+    "username": "elbotdehector",
+    "firstSeen": 1612566411643,
+    "lastSeen": 1612568162543,
+    "firstSeenTime": "11:06:51 PM",
+    "lastSeenTime": "11:28:51 PM",
+    "onlineDurationMins": 22.00583333333333
+  },
+  "koke-mate_bot@lichess": {
+    "id": "koke-mate_bot",
+    "provider": "lichess",
+    "username": "Koke-mate_BOT",
+    "firstSeen": 1612567647729,
+    "lastSeen": 1612568097451,
+    "firstSeenTime": "11:27:27 PM",
+    "lastSeenTime": "11:28:48 PM",
+    "onlineDurationMins": 1.33925
+  }
+}
