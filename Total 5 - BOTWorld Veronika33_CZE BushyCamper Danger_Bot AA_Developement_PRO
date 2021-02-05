@@ -1,0 +1,43 @@
+{
+  "botworld@lichess": {
+    "id": "botworld",
+    "provider": "lichess",
+    "username": "BOTWorld",
+    "firstSeen": 1612515512252,
+    "lastSeen": 1612515512581,
+    "firstSeenTime": "8:58:32 AM",
+    "lastSeenTime": "8:58:32 AM",
+    "onlineDurationMins": 0.005483333333333333
+  },
+  "veronika33_cze@lichess": {
+    "id": "veronika33_cze",
+    "provider": "lichess",
+    "username": "Veronika33_CZE",
+    "firstSeen": 1612515783514,
+    "lastSeen": 1612515895130,
+    "firstSeenTime": "9:03:03 AM",
+    "lastSeenTime": "9:03:03 AM",
+    "onlineDurationMins": 0
+  },
+  "bushycamper@lichess": {
+    "id": "bushycamper",
+    "provider": "lichess",
+    "username": "BushyCamper",
+    "firstSeen": 1612515884506,
+    "lastSeen": 1612515887706
+  },
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612515884694,
+    "lastSeen": 1612515887901
+  },
+  "aa_developement_pro@lichess": {
+    "id": "aa_developement_pro",
+    "provider": "lichess",
+    "username": "AA_Developement_PRO",
+    "firstSeen": 1612515898617,
+    "lastSeen": 1612515898617
+  }
+}
