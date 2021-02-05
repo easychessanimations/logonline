@@ -1,0 +1,33 @@
+{
+  "friendly_bot@lichess": {
+    "id": "friendly_bot",
+    "provider": "lichess",
+    "username": "Friendly_Bot",
+    "firstSeen": 1612542491026,
+    "lastSeen": 1612553625106,
+    "firstSeenTime": "4:28:11 PM",
+    "lastSeenTime": "5:29:09 PM",
+    "onlineDurationMins": 60.96915
+  },
+  "frostbitefederation@lichess": {
+    "id": "frostbitefederation",
+    "provider": "lichess",
+    "username": "FrostbiteFederation",
+    "firstSeen": 1612550092146,
+    "lastSeen": 1612553810174
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1612550300100,
+    "lastSeen": 1612553600971
+  },
+  "djungelbot@lichess": {
+    "id": "djungelbot",
+    "provider": "lichess",
+    "username": "djungelbot",
+    "firstSeen": 1612553037013,
+    "lastSeen": 1612553724064
+  }
+}
