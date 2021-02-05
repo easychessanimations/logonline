@@ -1,0 +1,32 @@
+{
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1612554730573,
+    "lastSeen": 1612563987223,
+    "firstSeenTime": "7:52:10 PM",
+    "lastSeenTime": "10:26:27 PM",
+    "onlineDurationMins": 154.2775
+  },
+  "just-a-random-bot@lichess": {
+    "id": "just-a-random-bot",
+    "provider": "lichess",
+    "username": "Just-a-random-bot",
+    "firstSeen": 1612559804432,
+    "lastSeen": 1612563959073,
+    "firstSeenTime": "9:16:44 PM",
+    "lastSeenTime": "10:25:59 PM",
+    "onlineDurationMins": 69.24401666666667
+  },
+  "friendly_bot@lichess": {
+    "id": "friendly_bot",
+    "provider": "lichess",
+    "username": "Friendly_Bot",
+    "firstSeen": 1612561295863,
+    "lastSeen": 1612564372899,
+    "firstSeenTime": "9:41:35 PM",
+    "lastSeenTime": "10:28:32 PM",
+    "onlineDurationMins": 46.9519
+  }
+}
