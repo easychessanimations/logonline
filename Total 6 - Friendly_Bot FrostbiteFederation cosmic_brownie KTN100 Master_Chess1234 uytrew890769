@@ -1,0 +1,50 @@
+{
+  "friendly_bot@lichess": {
+    "id": "friendly_bot",
+    "provider": "lichess",
+    "username": "Friendly_Bot",
+    "firstSeen": 1612542491026,
+    "lastSeen": 1612549578351,
+    "firstSeenTime": "4:28:11 PM",
+    "lastSeenTime": "5:29:09 PM",
+    "onlineDurationMins": 60.96915
+  },
+  "frostbitefederation@lichess": {
+    "id": "frostbitefederation",
+    "provider": "lichess",
+    "username": "FrostbiteFederation",
+    "firstSeen": 1612545957517,
+    "lastSeen": 1612549047285,
+    "firstSeenTime": "5:25:57 PM",
+    "lastSeenTime": "5:26:15 PM",
+    "onlineDurationMins": 0.29925
+  },
+  "cosmic_brownie@lichess": {
+    "id": "cosmic_brownie",
+    "provider": "lichess",
+    "username": "cosmic_brownie",
+    "firstSeen": 1612546378475,
+    "lastSeen": 1612549650014
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1612546576897,
+    "lastSeen": 1612549151424
+  },
+  "master_chess1234@lichess": {
+    "id": "master_chess1234",
+    "provider": "lichess",
+    "username": "Master_Chess1234",
+    "firstSeen": 1612547250665,
+    "lastSeen": 1612549249903
+  },
+  "uytrew890769@lichess": {
+    "id": "uytrew890769",
+    "provider": "lichess",
+    "username": "uytrew890769",
+    "firstSeen": 1612549710880,
+    "lastSeen": 1612549710880
+  }
+}
