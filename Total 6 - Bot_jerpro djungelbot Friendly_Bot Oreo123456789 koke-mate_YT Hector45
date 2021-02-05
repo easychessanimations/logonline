@@ -1,0 +1,59 @@
+{
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1612554730573,
+    "lastSeen": 1612565963774,
+    "firstSeenTime": "7:52:10 PM",
+    "lastSeenTime": "10:59:23 PM",
+    "onlineDurationMins": 187.22001666666668
+  },
+  "djungelbot@lichess": {
+    "id": "djungelbot",
+    "provider": "lichess",
+    "username": "djungelbot",
+    "firstSeen": 1612565415922,
+    "lastSeen": 1612566311244,
+    "firstSeenTime": "10:50:15 PM",
+    "lastSeenTime": "11:05:11 PM",
+    "onlineDurationMins": 14.922033333333333
+  },
+  "friendly_bot@lichess": {
+    "id": "friendly_bot",
+    "provider": "lichess",
+    "username": "Friendly_Bot",
+    "firstSeen": 1612566022762,
+    "lastSeen": 1612566101119,
+    "firstSeenTime": "11:00:22 PM",
+    "lastSeenTime": "11:01:41 PM",
+    "onlineDurationMins": 1.30595
+  },
+  "oreo123456789@lichess": {
+    "id": "oreo123456789",
+    "provider": "lichess",
+    "username": "Oreo123456789",
+    "firstSeen": 1612566256137,
+    "lastSeen": 1612566337189,
+    "firstSeenTime": "11:04:16 PM",
+    "lastSeenTime": "11:04:36 PM",
+    "onlineDurationMins": 0.3449333333333333
+  },
+  "koke-mate_yt@lichess": {
+    "id": "koke-mate_yt",
+    "provider": "lichess",
+    "username": "koke-mate_YT",
+    "firstSeen": 1612566285089,
+    "lastSeen": 1612566286783,
+    "firstSeenTime": "11:04:45 PM",
+    "lastSeenTime": "11:04:46 PM",
+    "onlineDurationMins": 0.028233333333333333
+  },
+  "hector45@lichess": {
+    "id": "hector45",
+    "provider": "lichess",
+    "username": "Hector45",
+    "firstSeen": 1612566341753,
+    "lastSeen": 1612566341753
+  }
+}
