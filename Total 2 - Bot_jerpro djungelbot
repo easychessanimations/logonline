@@ -1,0 +1,19 @@
+{
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1612554730573,
+    "lastSeen": 1612565306878,
+    "firstSeenTime": "7:52:10 PM",
+    "lastSeenTime": "10:26:27 PM",
+    "onlineDurationMins": 154.2775
+  },
+  "djungelbot@lichess": {
+    "id": "djungelbot",
+    "provider": "lichess",
+    "username": "djungelbot",
+    "firstSeen": 1612565415922,
+    "lastSeen": 1612565641764
+  }
+}
