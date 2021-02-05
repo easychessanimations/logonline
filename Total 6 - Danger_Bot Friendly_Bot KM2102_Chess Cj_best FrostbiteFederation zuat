@@ -1,0 +1,59 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612515884694,
+    "lastSeen": 1612545647429,
+    "firstSeenTime": "9:04:44 AM",
+    "lastSeenTime": "5:20:47 PM",
+    "onlineDurationMins": 496.04558333333335
+  },
+  "friendly_bot@lichess": {
+    "id": "friendly_bot",
+    "provider": "lichess",
+    "username": "Friendly_Bot",
+    "firstSeen": 1612542491026,
+    "lastSeen": 1612546197094,
+    "firstSeenTime": "4:28:11 PM",
+    "lastSeenTime": "5:29:09 PM",
+    "onlineDurationMins": 60.96915
+  },
+  "km2102_chess@lichess": {
+    "id": "km2102_chess",
+    "provider": "lichess",
+    "username": "KM2102_Chess",
+    "firstSeen": 1612543955464,
+    "lastSeen": 1612545541739,
+    "firstSeenTime": "4:52:35 PM",
+    "lastSeenTime": "5:19:01 PM",
+    "onlineDurationMins": 26.437916666666666
+  },
+  "cj_best@lichess": {
+    "id": "cj_best",
+    "provider": "lichess",
+    "username": "Cj_best",
+    "firstSeen": 1612545676354,
+    "lastSeen": 1612545800315,
+    "firstSeenTime": "5:21:16 PM",
+    "lastSeenTime": "5:23:20 PM",
+    "onlineDurationMins": 2.0660166666666666
+  },
+  "frostbitefederation@lichess": {
+    "id": "frostbitefederation",
+    "provider": "lichess",
+    "username": "FrostbiteFederation",
+    "firstSeen": 1612545957517,
+    "lastSeen": 1612545975472,
+    "firstSeenTime": "5:25:57 PM",
+    "lastSeenTime": "5:26:15 PM",
+    "onlineDurationMins": 0.29925
+  },
+  "zuat@lichess": {
+    "id": "zuat",
+    "provider": "lichess",
+    "username": "zuat",
+    "firstSeen": 1612546260987,
+    "lastSeen": 1612546274234
+  }
+}
