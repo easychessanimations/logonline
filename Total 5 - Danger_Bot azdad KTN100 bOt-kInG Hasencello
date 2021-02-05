@@ -1,0 +1,40 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612515884694,
+    "lastSeen": 1612533467237,
+    "firstSeenTime": "9:04:44 AM",
+    "lastSeenTime": "11:21:47 AM",
+    "onlineDurationMins": 137.04243333333332
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1612526986710,
+    "lastSeen": 1612533494508
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1612532183399,
+    "lastSeen": 1612533388727
+  },
+  "bot-king@lichess": {
+    "id": "bot-king",
+    "provider": "lichess",
+    "username": "bOt-kInG",
+    "firstSeen": 1612533239286,
+    "lastSeen": 1612533670850
+  },
+  "hasencello@lichess": {
+    "id": "hasencello",
+    "provider": "lichess",
+    "username": "Hasencello",
+    "firstSeen": 1612533434412,
+    "lastSeen": 1612533582094
+  }
+}
