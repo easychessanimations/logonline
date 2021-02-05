@@ -1,0 +1,16 @@
+{
+  "friendly_bot@lichess": {
+    "id": "friendly_bot",
+    "provider": "lichess",
+    "username": "Friendly_Bot",
+    "firstSeen": 1612486024853,
+    "lastSeen": 1612487219930
+  },
+  "cj_best@lichess": {
+    "id": "cj_best",
+    "provider": "lichess",
+    "username": "Cj_best",
+    "firstSeen": 1612487221626,
+    "lastSeen": 1612487221626
+  }
+}
