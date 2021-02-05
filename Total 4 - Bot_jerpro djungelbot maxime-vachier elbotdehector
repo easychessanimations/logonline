@@ -1,0 +1,42 @@
+{
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1612554730573,
+    "lastSeen": 1612566803802,
+    "firstSeenTime": "7:52:10 PM",
+    "lastSeenTime": "11:13:23 PM",
+    "onlineDurationMins": 201.22048333333333
+  },
+  "djungelbot@lichess": {
+    "id": "djungelbot",
+    "provider": "lichess",
+    "username": "djungelbot",
+    "firstSeen": 1612565415922,
+    "lastSeen": 1612567287569,
+    "firstSeenTime": "10:50:15 PM",
+    "lastSeenTime": "11:21:27 PM",
+    "onlineDurationMins": 31.194116666666666
+  },
+  "maxime-vachier@lichess": {
+    "id": "maxime-vachier",
+    "provider": "lichess",
+    "username": "maxime-vachier",
+    "firstSeen": 1612566408899,
+    "lastSeen": 1612567234064,
+    "firstSeenTime": "11:06:48 PM",
+    "lastSeenTime": "11:20:34 PM",
+    "onlineDurationMins": 13.75275
+  },
+  "elbotdehector@lichess": {
+    "id": "elbotdehector",
+    "provider": "lichess",
+    "username": "elbotdehector",
+    "firstSeen": 1612566411643,
+    "lastSeen": 1612567325566,
+    "firstSeenTime": "11:06:51 PM",
+    "lastSeenTime": "11:22:00 PM",
+    "onlineDurationMins": 15.153383333333334
+  }
+}
