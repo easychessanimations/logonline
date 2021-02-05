@@ -1,0 +1,36 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612515884694,
+    "lastSeen": 1612538327463,
+    "firstSeenTime": "9:04:44 AM",
+    "lastSeenTime": "2:43:47 PM",
+    "onlineDurationMins": 339.04356666666666
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1612532183399,
+    "lastSeen": 1612538594736,
+    "firstSeenTime": "1:36:23 PM",
+    "lastSeenTime": "2:44:20 PM",
+    "onlineDurationMins": 67.95698333333333
+  },
+  "enesarda61@lichess": {
+    "id": "enesarda61",
+    "provider": "lichess",
+    "username": "enesarda61",
+    "firstSeen": 1612537673895,
+    "lastSeen": 1612538689063
+  },
+  "alperen_gursoy@lichess": {
+    "id": "alperen_gursoy",
+    "provider": "lichess",
+    "username": "Alperen_Gursoy",
+    "firstSeen": 1612537858755,
+    "lastSeen": 1612538054589
+  }
+}
