@@ -1,0 +1,36 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612515884694,
+    "lastSeen": 1612537364933,
+    "firstSeenTime": "9:04:44 AM",
+    "lastSeenTime": "2:43:47 PM",
+    "onlineDurationMins": 339.04356666666666
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1612532183399,
+    "lastSeen": 1612536920635,
+    "firstSeenTime": "1:36:23 PM",
+    "lastSeenTime": "2:44:20 PM",
+    "onlineDurationMins": 67.95698333333333
+  },
+  "sandalu1234@lichess": {
+    "id": "sandalu1234",
+    "provider": "lichess",
+    "username": "SaNdAlU1234",
+    "firstSeen": 1612536713877,
+    "lastSeen": 1612536715539
+  },
+  "championdjj@lichess": {
+    "id": "championdjj",
+    "provider": "lichess",
+    "username": "championDJJ",
+    "firstSeen": 1612537533515,
+    "lastSeen": 1612537533515
+  }
+}
