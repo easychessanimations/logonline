@@ -1,0 +1,40 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612515884694,
+    "lastSeen": 1612526864001,
+    "firstSeenTime": "9:04:44 AM",
+    "lastSeenTime": "11:21:47 AM",
+    "onlineDurationMins": 137.04243333333332
+  },
+  "sandalu1234@lichess": {
+    "id": "sandalu1234",
+    "provider": "lichess",
+    "username": "SaNdAlU1234",
+    "firstSeen": 1612526025002,
+    "lastSeen": 1612526784604
+  },
+  "albertsx@lichess": {
+    "id": "albertsx",
+    "provider": "lichess",
+    "username": "albertsx",
+    "firstSeen": 1612526860398,
+    "lastSeen": 1612527193236
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1612526986710,
+    "lastSeen": 1612527272723
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1612527283955,
+    "lastSeen": 1612527283955
+  }
+}
