@@ -1,0 +1,26 @@
+{
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1612554730573,
+    "lastSeen": 1612588583660,
+    "firstSeenTime": "7:52:10 PM",
+    "lastSeenTime": "11:38:23 PM",
+    "onlineDurationMins": 226.22025
+  },
+  "championdjj@lichess": {
+    "id": "championdjj",
+    "provider": "lichess",
+    "username": "championDJJ",
+    "firstSeen": 1612588492881,
+    "lastSeen": 1612588520290
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1612588779539,
+    "lastSeen": 1612588779539
+  }
+}
