@@ -1,0 +1,26 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612627473064,
+    "lastSeen": 1612632934177,
+    "firstSeenTime": "4:04:33 PM",
+    "lastSeenTime": "4:32:30 PM",
+    "onlineDurationMins": 27.9535
+  },
+  "friendly_bot@lichess": {
+    "id": "friendly_bot",
+    "provider": "lichess",
+    "username": "Friendly_Bot",
+    "firstSeen": 1612630256020,
+    "lastSeen": 1612633628883
+  },
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1612632595853,
+    "lastSeen": 1612633565392
+  }
+}
