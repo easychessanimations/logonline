@@ -1,0 +1,66 @@
+{
+  "aa_developement_pro@lichess": {
+    "id": "aa_developement_pro",
+    "provider": "lichess",
+    "username": "AA_Developement_PRO",
+    "firstSeen": 1612602525493,
+    "lastSeen": 1612621248852,
+    "firstSeenTime": "9:08:45 AM",
+    "lastSeenTime": "1:24:08 PM",
+    "onlineDurationMins": 255.38398333333333
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1612602818428,
+    "lastSeen": 1612620875673,
+    "firstSeenTime": "9:13:38 AM",
+    "lastSeenTime": "1:21:47 PM",
+    "onlineDurationMins": 248.15498333333332
+  },
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1612603367252,
+    "lastSeen": 1612621277950,
+    "firstSeenTime": "9:22:47 AM",
+    "lastSeenTime": "1:25:56 PM",
+    "onlineDurationMins": 243.16041666666666
+  },
+  "elbotdehector@lichess": {
+    "id": "elbotdehector",
+    "provider": "lichess",
+    "username": "elbotdehector",
+    "firstSeen": 1612608703937,
+    "lastSeen": 1612621143731,
+    "firstSeenTime": "10:51:43 AM",
+    "lastSeenTime": "1:26:42 PM",
+    "onlineDurationMins": 154.97475
+  },
+  "koke-mate_bot@lichess": {
+    "id": "koke-mate_bot",
+    "provider": "lichess",
+    "username": "Koke-mate_BOT",
+    "firstSeen": 1612616273163,
+    "lastSeen": 1612620898785,
+    "firstSeenTime": "12:57:53 PM",
+    "lastSeenTime": "1:26:40 PM",
+    "onlineDurationMins": 28.786616666666667
+  },
+  "luca976@lichess": {
+    "id": "luca976",
+    "provider": "lichess",
+    "username": "luca976",
+    "firstSeen": 1612621432016,
+    "lastSeen": 1612621456540
+  },
+  "wachmann-schenzilas@lichess": {
+    "id": "wachmann-schenzilas",
+    "provider": "lichess",
+    "username": "Wachmann-Schenzilas",
+    "firstSeen": 1612621554899,
+    "lastSeen": 1612621586951
+  }
+}
