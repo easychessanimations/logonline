@@ -1,0 +1,42 @@
+{
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1612602818428,
+    "lastSeen": 1612629694921,
+    "firstSeenTime": "9:13:38 AM",
+    "lastSeenTime": "4:27:35 PM",
+    "onlineDurationMins": 433.9572166666667
+  },
+  "koke-mate_bot@lichess": {
+    "id": "koke-mate_bot",
+    "provider": "lichess",
+    "username": "Koke-mate_BOT",
+    "firstSeen": 1612616273163,
+    "lastSeen": 1612629822743,
+    "firstSeenTime": "12:57:53 PM",
+    "lastSeenTime": "4:31:37 PM",
+    "onlineDurationMins": 213.7456
+  },
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612627473064,
+    "lastSeen": 1612629513370,
+    "firstSeenTime": "4:04:33 PM",
+    "lastSeenTime": "4:32:30 PM",
+    "onlineDurationMins": 27.9535
+  },
+  "championdjj@lichess": {
+    "id": "championdjj",
+    "provider": "lichess",
+    "username": "championDJJ",
+    "firstSeen": 1612628771920,
+    "lastSeen": 1612629332838,
+    "firstSeenTime": "4:26:11 PM",
+    "lastSeenTime": "4:35:32 PM",
+    "onlineDurationMins": 9.348633333333334
+  }
+}
