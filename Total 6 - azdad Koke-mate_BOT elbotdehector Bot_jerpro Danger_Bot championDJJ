@@ -1,0 +1,62 @@
+{
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1612602818428,
+    "lastSeen": 1612628855861,
+    "firstSeenTime": "9:13:38 AM",
+    "lastSeenTime": "4:27:35 PM",
+    "onlineDurationMins": 433.9572166666667
+  },
+  "koke-mate_bot@lichess": {
+    "id": "koke-mate_bot",
+    "provider": "lichess",
+    "username": "Koke-mate_BOT",
+    "firstSeen": 1612616273163,
+    "lastSeen": 1612629097899,
+    "firstSeenTime": "12:57:53 PM",
+    "lastSeenTime": "4:31:37 PM",
+    "onlineDurationMins": 213.7456
+  },
+  "elbotdehector@lichess": {
+    "id": "elbotdehector",
+    "provider": "lichess",
+    "username": "elbotdehector",
+    "firstSeen": 1612623319496,
+    "lastSeen": 1612628662492,
+    "firstSeenTime": "2:55:19 PM",
+    "lastSeenTime": "4:24:22 PM",
+    "onlineDurationMins": 89.04993333333333
+  },
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1612623601598,
+    "lastSeen": 1612628987459,
+    "firstSeenTime": "3:00:01 PM",
+    "lastSeenTime": "4:29:47 PM",
+    "onlineDurationMins": 89.76435
+  },
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612627473064,
+    "lastSeen": 1612628850070,
+    "firstSeenTime": "4:04:33 PM",
+    "lastSeenTime": "4:27:30 PM",
+    "onlineDurationMins": 22.9501
+  },
+  "championdjj@lichess": {
+    "id": "championdjj",
+    "provider": "lichess",
+    "username": "championDJJ",
+    "firstSeen": 1612628771920,
+    "lastSeen": 1612629057961,
+    "firstSeenTime": "4:26:11 PM",
+    "lastSeenTime": "4:30:57 PM",
+    "onlineDurationMins": 4.76735
+  }
+}
