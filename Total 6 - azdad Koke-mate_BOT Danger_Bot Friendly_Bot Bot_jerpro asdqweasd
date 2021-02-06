@@ -1,0 +1,53 @@
+{
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1612602818428,
+    "lastSeen": 1612631196017,
+    "firstSeenTime": "9:13:38 AM",
+    "lastSeenTime": "4:27:35 PM",
+    "onlineDurationMins": 433.9572166666667
+  },
+  "koke-mate_bot@lichess": {
+    "id": "koke-mate_bot",
+    "provider": "lichess",
+    "username": "Koke-mate_BOT",
+    "firstSeen": 1612616273163,
+    "lastSeen": 1612631137797,
+    "firstSeenTime": "12:57:53 PM",
+    "lastSeenTime": "4:31:37 PM",
+    "onlineDurationMins": 213.7456
+  },
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612627473064,
+    "lastSeen": 1612630893532,
+    "firstSeenTime": "4:04:33 PM",
+    "lastSeenTime": "4:32:30 PM",
+    "onlineDurationMins": 27.9535
+  },
+  "friendly_bot@lichess": {
+    "id": "friendly_bot",
+    "provider": "lichess",
+    "username": "Friendly_Bot",
+    "firstSeen": 1612630256020,
+    "lastSeen": 1612630930405
+  },
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1612630487501,
+    "lastSeen": 1612631040346
+  },
+  "asdqweasd@lichess": {
+    "id": "asdqweasd",
+    "provider": "lichess",
+    "username": "asdqweasd",
+    "firstSeen": 1612631397693,
+    "lastSeen": 1612631546557
+  }
+}
