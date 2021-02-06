@@ -1,0 +1,29 @@
+{
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1612554730573,
+    "lastSeen": 1612593863485,
+    "firstSeenTime": "7:52:10 PM",
+    "lastSeenTime": "6:44:23 AM",
+    "onlineDurationMins": 652.2152
+  },
+  "frostbitefederation@lichess": {
+    "id": "frostbitefederation",
+    "provider": "lichess",
+    "username": "FrostbiteFederation",
+    "firstSeen": 1612593864434,
+    "lastSeen": 1612593926802,
+    "firstSeenTime": "6:44:24 AM",
+    "lastSeenTime": "6:45:26 AM",
+    "onlineDurationMins": 1.0394666666666668
+  },
+  "aa_developement_pro@lichess": {
+    "id": "aa_developement_pro",
+    "provider": "lichess",
+    "username": "AA_Developement_PRO",
+    "firstSeen": 1612594472584,
+    "lastSeen": 1612594472584
+  }
+}
