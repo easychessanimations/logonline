@@ -1,0 +1,47 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612627473064,
+    "lastSeen": 1612648650317,
+    "firstSeenTime": "4:04:33 PM",
+    "lastSeenTime": "6:20:34 PM",
+    "onlineDurationMins": 136.01883333333333
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1612636064690,
+    "lastSeen": 1612648472423
+  },
+  "master_chess1234@lichess": {
+    "id": "master_chess1234",
+    "provider": "lichess",
+    "username": "Master_Chess1234",
+    "firstSeen": 1612645376985,
+    "lastSeen": 1612648381332
+  },
+  "just-a-random-bot@lichess": {
+    "id": "just-a-random-bot",
+    "provider": "lichess",
+    "username": "Just-a-random-bot",
+    "firstSeen": 1612646011550,
+    "lastSeen": 1612648116484
+  },
+  "elbotdehector@lichess": {
+    "id": "elbotdehector",
+    "provider": "lichess",
+    "username": "elbotdehector",
+    "firstSeen": 1612646672268,
+    "lastSeen": 1612648458994
+  },
+  "reallycrazybot@lichess": {
+    "id": "reallycrazybot",
+    "provider": "lichess",
+    "username": "ReallyCrazyBOT",
+    "firstSeen": 1612648498071,
+    "lastSeen": 1612648690355
+  }
+}
