@@ -1,0 +1,39 @@
+{
+  "aa_developement_pro@lichess": {
+    "id": "aa_developement_pro",
+    "provider": "lichess",
+    "username": "AA_Developement_PRO",
+    "firstSeen": 1612594472584,
+    "lastSeen": 1612601208829,
+    "firstSeenTime": "6:54:32 AM",
+    "lastSeenTime": "8:37:02 AM",
+    "onlineDurationMins": 102.49845
+  },
+  "ufopro@lichess": {
+    "id": "ufopro",
+    "provider": "lichess",
+    "username": "ufopro",
+    "firstSeen": 1612598291900,
+    "lastSeen": 1612601720267,
+    "firstSeenTime": "7:58:11 AM",
+    "lastSeenTime": "8:36:09 AM",
+    "onlineDurationMins": 37.955016666666666
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1612600116890,
+    "lastSeen": 1612601697510,
+    "firstSeenTime": "8:28:36 AM",
+    "lastSeenTime": "8:37:07 AM",
+    "onlineDurationMins": 8.510916666666667
+  },
+  "sultanyhy@lichess": {
+    "id": "sultanyhy",
+    "provider": "lichess",
+    "username": "Sultanyhy",
+    "firstSeen": 1612601843205,
+    "lastSeen": 1612601843205
+  }
+}
