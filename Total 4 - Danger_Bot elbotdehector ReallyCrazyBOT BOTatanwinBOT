@@ -1,0 +1,33 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612627473064,
+    "lastSeen": 1612649133532,
+    "firstSeenTime": "4:04:33 PM",
+    "lastSeenTime": "6:20:34 PM",
+    "onlineDurationMins": 136.01883333333333
+  },
+  "elbotdehector@lichess": {
+    "id": "elbotdehector",
+    "provider": "lichess",
+    "username": "elbotdehector",
+    "firstSeen": 1612646672268,
+    "lastSeen": 1612649358428
+  },
+  "reallycrazybot@lichess": {
+    "id": "reallycrazybot",
+    "provider": "lichess",
+    "username": "ReallyCrazyBOT",
+    "firstSeen": 1612648498071,
+    "lastSeen": 1612649163771
+  },
+  "botatanwinbot@lichess": {
+    "id": "botatanwinbot",
+    "provider": "lichess",
+    "username": "BOTatanwinBOT",
+    "firstSeen": 1612649680999,
+    "lastSeen": 1612649680999
+  }
+}
