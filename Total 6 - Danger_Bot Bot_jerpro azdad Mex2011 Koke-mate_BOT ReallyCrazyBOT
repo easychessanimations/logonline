@@ -1,0 +1,50 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612627473064,
+    "lastSeen": 1612641150276,
+    "firstSeenTime": "4:04:33 PM",
+    "lastSeenTime": "6:20:34 PM",
+    "onlineDurationMins": 136.01883333333333
+  },
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1612632595853,
+    "lastSeen": 1612641282602,
+    "firstSeenTime": "5:29:55 PM",
+    "lastSeenTime": "6:25:46 PM",
+    "onlineDurationMins": 55.848083333333335
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1612636064690,
+    "lastSeen": 1612641013899
+  },
+  "mex2011@lichess": {
+    "id": "mex2011",
+    "provider": "lichess",
+    "username": "Mex2011",
+    "firstSeen": 1612639319666,
+    "lastSeen": 1612640822848
+  },
+  "koke-mate_bot@lichess": {
+    "id": "koke-mate_bot",
+    "provider": "lichess",
+    "username": "Koke-mate_BOT",
+    "firstSeen": 1612639501308,
+    "lastSeen": 1612641169912
+  },
+  "reallycrazybot@lichess": {
+    "id": "reallycrazybot",
+    "provider": "lichess",
+    "username": "ReallyCrazyBOT",
+    "firstSeen": 1612639543912,
+    "lastSeen": 1612641090185
+  }
+}
