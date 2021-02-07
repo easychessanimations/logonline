@@ -4,26 +4,29 @@
     "provider": "lichess",
     "username": "superbots",
     "firstSeen": 1612722849191,
-    "lastSeen": 1612726946852,
+    "lastSeen": 1612728327881,
     "firstSeenTime": "6:34:09 PM",
-    "lastSeenTime": "7:31:26 PM",
-    "onlineDurationMins": 57.28588333333333
+    "lastSeenTime": "8:05:27 PM",
+    "onlineDurationMins": 91.3115
   },
   "hordebot@lichess": {
     "id": "hordebot",
     "provider": "lichess",
     "username": "HORDEBOT",
     "firstSeen": 1612723972636,
-    "lastSeen": 1612726977690,
+    "lastSeen": 1612728661089,
     "firstSeenTime": "6:52:52 PM",
-    "lastSeenTime": "7:27:01 PM",
-    "onlineDurationMins": 34.13956666666667
+    "lastSeenTime": "8:07:57 PM",
+    "onlineDurationMins": 75.08565
   },
   "just-a-random-bot@lichess": {
     "id": "just-a-random-bot",
     "provider": "lichess",
     "username": "Just-a-random-bot",
     "firstSeen": 1612727032870,
-    "lastSeen": 1612727032870
+    "lastSeen": 1612728837678,
+    "firstSeenTime": "7:43:52 PM",
+    "lastSeenTime": "8:10:42 PM",
+    "onlineDurationMins": 26.832583333333332
   }
 }
