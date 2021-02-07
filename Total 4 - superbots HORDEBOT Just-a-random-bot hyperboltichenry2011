@@ -1,0 +1,42 @@
+{
+  "superbots@lichess": {
+    "id": "superbots",
+    "provider": "lichess",
+    "username": "superbots",
+    "firstSeen": 1612722849191,
+    "lastSeen": 1612727667316,
+    "firstSeenTime": "6:34:09 PM",
+    "lastSeenTime": "7:54:27 PM",
+    "onlineDurationMins": 80.30208333333333
+  },
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1612723972636,
+    "lastSeen": 1612727997813,
+    "firstSeenTime": "6:52:52 PM",
+    "lastSeenTime": "7:49:01 PM",
+    "onlineDurationMins": 56.1399
+  },
+  "just-a-random-bot@lichess": {
+    "id": "just-a-random-bot",
+    "provider": "lichess",
+    "username": "Just-a-random-bot",
+    "firstSeen": 1612727032870,
+    "lastSeen": 1612727703898,
+    "firstSeenTime": "7:43:52 PM",
+    "lastSeenTime": "7:55:03 PM",
+    "onlineDurationMins": 11.1838
+  },
+  "778289578691919872@discord": {
+    "id": "778289578691919872",
+    "provider": "discord",
+    "username": "hyperboltichenry2011",
+    "firstSeen": 1612727549366,
+    "lastSeen": 1612727926395,
+    "firstSeenTime": "7:52:29 PM",
+    "lastSeenTime": "7:52:54 PM",
+    "onlineDurationMins": 0.4162166666666667
+  }
+}
