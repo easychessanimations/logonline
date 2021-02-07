@@ -1,0 +1,44 @@
+{
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1612720685069,
+    "lastSeen": 1612723330595
+  },
+  "reallycrazybot@lichess": {
+    "id": "reallycrazybot",
+    "provider": "lichess",
+    "username": "ReallyCrazyBOT",
+    "firstSeen": 1612720715498,
+    "lastSeen": 1612723025075
+  },
+  "just-a-random-bot@lichess": {
+    "id": "just-a-random-bot",
+    "provider": "lichess",
+    "username": "Just-a-random-bot",
+    "firstSeen": 1612721254701,
+    "lastSeen": 1612723240483
+  },
+  "superbots@lichess": {
+    "id": "superbots",
+    "provider": "lichess",
+    "username": "superbots",
+    "firstSeen": 1612722849191,
+    "lastSeen": 1612723517060
+  },
+  "whtispurpseofbeinbot@lichess": {
+    "id": "whtispurpseofbeinbot",
+    "provider": "lichess",
+    "username": "Whtispurpseofbeinbot",
+    "firstSeen": 1612723252726,
+    "lastSeen": 1612723360012
+  },
+  "enigiets@lichess": {
+    "id": "enigiets",
+    "provider": "lichess",
+    "username": "Enigiets",
+    "firstSeen": 1612723559983,
+    "lastSeen": 1612723559983
+  }
+}
