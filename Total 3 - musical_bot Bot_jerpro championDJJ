@@ -1,0 +1,26 @@
+{
+  "musical_bot@lichess": {
+    "id": "musical_bot",
+    "provider": "lichess",
+    "username": "musical_bot",
+    "firstSeen": 1612687812675,
+    "lastSeen": 1612689520298,
+    "firstSeenTime": "8:50:12 AM",
+    "lastSeenTime": "8:56:42 AM",
+    "onlineDurationMins": 6.499066666666667
+  },
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1612689439985,
+    "lastSeen": 1612689625645
+  },
+  "championdjj@lichess": {
+    "id": "championdjj",
+    "provider": "lichess",
+    "username": "championDJJ",
+    "firstSeen": 1612689690807,
+    "lastSeen": 1612689690807
+  }
+}
