@@ -1,0 +1,23 @@
+{
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1612708600034,
+    "lastSeen": 1612714630711
+  },
+  "superbots@lichess": {
+    "id": "superbots",
+    "provider": "lichess",
+    "username": "superbots",
+    "firstSeen": 1612711419094,
+    "lastSeen": 1612714612122
+  },
+  "dsouzasr@lichess": {
+    "id": "dsouzasr",
+    "provider": "lichess",
+    "username": "DsOuZaSr",
+    "firstSeen": 1612714732293,
+    "lastSeen": 1612714732293
+  }
+}
