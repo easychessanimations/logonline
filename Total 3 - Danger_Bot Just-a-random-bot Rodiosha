@@ -1,0 +1,26 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612627473064,
+    "lastSeen": 1612655793725,
+    "firstSeenTime": "4:04:33 PM",
+    "lastSeenTime": "6:20:34 PM",
+    "onlineDurationMins": 136.01883333333333
+  },
+  "just-a-random-bot@lichess": {
+    "id": "just-a-random-bot",
+    "provider": "lichess",
+    "username": "Just-a-random-bot",
+    "firstSeen": 1612654683497,
+    "lastSeen": 1612655737567
+  },
+  "rodiosha@lichess": {
+    "id": "rodiosha",
+    "provider": "lichess",
+    "username": "Rodiosha",
+    "firstSeen": 1612656013994,
+    "lastSeen": 1612656013994
+  }
+}
