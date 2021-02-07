@@ -1,0 +1,36 @@
+{
+  "botatanwinbot@lichess": {
+    "id": "botatanwinbot",
+    "provider": "lichess",
+    "username": "BOTatanwinBOT",
+    "firstSeen": 1612715762922,
+    "lastSeen": 1612720929636,
+    "firstSeenTime": "4:36:02 PM",
+    "lastSeenTime": "5:47:31 PM",
+    "onlineDurationMins": 71.47038333333333
+  },
+  "aa_developement_pro@lichess": {
+    "id": "aa_developement_pro",
+    "provider": "lichess",
+    "username": "AA_Developement_PRO",
+    "firstSeen": 1612717257343,
+    "lastSeen": 1612720536718,
+    "firstSeenTime": "5:00:57 PM",
+    "lastSeenTime": "5:47:21 PM",
+    "onlineDurationMins": 46.408
+  },
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1612720685069,
+    "lastSeen": 1612720697468
+  },
+  "reallycrazybot@lichess": {
+    "id": "reallycrazybot",
+    "provider": "lichess",
+    "username": "ReallyCrazyBOT",
+    "firstSeen": 1612720715498,
+    "lastSeen": 1612720878482
+  }
+}
