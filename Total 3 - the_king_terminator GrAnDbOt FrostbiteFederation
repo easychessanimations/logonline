@@ -1,0 +1,23 @@
+{
+  "the_king_terminator@lichess": {
+    "id": "the_king_terminator",
+    "provider": "lichess",
+    "username": "the_king_terminator",
+    "firstSeen": 1612772634985,
+    "lastSeen": 1612773684557
+  },
+  "grandbot@lichess": {
+    "id": "grandbot",
+    "provider": "lichess",
+    "username": "GrAnDbOt",
+    "firstSeen": 1612773637667,
+    "lastSeen": 1612773656306
+  },
+  "frostbitefederation@lichess": {
+    "id": "frostbitefederation",
+    "provider": "lichess",
+    "username": "FrostbiteFederation",
+    "firstSeen": 1612773878429,
+    "lastSeen": 1612773878429
+  }
+}
