@@ -1,0 +1,42 @@
+{
+  "need-for-speed@lichess": {
+    "id": "need-for-speed",
+    "provider": "lichess",
+    "username": "Need-For-Speed",
+    "firstSeen": 1612780545902,
+    "lastSeen": 1612782662584,
+    "firstSeenTime": "10:35:45 AM",
+    "lastSeenTime": "11:07:19 AM",
+    "onlineDurationMins": 31.564633333333333
+  },
+  "ches_kings_group@lichess": {
+    "id": "ches_kings_group",
+    "provider": "lichess",
+    "username": "ches_kings_group",
+    "firstSeen": 1612781010204,
+    "lastSeen": 1612782766008,
+    "firstSeenTime": "10:43:30 AM",
+    "lastSeenTime": "10:58:28 AM",
+    "onlineDurationMins": 14.963633333333334
+  },
+  "aa_developement_pro@lichess": {
+    "id": "aa_developement_pro",
+    "provider": "lichess",
+    "username": "AA_Developement_PRO",
+    "firstSeen": 1612781070363,
+    "lastSeen": 1612782750357,
+    "firstSeenTime": "10:44:30 AM",
+    "lastSeenTime": "11:06:30 AM",
+    "onlineDurationMins": 22.000583333333335
+  },
+  "marat_yerassyl@lichess": {
+    "id": "marat_yerassyl",
+    "provider": "lichess",
+    "username": "Marat_Yerassyl",
+    "firstSeen": 1612781096719,
+    "lastSeen": 1612782420892,
+    "firstSeenTime": "10:44:56 AM",
+    "lastSeenTime": "11:07:00 AM",
+    "onlineDurationMins": 22.06955
+  }
+}
