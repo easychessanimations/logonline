@@ -1,0 +1,72 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612793497083,
+    "lastSeen": 1612814624156,
+    "firstSeenTime": "2:11:37 PM",
+    "lastSeenTime": "7:52:43 PM",
+    "onlineDurationMins": 341.1050333333333
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1612800901368,
+    "lastSeen": 1612814691541,
+    "firstSeenTime": "4:15:01 PM",
+    "lastSeenTime": "7:52:51 PM",
+    "onlineDurationMins": 217.83958333333334
+  },
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1612809623657,
+    "lastSeen": 1612814303990,
+    "firstSeenTime": "6:40:23 PM",
+    "lastSeenTime": "7:58:23 PM",
+    "onlineDurationMins": 78.00555
+  },
+  "master_chess1234@lichess": {
+    "id": "master_chess1234",
+    "provider": "lichess",
+    "username": "Master_Chess1234",
+    "firstSeen": 1612812071778,
+    "lastSeen": 1612814785759,
+    "firstSeenTime": "7:21:11 PM",
+    "lastSeenTime": "7:54:31 PM",
+    "onlineDurationMins": 33.33385
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1612812601854,
+    "lastSeen": 1612814765021,
+    "firstSeenTime": "7:30:01 PM",
+    "lastSeenTime": "7:55:06 PM",
+    "onlineDurationMins": 25.071366666666666
+  },
+  "thechessplayer776@lichess": {
+    "id": "thechessplayer776",
+    "provider": "lichess",
+    "username": "thechessplayer776",
+    "firstSeen": 1612813566819,
+    "lastSeen": 1612814505484,
+    "firstSeenTime": "7:46:06 PM",
+    "lastSeenTime": "7:58:14 PM",
+    "onlineDurationMins": 12.1252
+  },
+  "reallycrazybot@lichess": {
+    "id": "reallycrazybot",
+    "provider": "lichess",
+    "username": "ReallyCrazyBOT",
+    "firstSeen": 1612813631455,
+    "lastSeen": 1612814541565,
+    "firstSeenTime": "7:47:11 PM",
+    "lastSeenTime": "7:50:03 PM",
+    "onlineDurationMins": 2.870833333333333
+  }
+}
