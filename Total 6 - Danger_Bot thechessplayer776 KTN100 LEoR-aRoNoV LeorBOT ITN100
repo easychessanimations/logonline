@@ -1,0 +1,53 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612793497083,
+    "lastSeen": 1612822064614,
+    "firstSeenTime": "2:11:37 PM",
+    "lastSeenTime": "9:42:44 PM",
+    "onlineDurationMins": 451.11813333333333
+  },
+  "thechessplayer776@lichess": {
+    "id": "thechessplayer776",
+    "provider": "lichess",
+    "username": "thechessplayer776",
+    "firstSeen": 1612813566819,
+    "lastSeen": 1612822570467,
+    "firstSeenTime": "7:46:06 PM",
+    "lastSeenTime": "9:38:13 PM",
+    "onlineDurationMins": 112.1174
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1612818061290,
+    "lastSeen": 1612822614162,
+    "firstSeenTime": "9:01:01 PM",
+    "lastSeenTime": "9:46:04 PM",
+    "onlineDurationMins": 45.05983333333333
+  },
+  "leor-aronov@lichess": {
+    "id": "leor-aronov",
+    "provider": "lichess",
+    "username": "LEoR-aRoNoV",
+    "firstSeen": 1612822375272,
+    "lastSeen": 1612822519726
+  },
+  "leorbot@lichess": {
+    "id": "leorbot",
+    "provider": "lichess",
+    "username": "LeorBOT",
+    "firstSeen": 1612822536860,
+    "lastSeen": 1612822613002
+  },
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1612822616288,
+    "lastSeen": 1612822616288
+  }
+}
