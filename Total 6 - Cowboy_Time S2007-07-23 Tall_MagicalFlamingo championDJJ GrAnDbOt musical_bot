@@ -1,0 +1,53 @@
+{
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1612770542930,
+    "lastSeen": 1612770937687,
+    "firstSeenTime": "7:49:02 AM",
+    "lastSeenTime": "7:55:37 AM",
+    "onlineDurationMins": 6.579283333333334
+  },
+  "s2007-07-23@lichess": {
+    "id": "s2007-07-23",
+    "provider": "lichess",
+    "username": "S2007-07-23",
+    "firstSeen": 1612770572149,
+    "lastSeen": 1612770572149,
+    "firstSeenTime": "7:49:32 AM",
+    "lastSeenTime": "7:49:32 AM",
+    "onlineDurationMins": 0
+  },
+  "tall_magicalflamingo@lichess": {
+    "id": "tall_magicalflamingo",
+    "provider": "lichess",
+    "username": "Tall_MagicalFlamingo",
+    "firstSeen": 1612770977094,
+    "lastSeen": 1612770989302,
+    "firstSeenTime": "7:56:17 AM",
+    "lastSeenTime": "7:56:29 AM",
+    "onlineDurationMins": 0.20346666666666666
+  },
+  "championdjj@lichess": {
+    "id": "championdjj",
+    "provider": "lichess",
+    "username": "championDJJ",
+    "firstSeen": 1612771267786,
+    "lastSeen": 1612771314503
+  },
+  "grandbot@lichess": {
+    "id": "grandbot",
+    "provider": "lichess",
+    "username": "GrAnDbOt",
+    "firstSeen": 1612771308010,
+    "lastSeen": 1612771329614
+  },
+  "musical_bot@lichess": {
+    "id": "musical_bot",
+    "provider": "lichess",
+    "username": "musical_bot",
+    "firstSeen": 1612771352344,
+    "lastSeen": 1612771352344
+  }
+}
