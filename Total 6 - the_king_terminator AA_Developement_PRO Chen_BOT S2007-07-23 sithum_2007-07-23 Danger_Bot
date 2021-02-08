@@ -1,0 +1,62 @@
+{
+  "the_king_terminator@lichess": {
+    "id": "the_king_terminator",
+    "provider": "lichess",
+    "username": "the_king_terminator",
+    "firstSeen": 1612789436851,
+    "lastSeen": 1612793282002,
+    "firstSeenTime": "1:03:56 PM",
+    "lastSeenTime": "2:08:02 PM",
+    "onlineDurationMins": 64.08585
+  },
+  "aa_developement_pro@lichess": {
+    "id": "aa_developement_pro",
+    "provider": "lichess",
+    "username": "AA_Developement_PRO",
+    "firstSeen": 1612790250442,
+    "lastSeen": 1612793250458,
+    "firstSeenTime": "1:17:30 PM",
+    "lastSeenTime": "2:07:30 PM",
+    "onlineDurationMins": 50.00026666666667
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1612792628661,
+    "lastSeen": 1612793288684,
+    "firstSeenTime": "1:57:08 PM",
+    "lastSeenTime": "2:08:08 PM",
+    "onlineDurationMins": 11.000383333333334
+  },
+  "s2007-07-23@lichess": {
+    "id": "s2007-07-23",
+    "provider": "lichess",
+    "username": "S2007-07-23",
+    "firstSeen": 1612793430126,
+    "lastSeen": 1612793435433,
+    "firstSeenTime": "2:10:30 PM",
+    "lastSeenTime": "2:10:35 PM",
+    "onlineDurationMins": 0.08845
+  },
+  "sithum_2007-07-23@lichess": {
+    "id": "sithum_2007-07-23",
+    "provider": "lichess",
+    "username": "sithum_2007-07-23",
+    "firstSeen": 1612793436466,
+    "lastSeen": 1612793604017,
+    "firstSeenTime": "2:10:36 PM",
+    "lastSeenTime": "2:12:51 PM",
+    "onlineDurationMins": 2.2558833333333332
+  },
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612793497083,
+    "lastSeen": 1612793506321,
+    "firstSeenTime": "2:11:37 PM",
+    "lastSeenTime": "2:11:46 PM",
+    "onlineDurationMins": 0.15396666666666667
+  }
+}
