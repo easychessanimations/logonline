@@ -1,0 +1,76 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612793497083,
+    "lastSeen": 1612813303331,
+    "firstSeenTime": "2:11:37 PM",
+    "lastSeenTime": "7:29:44 PM",
+    "onlineDurationMins": 318.1166
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1612800901368,
+    "lastSeen": 1612813191325,
+    "firstSeenTime": "4:15:01 PM",
+    "lastSeenTime": "7:27:51 PM",
+    "onlineDurationMins": 192.84051666666667
+  },
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1612809623657,
+    "lastSeen": 1612812983897,
+    "firstSeenTime": "6:40:23 PM",
+    "lastSeenTime": "7:31:23 PM",
+    "onlineDurationMins": 51.002833333333335
+  },
+  "master_chess1234@lichess": {
+    "id": "master_chess1234",
+    "provider": "lichess",
+    "username": "Master_Chess1234",
+    "firstSeen": 1612812071778,
+    "lastSeen": 1612813407270,
+    "firstSeenTime": "7:21:11 PM",
+    "lastSeenTime": "7:32:22 PM",
+    "onlineDurationMins": 11.1823
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1612812601854,
+    "lastSeen": 1612812784923,
+    "firstSeenTime": "7:30:01 PM",
+    "lastSeenTime": "7:33:04 PM",
+    "onlineDurationMins": 3.05115
+  },
+  "emptx01@lichess": {
+    "id": "emptx01",
+    "provider": "lichess",
+    "username": "Emptx01",
+    "firstSeen": 1612812662576,
+    "lastSeen": 1612812729137,
+    "firstSeenTime": "7:31:02 PM",
+    "lastSeenTime": "7:32:09 PM",
+    "onlineDurationMins": 1.10935
+  },
+  "vihaanvyas@lichess": {
+    "id": "vihaanvyas",
+    "provider": "lichess",
+    "username": "vihaanvyas",
+    "firstSeen": 1612813340413,
+    "lastSeen": 1612813411604
+  },
+  "octopustester@lichess": {
+    "id": "octopustester",
+    "provider": "lichess",
+    "username": "OctopusTester",
+    "firstSeen": 1612813412322,
+    "lastSeen": 1612813412322
+  }
+}
