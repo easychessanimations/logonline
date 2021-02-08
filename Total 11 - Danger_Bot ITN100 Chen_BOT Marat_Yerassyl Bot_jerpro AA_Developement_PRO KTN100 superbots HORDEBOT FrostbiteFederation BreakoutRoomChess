@@ -1,0 +1,82 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612793497083,
+    "lastSeen": 1612804000888,
+    "firstSeenTime": "2:11:37 PM",
+    "lastSeenTime": "2:22:43 PM",
+    "onlineDurationMins": 11.1058
+  },
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1612794393226,
+    "lastSeen": 1612804171558
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1612795905442,
+    "lastSeen": 1612803908603
+  },
+  "marat_yerassyl@lichess": {
+    "id": "marat_yerassyl",
+    "provider": "lichess",
+    "username": "Marat_Yerassyl",
+    "firstSeen": 1612798941929,
+    "lastSeen": 1612804350931
+  },
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1612799862166,
+    "lastSeen": 1612804363599
+  },
+  "aa_developement_pro@lichess": {
+    "id": "aa_developement_pro",
+    "provider": "lichess",
+    "username": "AA_Developement_PRO",
+    "firstSeen": 1612800270520,
+    "lastSeen": 1612803870515
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1612800901368,
+    "lastSeen": 1612804278286
+  },
+  "superbots@lichess": {
+    "id": "superbots",
+    "provider": "lichess",
+    "username": "superbots",
+    "firstSeen": 1612802203075,
+    "lastSeen": 1612804464947
+  },
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1612803189760,
+    "lastSeen": 1612803916026
+  },
+  "frostbitefederation@lichess": {
+    "id": "frostbitefederation",
+    "provider": "lichess",
+    "username": "FrostbiteFederation",
+    "firstSeen": 1612803463557,
+    "lastSeen": 1612803948622
+  },
+  "breakoutroomchess@lichess": {
+    "id": "breakoutroomchess",
+    "provider": "lichess",
+    "username": "BreakoutRoomChess",
+    "firstSeen": 1612803465408,
+    "lastSeen": 1612803767265
+  }
+}
