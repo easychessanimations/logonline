@@ -1,0 +1,30 @@
+{
+  "the_king_terminator@lichess": {
+    "id": "the_king_terminator",
+    "provider": "lichess",
+    "username": "the_king_terminator",
+    "firstSeen": 1612772634985,
+    "lastSeen": 1612774679912
+  },
+  "grandbot@lichess": {
+    "id": "grandbot",
+    "provider": "lichess",
+    "username": "GrAnDbOt",
+    "firstSeen": 1612773637667,
+    "lastSeen": 1612774628419
+  },
+  "frostbitefederation@lichess": {
+    "id": "frostbitefederation",
+    "provider": "lichess",
+    "username": "FrostbiteFederation",
+    "firstSeen": 1612773878429,
+    "lastSeen": 1612774911168
+  },
+  "aa_developement_pro@lichess": {
+    "id": "aa_developement_pro",
+    "provider": "lichess",
+    "username": "AA_Developement_PRO",
+    "firstSeen": 1612774921797,
+    "lastSeen": 1612774921797
+  }
+}
