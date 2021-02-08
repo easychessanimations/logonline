@@ -1,0 +1,69 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612793497083,
+    "lastSeen": 1612807963322,
+    "firstSeenTime": "2:11:37 PM",
+    "lastSeenTime": "5:39:43 PM",
+    "onlineDurationMins": 208.10358333333335
+  },
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1612794393226,
+    "lastSeen": 1612807951491,
+    "firstSeenTime": "2:26:33 PM",
+    "lastSeenTime": "5:39:34 PM",
+    "onlineDurationMins": 193.0242
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1612795905442,
+    "lastSeen": 1612808105505,
+    "firstSeenTime": "2:51:45 PM",
+    "lastSeenTime": "5:40:14 PM",
+    "onlineDurationMins": 168.4765
+  },
+  "aa_developement_pro@lichess": {
+    "id": "aa_developement_pro",
+    "provider": "lichess",
+    "username": "AA_Developement_PRO",
+    "firstSeen": 1612800270520,
+    "lastSeen": 1612807950543,
+    "firstSeenTime": "4:04:30 PM",
+    "lastSeenTime": "5:39:33 PM",
+    "onlineDurationMins": 95.0547
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1612800901368,
+    "lastSeen": 1612807665050,
+    "firstSeenTime": "4:15:01 PM",
+    "lastSeenTime": "5:33:27 PM",
+    "onlineDurationMins": 78.43788333333333
+  },
+  "superbots@lichess": {
+    "id": "superbots",
+    "provider": "lichess",
+    "username": "superbots",
+    "firstSeen": 1612802203075,
+    "lastSeen": 1612808206349,
+    "firstSeenTime": "4:36:43 PM",
+    "lastSeenTime": "5:34:12 PM",
+    "onlineDurationMins": 57.4858
+  },
+  "hunter_is_created@lichess": {
+    "id": "hunter_is_created",
+    "provider": "lichess",
+    "username": "Hunter_is_created",
+    "firstSeen": 1612806765261,
+    "lastSeen": 1612807348424
+  }
+}
