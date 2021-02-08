@@ -1,0 +1,49 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612793497083,
+    "lastSeen": 1612811923328,
+    "firstSeenTime": "2:11:37 PM",
+    "lastSeenTime": "7:07:44 PM",
+    "onlineDurationMins": 296.12018333333333
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1612800901368,
+    "lastSeen": 1612811624915,
+    "firstSeenTime": "4:15:01 PM",
+    "lastSeenTime": "7:02:41 PM",
+    "onlineDurationMins": 167.66918333333334
+  },
+  "superbots@lichess": {
+    "id": "superbots",
+    "provider": "lichess",
+    "username": "superbots",
+    "firstSeen": 1612802203075,
+    "lastSeen": 1612811615093,
+    "firstSeenTime": "4:36:43 PM",
+    "lastSeenTime": "7:06:46 PM",
+    "onlineDurationMins": 150.06535
+  },
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1612809623657,
+    "lastSeen": 1612811663740,
+    "firstSeenTime": "6:40:23 PM",
+    "lastSeenTime": "7:06:23 PM",
+    "onlineDurationMins": 26.002983333333333
+  },
+  "master_chess1234@lichess": {
+    "id": "master_chess1234",
+    "provider": "lichess",
+    "username": "Master_Chess1234",
+    "firstSeen": 1612812071778,
+    "lastSeen": 1612812071778
+  }
+}
