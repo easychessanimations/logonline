@@ -1,0 +1,23 @@
+{
+  "musical_bot@lichess": {
+    "id": "musical_bot",
+    "provider": "lichess",
+    "username": "musical_bot",
+    "firstSeen": 1612771352344,
+    "lastSeen": 1612771924805
+  },
+  "main10@lichess": {
+    "id": "main10",
+    "provider": "lichess",
+    "username": "main10",
+    "firstSeen": 1612771417867,
+    "lastSeen": 1612771972965
+  },
+  "need-for-speed@lichess": {
+    "id": "need-for-speed",
+    "provider": "lichess",
+    "username": "Need-For-Speed",
+    "firstSeen": 1612771577811,
+    "lastSeen": 1612771605305
+  }
+}
