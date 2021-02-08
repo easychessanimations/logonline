@@ -1,0 +1,79 @@
+{
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1612784106893,
+    "lastSeen": 1612790291761,
+    "firstSeenTime": "11:35:06 AM",
+    "lastSeenTime": "1:18:11 PM",
+    "onlineDurationMins": 103.08113333333333
+  },
+  "frostbitefederation@lichess": {
+    "id": "frostbitefederation",
+    "provider": "lichess",
+    "username": "FrostbiteFederation",
+    "firstSeen": 1612788235106,
+    "lastSeen": 1612790078256,
+    "firstSeenTime": "12:43:55 PM",
+    "lastSeenTime": "1:14:38 PM",
+    "onlineDurationMins": 30.719166666666666
+  },
+  "terminator_darkfate@lichess": {
+    "id": "terminator_darkfate",
+    "provider": "lichess",
+    "username": "Terminator_DarkFate",
+    "firstSeen": 1612789188149,
+    "lastSeen": 1612790107778,
+    "firstSeenTime": "12:59:48 PM",
+    "lastSeenTime": "1:15:07 PM",
+    "onlineDurationMins": 15.32715
+  },
+  "the_king_terminator@lichess": {
+    "id": "the_king_terminator",
+    "provider": "lichess",
+    "username": "the_king_terminator",
+    "firstSeen": 1612789436851,
+    "lastSeen": 1612790306683,
+    "firstSeenTime": "1:03:56 PM",
+    "lastSeenTime": "1:18:26 PM",
+    "onlineDurationMins": 14.4972
+  },
+  "kemikadam7447@lichess": {
+    "id": "kemikadam7447",
+    "provider": "lichess",
+    "username": "KemiKadam7447",
+    "firstSeen": 1612789446353,
+    "lastSeen": 1612790733006,
+    "firstSeenTime": "1:04:06 PM",
+    "lastSeenTime": "1:20:13 PM",
+    "onlineDurationMins": 16.120616666666667
+  },
+  "merhaba111@lichess": {
+    "id": "merhaba111",
+    "provider": "lichess",
+    "username": "merhaba111",
+    "firstSeen": 1612789624968,
+    "lastSeen": 1612790733670,
+    "firstSeenTime": "1:07:04 PM",
+    "lastSeenTime": "1:24:27 PM",
+    "onlineDurationMins": 17.38315
+  },
+  "aa_developement_pro@lichess": {
+    "id": "aa_developement_pro",
+    "provider": "lichess",
+    "username": "AA_Developement_PRO",
+    "firstSeen": 1612790250442,
+    "lastSeen": 1612790250452,
+    "firstSeenTime": "1:17:30 PM",
+    "lastSeenTime": "1:17:30 PM",
+    "onlineDurationMins": 0.00016666666666666666
+  },
+  "erdem7754@lichess": {
+    "id": "erdem7754",
+    "provider": "lichess",
+    "username": "ErDeM7754",
+    "firstSeen": 1612790736364,
+    "lastSeen": 1612790736365
+  }
+}
