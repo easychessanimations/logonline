@@ -1,0 +1,62 @@
+{
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1612784106893,
+    "lastSeen": 1612790108639,
+    "firstSeenTime": "11:35:06 AM",
+    "lastSeenTime": "1:04:08 PM",
+    "onlineDurationMins": 89.02871666666667
+  },
+  "frostbitefederation@lichess": {
+    "id": "frostbitefederation",
+    "provider": "lichess",
+    "username": "FrostbiteFederation",
+    "firstSeen": 1612788235106,
+    "lastSeen": 1612790078256,
+    "firstSeenTime": "12:43:55 PM",
+    "lastSeenTime": "1:09:05 PM",
+    "onlineDurationMins": 25.168666666666667
+  },
+  "terminator_darkfate@lichess": {
+    "id": "terminator_darkfate",
+    "provider": "lichess",
+    "username": "Terminator_DarkFate",
+    "firstSeen": 1612789188149,
+    "lastSeen": 1612790107778,
+    "firstSeenTime": "12:59:48 PM",
+    "lastSeenTime": "1:00:07 PM",
+    "onlineDurationMins": 0.3298333333333333
+  },
+  "the_king_terminator@lichess": {
+    "id": "the_king_terminator",
+    "provider": "lichess",
+    "username": "the_king_terminator",
+    "firstSeen": 1612789436851,
+    "lastSeen": 1612789581707,
+    "firstSeenTime": "1:03:56 PM",
+    "lastSeenTime": "1:06:21 PM",
+    "onlineDurationMins": 2.414266666666667
+  },
+  "kemikadam7447@lichess": {
+    "id": "kemikadam7447",
+    "provider": "lichess",
+    "username": "KemiKadam7447",
+    "firstSeen": 1612789446353,
+    "lastSeen": 1612789456115,
+    "firstSeenTime": "1:04:06 PM",
+    "lastSeenTime": "1:04:16 PM",
+    "onlineDurationMins": 0.1627
+  },
+  "merhaba111@lichess": {
+    "id": "merhaba111",
+    "provider": "lichess",
+    "username": "merhaba111",
+    "firstSeen": 1612789624968,
+    "lastSeen": 1612789638226,
+    "firstSeenTime": "1:07:04 PM",
+    "lastSeenTime": "1:07:18 PM",
+    "onlineDurationMins": 0.22096666666666667
+  }
+}
