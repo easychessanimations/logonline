@@ -1,0 +1,79 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612793497083,
+    "lastSeen": 1612819904283,
+    "firstSeenTime": "2:11:37 PM",
+    "lastSeenTime": "9:31:44 PM",
+    "onlineDurationMins": 440.12
+  },
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1612809623657,
+    "lastSeen": 1612820184056,
+    "firstSeenTime": "6:40:23 PM",
+    "lastSeenTime": "9:27:27 PM",
+    "onlineDurationMins": 167.05911666666665
+  },
+  "master_chess1234@lichess": {
+    "id": "master_chess1234",
+    "provider": "lichess",
+    "username": "Master_Chess1234",
+    "firstSeen": 1612812071778,
+    "lastSeen": 1612819632849,
+    "firstSeenTime": "7:21:11 PM",
+    "lastSeenTime": "9:27:12 PM",
+    "onlineDurationMins": 126.01785
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1612812601854,
+    "lastSeen": 1612820101958,
+    "firstSeenTime": "7:30:01 PM",
+    "lastSeenTime": "9:27:01 PM",
+    "onlineDurationMins": 117.00175
+  },
+  "thechessplayer776@lichess": {
+    "id": "thechessplayer776",
+    "provider": "lichess",
+    "username": "thechessplayer776",
+    "firstSeen": 1612813566819,
+    "lastSeen": 1612819633924,
+    "firstSeenTime": "7:46:06 PM",
+    "lastSeenTime": "9:27:13 PM",
+    "onlineDurationMins": 101.11841666666666
+  },
+  "reallycrazybot@lichess": {
+    "id": "reallycrazybot",
+    "provider": "lichess",
+    "username": "ReallyCrazyBOT",
+    "firstSeen": 1612817459058,
+    "lastSeen": 1612820100887,
+    "firstSeenTime": "8:50:59 PM",
+    "lastSeenTime": "9:24:23 PM",
+    "onlineDurationMins": 33.409016666666666
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1612818061290,
+    "lastSeen": 1612820044970,
+    "firstSeenTime": "9:01:01 PM",
+    "lastSeenTime": "9:23:01 PM",
+    "onlineDurationMins": 22.00315
+  },
+  "maybeabot@lichess": {
+    "id": "maybeabot",
+    "provider": "lichess",
+    "username": "MaybeABot",
+    "firstSeen": 1612820277789,
+    "lastSeen": 1612820277789
+  }
+}
