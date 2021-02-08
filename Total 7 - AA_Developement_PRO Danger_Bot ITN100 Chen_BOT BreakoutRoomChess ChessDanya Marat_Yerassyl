@@ -1,0 +1,57 @@
+{
+  "aa_developement_pro@lichess": {
+    "id": "aa_developement_pro",
+    "provider": "lichess",
+    "username": "AA_Developement_PRO",
+    "firstSeen": 1612790250442,
+    "lastSeen": 1612798533824,
+    "firstSeenTime": "1:17:30 PM",
+    "lastSeenTime": "2:18:38 PM",
+    "onlineDurationMins": 61.14031666666666
+  },
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612793497083,
+    "lastSeen": 1612798783189,
+    "firstSeenTime": "2:11:37 PM",
+    "lastSeenTime": "2:22:43 PM",
+    "onlineDurationMins": 11.1058
+  },
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1612794393226,
+    "lastSeen": 1612798654753
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1612795905442,
+    "lastSeen": 1612798565382
+  },
+  "breakoutroomchess@lichess": {
+    "id": "breakoutroomchess",
+    "provider": "lichess",
+    "username": "BreakoutRoomChess",
+    "firstSeen": 1612798283287,
+    "lastSeen": 1612798316143
+  },
+  "chessdanya@lichess": {
+    "id": "chessdanya",
+    "provider": "lichess",
+    "username": "ChessDanya",
+    "firstSeen": 1612798611598,
+    "lastSeen": 1612798681908
+  },
+  "marat_yerassyl@lichess": {
+    "id": "marat_yerassyl",
+    "provider": "lichess",
+    "username": "Marat_Yerassyl",
+    "firstSeen": 1612798941929,
+    "lastSeen": 1612798941929
+  }
+}
