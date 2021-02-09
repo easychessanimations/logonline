@@ -1,0 +1,32 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612793497083,
+    "lastSeen": 1612832500313,
+    "firstSeenTime": "2:11:37 PM",
+    "lastSeenTime": "12:44:43 AM",
+    "onlineDurationMins": 633.1073666666666
+  },
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1612829644644,
+    "lastSeen": 1612832528091,
+    "firstSeenTime": "12:14:04 AM",
+    "lastSeenTime": "12:39:07 AM",
+    "onlineDurationMins": 25.055616666666666
+  },
+  "thechessplayer776@lichess": {
+    "id": "thechessplayer776",
+    "provider": "lichess",
+    "username": "thechessplayer776",
+    "firstSeen": 1612829831572,
+    "lastSeen": 1612832594560,
+    "firstSeenTime": "12:17:11 AM",
+    "lastSeenTime": "12:48:57 AM",
+    "onlineDurationMins": 31.767283333333335
+  }
+}
