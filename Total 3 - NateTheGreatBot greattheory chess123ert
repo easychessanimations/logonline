@@ -1,0 +1,23 @@
+{
+  "natethegreatbot@lichess": {
+    "id": "natethegreatbot",
+    "provider": "lichess",
+    "username": "NateTheGreatBot",
+    "firstSeen": 1612876896109,
+    "lastSeen": 1612877208317
+  },
+  "greattheory@lichess": {
+    "id": "greattheory",
+    "provider": "lichess",
+    "username": "greattheory",
+    "firstSeen": 1612876935365,
+    "lastSeen": 1612876983521
+  },
+  "chess123ert@lichess": {
+    "id": "chess123ert",
+    "provider": "lichess",
+    "username": "chess123ert",
+    "firstSeen": 1612877212585,
+    "lastSeen": 1612877212585
+  }
+}
