@@ -1,0 +1,29 @@
+{
+  "frostbitefederation@lichess": {
+    "id": "frostbitefederation",
+    "provider": "lichess",
+    "username": "FrostbiteFederation",
+    "firstSeen": 1612869155802,
+    "lastSeen": 1612869319598,
+    "firstSeenTime": "11:12:35 AM",
+    "lastSeenTime": "11:15:19 AM",
+    "onlineDurationMins": 2.7299333333333333
+  },
+  "annihilator1@lichess": {
+    "id": "annihilator1",
+    "provider": "lichess",
+    "username": "Annihilator1",
+    "firstSeen": 1612869205776,
+    "lastSeen": 1612869832471,
+    "firstSeenTime": "11:13:25 AM",
+    "lastSeenTime": "11:13:54 AM",
+    "onlineDurationMins": 0.48
+  },
+  "elbotdehector@lichess": {
+    "id": "elbotdehector",
+    "provider": "lichess",
+    "username": "elbotdehector",
+    "firstSeen": 1612869833057,
+    "lastSeen": 1612869833057
+  }
+}
