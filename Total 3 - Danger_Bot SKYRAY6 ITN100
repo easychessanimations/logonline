@@ -1,0 +1,26 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612793497083,
+    "lastSeen": 1612829499718,
+    "firstSeenTime": "2:11:37 PM",
+    "lastSeenTime": "10:42:43 PM",
+    "onlineDurationMins": 511.10696666666666
+  },
+  "skyray6@lichess": {
+    "id": "skyray6",
+    "provider": "lichess",
+    "username": "SKYRAY6",
+    "firstSeen": 1612829376779,
+    "lastSeen": 1612829483529
+  },
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1612829644644,
+    "lastSeen": 1612829644644
+  }
+}
