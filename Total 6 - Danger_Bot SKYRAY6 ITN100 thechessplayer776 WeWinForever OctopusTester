@@ -1,0 +1,56 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612793497083,
+    "lastSeen": 1612831001093,
+    "firstSeenTime": "2:11:37 PM",
+    "lastSeenTime": "12:11:39 AM",
+    "onlineDurationMins": 600.0439166666666
+  },
+  "skyray6@lichess": {
+    "id": "skyray6",
+    "provider": "lichess",
+    "username": "SKYRAY6",
+    "firstSeen": 1612829376779,
+    "lastSeen": 1612830840840,
+    "firstSeenTime": "12:09:36 AM",
+    "lastSeenTime": "12:17:12 AM",
+    "onlineDurationMins": 7.597416666666667
+  },
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1612829644644,
+    "lastSeen": 1612831147981,
+    "firstSeenTime": "12:14:04 AM",
+    "lastSeenTime": "12:14:08 AM",
+    "onlineDurationMins": 0.0595
+  },
+  "thechessplayer776@lichess": {
+    "id": "thechessplayer776",
+    "provider": "lichess",
+    "username": "thechessplayer776",
+    "firstSeen": 1612829831572,
+    "lastSeen": 1612831415922,
+    "firstSeenTime": "12:17:11 AM",
+    "lastSeenTime": "12:17:13 AM",
+    "onlineDurationMins": 0.0323
+  },
+  "wewinforever@lichess": {
+    "id": "wewinforever",
+    "provider": "lichess",
+    "username": "WeWinForever",
+    "firstSeen": 1612831370860,
+    "lastSeen": 1612831402011
+  },
+  "octopustester@lichess": {
+    "id": "octopustester",
+    "provider": "lichess",
+    "username": "OctopusTester",
+    "firstSeen": 1612831416746,
+    "lastSeen": 1612831416746
+  }
+}
