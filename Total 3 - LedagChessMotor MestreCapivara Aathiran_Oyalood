@@ -1,0 +1,32 @@
+{
+  "ledagchessmotor@lichess": {
+    "id": "ledagchessmotor",
+    "provider": "lichess",
+    "username": "LedagChessMotor",
+    "firstSeen": 1612877697618,
+    "lastSeen": 1612881527509,
+    "firstSeenTime": "1:34:57 PM",
+    "lastSeenTime": "2:28:43 PM",
+    "onlineDurationMins": 53.77258333333333
+  },
+  "mestrecapivara@lichess": {
+    "id": "mestrecapivara",
+    "provider": "lichess",
+    "username": "MestreCapivara",
+    "firstSeen": 1612879181261,
+    "lastSeen": 1612880884415,
+    "firstSeenTime": "1:59:41 PM",
+    "lastSeenTime": "2:28:04 PM",
+    "onlineDurationMins": 28.3859
+  },
+  "aathiran_oyalood@lichess": {
+    "id": "aathiran_oyalood",
+    "provider": "lichess",
+    "username": "Aathiran_Oyalood",
+    "firstSeen": 1612880247689,
+    "lastSeen": 1612881483696,
+    "firstSeenTime": "2:17:27 PM",
+    "lastSeenTime": "2:32:51 PM",
+    "onlineDurationMins": 15.3924
+  }
+}
