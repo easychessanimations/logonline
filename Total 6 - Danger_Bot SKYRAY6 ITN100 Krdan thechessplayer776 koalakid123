@@ -1,0 +1,59 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1612793497083,
+    "lastSeen": 1612830163816,
+    "firstSeenTime": "2:11:37 PM",
+    "lastSeenTime": "12:11:39 AM",
+    "onlineDurationMins": 600.0439166666666
+  },
+  "skyray6@lichess": {
+    "id": "skyray6",
+    "provider": "lichess",
+    "username": "SKYRAY6",
+    "firstSeen": 1612829376779,
+    "lastSeen": 1612830018755,
+    "firstSeenTime": "12:09:36 AM",
+    "lastSeenTime": "12:17:12 AM",
+    "onlineDurationMins": 7.597416666666667
+  },
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1612829644644,
+    "lastSeen": 1612829648214,
+    "firstSeenTime": "12:14:04 AM",
+    "lastSeenTime": "12:14:08 AM",
+    "onlineDurationMins": 0.0595
+  },
+  "krdan@lichess": {
+    "id": "krdan",
+    "provider": "lichess",
+    "username": "Krdan",
+    "firstSeen": 1612829688542,
+    "lastSeen": 1612830082645,
+    "firstSeenTime": "12:14:48 AM",
+    "lastSeenTime": "12:15:03 AM",
+    "onlineDurationMins": 0.24475
+  },
+  "thechessplayer776@lichess": {
+    "id": "thechessplayer776",
+    "provider": "lichess",
+    "username": "thechessplayer776",
+    "firstSeen": 1612829831572,
+    "lastSeen": 1612830299830,
+    "firstSeenTime": "12:17:11 AM",
+    "lastSeenTime": "12:17:13 AM",
+    "onlineDurationMins": 0.0323
+  },
+  "koalakid123@lichess": {
+    "id": "koalakid123",
+    "provider": "lichess",
+    "username": "koalakid123",
+    "firstSeen": 1612830312261,
+    "lastSeen": 1612830312261
+  }
+}
