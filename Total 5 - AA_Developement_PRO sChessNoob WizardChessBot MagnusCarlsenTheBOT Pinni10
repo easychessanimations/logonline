@@ -1,0 +1,49 @@
+{
+  "aa_developement_pro@lichess": {
+    "id": "aa_developement_pro",
+    "provider": "lichess",
+    "username": "AA_Developement_PRO",
+    "firstSeen": 1612971476704,
+    "lastSeen": 1612978177906,
+    "firstSeenTime": "3:37:56 PM",
+    "lastSeenTime": "5:29:37 PM",
+    "onlineDurationMins": 111.6867
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1612971773012,
+    "lastSeen": 1612978504559,
+    "firstSeenTime": "3:42:53 PM",
+    "lastSeenTime": "5:35:04 PM",
+    "onlineDurationMins": 112.19245
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1612973786642,
+    "lastSeen": 1612978717963,
+    "firstSeenTime": "4:16:26 PM",
+    "lastSeenTime": "5:35:03 PM",
+    "onlineDurationMins": 78.60875
+  },
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1612977409518,
+    "lastSeen": 1612978732150,
+    "firstSeenTime": "5:16:49 PM",
+    "lastSeenTime": "5:32:42 PM",
+    "onlineDurationMins": 15.8747
+  },
+  "pinni10@lichess": {
+    "id": "pinni10",
+    "provider": "lichess",
+    "username": "Pinni10",
+    "firstSeen": 1612978648747,
+    "lastSeen": 1612978714125
+  }
+}
