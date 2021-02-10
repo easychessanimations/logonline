@@ -1,0 +1,82 @@
+{
+  "aa_developement_pro@lichess": {
+    "id": "aa_developement_pro",
+    "provider": "lichess",
+    "username": "AA_Developement_PRO",
+    "firstSeen": 1612959403477,
+    "lastSeen": 1612964888941,
+    "firstSeenTime": "12:16:43 PM",
+    "lastSeenTime": "1:48:08 PM",
+    "onlineDurationMins": 91.4244
+  },
+  "superbots@lichess": {
+    "id": "superbots",
+    "provider": "lichess",
+    "username": "superbots",
+    "firstSeen": 1612961087274,
+    "lastSeen": 1612964914189,
+    "firstSeenTime": "12:44:47 PM",
+    "lastSeenTime": "1:45:48 PM",
+    "onlineDurationMins": 61.01436666666667
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1612962107448,
+    "lastSeen": 1612964475585,
+    "firstSeenTime": "1:01:47 PM",
+    "lastSeenTime": "1:41:15 PM",
+    "onlineDurationMins": 39.46895
+  },
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1612963994670,
+    "lastSeen": 1612964717848,
+    "firstSeenTime": "1:33:14 PM",
+    "lastSeenTime": "1:45:17 PM",
+    "onlineDurationMins": 12.052966666666666
+  },
+  "ak-98@lichess": {
+    "id": "ak-98",
+    "provider": "lichess",
+    "username": "Ak-98",
+    "firstSeen": 1612964372290,
+    "lastSeen": 1612964581984,
+    "firstSeenTime": "1:39:32 PM",
+    "lastSeenTime": "1:43:01 PM",
+    "onlineDurationMins": 3.4949
+  },
+  "average232@lichess": {
+    "id": "average232",
+    "provider": "lichess",
+    "username": "averAge232",
+    "firstSeen": 1612964537316,
+    "lastSeen": 1612964638861,
+    "firstSeenTime": "1:42:17 PM",
+    "lastSeenTime": "1:43:58 PM",
+    "onlineDurationMins": 1.6924166666666667
+  },
+  "ak-3001@lichess": {
+    "id": "ak-3001",
+    "provider": "lichess",
+    "username": "Ak-3001",
+    "firstSeen": 1612964583164,
+    "lastSeen": 1612964854156,
+    "firstSeenTime": "1:43:03 PM",
+    "lastSeenTime": "1:47:34 PM",
+    "onlineDurationMins": 4.516533333333333
+  },
+  "tall_magicalflamingo@lichess": {
+    "id": "tall_magicalflamingo",
+    "provider": "lichess",
+    "username": "Tall_MagicalFlamingo",
+    "firstSeen": 1612964778959,
+    "lastSeen": 1612964913393,
+    "firstSeenTime": "1:46:18 PM",
+    "lastSeenTime": "1:47:33 PM",
+    "onlineDurationMins": 1.24415
+  }
+}
