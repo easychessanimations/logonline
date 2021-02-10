@@ -1,0 +1,50 @@
+{
+  "iuriibot@lichess": {
+    "id": "iuriibot",
+    "provider": "lichess",
+    "username": "IuriiBot",
+    "firstSeen": 1612982954442,
+    "lastSeen": 1612986552906,
+    "firstSeenTime": "6:49:14 PM",
+    "lastSeenTime": "7:38:17 PM",
+    "onlineDurationMins": 49.05925
+  },
+  "youtube-bot@lichess": {
+    "id": "youtube-bot",
+    "provider": "lichess",
+    "username": "youtube-bot",
+    "firstSeen": 1612985831155,
+    "lastSeen": 1612985851639,
+    "firstSeenTime": "7:37:11 PM",
+    "lastSeenTime": "7:37:31 PM",
+    "onlineDurationMins": 0.3414
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1612986185114,
+    "lastSeen": 1612986314117
+  },
+  "reallycrazybot@lichess": {
+    "id": "reallycrazybot",
+    "provider": "lichess",
+    "username": "ReallyCrazyBOT",
+    "firstSeen": 1612986387182,
+    "lastSeen": 1612986531492
+  },
+  "dragonrevolutionfire@lichess": {
+    "id": "dragonrevolutionfire",
+    "provider": "lichess",
+    "username": "Dragonrevolutionfire",
+    "firstSeen": 1612986580198,
+    "lastSeen": 1612986580850
+  },
+  "szuwar8716@lichess": {
+    "id": "szuwar8716",
+    "provider": "lichess",
+    "username": "szuwar8716",
+    "firstSeen": 1612986619670,
+    "lastSeen": 1612986619670
+  }
+}
