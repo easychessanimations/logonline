@@ -1,0 +1,22 @@
+{
+  "iuriibot@lichess": {
+    "id": "iuriibot",
+    "provider": "lichess",
+    "username": "IuriiBot",
+    "firstSeen": 1612982954442,
+    "lastSeen": 1612985397722,
+    "firstSeenTime": "6:49:14 PM",
+    "lastSeenTime": "7:21:49 PM",
+    "onlineDurationMins": 32.58636666666666
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1612984848868,
+    "lastSeen": 1612984868110,
+    "firstSeenTime": "7:20:48 PM",
+    "lastSeenTime": "7:21:08 PM",
+    "onlineDurationMins": 0.3207
+  }
+}
