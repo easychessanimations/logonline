@@ -1,0 +1,29 @@
+{
+  "aa_developement_pro@lichess": {
+    "id": "aa_developement_pro",
+    "provider": "lichess",
+    "username": "AA_Developement_PRO",
+    "firstSeen": 1612971476704,
+    "lastSeen": 1612981114520,
+    "firstSeenTime": "3:37:56 PM",
+    "lastSeenTime": "6:02:09 PM",
+    "onlineDurationMins": 144.20586666666668
+  },
+  "advancedchessteam@lichess": {
+    "id": "advancedchessteam",
+    "provider": "lichess",
+    "username": "AdvancedChessTeam",
+    "firstSeen": 1612980236031,
+    "lastSeen": 1612980904388,
+    "firstSeenTime": "6:03:56 PM",
+    "lastSeenTime": "6:07:22 PM",
+    "onlineDurationMins": 3.4366666666666665
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1612981402639,
+    "lastSeen": 1612981402639
+  }
+}
