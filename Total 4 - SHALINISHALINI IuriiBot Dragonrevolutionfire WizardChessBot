@@ -1,0 +1,42 @@
+{
+  "shalinishalini@lichess": {
+    "id": "shalinishalini",
+    "provider": "lichess",
+    "username": "SHALINISHALINI",
+    "firstSeen": 1612982517168,
+    "lastSeen": 1612984531719,
+    "firstSeenTime": "6:41:57 PM",
+    "lastSeenTime": "7:15:31 PM",
+    "onlineDurationMins": 33.57585
+  },
+  "iuriibot@lichess": {
+    "id": "iuriibot",
+    "provider": "lichess",
+    "username": "IuriiBot",
+    "firstSeen": 1612982954442,
+    "lastSeen": 1612985078850,
+    "firstSeenTime": "6:49:14 PM",
+    "lastSeenTime": "7:21:49 PM",
+    "onlineDurationMins": 32.58636666666666
+  },
+  "dragonrevolutionfire@lichess": {
+    "id": "dragonrevolutionfire",
+    "provider": "lichess",
+    "username": "Dragonrevolutionfire",
+    "firstSeen": 1612983981493,
+    "lastSeen": 1612984363583,
+    "firstSeenTime": "7:06:21 PM",
+    "lastSeenTime": "7:12:43 PM",
+    "onlineDurationMins": 6.368166666666666
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1612984848868,
+    "lastSeen": 1612984868110,
+    "firstSeenTime": "7:20:48 PM",
+    "lastSeenTime": "7:21:08 PM",
+    "onlineDurationMins": 0.3207
+  }
+}
