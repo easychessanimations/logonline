@@ -1,0 +1,59 @@
+{
+  "aa_developement_pro@lichess": {
+    "id": "aa_developement_pro",
+    "provider": "lichess",
+    "username": "AA_Developement_PRO",
+    "firstSeen": 1612959403477,
+    "lastSeen": 1612964285533,
+    "firstSeenTime": "12:16:43 PM",
+    "lastSeenTime": "1:38:05 PM",
+    "onlineDurationMins": 81.3676
+  },
+  "superbots@lichess": {
+    "id": "superbots",
+    "provider": "lichess",
+    "username": "superbots",
+    "firstSeen": 1612961087274,
+    "lastSeen": 1612964086747,
+    "firstSeenTime": "12:44:47 PM",
+    "lastSeenTime": "1:34:46 PM",
+    "onlineDurationMins": 49.991216666666666
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1612962107448,
+    "lastSeen": 1612964340864,
+    "firstSeenTime": "1:01:47 PM",
+    "lastSeenTime": "1:39:00 PM",
+    "onlineDurationMins": 37.2236
+  },
+  "youtube-bot@lichess": {
+    "id": "youtube-bot",
+    "provider": "lichess",
+    "username": "youtube-bot",
+    "firstSeen": 1612963955523,
+    "lastSeen": 1612964024263,
+    "firstSeenTime": "1:32:35 PM",
+    "lastSeenTime": "1:33:44 PM",
+    "onlineDurationMins": 1.1456666666666666
+  },
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1612963994670,
+    "lastSeen": 1612963994670,
+    "firstSeenTime": "1:33:14 PM",
+    "lastSeenTime": "1:33:14 PM",
+    "onlineDurationMins": 0
+  },
+  "ak-98@lichess": {
+    "id": "ak-98",
+    "provider": "lichess",
+    "username": "Ak-98",
+    "firstSeen": 1612964372290,
+    "lastSeen": 1612964372291
+  }
+}
