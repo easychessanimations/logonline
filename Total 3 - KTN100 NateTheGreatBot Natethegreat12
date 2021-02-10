@@ -1,0 +1,26 @@
+{
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1612915393624,
+    "lastSeen": 1612918049112,
+    "firstSeenTime": "12:03:13 AM",
+    "lastSeenTime": "12:36:32 AM",
+    "onlineDurationMins": 33.32035
+  },
+  "natethegreatbot@lichess": {
+    "id": "natethegreatbot",
+    "provider": "lichess",
+    "username": "NateTheGreatBot",
+    "firstSeen": 1612917977801,
+    "lastSeen": 1612918037534
+  },
+  "natethegreat12@lichess": {
+    "id": "natethegreat12",
+    "provider": "lichess",
+    "username": "Natethegreat12",
+    "firstSeen": 1612917978628,
+    "lastSeen": 1612917995110
+  }
+}
