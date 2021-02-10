@@ -1,0 +1,59 @@
+{
+  "youtube-bot@lichess": {
+    "id": "youtube-bot",
+    "provider": "lichess",
+    "username": "youtube-bot",
+    "firstSeen": 1612953678502,
+    "lastSeen": 1612957863955,
+    "firstSeenTime": "10:41:18 AM",
+    "lastSeenTime": "11:42:00 AM",
+    "onlineDurationMins": 60.699283333333334
+  },
+  "rexbot1@lichess": {
+    "id": "rexbot1",
+    "provider": "lichess",
+    "username": "Rexbot1",
+    "firstSeen": 1612954510828,
+    "lastSeen": 1612958102822,
+    "firstSeenTime": "10:55:10 AM",
+    "lastSeenTime": "11:39:16 AM",
+    "onlineDurationMins": 44.095166666666664
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1612955287462,
+    "lastSeen": 1612958098604,
+    "firstSeenTime": "11:08:07 AM",
+    "lastSeenTime": "11:44:08 AM",
+    "onlineDurationMins": 36.0135
+  },
+  "sakshamuniyal523@lichess": {
+    "id": "sakshamuniyal523",
+    "provider": "lichess",
+    "username": "sakshamuniyal523",
+    "firstSeen": 1612957167373,
+    "lastSeen": 1612957887377,
+    "firstSeenTime": "11:39:27 AM",
+    "lastSeenTime": "11:45:12 AM",
+    "onlineDurationMins": 5.747333333333334
+  },
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1612957336991,
+    "lastSeen": 1612958000531,
+    "firstSeenTime": "11:42:16 AM",
+    "lastSeenTime": "11:45:16 AM",
+    "onlineDurationMins": 2.9909333333333334
+  },
+  "superbots@lichess": {
+    "id": "superbots",
+    "provider": "lichess",
+    "username": "superbots",
+    "firstSeen": 1612958133261,
+    "lastSeen": 1612958133261
+  }
+}
