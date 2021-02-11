@@ -1,0 +1,49 @@
+{
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1613034617617,
+    "lastSeen": 1613048286077,
+    "firstSeenTime": "9:10:17 AM",
+    "lastSeenTime": "12:58:06 PM",
+    "onlineDurationMins": 227.80766666666668
+  },
+  "aa_developement_pro@lichess": {
+    "id": "aa_developement_pro",
+    "provider": "lichess",
+    "username": "AA_Developement_PRO",
+    "firstSeen": 1613041983101,
+    "lastSeen": 1613048107698,
+    "firstSeenTime": "11:13:03 AM",
+    "lastSeenTime": "12:55:07 PM",
+    "onlineDurationMins": 102.07661666666667
+  },
+  "pulkitelo2900_chess@lichess": {
+    "id": "pulkitelo2900_chess",
+    "provider": "lichess",
+    "username": "Pulkitelo2900_Chess",
+    "firstSeen": 1613045700281,
+    "lastSeen": 1613048342563,
+    "firstSeenTime": "12:15:00 PM",
+    "lastSeenTime": "12:59:02 PM",
+    "onlineDurationMins": 44.03803333333333
+  },
+  "anujaya2009@lichess": {
+    "id": "anujaya2009",
+    "provider": "lichess",
+    "username": "Anujaya2009",
+    "firstSeen": 1613047934179,
+    "lastSeen": 1613047985597,
+    "firstSeenTime": "12:52:14 PM",
+    "lastSeenTime": "12:53:05 PM",
+    "onlineDurationMins": 0.8569666666666667
+  },
+  "cookieswithcream@lichess": {
+    "id": "cookieswithcream",
+    "provider": "lichess",
+    "username": "CookiesWithCream",
+    "firstSeen": 1613048738255,
+    "lastSeen": 1613048738255
+  }
+}
