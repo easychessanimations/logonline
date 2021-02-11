@@ -1,0 +1,82 @@
+{
+  "wscc6d12@lichess": {
+    "id": "wscc6d12",
+    "provider": "lichess",
+    "username": "WSCC6D12",
+    "firstSeen": 1613064273207,
+    "lastSeen": 1613070274813,
+    "firstSeenTime": "5:24:33 PM",
+    "lastSeenTime": "7:04:34 PM",
+    "onlineDurationMins": 100.02676666666666
+  },
+  "wscc6d15@lichess": {
+    "id": "wscc6d15",
+    "provider": "lichess",
+    "username": "wscc6d15",
+    "firstSeen": 1613064310143,
+    "lastSeen": 1613070525783,
+    "firstSeenTime": "5:25:10 PM",
+    "lastSeenTime": "6:58:56 PM",
+    "onlineDurationMins": 93.7648
+  },
+  "strongbotofstrongest@lichess": {
+    "id": "strongbotofstrongest",
+    "provider": "lichess",
+    "username": "STRONGBOTOFSTRONGEST",
+    "firstSeen": 1613064900564,
+    "lastSeen": 1613070427839,
+    "firstSeenTime": "5:35:00 PM",
+    "lastSeenTime": "7:07:07 PM",
+    "onlineDurationMins": 92.12125
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1613067895746,
+    "lastSeen": 1613069885754,
+    "firstSeenTime": "6:24:55 PM",
+    "lastSeenTime": "6:58:05 PM",
+    "onlineDurationMins": 33.1668
+  },
+  "swirlbot@lichess": {
+    "id": "swirlbot",
+    "provider": "lichess",
+    "username": "SwirlBOT",
+    "firstSeen": 1613068827980,
+    "lastSeen": 1613070389488,
+    "firstSeenTime": "6:40:27 PM",
+    "lastSeenTime": "7:06:29 PM",
+    "onlineDurationMins": 26.025133333333333
+  },
+  "threepeatmvp@lichess": {
+    "id": "threepeatmvp",
+    "provider": "lichess",
+    "username": "ThreePeatMVP",
+    "firstSeen": 1613069137437,
+    "lastSeen": 1613070040087,
+    "firstSeenTime": "6:45:37 PM",
+    "lastSeenTime": "7:00:40 PM",
+    "onlineDurationMins": 15.044166666666667
+  },
+  "yash7936@lichess": {
+    "id": "yash7936",
+    "provider": "lichess",
+    "username": "Yash7936",
+    "firstSeen": 1613069199933,
+    "lastSeen": 1613069717340,
+    "firstSeenTime": "6:46:39 PM",
+    "lastSeenTime": "6:55:17 PM",
+    "onlineDurationMins": 8.62345
+  },
+  "blurryface_1@lichess": {
+    "id": "blurryface_1",
+    "provider": "lichess",
+    "username": "Blurryface_1",
+    "firstSeen": 1613070041154,
+    "lastSeen": 1613070052255,
+    "firstSeenTime": "7:00:41 PM",
+    "lastSeenTime": "7:00:52 PM",
+    "onlineDurationMins": 0.18501666666666666
+  }
+}
