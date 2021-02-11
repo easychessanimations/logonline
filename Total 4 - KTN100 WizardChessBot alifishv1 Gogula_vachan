@@ -1,0 +1,42 @@
+{
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1613050420777,
+    "lastSeen": 1613062198115,
+    "firstSeenTime": "1:33:40 PM",
+    "lastSeenTime": "4:49:58 PM",
+    "onlineDurationMins": 196.28896666666665
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1613052600730,
+    "lastSeen": 1613061522370,
+    "firstSeenTime": "2:10:00 PM",
+    "lastSeenTime": "4:38:42 PM",
+    "onlineDurationMins": 148.694
+  },
+  "alifishv1@lichess": {
+    "id": "alifishv1",
+    "provider": "lichess",
+    "username": "alifishv1",
+    "firstSeen": 1613059443321,
+    "lastSeen": 1613061513310,
+    "firstSeenTime": "4:04:03 PM",
+    "lastSeenTime": "4:38:33 PM",
+    "onlineDurationMins": 34.49981666666667
+  },
+  "gogula_vachan@lichess": {
+    "id": "gogula_vachan",
+    "provider": "lichess",
+    "username": "Gogula_vachan",
+    "firstSeen": 1613061498397,
+    "lastSeen": 1613062098280,
+    "firstSeenTime": "4:38:18 PM",
+    "lastSeenTime": "4:48:18 PM",
+    "onlineDurationMins": 9.99805
+  }
+}
