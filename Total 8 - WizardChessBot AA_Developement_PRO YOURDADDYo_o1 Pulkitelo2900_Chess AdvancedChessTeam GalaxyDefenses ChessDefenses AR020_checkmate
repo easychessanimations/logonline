@@ -1,0 +1,79 @@
+{
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1613034617617,
+    "lastSeen": 1613046962877,
+    "firstSeenTime": "9:10:17 AM",
+    "lastSeenTime": "12:31:03 PM",
+    "onlineDurationMins": 200.75708333333333
+  },
+  "aa_developement_pro@lichess": {
+    "id": "aa_developement_pro",
+    "provider": "lichess",
+    "username": "AA_Developement_PRO",
+    "firstSeen": 1613041983101,
+    "lastSeen": 1613046666526,
+    "firstSeenTime": "11:13:03 AM",
+    "lastSeenTime": "12:31:06 PM",
+    "onlineDurationMins": 78.05708333333334
+  },
+  "yourdaddyo_o1@lichess": {
+    "id": "yourdaddyo_o1",
+    "provider": "lichess",
+    "username": "YOURDADDYo_o1",
+    "firstSeen": 1613043052731,
+    "lastSeen": 1613046755462,
+    "firstSeenTime": "11:30:52 AM",
+    "lastSeenTime": "12:32:35 PM",
+    "onlineDurationMins": 61.712183333333336
+  },
+  "pulkitelo2900_chess@lichess": {
+    "id": "pulkitelo2900_chess",
+    "provider": "lichess",
+    "username": "Pulkitelo2900_Chess",
+    "firstSeen": 1613045700281,
+    "lastSeen": 1613046659043,
+    "firstSeenTime": "12:15:00 PM",
+    "lastSeenTime": "12:30:59 PM",
+    "onlineDurationMins": 15.979366666666667
+  },
+  "advancedchessteam@lichess": {
+    "id": "advancedchessteam",
+    "provider": "lichess",
+    "username": "AdvancedChessTeam",
+    "firstSeen": 1613046599245,
+    "lastSeen": 1613046684662,
+    "firstSeenTime": "12:29:59 PM",
+    "lastSeenTime": "12:31:24 PM",
+    "onlineDurationMins": 1.4236166666666668
+  },
+  "galaxydefenses@lichess": {
+    "id": "galaxydefenses",
+    "provider": "lichess",
+    "username": "GalaxyDefenses",
+    "firstSeen": 1613046692230,
+    "lastSeen": 1613046798481,
+    "firstSeenTime": "12:31:32 PM",
+    "lastSeenTime": "12:33:18 PM",
+    "onlineDurationMins": 1.77085
+  },
+  "chessdefenses@lichess": {
+    "id": "chessdefenses",
+    "provider": "lichess",
+    "username": "ChessDefenses",
+    "firstSeen": 1613046804707,
+    "lastSeen": 1613046814967,
+    "firstSeenTime": "12:33:24 PM",
+    "lastSeenTime": "12:33:34 PM",
+    "onlineDurationMins": 0.171
+  },
+  "ar020_checkmate@lichess": {
+    "id": "ar020_checkmate",
+    "provider": "lichess",
+    "username": "AR020_checkmate",
+    "firstSeen": 1613046970051,
+    "lastSeen": 1613046970051
+  }
+}
