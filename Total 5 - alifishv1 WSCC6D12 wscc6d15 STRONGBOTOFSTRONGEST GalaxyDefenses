@@ -1,0 +1,52 @@
+{
+  "alifishv1@lichess": {
+    "id": "alifishv1",
+    "provider": "lichess",
+    "username": "alifishv1",
+    "firstSeen": 1613063156878,
+    "lastSeen": 1613066626258,
+    "firstSeenTime": "5:05:56 PM",
+    "lastSeenTime": "6:03:38 PM",
+    "onlineDurationMins": 57.69518333333333
+  },
+  "wscc6d12@lichess": {
+    "id": "wscc6d12",
+    "provider": "lichess",
+    "username": "WSCC6D12",
+    "firstSeen": 1613064273207,
+    "lastSeen": 1613066441874,
+    "firstSeenTime": "5:24:33 PM",
+    "lastSeenTime": "6:00:41 PM",
+    "onlineDurationMins": 36.14445
+  },
+  "wscc6d15@lichess": {
+    "id": "wscc6d15",
+    "provider": "lichess",
+    "username": "wscc6d15",
+    "firstSeen": 1613064310143,
+    "lastSeen": 1613066455736,
+    "firstSeenTime": "5:25:10 PM",
+    "lastSeenTime": "6:00:55 PM",
+    "onlineDurationMins": 35.759883333333335
+  },
+  "strongbotofstrongest@lichess": {
+    "id": "strongbotofstrongest",
+    "provider": "lichess",
+    "username": "STRONGBOTOFSTRONGEST",
+    "firstSeen": 1613064900564,
+    "lastSeen": 1613066408059,
+    "firstSeenTime": "5:35:00 PM",
+    "lastSeenTime": "6:00:08 PM",
+    "onlineDurationMins": 25.124916666666667
+  },
+  "galaxydefenses@lichess": {
+    "id": "galaxydefenses",
+    "provider": "lichess",
+    "username": "GalaxyDefenses",
+    "firstSeen": 1613065871348,
+    "lastSeen": 1613066071589,
+    "firstSeenTime": "5:51:11 PM",
+    "lastSeenTime": "5:54:31 PM",
+    "onlineDurationMins": 3.33735
+  }
+}
