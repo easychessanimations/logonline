@@ -1,0 +1,62 @@
+{
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1613050420777,
+    "lastSeen": 1613061537610,
+    "firstSeenTime": "1:33:40 PM",
+    "lastSeenTime": "4:38:57 PM",
+    "onlineDurationMins": 185.28055
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1613052600730,
+    "lastSeen": 1613061522370,
+    "firstSeenTime": "2:10:00 PM",
+    "lastSeenTime": "4:38:42 PM",
+    "onlineDurationMins": 148.694
+  },
+  "strongbotofstrongest@lichess": {
+    "id": "strongbotofstrongest",
+    "provider": "lichess",
+    "username": "STRONGBOTOFSTRONGEST",
+    "firstSeen": 1613054853249,
+    "lastSeen": 1613061178736,
+    "firstSeenTime": "2:47:33 PM",
+    "lastSeenTime": "4:32:58 PM",
+    "onlineDurationMins": 105.42478333333334
+  },
+  "alifishv1@lichess": {
+    "id": "alifishv1",
+    "provider": "lichess",
+    "username": "alifishv1",
+    "firstSeen": 1613059443321,
+    "lastSeen": 1613061513310,
+    "firstSeenTime": "4:04:03 PM",
+    "lastSeenTime": "4:38:33 PM",
+    "onlineDurationMins": 34.49981666666667
+  },
+  "smitpau@lichess": {
+    "id": "smitpau",
+    "provider": "lichess",
+    "username": "smitpau",
+    "firstSeen": 1613061280773,
+    "lastSeen": 1613061344645,
+    "firstSeenTime": "4:34:40 PM",
+    "lastSeenTime": "4:35:44 PM",
+    "onlineDurationMins": 1.0645333333333333
+  },
+  "gogula_vachan@lichess": {
+    "id": "gogula_vachan",
+    "provider": "lichess",
+    "username": "Gogula_vachan",
+    "firstSeen": 1613061498397,
+    "lastSeen": 1613061993478,
+    "firstSeenTime": "4:38:18 PM",
+    "lastSeenTime": "4:43:01 PM",
+    "onlineDurationMins": 4.715083333333333
+  }
+}
