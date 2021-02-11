@@ -1,0 +1,49 @@
+{
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1613034617617,
+    "lastSeen": 1613048942868,
+    "firstSeenTime": "9:10:17 AM",
+    "lastSeenTime": "1:09:02 PM",
+    "onlineDurationMins": 238.75418333333334
+  },
+  "aa_developement_pro@lichess": {
+    "id": "aa_developement_pro",
+    "provider": "lichess",
+    "username": "AA_Developement_PRO",
+    "firstSeen": 1613041983101,
+    "lastSeen": 1613049066799,
+    "firstSeenTime": "11:13:03 AM",
+    "lastSeenTime": "1:11:06 PM",
+    "onlineDurationMins": 118.06163333333333
+  },
+  "cookieswithcream@lichess": {
+    "id": "cookieswithcream",
+    "provider": "lichess",
+    "username": "CookiesWithCream",
+    "firstSeen": 1613048738255,
+    "lastSeen": 1613049247594,
+    "firstSeenTime": "1:05:38 PM",
+    "lastSeenTime": "1:14:07 PM",
+    "onlineDurationMins": 8.488983333333334
+  },
+  "redhorse2345@lichess": {
+    "id": "redhorse2345",
+    "provider": "lichess",
+    "username": "RedHorse2345",
+    "firstSeen": 1613049023872,
+    "lastSeen": 1613049387935,
+    "firstSeenTime": "1:10:23 PM",
+    "lastSeenTime": "1:12:44 PM",
+    "onlineDurationMins": 2.3485
+  },
+  "breakoutroomchess@lichess": {
+    "id": "breakoutroomchess",
+    "provider": "lichess",
+    "username": "BreakoutRoomChess",
+    "firstSeen": 1613049389780,
+    "lastSeen": 1613049389780
+  }
+}
