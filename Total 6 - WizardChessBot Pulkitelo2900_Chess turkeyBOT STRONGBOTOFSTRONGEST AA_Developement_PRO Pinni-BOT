@@ -1,0 +1,59 @@
+{
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1613034617617,
+    "lastSeen": 1613042035007,
+    "firstSeenTime": "9:10:17 AM",
+    "lastSeenTime": "11:13:06 AM",
+    "onlineDurationMins": 122.80945
+  },
+  "pulkitelo2900_chess@lichess": {
+    "id": "pulkitelo2900_chess",
+    "provider": "lichess",
+    "username": "Pulkitelo2900_Chess",
+    "firstSeen": 1613036109745,
+    "lastSeen": 1613042029819,
+    "firstSeenTime": "9:35:09 AM",
+    "lastSeenTime": "11:13:19 AM",
+    "onlineDurationMins": 98.16896666666666
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1613037809463,
+    "lastSeen": 1613041172501,
+    "firstSeenTime": "10:03:29 AM",
+    "lastSeenTime": "10:59:32 AM",
+    "onlineDurationMins": 56.05063333333333
+  },
+  "strongbotofstrongest@lichess": {
+    "id": "strongbotofstrongest",
+    "provider": "lichess",
+    "username": "STRONGBOTOFSTRONGEST",
+    "firstSeen": 1613041120024,
+    "lastSeen": 1613041144253,
+    "firstSeenTime": "10:58:40 AM",
+    "lastSeenTime": "10:59:04 AM",
+    "onlineDurationMins": 0.40381666666666666
+  },
+  "aa_developement_pro@lichess": {
+    "id": "aa_developement_pro",
+    "provider": "lichess",
+    "username": "AA_Developement_PRO",
+    "firstSeen": 1613041983101,
+    "lastSeen": 1613042011754,
+    "firstSeenTime": "11:13:03 AM",
+    "lastSeenTime": "11:13:31 AM",
+    "onlineDurationMins": 0.47755
+  },
+  "pinni-bot@lichess": {
+    "id": "pinni-bot",
+    "provider": "lichess",
+    "username": "Pinni-BOT",
+    "firstSeen": 1613042035072,
+    "lastSeen": 1613042035072
+  }
+}
