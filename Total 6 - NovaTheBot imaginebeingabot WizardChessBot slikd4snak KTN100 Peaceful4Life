@@ -1,0 +1,59 @@
+{
+  "novathebot@lichess": {
+    "id": "novathebot",
+    "provider": "lichess",
+    "username": "NovaTheBot",
+    "firstSeen": 1613073324965,
+    "lastSeen": 1613075347621,
+    "firstSeenTime": "7:55:24 PM",
+    "lastSeenTime": "8:28:44 PM",
+    "onlineDurationMins": 33.3234
+  },
+  "imaginebeingabot@lichess": {
+    "id": "imaginebeingabot",
+    "provider": "lichess",
+    "username": "imaginebeingabot",
+    "firstSeen": 1613073345249,
+    "lastSeen": 1613075241724,
+    "firstSeenTime": "7:55:45 PM",
+    "lastSeenTime": "8:27:21 PM",
+    "onlineDurationMins": 31.607916666666668
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1613073449146,
+    "lastSeen": 1613075309220,
+    "firstSeenTime": "7:57:29 PM",
+    "lastSeenTime": "8:28:29 PM",
+    "onlineDurationMins": 31.00123333333333
+  },
+  "slikd4snak@lichess": {
+    "id": "slikd4snak",
+    "provider": "lichess",
+    "username": "slikd4snak",
+    "firstSeen": 1613073474640,
+    "lastSeen": 1613075337964,
+    "firstSeenTime": "7:57:54 PM",
+    "lastSeenTime": "8:28:54 PM",
+    "onlineDurationMins": 31.000616666666666
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1613073600772,
+    "lastSeen": 1613075344175,
+    "firstSeenTime": "8:00:00 PM",
+    "lastSeenTime": "8:28:26 PM",
+    "onlineDurationMins": 28.4346
+  },
+  "peaceful4life@lichess": {
+    "id": "peaceful4life",
+    "provider": "lichess",
+    "username": "Peaceful4Life",
+    "firstSeen": 1613075348073,
+    "lastSeen": 1613075348073
+  }
+}
