@@ -1,0 +1,62 @@
+{
+  "alifishv1@lichess": {
+    "id": "alifishv1",
+    "provider": "lichess",
+    "username": "alifishv1",
+    "firstSeen": 1613063156878,
+    "lastSeen": 1613068442802,
+    "firstSeenTime": "5:05:56 PM",
+    "lastSeenTime": "6:32:40 PM",
+    "onlineDurationMins": 86.72988333333333
+  },
+  "wscc6d12@lichess": {
+    "id": "wscc6d12",
+    "provider": "lichess",
+    "username": "WSCC6D12",
+    "firstSeen": 1613064273207,
+    "lastSeen": 1613068081359,
+    "firstSeenTime": "5:24:33 PM",
+    "lastSeenTime": "6:28:01 PM",
+    "onlineDurationMins": 63.4692
+  },
+  "wscc6d15@lichess": {
+    "id": "wscc6d15",
+    "provider": "lichess",
+    "username": "wscc6d15",
+    "firstSeen": 1613064310143,
+    "lastSeen": 1613068132622,
+    "firstSeenTime": "5:25:10 PM",
+    "lastSeenTime": "6:28:52 PM",
+    "onlineDurationMins": 63.70798333333333
+  },
+  "strongbotofstrongest@lichess": {
+    "id": "strongbotofstrongest",
+    "provider": "lichess",
+    "username": "STRONGBOTOFSTRONGEST",
+    "firstSeen": 1613064900564,
+    "lastSeen": 1613068373310,
+    "firstSeenTime": "5:35:00 PM",
+    "lastSeenTime": "6:27:01 PM",
+    "onlineDurationMins": 52.012283333333336
+  },
+  "cookieswithcream@lichess": {
+    "id": "cookieswithcream",
+    "provider": "lichess",
+    "username": "CookiesWithCream",
+    "firstSeen": 1613066825178,
+    "lastSeen": 1613067732896,
+    "firstSeenTime": "6:07:05 PM",
+    "lastSeenTime": "6:22:12 PM",
+    "onlineDurationMins": 15.128633333333333
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1613067895746,
+    "lastSeen": 1613068015757,
+    "firstSeenTime": "6:24:55 PM",
+    "lastSeenTime": "6:26:55 PM",
+    "onlineDurationMins": 2.000183333333333
+  }
+}
