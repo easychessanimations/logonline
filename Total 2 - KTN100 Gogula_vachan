@@ -1,0 +1,22 @@
+{
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1613050420777,
+    "lastSeen": 1613062374521,
+    "firstSeenTime": "1:33:40 PM",
+    "lastSeenTime": "4:52:54 PM",
+    "onlineDurationMins": 199.22906666666665
+  },
+  "gogula_vachan@lichess": {
+    "id": "gogula_vachan",
+    "provider": "lichess",
+    "username": "Gogula_vachan",
+    "firstSeen": 1613061498397,
+    "lastSeen": 1613062098280,
+    "firstSeenTime": "4:38:18 PM",
+    "lastSeenTime": "4:48:18 PM",
+    "onlineDurationMins": 9.99805
+  }
+}
