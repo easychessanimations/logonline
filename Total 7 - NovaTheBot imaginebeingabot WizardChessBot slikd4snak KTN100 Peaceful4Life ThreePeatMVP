@@ -1,0 +1,69 @@
+{
+  "novathebot@lichess": {
+    "id": "novathebot",
+    "provider": "lichess",
+    "username": "NovaTheBot",
+    "firstSeen": 1613073324965,
+    "lastSeen": 1613075594861,
+    "firstSeenTime": "7:55:24 PM",
+    "lastSeenTime": "8:32:52 PM",
+    "onlineDurationMins": 37.4631
+  },
+  "imaginebeingabot@lichess": {
+    "id": "imaginebeingabot",
+    "provider": "lichess",
+    "username": "imaginebeingabot",
+    "firstSeen": 1613073345249,
+    "lastSeen": 1613075404308,
+    "firstSeenTime": "7:55:45 PM",
+    "lastSeenTime": "8:30:04 PM",
+    "onlineDurationMins": 34.31765
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1613073449146,
+    "lastSeen": 1613075564234,
+    "firstSeenTime": "7:57:29 PM",
+    "lastSeenTime": "8:32:44 PM",
+    "onlineDurationMins": 35.251466666666666
+  },
+  "slikd4snak@lichess": {
+    "id": "slikd4snak",
+    "provider": "lichess",
+    "username": "slikd4snak",
+    "firstSeen": 1613073474640,
+    "lastSeen": 1613075404142,
+    "firstSeenTime": "7:57:54 PM",
+    "lastSeenTime": "8:30:04 PM",
+    "onlineDurationMins": 32.158366666666666
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1613073600772,
+    "lastSeen": 1613075546879,
+    "firstSeenTime": "8:00:00 PM",
+    "lastSeenTime": "8:32:26 PM",
+    "onlineDurationMins": 32.435116666666666
+  },
+  "peaceful4life@lichess": {
+    "id": "peaceful4life",
+    "provider": "lichess",
+    "username": "Peaceful4Life",
+    "firstSeen": 1613075348073,
+    "lastSeen": 1613075405380,
+    "firstSeenTime": "8:29:08 PM",
+    "lastSeenTime": "8:30:05 PM",
+    "onlineDurationMins": 0.9551166666666666
+  },
+  "threepeatmvp@lichess": {
+    "id": "threepeatmvp",
+    "provider": "lichess",
+    "username": "ThreePeatMVP",
+    "firstSeen": 1613075600512,
+    "lastSeen": 1613075600512
+  }
+}
