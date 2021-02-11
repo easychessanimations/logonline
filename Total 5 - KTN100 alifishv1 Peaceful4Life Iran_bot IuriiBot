@@ -1,0 +1,49 @@
+{
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1613050420777,
+    "lastSeen": 1613062856933,
+    "firstSeenTime": "1:33:40 PM",
+    "lastSeenTime": "5:00:56 PM",
+    "onlineDurationMins": 207.26926666666665
+  },
+  "alifishv1@lichess": {
+    "id": "alifishv1",
+    "provider": "lichess",
+    "username": "alifishv1",
+    "firstSeen": 1613063156878,
+    "lastSeen": 1613063723055,
+    "firstSeenTime": "5:05:56 PM",
+    "lastSeenTime": "5:14:22 PM",
+    "onlineDurationMins": 8.42765
+  },
+  "peaceful4life@lichess": {
+    "id": "peaceful4life",
+    "provider": "lichess",
+    "username": "Peaceful4Life",
+    "firstSeen": 1613063247994,
+    "lastSeen": 1613063709260,
+    "firstSeenTime": "5:07:27 PM",
+    "lastSeenTime": "5:10:24 PM",
+    "onlineDurationMins": 2.9443333333333332
+  },
+  "iran_bot@lichess": {
+    "id": "iran_bot",
+    "provider": "lichess",
+    "username": "Iran_bot",
+    "firstSeen": 1613063469458,
+    "lastSeen": 1613063578815,
+    "firstSeenTime": "5:11:09 PM",
+    "lastSeenTime": "5:12:58 PM",
+    "onlineDurationMins": 1.8226166666666668
+  },
+  "iuriibot@lichess": {
+    "id": "iuriibot",
+    "provider": "lichess",
+    "username": "IuriiBot",
+    "firstSeen": 1613063723247,
+    "lastSeen": 1613063723247
+  }
+}
