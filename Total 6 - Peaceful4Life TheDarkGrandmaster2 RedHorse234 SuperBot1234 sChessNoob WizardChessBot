@@ -1,0 +1,59 @@
+{
+  "peaceful4life@lichess": {
+    "id": "peaceful4life",
+    "provider": "lichess",
+    "username": "Peaceful4Life",
+    "firstSeen": 1613117692700,
+    "lastSeen": 1613127485662,
+    "firstSeenTime": "8:14:52 AM",
+    "lastSeenTime": "10:56:13 AM",
+    "onlineDurationMins": 161.33881666666667
+  },
+  "thedarkgrandmaster2@lichess": {
+    "id": "thedarkgrandmaster2",
+    "provider": "lichess",
+    "username": "TheDarkGrandmaster2",
+    "firstSeen": 1613124455474,
+    "lastSeen": 1613127364590,
+    "firstSeenTime": "10:07:35 AM",
+    "lastSeenTime": "10:56:04 AM",
+    "onlineDurationMins": 48.48526666666667
+  },
+  "redhorse234@lichess": {
+    "id": "redhorse234",
+    "provider": "lichess",
+    "username": "RedHorse234",
+    "firstSeen": 1613126824788,
+    "lastSeen": 1613127364718,
+    "firstSeenTime": "10:47:04 AM",
+    "lastSeenTime": "10:56:04 AM",
+    "onlineDurationMins": 8.998833333333334
+  },
+  "superbot1234@lichess": {
+    "id": "superbot1234",
+    "provider": "lichess",
+    "username": "SuperBot1234",
+    "firstSeen": 1613127314594,
+    "lastSeen": 1613127500787,
+    "firstSeenTime": "10:55:14 AM",
+    "lastSeenTime": "10:57:40 AM",
+    "onlineDurationMins": 2.4274666666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1613127337930,
+    "lastSeen": 1613127460340,
+    "firstSeenTime": "10:55:37 AM",
+    "lastSeenTime": "10:57:40 AM",
+    "onlineDurationMins": 2.0401666666666665
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1613127524901,
+    "lastSeen": 1613127524901
+  }
+}
