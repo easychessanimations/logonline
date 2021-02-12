@@ -1,0 +1,63 @@
+{
+  "peaceful4life@lichess": {
+    "id": "peaceful4life",
+    "provider": "lichess",
+    "username": "Peaceful4Life",
+    "firstSeen": 1613117692700,
+    "lastSeen": 1613121855395,
+    "firstSeenTime": "8:14:52 AM",
+    "lastSeenTime": "9:12:29 AM",
+    "onlineDurationMins": 57.61853333333333
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1613119484476,
+    "lastSeen": 1613121611249,
+    "firstSeenTime": "8:44:44 AM",
+    "lastSeenTime": "9:09:46 AM",
+    "onlineDurationMins": 25.0275
+  },
+  "fuejak01@lichess": {
+    "id": "fuejak01",
+    "provider": "lichess",
+    "username": "fuejak01",
+    "firstSeen": 1613119988217,
+    "lastSeen": 1613122101676,
+    "firstSeenTime": "8:53:08 AM",
+    "lastSeenTime": "9:16:49 AM",
+    "onlineDurationMins": 23.6805
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1613121228736,
+    "lastSeen": 1613121409092,
+    "firstSeenTime": "9:13:48 AM",
+    "lastSeenTime": "9:16:49 AM",
+    "onlineDurationMins": 3.005933333333333
+  },
+  "ananyachhabra12@lichess": {
+    "id": "ananyachhabra12",
+    "provider": "lichess",
+    "username": "Ananyachhabra12",
+    "firstSeen": 1613121500491,
+    "lastSeen": 1613121533744
+  },
+  "ananya_chhabra21@lichess": {
+    "id": "ananya_chhabra21",
+    "provider": "lichess",
+    "username": "Ananya_chhabra21",
+    "firstSeen": 1613121534719,
+    "lastSeen": 1613121682813
+  },
+  "welcome_bot@lichess": {
+    "id": "welcome_bot",
+    "provider": "lichess",
+    "username": "Welcome_Bot",
+    "firstSeen": 1613122178719,
+    "lastSeen": 1613122178719
+  }
+}
