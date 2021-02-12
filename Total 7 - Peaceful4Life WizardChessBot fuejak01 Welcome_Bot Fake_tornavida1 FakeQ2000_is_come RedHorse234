@@ -1,0 +1,60 @@
+{
+  "peaceful4life@lichess": {
+    "id": "peaceful4life",
+    "provider": "lichess",
+    "username": "Peaceful4Life",
+    "firstSeen": 1613117692700,
+    "lastSeen": 1613122549891,
+    "firstSeenTime": "8:14:52 AM",
+    "lastSeenTime": "9:12:29 AM",
+    "onlineDurationMins": 57.61853333333333
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1613119484476,
+    "lastSeen": 1613122486218,
+    "firstSeenTime": "8:44:44 AM",
+    "lastSeenTime": "9:09:46 AM",
+    "onlineDurationMins": 25.0275
+  },
+  "fuejak01@lichess": {
+    "id": "fuejak01",
+    "provider": "lichess",
+    "username": "fuejak01",
+    "firstSeen": 1613119988217,
+    "lastSeen": 1613122281108,
+    "firstSeenTime": "8:53:08 AM",
+    "lastSeenTime": "9:16:49 AM",
+    "onlineDurationMins": 23.6805
+  },
+  "welcome_bot@lichess": {
+    "id": "welcome_bot",
+    "provider": "lichess",
+    "username": "Welcome_Bot",
+    "firstSeen": 1613122178719,
+    "lastSeen": 1613122212183
+  },
+  "fake_tornavida1@lichess": {
+    "id": "fake_tornavida1",
+    "provider": "lichess",
+    "username": "Fake_tornavida1",
+    "firstSeen": 1613122217570,
+    "lastSeen": 1613122260675
+  },
+  "fakeq2000_is_come@lichess": {
+    "id": "fakeq2000_is_come",
+    "provider": "lichess",
+    "username": "FakeQ2000_is_come",
+    "firstSeen": 1613122266417,
+    "lastSeen": 1613122291925
+  },
+  "redhorse234@lichess": {
+    "id": "redhorse234",
+    "provider": "lichess",
+    "username": "RedHorse234",
+    "firstSeen": 1613122765248,
+    "lastSeen": 1613122765248
+  }
+}
