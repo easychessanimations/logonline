@@ -1,0 +1,40 @@
+{
+  "peaceful4life@lichess": {
+    "id": "peaceful4life",
+    "provider": "lichess",
+    "username": "Peaceful4Life",
+    "firstSeen": 1613117692700,
+    "lastSeen": 1613132818807,
+    "firstSeenTime": "8:14:52 AM",
+    "lastSeenTime": "10:56:13 AM",
+    "onlineDurationMins": 161.33881666666667
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1613127524901,
+    "lastSeen": 1613132807829
+  },
+  "redhorse234@lichess": {
+    "id": "redhorse234",
+    "provider": "lichess",
+    "username": "RedHorse234",
+    "firstSeen": 1613130466169,
+    "lastSeen": 1613132746518
+  },
+  "artificialgenius@lichess": {
+    "id": "artificialgenius",
+    "provider": "lichess",
+    "username": "ArtificialGenius",
+    "firstSeen": 1613131410510,
+    "lastSeen": 1613132072306
+  },
+  "johan201023_twitch@lichess": {
+    "id": "johan201023_twitch",
+    "provider": "lichess",
+    "username": "Johan201023_Twitch",
+    "firstSeen": 1613132838584,
+    "lastSeen": 1613132838584
+  }
+}
