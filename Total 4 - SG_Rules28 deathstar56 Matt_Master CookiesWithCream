@@ -1,0 +1,33 @@
+{
+  "sg_rules28@lichess": {
+    "id": "sg_rules28",
+    "provider": "lichess",
+    "username": "SG_Rules28",
+    "firstSeen": 1613161790859,
+    "lastSeen": 1613171127686,
+    "firstSeenTime": "8:29:50 PM",
+    "lastSeenTime": "10:02:18 PM",
+    "onlineDurationMins": 92.46236666666667
+  },
+  "deathstar56@lichess": {
+    "id": "deathstar56",
+    "provider": "lichess",
+    "username": "deathstar56",
+    "firstSeen": 1613167727634,
+    "lastSeen": 1613171006356
+  },
+  "matt_master@lichess": {
+    "id": "matt_master",
+    "provider": "lichess",
+    "username": "Matt_Master",
+    "firstSeen": 1613168936689,
+    "lastSeen": 1613171218563
+  },
+  "cookieswithcream@lichess": {
+    "id": "cookieswithcream",
+    "provider": "lichess",
+    "username": "CookiesWithCream",
+    "firstSeen": 1613169201433,
+    "lastSeen": 1613171248885
+  }
+}
