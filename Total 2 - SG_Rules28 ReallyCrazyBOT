@@ -1,0 +1,22 @@
+{
+  "sg_rules28@lichess": {
+    "id": "sg_rules28",
+    "provider": "lichess",
+    "username": "SG_Rules28",
+    "firstSeen": 1613161790859,
+    "lastSeen": 1613166627590,
+    "firstSeenTime": "8:29:50 PM",
+    "lastSeenTime": "9:38:43 PM",
+    "onlineDurationMins": 68.8804
+  },
+  "reallycrazybot@lichess": {
+    "id": "reallycrazybot",
+    "provider": "lichess",
+    "username": "ReallyCrazyBOT",
+    "firstSeen": 1613163362998,
+    "lastSeen": 1613166581825,
+    "firstSeenTime": "8:56:02 PM",
+    "lastSeenTime": "9:37:41 PM",
+    "onlineDurationMins": 41.647866666666665
+  }
+}
