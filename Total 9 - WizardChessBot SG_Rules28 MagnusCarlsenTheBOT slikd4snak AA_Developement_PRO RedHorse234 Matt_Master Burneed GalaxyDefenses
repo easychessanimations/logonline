@@ -1,0 +1,71 @@
+{
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1613140297203,
+    "lastSeen": 1613150481125,
+    "firstSeenTime": "2:31:37 PM",
+    "lastSeenTime": "4:02:00 PM",
+    "onlineDurationMins": 90.39226666666667
+  },
+  "sg_rules28@lichess": {
+    "id": "sg_rules28",
+    "provider": "lichess",
+    "username": "SG_Rules28",
+    "firstSeen": 1613144020871,
+    "lastSeen": 1613150507589,
+    "firstSeenTime": "3:33:40 PM",
+    "lastSeenTime": "4:05:32 PM",
+    "onlineDurationMins": 31.866533333333333
+  },
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1613146172495,
+    "lastSeen": 1613150480667
+  },
+  "slikd4snak@lichess": {
+    "id": "slikd4snak",
+    "provider": "lichess",
+    "username": "slikd4snak",
+    "firstSeen": 1613146938651,
+    "lastSeen": 1613150484482
+  },
+  "aa_developement_pro@lichess": {
+    "id": "aa_developement_pro",
+    "provider": "lichess",
+    "username": "AA_Developement_PRO",
+    "firstSeen": 1613148755623,
+    "lastSeen": 1613150090168
+  },
+  "redhorse234@lichess": {
+    "id": "redhorse234",
+    "provider": "lichess",
+    "username": "RedHorse234",
+    "firstSeen": 1613149584233,
+    "lastSeen": 1613150398454
+  },
+  "matt_master@lichess": {
+    "id": "matt_master",
+    "provider": "lichess",
+    "username": "Matt_Master",
+    "firstSeen": 1613150147967,
+    "lastSeen": 1613150311034
+  },
+  "burneed@lichess": {
+    "id": "burneed",
+    "provider": "lichess",
+    "username": "Burneed",
+    "firstSeen": 1613150407182,
+    "lastSeen": 1613150499109
+  },
+  "galaxydefenses@lichess": {
+    "id": "galaxydefenses",
+    "provider": "lichess",
+    "username": "GalaxyDefenses",
+    "firstSeen": 1613150508965,
+    "lastSeen": 1613150508965
+  }
+}
