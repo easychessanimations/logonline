@@ -1,0 +1,26 @@
+{
+  "sg_rules28@lichess": {
+    "id": "sg_rules28",
+    "provider": "lichess",
+    "username": "SG_Rules28",
+    "firstSeen": 1613161790859,
+    "lastSeen": 1613168106720,
+    "firstSeenTime": "8:29:50 PM",
+    "lastSeenTime": "10:02:18 PM",
+    "onlineDurationMins": 92.46236666666667
+  },
+  "deathstar56@lichess": {
+    "id": "deathstar56",
+    "provider": "lichess",
+    "username": "deathstar56",
+    "firstSeen": 1613167727634,
+    "lastSeen": 1613168239678
+  },
+  "sabbalisha@lichess": {
+    "id": "sabbalisha",
+    "provider": "lichess",
+    "username": "SABBAlisha",
+    "firstSeen": 1613167930126,
+    "lastSeen": 1613167939513
+  }
+}
