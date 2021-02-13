@@ -1,0 +1,36 @@
+{
+  "officialchesstv@lichess": {
+    "id": "officialchesstv",
+    "provider": "lichess",
+    "username": "OfficialChessTV",
+    "firstSeen": 1613197873330,
+    "lastSeen": 1613203230271,
+    "firstSeenTime": "6:31:13 AM",
+    "lastSeenTime": "7:21:36 AM",
+    "onlineDurationMins": 50.38003333333333
+  },
+  "sg_rules28@lichess": {
+    "id": "sg_rules28",
+    "provider": "lichess",
+    "username": "SG_Rules28",
+    "firstSeen": 1613199804778,
+    "lastSeen": 1613203465850,
+    "firstSeenTime": "7:03:24 AM",
+    "lastSeenTime": "7:15:08 AM",
+    "onlineDurationMins": 11.728383333333333
+  },
+  "chessmaster-bot@lichess": {
+    "id": "chessmaster-bot",
+    "provider": "lichess",
+    "username": "ChessMaster-BOT",
+    "firstSeen": 1613203604924,
+    "lastSeen": 1613203650004
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1613203650572,
+    "lastSeen": 1613203650572
+  }
+}
