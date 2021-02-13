@@ -1,0 +1,23 @@
+{
+  "chessmaster-bot@lichess": {
+    "id": "chessmaster-bot",
+    "provider": "lichess",
+    "username": "ChessMaster-BOT",
+    "firstSeen": 1613203604924,
+    "lastSeen": 1613206324530
+  },
+  "chesschampionbot@lichess": {
+    "id": "chesschampionbot",
+    "provider": "lichess",
+    "username": "ChessChampionBOT",
+    "firstSeen": 1613206470982,
+    "lastSeen": 1613207075356
+  },
+  "dragonchessengine@lichess": {
+    "id": "dragonchessengine",
+    "provider": "lichess",
+    "username": "DragonChessEngine",
+    "firstSeen": 1613207078469,
+    "lastSeen": 1613207078469
+  }
+}
