@@ -1,0 +1,22 @@
+{
+  "sg_rules28@lichess": {
+    "id": "sg_rules28",
+    "provider": "lichess",
+    "username": "SG_Rules28",
+    "firstSeen": 1613195427247,
+    "lastSeen": 1613198646219,
+    "firstSeenTime": "5:50:27 AM",
+    "lastSeenTime": "6:44:06 AM",
+    "onlineDurationMins": 53.64953333333333
+  },
+  "officialchesstv@lichess": {
+    "id": "officialchesstv",
+    "provider": "lichess",
+    "username": "OfficialChessTV",
+    "firstSeen": 1613197873330,
+    "lastSeen": 1613199354313,
+    "firstSeenTime": "6:31:13 AM",
+    "lastSeenTime": "6:55:54 AM",
+    "onlineDurationMins": 24.68305
+  }
+}
