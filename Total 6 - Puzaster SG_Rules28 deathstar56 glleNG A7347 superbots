@@ -1,0 +1,59 @@
+{
+  "puzaster@lichess": {
+    "id": "puzaster",
+    "provider": "lichess",
+    "username": "Puzaster",
+    "firstSeen": 1613226051471,
+    "lastSeen": 1613236711676,
+    "firstSeenTime": "2:20:51 PM",
+    "lastSeenTime": "5:18:31 PM",
+    "onlineDurationMins": 177.67008333333334
+  },
+  "sg_rules28@lichess": {
+    "id": "sg_rules28",
+    "provider": "lichess",
+    "username": "SG_Rules28",
+    "firstSeen": 1613227436061,
+    "lastSeen": 1613236942166,
+    "firstSeenTime": "2:43:56 PM",
+    "lastSeenTime": "5:22:22 PM",
+    "onlineDurationMins": 158.43508333333332
+  },
+  "deathstar56@lichess": {
+    "id": "deathstar56",
+    "provider": "lichess",
+    "username": "deathstar56",
+    "firstSeen": 1613231605001,
+    "lastSeen": 1613236416179,
+    "firstSeenTime": "3:53:25 PM",
+    "lastSeenTime": "5:13:36 PM",
+    "onlineDurationMins": 80.1863
+  },
+  "glleng@lichess": {
+    "id": "glleng",
+    "provider": "lichess",
+    "username": "glleNG",
+    "firstSeen": 1613233186793,
+    "lastSeen": 1613236566545,
+    "firstSeenTime": "4:19:46 PM",
+    "lastSeenTime": "5:16:06 PM",
+    "onlineDurationMins": 56.3292
+  },
+  "a7347@lichess": {
+    "id": "a7347",
+    "provider": "lichess",
+    "username": "A7347",
+    "firstSeen": 1613233806289,
+    "lastSeen": 1613236929639,
+    "firstSeenTime": "4:30:06 PM",
+    "lastSeenTime": "5:22:09 PM",
+    "onlineDurationMins": 52.05583333333333
+  },
+  "superbots@lichess": {
+    "id": "superbots",
+    "provider": "lichess",
+    "username": "superbots",
+    "firstSeen": 1613237018089,
+    "lastSeen": 1613237018089
+  }
+}
