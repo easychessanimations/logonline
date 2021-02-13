@@ -1,0 +1,23 @@
+{
+  "sg_rules28@lichess": {
+    "id": "sg_rules28",
+    "provider": "lichess",
+    "username": "SG_Rules28",
+    "firstSeen": 1613191956941,
+    "lastSeen": 1613193439613
+  },
+  "kinglm_2007@lichess": {
+    "id": "kinglm_2007",
+    "provider": "lichess",
+    "username": "kingLM_2007",
+    "firstSeen": 1613192929884,
+    "lastSeen": 1613192946272
+  },
+  "attack2007@lichess": {
+    "id": "attack2007",
+    "provider": "lichess",
+    "username": "attack2007",
+    "firstSeen": 1613193763755,
+    "lastSeen": 1613193763755
+  }
+}
