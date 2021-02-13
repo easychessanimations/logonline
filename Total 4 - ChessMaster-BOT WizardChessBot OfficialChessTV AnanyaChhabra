@@ -1,0 +1,30 @@
+{
+  "chessmaster-bot@lichess": {
+    "id": "chessmaster-bot",
+    "provider": "lichess",
+    "username": "ChessMaster-BOT",
+    "firstSeen": 1613203604924,
+    "lastSeen": 1613205537279
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1613203650572,
+    "lastSeen": 1613205504279
+  },
+  "officialchesstv@lichess": {
+    "id": "officialchesstv",
+    "provider": "lichess",
+    "username": "OfficialChessTV",
+    "firstSeen": 1613204300795,
+    "lastSeen": 1613205508325
+  },
+  "ananyachhabra@lichess": {
+    "id": "ananyachhabra",
+    "provider": "lichess",
+    "username": "AnanyaChhabra",
+    "firstSeen": 1613204977347,
+    "lastSeen": 1613205024221
+  }
+}
