@@ -1,0 +1,29 @@
+{
+  "banbugboy@lichess": {
+    "id": "banbugboy",
+    "provider": "lichess",
+    "username": "banbugboy",
+    "firstSeen": 1613194152655,
+    "lastSeen": 1613197698355,
+    "firstSeenTime": "5:29:12 AM",
+    "lastSeenTime": "6:19:16 AM",
+    "onlineDurationMins": 50.064683333333335
+  },
+  "sg_rules28@lichess": {
+    "id": "sg_rules28",
+    "provider": "lichess",
+    "username": "SG_Rules28",
+    "firstSeen": 1613195427247,
+    "lastSeen": 1613197747849,
+    "firstSeenTime": "5:50:27 AM",
+    "lastSeenTime": "6:17:23 AM",
+    "onlineDurationMins": 26.942933333333333
+  },
+  "officialchesstv@lichess": {
+    "id": "officialchesstv",
+    "provider": "lichess",
+    "username": "OfficialChessTV",
+    "firstSeen": 1613197873330,
+    "lastSeen": 1613197873330
+  }
+}
