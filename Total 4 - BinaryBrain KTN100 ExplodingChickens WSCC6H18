@@ -1,0 +1,33 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1613324623002,
+    "lastSeen": 1613335663043,
+    "firstSeenTime": "5:43:43 PM",
+    "lastSeenTime": "6:42:43 PM",
+    "onlineDurationMins": 59.000366666666665
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1613332713454,
+    "lastSeen": 1613335296823
+  },
+  "explodingchickens@lichess": {
+    "id": "explodingchickens",
+    "provider": "lichess",
+    "username": "ExplodingChickens",
+    "firstSeen": 1613335055162,
+    "lastSeen": 1613335132132
+  },
+  "wscc6h18@lichess": {
+    "id": "wscc6h18",
+    "provider": "lichess",
+    "username": "WSCC6H18",
+    "firstSeen": 1613335749727,
+    "lastSeen": 1613335749727
+  }
+}
