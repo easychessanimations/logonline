@@ -1,0 +1,26 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1613283748441,
+    "lastSeen": 1613299093626,
+    "firstSeenTime": "6:22:28 AM",
+    "lastSeenTime": "7:12:31 AM",
+    "onlineDurationMins": 50.05396666666667
+  },
+  "dragonchessengine@lichess": {
+    "id": "dragonchessengine",
+    "provider": "lichess",
+    "username": "DragonChessEngine",
+    "firstSeen": 1613297432298,
+    "lastSeen": 1613299260739
+  },
+  "chesschampionbot@lichess": {
+    "id": "chesschampionbot",
+    "provider": "lichess",
+    "username": "ChessChampionBOT",
+    "firstSeen": 1613297446739,
+    "lastSeen": 1613299187174
+  }
+}
