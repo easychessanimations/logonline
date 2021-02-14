@@ -1,0 +1,39 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1613299389481,
+    "lastSeen": 1613309983007,
+    "firstSeenTime": "10:43:09 AM",
+    "lastSeenTime": "1:04:46 PM",
+    "onlineDurationMins": 141.62391666666667
+  },
+  "slikd4snak@lichess": {
+    "id": "slikd4snak",
+    "provider": "lichess",
+    "username": "slikd4snak",
+    "firstSeen": 1613302569801,
+    "lastSeen": 1613309996742,
+    "firstSeenTime": "11:36:09 AM",
+    "lastSeenTime": "1:05:00 PM",
+    "onlineDurationMins": 88.83725
+  },
+  "supergmypfwilde@lichess": {
+    "id": "supergmypfwilde",
+    "provider": "lichess",
+    "username": "supergmypfwilde",
+    "firstSeen": 1613305883280,
+    "lastSeen": 1613309802411,
+    "firstSeenTime": "12:31:23 PM",
+    "lastSeenTime": "1:14:39 PM",
+    "onlineDurationMins": 43.2625
+  },
+  "sg_rules28@lichess": {
+    "id": "sg_rules28",
+    "provider": "lichess",
+    "username": "SG_Rules28",
+    "firstSeen": 1613309973418,
+    "lastSeen": 1613309974034
+  }
+}
