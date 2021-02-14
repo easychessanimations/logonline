@@ -1,0 +1,39 @@
+{
+  "puzaster@lichess": {
+    "id": "puzaster",
+    "provider": "lichess",
+    "username": "Puzaster",
+    "firstSeen": 1613310438372,
+    "lastSeen": 1613329521622,
+    "firstSeenTime": "1:47:18 PM",
+    "lastSeenTime": "6:43:21 PM",
+    "onlineDurationMins": 296.0536
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1613316940419,
+    "lastSeen": 1613329493656,
+    "firstSeenTime": "3:35:40 PM",
+    "lastSeenTime": "6:42:53 PM",
+    "onlineDurationMins": 187.21258333333333
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1613324623002,
+    "lastSeen": 1613329486352,
+    "firstSeenTime": "5:43:43 PM",
+    "lastSeenTime": "6:42:43 PM",
+    "onlineDurationMins": 59.000366666666665
+  },
+  "glleng@lichess": {
+    "id": "glleng",
+    "provider": "lichess",
+    "username": "glleNG",
+    "firstSeen": 1613328300554,
+    "lastSeen": 1613329205178
+  }
+}
