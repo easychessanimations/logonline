@@ -1,0 +1,26 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1613324623002,
+    "lastSeen": 1613337586836,
+    "firstSeenTime": "5:43:43 PM",
+    "lastSeenTime": "6:42:43 PM",
+    "onlineDurationMins": 59.000366666666665
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1613332713454,
+    "lastSeen": 1613337333571
+  },
+  "chessengineroar@lichess": {
+    "id": "chessengineroar",
+    "provider": "lichess",
+    "username": "CHESSENGINEROAR",
+    "firstSeen": 1613337611829,
+    "lastSeen": 1613337611829
+  }
+}
