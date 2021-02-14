@@ -1,0 +1,40 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1613283748441,
+    "lastSeen": 1613297473614,
+    "firstSeenTime": "6:22:28 AM",
+    "lastSeenTime": "7:12:31 AM",
+    "onlineDurationMins": 50.05396666666667
+  },
+  "mysterymanchess@lichess": {
+    "id": "mysterymanchess",
+    "provider": "lichess",
+    "username": "MysteryManChess",
+    "firstSeen": 1613295222686,
+    "lastSeen": 1613297654086
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1613297105673,
+    "lastSeen": 1613297772979
+  },
+  "dragonchessengine@lichess": {
+    "id": "dragonchessengine",
+    "provider": "lichess",
+    "username": "DragonChessEngine",
+    "firstSeen": 1613297432298,
+    "lastSeen": 1613297966032
+  },
+  "chesschampionbot@lichess": {
+    "id": "chesschampionbot",
+    "provider": "lichess",
+    "username": "ChessChampionBOT",
+    "firstSeen": 1613297446739,
+    "lastSeen": 1613298002830
+  }
+}
