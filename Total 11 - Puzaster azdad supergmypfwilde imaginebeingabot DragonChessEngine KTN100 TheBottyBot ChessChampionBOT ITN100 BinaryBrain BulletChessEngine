@@ -1,0 +1,112 @@
+{
+  "puzaster@lichess": {
+    "id": "puzaster",
+    "provider": "lichess",
+    "username": "Puzaster",
+    "firstSeen": 1613310438372,
+    "lastSeen": 1613325501599,
+    "firstSeenTime": "1:47:18 PM",
+    "lastSeenTime": "5:58:21 PM",
+    "onlineDurationMins": 251.05378333333334
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1613316940419,
+    "lastSeen": 1613325473162,
+    "firstSeenTime": "3:35:40 PM",
+    "lastSeenTime": "5:57:53 PM",
+    "onlineDurationMins": 142.21238333333332
+  },
+  "supergmypfwilde@lichess": {
+    "id": "supergmypfwilde",
+    "provider": "lichess",
+    "username": "supergmypfwilde",
+    "firstSeen": 1613317278705,
+    "lastSeen": 1613325494743,
+    "firstSeenTime": "3:41:18 PM",
+    "lastSeenTime": "5:58:14 PM",
+    "onlineDurationMins": 136.93396666666666
+  },
+  "imaginebeingabot@lichess": {
+    "id": "imaginebeingabot",
+    "provider": "lichess",
+    "username": "imaginebeingabot",
+    "firstSeen": 1613319222312,
+    "lastSeen": 1613325426131,
+    "firstSeenTime": "4:13:42 PM",
+    "lastSeenTime": "5:57:06 PM",
+    "onlineDurationMins": 103.39698333333334
+  },
+  "dragonchessengine@lichess": {
+    "id": "dragonchessengine",
+    "provider": "lichess",
+    "username": "DragonChessEngine",
+    "firstSeen": 1613320512099,
+    "lastSeen": 1613324846591,
+    "firstSeenTime": "4:35:12 PM",
+    "lastSeenTime": "5:47:26 PM",
+    "onlineDurationMins": 72.24153333333334
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1613322022251,
+    "lastSeen": 1613325077829,
+    "firstSeenTime": "5:00:22 PM",
+    "lastSeenTime": "5:51:17 PM",
+    "onlineDurationMins": 50.9263
+  },
+  "thebottybot@lichess": {
+    "id": "thebottybot",
+    "provider": "lichess",
+    "username": "TheBottyBot",
+    "firstSeen": 1613322340797,
+    "lastSeen": 1613325195316,
+    "firstSeenTime": "5:05:40 PM",
+    "lastSeenTime": "5:53:15 PM",
+    "onlineDurationMins": 47.575316666666666
+  },
+  "chesschampionbot@lichess": {
+    "id": "chesschampionbot",
+    "provider": "lichess",
+    "username": "ChessChampionBOT",
+    "firstSeen": 1613322870993,
+    "lastSeen": 1613324719890,
+    "firstSeenTime": "5:14:30 PM",
+    "lastSeenTime": "5:45:19 PM",
+    "onlineDurationMins": 30.81495
+  },
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1613323584313,
+    "lastSeen": 1613325184240,
+    "firstSeenTime": "5:26:24 PM",
+    "lastSeenTime": "5:53:04 PM",
+    "onlineDurationMins": 26.66545
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1613324623002,
+    "lastSeen": 1613325463293,
+    "firstSeenTime": "5:43:43 PM",
+    "lastSeenTime": "5:57:43 PM",
+    "onlineDurationMins": 14.00485
+  },
+  "bulletchessengine@lichess": {
+    "id": "bulletchessengine",
+    "provider": "lichess",
+    "username": "BulletChessEngine",
+    "firstSeen": 1613324727004,
+    "lastSeen": 1613325509288,
+    "firstSeenTime": "5:45:27 PM",
+    "lastSeenTime": "5:58:29 PM",
+    "onlineDurationMins": 13.038066666666667
+  }
+}
