@@ -1,0 +1,96 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1613299389481,
+    "lastSeen": 1613322883251,
+    "firstSeenTime": "10:43:09 AM",
+    "lastSeenTime": "5:02:43 PM",
+    "onlineDurationMins": 379.55903333333333
+  },
+  "puzaster@lichess": {
+    "id": "puzaster",
+    "provider": "lichess",
+    "username": "Puzaster",
+    "firstSeen": 1613310438372,
+    "lastSeen": 1613322921581,
+    "firstSeenTime": "1:47:18 PM",
+    "lastSeenTime": "5:03:24 PM",
+    "onlineDurationMins": 196.10573333333335
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1613316940419,
+    "lastSeen": 1613322960318,
+    "firstSeenTime": "3:35:40 PM",
+    "lastSeenTime": "5:06:46 PM",
+    "onlineDurationMins": 91.10416666666667
+  },
+  "supergmypfwilde@lichess": {
+    "id": "supergmypfwilde",
+    "provider": "lichess",
+    "username": "supergmypfwilde",
+    "firstSeen": 1613317278705,
+    "lastSeen": 1613322880924,
+    "firstSeenTime": "3:41:18 PM",
+    "lastSeenTime": "5:08:41 PM",
+    "onlineDurationMins": 87.38783333333333
+  },
+  "imaginebeingabot@lichess": {
+    "id": "imaginebeingabot",
+    "provider": "lichess",
+    "username": "imaginebeingabot",
+    "firstSeen": 1613319222312,
+    "lastSeen": 1613323012148,
+    "firstSeenTime": "4:13:42 PM",
+    "lastSeenTime": "5:08:35 PM",
+    "onlineDurationMins": 54.88401666666667
+  },
+  "dragonchessengine@lichess": {
+    "id": "dragonchessengine",
+    "provider": "lichess",
+    "username": "DragonChessEngine",
+    "firstSeen": 1613320512099,
+    "lastSeen": 1613323097674,
+    "firstSeenTime": "4:35:12 PM",
+    "lastSeenTime": "5:05:57 PM",
+    "onlineDurationMins": 30.751
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1613322022251,
+    "lastSeen": 1613322688166,
+    "firstSeenTime": "5:00:22 PM",
+    "lastSeenTime": "5:01:55 PM",
+    "onlineDurationMins": 1.5577
+  },
+  "thebottybot@lichess": {
+    "id": "thebottybot",
+    "provider": "lichess",
+    "username": "TheBottyBot",
+    "firstSeen": 1613322340797,
+    "lastSeen": 1613323184741,
+    "firstSeenTime": "5:05:40 PM",
+    "lastSeenTime": "5:07:29 PM",
+    "onlineDurationMins": 1.81435
+  },
+  "chesschampionbot@lichess": {
+    "id": "chesschampionbot",
+    "provider": "lichess",
+    "username": "ChessChampionBOT",
+    "firstSeen": 1613322870993,
+    "lastSeen": 1613323128815
+  },
+  "verkeerslig@lichess": {
+    "id": "verkeerslig",
+    "provider": "lichess",
+    "username": "Verkeerslig",
+    "firstSeen": 1613323120774,
+    "lastSeen": 1613323151472
+  }
+}
