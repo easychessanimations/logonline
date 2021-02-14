@@ -1,0 +1,33 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1613324623002,
+    "lastSeen": 1613339623016,
+    "firstSeenTime": "5:43:43 PM",
+    "lastSeenTime": "6:42:43 PM",
+    "onlineDurationMins": 59.000366666666665
+  },
+  "asan111144@lichess": {
+    "id": "asan111144",
+    "provider": "lichess",
+    "username": "Asan111144",
+    "firstSeen": 1613339146049,
+    "lastSeen": 1613340027715
+  },
+  "chess-master-1@lichess": {
+    "id": "chess-master-1",
+    "provider": "lichess",
+    "username": "chess-master-1",
+    "firstSeen": 1613339174229,
+    "lastSeen": 1613340108704
+  },
+  "jamesballdwin@lichess": {
+    "id": "jamesballdwin",
+    "provider": "lichess",
+    "username": "jamesballdwin",
+    "firstSeen": 1613339971005,
+    "lastSeen": 1613339974668
+  }
+}
