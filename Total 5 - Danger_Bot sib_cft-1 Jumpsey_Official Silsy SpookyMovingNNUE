@@ -1,0 +1,46 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1613283748441,
+    "lastSeen": 1613287355265,
+    "firstSeenTime": "6:22:28 AM",
+    "lastSeenTime": "7:12:31 AM",
+    "onlineDurationMins": 50.05396666666667
+  },
+  "sib_cft-1@lichess": {
+    "id": "sib_cft-1",
+    "provider": "lichess",
+    "username": "sib_cft-1",
+    "firstSeen": 1613286530474,
+    "lastSeen": 1613287544382,
+    "firstSeenTime": "7:08:50 AM",
+    "lastSeenTime": "7:12:49 AM",
+    "onlineDurationMins": 3.9917666666666665
+  },
+  "jumpsey_official@lichess": {
+    "id": "jumpsey_official",
+    "provider": "lichess",
+    "username": "Jumpsey_Official",
+    "firstSeen": 1613286575634,
+    "lastSeen": 1613287699696,
+    "firstSeenTime": "7:09:35 AM",
+    "lastSeenTime": "7:09:45 AM",
+    "onlineDurationMins": 0.1588
+  },
+  "693873001678110801@discord": {
+    "id": "693873001678110801",
+    "provider": "discord",
+    "username": "Silsy",
+    "firstSeen": 1613286823485,
+    "lastSeen": 1613287010357
+  },
+  "spookymovingnnue@lichess": {
+    "id": "spookymovingnnue",
+    "provider": "lichess",
+    "username": "SpookyMovingNNUE",
+    "firstSeen": 1613287708557,
+    "lastSeen": 1613287708557
+  }
+}
