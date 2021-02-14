@@ -1,0 +1,30 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1613299389481,
+    "lastSeen": 1613305063301
+  },
+  "slikd4snak@lichess": {
+    "id": "slikd4snak",
+    "provider": "lichess",
+    "username": "slikd4snak",
+    "firstSeen": 1613302569801,
+    "lastSeen": 1613304900014
+  },
+  "fritz2021_engine@lichess": {
+    "id": "fritz2021_engine",
+    "provider": "lichess",
+    "username": "Fritz2021_Engine",
+    "firstSeen": 1613304913428,
+    "lastSeen": 1613304957888
+  },
+  "championdjj2@lichess": {
+    "id": "championdjj2",
+    "provider": "lichess",
+    "username": "championDJJ2",
+    "firstSeen": 1613305110261,
+    "lastSeen": 1613305110261
+  }
+}
