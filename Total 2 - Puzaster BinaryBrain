@@ -1,0 +1,22 @@
+{
+  "puzaster@lichess": {
+    "id": "puzaster",
+    "provider": "lichess",
+    "username": "Puzaster",
+    "firstSeen": 1613310438372,
+    "lastSeen": 1613331501589,
+    "firstSeenTime": "1:47:18 PM",
+    "lastSeenTime": "6:43:21 PM",
+    "onlineDurationMins": 296.0536
+  },
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1613324623002,
+    "lastSeen": 1613331463037,
+    "firstSeenTime": "5:43:43 PM",
+    "lastSeenTime": "6:42:43 PM",
+    "onlineDurationMins": 59.000366666666665
+  }
+}
