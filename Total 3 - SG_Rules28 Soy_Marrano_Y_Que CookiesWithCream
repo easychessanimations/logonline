@@ -1,0 +1,26 @@
+{
+  "sg_rules28@lichess": {
+    "id": "sg_rules28",
+    "provider": "lichess",
+    "username": "SG_Rules28",
+    "firstSeen": 1613227436061,
+    "lastSeen": 1613262405313,
+    "firstSeenTime": "2:43:56 PM",
+    "lastSeenTime": "6:27:26 PM",
+    "onlineDurationMins": 223.50576666666666
+  },
+  "soy_marrano_y_que@lichess": {
+    "id": "soy_marrano_y_que",
+    "provider": "lichess",
+    "username": "Soy_Marrano_Y_Que",
+    "firstSeen": 1613260246470,
+    "lastSeen": 1613262357510
+  },
+  "cookieswithcream@lichess": {
+    "id": "cookieswithcream",
+    "provider": "lichess",
+    "username": "CookiesWithCream",
+    "firstSeen": 1613262099958,
+    "lastSeen": 1613262764842
+  }
+}
