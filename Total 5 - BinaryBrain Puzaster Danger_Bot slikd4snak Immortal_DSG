@@ -1,0 +1,46 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1613299389481,
+    "lastSeen": 1613315983027,
+    "firstSeenTime": "10:43:09 AM",
+    "lastSeenTime": "2:42:13 PM",
+    "onlineDurationMins": 239.06675
+  },
+  "puzaster@lichess": {
+    "id": "puzaster",
+    "provider": "lichess",
+    "username": "Puzaster",
+    "firstSeen": 1613310438372,
+    "lastSeen": 1613315421645,
+    "firstSeenTime": "1:47:18 PM",
+    "lastSeenTime": "2:42:24 PM",
+    "onlineDurationMins": 55.10593333333333
+  },
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1613313644074,
+    "lastSeen": 1613315995501,
+    "firstSeenTime": "2:40:44 PM",
+    "lastSeenTime": "2:40:58 PM",
+    "onlineDurationMins": 0.2413
+  },
+  "slikd4snak@lichess": {
+    "id": "slikd4snak",
+    "provider": "lichess",
+    "username": "slikd4snak",
+    "firstSeen": 1613314496791,
+    "lastSeen": 1613315276783
+  },
+  "immortal_dsg@lichess": {
+    "id": "immortal_dsg",
+    "provider": "lichess",
+    "username": "Immortal_DSG",
+    "firstSeen": 1613315926350,
+    "lastSeen": 1613316015336
+  }
+}
