@@ -1,0 +1,79 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1613299389481,
+    "lastSeen": 1613321506811,
+    "firstSeenTime": "10:43:09 AM",
+    "lastSeenTime": "4:51:46 PM",
+    "onlineDurationMins": 368.62216666666666
+  },
+  "puzaster@lichess": {
+    "id": "puzaster",
+    "provider": "lichess",
+    "username": "Puzaster",
+    "firstSeen": 1613310438372,
+    "lastSeen": 1613321544764,
+    "firstSeenTime": "1:47:18 PM",
+    "lastSeenTime": "4:52:24 PM",
+    "onlineDurationMins": 185.10653333333335
+  },
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1613313644074,
+    "lastSeen": 1613321515538,
+    "firstSeenTime": "2:40:44 PM",
+    "lastSeenTime": "4:51:55 PM",
+    "onlineDurationMins": 131.19106666666667
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1613316940419,
+    "lastSeen": 1613322002252,
+    "firstSeenTime": "3:35:40 PM",
+    "lastSeenTime": "4:52:08 PM",
+    "onlineDurationMins": 76.47345
+  },
+  "supergmypfwilde@lichess": {
+    "id": "supergmypfwilde",
+    "provider": "lichess",
+    "username": "supergmypfwilde",
+    "firstSeen": 1613317278705,
+    "lastSeen": 1613321870401,
+    "firstSeenTime": "3:41:18 PM",
+    "lastSeenTime": "4:57:50 PM",
+    "onlineDurationMins": 76.52826666666667
+  },
+  "imaginebeingabot@lichess": {
+    "id": "imaginebeingabot",
+    "provider": "lichess",
+    "username": "imaginebeingabot",
+    "firstSeen": 1613319222312,
+    "lastSeen": 1613322020900,
+    "firstSeenTime": "4:13:42 PM",
+    "lastSeenTime": "4:57:59 PM",
+    "onlineDurationMins": 44.2942
+  },
+  "dragonchessengine@lichess": {
+    "id": "dragonchessengine",
+    "provider": "lichess",
+    "username": "DragonChessEngine",
+    "firstSeen": 1613320512099,
+    "lastSeen": 1613322008562,
+    "firstSeenTime": "4:35:12 PM",
+    "lastSeenTime": "4:53:24 PM",
+    "onlineDurationMins": 18.201633333333334
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1613322022251,
+    "lastSeen": 1613322022251
+  }
+}
