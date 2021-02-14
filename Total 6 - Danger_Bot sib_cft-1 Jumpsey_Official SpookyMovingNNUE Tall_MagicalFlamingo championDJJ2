@@ -1,0 +1,53 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1613283748441,
+    "lastSeen": 1613288734617,
+    "firstSeenTime": "6:22:28 AM",
+    "lastSeenTime": "7:12:31 AM",
+    "onlineDurationMins": 50.05396666666667
+  },
+  "sib_cft-1@lichess": {
+    "id": "sib_cft-1",
+    "provider": "lichess",
+    "username": "sib_cft-1",
+    "firstSeen": 1613286530474,
+    "lastSeen": 1613288755705,
+    "firstSeenTime": "7:08:50 AM",
+    "lastSeenTime": "7:12:49 AM",
+    "onlineDurationMins": 3.9917666666666665
+  },
+  "jumpsey_official@lichess": {
+    "id": "jumpsey_official",
+    "provider": "lichess",
+    "username": "Jumpsey_Official",
+    "firstSeen": 1613286575634,
+    "lastSeen": 1613288691598,
+    "firstSeenTime": "7:09:35 AM",
+    "lastSeenTime": "7:09:45 AM",
+    "onlineDurationMins": 0.1588
+  },
+  "spookymovingnnue@lichess": {
+    "id": "spookymovingnnue",
+    "provider": "lichess",
+    "username": "SpookyMovingNNUE",
+    "firstSeen": 1613287708557,
+    "lastSeen": 1613288278730
+  },
+  "tall_magicalflamingo@lichess": {
+    "id": "tall_magicalflamingo",
+    "provider": "lichess",
+    "username": "Tall_MagicalFlamingo",
+    "firstSeen": 1613288378196,
+    "lastSeen": 1613288995512
+  },
+  "championdjj2@lichess": {
+    "id": "championdjj2",
+    "provider": "lichess",
+    "username": "championDJJ2",
+    "firstSeen": 1613289110051,
+    "lastSeen": 1613289110051
+  }
+}
