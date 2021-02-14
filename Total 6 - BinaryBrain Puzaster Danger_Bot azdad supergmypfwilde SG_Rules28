@@ -1,0 +1,53 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1613299389481,
+    "lastSeen": 1613317663319,
+    "firstSeenTime": "10:43:09 AM",
+    "lastSeenTime": "2:42:13 PM",
+    "onlineDurationMins": 239.06675
+  },
+  "puzaster@lichess": {
+    "id": "puzaster",
+    "provider": "lichess",
+    "username": "Puzaster",
+    "firstSeen": 1613310438372,
+    "lastSeen": 1613317718295,
+    "firstSeenTime": "1:47:18 PM",
+    "lastSeenTime": "2:42:24 PM",
+    "onlineDurationMins": 55.10593333333333
+  },
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1613313644074,
+    "lastSeen": 1613317075539,
+    "firstSeenTime": "2:40:44 PM",
+    "lastSeenTime": "2:40:58 PM",
+    "onlineDurationMins": 0.2413
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1613316940419,
+    "lastSeen": 1613317678977
+  },
+  "supergmypfwilde@lichess": {
+    "id": "supergmypfwilde",
+    "provider": "lichess",
+    "username": "supergmypfwilde",
+    "firstSeen": 1613317278705,
+    "lastSeen": 1613317709730
+  },
+  "sg_rules28@lichess": {
+    "id": "sg_rules28",
+    "provider": "lichess",
+    "username": "SG_Rules28",
+    "firstSeen": 1613317732992,
+    "lastSeen": 1613317732992
+  }
+}
