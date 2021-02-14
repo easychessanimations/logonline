@@ -1,0 +1,67 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1613299389481,
+    "lastSeen": 1613320459900,
+    "firstSeenTime": "10:43:09 AM",
+    "lastSeenTime": "2:42:13 PM",
+    "onlineDurationMins": 239.06675
+  },
+  "puzaster@lichess": {
+    "id": "puzaster",
+    "provider": "lichess",
+    "username": "Puzaster",
+    "firstSeen": 1613310438372,
+    "lastSeen": 1613319984882,
+    "firstSeenTime": "1:47:18 PM",
+    "lastSeenTime": "2:42:24 PM",
+    "onlineDurationMins": 55.10593333333333
+  },
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1613313644074,
+    "lastSeen": 1613319953149,
+    "firstSeenTime": "2:40:44 PM",
+    "lastSeenTime": "2:40:58 PM",
+    "onlineDurationMins": 0.2413
+  },
+  "azdad@lichess": {
+    "id": "azdad",
+    "provider": "lichess",
+    "username": "azdad",
+    "firstSeen": 1613316940419,
+    "lastSeen": 1613319952979
+  },
+  "supergmypfwilde@lichess": {
+    "id": "supergmypfwilde",
+    "provider": "lichess",
+    "username": "supergmypfwilde",
+    "firstSeen": 1613317278705,
+    "lastSeen": 1613320443791
+  },
+  "imaginebeingabot@lichess": {
+    "id": "imaginebeingabot",
+    "provider": "lichess",
+    "username": "imaginebeingabot",
+    "firstSeen": 1613319222312,
+    "lastSeen": 1613320448651
+  },
+  "glleng@lichess": {
+    "id": "glleng",
+    "provider": "lichess",
+    "username": "glleNG",
+    "firstSeen": 1613320088275,
+    "lastSeen": 1613320088275
+  },
+  "dragonchessengine@lichess": {
+    "id": "dragonchessengine",
+    "provider": "lichess",
+    "username": "DragonChessEngine",
+    "firstSeen": 1613320512099,
+    "lastSeen": 1613320512099
+  }
+}
