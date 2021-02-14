@@ -1,0 +1,47 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1613283748441,
+    "lastSeen": 1613294773572,
+    "firstSeenTime": "6:22:28 AM",
+    "lastSeenTime": "7:12:31 AM",
+    "onlineDurationMins": 50.05396666666667
+  },
+  "slikd4snak@lichess": {
+    "id": "slikd4snak",
+    "provider": "lichess",
+    "username": "slikd4snak",
+    "firstSeen": 1613291273332,
+    "lastSeen": 1613294758408
+  },
+  "championdjj2@lichess": {
+    "id": "championdjj2",
+    "provider": "lichess",
+    "username": "championDJJ2",
+    "firstSeen": 1613292319219,
+    "lastSeen": 1613295222476
+  },
+  "glleng@lichess": {
+    "id": "glleng",
+    "provider": "lichess",
+    "username": "glleNG",
+    "firstSeen": 1613294035214,
+    "lastSeen": 1613294765634
+  },
+  "erenalpbot@lichess": {
+    "id": "erenalpbot",
+    "provider": "lichess",
+    "username": "ErEnAlPbOt",
+    "firstSeen": 1613295029621,
+    "lastSeen": 1613295131240
+  },
+  "mysterymanchess@lichess": {
+    "id": "mysterymanchess",
+    "provider": "lichess",
+    "username": "MysteryManChess",
+    "firstSeen": 1613295222686,
+    "lastSeen": 1613295222686
+  }
+}
