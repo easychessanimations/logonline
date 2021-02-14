@@ -1,0 +1,79 @@
+{
+  "binarybrain@lichess": {
+    "id": "binarybrain",
+    "provider": "lichess",
+    "username": "BinaryBrain",
+    "firstSeen": 1613299389481,
+    "lastSeen": 1613314482996,
+    "firstSeenTime": "10:43:09 AM",
+    "lastSeenTime": "2:42:13 PM",
+    "onlineDurationMins": 239.06675
+  },
+  "puzaster@lichess": {
+    "id": "puzaster",
+    "provider": "lichess",
+    "username": "Puzaster",
+    "firstSeen": 1613310438372,
+    "lastSeen": 1613313921639,
+    "firstSeenTime": "1:47:18 PM",
+    "lastSeenTime": "2:42:24 PM",
+    "onlineDurationMins": 55.10593333333333
+  },
+  "mouradvip@lichess": {
+    "id": "mouradvip",
+    "provider": "lichess",
+    "username": "mouradvip",
+    "firstSeen": 1613310901477,
+    "lastSeen": 1613314037415,
+    "firstSeenTime": "1:55:01 PM",
+    "lastSeenTime": "2:33:20 PM",
+    "onlineDurationMins": 38.3209
+  },
+  "chessmaster42777@lichess": {
+    "id": "chessmaster42777",
+    "provider": "lichess",
+    "username": "ChessMaster42777",
+    "firstSeen": 1613313337779,
+    "lastSeen": 1613313787702,
+    "firstSeenTime": "2:35:37 PM",
+    "lastSeenTime": "2:43:07 PM",
+    "onlineDurationMins": 7.498716666666667
+  },
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1613313644074,
+    "lastSeen": 1613314496310,
+    "firstSeenTime": "2:40:44 PM",
+    "lastSeenTime": "2:40:58 PM",
+    "onlineDurationMins": 0.2413
+  },
+  "mcc09@lichess": {
+    "id": "mcc09",
+    "provider": "lichess",
+    "username": "mcc09",
+    "firstSeen": 1613313674205,
+    "lastSeen": 1613313698680,
+    "firstSeenTime": "2:41:14 PM",
+    "lastSeenTime": "2:41:38 PM",
+    "onlineDurationMins": 0.40791666666666665
+  },
+  "profesorcheckmatebot@lichess": {
+    "id": "profesorcheckmatebot",
+    "provider": "lichess",
+    "username": "ProfesorCheckmateBot",
+    "firstSeen": 1613313792020,
+    "lastSeen": 1613313902605,
+    "firstSeenTime": "2:43:12 PM",
+    "lastSeenTime": "2:43:21 PM",
+    "onlineDurationMins": 0.16376666666666667
+  },
+  "slikd4snak@lichess": {
+    "id": "slikd4snak",
+    "provider": "lichess",
+    "username": "slikd4snak",
+    "firstSeen": 1613314496791,
+    "lastSeen": 1613314496791
+  }
+}
