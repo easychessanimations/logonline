@@ -1,0 +1,26 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1613283748441,
+    "lastSeen": 1613296813631,
+    "firstSeenTime": "6:22:28 AM",
+    "lastSeenTime": "7:12:31 AM",
+    "onlineDurationMins": 50.05396666666667
+  },
+  "championdjj2@lichess": {
+    "id": "championdjj2",
+    "provider": "lichess",
+    "username": "championDJJ2",
+    "firstSeen": 1613292319219,
+    "lastSeen": 1613296834428
+  },
+  "mysterymanchess@lichess": {
+    "id": "mysterymanchess",
+    "provider": "lichess",
+    "username": "MysteryManChess",
+    "firstSeen": 1613295222686,
+    "lastSeen": 1613296933484
+  }
+}
