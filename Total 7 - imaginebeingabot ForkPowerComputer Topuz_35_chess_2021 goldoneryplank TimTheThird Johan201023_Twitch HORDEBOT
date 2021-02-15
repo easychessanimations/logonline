@@ -1,0 +1,69 @@
+{
+  "imaginebeingabot@lichess": {
+    "id": "imaginebeingabot",
+    "provider": "lichess",
+    "username": "imaginebeingabot",
+    "firstSeen": 1613380820449,
+    "lastSeen": 1613385429519,
+    "firstSeenTime": "9:20:20 AM",
+    "lastSeenTime": "10:33:02 AM",
+    "onlineDurationMins": 72.69878333333334
+  },
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1613382270717,
+    "lastSeen": 1613385272663,
+    "firstSeenTime": "9:44:30 AM",
+    "lastSeenTime": "10:34:32 AM",
+    "onlineDurationMins": 50.03243333333333
+  },
+  "topuz_35_chess_2021@lichess": {
+    "id": "topuz_35_chess_2021",
+    "provider": "lichess",
+    "username": "Topuz_35_chess_2021",
+    "firstSeen": 1613383293584,
+    "lastSeen": 1613385431539,
+    "firstSeenTime": "10:01:33 AM",
+    "lastSeenTime": "10:37:01 AM",
+    "onlineDurationMins": 35.46483333333333
+  },
+  "goldoneryplank@lichess": {
+    "id": "goldoneryplank",
+    "provider": "lichess",
+    "username": "goldoneryplank",
+    "firstSeen": 1613383513185,
+    "lastSeen": 1613384647180,
+    "firstSeenTime": "10:05:13 AM",
+    "lastSeenTime": "10:24:07 AM",
+    "onlineDurationMins": 18.899916666666666
+  },
+  "timthethird@lichess": {
+    "id": "timthethird",
+    "provider": "lichess",
+    "username": "TimTheThird",
+    "firstSeen": 1613384519724,
+    "lastSeen": 1613384618574,
+    "firstSeenTime": "10:21:59 AM",
+    "lastSeenTime": "10:23:38 AM",
+    "onlineDurationMins": 1.6475
+  },
+  "johan201023_twitch@lichess": {
+    "id": "johan201023_twitch",
+    "provider": "lichess",
+    "username": "Johan201023_Twitch",
+    "firstSeen": 1613384879728,
+    "lastSeen": 1613385385881,
+    "firstSeenTime": "10:27:59 AM",
+    "lastSeenTime": "10:36:25 AM",
+    "onlineDurationMins": 8.435883333333333
+  },
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1613385447301,
+    "lastSeen": 1613385447301
+  }
+}
