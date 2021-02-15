@@ -1,0 +1,39 @@
+{
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1613382270717,
+    "lastSeen": 1613387252616,
+    "firstSeenTime": "9:44:30 AM",
+    "lastSeenTime": "10:56:35 AM",
+    "onlineDurationMins": 72.08566666666667
+  },
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1613385447301,
+    "lastSeen": 1613386772268,
+    "firstSeenTime": "10:37:27 AM",
+    "lastSeenTime": "10:51:45 AM",
+    "onlineDurationMins": 14.310666666666666
+  },
+  "superbots@lichess": {
+    "id": "superbots",
+    "provider": "lichess",
+    "username": "superbots",
+    "firstSeen": 1613385586262,
+    "lastSeen": 1613386842131,
+    "firstSeenTime": "10:39:46 AM",
+    "lastSeenTime": "10:54:00 AM",
+    "onlineDurationMins": 14.242016666666666
+  },
+  "onlychesslife@lichess": {
+    "id": "onlychesslife",
+    "provider": "lichess",
+    "username": "OnlyChessLife",
+    "firstSeen": 1613386907837,
+    "lastSeen": 1613387642284
+  }
+}
