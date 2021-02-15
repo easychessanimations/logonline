@@ -1,0 +1,30 @@
+{
+  "thebottybot@lichess": {
+    "id": "thebottybot",
+    "provider": "lichess",
+    "username": "TheBottyBot",
+    "firstSeen": 1613389599349,
+    "lastSeen": 1613390631765
+  },
+  "puzaster@lichess": {
+    "id": "puzaster",
+    "provider": "lichess",
+    "username": "Puzaster",
+    "firstSeen": 1613389716852,
+    "lastSeen": 1613390472601
+  },
+  "proindianplayer@lichess": {
+    "id": "proindianplayer",
+    "provider": "lichess",
+    "username": "ProIndianPlayer",
+    "firstSeen": 1613389747465,
+    "lastSeen": 1613389773460
+  },
+  "chessengineroar@lichess": {
+    "id": "chessengineroar",
+    "provider": "lichess",
+    "username": "CHESSENGINEROAR",
+    "firstSeen": 1613390460584,
+    "lastSeen": 1613390561678
+  }
+}
