@@ -1,0 +1,63 @@
+{
+  "puzaster@lichess": {
+    "id": "puzaster",
+    "provider": "lichess",
+    "username": "Puzaster",
+    "firstSeen": 1613389716852,
+    "lastSeen": 1613411741033,
+    "firstSeenTime": "11:48:36 AM",
+    "lastSeenTime": "5:38:38 PM",
+    "onlineDurationMins": 350.02395
+  },
+  "yellowprincess@lichess": {
+    "id": "yellowprincess",
+    "provider": "lichess",
+    "username": "yellowprincess",
+    "firstSeen": 1613402212785,
+    "lastSeen": 1613411101236,
+    "firstSeenTime": "3:16:52 PM",
+    "lastSeenTime": "5:32:57 PM",
+    "onlineDurationMins": 136.08226666666667
+  },
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1613409831140,
+    "lastSeen": 1613411391142,
+    "firstSeenTime": "5:23:51 PM",
+    "lastSeenTime": "5:35:53 PM",
+    "onlineDurationMins": 12.037283333333333
+  },
+  "mysterychessman@lichess": {
+    "id": "mysterychessman",
+    "provider": "lichess",
+    "username": "MysteryChessMan",
+    "firstSeen": 1613409929308,
+    "lastSeen": 1613411574586,
+    "firstSeenTime": "5:25:29 PM",
+    "lastSeenTime": "5:42:51 PM",
+    "onlineDurationMins": 17.3657
+  },
+  "mysteryman2@lichess": {
+    "id": "mysteryman2",
+    "provider": "lichess",
+    "username": "MysteryMan2",
+    "firstSeen": 1613411587514,
+    "lastSeen": 1613411882585
+  },
+  "pro_im_mortal@lichess": {
+    "id": "pro_im_mortal",
+    "provider": "lichess",
+    "username": "Pro_Im_Mortal",
+    "firstSeen": 1613411869319,
+    "lastSeen": 1613411887839
+  },
+  "thefinnisherengine@lichess": {
+    "id": "thefinnisherengine",
+    "provider": "lichess",
+    "username": "TheFinnisherEngine",
+    "firstSeen": 1613411882490,
+    "lastSeen": 1613411892156
+  }
+}
