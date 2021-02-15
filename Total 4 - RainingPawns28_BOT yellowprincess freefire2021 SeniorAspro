@@ -1,0 +1,36 @@
+{
+  "rainingpawns28_bot@lichess": {
+    "id": "rainingpawns28_bot",
+    "provider": "lichess",
+    "username": "RainingPawns28_BOT",
+    "firstSeen": 1613365749713,
+    "lastSeen": 1613370862208,
+    "firstSeenTime": "5:09:09 AM",
+    "lastSeenTime": "6:34:22 AM",
+    "onlineDurationMins": 85.20825
+  },
+  "yellowprincess@lichess": {
+    "id": "yellowprincess",
+    "provider": "lichess",
+    "username": "yellowprincess",
+    "firstSeen": 1613369672739,
+    "lastSeen": 1613371554298,
+    "firstSeenTime": "6:14:32 AM",
+    "lastSeenTime": "6:36:50 AM",
+    "onlineDurationMins": 22.292983333333332
+  },
+  "freefire2021@lichess": {
+    "id": "freefire2021",
+    "provider": "lichess",
+    "username": "freefire2021",
+    "firstSeen": 1613371243175,
+    "lastSeen": 1613371467416
+  },
+  "senioraspro@lichess": {
+    "id": "senioraspro",
+    "provider": "lichess",
+    "username": "SeniorAspro",
+    "firstSeen": 1613371422990,
+    "lastSeen": 1613371595175
+  }
+}
