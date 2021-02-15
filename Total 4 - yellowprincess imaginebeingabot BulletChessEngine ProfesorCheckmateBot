@@ -1,0 +1,33 @@
+{
+  "yellowprincess@lichess": {
+    "id": "yellowprincess",
+    "provider": "lichess",
+    "username": "yellowprincess",
+    "firstSeen": 1613369672739,
+    "lastSeen": 1613381008830,
+    "firstSeenTime": "6:14:32 AM",
+    "lastSeenTime": "7:38:09 AM",
+    "onlineDurationMins": 83.6064
+  },
+  "imaginebeingabot@lichess": {
+    "id": "imaginebeingabot",
+    "provider": "lichess",
+    "username": "imaginebeingabot",
+    "firstSeen": 1613380820449,
+    "lastSeen": 1613381134119
+  },
+  "bulletchessengine@lichess": {
+    "id": "bulletchessengine",
+    "provider": "lichess",
+    "username": "BulletChessEngine",
+    "firstSeen": 1613381104449,
+    "lastSeen": 1613381125700
+  },
+  "profesorcheckmatebot@lichess": {
+    "id": "profesorcheckmatebot",
+    "provider": "lichess",
+    "username": "ProfesorCheckmateBot",
+    "firstSeen": 1613381230500,
+    "lastSeen": 1613381230501
+  }
+}
