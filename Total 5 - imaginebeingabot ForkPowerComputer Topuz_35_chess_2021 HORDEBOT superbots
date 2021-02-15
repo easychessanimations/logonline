@@ -1,0 +1,52 @@
+{
+  "imaginebeingabot@lichess": {
+    "id": "imaginebeingabot",
+    "provider": "lichess",
+    "username": "imaginebeingabot",
+    "firstSeen": 1613380820449,
+    "lastSeen": 1613386198545,
+    "firstSeenTime": "9:20:20 AM",
+    "lastSeenTime": "10:49:58 AM",
+    "onlineDurationMins": 89.63493333333334
+  },
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1613382270717,
+    "lastSeen": 1613385935987,
+    "firstSeenTime": "9:44:30 AM",
+    "lastSeenTime": "10:45:35 AM",
+    "onlineDurationMins": 61.087833333333336
+  },
+  "topuz_35_chess_2021@lichess": {
+    "id": "topuz_35_chess_2021",
+    "provider": "lichess",
+    "username": "Topuz_35_chess_2021",
+    "firstSeen": 1613383293584,
+    "lastSeen": 1613385784257,
+    "firstSeenTime": "10:01:33 AM",
+    "lastSeenTime": "10:43:04 AM",
+    "onlineDurationMins": 41.51121666666667
+  },
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1613385447301,
+    "lastSeen": 1613386305714,
+    "firstSeenTime": "10:37:27 AM",
+    "lastSeenTime": "10:48:33 AM",
+    "onlineDurationMins": 11.103383333333333
+  },
+  "superbots@lichess": {
+    "id": "superbots",
+    "provider": "lichess",
+    "username": "superbots",
+    "firstSeen": 1613385586262,
+    "lastSeen": 1613386264547,
+    "firstSeenTime": "10:39:46 AM",
+    "lastSeenTime": "10:45:37 AM",
+    "onlineDurationMins": 5.857116666666666
+  }
+}
