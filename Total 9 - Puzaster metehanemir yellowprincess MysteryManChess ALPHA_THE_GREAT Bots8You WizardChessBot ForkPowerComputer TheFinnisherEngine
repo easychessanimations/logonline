@@ -1,0 +1,68 @@
+{
+  "puzaster@lichess": {
+    "id": "puzaster",
+    "provider": "lichess",
+    "username": "Puzaster",
+    "firstSeen": 1613389716852,
+    "lastSeen": 1613404790609,
+    "firstSeenTime": "11:48:36 AM",
+    "lastSeenTime": "12:58:47 PM",
+    "onlineDurationMins": 70.17403333333333
+  },
+  "metehanemir@lichess": {
+    "id": "metehanemir",
+    "provider": "lichess",
+    "username": "metehanemir",
+    "firstSeen": 1613402168353,
+    "lastSeen": 1613404799983
+  },
+  "yellowprincess@lichess": {
+    "id": "yellowprincess",
+    "provider": "lichess",
+    "username": "yellowprincess",
+    "firstSeen": 1613402212785,
+    "lastSeen": 1613404815162
+  },
+  "mysterymanchess@lichess": {
+    "id": "mysterymanchess",
+    "provider": "lichess",
+    "username": "MysteryManChess",
+    "firstSeen": 1613402807757,
+    "lastSeen": 1613404615194
+  },
+  "alpha_the_great@lichess": {
+    "id": "alpha_the_great",
+    "provider": "lichess",
+    "username": "ALPHA_THE_GREAT",
+    "firstSeen": 1613403472307,
+    "lastSeen": 1613404226389
+  },
+  "bots8you@lichess": {
+    "id": "bots8you",
+    "provider": "lichess",
+    "username": "Bots8You",
+    "firstSeen": 1613403929391,
+    "lastSeen": 1613404668770
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1613404158968,
+    "lastSeen": 1613404235290
+  },
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1613404214477,
+    "lastSeen": 1613404514469
+  },
+  "thefinnisherengine@lichess": {
+    "id": "thefinnisherengine",
+    "provider": "lichess",
+    "username": "TheFinnisherEngine",
+    "firstSeen": 1613404825296,
+    "lastSeen": 1613404825296
+  }
+}
