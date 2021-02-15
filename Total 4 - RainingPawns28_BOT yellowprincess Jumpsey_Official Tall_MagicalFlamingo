@@ -1,0 +1,42 @@
+{
+  "rainingpawns28_bot@lichess": {
+    "id": "rainingpawns28_bot",
+    "provider": "lichess",
+    "username": "RainingPawns28_BOT",
+    "firstSeen": 1613365749713,
+    "lastSeen": 1613370142193,
+    "firstSeenTime": "5:09:09 AM",
+    "lastSeenTime": "6:22:22 AM",
+    "onlineDurationMins": 73.208
+  },
+  "yellowprincess@lichess": {
+    "id": "yellowprincess",
+    "provider": "lichess",
+    "username": "yellowprincess",
+    "firstSeen": 1613369672739,
+    "lastSeen": 1613370338541,
+    "firstSeenTime": "6:14:32 AM",
+    "lastSeenTime": "6:23:49 AM",
+    "onlineDurationMins": 9.273533333333333
+  },
+  "jumpsey_official@lichess": {
+    "id": "jumpsey_official",
+    "provider": "lichess",
+    "username": "Jumpsey_Official",
+    "firstSeen": 1613370176971,
+    "lastSeen": 1613370184655,
+    "firstSeenTime": "6:22:56 AM",
+    "lastSeenTime": "6:23:04 AM",
+    "onlineDurationMins": 0.12806666666666666
+  },
+  "tall_magicalflamingo@lichess": {
+    "id": "tall_magicalflamingo",
+    "provider": "lichess",
+    "username": "Tall_MagicalFlamingo",
+    "firstSeen": 1613370192513,
+    "lastSeen": 1613370333168,
+    "firstSeenTime": "6:23:12 AM",
+    "lastSeenTime": "6:23:22 AM",
+    "onlineDurationMins": 0.16175
+  }
+}
