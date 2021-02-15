@@ -1,0 +1,62 @@
+{
+  "imaginebeingabot@lichess": {
+    "id": "imaginebeingabot",
+    "provider": "lichess",
+    "username": "imaginebeingabot",
+    "firstSeen": 1613380820449,
+    "lastSeen": 1613384560952,
+    "firstSeenTime": "9:20:20 AM",
+    "lastSeenTime": "10:22:40 AM",
+    "onlineDurationMins": 62.34171666666666
+  },
+  "onlychesslife@lichess": {
+    "id": "onlychesslife",
+    "provider": "lichess",
+    "username": "OnlyChessLife",
+    "firstSeen": 1613381612959,
+    "lastSeen": 1613384301525,
+    "firstSeenTime": "9:33:32 AM",
+    "lastSeenTime": "10:18:21 AM",
+    "onlineDurationMins": 44.80943333333333
+  },
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1613382270717,
+    "lastSeen": 1613384495655,
+    "firstSeenTime": "9:44:30 AM",
+    "lastSeenTime": "10:21:35 AM",
+    "onlineDurationMins": 37.0823
+  },
+  "topuz_35_chess_2021@lichess": {
+    "id": "topuz_35_chess_2021",
+    "provider": "lichess",
+    "username": "Topuz_35_chess_2021",
+    "firstSeen": 1613383293584,
+    "lastSeen": 1613384296329,
+    "firstSeenTime": "10:01:33 AM",
+    "lastSeenTime": "10:18:16 AM",
+    "onlineDurationMins": 16.712416666666666
+  },
+  "goldoneryplank@lichess": {
+    "id": "goldoneryplank",
+    "provider": "lichess",
+    "username": "goldoneryplank",
+    "firstSeen": 1613383513185,
+    "lastSeen": 1613384647180,
+    "firstSeenTime": "10:05:13 AM",
+    "lastSeenTime": "10:24:07 AM",
+    "onlineDurationMins": 18.899916666666666
+  },
+  "timthethird@lichess": {
+    "id": "timthethird",
+    "provider": "lichess",
+    "username": "TimTheThird",
+    "firstSeen": 1613384519724,
+    "lastSeen": 1613384618574,
+    "firstSeenTime": "10:21:59 AM",
+    "lastSeenTime": "10:23:38 AM",
+    "onlineDurationMins": 1.6475
+  }
+}
