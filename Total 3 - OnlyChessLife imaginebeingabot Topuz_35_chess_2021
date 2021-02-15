@@ -1,0 +1,29 @@
+{
+  "onlychesslife@lichess": {
+    "id": "onlychesslife",
+    "provider": "lichess",
+    "username": "OnlyChessLife",
+    "firstSeen": 1613386907837,
+    "lastSeen": 1613387664122,
+    "firstSeenTime": "11:01:47 AM",
+    "lastSeenTime": "11:14:24 AM",
+    "onlineDurationMins": 12.60475
+  },
+  "imaginebeingabot@lichess": {
+    "id": "imaginebeingabot",
+    "provider": "lichess",
+    "username": "imaginebeingabot",
+    "firstSeen": 1613387850064,
+    "lastSeen": 1613387953560,
+    "firstSeenTime": "11:17:30 AM",
+    "lastSeenTime": "11:17:39 AM",
+    "onlineDurationMins": 0.16231666666666666
+  },
+  "topuz_35_chess_2021@lichess": {
+    "id": "topuz_35_chess_2021",
+    "provider": "lichess",
+    "username": "Topuz_35_chess_2021",
+    "firstSeen": 1613387965749,
+    "lastSeen": 1613388157597
+  }
+}
