@@ -1,0 +1,40 @@
+{
+  "yellowprincess@lichess": {
+    "id": "yellowprincess",
+    "provider": "lichess",
+    "username": "yellowprincess",
+    "firstSeen": 1613369672739,
+    "lastSeen": 1613377452771,
+    "firstSeenTime": "6:14:32 AM",
+    "lastSeenTime": "7:38:09 AM",
+    "onlineDurationMins": 83.6064
+  },
+  "mater_bot_bot_bot@lichess": {
+    "id": "mater_bot_bot_bot",
+    "provider": "lichess",
+    "username": "Mater_bot_bot_bot",
+    "firstSeen": 1613376716258,
+    "lastSeen": 1613377466135
+  },
+  "bulletchessengine@lichess": {
+    "id": "bulletchessengine",
+    "provider": "lichess",
+    "username": "BulletChessEngine",
+    "firstSeen": 1613376783482,
+    "lastSeen": 1613377299942
+  },
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1613377185191,
+    "lastSeen": 1613377195244
+  },
+  "superbots@lichess": {
+    "id": "superbots",
+    "provider": "lichess",
+    "username": "superbots",
+    "firstSeen": 1613377538553,
+    "lastSeen": 1613377538553
+  }
+}
