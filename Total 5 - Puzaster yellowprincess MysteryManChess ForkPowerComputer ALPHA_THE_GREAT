@@ -1,0 +1,40 @@
+{
+  "puzaster@lichess": {
+    "id": "puzaster",
+    "provider": "lichess",
+    "username": "Puzaster",
+    "firstSeen": 1613389716852,
+    "lastSeen": 1613407718367,
+    "firstSeenTime": "11:48:36 AM",
+    "lastSeenTime": "12:58:47 PM",
+    "onlineDurationMins": 70.17403333333333
+  },
+  "yellowprincess@lichess": {
+    "id": "yellowprincess",
+    "provider": "lichess",
+    "username": "yellowprincess",
+    "firstSeen": 1613402212785,
+    "lastSeen": 1613407847181
+  },
+  "mysterymanchess@lichess": {
+    "id": "mysterymanchess",
+    "provider": "lichess",
+    "username": "MysteryManChess",
+    "firstSeen": 1613402807757,
+    "lastSeen": 1613407843356
+  },
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1613404214477,
+    "lastSeen": 1613407514444
+  },
+  "alpha_the_great@lichess": {
+    "id": "alpha_the_great",
+    "provider": "lichess",
+    "username": "ALPHA_THE_GREAT",
+    "firstSeen": 1613407639624,
+    "lastSeen": 1613407860476
+  }
+}
