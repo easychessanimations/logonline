@@ -1,0 +1,44 @@
+{
+  "imaginebeingabot@lichess": {
+    "id": "imaginebeingabot",
+    "provider": "lichess",
+    "username": "imaginebeingabot",
+    "firstSeen": 1613380820449,
+    "lastSeen": 1613381879809
+  },
+  "bulletchessengine@lichess": {
+    "id": "bulletchessengine",
+    "provider": "lichess",
+    "username": "BulletChessEngine",
+    "firstSeen": 1613381104449,
+    "lastSeen": 1613381125700
+  },
+  "profesorcheckmatebot@lichess": {
+    "id": "profesorcheckmatebot",
+    "provider": "lichess",
+    "username": "ProfesorCheckmateBot",
+    "firstSeen": 1613381230500,
+    "lastSeen": 1613381644727
+  },
+  "mc-y@lichess": {
+    "id": "mc-y",
+    "provider": "lichess",
+    "username": "Mc-Y",
+    "firstSeen": 1613381402544,
+    "lastSeen": 1613381747052
+  },
+  "onlychesslife@lichess": {
+    "id": "onlychesslife",
+    "provider": "lichess",
+    "username": "OnlyChessLife",
+    "firstSeen": 1613381612959,
+    "lastSeen": 1613381947412
+  },
+  "timthethird@lichess": {
+    "id": "timthethird",
+    "provider": "lichess",
+    "username": "TimTheThird",
+    "firstSeen": 1613381760445,
+    "lastSeen": 1613381810709
+  }
+}
