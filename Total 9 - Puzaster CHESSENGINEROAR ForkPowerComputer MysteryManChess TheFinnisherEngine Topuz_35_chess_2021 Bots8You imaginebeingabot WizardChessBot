@@ -1,0 +1,77 @@
+{
+  "puzaster@lichess": {
+    "id": "puzaster",
+    "provider": "lichess",
+    "username": "Puzaster",
+    "firstSeen": 1613389716852,
+    "lastSeen": 1613397218335,
+    "firstSeenTime": "11:48:36 AM",
+    "lastSeenTime": "12:58:47 PM",
+    "onlineDurationMins": 70.17403333333333
+  },
+  "chessengineroar@lichess": {
+    "id": "chessengineroar",
+    "provider": "lichess",
+    "username": "CHESSENGINEROAR",
+    "firstSeen": 1613390460584,
+    "lastSeen": 1613396769282,
+    "firstSeenTime": "12:01:00 PM",
+    "lastSeenTime": "1:01:06 PM",
+    "onlineDurationMins": 60.095816666666664
+  },
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1613390954952,
+    "lastSeen": 1613397014749,
+    "firstSeenTime": "12:09:14 PM",
+    "lastSeenTime": "1:00:14 PM",
+    "onlineDurationMins": 50.9991
+  },
+  "mysterymanchess@lichess": {
+    "id": "mysterymanchess",
+    "provider": "lichess",
+    "username": "MysteryManChess",
+    "firstSeen": 1613391354742,
+    "lastSeen": 1613397379099,
+    "firstSeenTime": "12:15:54 PM",
+    "lastSeenTime": "12:57:46 PM",
+    "onlineDurationMins": 41.86841666666667
+  },
+  "thefinnisherengine@lichess": {
+    "id": "thefinnisherengine",
+    "provider": "lichess",
+    "username": "TheFinnisherEngine",
+    "firstSeen": 1613396236193,
+    "lastSeen": 1613397456729
+  },
+  "topuz_35_chess_2021@lichess": {
+    "id": "topuz_35_chess_2021",
+    "provider": "lichess",
+    "username": "Topuz_35_chess_2021",
+    "firstSeen": 1613396648206,
+    "lastSeen": 1613396888145
+  },
+  "bots8you@lichess": {
+    "id": "bots8you",
+    "provider": "lichess",
+    "username": "Bots8You",
+    "firstSeen": 1613397183479,
+    "lastSeen": 1613397338364
+  },
+  "imaginebeingabot@lichess": {
+    "id": "imaginebeingabot",
+    "provider": "lichess",
+    "username": "imaginebeingabot",
+    "firstSeen": 1613397251099,
+    "lastSeen": 1613397274183
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1613397497249,
+    "lastSeen": 1613397497249
+  }
+}
