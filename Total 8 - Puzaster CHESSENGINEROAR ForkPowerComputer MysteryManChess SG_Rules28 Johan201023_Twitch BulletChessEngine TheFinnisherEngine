@@ -1,0 +1,82 @@
+{
+  "puzaster@lichess": {
+    "id": "puzaster",
+    "provider": "lichess",
+    "username": "Puzaster",
+    "firstSeen": 1613389716852,
+    "lastSeen": 1613392543892,
+    "firstSeenTime": "11:48:36 AM",
+    "lastSeenTime": "12:34:45 PM",
+    "onlineDurationMins": 46.13591666666667
+  },
+  "chessengineroar@lichess": {
+    "id": "chessengineroar",
+    "provider": "lichess",
+    "username": "CHESSENGINEROAR",
+    "firstSeen": 1613390460584,
+    "lastSeen": 1613392544485,
+    "firstSeenTime": "12:01:00 PM",
+    "lastSeenTime": "12:34:43 PM",
+    "onlineDurationMins": 33.7171
+  },
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "ForkPowerComputer",
+    "firstSeen": 1613390954952,
+    "lastSeen": 1613392515018,
+    "firstSeenTime": "12:09:14 PM",
+    "lastSeenTime": "12:33:18 PM",
+    "onlineDurationMins": 24.050933333333333
+  },
+  "mysterymanchess@lichess": {
+    "id": "mysterymanchess",
+    "provider": "lichess",
+    "username": "MysteryManChess",
+    "firstSeen": 1613391354742,
+    "lastSeen": 1613392468013,
+    "firstSeenTime": "12:15:54 PM",
+    "lastSeenTime": "12:34:28 PM",
+    "onlineDurationMins": 18.554516666666668
+  },
+  "sg_rules28@lichess": {
+    "id": "sg_rules28",
+    "provider": "lichess",
+    "username": "SG_Rules28",
+    "firstSeen": 1613391943996,
+    "lastSeen": 1613392556851,
+    "firstSeenTime": "12:25:43 PM",
+    "lastSeenTime": "12:33:16 PM",
+    "onlineDurationMins": 7.5487
+  },
+  "johan201023_twitch@lichess": {
+    "id": "johan201023_twitch",
+    "provider": "lichess",
+    "username": "Johan201023_Twitch",
+    "firstSeen": 1613392102573,
+    "lastSeen": 1613392207885,
+    "firstSeenTime": "12:28:22 PM",
+    "lastSeenTime": "12:30:07 PM",
+    "onlineDurationMins": 1.7552
+  },
+  "bulletchessengine@lichess": {
+    "id": "bulletchessengine",
+    "provider": "lichess",
+    "username": "BulletChessEngine",
+    "firstSeen": 1613392176939,
+    "lastSeen": 1613392186970,
+    "firstSeenTime": "12:29:36 PM",
+    "lastSeenTime": "12:29:46 PM",
+    "onlineDurationMins": 0.16718333333333332
+  },
+  "thefinnisherengine@lichess": {
+    "id": "thefinnisherengine",
+    "provider": "lichess",
+    "username": "TheFinnisherEngine",
+    "firstSeen": 1613392223967,
+    "lastSeen": 1613392313360,
+    "firstSeenTime": "12:30:23 PM",
+    "lastSeenTime": "12:31:53 PM",
+    "onlineDurationMins": 1.4898833333333332
+  }
+}
