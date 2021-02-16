@@ -1,0 +1,39 @@
+{
+  "puzaster@lichess": {
+    "id": "puzaster",
+    "provider": "lichess",
+    "username": "Puzaster",
+    "firstSeen": 1613483288337,
+    "lastSeen": 1613497755075,
+    "firstSeenTime": "1:48:08 PM",
+    "lastSeenTime": "4:44:15 PM",
+    "onlineDurationMins": 176.11181666666667
+  },
+  "yellowprincess@lichess": {
+    "id": "yellowprincess",
+    "provider": "lichess",
+    "username": "yellowprincess",
+    "firstSeen": 1613489925418,
+    "lastSeen": 1613497743475,
+    "firstSeenTime": "3:38:45 PM",
+    "lastSeenTime": "4:47:03 PM",
+    "onlineDurationMins": 68.3074
+  },
+  "lobik1973@lichess": {
+    "id": "lobik1973",
+    "provider": "lichess",
+    "username": "lobik1973",
+    "firstSeen": 1613492178020,
+    "lastSeen": 1613497700551,
+    "firstSeenTime": "4:16:18 PM",
+    "lastSeenTime": "4:41:20 PM",
+    "onlineDurationMins": 25.042266666666666
+  },
+  "analyzechess@lichess": {
+    "id": "analyzechess",
+    "provider": "lichess",
+    "username": "AnalyzeChess",
+    "firstSeen": 1613498086472,
+    "lastSeen": 1613498086472
+  }
+}
