@@ -1,0 +1,42 @@
+{
+  "parth_dhage_2@lichess": {
+    "id": "parth_dhage_2",
+    "provider": "lichess",
+    "username": "Parth_Dhage_2",
+    "firstSeen": 1613462568234,
+    "lastSeen": 1613469150768,
+    "firstSeenTime": "8:02:48 AM",
+    "lastSeenTime": "9:52:15 AM",
+    "onlineDurationMins": 109.44928333333333
+  },
+  "yellowprincess@lichess": {
+    "id": "yellowprincess",
+    "provider": "lichess",
+    "username": "yellowprincess",
+    "firstSeen": 1613464086860,
+    "lastSeen": 1613468952016,
+    "firstSeenTime": "8:28:06 AM",
+    "lastSeenTime": "9:49:12 AM",
+    "onlineDurationMins": 81.08593333333333
+  },
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1613466446295,
+    "lastSeen": 1613468777262,
+    "firstSeenTime": "9:07:26 AM",
+    "lastSeenTime": "9:46:17 AM",
+    "onlineDurationMins": 38.84945
+  },
+  "overpoweredplayerbot@lichess": {
+    "id": "overpoweredplayerbot",
+    "provider": "lichess",
+    "username": "Overpoweredplayerbot",
+    "firstSeen": 1613467926636,
+    "lastSeen": 1613468404869,
+    "firstSeenTime": "9:32:06 AM",
+    "lastSeenTime": "9:40:04 AM",
+    "onlineDurationMins": 7.97055
+  }
+}
