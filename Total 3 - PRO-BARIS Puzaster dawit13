@@ -1,0 +1,32 @@
+{
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1613482856392,
+    "lastSeen": 1613488861368,
+    "firstSeenTime": "1:40:56 PM",
+    "lastSeenTime": "3:21:01 PM",
+    "onlineDurationMins": 100.08293333333333
+  },
+  "puzaster@lichess": {
+    "id": "puzaster",
+    "provider": "lichess",
+    "username": "Puzaster",
+    "firstSeen": 1613483288337,
+    "lastSeen": 1613489172005,
+    "firstSeenTime": "1:48:08 PM",
+    "lastSeenTime": "3:11:15 PM",
+    "onlineDurationMins": 83.11348333333333
+  },
+  "dawit13@lichess": {
+    "id": "dawit13",
+    "provider": "lichess",
+    "username": "dawit13",
+    "firstSeen": 1613487792715,
+    "lastSeen": 1613489318913,
+    "firstSeenTime": "3:03:12 PM",
+    "lastSeenTime": "3:21:22 PM",
+    "onlineDurationMins": 18.15685
+  }
+}
