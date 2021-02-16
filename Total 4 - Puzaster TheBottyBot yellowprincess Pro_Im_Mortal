@@ -1,0 +1,39 @@
+{
+  "puzaster@lichess": {
+    "id": "puzaster",
+    "provider": "lichess",
+    "username": "Puzaster",
+    "firstSeen": 1613483288337,
+    "lastSeen": 1613490315065,
+    "firstSeenTime": "1:48:08 PM",
+    "lastSeenTime": "3:35:08 PM",
+    "onlineDurationMins": 107.00308333333334
+  },
+  "thebottybot@lichess": {
+    "id": "thebottybot",
+    "provider": "lichess",
+    "username": "TheBottyBot",
+    "firstSeen": 1613489501754,
+    "lastSeen": 1613490153351,
+    "firstSeenTime": "3:31:41 PM",
+    "lastSeenTime": "3:42:33 PM",
+    "onlineDurationMins": 10.85995
+  },
+  "yellowprincess@lichess": {
+    "id": "yellowprincess",
+    "provider": "lichess",
+    "username": "yellowprincess",
+    "firstSeen": 1613489925418,
+    "lastSeen": 1613489945012,
+    "firstSeenTime": "3:38:45 PM",
+    "lastSeenTime": "3:39:05 PM",
+    "onlineDurationMins": 0.32656666666666667
+  },
+  "pro_im_mortal@lichess": {
+    "id": "pro_im_mortal",
+    "provider": "lichess",
+    "username": "Pro_Im_Mortal",
+    "firstSeen": 1613490301549,
+    "lastSeen": 1613490321161
+  }
+}
