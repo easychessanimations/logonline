@@ -1,0 +1,39 @@
+{
+  "puzaster@lichess": {
+    "id": "puzaster",
+    "provider": "lichess",
+    "username": "Puzaster",
+    "firstSeen": 1613483288337,
+    "lastSeen": 1613489708522,
+    "firstSeenTime": "1:48:08 PM",
+    "lastSeenTime": "3:35:08 PM",
+    "onlineDurationMins": 107.00308333333334
+  },
+  "dawit13@lichess": {
+    "id": "dawit13",
+    "provider": "lichess",
+    "username": "dawit13",
+    "firstSeen": 1613487792715,
+    "lastSeen": 1613489468749,
+    "firstSeenTime": "3:03:12 PM",
+    "lastSeenTime": "3:31:08 PM",
+    "onlineDurationMins": 27.9339
+  },
+  "thebottybot@lichess": {
+    "id": "thebottybot",
+    "provider": "lichess",
+    "username": "TheBottyBot",
+    "firstSeen": 1613489501754,
+    "lastSeen": 1613489708743,
+    "firstSeenTime": "3:31:41 PM",
+    "lastSeenTime": "3:35:08 PM",
+    "onlineDurationMins": 3.4498166666666665
+  },
+  "yellowprincess@lichess": {
+    "id": "yellowprincess",
+    "provider": "lichess",
+    "username": "yellowprincess",
+    "firstSeen": 1613489925418,
+    "lastSeen": 1613489925418
+  }
+}
