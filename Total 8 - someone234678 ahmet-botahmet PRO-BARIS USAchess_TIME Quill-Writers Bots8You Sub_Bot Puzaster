@@ -1,0 +1,70 @@
+{
+  "someone234678@lichess": {
+    "id": "someone234678",
+    "provider": "lichess",
+    "username": "someone234678",
+    "firstSeen": 1613537242217,
+    "lastSeen": 1613564300316,
+    "firstSeenTime": "4:47:22 AM",
+    "lastSeenTime": "11:53:23 AM",
+    "onlineDurationMins": 426.02178333333336
+  },
+  "ahmet-botahmet@lichess": {
+    "id": "ahmet-botahmet",
+    "provider": "lichess",
+    "username": "ahmet-botahmet",
+    "firstSeen": 1613561235907,
+    "lastSeen": 1613564440298,
+    "firstSeenTime": "11:27:15 AM",
+    "lastSeenTime": "11:55:46 AM",
+    "onlineDurationMins": 28.51635
+  },
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1613562732542,
+    "lastSeen": 1613564234560,
+    "firstSeenTime": "11:52:12 AM",
+    "lastSeenTime": "11:55:06 AM",
+    "onlineDurationMins": 2.89195
+  },
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1613562737386,
+    "lastSeen": 1613564558541,
+    "firstSeenTime": "11:52:17 AM",
+    "lastSeenTime": "11:52:20 AM",
+    "onlineDurationMins": 0.05708333333333333
+  },
+  "quill-writers@lichess": {
+    "id": "quill-writers",
+    "provider": "lichess",
+    "username": "Quill-Writers",
+    "firstSeen": 1613563438726,
+    "lastSeen": 1613563836702
+  },
+  "bots8you@lichess": {
+    "id": "bots8you",
+    "provider": "lichess",
+    "username": "Bots8You",
+    "firstSeen": 1613563828399,
+    "lastSeen": 1613563867390
+  },
+  "sub_bot@lichess": {
+    "id": "sub_bot",
+    "provider": "lichess",
+    "username": "Sub_Bot",
+    "firstSeen": 1613564547837,
+    "lastSeen": 1613564563839
+  },
+  "puzaster@lichess": {
+    "id": "puzaster",
+    "provider": "lichess",
+    "username": "Puzaster",
+    "firstSeen": 1613564663712,
+    "lastSeen": 1613564663713
+  }
+}
