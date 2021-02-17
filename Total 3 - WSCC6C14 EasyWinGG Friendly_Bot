@@ -1,0 +1,26 @@
+{
+  "wscc6c14@lichess": {
+    "id": "wscc6c14",
+    "provider": "lichess",
+    "username": "WSCC6C14",
+    "firstSeen": 1613581220080,
+    "lastSeen": 1613586021764,
+    "firstSeenTime": "5:00:20 PM",
+    "lastSeenTime": "5:07:04 PM",
+    "onlineDurationMins": 6.735266666666667
+  },
+  "easywingg@lichess": {
+    "id": "easywingg",
+    "provider": "lichess",
+    "username": "EasyWinGG",
+    "firstSeen": 1613582023022,
+    "lastSeen": 1613585713161
+  },
+  "friendly_bot@lichess": {
+    "id": "friendly_bot",
+    "provider": "lichess",
+    "username": "Friendly_Bot",
+    "firstSeen": 1613583596229,
+    "lastSeen": 1613585651594
+  }
+}
