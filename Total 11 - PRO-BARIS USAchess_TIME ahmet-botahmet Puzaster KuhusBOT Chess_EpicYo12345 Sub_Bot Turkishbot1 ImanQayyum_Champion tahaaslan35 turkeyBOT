@@ -1,0 +1,112 @@
+{
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1613564783718,
+    "lastSeen": 1613570928560,
+    "firstSeenTime": "12:26:23 PM",
+    "lastSeenTime": "2:08:48 PM",
+    "onlineDurationMins": 102.41403333333334
+  },
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1613564787816,
+    "lastSeen": 1613571117192,
+    "firstSeenTime": "12:26:27 PM",
+    "lastSeenTime": "2:11:57 PM",
+    "onlineDurationMins": 105.4896
+  },
+  "ahmet-botahmet@lichess": {
+    "id": "ahmet-botahmet",
+    "provider": "lichess",
+    "username": "ahmet-botahmet",
+    "firstSeen": 1613565220315,
+    "lastSeen": 1613570923989,
+    "firstSeenTime": "12:33:40 PM",
+    "lastSeenTime": "2:08:43 PM",
+    "onlineDurationMins": 95.06123333333333
+  },
+  "puzaster@lichess": {
+    "id": "puzaster",
+    "provider": "lichess",
+    "username": "Puzaster",
+    "firstSeen": 1613565266013,
+    "lastSeen": 1613570909094,
+    "firstSeenTime": "12:34:26 PM",
+    "lastSeenTime": "2:08:29 PM",
+    "onlineDurationMins": 94.05135
+  },
+  "kuhusbot@lichess": {
+    "id": "kuhusbot",
+    "provider": "lichess",
+    "username": "KuhusBOT",
+    "firstSeen": 1613566879396,
+    "lastSeen": 1613570929357,
+    "firstSeenTime": "1:01:19 PM",
+    "lastSeenTime": "2:08:49 PM",
+    "onlineDurationMins": 67.49935
+  },
+  "chess_epicyo12345@lichess": {
+    "id": "chess_epicyo12345",
+    "provider": "lichess",
+    "username": "Chess_EpicYo12345",
+    "firstSeen": 1613566996825,
+    "lastSeen": 1613570939675,
+    "firstSeenTime": "1:03:16 PM",
+    "lastSeenTime": "2:08:59 PM",
+    "onlineDurationMins": 65.71416666666667
+  },
+  "sub_bot@lichess": {
+    "id": "sub_bot",
+    "provider": "lichess",
+    "username": "Sub_Bot",
+    "firstSeen": 1613569142648,
+    "lastSeen": 1613571012030,
+    "firstSeenTime": "1:39:02 PM",
+    "lastSeenTime": "2:10:12 PM",
+    "onlineDurationMins": 31.156366666666667
+  },
+  "turkishbot1@lichess": {
+    "id": "turkishbot1",
+    "provider": "lichess",
+    "username": "Turkishbot1",
+    "firstSeen": 1613569655098,
+    "lastSeen": 1613570927756,
+    "firstSeenTime": "1:47:35 PM",
+    "lastSeenTime": "2:08:47 PM",
+    "onlineDurationMins": 21.210966666666668
+  },
+  "imanqayyum_champion@lichess": {
+    "id": "imanqayyum_champion",
+    "provider": "lichess",
+    "username": "ImanQayyum_Champion",
+    "firstSeen": 1613569853715,
+    "lastSeen": 1613571126785,
+    "firstSeenTime": "1:50:53 PM",
+    "lastSeenTime": "2:12:06 PM",
+    "onlineDurationMins": 21.217833333333335
+  },
+  "tahaaslan35@lichess": {
+    "id": "tahaaslan35",
+    "provider": "lichess",
+    "username": "tahaaslan35",
+    "firstSeen": 1613570262011,
+    "lastSeen": 1613570276050,
+    "firstSeenTime": "1:57:42 PM",
+    "lastSeenTime": "1:57:56 PM",
+    "onlineDurationMins": 0.23398333333333332
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1613570377090,
+    "lastSeen": 1613570379063,
+    "firstSeenTime": "1:59:37 PM",
+    "lastSeenTime": "1:59:39 PM",
+    "onlineDurationMins": 0.032883333333333334
+  }
+}
