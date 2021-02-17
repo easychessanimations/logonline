@@ -1,0 +1,57 @@
+{
+  "puzaster@lichess": {
+    "id": "puzaster",
+    "provider": "lichess",
+    "username": "Puzaster",
+    "firstSeen": 1613565266013,
+    "lastSeen": 1613580689086,
+    "firstSeenTime": "12:34:26 PM",
+    "lastSeenTime": "2:30:25 PM",
+    "onlineDurationMins": 115.99881666666667
+  },
+  "yellowprincess@lichess": {
+    "id": "yellowprincess",
+    "provider": "lichess",
+    "username": "yellowprincess",
+    "firstSeen": 1613572177091,
+    "lastSeen": 1613580701571,
+    "firstSeenTime": "2:29:37 PM",
+    "lastSeenTime": "2:36:19 PM",
+    "onlineDurationMins": 6.710583333333333
+  },
+  "variantenkoning@lichess": {
+    "id": "variantenkoning",
+    "provider": "lichess",
+    "username": "Variantenkoning",
+    "firstSeen": 1613573874302,
+    "lastSeen": 1613579877117
+  },
+  "sub_bot@lichess": {
+    "id": "sub_bot",
+    "provider": "lichess",
+    "username": "Sub_Bot",
+    "firstSeen": 1613577124552,
+    "lastSeen": 1613580671208
+  },
+  "addingmagicbot@lichess": {
+    "id": "addingmagicbot",
+    "provider": "lichess",
+    "username": "AddingMagicBOT",
+    "firstSeen": 1613578588991,
+    "lastSeen": 1613580476177
+  },
+  "turkishbot1@lichess": {
+    "id": "turkishbot1",
+    "provider": "lichess",
+    "username": "Turkishbot1",
+    "firstSeen": 1613579400561,
+    "lastSeen": 1613580728968
+  },
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1613579739995,
+    "lastSeen": 1613580464355
+  }
+}
