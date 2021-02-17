@@ -1,0 +1,32 @@
+{
+  "someone234678@lichess": {
+    "id": "someone234678",
+    "provider": "lichess",
+    "username": "someone234678",
+    "firstSeen": 1613537242217,
+    "lastSeen": 1613553503498,
+    "firstSeenTime": "4:47:22 AM",
+    "lastSeenTime": "9:07:23 AM",
+    "onlineDurationMins": 260.02208333333334
+  },
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1613544210773,
+    "lastSeen": 1613553655520,
+    "firstSeenTime": "6:43:30 AM",
+    "lastSeenTime": "9:09:55 AM",
+    "onlineDurationMins": 146.40901666666667
+  },
+  "bot-biya-team@lichess": {
+    "id": "bot-biya-team",
+    "provider": "lichess",
+    "username": "BOT-BIYA-TEAM",
+    "firstSeen": 1613552921271,
+    "lastSeen": 1613552931677,
+    "firstSeenTime": "9:08:41 AM",
+    "lastSeenTime": "9:08:51 AM",
+    "onlineDurationMins": 0.17343333333333333
+  }
+}
