@@ -1,0 +1,49 @@
+{
+  "wscc6c14@lichess": {
+    "id": "wscc6c14",
+    "provider": "lichess",
+    "username": "WSCC6C14",
+    "firstSeen": 1613581220080,
+    "lastSeen": 1613586684844,
+    "firstSeenTime": "5:00:20 PM",
+    "lastSeenTime": "6:31:24 PM",
+    "onlineDurationMins": 91.0794
+  },
+  "friendly_bot@lichess": {
+    "id": "friendly_bot",
+    "provider": "lichess",
+    "username": "Friendly_Bot",
+    "firstSeen": 1613583596229,
+    "lastSeen": 1613586608077,
+    "firstSeenTime": "5:39:56 PM",
+    "lastSeenTime": "6:30:08 PM",
+    "onlineDurationMins": 50.197466666666664
+  },
+  "crazyfisheater@lichess": {
+    "id": "crazyfisheater",
+    "provider": "lichess",
+    "username": "CrazyFishEater",
+    "firstSeen": 1613586224912,
+    "lastSeen": 1613586301406,
+    "firstSeenTime": "6:23:44 PM",
+    "lastSeenTime": "6:25:01 PM",
+    "onlineDurationMins": 1.2749
+  },
+  "hyperchessbotauthor@lichess": {
+    "id": "hyperchessbotauthor",
+    "provider": "lichess",
+    "username": "hyperchessbotauthor",
+    "firstSeen": 1613586467846,
+    "lastSeen": 1613586489802,
+    "firstSeenTime": "6:27:47 PM",
+    "lastSeenTime": "6:28:09 PM",
+    "onlineDurationMins": 0.36593333333333333
+  },
+  "turkishbot1@lichess": {
+    "id": "turkishbot1",
+    "provider": "lichess",
+    "username": "Turkishbot1",
+    "firstSeen": 1613586824237,
+    "lastSeen": 1613586824237
+  }
+}
