@@ -1,0 +1,66 @@
+{
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1613651921344,
+    "lastSeen": 1613657783133,
+    "firstSeenTime": "12:38:41 PM",
+    "lastSeenTime": "2:05:38 PM",
+    "onlineDurationMins": 86.94701666666667
+  },
+  "turkishbot1@lichess": {
+    "id": "turkishbot1",
+    "provider": "lichess",
+    "username": "Turkishbot1",
+    "firstSeen": 1613651975735,
+    "lastSeen": 1613657900121,
+    "firstSeenTime": "12:39:35 PM",
+    "lastSeenTime": "2:05:22 PM",
+    "onlineDurationMins": 85.77205
+  },
+  "lbot008@lichess": {
+    "id": "lbot008",
+    "provider": "lichess",
+    "username": "LBOT008",
+    "firstSeen": 1613654981961,
+    "lastSeen": 1613657921925,
+    "firstSeenTime": "1:29:41 PM",
+    "lastSeenTime": "2:13:46 PM",
+    "onlineDurationMins": 44.07575
+  },
+  "easywingg@lichess": {
+    "id": "easywingg",
+    "provider": "lichess",
+    "username": "EasyWinGG",
+    "firstSeen": 1613656069632,
+    "lastSeen": 1613657989066,
+    "firstSeenTime": "1:47:49 PM",
+    "lastSeenTime": "2:08:38 PM",
+    "onlineDurationMins": 20.822283333333335
+  },
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1613657565161,
+    "lastSeen": 1613658009285,
+    "firstSeenTime": "2:12:45 PM",
+    "lastSeenTime": "2:12:45 PM",
+    "onlineDurationMins": 0.00028333333333333335
+  },
+  "saksham2012@lichess": {
+    "id": "saksham2012",
+    "provider": "lichess",
+    "username": "saksham2012",
+    "firstSeen": 1613657992014,
+    "lastSeen": 1613658000335
+  },
+  "kabak_gonk@lichess": {
+    "id": "kabak_gonk",
+    "provider": "lichess",
+    "username": "KABAK_GONK",
+    "firstSeen": 1613658010152,
+    "lastSeen": 1613658045889
+  }
+}
