@@ -1,0 +1,22 @@
+{
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1613672823179,
+    "lastSeen": 1613682152925,
+    "firstSeenTime": "6:27:03 PM",
+    "lastSeenTime": "8:51:06 PM",
+    "onlineDurationMins": 144.05213333333333
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1613679733611,
+    "lastSeen": 1613682126284,
+    "firstSeenTime": "8:22:13 PM",
+    "lastSeenTime": "8:51:03 PM",
+    "onlineDurationMins": 28.823766666666668
+  }
+}
