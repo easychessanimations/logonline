@@ -1,0 +1,49 @@
+{
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1613651921344,
+    "lastSeen": 1613658639070,
+    "firstSeenTime": "12:38:41 PM",
+    "lastSeenTime": "2:27:22 PM",
+    "onlineDurationMins": 108.69338333333333
+  },
+  "turkishbot1@lichess": {
+    "id": "turkishbot1",
+    "provider": "lichess",
+    "username": "Turkishbot1",
+    "firstSeen": 1613651975735,
+    "lastSeen": 1613659222125,
+    "firstSeenTime": "12:39:35 PM",
+    "lastSeenTime": "2:23:18 PM",
+    "onlineDurationMins": 103.71543333333334
+  },
+  "lbot008@lichess": {
+    "id": "lbot008",
+    "provider": "lichess",
+    "username": "LBOT008",
+    "firstSeen": 1613654981961,
+    "lastSeen": 1613659290566,
+    "firstSeenTime": "1:29:41 PM",
+    "lastSeenTime": "2:28:22 PM",
+    "onlineDurationMins": 58.680366666666664
+  },
+  "easywingg@lichess": {
+    "id": "easywingg",
+    "provider": "lichess",
+    "username": "EasyWinGG",
+    "firstSeen": 1613656069632,
+    "lastSeen": 1613659240277,
+    "firstSeenTime": "1:47:49 PM",
+    "lastSeenTime": "2:21:24 PM",
+    "onlineDurationMins": 33.58703333333333
+  },
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1613659307479,
+    "lastSeen": 1613659307479
+  }
+}
