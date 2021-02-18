@@ -1,0 +1,64 @@
+{
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1613651921344,
+    "lastSeen": 1613655631395,
+    "firstSeenTime": "12:38:41 PM",
+    "lastSeenTime": "12:55:54 PM",
+    "onlineDurationMins": 17.22223333333333
+  },
+  "turkishbot1@lichess": {
+    "id": "turkishbot1",
+    "provider": "lichess",
+    "username": "Turkishbot1",
+    "firstSeen": 1613651975735,
+    "lastSeen": 1613655322028,
+    "firstSeenTime": "12:39:35 PM",
+    "lastSeenTime": "12:59:48 PM",
+    "onlineDurationMins": 20.21845
+  },
+  "zaur_urax@lichess": {
+    "id": "zaur_urax",
+    "provider": "lichess",
+    "username": "Zaur_Urax",
+    "firstSeen": 1613654179062,
+    "lastSeen": 1613654978520
+  },
+  "quillwritersoffical@lichess": {
+    "id": "quillwritersoffical",
+    "provider": "lichess",
+    "username": "QuillWritersOffical",
+    "firstSeen": 1613654370341,
+    "lastSeen": 1613655223002
+  },
+  "death_is_for-all@lichess": {
+    "id": "death_is_for-all",
+    "provider": "lichess",
+    "username": "Death_is_for-all",
+    "firstSeen": 1613654573320,
+    "lastSeen": 1613654981096
+  },
+  "lbot008@lichess": {
+    "id": "lbot008",
+    "provider": "lichess",
+    "username": "LBOT008",
+    "firstSeen": 1613654981961,
+    "lastSeen": 1613655582568
+  },
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1613655476774,
+    "lastSeen": 1613655476801
+  },
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1613655481256,
+    "lastSeen": 1613655576922
+  }
+}
