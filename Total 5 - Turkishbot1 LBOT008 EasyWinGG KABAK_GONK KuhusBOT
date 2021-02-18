@@ -1,0 +1,52 @@
+{
+  "turkishbot1@lichess": {
+    "id": "turkishbot1",
+    "provider": "lichess",
+    "username": "Turkishbot1",
+    "firstSeen": 1613651975735,
+    "lastSeen": 1613660538673,
+    "firstSeenTime": "12:39:35 PM",
+    "lastSeenTime": "2:51:22 PM",
+    "onlineDurationMins": 131.77151666666666
+  },
+  "lbot008@lichess": {
+    "id": "lbot008",
+    "provider": "lichess",
+    "username": "LBOT008",
+    "firstSeen": 1613654981961,
+    "lastSeen": 1613660241345,
+    "firstSeenTime": "1:29:41 PM",
+    "lastSeenTime": "2:53:24 PM",
+    "onlineDurationMins": 83.71098333333333
+  },
+  "easywingg@lichess": {
+    "id": "easywingg",
+    "provider": "lichess",
+    "username": "EasyWinGG",
+    "firstSeen": 1613656069632,
+    "lastSeen": 1613660023636,
+    "firstSeenTime": "1:47:49 PM",
+    "lastSeenTime": "2:53:43 PM",
+    "onlineDurationMins": 65.90006666666666
+  },
+  "kabak_gonk@lichess": {
+    "id": "kabak_gonk",
+    "provider": "lichess",
+    "username": "KABAK_GONK",
+    "firstSeen": 1613659724249,
+    "lastSeen": 1613660384396,
+    "firstSeenTime": "2:48:44 PM",
+    "lastSeenTime": "2:48:44 PM",
+    "onlineDurationMins": 0.00013333333333333334
+  },
+  "kuhusbot@lichess": {
+    "id": "kuhusbot",
+    "provider": "lichess",
+    "username": "KuhusBOT",
+    "firstSeen": 1613659833939,
+    "lastSeen": 1613659858608,
+    "firstSeenTime": "2:50:33 PM",
+    "lastSeenTime": "2:50:58 PM",
+    "onlineDurationMins": 0.41115
+  }
+}
