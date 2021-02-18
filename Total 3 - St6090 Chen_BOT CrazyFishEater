@@ -1,0 +1,29 @@
+{
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1613672823179,
+    "lastSeen": 1613682316924,
+    "firstSeenTime": "6:27:03 PM",
+    "lastSeenTime": "9:05:16 PM",
+    "onlineDurationMins": 158.22908333333334
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1613679733611,
+    "lastSeen": 1613682126284,
+    "firstSeenTime": "8:22:13 PM",
+    "lastSeenTime": "9:02:06 PM",
+    "onlineDurationMins": 39.87788333333334
+  },
+  "crazyfisheater@lichess": {
+    "id": "crazyfisheater",
+    "provider": "lichess",
+    "username": "CrazyFishEater",
+    "firstSeen": 1613682693450,
+    "lastSeen": 1613682693450
+  }
+}
