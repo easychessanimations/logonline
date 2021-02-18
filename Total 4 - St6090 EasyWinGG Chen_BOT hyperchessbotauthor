@@ -1,0 +1,39 @@
+{
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1613672823179,
+    "lastSeen": 1613681207211,
+    "firstSeenTime": "6:27:03 PM",
+    "lastSeenTime": "8:45:34 PM",
+    "onlineDurationMins": 138.52158333333333
+  },
+  "easywingg@lichess": {
+    "id": "easywingg",
+    "provider": "lichess",
+    "username": "EasyWinGG",
+    "firstSeen": 1613676997695,
+    "lastSeen": 1613680804945,
+    "firstSeenTime": "7:36:37 PM",
+    "lastSeenTime": "8:40:04 PM",
+    "onlineDurationMins": 63.454166666666666
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1613679733611,
+    "lastSeen": 1613680806202,
+    "firstSeenTime": "8:22:13 PM",
+    "lastSeenTime": "8:40:06 PM",
+    "onlineDurationMins": 17.876516666666667
+  },
+  "hyperchessbotauthor@lichess": {
+    "id": "hyperchessbotauthor",
+    "provider": "lichess",
+    "username": "hyperchessbotauthor",
+    "firstSeen": 1613681209493,
+    "lastSeen": 1613681209493
+  }
+}
