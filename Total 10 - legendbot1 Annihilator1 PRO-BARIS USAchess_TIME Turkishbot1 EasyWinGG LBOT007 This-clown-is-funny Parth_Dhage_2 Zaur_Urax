@@ -1,0 +1,93 @@
+{
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1613651798604,
+    "lastSeen": 1613654015454,
+    "firstSeenTime": "12:36:38 PM",
+    "lastSeenTime": "12:58:36 PM",
+    "onlineDurationMins": 21.95841666666667
+  },
+  "annihilator1@lichess": {
+    "id": "annihilator1",
+    "provider": "lichess",
+    "username": "Annihilator1",
+    "firstSeen": 1613651802185,
+    "lastSeen": 1613654043419,
+    "firstSeenTime": "12:36:42 PM",
+    "lastSeenTime": "12:55:16 PM",
+    "onlineDurationMins": 18.57525
+  },
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1613651826036,
+    "lastSeen": 1613653991286,
+    "firstSeenTime": "12:37:06 PM",
+    "lastSeenTime": "12:59:34 PM",
+    "onlineDurationMins": 22.480133333333335
+  },
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1613651921344,
+    "lastSeen": 1613654278505,
+    "firstSeenTime": "12:38:41 PM",
+    "lastSeenTime": "12:55:54 PM",
+    "onlineDurationMins": 17.22223333333333
+  },
+  "turkishbot1@lichess": {
+    "id": "turkishbot1",
+    "provider": "lichess",
+    "username": "Turkishbot1",
+    "firstSeen": 1613651975735,
+    "lastSeen": 1613654002047,
+    "firstSeenTime": "12:39:35 PM",
+    "lastSeenTime": "12:59:48 PM",
+    "onlineDurationMins": 20.21845
+  },
+  "easywingg@lichess": {
+    "id": "easywingg",
+    "provider": "lichess",
+    "username": "EasyWinGG",
+    "firstSeen": 1613652160220,
+    "lastSeen": 1613654313319,
+    "firstSeenTime": "12:42:40 PM",
+    "lastSeenTime": "12:59:48 PM",
+    "onlineDurationMins": 17.14005
+  },
+  "lbot007@lichess": {
+    "id": "lbot007",
+    "provider": "lichess",
+    "username": "LBOT007",
+    "firstSeen": 1613652672930,
+    "lastSeen": 1613653505839,
+    "firstSeenTime": "12:51:12 PM",
+    "lastSeenTime": "12:54:46 PM",
+    "onlineDurationMins": 3.55565
+  },
+  "this-clown-is-funny@lichess": {
+    "id": "this-clown-is-funny",
+    "provider": "lichess",
+    "username": "This-clown-is-funny",
+    "firstSeen": 1613653764638,
+    "lastSeen": 1613653938693
+  },
+  "parth_dhage_2@lichess": {
+    "id": "parth_dhage_2",
+    "provider": "lichess",
+    "username": "Parth_Dhage_2",
+    "firstSeen": 1613654145955,
+    "lastSeen": 1613654277348
+  },
+  "zaur_urax@lichess": {
+    "id": "zaur_urax",
+    "provider": "lichess",
+    "username": "Zaur_Urax",
+    "firstSeen": 1613654179062,
+    "lastSeen": 1613654287807
+  }
+}
