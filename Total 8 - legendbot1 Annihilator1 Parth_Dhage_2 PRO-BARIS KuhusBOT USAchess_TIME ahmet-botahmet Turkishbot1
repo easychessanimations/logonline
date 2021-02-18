@@ -1,0 +1,76 @@
+{
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1613651798604,
+    "lastSeen": 1613651802208,
+    "firstSeenTime": "12:36:38 PM",
+    "lastSeenTime": "12:36:42 PM",
+    "onlineDurationMins": 0.060066666666666664
+  },
+  "annihilator1@lichess": {
+    "id": "annihilator1",
+    "provider": "lichess",
+    "username": "Annihilator1",
+    "firstSeen": 1613651802185,
+    "lastSeen": 1613651806744,
+    "firstSeenTime": "12:36:42 PM",
+    "lastSeenTime": "12:36:46 PM",
+    "onlineDurationMins": 0.07598333333333333
+  },
+  "parth_dhage_2@lichess": {
+    "id": "parth_dhage_2",
+    "provider": "lichess",
+    "username": "Parth_Dhage_2",
+    "firstSeen": 1613651806301,
+    "lastSeen": 1613651809804,
+    "firstSeenTime": "12:36:46 PM",
+    "lastSeenTime": "12:36:49 PM",
+    "onlineDurationMins": 0.058383333333333336
+  },
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1613651826036,
+    "lastSeen": 1613651826036,
+    "firstSeenTime": "12:37:06 PM",
+    "lastSeenTime": "12:37:06 PM",
+    "onlineDurationMins": 0
+  },
+  "kuhusbot@lichess": {
+    "id": "kuhusbot",
+    "provider": "lichess",
+    "username": "KuhusBOT",
+    "firstSeen": 1613651829061,
+    "lastSeen": 1613651829061,
+    "firstSeenTime": "12:37:09 PM",
+    "lastSeenTime": "12:37:09 PM",
+    "onlineDurationMins": 0
+  },
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1613651921344,
+    "lastSeen": 1613651922479,
+    "firstSeenTime": "12:38:41 PM",
+    "lastSeenTime": "12:38:42 PM",
+    "onlineDurationMins": 0.018916666666666665
+  },
+  "ahmet-botahmet@lichess": {
+    "id": "ahmet-botahmet",
+    "provider": "lichess",
+    "username": "ahmet-botahmet",
+    "firstSeen": 1613651968342,
+    "lastSeen": 1613651968609
+  },
+  "turkishbot1@lichess": {
+    "id": "turkishbot1",
+    "provider": "lichess",
+    "username": "Turkishbot1",
+    "firstSeen": 1613651975735,
+    "lastSeen": 1613651975735
+  }
+}
