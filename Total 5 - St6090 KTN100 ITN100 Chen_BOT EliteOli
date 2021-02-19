@@ -1,0 +1,37 @@
+{
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1613761433248,
+    "lastSeen": 1613766477472
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1613761537837,
+    "lastSeen": 1613766033354
+  },
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1613761569630,
+    "lastSeen": 1613766636663
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1613761754487,
+    "lastSeen": 1613766434587
+  },
+  "eliteoli@lichess": {
+    "id": "eliteoli",
+    "provider": "lichess",
+    "username": "EliteOli",
+    "firstSeen": 1613766728441,
+    "lastSeen": 1613766784382
+  }
+}
