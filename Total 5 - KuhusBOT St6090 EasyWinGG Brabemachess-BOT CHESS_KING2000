@@ -1,0 +1,37 @@
+{
+  "kuhusbot@lichess": {
+    "id": "kuhusbot",
+    "provider": "lichess",
+    "username": "KuhusBOT",
+    "firstSeen": 1613722239577,
+    "lastSeen": 1613724878339
+  },
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1613723334693,
+    "lastSeen": 1613724838784
+  },
+  "easywingg@lichess": {
+    "id": "easywingg",
+    "provider": "lichess",
+    "username": "EasyWinGG",
+    "firstSeen": 1613723661882,
+    "lastSeen": 1613724446600
+  },
+  "brabemachess-bot@lichess": {
+    "id": "brabemachess-bot",
+    "provider": "lichess",
+    "username": "Brabemachess-BOT",
+    "firstSeen": 1613724159410,
+    "lastSeen": 1613724521922
+  },
+  "chess_king2000@lichess": {
+    "id": "chess_king2000",
+    "provider": "lichess",
+    "username": "CHESS_KING2000",
+    "firstSeen": 1613725183926,
+    "lastSeen": 1613725183926
+  }
+}
