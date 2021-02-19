@@ -1,0 +1,23 @@
+{
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1613722180180,
+    "lastSeen": 1613722451205
+  },
+  "kuhusbot@lichess": {
+    "id": "kuhusbot",
+    "provider": "lichess",
+    "username": "KuhusBOT",
+    "firstSeen": 1613722239577,
+    "lastSeen": 1613722248665
+  },
+  "turkishbot1@lichess": {
+    "id": "turkishbot1",
+    "provider": "lichess",
+    "username": "Turkishbot1",
+    "firstSeen": 1613722477375,
+    "lastSeen": 1613722477375
+  }
+}
