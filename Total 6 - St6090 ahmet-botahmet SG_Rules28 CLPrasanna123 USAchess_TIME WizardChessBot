@@ -1,0 +1,59 @@
+{
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1613723334693,
+    "lastSeen": 1613732336664,
+    "firstSeenTime": "8:28:54 AM",
+    "lastSeenTime": "10:56:04 AM",
+    "onlineDurationMins": 147.15988333333334
+  },
+  "ahmet-botahmet@lichess": {
+    "id": "ahmet-botahmet",
+    "provider": "lichess",
+    "username": "ahmet-botahmet",
+    "firstSeen": 1613728825831,
+    "lastSeen": 1613731979969,
+    "firstSeenTime": "10:00:25 AM",
+    "lastSeenTime": "10:52:59 AM",
+    "onlineDurationMins": 52.56896666666667
+  },
+  "sg_rules28@lichess": {
+    "id": "sg_rules28",
+    "provider": "lichess",
+    "username": "SG_Rules28",
+    "firstSeen": 1613729931557,
+    "lastSeen": 1613732173327,
+    "firstSeenTime": "10:18:51 AM",
+    "lastSeenTime": "10:56:13 AM",
+    "onlineDurationMins": 37.362833333333334
+  },
+  "clprasanna123@lichess": {
+    "id": "clprasanna123",
+    "provider": "lichess",
+    "username": "CLPrasanna123",
+    "firstSeen": 1613729995167,
+    "lastSeen": 1613732449719,
+    "firstSeenTime": "10:19:55 AM",
+    "lastSeenTime": "10:53:04 AM",
+    "onlineDurationMins": 33.15528333333334
+  },
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1613730003888,
+    "lastSeen": 1613732059858,
+    "firstSeenTime": "10:20:03 AM",
+    "lastSeenTime": "10:54:19 AM",
+    "onlineDurationMins": 34.26616666666666
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1613732311123,
+    "lastSeen": 1613732414055
+  }
+}
