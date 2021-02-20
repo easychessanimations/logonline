@@ -1,0 +1,29 @@
+{
+  "maestrozordd@lichess": {
+    "id": "maestrozordd",
+    "provider": "lichess",
+    "username": "Maestrozordd",
+    "firstSeen": 1613794276812,
+    "lastSeen": 1613818779065,
+    "firstSeenTime": "4:11:16 AM",
+    "lastSeenTime": "8:20:24 AM",
+    "onlineDurationMins": 249.13246666666666
+  },
+  "trapp200@lichess": {
+    "id": "trapp200",
+    "provider": "lichess",
+    "username": "Trapp200",
+    "firstSeen": 1613797256111,
+    "lastSeen": 1613818636286,
+    "firstSeenTime": "5:00:56 AM",
+    "lastSeenTime": "8:20:58 AM",
+    "onlineDurationMins": 200.03918333333334
+  },
+  "easywingg@lichess": {
+    "id": "easywingg",
+    "provider": "lichess",
+    "username": "EasyWinGG",
+    "firstSeen": 1613819008642,
+    "lastSeen": 1613819008643
+  }
+}
