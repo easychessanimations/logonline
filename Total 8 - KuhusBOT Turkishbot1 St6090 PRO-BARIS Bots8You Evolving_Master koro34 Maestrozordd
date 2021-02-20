@@ -1,0 +1,82 @@
+{
+  "kuhusbot@lichess": {
+    "id": "kuhusbot",
+    "provider": "lichess",
+    "username": "KuhusBOT",
+    "firstSeen": 1613823454581,
+    "lastSeen": 1613831850582,
+    "firstSeenTime": "12:17:34 PM",
+    "lastSeenTime": "2:37:30 PM",
+    "onlineDurationMins": 139.93335
+  },
+  "turkishbot1@lichess": {
+    "id": "turkishbot1",
+    "provider": "lichess",
+    "username": "Turkishbot1",
+    "firstSeen": 1613823484727,
+    "lastSeen": 1613831829863,
+    "firstSeenTime": "12:18:04 PM",
+    "lastSeenTime": "2:37:09 PM",
+    "onlineDurationMins": 139.0856
+  },
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1613825855190,
+    "lastSeen": 1613831877669,
+    "firstSeenTime": "12:57:35 PM",
+    "lastSeenTime": "2:37:57 PM",
+    "onlineDurationMins": 100.37465
+  },
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1613827899387,
+    "lastSeen": 1613831869903,
+    "firstSeenTime": "1:31:39 PM",
+    "lastSeenTime": "2:37:49 PM",
+    "onlineDurationMins": 66.17526666666667
+  },
+  "bots8you@lichess": {
+    "id": "bots8you",
+    "provider": "lichess",
+    "username": "Bots8You",
+    "firstSeen": 1613831185376,
+    "lastSeen": 1613831411477,
+    "firstSeenTime": "2:26:25 PM",
+    "lastSeenTime": "2:30:11 PM",
+    "onlineDurationMins": 3.76835
+  },
+  "evolving_master@lichess": {
+    "id": "evolving_master",
+    "provider": "lichess",
+    "username": "Evolving_Master",
+    "firstSeen": 1613831513461,
+    "lastSeen": 1613832218612,
+    "firstSeenTime": "2:31:53 PM",
+    "lastSeenTime": "2:34:49 PM",
+    "onlineDurationMins": 2.928716666666667
+  },
+  "koro34@lichess": {
+    "id": "koro34",
+    "provider": "lichess",
+    "username": "koro34",
+    "firstSeen": 1613831775586,
+    "lastSeen": 1613831798003,
+    "firstSeenTime": "2:36:15 PM",
+    "lastSeenTime": "2:36:38 PM",
+    "onlineDurationMins": 0.37361666666666665
+  },
+  "maestrozordd@lichess": {
+    "id": "maestrozordd",
+    "provider": "lichess",
+    "username": "Maestrozordd",
+    "firstSeen": 1613831852839,
+    "lastSeen": 1613831852839,
+    "firstSeenTime": "2:37:32 PM",
+    "lastSeenTime": "2:37:32 PM",
+    "onlineDurationMins": 0
+  }
+}
