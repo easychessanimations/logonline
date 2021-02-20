@@ -1,0 +1,36 @@
+{
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1613825855190,
+    "lastSeen": 1613837430896,
+    "firstSeenTime": "12:57:35 PM",
+    "lastSeenTime": "3:48:57 PM",
+    "onlineDurationMins": 171.374
+  },
+  "maestrozordd@lichess": {
+    "id": "maestrozordd",
+    "provider": "lichess",
+    "username": "Maestrozordd",
+    "firstSeen": 1613831852839,
+    "lastSeen": 1613837771255,
+    "firstSeenTime": "2:37:32 PM",
+    "lastSeenTime": "3:51:19 PM",
+    "onlineDurationMins": 73.77153333333334
+  },
+  "qehbes@lichess": {
+    "id": "qehbes",
+    "provider": "lichess",
+    "username": "QEHBES",
+    "firstSeen": 1613836917197,
+    "lastSeen": 1613837430751
+  },
+  "babaproenessal@lichess": {
+    "id": "babaproenessal",
+    "provider": "lichess",
+    "username": "babaproenessal",
+    "firstSeen": 1613836949157,
+    "lastSeen": 1613837430587
+  }
+}
