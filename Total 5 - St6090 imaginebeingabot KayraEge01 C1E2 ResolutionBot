@@ -1,0 +1,49 @@
+{
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1613909503870,
+    "lastSeen": 1613924820819,
+    "firstSeenTime": "12:11:43 PM",
+    "lastSeenTime": "4:27:00 PM",
+    "onlineDurationMins": 255.28248333333335
+  },
+  "imaginebeingabot@lichess": {
+    "id": "imaginebeingabot",
+    "provider": "lichess",
+    "username": "imaginebeingabot",
+    "firstSeen": 1613923290005,
+    "lastSeen": 1613924794019,
+    "firstSeenTime": "4:01:30 PM",
+    "lastSeenTime": "4:26:34 PM",
+    "onlineDurationMins": 25.0669
+  },
+  "kayraege01@lichess": {
+    "id": "kayraege01",
+    "provider": "lichess",
+    "username": "KayraEge01",
+    "firstSeen": 1613923709096,
+    "lastSeen": 1613924080008,
+    "firstSeenTime": "4:08:29 PM",
+    "lastSeenTime": "4:14:40 PM",
+    "onlineDurationMins": 6.181866666666667
+  },
+  "c1e2@lichess": {
+    "id": "c1e2",
+    "provider": "lichess",
+    "username": "C1E2",
+    "firstSeen": 1613924038166,
+    "lastSeen": 1613924044266,
+    "firstSeenTime": "4:13:58 PM",
+    "lastSeenTime": "4:14:04 PM",
+    "onlineDurationMins": 0.10166666666666667
+  },
+  "resolutionbot@lichess": {
+    "id": "resolutionbot",
+    "provider": "lichess",
+    "username": "ResolutionBot",
+    "firstSeen": 1613924908117,
+    "lastSeen": 1613924919012
+  }
+}
