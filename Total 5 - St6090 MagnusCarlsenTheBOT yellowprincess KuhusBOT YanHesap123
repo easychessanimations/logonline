@@ -1,0 +1,43 @@
+{
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1613909503870,
+    "lastSeen": 1613921796340,
+    "firstSeenTime": "12:11:43 PM",
+    "lastSeenTime": "3:01:00 PM",
+    "onlineDurationMins": 169.28416666666666
+  },
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1613916295812,
+    "lastSeen": 1613921232443,
+    "firstSeenTime": "2:04:55 PM",
+    "lastSeenTime": "3:05:43 PM",
+    "onlineDurationMins": 60.79966666666667
+  },
+  "yellowprincess@lichess": {
+    "id": "yellowprincess",
+    "provider": "lichess",
+    "username": "yellowprincess",
+    "firstSeen": 1613921135350,
+    "lastSeen": 1613921872697
+  },
+  "kuhusbot@lichess": {
+    "id": "kuhusbot",
+    "provider": "lichess",
+    "username": "KuhusBOT",
+    "firstSeen": 1613921310783,
+    "lastSeen": 1613921310783
+  },
+  "yanhesap123@lichess": {
+    "id": "yanhesap123",
+    "provider": "lichess",
+    "username": "YanHesap123",
+    "firstSeen": 1613921874889,
+    "lastSeen": 1613921874889
+  }
+}
