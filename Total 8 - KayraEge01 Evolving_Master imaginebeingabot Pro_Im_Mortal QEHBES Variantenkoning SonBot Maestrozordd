@@ -1,0 +1,76 @@
+{
+  "kayraege01@lichess": {
+    "id": "kayraege01",
+    "provider": "lichess",
+    "username": "KayraEge01",
+    "firstSeen": 1613896734183,
+    "lastSeen": 1613904260009,
+    "firstSeenTime": "8:38:54 AM",
+    "lastSeenTime": "10:32:20 AM",
+    "onlineDurationMins": 113.44075
+  },
+  "evolving_master@lichess": {
+    "id": "evolving_master",
+    "provider": "lichess",
+    "username": "Evolving_Master",
+    "firstSeen": 1613899737293,
+    "lastSeen": 1613904344981,
+    "firstSeenTime": "9:28:57 AM",
+    "lastSeenTime": "10:38:21 AM",
+    "onlineDurationMins": 69.40028333333333
+  },
+  "imaginebeingabot@lichess": {
+    "id": "imaginebeingabot",
+    "provider": "lichess",
+    "username": "imaginebeingabot",
+    "firstSeen": 1613902462677,
+    "lastSeen": 1613904356768,
+    "firstSeenTime": "10:14:22 AM",
+    "lastSeenTime": "10:38:09 AM",
+    "onlineDurationMins": 23.772966666666665
+  },
+  "pro_im_mortal@lichess": {
+    "id": "pro_im_mortal",
+    "provider": "lichess",
+    "username": "Pro_Im_Mortal",
+    "firstSeen": 1613903246839,
+    "lastSeen": 1613904161623,
+    "firstSeenTime": "10:27:26 AM",
+    "lastSeenTime": "10:27:33 AM",
+    "onlineDurationMins": 0.11626666666666667
+  },
+  "qehbes@lichess": {
+    "id": "qehbes",
+    "provider": "lichess",
+    "username": "QEHBES",
+    "firstSeen": 1613903537575,
+    "lastSeen": 1613903979704,
+    "firstSeenTime": "10:32:17 AM",
+    "lastSeenTime": "10:32:28 AM",
+    "onlineDurationMins": 0.18283333333333332
+  },
+  "variantenkoning@lichess": {
+    "id": "variantenkoning",
+    "provider": "lichess",
+    "username": "Variantenkoning",
+    "firstSeen": 1613903566460,
+    "lastSeen": 1613904478081,
+    "firstSeenTime": "10:32:46 AM",
+    "lastSeenTime": "10:32:58 AM",
+    "onlineDurationMins": 0.19653333333333334
+  },
+  "sonbot@lichess": {
+    "id": "sonbot",
+    "provider": "lichess",
+    "username": "SonBot",
+    "firstSeen": 1613903996474,
+    "lastSeen": 1613904301175
+  },
+  "maestrozordd@lichess": {
+    "id": "maestrozordd",
+    "provider": "lichess",
+    "username": "Maestrozordd",
+    "firstSeen": 1613904551458,
+    "lastSeen": 1613904551458
+  }
+}
