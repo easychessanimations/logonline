@@ -1,0 +1,30 @@
+{
+  "evolving_master@lichess": {
+    "id": "evolving_master",
+    "provider": "lichess",
+    "username": "Evolving_Master",
+    "firstSeen": 1613894452069,
+    "lastSeen": 1613896313947
+  },
+  "yellowprincess@lichess": {
+    "id": "yellowprincess",
+    "provider": "lichess",
+    "username": "yellowprincess",
+    "firstSeen": 1613895486651,
+    "lastSeen": 1613896304718
+  },
+  "mihir10@lichess": {
+    "id": "mihir10",
+    "provider": "lichess",
+    "username": "Mihir10",
+    "firstSeen": 1613896226537,
+    "lastSeen": 1613896282309
+  },
+  "mihir10_bot@lichess": {
+    "id": "mihir10_bot",
+    "provider": "lichess",
+    "username": "Mihir10_Bot",
+    "firstSeen": 1613896349776,
+    "lastSeen": 1613896349776
+  }
+}
