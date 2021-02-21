@@ -1,0 +1,42 @@
+{
+  "yellowprincess@lichess": {
+    "id": "yellowprincess",
+    "provider": "lichess",
+    "username": "yellowprincess",
+    "firstSeen": 1613895486651,
+    "lastSeen": 1613896997651,
+    "firstSeenTime": "8:18:06 AM",
+    "lastSeenTime": "8:43:17 AM",
+    "onlineDurationMins": 25.183333333333334
+  },
+  "mihir10_bot@lichess": {
+    "id": "mihir10_bot",
+    "provider": "lichess",
+    "username": "Mihir10_Bot",
+    "firstSeen": 1613896349776,
+    "lastSeen": 1613897679559,
+    "firstSeenTime": "8:32:29 AM",
+    "lastSeenTime": "8:43:43 AM",
+    "onlineDurationMins": 11.221716666666667
+  },
+  "kayraege01@lichess": {
+    "id": "kayraege01",
+    "provider": "lichess",
+    "username": "KayraEge01",
+    "firstSeen": 1613896734183,
+    "lastSeen": 1613897420319,
+    "firstSeenTime": "8:38:54 AM",
+    "lastSeenTime": "8:50:20 AM",
+    "onlineDurationMins": 11.4356
+  },
+  "maestrozordd@lichess": {
+    "id": "maestrozordd",
+    "provider": "lichess",
+    "username": "Maestrozordd",
+    "firstSeen": 1613897289142,
+    "lastSeen": 1613897542409,
+    "firstSeenTime": "8:48:09 AM",
+    "lastSeenTime": "8:52:22 AM",
+    "onlineDurationMins": 4.221116666666667
+  }
+}
