@@ -1,0 +1,52 @@
+{
+  "maestrozordd@lichess": {
+    "id": "maestrozordd",
+    "provider": "lichess",
+    "username": "Maestrozordd",
+    "firstSeen": 1613909055585,
+    "lastSeen": 1613919624803,
+    "firstSeenTime": "12:04:15 PM",
+    "lastSeenTime": "3:00:24 PM",
+    "onlineDurationMins": 176.15363333333335
+  },
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1613909503870,
+    "lastSeen": 1613920296495,
+    "firstSeenTime": "12:11:43 PM",
+    "lastSeenTime": "3:01:00 PM",
+    "onlineDurationMins": 169.28416666666666
+  },
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1613916295812,
+    "lastSeen": 1613920440293,
+    "firstSeenTime": "2:04:55 PM",
+    "lastSeenTime": "3:05:43 PM",
+    "onlineDurationMins": 60.79966666666667
+  },
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1613916583174,
+    "lastSeen": 1613920338316,
+    "firstSeenTime": "2:09:43 PM",
+    "lastSeenTime": "3:05:55 PM",
+    "onlineDurationMins": 56.20125
+  },
+  "kuhusbot@lichess": {
+    "id": "kuhusbot",
+    "provider": "lichess",
+    "username": "KuhusBOT",
+    "firstSeen": 1613919722771,
+    "lastSeen": 1613919973437,
+    "firstSeenTime": "3:02:02 PM",
+    "lastSeenTime": "3:06:13 PM",
+    "onlineDurationMins": 4.177766666666667
+  }
+}
