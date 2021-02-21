@@ -1,0 +1,49 @@
+{
+  "evolving_master@lichess": {
+    "id": "evolving_master",
+    "provider": "lichess",
+    "username": "Evolving_Master",
+    "firstSeen": 1613894452069,
+    "lastSeen": 1613896561003,
+    "firstSeenTime": "8:00:52 AM",
+    "lastSeenTime": "8:31:53 AM",
+    "onlineDurationMins": 31.0313
+  },
+  "yellowprincess@lichess": {
+    "id": "yellowprincess",
+    "provider": "lichess",
+    "username": "yellowprincess",
+    "firstSeen": 1613895486651,
+    "lastSeen": 1613896304718,
+    "firstSeenTime": "8:18:06 AM",
+    "lastSeenTime": "8:31:44 AM",
+    "onlineDurationMins": 13.63445
+  },
+  "mihir10@lichess": {
+    "id": "mihir10",
+    "provider": "lichess",
+    "username": "Mihir10",
+    "firstSeen": 1613896226537,
+    "lastSeen": 1613896282309,
+    "firstSeenTime": "8:30:26 AM",
+    "lastSeenTime": "8:31:22 AM",
+    "onlineDurationMins": 0.9295333333333333
+  },
+  "mihir10_bot@lichess": {
+    "id": "mihir10_bot",
+    "provider": "lichess",
+    "username": "Mihir10_Bot",
+    "firstSeen": 1613896349776,
+    "lastSeen": 1613896454530,
+    "firstSeenTime": "8:32:29 AM",
+    "lastSeenTime": "8:34:14 AM",
+    "onlineDurationMins": 1.7459
+  },
+  "kayraege01@lichess": {
+    "id": "kayraege01",
+    "provider": "lichess",
+    "username": "KayraEge01",
+    "firstSeen": 1613896734183,
+    "lastSeen": 1613896734183
+  }
+}
