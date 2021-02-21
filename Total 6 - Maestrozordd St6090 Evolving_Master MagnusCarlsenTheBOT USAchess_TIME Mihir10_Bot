@@ -1,0 +1,53 @@
+{
+  "maestrozordd@lichess": {
+    "id": "maestrozordd",
+    "provider": "lichess",
+    "username": "Maestrozordd",
+    "firstSeen": 1613909055585,
+    "lastSeen": 1613916563498,
+    "firstSeenTime": "12:04:15 PM",
+    "lastSeenTime": "12:31:22 PM",
+    "onlineDurationMins": 27.114983333333335
+  },
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1613909503870,
+    "lastSeen": 1613917212588,
+    "firstSeenTime": "12:11:43 PM",
+    "lastSeenTime": "12:39:00 PM",
+    "onlineDurationMins": 27.28305
+  },
+  "evolving_master@lichess": {
+    "id": "evolving_master",
+    "provider": "lichess",
+    "username": "Evolving_Master",
+    "firstSeen": 1613909582632,
+    "lastSeen": 1613917155935,
+    "firstSeenTime": "12:13:02 PM",
+    "lastSeenTime": "12:38:43 PM",
+    "onlineDurationMins": 25.675
+  },
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1613916295812,
+    "lastSeen": 1613916904073
+  },
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1613916583174,
+    "lastSeen": 1613917124937
+  },
+  "mihir10_bot@lichess": {
+    "id": "mihir10_bot",
+    "provider": "lichess",
+    "username": "Mihir10_Bot",
+    "firstSeen": 1613917214888,
+    "lastSeen": 1613917214889
+  }
+}
