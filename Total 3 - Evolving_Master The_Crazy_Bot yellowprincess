@@ -1,0 +1,23 @@
+{
+  "evolving_master@lichess": {
+    "id": "evolving_master",
+    "provider": "lichess",
+    "username": "Evolving_Master",
+    "firstSeen": 1613894452069,
+    "lastSeen": 1613895425671
+  },
+  "the_crazy_bot@lichess": {
+    "id": "the_crazy_bot",
+    "provider": "lichess",
+    "username": "The_Crazy_Bot",
+    "firstSeen": 1613894838456,
+    "lastSeen": 1613894838456
+  },
+  "yellowprincess@lichess": {
+    "id": "yellowprincess",
+    "provider": "lichess",
+    "username": "yellowprincess",
+    "firstSeen": 1613895486651,
+    "lastSeen": 1613895486651
+  }
+}
