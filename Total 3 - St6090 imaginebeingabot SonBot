@@ -1,0 +1,32 @@
+{
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1613909503870,
+    "lastSeen": 1613925721031,
+    "firstSeenTime": "12:11:43 PM",
+    "lastSeenTime": "4:42:01 PM",
+    "onlineDurationMins": 270.2860166666667
+  },
+  "imaginebeingabot@lichess": {
+    "id": "imaginebeingabot",
+    "provider": "lichess",
+    "username": "imaginebeingabot",
+    "firstSeen": 1613923290005,
+    "lastSeen": 1613925337651,
+    "firstSeenTime": "4:01:30 PM",
+    "lastSeenTime": "4:35:37 PM",
+    "onlineDurationMins": 34.127433333333336
+  },
+  "sonbot@lichess": {
+    "id": "sonbot",
+    "provider": "lichess",
+    "username": "SonBot",
+    "firstSeen": 1613925843127,
+    "lastSeen": 1613925944500,
+    "firstSeenTime": "4:44:03 PM",
+    "lastSeenTime": "4:45:14 PM",
+    "onlineDurationMins": 1.1962666666666666
+  }
+}
