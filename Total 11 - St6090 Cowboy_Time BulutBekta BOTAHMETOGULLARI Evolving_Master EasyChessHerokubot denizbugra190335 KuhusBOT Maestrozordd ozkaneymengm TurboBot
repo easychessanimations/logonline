@@ -1,0 +1,88 @@
+{
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1613982059349,
+    "lastSeen": 1614005979029,
+    "firstSeenTime": "8:20:59 AM",
+    "lastSeenTime": "2:15:31 PM",
+    "onlineDurationMins": 354.53406666666666
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1613995691995,
+    "lastSeen": 1614005865636,
+    "firstSeenTime": "12:08:11 PM",
+    "lastSeenTime": "2:17:17 PM",
+    "onlineDurationMins": 129.09846666666667
+  },
+  "bulutbekta@lichess": {
+    "id": "bulutbekta",
+    "provider": "lichess",
+    "username": "BulutBekta",
+    "firstSeen": 1614002229705,
+    "lastSeen": 1614006020000,
+    "firstSeenTime": "1:57:09 PM",
+    "lastSeenTime": "2:13:25 PM",
+    "onlineDurationMins": 16.25585
+  },
+  "botahmetogullari@lichess": {
+    "id": "botahmetogullari",
+    "provider": "lichess",
+    "username": "BOTAHMETOGULLARI",
+    "firstSeen": 1614003990873,
+    "lastSeen": 1614006044950
+  },
+  "evolving_master@lichess": {
+    "id": "evolving_master",
+    "provider": "lichess",
+    "username": "Evolving_Master",
+    "firstSeen": 1614005015269,
+    "lastSeen": 1614005262490
+  },
+  "easychessherokubot@lichess": {
+    "id": "easychessherokubot",
+    "provider": "lichess",
+    "username": "EasyChessHerokubot",
+    "firstSeen": 1614005220295,
+    "lastSeen": 1614005865565
+  },
+  "denizbugra190335@lichess": {
+    "id": "denizbugra190335",
+    "provider": "lichess",
+    "username": "denizbugra190335",
+    "firstSeen": 1614005368840,
+    "lastSeen": 1614005865418
+  },
+  "kuhusbot@lichess": {
+    "id": "kuhusbot",
+    "provider": "lichess",
+    "username": "KuhusBOT",
+    "firstSeen": 1614005724892,
+    "lastSeen": 1614005854912
+  },
+  "maestrozordd@lichess": {
+    "id": "maestrozordd",
+    "provider": "lichess",
+    "username": "Maestrozordd",
+    "firstSeen": 1614005727087,
+    "lastSeen": 1614005727087
+  },
+  "ozkaneymengm@lichess": {
+    "id": "ozkaneymengm",
+    "provider": "lichess",
+    "username": "ozkaneymengm",
+    "firstSeen": 1614005758976,
+    "lastSeen": 1614006060883
+  },
+  "turbobot@lichess": {
+    "id": "turbobot",
+    "provider": "lichess",
+    "username": "TurboBot",
+    "firstSeen": 1614006067975,
+    "lastSeen": 1614006067975
+  }
+}
