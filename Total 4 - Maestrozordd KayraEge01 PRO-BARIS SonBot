@@ -1,0 +1,39 @@
+{
+  "maestrozordd@lichess": {
+    "id": "maestrozordd",
+    "provider": "lichess",
+    "username": "Maestrozordd",
+    "firstSeen": 1613963707955,
+    "lastSeen": 1613978720838,
+    "firstSeenTime": "3:15:07 AM",
+    "lastSeenTime": "7:10:38 AM",
+    "onlineDurationMins": 235.51051666666666
+  },
+  "kayraege01@lichess": {
+    "id": "kayraege01",
+    "provider": "lichess",
+    "username": "KayraEge01",
+    "firstSeen": 1613974358498,
+    "lastSeen": 1613978922226,
+    "firstSeenTime": "6:12:38 AM",
+    "lastSeenTime": "7:10:51 AM",
+    "onlineDurationMins": 58.223733333333335
+  },
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1613975374716,
+    "lastSeen": 1613978920765,
+    "firstSeenTime": "6:29:34 AM",
+    "lastSeenTime": "7:04:36 AM",
+    "onlineDurationMins": 35.032266666666665
+  },
+  "sonbot@lichess": {
+    "id": "sonbot",
+    "provider": "lichess",
+    "username": "SonBot",
+    "firstSeen": 1613978931719,
+    "lastSeen": 1613978931719
+  }
+}
