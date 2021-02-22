@@ -1,0 +1,62 @@
+{
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1613995691995,
+    "lastSeen": 1614014773746,
+    "firstSeenTime": "12:08:11 PM",
+    "lastSeenTime": "5:26:13 PM",
+    "onlineDurationMins": 318.0291833333333
+  },
+  "mrdaniel_chess_music@lichess": {
+    "id": "mrdaniel_chess_music",
+    "provider": "lichess",
+    "username": "MrDaniel_Chess_Music",
+    "firstSeen": 1614009724794,
+    "lastSeen": 1614014775998,
+    "firstSeenTime": "4:02:04 PM",
+    "lastSeenTime": "5:26:15 PM",
+    "onlineDurationMins": 84.18673333333334
+  },
+  "kuhusbot@lichess": {
+    "id": "kuhusbot",
+    "provider": "lichess",
+    "username": "KuhusBOT",
+    "firstSeen": 1614012205181,
+    "lastSeen": 1614014786314,
+    "firstSeenTime": "4:43:25 PM",
+    "lastSeenTime": "5:26:26 PM",
+    "onlineDurationMins": 43.018883333333335
+  },
+  "hyperchessbotauthor@lichess": {
+    "id": "hyperchessbotauthor",
+    "provider": "lichess",
+    "username": "hyperchessbotauthor",
+    "firstSeen": 1614013981615,
+    "lastSeen": 1614014027296,
+    "firstSeenTime": "5:13:01 PM",
+    "lastSeenTime": "5:13:47 PM",
+    "onlineDurationMins": 0.76135
+  },
+  "mourin146@lichess": {
+    "id": "mourin146",
+    "provider": "lichess",
+    "username": "Mourin146",
+    "firstSeen": 1614014068561,
+    "lastSeen": 1614014350903,
+    "firstSeenTime": "5:14:28 PM",
+    "lastSeenTime": "5:19:10 PM",
+    "onlineDurationMins": 4.7057
+  },
+  "mr_indian_hacker_2@lichess": {
+    "id": "mr_indian_hacker_2",
+    "provider": "lichess",
+    "username": "Mr_Indian_Hacker_2",
+    "firstSeen": 1614014352657,
+    "lastSeen": 1614014617005,
+    "firstSeenTime": "5:19:12 PM",
+    "lastSeenTime": "5:23:37 PM",
+    "onlineDurationMins": 4.4058
+  }
+}
