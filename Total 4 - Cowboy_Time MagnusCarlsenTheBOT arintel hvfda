@@ -1,0 +1,39 @@
+{
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1613995691995,
+    "lastSeen": 1614018916991,
+    "firstSeenTime": "12:08:11 PM",
+    "lastSeenTime": "6:35:16 PM",
+    "onlineDurationMins": 387.08326666666665
+  },
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1614016510192,
+    "lastSeen": 1614018929073,
+    "firstSeenTime": "5:55:10 PM",
+    "lastSeenTime": "6:35:29 PM",
+    "onlineDurationMins": 40.314683333333335
+  },
+  "arintel@lichess": {
+    "id": "arintel",
+    "provider": "lichess",
+    "username": "arintel",
+    "firstSeen": 1614018493248,
+    "lastSeen": 1614018504807,
+    "firstSeenTime": "6:28:13 PM",
+    "lastSeenTime": "6:28:24 PM",
+    "onlineDurationMins": 0.19265
+  },
+  "hvfda@lichess": {
+    "id": "hvfda",
+    "provider": "lichess",
+    "username": "hvfda",
+    "firstSeen": 1614019094593,
+    "lastSeen": 1614019094593
+  }
+}
