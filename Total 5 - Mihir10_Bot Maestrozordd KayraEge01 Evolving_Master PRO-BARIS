@@ -1,0 +1,46 @@
+{
+  "mihir10_bot@lichess": {
+    "id": "mihir10_bot",
+    "provider": "lichess",
+    "username": "Mihir10_Bot",
+    "firstSeen": 1613961846067,
+    "lastSeen": 1613975799032,
+    "firstSeenTime": "2:44:06 AM",
+    "lastSeenTime": "6:19:42 AM",
+    "onlineDurationMins": 215.60501666666667
+  },
+  "maestrozordd@lichess": {
+    "id": "maestrozordd",
+    "provider": "lichess",
+    "username": "Maestrozordd",
+    "firstSeen": 1613963707955,
+    "lastSeen": 1613976066181,
+    "firstSeenTime": "3:15:07 AM",
+    "lastSeenTime": "6:21:13 AM",
+    "onlineDurationMins": 186.09075
+  },
+  "kayraege01@lichess": {
+    "id": "kayraege01",
+    "provider": "lichess",
+    "username": "KayraEge01",
+    "firstSeen": 1613974358498,
+    "lastSeen": 1613975875031,
+    "firstSeenTime": "6:12:38 AM",
+    "lastSeenTime": "6:18:56 AM",
+    "onlineDurationMins": 6.30585
+  },
+  "evolving_master@lichess": {
+    "id": "evolving_master",
+    "provider": "lichess",
+    "username": "Evolving_Master",
+    "firstSeen": 1613975213652,
+    "lastSeen": 1613975929133
+  },
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1613975374716,
+    "lastSeen": 1613975383840
+  }
+}
