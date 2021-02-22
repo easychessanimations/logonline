@@ -1,0 +1,76 @@
+{
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1613982059349,
+    "lastSeen": 1614001813385,
+    "firstSeenTime": "8:20:59 AM",
+    "lastSeenTime": "1:17:02 PM",
+    "onlineDurationMins": 296.0563333333333
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1613995691995,
+    "lastSeen": 1614001693671,
+    "firstSeenTime": "12:08:11 PM",
+    "lastSeenTime": "1:23:13 PM",
+    "onlineDurationMins": 75.02723333333333
+  },
+  "kuhusbot@lichess": {
+    "id": "kuhusbot",
+    "provider": "lichess",
+    "username": "KuhusBOT",
+    "firstSeen": 1613998184981,
+    "lastSeen": 1614001227791,
+    "firstSeenTime": "12:49:44 PM",
+    "lastSeenTime": "1:16:24 PM",
+    "onlineDurationMins": 26.661316666666668
+  },
+  "maestrozordd@lichess": {
+    "id": "maestrozordd",
+    "provider": "lichess",
+    "username": "Maestrozordd",
+    "firstSeen": 1613998224292,
+    "lastSeen": 1614001244854,
+    "firstSeenTime": "12:50:24 PM",
+    "lastSeenTime": "1:16:44 PM",
+    "onlineDurationMins": 26.340333333333334
+  },
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1613998755976,
+    "lastSeen": 1614001758858,
+    "firstSeenTime": "12:59:15 PM",
+    "lastSeenTime": "1:24:18 PM",
+    "onlineDurationMins": 25.04275
+  },
+  "asabot@lichess": {
+    "id": "asabot",
+    "provider": "lichess",
+    "username": "asabot",
+    "firstSeen": 1613999605014,
+    "lastSeen": 1614001107246,
+    "firstSeenTime": "1:13:25 PM",
+    "lastSeenTime": "1:24:30 PM",
+    "onlineDurationMins": 11.090066666666667
+  },
+  "bots8you@lichess": {
+    "id": "bots8you",
+    "provider": "lichess",
+    "username": "Bots8You",
+    "firstSeen": 1614001198627,
+    "lastSeen": 1614001461486
+  },
+  "sathyakarthik_1234@lichess": {
+    "id": "sathyakarthik_1234",
+    "provider": "lichess",
+    "username": "SathyaKarthik_1234",
+    "firstSeen": 1614001832355,
+    "lastSeen": 1614001832355
+  }
+}
