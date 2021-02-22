@@ -1,0 +1,57 @@
+{
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1613995691995,
+    "lastSeen": 1614007693683,
+    "firstSeenTime": "12:08:11 PM",
+    "lastSeenTime": "2:17:17 PM",
+    "onlineDurationMins": 129.09846666666667
+  },
+  "bulutbekta@lichess": {
+    "id": "bulutbekta",
+    "provider": "lichess",
+    "username": "BulutBekta",
+    "firstSeen": 1614002229705,
+    "lastSeen": 1614007521017,
+    "firstSeenTime": "1:57:09 PM",
+    "lastSeenTime": "2:13:25 PM",
+    "onlineDurationMins": 16.25585
+  },
+  "evolving_master@lichess": {
+    "id": "evolving_master",
+    "provider": "lichess",
+    "username": "Evolving_Master",
+    "firstSeen": 1614006304788,
+    "lastSeen": 1614007756269
+  },
+  "bots_1@lichess": {
+    "id": "bots_1",
+    "provider": "lichess",
+    "username": "BoTs_1",
+    "firstSeen": 1614006484569,
+    "lastSeen": 1614007095960
+  },
+  "maestrozordd@lichess": {
+    "id": "maestrozordd",
+    "provider": "lichess",
+    "username": "Maestrozordd",
+    "firstSeen": 1614006887482,
+    "lastSeen": 1614006887482
+  },
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1614006900100,
+    "lastSeen": 1614006903493
+  },
+  "variantenkoning@lichess": {
+    "id": "variantenkoning",
+    "provider": "lichess",
+    "username": "Variantenkoning",
+    "firstSeen": 1614007000462,
+    "lastSeen": 1614007786299
+  }
+}
