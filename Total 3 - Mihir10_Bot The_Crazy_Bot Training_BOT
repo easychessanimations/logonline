@@ -1,0 +1,23 @@
+{
+  "mihir10_bot@lichess": {
+    "id": "mihir10_bot",
+    "provider": "lichess",
+    "username": "Mihir10_Bot",
+    "firstSeen": 1613961846067,
+    "lastSeen": 1613963169498
+  },
+  "the_crazy_bot@lichess": {
+    "id": "the_crazy_bot",
+    "provider": "lichess",
+    "username": "The_Crazy_Bot",
+    "firstSeen": 1613962000417,
+    "lastSeen": 1613962931113
+  },
+  "training_bot@lichess": {
+    "id": "training_bot",
+    "provider": "lichess",
+    "username": "Training_BOT",
+    "firstSeen": 1613962854244,
+    "lastSeen": 1613963251539
+  }
+}
