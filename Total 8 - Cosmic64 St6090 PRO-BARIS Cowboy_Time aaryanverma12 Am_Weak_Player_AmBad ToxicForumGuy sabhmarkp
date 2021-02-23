@@ -1,0 +1,73 @@
+{
+  "cosmic64@lichess": {
+    "id": "cosmic64",
+    "provider": "lichess",
+    "username": "Cosmic64",
+    "firstSeen": 1614078836891,
+    "lastSeen": 1614082212544,
+    "firstSeenTime": "11:13:56 AM",
+    "lastSeenTime": "11:39:28 AM",
+    "onlineDurationMins": 25.531116666666666
+  },
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1614078872208,
+    "lastSeen": 1614082220212,
+    "firstSeenTime": "11:14:32 AM",
+    "lastSeenTime": "11:38:58 AM",
+    "onlineDurationMins": 24.436283333333332
+  },
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1614079090976,
+    "lastSeen": 1614081725751,
+    "firstSeenTime": "11:18:10 AM",
+    "lastSeenTime": "11:38:00 AM",
+    "onlineDurationMins": 19.82675
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1614079772694,
+    "lastSeen": 1614081825833,
+    "firstSeenTime": "11:29:32 AM",
+    "lastSeenTime": "11:39:47 AM",
+    "onlineDurationMins": 10.248233333333333
+  },
+  "aaryanverma12@lichess": {
+    "id": "aaryanverma12",
+    "provider": "lichess",
+    "username": "aaryanverma12",
+    "firstSeen": 1614080331276,
+    "lastSeen": 1614081342058,
+    "firstSeenTime": "11:38:51 AM",
+    "lastSeenTime": "11:39:50 AM",
+    "onlineDurationMins": 0.9822
+  },
+  "am_weak_player_ambad@lichess": {
+    "id": "am_weak_player_ambad",
+    "provider": "lichess",
+    "username": "Am_Weak_Player_AmBad",
+    "firstSeen": 1614080933689,
+    "lastSeen": 1614082118004
+  },
+  "toxicforumguy@lichess": {
+    "id": "toxicforumguy",
+    "provider": "lichess",
+    "username": "ToxicForumGuy",
+    "firstSeen": 1614081570895,
+    "lastSeen": 1614081590801
+  },
+  "sabhmarkp@lichess": {
+    "id": "sabhmarkp",
+    "provider": "lichess",
+    "username": "sabhmarkp",
+    "firstSeen": 1614081794656,
+    "lastSeen": 1614081818087
+  }
+}
