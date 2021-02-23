@@ -1,0 +1,22 @@
+{
+  "herrbergerbot@lichess": {
+    "id": "herrbergerbot",
+    "provider": "lichess",
+    "username": "HerrBergerBot",
+    "firstSeen": 1614106262760,
+    "lastSeen": 1614111138625,
+    "firstSeenTime": "6:51:02 PM",
+    "lastSeenTime": "8:01:18 PM",
+    "onlineDurationMins": 70.26423333333334
+  },
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1614110400804,
+    "lastSeen": 1614111140323,
+    "firstSeenTime": "8:00:00 PM",
+    "lastSeenTime": "8:00:04 PM",
+    "onlineDurationMins": 0.055016666666666665
+  }
+}
