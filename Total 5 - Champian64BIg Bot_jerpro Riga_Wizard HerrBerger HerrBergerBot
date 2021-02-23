@@ -1,0 +1,46 @@
+{
+  "champian64big@lichess": {
+    "id": "champian64big",
+    "provider": "lichess",
+    "username": "Champian64BIg",
+    "firstSeen": 1614104531748,
+    "lastSeen": 1614105470756,
+    "firstSeenTime": "6:22:11 PM",
+    "lastSeenTime": "6:37:50 PM",
+    "onlineDurationMins": 15.650133333333333
+  },
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1614104656140,
+    "lastSeen": 1614106093229,
+    "firstSeenTime": "6:24:16 PM",
+    "lastSeenTime": "6:45:54 PM",
+    "onlineDurationMins": 21.641283333333334
+  },
+  "riga_wizard@lichess": {
+    "id": "riga_wizard",
+    "provider": "lichess",
+    "username": "Riga_Wizard",
+    "firstSeen": 1614105276170,
+    "lastSeen": 1614106262246,
+    "firstSeenTime": "6:34:36 PM",
+    "lastSeenTime": "6:46:14 PM",
+    "onlineDurationMins": 11.644016666666667
+  },
+  "herrberger@lichess": {
+    "id": "herrberger",
+    "provider": "lichess",
+    "username": "HerrBerger",
+    "firstSeen": 1614106199501,
+    "lastSeen": 1614106221253
+  },
+  "herrbergerbot@lichess": {
+    "id": "herrbergerbot",
+    "provider": "lichess",
+    "username": "HerrBergerBot",
+    "firstSeen": 1614106262760,
+    "lastSeen": 1614106262760
+  }
+}
