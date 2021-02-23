@@ -1,0 +1,42 @@
+{
+  "mihir10_bot@lichess": {
+    "id": "mihir10_bot",
+    "provider": "lichess",
+    "username": "Mihir10_Bot",
+    "firstSeen": 1614047813496,
+    "lastSeen": 1614059278179,
+    "firstSeenTime": "2:36:53 AM",
+    "lastSeenTime": "5:47:58 AM",
+    "onlineDurationMins": 191.07805
+  },
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1614058158505,
+    "lastSeen": 1614059452908,
+    "firstSeenTime": "5:29:18 AM",
+    "lastSeenTime": "5:48:05 AM",
+    "onlineDurationMins": 18.779316666666666
+  },
+  "trapp200@lichess": {
+    "id": "trapp200",
+    "provider": "lichess",
+    "username": "Trapp200",
+    "firstSeen": 1614058648823,
+    "lastSeen": 1614058652190,
+    "firstSeenTime": "5:37:28 AM",
+    "lastSeenTime": "5:37:32 AM",
+    "onlineDurationMins": 0.05611666666666667
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1614059278806,
+    "lastSeen": 1614059282171,
+    "firstSeenTime": "5:47:58 AM",
+    "lastSeenTime": "5:48:02 AM",
+    "onlineDurationMins": 0.05608333333333333
+  }
+}
