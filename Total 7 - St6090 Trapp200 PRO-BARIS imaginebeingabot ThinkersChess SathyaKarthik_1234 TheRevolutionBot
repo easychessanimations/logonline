@@ -1,0 +1,63 @@
+{
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1614058158505,
+    "lastSeen": 1614075006102,
+    "firstSeenTime": "5:29:18 AM",
+    "lastSeenTime": "9:25:05 AM",
+    "onlineDurationMins": 235.78901666666667
+  },
+  "trapp200@lichess": {
+    "id": "trapp200",
+    "provider": "lichess",
+    "username": "Trapp200",
+    "firstSeen": 1614060565587,
+    "lastSeen": 1614075028970,
+    "firstSeenTime": "6:09:25 AM",
+    "lastSeenTime": "9:25:28 AM",
+    "onlineDurationMins": 196.05538333333334
+  },
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1614067202584,
+    "lastSeen": 1614074906239,
+    "firstSeenTime": "8:00:02 AM",
+    "lastSeenTime": "9:30:15 AM",
+    "onlineDurationMins": 90.20831666666666
+  },
+  "imaginebeingabot@lichess": {
+    "id": "imaginebeingabot",
+    "provider": "lichess",
+    "username": "imaginebeingabot",
+    "firstSeen": 1614069390938,
+    "lastSeen": 1614074877164,
+    "firstSeenTime": "8:36:30 AM",
+    "lastSeenTime": "9:32:53 AM",
+    "onlineDurationMins": 56.38048333333333
+  },
+  "thinkerschess@lichess": {
+    "id": "thinkerschess",
+    "provider": "lichess",
+    "username": "ThinkersChess",
+    "firstSeen": 1614073427288,
+    "lastSeen": 1614074937202
+  },
+  "sathyakarthik_1234@lichess": {
+    "id": "sathyakarthik_1234",
+    "provider": "lichess",
+    "username": "SathyaKarthik_1234",
+    "firstSeen": 1614074590767,
+    "lastSeen": 1614075250483
+  },
+  "therevolutionbot@lichess": {
+    "id": "therevolutionbot",
+    "provider": "lichess",
+    "username": "TheRevolutionBot",
+    "firstSeen": 1614075175851,
+    "lastSeen": 1614075195043
+  }
+}
