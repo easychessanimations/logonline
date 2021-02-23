@@ -1,0 +1,69 @@
+{
+  "cosmic64@lichess": {
+    "id": "cosmic64",
+    "provider": "lichess",
+    "username": "Cosmic64",
+    "firstSeen": 1614078836891,
+    "lastSeen": 1614082572419,
+    "firstSeenTime": "11:13:56 AM",
+    "lastSeenTime": "12:10:12 PM",
+    "onlineDurationMins": 56.26088333333333
+  },
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1614078872208,
+    "lastSeen": 1614082440205,
+    "firstSeenTime": "11:14:32 AM",
+    "lastSeenTime": "12:14:00 PM",
+    "onlineDurationMins": 59.46661666666667
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1614079772694,
+    "lastSeen": 1614081825833,
+    "firstSeenTime": "11:29:32 AM",
+    "lastSeenTime": "12:03:45 PM",
+    "onlineDurationMins": 34.218983333333334
+  },
+  "am_weak_player_ambad@lichess": {
+    "id": "am_weak_player_ambad",
+    "provider": "lichess",
+    "username": "Am_Weak_Player_AmBad",
+    "firstSeen": 1614080933689,
+    "lastSeen": 1614082518109,
+    "firstSeenTime": "11:48:53 AM",
+    "lastSeenTime": "12:14:43 PM",
+    "onlineDurationMins": 25.82496666666667
+  },
+  "sabhmarkp@lichess": {
+    "id": "sabhmarkp",
+    "provider": "lichess",
+    "username": "sabhmarkp",
+    "firstSeen": 1614081794656,
+    "lastSeen": 1614081818087,
+    "firstSeenTime": "12:03:14 PM",
+    "lastSeenTime": "12:03:38 PM",
+    "onlineDurationMins": 0.3905166666666667
+  },
+  "enticingseal@lichess": {
+    "id": "enticingseal",
+    "provider": "lichess",
+    "username": "Enticingseal",
+    "firstSeen": 1614082387660,
+    "lastSeen": 1614082490640,
+    "firstSeenTime": "12:13:07 PM",
+    "lastSeenTime": "12:13:37 PM",
+    "onlineDurationMins": 0.4961
+  },
+  "unkown_user@lichess": {
+    "id": "unkown_user",
+    "provider": "lichess",
+    "username": "Unkown_User",
+    "firstSeen": 1614082491494,
+    "lastSeen": 1614082555367
+  }
+}
