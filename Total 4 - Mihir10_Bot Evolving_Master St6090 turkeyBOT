@@ -1,0 +1,33 @@
+{
+  "mihir10_bot@lichess": {
+    "id": "mihir10_bot",
+    "provider": "lichess",
+    "username": "Mihir10_Bot",
+    "firstSeen": 1614047813496,
+    "lastSeen": 1614058063440,
+    "firstSeenTime": "2:36:53 AM",
+    "lastSeenTime": "5:00:01 AM",
+    "onlineDurationMins": 143.13891666666666
+  },
+  "evolving_master@lichess": {
+    "id": "evolving_master",
+    "provider": "lichess",
+    "username": "Evolving_Master",
+    "firstSeen": 1614056859756,
+    "lastSeen": 1614058188879
+  },
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1614058158505,
+    "lastSeen": 1614058167538
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1614058256578,
+    "lastSeen": 1614058256579
+  }
+}
