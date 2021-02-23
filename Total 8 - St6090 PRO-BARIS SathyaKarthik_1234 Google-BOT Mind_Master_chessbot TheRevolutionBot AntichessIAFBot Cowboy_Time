@@ -1,0 +1,61 @@
+{
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1614078872208,
+    "lastSeen": 1614084726302,
+    "firstSeenTime": "11:14:32 AM",
+    "lastSeenTime": "12:14:00 PM",
+    "onlineDurationMins": 59.46661666666667
+  },
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1614083032391,
+    "lastSeen": 1614085015714
+  },
+  "sathyakarthik_1234@lichess": {
+    "id": "sathyakarthik_1234",
+    "provider": "lichess",
+    "username": "SathyaKarthik_1234",
+    "firstSeen": 1614083277618,
+    "lastSeen": 1614084219403
+  },
+  "google-bot@lichess": {
+    "id": "google-bot",
+    "provider": "lichess",
+    "username": "Google-BOT",
+    "firstSeen": 1614084049751,
+    "lastSeen": 1614084744744
+  },
+  "mind_master_chessbot@lichess": {
+    "id": "mind_master_chessbot",
+    "provider": "lichess",
+    "username": "Mind_Master_chessbot",
+    "firstSeen": 1614084289384,
+    "lastSeen": 1614084405024
+  },
+  "therevolutionbot@lichess": {
+    "id": "therevolutionbot",
+    "provider": "lichess",
+    "username": "TheRevolutionBot",
+    "firstSeen": 1614084390650,
+    "lastSeen": 1614084402039
+  },
+  "antichessiafbot@lichess": {
+    "id": "antichessiafbot",
+    "provider": "lichess",
+    "username": "AntichessIAFBot",
+    "firstSeen": 1614084416553,
+    "lastSeen": 1614084441478
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1614084923803,
+    "lastSeen": 1614085003010
+  }
+}
