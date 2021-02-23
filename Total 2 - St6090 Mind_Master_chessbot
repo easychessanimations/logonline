@@ -1,0 +1,22 @@
+{
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1614078872208,
+    "lastSeen": 1614086042811,
+    "firstSeenTime": "11:14:32 AM",
+    "lastSeenTime": "1:10:58 PM",
+    "onlineDurationMins": 116.44383333333333
+  },
+  "mind_master_chessbot@lichess": {
+    "id": "mind_master_chessbot",
+    "provider": "lichess",
+    "username": "Mind_Master_chessbot",
+    "firstSeen": 1614084289384,
+    "lastSeen": 1614085753039,
+    "firstSeenTime": "12:44:49 PM",
+    "lastSeenTime": "1:09:13 PM",
+    "onlineDurationMins": 24.39425
+  }
+}
