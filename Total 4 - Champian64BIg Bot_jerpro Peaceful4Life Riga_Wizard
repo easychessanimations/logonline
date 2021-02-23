@@ -1,0 +1,39 @@
+{
+  "champian64big@lichess": {
+    "id": "champian64big",
+    "provider": "lichess",
+    "username": "Champian64BIg",
+    "firstSeen": 1614104531748,
+    "lastSeen": 1614105268442,
+    "firstSeenTime": "6:22:11 PM",
+    "lastSeenTime": "6:28:56 PM",
+    "onlineDurationMins": 6.747766666666666
+  },
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1614104656140,
+    "lastSeen": 1614104899347,
+    "firstSeenTime": "6:24:16 PM",
+    "lastSeenTime": "6:28:19 PM",
+    "onlineDurationMins": 4.05345
+  },
+  "peaceful4life@lichess": {
+    "id": "peaceful4life",
+    "provider": "lichess",
+    "username": "Peaceful4Life",
+    "firstSeen": 1614104893676,
+    "lastSeen": 1614105073670,
+    "firstSeenTime": "6:28:13 PM",
+    "lastSeenTime": "6:28:13 PM",
+    "onlineDurationMins": 0
+  },
+  "riga_wizard@lichess": {
+    "id": "riga_wizard",
+    "provider": "lichess",
+    "username": "Riga_Wizard",
+    "firstSeen": 1614105276170,
+    "lastSeen": 1614105276170
+  }
+}
