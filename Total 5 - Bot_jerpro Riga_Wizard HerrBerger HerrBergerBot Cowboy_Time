@@ -1,0 +1,49 @@
+{
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1614104656140,
+    "lastSeen": 1614106666322,
+    "firstSeenTime": "6:24:16 PM",
+    "lastSeenTime": "6:48:13 PM",
+    "onlineDurationMins": 23.951483333333332
+  },
+  "riga_wizard@lichess": {
+    "id": "riga_wizard",
+    "provider": "lichess",
+    "username": "Riga_Wizard",
+    "firstSeen": 1614105276170,
+    "lastSeen": 1614106652057,
+    "firstSeenTime": "6:34:36 PM",
+    "lastSeenTime": "6:52:02 PM",
+    "onlineDurationMins": 17.441166666666668
+  },
+  "herrberger@lichess": {
+    "id": "herrberger",
+    "provider": "lichess",
+    "username": "HerrBerger",
+    "firstSeen": 1614106199501,
+    "lastSeen": 1614106221253,
+    "firstSeenTime": "6:49:59 PM",
+    "lastSeenTime": "6:50:21 PM",
+    "onlineDurationMins": 0.3625333333333333
+  },
+  "herrbergerbot@lichess": {
+    "id": "herrbergerbot",
+    "provider": "lichess",
+    "username": "HerrBergerBot",
+    "firstSeen": 1614106262760,
+    "lastSeen": 1614106601071,
+    "firstSeenTime": "6:51:02 PM",
+    "lastSeenTime": "6:52:41 PM",
+    "onlineDurationMins": 1.64085
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1614106689099,
+    "lastSeen": 1614106689099
+  }
+}
