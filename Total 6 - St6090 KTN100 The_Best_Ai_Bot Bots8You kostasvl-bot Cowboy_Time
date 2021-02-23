@@ -1,0 +1,47 @@
+{
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1614089163105,
+    "lastSeen": 1614096493796,
+    "firstSeenTime": "2:06:03 PM",
+    "lastSeenTime": "2:38:55 PM",
+    "onlineDurationMins": 32.86898333333333
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1614094904594,
+    "lastSeen": 1614096228588
+  },
+  "the_best_ai_bot@lichess": {
+    "id": "the_best_ai_bot",
+    "provider": "lichess",
+    "username": "The_Best_Ai_Bot",
+    "firstSeen": 1614095367843,
+    "lastSeen": 1614096035018
+  },
+  "bots8you@lichess": {
+    "id": "bots8you",
+    "provider": "lichess",
+    "username": "Bots8You",
+    "firstSeen": 1614095398687,
+    "lastSeen": 1614096309294
+  },
+  "kostasvl-bot@lichess": {
+    "id": "kostasvl-bot",
+    "provider": "lichess",
+    "username": "kostasvl-bot",
+    "firstSeen": 1614095757456,
+    "lastSeen": 1614095765632
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1614095824960,
+    "lastSeen": 1614096054895
+  }
+}
