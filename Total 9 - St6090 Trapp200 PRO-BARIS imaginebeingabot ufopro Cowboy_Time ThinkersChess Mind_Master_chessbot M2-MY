@@ -1,0 +1,80 @@
+{
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1614058158505,
+    "lastSeen": 1614073685935,
+    "firstSeenTime": "5:29:18 AM",
+    "lastSeenTime": "9:25:05 AM",
+    "onlineDurationMins": 235.78901666666667
+  },
+  "trapp200@lichess": {
+    "id": "trapp200",
+    "provider": "lichess",
+    "username": "Trapp200",
+    "firstSeen": 1614060565587,
+    "lastSeen": 1614073708909,
+    "firstSeenTime": "6:09:25 AM",
+    "lastSeenTime": "9:25:28 AM",
+    "onlineDurationMins": 196.05538333333334
+  },
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1614067202584,
+    "lastSeen": 1614073276779,
+    "firstSeenTime": "8:00:02 AM",
+    "lastSeenTime": "9:30:15 AM",
+    "onlineDurationMins": 90.20831666666666
+  },
+  "imaginebeingabot@lichess": {
+    "id": "imaginebeingabot",
+    "provider": "lichess",
+    "username": "imaginebeingabot",
+    "firstSeen": 1614069390938,
+    "lastSeen": 1614073256032,
+    "firstSeenTime": "8:36:30 AM",
+    "lastSeenTime": "9:32:53 AM",
+    "onlineDurationMins": 56.38048333333333
+  },
+  "ufopro@lichess": {
+    "id": "ufopro",
+    "provider": "lichess",
+    "username": "ufopro",
+    "firstSeen": 1614072260589,
+    "lastSeen": 1614073030537,
+    "firstSeenTime": "9:24:20 AM",
+    "lastSeenTime": "9:34:44 AM",
+    "onlineDurationMins": 10.395183333333334
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1614073038681,
+    "lastSeen": 1614073651751
+  },
+  "thinkerschess@lichess": {
+    "id": "thinkerschess",
+    "provider": "lichess",
+    "username": "ThinkersChess",
+    "firstSeen": 1614073427288,
+    "lastSeen": 1614073755549
+  },
+  "mind_master_chessbot@lichess": {
+    "id": "mind_master_chessbot",
+    "provider": "lichess",
+    "username": "Mind_Master_chessbot",
+    "firstSeen": 1614073431743,
+    "lastSeen": 1614073615422
+  },
+  "m2-my@lichess": {
+    "id": "m2-my",
+    "provider": "lichess",
+    "username": "M2-MY",
+    "firstSeen": 1614073433655,
+    "lastSeen": 1614073773972
+  }
+}
