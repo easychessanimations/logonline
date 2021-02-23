@@ -1,0 +1,50 @@
+{
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1614058158505,
+    "lastSeen": 1614067629586,
+    "firstSeenTime": "5:29:18 AM",
+    "lastSeenTime": "7:37:02 AM",
+    "onlineDurationMins": 127.72971666666666
+  },
+  "trapp200@lichess": {
+    "id": "trapp200",
+    "provider": "lichess",
+    "username": "Trapp200",
+    "firstSeen": 1614060565587,
+    "lastSeen": 1614067648888,
+    "firstSeenTime": "6:09:25 AM",
+    "lastSeenTime": "7:36:25 AM",
+    "onlineDurationMins": 86.99953333333333
+  },
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1614067202584,
+    "lastSeen": 1614067866226
+  },
+  "master_bot_bot_bot@lichess": {
+    "id": "master_bot_bot_bot",
+    "provider": "lichess",
+    "username": "master_bot_bot_bot",
+    "firstSeen": 1614067600229,
+    "lastSeen": 1614067609941
+  },
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1614067871803,
+    "lastSeen": 1614067925838
+  },
+  "analyzechess@lichess": {
+    "id": "analyzechess",
+    "provider": "lichess",
+    "username": "AnalyzeChess",
+    "firstSeen": 1614068033846,
+    "lastSeen": 1614068033846
+  }
+}
