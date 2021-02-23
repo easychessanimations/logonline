@@ -1,0 +1,63 @@
+{
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1614078872208,
+    "lastSeen": 1614087365841,
+    "firstSeenTime": "11:14:32 AM",
+    "lastSeenTime": "1:25:06 PM",
+    "onlineDurationMins": 130.56735
+  },
+  "jeddycoco12345@lichess": {
+    "id": "jeddycoco12345",
+    "provider": "lichess",
+    "username": "JEDDYCOCO12345",
+    "firstSeen": 1614086286160,
+    "lastSeen": 1614087367011,
+    "firstSeenTime": "1:18:06 PM",
+    "lastSeenTime": "1:30:04 PM",
+    "onlineDurationMins": 11.971566666666666
+  },
+  "kostasvl-bot@lichess": {
+    "id": "kostasvl-bot",
+    "provider": "lichess",
+    "username": "kostasvl-bot",
+    "firstSeen": 1614086935361,
+    "lastSeen": 1614087114627,
+    "firstSeenTime": "1:28:55 PM",
+    "lastSeenTime": "1:31:54 PM",
+    "onlineDurationMins": 2.9877666666666665
+  },
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1614087028084,
+    "lastSeen": 1614087040797,
+    "firstSeenTime": "1:30:28 PM",
+    "lastSeenTime": "1:30:40 PM",
+    "onlineDurationMins": 0.21188333333333334
+  },
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1614087352231,
+    "lastSeen": 1614087371295
+  },
+  "ktn100@lichess": {
+    "id": "ktn100",
+    "provider": "lichess",
+    "username": "KTN100",
+    "firstSeen": 1614087372082,
+    "lastSeen": 1614087460651
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1614087460896,
+    "lastSeen": 1614087460896
+  }
+}
