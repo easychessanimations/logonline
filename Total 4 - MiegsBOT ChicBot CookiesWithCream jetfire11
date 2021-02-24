@@ -1,0 +1,30 @@
+{
+  "miegsbot@lichess": {
+    "id": "miegsbot",
+    "provider": "lichess",
+    "username": "MiegsBOT",
+    "firstSeen": 1614202431794,
+    "lastSeen": 1614205188953
+  },
+  "chicbot@lichess": {
+    "id": "chicbot",
+    "provider": "lichess",
+    "username": "ChicBot",
+    "firstSeen": 1614203436553,
+    "lastSeen": 1614204938554
+  },
+  "cookieswithcream@lichess": {
+    "id": "cookieswithcream",
+    "provider": "lichess",
+    "username": "CookiesWithCream",
+    "firstSeen": 1614203444519,
+    "lastSeen": 1614204951697
+  },
+  "jetfire11@lichess": {
+    "id": "jetfire11",
+    "provider": "lichess",
+    "username": "jetfire11",
+    "firstSeen": 1614204812737,
+    "lastSeen": 1614205189893
+  }
+}
