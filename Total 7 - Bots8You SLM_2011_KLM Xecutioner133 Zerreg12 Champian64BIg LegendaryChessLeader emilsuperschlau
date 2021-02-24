@@ -1,0 +1,60 @@
+{
+  "bots8you@lichess": {
+    "id": "bots8you",
+    "provider": "lichess",
+    "username": "Bots8You",
+    "firstSeen": 1614177934767,
+    "lastSeen": 1614177944275,
+    "firstSeenTime": "2:45:34 PM",
+    "lastSeenTime": "2:45:44 PM",
+    "onlineDurationMins": 0.15846666666666667
+  },
+  "slm_2011_klm@lichess": {
+    "id": "slm_2011_klm",
+    "provider": "lichess",
+    "username": "SLM_2011_KLM",
+    "firstSeen": 1614177983997,
+    "lastSeen": 1614178213465,
+    "firstSeenTime": "2:46:23 PM",
+    "lastSeenTime": "2:50:13 PM",
+    "onlineDurationMins": 3.8244666666666665
+  },
+  "xecutioner133@lichess": {
+    "id": "xecutioner133",
+    "provider": "lichess",
+    "username": "Xecutioner133",
+    "firstSeen": 1614178214218,
+    "lastSeen": 1614178246521,
+    "firstSeenTime": "2:50:14 PM",
+    "lastSeenTime": "2:50:46 PM",
+    "onlineDurationMins": 0.5383833333333333
+  },
+  "zerreg12@lichess": {
+    "id": "zerreg12",
+    "provider": "lichess",
+    "username": "Zerreg12",
+    "firstSeen": 1614178377272,
+    "lastSeen": 1614178405359
+  },
+  "champian64big@lichess": {
+    "id": "champian64big",
+    "provider": "lichess",
+    "username": "Champian64BIg",
+    "firstSeen": 1614178406806,
+    "lastSeen": 1614178417438
+  },
+  "legendarychessleader@lichess": {
+    "id": "legendarychessleader",
+    "provider": "lichess",
+    "username": "LegendaryChessLeader",
+    "firstSeen": 1614178605551,
+    "lastSeen": 1614178616778
+  },
+  "emilsuperschlau@lichess": {
+    "id": "emilsuperschlau",
+    "provider": "lichess",
+    "username": "emilsuperschlau",
+    "firstSeen": 1614178617492,
+    "lastSeen": 1614178617492
+  }
+}
