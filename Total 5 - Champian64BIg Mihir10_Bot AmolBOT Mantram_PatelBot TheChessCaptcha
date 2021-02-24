@@ -1,0 +1,52 @@
+{
+  "champian64big@lichess": {
+    "id": "champian64big",
+    "provider": "lichess",
+    "username": "Champian64BIg",
+    "firstSeen": 1614138843470,
+    "lastSeen": 1614144663770,
+    "firstSeenTime": "3:54:03 AM",
+    "lastSeenTime": "5:28:07 AM",
+    "onlineDurationMins": 94.05913333333334
+  },
+  "mihir10_bot@lichess": {
+    "id": "mihir10_bot",
+    "provider": "lichess",
+    "username": "Mihir10_Bot",
+    "firstSeen": 1614142022465,
+    "lastSeen": 1614144731606,
+    "firstSeenTime": "4:47:02 AM",
+    "lastSeenTime": "5:20:12 AM",
+    "onlineDurationMins": 33.16765
+  },
+  "amolbot@lichess": {
+    "id": "amolbot",
+    "provider": "lichess",
+    "username": "AmolBOT",
+    "firstSeen": 1614142626604,
+    "lastSeen": 1614144833703,
+    "firstSeenTime": "4:57:06 AM",
+    "lastSeenTime": "5:29:16 AM",
+    "onlineDurationMins": 32.173066666666664
+  },
+  "mantram_patelbot@lichess": {
+    "id": "mantram_patelbot",
+    "provider": "lichess",
+    "username": "Mantram_PatelBot",
+    "firstSeen": 1614143791522,
+    "lastSeen": 1614144311431,
+    "firstSeenTime": "5:16:31 AM",
+    "lastSeenTime": "5:25:11 AM",
+    "onlineDurationMins": 8.66515
+  },
+  "thechesscaptcha@lichess": {
+    "id": "thechesscaptcha",
+    "provider": "lichess",
+    "username": "TheChessCaptcha",
+    "firstSeen": 1614144312399,
+    "lastSeen": 1614144715976,
+    "firstSeenTime": "5:25:12 AM",
+    "lastSeenTime": "5:28:32 AM",
+    "onlineDurationMins": 3.32915
+  }
+}
