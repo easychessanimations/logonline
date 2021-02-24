@@ -1,0 +1,16 @@
+{
+  "miegsbot@lichess": {
+    "id": "miegsbot",
+    "provider": "lichess",
+    "username": "MiegsBOT",
+    "firstSeen": 1614202431794,
+    "lastSeen": 1614208415661
+  },
+  "go-2-lose@lichess": {
+    "id": "go-2-lose",
+    "provider": "lichess",
+    "username": "GO-2-LOSE",
+    "firstSeen": 1614208193776,
+    "lastSeen": 1614208305885
+  }
+}
