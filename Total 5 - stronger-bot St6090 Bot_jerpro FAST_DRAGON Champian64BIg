@@ -1,0 +1,52 @@
+{
+  "stronger-bot@lichess": {
+    "id": "stronger-bot",
+    "provider": "lichess",
+    "username": "stronger-bot",
+    "firstSeen": 1614179676994,
+    "lastSeen": 1614187161982,
+    "firstSeenTime": "3:14:36 PM",
+    "lastSeenTime": "5:19:21 PM",
+    "onlineDurationMins": 124.7498
+  },
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1614180900166,
+    "lastSeen": 1614187238587,
+    "firstSeenTime": "3:35:00 PM",
+    "lastSeenTime": "5:16:38 PM",
+    "onlineDurationMins": 101.64716666666666
+  },
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1614182512200,
+    "lastSeen": 1614186785609,
+    "firstSeenTime": "4:01:52 PM",
+    "lastSeenTime": "5:13:05 PM",
+    "onlineDurationMins": 71.22348333333333
+  },
+  "fast_dragon@lichess": {
+    "id": "fast_dragon",
+    "provider": "lichess",
+    "username": "FAST_DRAGON",
+    "firstSeen": 1614182906485,
+    "lastSeen": 1614187221989,
+    "firstSeenTime": "4:08:26 PM",
+    "lastSeenTime": "5:19:12 PM",
+    "onlineDurationMins": 70.76955
+  },
+  "champian64big@lichess": {
+    "id": "champian64big",
+    "provider": "lichess",
+    "username": "Champian64BIg",
+    "firstSeen": 1614185534501,
+    "lastSeen": 1614187038725,
+    "firstSeenTime": "4:52:14 PM",
+    "lastSeenTime": "5:17:18 PM",
+    "onlineDurationMins": 25.0704
+  }
+}
