@@ -1,0 +1,39 @@
+{
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1614180900166,
+    "lastSeen": 1614196718472,
+    "firstSeenTime": "3:35:00 PM",
+    "lastSeenTime": "6:01:39 PM",
+    "onlineDurationMins": 146.64873333333333
+  },
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1614182512200,
+    "lastSeen": 1614196915573,
+    "firstSeenTime": "4:01:52 PM",
+    "lastSeenTime": "6:00:10 PM",
+    "onlineDurationMins": 118.31005
+  },
+  "fast_dragon@lichess": {
+    "id": "fast_dragon",
+    "provider": "lichess",
+    "username": "FAST_DRAGON",
+    "firstSeen": 1614182906485,
+    "lastSeen": 1614197050716,
+    "firstSeenTime": "4:08:26 PM",
+    "lastSeenTime": "6:06:21 PM",
+    "onlineDurationMins": 117.91503333333333
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1614196196159,
+    "lastSeen": 1614196332583
+  }
+}
