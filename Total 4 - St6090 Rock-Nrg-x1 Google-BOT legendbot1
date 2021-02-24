@@ -1,0 +1,42 @@
+{
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1614166835241,
+    "lastSeen": 1614175778502,
+    "firstSeenTime": "11:40:35 AM",
+    "lastSeenTime": "2:03:16 PM",
+    "onlineDurationMins": 142.68981666666667
+  },
+  "rock-nrg-x1@lichess": {
+    "id": "rock-nrg-x1",
+    "provider": "lichess",
+    "username": "Rock-Nrg-x1",
+    "firstSeen": 1614172075361,
+    "lastSeen": 1614175557364,
+    "firstSeenTime": "1:07:55 PM",
+    "lastSeenTime": "1:57:57 PM",
+    "onlineDurationMins": 50.0328
+  },
+  "google-bot@lichess": {
+    "id": "google-bot",
+    "provider": "lichess",
+    "username": "Google-BOT",
+    "firstSeen": 1614173262647,
+    "lastSeen": 1614175561826,
+    "firstSeenTime": "1:27:42 PM",
+    "lastSeenTime": "2:04:32 PM",
+    "onlineDurationMins": 36.83295
+  },
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1614174398075,
+    "lastSeen": 1614175182197,
+    "firstSeenTime": "1:46:38 PM",
+    "lastSeenTime": "1:59:42 PM",
+    "onlineDurationMins": 13.0687
+  }
+}
