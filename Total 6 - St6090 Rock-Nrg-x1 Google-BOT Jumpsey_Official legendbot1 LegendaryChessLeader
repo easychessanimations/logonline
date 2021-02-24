@@ -1,0 +1,53 @@
+{
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1614166835241,
+    "lastSeen": 1614174855332,
+    "firstSeenTime": "11:40:35 AM",
+    "lastSeenTime": "1:29:15 PM",
+    "onlineDurationMins": 108.6679
+  },
+  "rock-nrg-x1@lichess": {
+    "id": "rock-nrg-x1",
+    "provider": "lichess",
+    "username": "Rock-Nrg-x1",
+    "firstSeen": 1614172075361,
+    "lastSeen": 1614174780940,
+    "firstSeenTime": "1:07:55 PM",
+    "lastSeenTime": "1:32:57 PM",
+    "onlineDurationMins": 25.034416666666665
+  },
+  "google-bot@lichess": {
+    "id": "google-bot",
+    "provider": "lichess",
+    "username": "Google-BOT",
+    "firstSeen": 1614173262647,
+    "lastSeen": 1614174765198,
+    "firstSeenTime": "1:27:42 PM",
+    "lastSeenTime": "1:33:44 PM",
+    "onlineDurationMins": 6.0323
+  },
+  "jumpsey_official@lichess": {
+    "id": "jumpsey_official",
+    "provider": "lichess",
+    "username": "Jumpsey_Official",
+    "firstSeen": 1614174085012,
+    "lastSeen": 1614174096453
+  },
+  "legendbot1@lichess": {
+    "id": "legendbot1",
+    "provider": "lichess",
+    "username": "legendbot1",
+    "firstSeen": 1614174398075,
+    "lastSeen": 1614174486266
+  },
+  "legendarychessleader@lichess": {
+    "id": "legendarychessleader",
+    "provider": "lichess",
+    "username": "LegendaryChessLeader",
+    "firstSeen": 1614174878440,
+    "lastSeen": 1614174878440
+  }
+}
