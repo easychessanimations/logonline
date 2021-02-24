@@ -1,0 +1,23 @@
+{
+  "miegsbot@lichess": {
+    "id": "miegsbot",
+    "provider": "lichess",
+    "username": "MiegsBOT",
+    "firstSeen": 1614202431794,
+    "lastSeen": 1614210339703
+  },
+  "firebeans@lichess": {
+    "id": "firebeans",
+    "provider": "lichess",
+    "username": "FireBeans",
+    "firstSeen": 1614210111249,
+    "lastSeen": 1614210163002
+  },
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1614210405246,
+    "lastSeen": 1614210405246
+  }
+}
