@@ -1,0 +1,23 @@
+{
+  "miegsbot@lichess": {
+    "id": "miegsbot",
+    "provider": "lichess",
+    "username": "MiegsBOT",
+    "firstSeen": 1614202431794,
+    "lastSeen": 1614208171487
+  },
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1614207521565,
+    "lastSeen": 1614207524777
+  },
+  "go-2-lose@lichess": {
+    "id": "go-2-lose",
+    "provider": "lichess",
+    "username": "GO-2-LOSE",
+    "firstSeen": 1614208193776,
+    "lastSeen": 1614208193776
+  }
+}
