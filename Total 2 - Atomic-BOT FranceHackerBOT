@@ -1,0 +1,16 @@
+{
+  "atomic-bot@lichess": {
+    "id": "atomic-bot",
+    "provider": "lichess",
+    "username": "Atomic-BOT",
+    "firstSeen": 1614456457225,
+    "lastSeen": 1614456469059
+  },
+  "francehackerbot@lichess": {
+    "id": "francehackerbot",
+    "provider": "lichess",
+    "username": "FranceHackerBOT",
+    "firstSeen": 1614456469951,
+    "lastSeen": 1614456469951
+  }
+}
