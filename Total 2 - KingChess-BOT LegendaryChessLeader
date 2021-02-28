@@ -4,13 +4,16 @@
     "provider": "lichess",
     "username": "KingChess-BOT",
     "firstSeen": 1614528204435,
-    "lastSeen": 1614532236306
+    "lastSeen": 1614536738969,
+    "firstSeenTime": "4:03:24 PM",
+    "lastSeenTime": "5:23:10 PM",
+    "onlineDurationMins": 79.76683333333334
   },
   "legendarychessleader@lichess": {
     "id": "legendarychessleader",
     "provider": "lichess",
     "username": "LegendaryChessLeader",
-    "firstSeen": 1614532549337,
-    "lastSeen": 1614532549337
+    "firstSeen": 1614536742712,
+    "lastSeen": 1614536742712
   }
 }
