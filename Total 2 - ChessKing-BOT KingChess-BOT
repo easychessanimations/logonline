@@ -1,0 +1,16 @@
+{
+  "chessking-bot@lichess": {
+    "id": "chessking-bot",
+    "provider": "lichess",
+    "username": "ChessKing-BOT",
+    "firstSeen": 1614528112633,
+    "lastSeen": 1614528203562
+  },
+  "kingchess-bot@lichess": {
+    "id": "kingchess-bot",
+    "provider": "lichess",
+    "username": "KingChess-BOT",
+    "firstSeen": 1614528204435,
+    "lastSeen": 1614528204436
+  }
+}
