@@ -1,0 +1,36 @@
+{
+  "evolving_master@lichess": {
+    "id": "evolving_master",
+    "provider": "lichess",
+    "username": "Evolving_Master",
+    "firstSeen": 1614603103052,
+    "lastSeen": 1614604410313,
+    "firstSeenTime": "12:51:43 PM",
+    "lastSeenTime": "12:58:34 PM",
+    "onlineDurationMins": 6.851566666666667
+  },
+  "daverobot@lichess": {
+    "id": "daverobot",
+    "provider": "lichess",
+    "username": "DaveRoBot",
+    "firstSeen": 1614603856086,
+    "lastSeen": 1614604774098,
+    "firstSeenTime": "1:04:16 PM",
+    "lastSeenTime": "1:06:24 PM",
+    "onlineDurationMins": 2.1371166666666666
+  },
+  "hidden_bot@lichess": {
+    "id": "hidden_bot",
+    "provider": "lichess",
+    "username": "Hidden_bot",
+    "firstSeen": 1614604585419,
+    "lastSeen": 1614604608611
+  },
+  "davidb12@lichess": {
+    "id": "davidb12",
+    "provider": "lichess",
+    "username": "DavidB12",
+    "firstSeen": 1614604774836,
+    "lastSeen": 1614604774836
+  }
+}
