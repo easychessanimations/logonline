@@ -1,0 +1,19 @@
+{
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1614686182124,
+    "lastSeen": 1614688539665,
+    "firstSeenTime": "11:56:22 AM",
+    "lastSeenTime": "11:56:41 AM",
+    "onlineDurationMins": 0.32143333333333335
+  },
+  "the_dragon_bot@lichess": {
+    "id": "the_dragon_bot",
+    "provider": "lichess",
+    "username": "The_dragon_bot",
+    "firstSeen": 1614688278453,
+    "lastSeen": 1614688296348
+  }
+}
