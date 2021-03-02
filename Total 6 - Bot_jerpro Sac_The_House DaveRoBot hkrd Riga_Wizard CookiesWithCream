@@ -1,0 +1,44 @@
+{
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1614718148855,
+    "lastSeen": 1614718870837
+  },
+  "sac_the_house@lichess": {
+    "id": "sac_the_house",
+    "provider": "lichess",
+    "username": "Sac_The_House",
+    "firstSeen": 1614718346253,
+    "lastSeen": 1614719683897
+  },
+  "daverobot@lichess": {
+    "id": "daverobot",
+    "provider": "lichess",
+    "username": "DaveRoBot",
+    "firstSeen": 1614718894271,
+    "lastSeen": 1614718905172
+  },
+  "hkrd@lichess": {
+    "id": "hkrd",
+    "provider": "lichess",
+    "username": "hkrd",
+    "firstSeen": 1614718991489,
+    "lastSeen": 1614719573638
+  },
+  "riga_wizard@lichess": {
+    "id": "riga_wizard",
+    "provider": "lichess",
+    "username": "Riga_Wizard",
+    "firstSeen": 1614719013642,
+    "lastSeen": 1614719082756
+  },
+  "cookieswithcream@lichess": {
+    "id": "cookieswithcream",
+    "provider": "lichess",
+    "username": "CookiesWithCream",
+    "firstSeen": 1614719657791,
+    "lastSeen": 1614719667751
+  }
+}
