@@ -4,20 +4,26 @@
     "provider": "lichess",
     "username": "iknow_howtocheckmate",
     "firstSeen": 1614655012075,
-    "lastSeen": 1614662747833
+    "lastSeen": 1614667724854,
+    "firstSeenTime": "3:16:52 AM",
+    "lastSeenTime": "6:33:44 AM",
+    "onlineDurationMins": 196.87656666666666
   },
   "the_dragon_bot@lichess": {
     "id": "the_dragon_bot",
     "provider": "lichess",
     "username": "The_dragon_bot",
-    "firstSeen": 1614659327742,
-    "lastSeen": 1614662755927
+    "firstSeen": 1614666439132,
+    "lastSeen": 1614667793113,
+    "firstSeenTime": "6:27:19 AM",
+    "lastSeenTime": "6:27:33 AM",
+    "onlineDurationMins": 0.24223333333333333
   },
   "turkeybot@lichess": {
     "id": "turkeybot",
     "provider": "lichess",
     "username": "turkeyBOT",
-    "firstSeen": 1614662949710,
-    "lastSeen": 1614662949710
+    "firstSeen": 1614667846005,
+    "lastSeen": 1614667846005
   }
 }
