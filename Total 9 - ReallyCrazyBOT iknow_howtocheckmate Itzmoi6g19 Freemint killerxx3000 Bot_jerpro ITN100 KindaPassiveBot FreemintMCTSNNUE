@@ -1,0 +1,86 @@
+{
+  "reallycrazybot@lichess": {
+    "id": "reallycrazybot",
+    "provider": "lichess",
+    "username": "ReallyCrazyBOT",
+    "firstSeen": 1614796020001,
+    "lastSeen": 1614804795803,
+    "firstSeenTime": "6:27:00 PM",
+    "lastSeenTime": "8:37:19 PM",
+    "onlineDurationMins": 130.3218
+  },
+  "iknow_howtocheckmate@lichess": {
+    "id": "iknow_howtocheckmate",
+    "provider": "lichess",
+    "username": "iknow_howtocheckmate",
+    "firstSeen": 1614799182682,
+    "lastSeen": 1614804940715,
+    "firstSeenTime": "7:19:42 PM",
+    "lastSeenTime": "8:43:40 PM",
+    "onlineDurationMins": 83.96886666666667
+  },
+  "itzmoi6g19@lichess": {
+    "id": "itzmoi6g19",
+    "provider": "lichess",
+    "username": "Itzmoi6g19",
+    "firstSeen": 1614801041819,
+    "lastSeen": 1614805153794,
+    "firstSeenTime": "7:50:41 PM",
+    "lastSeenTime": "8:40:46 PM",
+    "onlineDurationMins": 50.08271666666667
+  },
+  "freemint@lichess": {
+    "id": "freemint",
+    "provider": "lichess",
+    "username": "Freemint",
+    "firstSeen": 1614801167771,
+    "lastSeen": 1614805223099,
+    "firstSeenTime": "7:52:47 PM",
+    "lastSeenTime": "8:42:54 PM",
+    "onlineDurationMins": 50.11023333333333
+  },
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "killerxx3000",
+    "firstSeen": 1614802238796,
+    "lastSeen": 1614805238926,
+    "firstSeenTime": "8:10:38 PM",
+    "lastSeenTime": "8:43:42 PM",
+    "onlineDurationMins": 33.05611666666667
+  },
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1614803635464,
+    "lastSeen": 1614805042493,
+    "firstSeenTime": "8:33:55 PM",
+    "lastSeenTime": "8:34:01 PM",
+    "onlineDurationMins": 0.10308333333333333
+  },
+  "itn100@lichess": {
+    "id": "itn100",
+    "provider": "lichess",
+    "username": "ITN100",
+    "firstSeen": 1614804238783,
+    "lastSeen": 1614804907805,
+    "firstSeenTime": "8:43:58 PM",
+    "lastSeenTime": "8:44:07 PM",
+    "onlineDurationMins": 0.15235
+  },
+  "kindapassivebot@lichess": {
+    "id": "kindapassivebot",
+    "provider": "lichess",
+    "username": "KindaPassiveBot",
+    "firstSeen": 1614804898880,
+    "lastSeen": 1614805378895
+  },
+  "freemintmctsnnue@lichess": {
+    "id": "freemintmctsnnue",
+    "provider": "lichess",
+    "username": "FreemintMCTSNNUE",
+    "firstSeen": 1614805223987,
+    "lastSeen": 1614805254674
+  }
+}
