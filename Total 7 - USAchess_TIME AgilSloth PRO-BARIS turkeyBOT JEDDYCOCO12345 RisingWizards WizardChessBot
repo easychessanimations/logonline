@@ -1,0 +1,60 @@
+{
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1614770999682,
+    "lastSeen": 1614775836510,
+    "firstSeenTime": "11:29:59 AM",
+    "lastSeenTime": "12:28:36 PM",
+    "onlineDurationMins": 58.61481666666667
+  },
+  "agilsloth@lichess": {
+    "id": "agilsloth",
+    "provider": "lichess",
+    "username": "AgilSloth",
+    "firstSeen": 1614771911612,
+    "lastSeen": 1614775997507,
+    "firstSeenTime": "11:45:11 AM",
+    "lastSeenTime": "12:28:02 PM",
+    "onlineDurationMins": 42.847033333333336
+  },
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1614774545319,
+    "lastSeen": 1614776052621,
+    "firstSeenTime": "12:29:05 PM",
+    "lastSeenTime": "12:29:14 PM",
+    "onlineDurationMins": 0.1572
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1614775134456,
+    "lastSeen": 1614776519447
+  },
+  "jeddycoco12345@lichess": {
+    "id": "jeddycoco12345",
+    "provider": "lichess",
+    "username": "JEDDYCOCO12345",
+    "firstSeen": 1614775785906,
+    "lastSeen": 1614776523492
+  },
+  "risingwizards@lichess": {
+    "id": "risingwizards",
+    "provider": "lichess",
+    "username": "RisingWizards",
+    "firstSeen": 1614775959891,
+    "lastSeen": 1614776522650
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1614776382671,
+    "lastSeen": 1614776384177
+  }
+}
