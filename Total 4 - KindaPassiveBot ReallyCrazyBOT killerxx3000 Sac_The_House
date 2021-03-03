@@ -1,0 +1,30 @@
+{
+  "kindapassivebot@lichess": {
+    "id": "kindapassivebot",
+    "provider": "lichess",
+    "username": "KindaPassiveBot",
+    "firstSeen": 1614812071832,
+    "lastSeen": 1614815465183
+  },
+  "reallycrazybot@lichess": {
+    "id": "reallycrazybot",
+    "provider": "lichess",
+    "username": "ReallyCrazyBOT",
+    "firstSeen": 1614813972777,
+    "lastSeen": 1614815296228
+  },
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "killerxx3000",
+    "firstSeen": 1614814118748,
+    "lastSeen": 1614815738771
+  },
+  "sac_the_house@lichess": {
+    "id": "sac_the_house",
+    "provider": "lichess",
+    "username": "Sac_The_House",
+    "firstSeen": 1614815463486,
+    "lastSeen": 1614815476988
+  }
+}
