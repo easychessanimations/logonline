@@ -1,0 +1,33 @@
+{
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1614836548807,
+    "lastSeen": 1614846257425,
+    "firstSeenTime": "5:42:28 AM",
+    "lastSeenTime": "7:37:46 AM",
+    "onlineDurationMins": 115.28881666666666
+  },
+  "sametyakarbotu@lichess": {
+    "id": "sametyakarbotu",
+    "provider": "lichess",
+    "username": "SametyakarBOTu",
+    "firstSeen": 1614845208991,
+    "lastSeen": 1614845997652
+  },
+  "panch2020@lichess": {
+    "id": "panch2020",
+    "provider": "lichess",
+    "username": "Panch2020",
+    "firstSeen": 1614845665702,
+    "lastSeen": 1614845850437
+  },
+  "chessrider11@lichess": {
+    "id": "chessrider11",
+    "provider": "lichess",
+    "username": "Chessrider11",
+    "firstSeen": 1614846397228,
+    "lastSeen": 1614846397228
+  }
+}
