@@ -1,0 +1,46 @@
+{
+  "sametyakarbot@lichess": {
+    "id": "sametyakarbot",
+    "provider": "lichess",
+    "username": "SametyakarBOT",
+    "firstSeen": 1614846619585,
+    "lastSeen": 1614849732584,
+    "firstSeenTime": "8:30:19 AM",
+    "lastSeenTime": "8:53:27 AM",
+    "onlineDurationMins": 23.126583333333333
+  },
+  "agilsloth@lichess": {
+    "id": "agilsloth",
+    "provider": "lichess",
+    "username": "AgilSloth",
+    "firstSeen": 1614846962046,
+    "lastSeen": 1614849026152,
+    "firstSeenTime": "8:36:02 AM",
+    "lastSeenTime": "8:51:13 AM",
+    "onlineDurationMins": 15.1959
+  },
+  "itzmoi6g19@lichess": {
+    "id": "itzmoi6g19",
+    "provider": "lichess",
+    "username": "Itzmoi6g19",
+    "firstSeen": 1614847949740,
+    "lastSeen": 1614849453351,
+    "firstSeenTime": "8:52:29 AM",
+    "lastSeenTime": "8:52:39 AM",
+    "onlineDurationMins": 0.16055
+  },
+  "haktanmurat@lichess": {
+    "id": "haktanmurat",
+    "provider": "lichess",
+    "username": "haktanmurat",
+    "firstSeen": 1614848543881,
+    "lastSeen": 1614849112375
+  },
+  "atomicposeidon@lichess": {
+    "id": "atomicposeidon",
+    "provider": "lichess",
+    "username": "AtomicPoseidon",
+    "firstSeen": 1614849684436,
+    "lastSeen": 1614849694584
+  }
+}
