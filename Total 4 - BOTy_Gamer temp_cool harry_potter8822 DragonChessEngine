@@ -1,0 +1,33 @@
+{
+  "boty_gamer@lichess": {
+    "id": "boty_gamer",
+    "provider": "lichess",
+    "username": "BOTy_Gamer",
+    "firstSeen": 1614862697769,
+    "lastSeen": 1614874702296,
+    "firstSeenTime": "12:58:17 PM",
+    "lastSeenTime": "3:42:22 PM",
+    "onlineDurationMins": 164.08335
+  },
+  "temp_cool@lichess": {
+    "id": "temp_cool",
+    "provider": "lichess",
+    "username": "temp_cool",
+    "firstSeen": 1614873366097,
+    "lastSeen": 1614874809628
+  },
+  "harry_potter8822@lichess": {
+    "id": "harry_potter8822",
+    "provider": "lichess",
+    "username": "harry_potter8822",
+    "firstSeen": 1614873549140,
+    "lastSeen": 1614874534005
+  },
+  "dragonchessengine@lichess": {
+    "id": "dragonchessengine",
+    "provider": "lichess",
+    "username": "DragonChessEngine",
+    "firstSeen": 1614874864007,
+    "lastSeen": 1614874879641
+  }
+}
