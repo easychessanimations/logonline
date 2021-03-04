@@ -1,0 +1,40 @@
+{
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1614836548807,
+    "lastSeen": 1614847693905,
+    "firstSeenTime": "5:42:28 AM",
+    "lastSeenTime": "7:37:46 AM",
+    "onlineDurationMins": 115.28881666666666
+  },
+  "sametyakarbot@lichess": {
+    "id": "sametyakarbot",
+    "provider": "lichess",
+    "username": "SametyakarBOT",
+    "firstSeen": 1614846619585,
+    "lastSeen": 1614847347230
+  },
+  "agilsloth@lichess": {
+    "id": "agilsloth",
+    "provider": "lichess",
+    "username": "AgilSloth",
+    "firstSeen": 1614846962046,
+    "lastSeen": 1614847873800
+  },
+  "chessrider11@lichess": {
+    "id": "chessrider11",
+    "provider": "lichess",
+    "username": "Chessrider11",
+    "firstSeen": 1614847893854,
+    "lastSeen": 1614847917195
+  },
+  "itzmoi6g19@lichess": {
+    "id": "itzmoi6g19",
+    "provider": "lichess",
+    "username": "Itzmoi6g19",
+    "firstSeen": 1614847949740,
+    "lastSeen": 1614847949740
+  }
+}
