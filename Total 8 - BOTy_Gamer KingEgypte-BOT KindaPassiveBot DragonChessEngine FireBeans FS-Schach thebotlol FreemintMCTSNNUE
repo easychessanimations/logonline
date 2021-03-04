@@ -1,0 +1,61 @@
+{
+  "boty_gamer@lichess": {
+    "id": "boty_gamer",
+    "provider": "lichess",
+    "username": "BOTy_Gamer",
+    "firstSeen": 1614862697769,
+    "lastSeen": 1614883699794,
+    "firstSeenTime": "12:58:17 PM",
+    "lastSeenTime": "4:29:22 PM",
+    "onlineDurationMins": 211.07523333333333
+  },
+  "kingegypte-bot@lichess": {
+    "id": "kingegypte-bot",
+    "provider": "lichess",
+    "username": "KingEgypte-BOT",
+    "firstSeen": 1614880524260,
+    "lastSeen": 1614884146556
+  },
+  "kindapassivebot@lichess": {
+    "id": "kindapassivebot",
+    "provider": "lichess",
+    "username": "KindaPassiveBot",
+    "firstSeen": 1614882828885,
+    "lastSeen": 1614884394142
+  },
+  "dragonchessengine@lichess": {
+    "id": "dragonchessengine",
+    "provider": "lichess",
+    "username": "DragonChessEngine",
+    "firstSeen": 1614883415003,
+    "lastSeen": 1614884464036
+  },
+  "firebeans@lichess": {
+    "id": "firebeans",
+    "provider": "lichess",
+    "username": "FireBeans",
+    "firstSeen": 1614883874220,
+    "lastSeen": 1614883915868
+  },
+  "fs-schach@lichess": {
+    "id": "fs-schach",
+    "provider": "lichess",
+    "username": "FS-Schach",
+    "firstSeen": 1614883908062,
+    "lastSeen": 1614883917801
+  },
+  "thebotlol@lichess": {
+    "id": "thebotlol",
+    "provider": "lichess",
+    "username": "thebotlol",
+    "firstSeen": 1614883911045,
+    "lastSeen": 1614883949997
+  },
+  "freemintmctsnnue@lichess": {
+    "id": "freemintmctsnnue",
+    "provider": "lichess",
+    "username": "FreemintMCTSNNUE",
+    "firstSeen": 1614884511502,
+    "lastSeen": 1614884511502
+  }
+}
