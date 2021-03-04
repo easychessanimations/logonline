@@ -1,0 +1,49 @@
+{
+  "sametyakarbot@lichess": {
+    "id": "sametyakarbot",
+    "provider": "lichess",
+    "username": "SametyakarBOT",
+    "firstSeen": 1614846619585,
+    "lastSeen": 1614850887915,
+    "firstSeenTime": "8:30:19 AM",
+    "lastSeenTime": "9:41:27 AM",
+    "onlineDurationMins": 71.13883333333334
+  },
+  "itzmoi6g19@lichess": {
+    "id": "itzmoi6g19",
+    "provider": "lichess",
+    "username": "Itzmoi6g19",
+    "firstSeen": 1614847949740,
+    "lastSeen": 1614850952225,
+    "firstSeenTime": "8:52:29 AM",
+    "lastSeenTime": "9:42:32 AM",
+    "onlineDurationMins": 50.04141666666667
+  },
+  "atomicposeidon@lichess": {
+    "id": "atomicposeidon",
+    "provider": "lichess",
+    "username": "AtomicPoseidon",
+    "firstSeen": 1614849684436,
+    "lastSeen": 1614850956807,
+    "firstSeenTime": "9:21:24 AM",
+    "lastSeenTime": "9:42:36 AM",
+    "onlineDurationMins": 21.206183333333332
+  },
+  "baris-goldeneryplank@lichess": {
+    "id": "baris-goldeneryplank",
+    "provider": "lichess",
+    "username": "BARIS-goldeneryplank",
+    "firstSeen": 1614850772157,
+    "lastSeen": 1614850774337,
+    "firstSeenTime": "9:39:32 AM",
+    "lastSeenTime": "9:39:34 AM",
+    "onlineDurationMins": 0.036333333333333336
+  },
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1614850976725,
+    "lastSeen": 1614850976725
+  }
+}
