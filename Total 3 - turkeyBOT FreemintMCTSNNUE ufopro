@@ -1,0 +1,29 @@
+{
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1614836548807,
+    "lastSeen": 1614842460865,
+    "firstSeenTime": "5:42:28 AM",
+    "lastSeenTime": "6:57:56 AM",
+    "onlineDurationMins": 75.45696666666667
+  },
+  "freemintmctsnnue@lichess": {
+    "id": "freemintmctsnnue",
+    "provider": "lichess",
+    "username": "FreemintMCTSNNUE",
+    "firstSeen": 1614841268663,
+    "lastSeen": 1614842321315,
+    "firstSeenTime": "7:01:08 AM",
+    "lastSeenTime": "7:01:12 AM",
+    "onlineDurationMins": 0.06266666666666666
+  },
+  "ufopro@lichess": {
+    "id": "ufopro",
+    "provider": "lichess",
+    "username": "ufopro",
+    "firstSeen": 1614842546561,
+    "lastSeen": 1614842546561
+  }
+}
