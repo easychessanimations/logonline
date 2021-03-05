@@ -1,0 +1,30 @@
+{
+  "grand-bot@lichess": {
+    "id": "grand-bot",
+    "provider": "lichess",
+    "username": "Grand-bot",
+    "firstSeen": 1614931554787,
+    "lastSeen": 1614933782196
+  },
+  "pro_ilker@lichess": {
+    "id": "pro_ilker",
+    "provider": "lichess",
+    "username": "PRO_ILKER",
+    "firstSeen": 1614932403960,
+    "lastSeen": 1614933906119
+  },
+  "iknow_howtocheckmate@lichess": {
+    "id": "iknow_howtocheckmate",
+    "provider": "lichess",
+    "username": "iknow_howtocheckmate",
+    "firstSeen": 1614932758192,
+    "lastSeen": 1614934104560
+  },
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1614934135722,
+    "lastSeen": 1614934135722
+  }
+}
