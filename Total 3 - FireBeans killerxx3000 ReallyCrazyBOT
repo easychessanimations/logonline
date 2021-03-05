@@ -1,0 +1,32 @@
+{
+  "firebeans@lichess": {
+    "id": "firebeans",
+    "provider": "lichess",
+    "username": "FireBeans",
+    "firstSeen": 1614974321705,
+    "lastSeen": 1614975825167,
+    "firstSeenTime": "7:58:41 PM",
+    "lastSeenTime": "8:23:45 PM",
+    "onlineDurationMins": 25.0577
+  },
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "killerxx3000",
+    "firstSeen": 1614974489686,
+    "lastSeen": 1614975989595,
+    "firstSeenTime": "8:01:29 PM",
+    "lastSeenTime": "8:26:29 PM",
+    "onlineDurationMins": 24.998483333333333
+  },
+  "reallycrazybot@lichess": {
+    "id": "reallycrazybot",
+    "provider": "lichess",
+    "username": "ReallyCrazyBOT",
+    "firstSeen": 1614975960753,
+    "lastSeen": 1614976080605,
+    "firstSeenTime": "8:26:00 PM",
+    "lastSeenTime": "8:26:04 PM",
+    "onlineDurationMins": 0.0563
+  }
+}
