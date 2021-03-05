@@ -1,0 +1,32 @@
+{
+  "pro_ilker@lichess": {
+    "id": "pro_ilker",
+    "provider": "lichess",
+    "username": "PRO_ILKER",
+    "firstSeen": 1614932403960,
+    "lastSeen": 1614943251021,
+    "firstSeenTime": "8:20:03 AM",
+    "lastSeenTime": "11:20:51 AM",
+    "onlineDurationMins": 180.78435
+  },
+  "baris-goldeneryplank@lichess": {
+    "id": "baris-goldeneryplank",
+    "provider": "lichess",
+    "username": "BARIS-goldeneryplank",
+    "firstSeen": 1614939467895,
+    "lastSeen": 1614943090111,
+    "firstSeenTime": "10:17:47 AM",
+    "lastSeenTime": "11:18:10 AM",
+    "onlineDurationMins": 60.370266666666666
+  },
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1614940061383,
+    "lastSeen": 1614943701232,
+    "firstSeenTime": "10:27:41 AM",
+    "lastSeenTime": "11:17:20 AM",
+    "onlineDurationMins": 49.645583333333335
+  }
+}
