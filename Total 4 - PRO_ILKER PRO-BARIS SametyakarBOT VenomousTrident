@@ -1,0 +1,39 @@
+{
+  "pro_ilker@lichess": {
+    "id": "pro_ilker",
+    "provider": "lichess",
+    "username": "PRO_ILKER",
+    "firstSeen": 1614932403960,
+    "lastSeen": 1614937108345,
+    "firstSeenTime": "8:20:03 AM",
+    "lastSeenTime": "9:11:07 AM",
+    "onlineDurationMins": 51.06505
+  },
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1614934135722,
+    "lastSeen": 1614936584729,
+    "firstSeenTime": "8:48:55 AM",
+    "lastSeenTime": "9:11:05 AM",
+    "onlineDurationMins": 22.158833333333334
+  },
+  "sametyakarbot@lichess": {
+    "id": "sametyakarbot",
+    "provider": "lichess",
+    "username": "SametyakarBOT",
+    "firstSeen": 1614934679225,
+    "lastSeen": 1614937062268,
+    "firstSeenTime": "8:57:59 AM",
+    "lastSeenTime": "9:13:29 AM",
+    "onlineDurationMins": 15.511983333333333
+  },
+  "venomoustrident@lichess": {
+    "id": "venomoustrident",
+    "provider": "lichess",
+    "username": "VenomousTrident",
+    "firstSeen": 1614936226478,
+    "lastSeen": 1614936532288
+  }
+}
