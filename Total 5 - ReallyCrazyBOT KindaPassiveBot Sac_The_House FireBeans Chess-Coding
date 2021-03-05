@@ -1,0 +1,37 @@
+{
+  "reallycrazybot@lichess": {
+    "id": "reallycrazybot",
+    "provider": "lichess",
+    "username": "ReallyCrazyBOT",
+    "firstSeen": 1614894313706,
+    "lastSeen": 1614905129263
+  },
+  "kindapassivebot@lichess": {
+    "id": "kindapassivebot",
+    "provider": "lichess",
+    "username": "KindaPassiveBot",
+    "firstSeen": 1614899367266,
+    "lastSeen": 1614905000094
+  },
+  "sac_the_house@lichess": {
+    "id": "sac_the_house",
+    "provider": "lichess",
+    "username": "Sac_The_House",
+    "firstSeen": 1614902368848,
+    "lastSeen": 1614904719508
+  },
+  "firebeans@lichess": {
+    "id": "firebeans",
+    "provider": "lichess",
+    "username": "FireBeans",
+    "firstSeen": 1614903251374,
+    "lastSeen": 1614904925245
+  },
+  "chess-coding@lichess": {
+    "id": "chess-coding",
+    "provider": "lichess",
+    "username": "Chess-Coding",
+    "firstSeen": 1614904356139,
+    "lastSeen": 1614904367893
+  }
+}
