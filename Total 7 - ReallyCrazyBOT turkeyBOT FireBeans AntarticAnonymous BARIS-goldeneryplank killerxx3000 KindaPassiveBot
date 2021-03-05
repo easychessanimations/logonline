@@ -1,0 +1,66 @@
+{
+  "reallycrazybot@lichess": {
+    "id": "reallycrazybot",
+    "provider": "lichess",
+    "username": "ReallyCrazyBOT",
+    "firstSeen": 1614949049584,
+    "lastSeen": 1614960473099,
+    "firstSeenTime": "12:57:29 PM",
+    "lastSeenTime": "3:33:09 PM",
+    "onlineDurationMins": 155.66175
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1614949055099,
+    "lastSeen": 1614960401299,
+    "firstSeenTime": "12:57:35 PM",
+    "lastSeenTime": "3:27:41 PM",
+    "onlineDurationMins": 150.10086666666666
+  },
+  "firebeans@lichess": {
+    "id": "firebeans",
+    "provider": "lichess",
+    "username": "FireBeans",
+    "firstSeen": 1614952377024,
+    "lastSeen": 1614960581230,
+    "firstSeenTime": "1:52:57 PM",
+    "lastSeenTime": "3:33:09 PM",
+    "onlineDurationMins": 100.20445
+  },
+  "antarticanonymous@lichess": {
+    "id": "antarticanonymous",
+    "provider": "lichess",
+    "username": "AntarticAnonymous",
+    "firstSeen": 1614953917159,
+    "lastSeen": 1614960368757,
+    "firstSeenTime": "2:18:37 PM",
+    "lastSeenTime": "3:32:26 PM",
+    "onlineDurationMins": 73.82045
+  },
+  "baris-goldeneryplank@lichess": {
+    "id": "baris-goldeneryplank",
+    "provider": "lichess",
+    "username": "BARIS-goldeneryplank",
+    "firstSeen": 1614958138477,
+    "lastSeen": 1614960725514,
+    "firstSeenTime": "3:28:58 PM",
+    "lastSeenTime": "3:32:53 PM",
+    "onlineDurationMins": 3.9161
+  },
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "killerxx3000",
+    "firstSeen": 1614959489816,
+    "lastSeen": 1614960393095
+  },
+  "kindapassivebot@lichess": {
+    "id": "kindapassivebot",
+    "provider": "lichess",
+    "username": "KindaPassiveBot",
+    "firstSeen": 1614960780338,
+    "lastSeen": 1614960780338
+  }
+}
