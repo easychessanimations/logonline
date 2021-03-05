@@ -1,0 +1,63 @@
+{
+  "grand-bot@lichess": {
+    "id": "grand-bot",
+    "provider": "lichess",
+    "username": "Grand-bot",
+    "firstSeen": 1614931554787,
+    "lastSeen": 1614935078056,
+    "firstSeenTime": "8:05:54 AM",
+    "lastSeenTime": "8:53:57 AM",
+    "onlineDurationMins": 48.04828333333333
+  },
+  "pro_ilker@lichess": {
+    "id": "pro_ilker",
+    "provider": "lichess",
+    "username": "PRO_ILKER",
+    "firstSeen": 1614932403960,
+    "lastSeen": 1614935217104,
+    "firstSeenTime": "8:20:03 AM",
+    "lastSeenTime": "8:55:31 AM",
+    "onlineDurationMins": 35.46606666666667
+  },
+  "iknow_howtocheckmate@lichess": {
+    "id": "iknow_howtocheckmate",
+    "provider": "lichess",
+    "username": "iknow_howtocheckmate",
+    "firstSeen": 1614932758192,
+    "lastSeen": 1614935017573,
+    "firstSeenTime": "8:25:58 AM",
+    "lastSeenTime": "8:57:35 AM",
+    "onlineDurationMins": 31.619316666666666
+  },
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1614934135722,
+    "lastSeen": 1614935139063,
+    "firstSeenTime": "8:48:55 AM",
+    "lastSeenTime": "8:55:31 AM",
+    "onlineDurationMins": 6.59925
+  },
+  "sametyakarbot@lichess": {
+    "id": "sametyakarbot",
+    "provider": "lichess",
+    "username": "SametyakarBOT",
+    "firstSeen": 1614934679225,
+    "lastSeen": 1614935202010
+  },
+  "harry_potter8822@lichess": {
+    "id": "harry_potter8822",
+    "provider": "lichess",
+    "username": "harry_potter8822",
+    "firstSeen": 1614935085119,
+    "lastSeen": 1614935176765
+  },
+  "erdemlili@lichess": {
+    "id": "erdemlili",
+    "provider": "lichess",
+    "username": "erdemlili",
+    "firstSeen": 1614935218832,
+    "lastSeen": 1614935218832
+  }
+}
