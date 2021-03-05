@@ -1,0 +1,86 @@
+{
+  "reallycrazybot@lichess": {
+    "id": "reallycrazybot",
+    "provider": "lichess",
+    "username": "ReallyCrazyBOT",
+    "firstSeen": 1614949049584,
+    "lastSeen": 1614957865623,
+    "firstSeenTime": "12:57:29 PM",
+    "lastSeenTime": "3:00:27 PM",
+    "onlineDurationMins": 122.96083333333333
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1614949055099,
+    "lastSeen": 1614958061151,
+    "firstSeenTime": "12:57:35 PM",
+    "lastSeenTime": "2:51:41 PM",
+    "onlineDurationMins": 114.10213333333333
+  },
+  "firebeans@lichess": {
+    "id": "firebeans",
+    "provider": "lichess",
+    "username": "FireBeans",
+    "firstSeen": 1614952377024,
+    "lastSeen": 1614958083602,
+    "firstSeenTime": "1:52:57 PM",
+    "lastSeenTime": "2:52:03 PM",
+    "onlineDurationMins": 59.11225
+  },
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "killerxx3000",
+    "firstSeen": 1614953487569,
+    "lastSeen": 1614957989683,
+    "firstSeenTime": "2:11:27 PM",
+    "lastSeenTime": "3:00:48 PM",
+    "onlineDurationMins": 49.34915
+  },
+  "antarticanonymous@lichess": {
+    "id": "antarticanonymous",
+    "provider": "lichess",
+    "username": "AntarticAnonymous",
+    "firstSeen": 1614953917159,
+    "lastSeen": 1614958214071,
+    "firstSeenTime": "2:18:37 PM",
+    "lastSeenTime": "3:01:00 PM",
+    "onlineDurationMins": 42.39435
+  },
+  "jvbot@lichess": {
+    "id": "jvbot",
+    "provider": "lichess",
+    "username": "JVbot",
+    "firstSeen": 1614955079522,
+    "lastSeen": 1614958334885,
+    "firstSeenTime": "2:37:59 PM",
+    "lastSeenTime": "3:01:06 PM",
+    "onlineDurationMins": 23.115
+  },
+  "ilkercik@lichess": {
+    "id": "ilkercik",
+    "provider": "lichess",
+    "username": "ilkercik",
+    "firstSeen": 1614956439717,
+    "lastSeen": 1614958067534,
+    "firstSeenTime": "3:00:39 PM",
+    "lastSeenTime": "3:00:50 PM",
+    "onlineDurationMins": 0.17575
+  },
+  "yjpisthebest@lichess": {
+    "id": "yjpisthebest",
+    "provider": "lichess",
+    "username": "YJPISTHEBEST",
+    "firstSeen": 1614957649303,
+    "lastSeen": 1614958196513
+  },
+  "baris-goldeneryplank@lichess": {
+    "id": "baris-goldeneryplank",
+    "provider": "lichess",
+    "username": "BARIS-goldeneryplank",
+    "firstSeen": 1614958138477,
+    "lastSeen": 1614958149897
+  }
+}
