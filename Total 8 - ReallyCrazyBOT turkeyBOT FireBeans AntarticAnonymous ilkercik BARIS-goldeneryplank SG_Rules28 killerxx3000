@@ -1,0 +1,76 @@
+{
+  "reallycrazybot@lichess": {
+    "id": "reallycrazybot",
+    "provider": "lichess",
+    "username": "ReallyCrazyBOT",
+    "firstSeen": 1614949049584,
+    "lastSeen": 1614959756724,
+    "firstSeenTime": "12:57:29 PM",
+    "lastSeenTime": "3:33:09 PM",
+    "onlineDurationMins": 155.66175
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1614949055099,
+    "lastSeen": 1614959558075,
+    "firstSeenTime": "12:57:35 PM",
+    "lastSeenTime": "3:27:41 PM",
+    "onlineDurationMins": 150.10086666666666
+  },
+  "firebeans@lichess": {
+    "id": "firebeans",
+    "provider": "lichess",
+    "username": "FireBeans",
+    "firstSeen": 1614952377024,
+    "lastSeen": 1614959703821,
+    "firstSeenTime": "1:52:57 PM",
+    "lastSeenTime": "3:33:09 PM",
+    "onlineDurationMins": 100.20445
+  },
+  "antarticanonymous@lichess": {
+    "id": "antarticanonymous",
+    "provider": "lichess",
+    "username": "AntarticAnonymous",
+    "firstSeen": 1614953917159,
+    "lastSeen": 1614959687177,
+    "firstSeenTime": "2:18:37 PM",
+    "lastSeenTime": "3:32:26 PM",
+    "onlineDurationMins": 73.82045
+  },
+  "ilkercik@lichess": {
+    "id": "ilkercik",
+    "provider": "lichess",
+    "username": "ilkercik",
+    "firstSeen": 1614956439717,
+    "lastSeen": 1614959608808,
+    "firstSeenTime": "3:00:39 PM",
+    "lastSeenTime": "3:27:47 PM",
+    "onlineDurationMins": 27.130283333333335
+  },
+  "baris-goldeneryplank@lichess": {
+    "id": "baris-goldeneryplank",
+    "provider": "lichess",
+    "username": "BARIS-goldeneryplank",
+    "firstSeen": 1614958138477,
+    "lastSeen": 1614959687495,
+    "firstSeenTime": "3:28:58 PM",
+    "lastSeenTime": "3:32:53 PM",
+    "onlineDurationMins": 3.9161
+  },
+  "sg_rules28@lichess": {
+    "id": "sg_rules28",
+    "provider": "lichess",
+    "username": "SG_Rules28",
+    "firstSeen": 1614959054981,
+    "lastSeen": 1614959288367
+  },
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "killerxx3000",
+    "firstSeen": 1614959489816,
+    "lastSeen": 1614959733138
+  }
+}
