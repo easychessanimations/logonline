@@ -1,0 +1,56 @@
+{
+  "firebeans@lichess": {
+    "id": "firebeans",
+    "provider": "lichess",
+    "username": "FireBeans",
+    "firstSeen": 1614974321705,
+    "lastSeen": 1614978821632,
+    "firstSeenTime": "7:58:41 PM",
+    "lastSeenTime": "8:48:41 PM",
+    "onlineDurationMins": 50.000483333333335
+  },
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "killerxx3000",
+    "firstSeen": 1614974489686,
+    "lastSeen": 1614979233053,
+    "firstSeenTime": "8:01:29 PM",
+    "lastSeenTime": "8:45:29 PM",
+    "onlineDurationMins": 43.99815
+  },
+  "reallycrazybot@lichess": {
+    "id": "reallycrazybot",
+    "provider": "lichess",
+    "username": "ReallyCrazyBOT",
+    "firstSeen": 1614975960753,
+    "lastSeen": 1614979239957,
+    "firstSeenTime": "8:26:00 PM",
+    "lastSeenTime": "8:47:13 PM",
+    "onlineDurationMins": 21.209966666666666
+  },
+  "sauwkhamari@lichess": {
+    "id": "sauwkhamari",
+    "provider": "lichess",
+    "username": "sauwkhamari",
+    "firstSeen": 1614976337724,
+    "lastSeen": 1614979027277,
+    "firstSeenTime": "8:32:17 PM",
+    "lastSeenTime": "8:43:07 PM",
+    "onlineDurationMins": 10.826583333333334
+  },
+  "antarticanonymous@lichess": {
+    "id": "antarticanonymous",
+    "provider": "lichess",
+    "username": "AntarticAnonymous",
+    "firstSeen": 1614977874545,
+    "lastSeen": 1614979256641
+  },
+  "kindapassivebot@lichess": {
+    "id": "kindapassivebot",
+    "provider": "lichess",
+    "username": "KindaPassiveBot",
+    "firstSeen": 1614979260982,
+    "lastSeen": 1614979260982
+  }
+}
