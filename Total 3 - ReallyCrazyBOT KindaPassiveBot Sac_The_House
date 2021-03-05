@@ -1,0 +1,23 @@
+{
+  "reallycrazybot@lichess": {
+    "id": "reallycrazybot",
+    "provider": "lichess",
+    "username": "ReallyCrazyBOT",
+    "firstSeen": 1614894313706,
+    "lastSeen": 1614902642411
+  },
+  "kindapassivebot@lichess": {
+    "id": "kindapassivebot",
+    "provider": "lichess",
+    "username": "KindaPassiveBot",
+    "firstSeen": 1614899367266,
+    "lastSeen": 1614902378188
+  },
+  "sac_the_house@lichess": {
+    "id": "sac_the_house",
+    "provider": "lichess",
+    "username": "Sac_The_House",
+    "firstSeen": 1614902368848,
+    "lastSeen": 1614902435993
+  }
+}
