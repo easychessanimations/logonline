@@ -1,0 +1,16 @@
+{
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1614927888255,
+    "lastSeen": 1614931217278
+  },
+  "grand-bot@lichess": {
+    "id": "grand-bot",
+    "provider": "lichess",
+    "username": "Grand-bot",
+    "firstSeen": 1614931554787,
+    "lastSeen": 1614931554787
+  }
+}
