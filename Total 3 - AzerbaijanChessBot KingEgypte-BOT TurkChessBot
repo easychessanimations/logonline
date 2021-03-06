@@ -4,26 +4,29 @@
     "provider": "lichess",
     "username": "AzerbaijanChessBot",
     "firstSeen": 1615025789883,
-    "lastSeen": 1615034875072,
+    "lastSeen": 1615036722477,
     "firstSeenTime": "10:16:29 AM",
-    "lastSeenTime": "12:26:31 PM",
-    "onlineDurationMins": 130.0298
+    "lastSeenTime": "1:06:52 PM",
+    "onlineDurationMins": 170.384
   },
   "kingegypte-bot@lichess": {
     "id": "kingegypte-bot",
     "provider": "lichess",
     "username": "KingEgypte-BOT",
     "firstSeen": 1615025947720,
-    "lastSeen": 1615034915111,
+    "lastSeen": 1615036411754,
     "firstSeenTime": "10:19:07 AM",
-    "lastSeenTime": "12:25:56 PM",
-    "onlineDurationMins": 126.81651666666667
+    "lastSeenTime": "1:10:06 PM",
+    "onlineDurationMins": 170.97398333333334
   },
   "turkchessbot@lichess": {
     "id": "turkchessbot",
     "provider": "lichess",
     "username": "TurkChessBot",
     "firstSeen": 1615034927214,
-    "lastSeen": 1615034927214
+    "lastSeen": 1615036702914,
+    "firstSeenTime": "12:48:47 PM",
+    "lastSeenTime": "1:10:36 PM",
+    "onlineDurationMins": 21.818416666666668
   }
 }
