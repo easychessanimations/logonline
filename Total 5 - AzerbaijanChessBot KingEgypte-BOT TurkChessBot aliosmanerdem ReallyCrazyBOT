@@ -1,0 +1,43 @@
+{
+  "azerbaijanchessbot@lichess": {
+    "id": "azerbaijanchessbot",
+    "provider": "lichess",
+    "username": "AzerbaijanChessBot",
+    "firstSeen": 1615025789883,
+    "lastSeen": 1615035372849,
+    "firstSeenTime": "10:16:29 AM",
+    "lastSeenTime": "12:26:31 PM",
+    "onlineDurationMins": 130.0298
+  },
+  "kingegypte-bot@lichess": {
+    "id": "kingegypte-bot",
+    "provider": "lichess",
+    "username": "KingEgypte-BOT",
+    "firstSeen": 1615025947720,
+    "lastSeen": 1615035494075,
+    "firstSeenTime": "10:19:07 AM",
+    "lastSeenTime": "12:25:56 PM",
+    "onlineDurationMins": 126.81651666666667
+  },
+  "turkchessbot@lichess": {
+    "id": "turkchessbot",
+    "provider": "lichess",
+    "username": "TurkChessBot",
+    "firstSeen": 1615034927214,
+    "lastSeen": 1615035530141
+  },
+  "aliosmanerdem@lichess": {
+    "id": "aliosmanerdem",
+    "provider": "lichess",
+    "username": "aliosmanerdem",
+    "firstSeen": 1615035036035,
+    "lastSeen": 1615035513403
+  },
+  "reallycrazybot@lichess": {
+    "id": "reallycrazybot",
+    "provider": "lichess",
+    "username": "ReallyCrazyBOT",
+    "firstSeen": 1615035532656,
+    "lastSeen": 1615035532656
+  }
+}
