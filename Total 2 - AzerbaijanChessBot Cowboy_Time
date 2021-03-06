@@ -1,0 +1,22 @@
+{
+  "azerbaijanchessbot@lichess": {
+    "id": "azerbaijanchessbot",
+    "provider": "lichess",
+    "username": "AzerbaijanChessBot",
+    "firstSeen": 1615019001547,
+    "lastSeen": 1615020271034,
+    "firstSeenTime": "8:23:21 AM",
+    "lastSeenTime": "8:37:39 AM",
+    "onlineDurationMins": 14.29575
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1615019151891,
+    "lastSeen": 1615019912825,
+    "firstSeenTime": "8:25:51 AM",
+    "lastSeenTime": "8:26:07 AM",
+    "onlineDurationMins": 0.25193333333333334
+  }
+}
