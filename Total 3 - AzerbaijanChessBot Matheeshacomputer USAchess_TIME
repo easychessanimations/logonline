@@ -1,0 +1,26 @@
+{
+  "azerbaijanchessbot@lichess": {
+    "id": "azerbaijanchessbot",
+    "provider": "lichess",
+    "username": "AzerbaijanChessBot",
+    "firstSeen": 1615019001547,
+    "lastSeen": 1615021116146,
+    "firstSeenTime": "8:23:21 AM",
+    "lastSeenTime": "8:49:25 AM",
+    "onlineDurationMins": 26.064283333333332
+  },
+  "matheeshacomputer@lichess": {
+    "id": "matheeshacomputer",
+    "provider": "lichess",
+    "username": "Matheeshacomputer",
+    "firstSeen": 1615020693035,
+    "lastSeen": 1615021435625
+  },
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1615021465904,
+    "lastSeen": 1615021465904
+  }
+}
