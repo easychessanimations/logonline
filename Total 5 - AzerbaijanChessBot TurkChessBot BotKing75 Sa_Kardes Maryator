@@ -1,0 +1,43 @@
+{
+  "azerbaijanchessbot@lichess": {
+    "id": "azerbaijanchessbot",
+    "provider": "lichess",
+    "username": "AzerbaijanChessBot",
+    "firstSeen": 1615025789883,
+    "lastSeen": 1615037740176,
+    "firstSeenTime": "10:16:29 AM",
+    "lastSeenTime": "1:06:52 PM",
+    "onlineDurationMins": 170.384
+  },
+  "turkchessbot@lichess": {
+    "id": "turkchessbot",
+    "provider": "lichess",
+    "username": "TurkChessBot",
+    "firstSeen": 1615034927214,
+    "lastSeen": 1615037687171,
+    "firstSeenTime": "12:48:47 PM",
+    "lastSeenTime": "1:10:36 PM",
+    "onlineDurationMins": 21.818416666666668
+  },
+  "botking75@lichess": {
+    "id": "botking75",
+    "provider": "lichess",
+    "username": "BotKing75",
+    "firstSeen": 1615036837309,
+    "lastSeen": 1615037029744
+  },
+  "sa_kardes@lichess": {
+    "id": "sa_kardes",
+    "provider": "lichess",
+    "username": "Sa_Kardes",
+    "firstSeen": 1615036941206,
+    "lastSeen": 1615037710707
+  },
+  "maryator@lichess": {
+    "id": "maryator",
+    "provider": "lichess",
+    "username": "Maryator",
+    "firstSeen": 1615037203007,
+    "lastSeen": 1615037349176
+  }
+}
