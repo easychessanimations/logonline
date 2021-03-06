@@ -1,0 +1,52 @@
+{
+  "reallycrazybot@lichess": {
+    "id": "reallycrazybot",
+    "provider": "lichess",
+    "username": "ReallyCrazyBOT",
+    "firstSeen": 1615040526344,
+    "lastSeen": 1615046492117,
+    "firstSeenTime": "2:22:06 PM",
+    "lastSeenTime": "4:01:32 PM",
+    "onlineDurationMins": 99.42955
+  },
+  "kingegypte-bot@lichess": {
+    "id": "kingegypte-bot",
+    "provider": "lichess",
+    "username": "KingEgypte-BOT",
+    "firstSeen": 1615045510230,
+    "lastSeen": 1615047079877,
+    "firstSeenTime": "3:45:10 PM",
+    "lastSeenTime": "4:01:36 PM",
+    "onlineDurationMins": 16.4414
+  },
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "KillerXX3000",
+    "firstSeen": 1615046495409,
+    "lastSeen": 1615046675419,
+    "firstSeenTime": "4:01:35 PM",
+    "lastSeenTime": "4:04:35 PM",
+    "onlineDurationMins": 3.000166666666667
+  },
+  "thebestchessengine@lichess": {
+    "id": "thebestchessengine",
+    "provider": "lichess",
+    "username": "TheBestChessEngine",
+    "firstSeen": 1615046548968,
+    "lastSeen": 1615046652234,
+    "firstSeenTime": "4:02:28 PM",
+    "lastSeenTime": "4:04:12 PM",
+    "onlineDurationMins": 1.7211
+  },
+  "azerbaijanchessbot@lichess": {
+    "id": "azerbaijanchessbot",
+    "provider": "lichess",
+    "username": "AzerbaijanChessBot",
+    "firstSeen": 1615046791664,
+    "lastSeen": 1615046951236,
+    "firstSeenTime": "4:06:31 PM",
+    "lastSeenTime": "4:06:39 PM",
+    "onlineDurationMins": 0.12766666666666668
+  }
+}
