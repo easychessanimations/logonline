@@ -1,0 +1,62 @@
+{
+  "turkchessbot@lichess": {
+    "id": "turkchessbot",
+    "provider": "lichess",
+    "username": "TurkChessBot",
+    "firstSeen": 1615034927214,
+    "lastSeen": 1615045894099,
+    "firstSeenTime": "12:48:47 PM",
+    "lastSeenTime": "3:51:34 PM",
+    "onlineDurationMins": 182.78141666666667
+  },
+  "reallycrazybot@lichess": {
+    "id": "reallycrazybot",
+    "provider": "lichess",
+    "username": "ReallyCrazyBOT",
+    "firstSeen": 1615040526344,
+    "lastSeen": 1615046488608,
+    "firstSeenTime": "2:22:06 PM",
+    "lastSeenTime": "3:53:38 PM",
+    "onlineDurationMins": 91.53938333333333
+  },
+  "corbaciturkay1717@lichess": {
+    "id": "corbaciturkay1717",
+    "provider": "lichess",
+    "username": "CORBACITurkay1717",
+    "firstSeen": 1615045438511,
+    "lastSeen": 1615045801164,
+    "firstSeenTime": "3:43:58 PM",
+    "lastSeenTime": "3:50:01 PM",
+    "onlineDurationMins": 6.044216666666666
+  },
+  "kingegypte-bot@lichess": {
+    "id": "kingegypte-bot",
+    "provider": "lichess",
+    "username": "KingEgypte-BOT",
+    "firstSeen": 1615045510230,
+    "lastSeen": 1615046167894,
+    "firstSeenTime": "3:45:10 PM",
+    "lastSeenTime": "3:53:50 PM",
+    "onlineDurationMins": 8.676366666666667
+  },
+  "gn30@lichess": {
+    "id": "gn30",
+    "provider": "lichess",
+    "username": "GN30",
+    "firstSeen": 1615045636915,
+    "lastSeen": 1615046045515,
+    "firstSeenTime": "3:47:16 PM",
+    "lastSeenTime": "3:54:05 PM",
+    "onlineDurationMins": 6.81
+  },
+  "nayakclub@lichess": {
+    "id": "nayakclub",
+    "provider": "lichess",
+    "username": "Nayakclub",
+    "firstSeen": 1615045984299,
+    "lastSeen": 1615046062140,
+    "firstSeenTime": "3:53:04 PM",
+    "lastSeenTime": "3:54:22 PM",
+    "onlineDurationMins": 1.29735
+  }
+}
