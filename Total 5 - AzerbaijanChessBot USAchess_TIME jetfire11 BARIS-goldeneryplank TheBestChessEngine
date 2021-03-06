@@ -1,0 +1,46 @@
+{
+  "azerbaijanchessbot@lichess": {
+    "id": "azerbaijanchessbot",
+    "provider": "lichess",
+    "username": "AzerbaijanChessBot",
+    "firstSeen": 1615019001547,
+    "lastSeen": 1615024710787,
+    "firstSeenTime": "8:23:21 AM",
+    "lastSeenTime": "9:15:23 AM",
+    "onlineDurationMins": 52.032266666666665
+  },
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1615021465904,
+    "lastSeen": 1615024638864,
+    "firstSeenTime": "9:04:25 AM",
+    "lastSeenTime": "9:07:54 AM",
+    "onlineDurationMins": 3.4716666666666667
+  },
+  "jetfire11@lichess": {
+    "id": "jetfire11",
+    "provider": "lichess",
+    "username": "jetfire11",
+    "firstSeen": 1615022096148,
+    "lastSeen": 1615024639211,
+    "firstSeenTime": "9:14:56 AM",
+    "lastSeenTime": "9:15:41 AM",
+    "onlineDurationMins": 0.74925
+  },
+  "baris-goldeneryplank@lichess": {
+    "id": "baris-goldeneryplank",
+    "provider": "lichess",
+    "username": "BARIS-goldeneryplank",
+    "firstSeen": 1615022260039,
+    "lastSeen": 1615025203237
+  },
+  "thebestchessengine@lichess": {
+    "id": "thebestchessengine",
+    "provider": "lichess",
+    "username": "TheBestChessEngine",
+    "firstSeen": 1615025205279,
+    "lastSeen": 1615025205279
+  }
+}
