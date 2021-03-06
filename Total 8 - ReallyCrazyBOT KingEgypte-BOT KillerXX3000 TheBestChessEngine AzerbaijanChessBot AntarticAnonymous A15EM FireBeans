@@ -1,0 +1,76 @@
+{
+  "reallycrazybot@lichess": {
+    "id": "reallycrazybot",
+    "provider": "lichess",
+    "username": "ReallyCrazyBOT",
+    "firstSeen": 1615040526344,
+    "lastSeen": 1615048050975,
+    "firstSeenTime": "2:22:06 PM",
+    "lastSeenTime": "4:15:30 PM",
+    "onlineDurationMins": 113.40885
+  },
+  "kingegypte-bot@lichess": {
+    "id": "kingegypte-bot",
+    "provider": "lichess",
+    "username": "KingEgypte-BOT",
+    "firstSeen": 1615045510230,
+    "lastSeen": 1615048841588,
+    "firstSeenTime": "3:45:10 PM",
+    "lastSeenTime": "4:21:04 PM",
+    "onlineDurationMins": 35.910383333333336
+  },
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "KillerXX3000",
+    "firstSeen": 1615046495409,
+    "lastSeen": 1615048655450,
+    "firstSeenTime": "4:01:35 PM",
+    "lastSeenTime": "4:14:35 PM",
+    "onlineDurationMins": 12.999883333333333
+  },
+  "thebestchessengine@lichess": {
+    "id": "thebestchessengine",
+    "provider": "lichess",
+    "username": "TheBestChessEngine",
+    "firstSeen": 1615046548968,
+    "lastSeen": 1615048079668,
+    "firstSeenTime": "4:02:28 PM",
+    "lastSeenTime": "4:15:03 PM",
+    "onlineDurationMins": 12.576966666666667
+  },
+  "azerbaijanchessbot@lichess": {
+    "id": "azerbaijanchessbot",
+    "provider": "lichess",
+    "username": "AzerbaijanChessBot",
+    "firstSeen": 1615046791664,
+    "lastSeen": 1615048867463,
+    "firstSeenTime": "4:06:31 PM",
+    "lastSeenTime": "4:22:05 PM",
+    "onlineDurationMins": 15.55865
+  },
+  "antarticanonymous@lichess": {
+    "id": "antarticanonymous",
+    "provider": "lichess",
+    "username": "AntarticAnonymous",
+    "firstSeen": 1615047203763,
+    "lastSeen": 1615048464664,
+    "firstSeenTime": "4:13:23 PM",
+    "lastSeenTime": "4:22:56 PM",
+    "onlineDurationMins": 9.546316666666666
+  },
+  "a15em@lichess": {
+    "id": "a15em",
+    "provider": "lichess",
+    "username": "A15EM",
+    "firstSeen": 1615048822369,
+    "lastSeen": 1615048840435
+  },
+  "firebeans@lichess": {
+    "id": "firebeans",
+    "provider": "lichess",
+    "username": "FireBeans",
+    "firstSeen": 1615048872215,
+    "lastSeen": 1615048872215
+  }
+}
