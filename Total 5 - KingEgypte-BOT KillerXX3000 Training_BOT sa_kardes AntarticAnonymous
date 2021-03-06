@@ -1,0 +1,43 @@
+{
+  "kingegypte-bot@lichess": {
+    "id": "kingegypte-bot",
+    "provider": "lichess",
+    "username": "KingEgypte-BOT",
+    "firstSeen": 1615045510230,
+    "lastSeen": 1615054953103,
+    "firstSeenTime": "3:45:10 PM",
+    "lastSeenTime": "5:23:47 PM",
+    "onlineDurationMins": 98.62178333333334
+  },
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "KillerXX3000",
+    "firstSeen": 1615046495409,
+    "lastSeen": 1615054700312,
+    "firstSeenTime": "4:01:35 PM",
+    "lastSeenTime": "5:21:38 PM",
+    "onlineDurationMins": 80.05751666666667
+  },
+  "training_bot@lichess": {
+    "id": "training_bot",
+    "provider": "lichess",
+    "username": "Training_BOT",
+    "firstSeen": 1615053482925,
+    "lastSeen": 1615054636643
+  },
+  "sa_kardes@lichess": {
+    "id": "sa_kardes",
+    "provider": "lichess",
+    "username": "sa_kardes",
+    "firstSeen": 1615054455708,
+    "lastSeen": 1615054479102
+  },
+  "antarticanonymous@lichess": {
+    "id": "antarticanonymous",
+    "provider": "lichess",
+    "username": "AntarticAnonymous",
+    "firstSeen": 1615054907847,
+    "lastSeen": 1615054918156
+  }
+}
