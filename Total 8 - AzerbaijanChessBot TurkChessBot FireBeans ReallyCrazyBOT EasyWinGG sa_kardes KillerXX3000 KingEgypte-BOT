@@ -1,0 +1,79 @@
+{
+  "azerbaijanchessbot@lichess": {
+    "id": "azerbaijanchessbot",
+    "provider": "lichess",
+    "username": "AzerbaijanChessBot",
+    "firstSeen": 1615025789883,
+    "lastSeen": 1615042164057,
+    "firstSeenTime": "10:16:29 AM",
+    "lastSeenTime": "2:47:20 PM",
+    "onlineDurationMins": 270.84633333333335
+  },
+  "turkchessbot@lichess": {
+    "id": "turkchessbot",
+    "provider": "lichess",
+    "username": "TurkChessBot",
+    "firstSeen": 1615034927214,
+    "lastSeen": 1615041970227,
+    "firstSeenTime": "12:48:47 PM",
+    "lastSeenTime": "2:46:10 PM",
+    "onlineDurationMins": 117.38355
+  },
+  "firebeans@lichess": {
+    "id": "firebeans",
+    "provider": "lichess",
+    "username": "FireBeans",
+    "firstSeen": 1615039621634,
+    "lastSeen": 1615041665629,
+    "firstSeenTime": "2:07:01 PM",
+    "lastSeenTime": "2:41:05 PM",
+    "onlineDurationMins": 34.066583333333334
+  },
+  "reallycrazybot@lichess": {
+    "id": "reallycrazybot",
+    "provider": "lichess",
+    "username": "ReallyCrazyBOT",
+    "firstSeen": 1615040526344,
+    "lastSeen": 1615041965736,
+    "firstSeenTime": "2:22:06 PM",
+    "lastSeenTime": "2:46:05 PM",
+    "onlineDurationMins": 23.989866666666668
+  },
+  "easywingg@lichess": {
+    "id": "easywingg",
+    "provider": "lichess",
+    "username": "EasyWinGG",
+    "firstSeen": 1615040926138,
+    "lastSeen": 1615042115490,
+    "firstSeenTime": "2:28:46 PM",
+    "lastSeenTime": "2:46:25 PM",
+    "onlineDurationMins": 17.663533333333334
+  },
+  "sa_kardes@lichess": {
+    "id": "sa_kardes",
+    "provider": "lichess",
+    "username": "sa_kardes",
+    "firstSeen": 1615041866760,
+    "lastSeen": 1615041963179,
+    "firstSeenTime": "2:44:26 PM",
+    "lastSeenTime": "2:46:03 PM",
+    "onlineDurationMins": 1.6069833333333334
+  },
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "KillerXX3000",
+    "firstSeen": 1615041886240,
+    "lastSeen": 1615042177343,
+    "firstSeenTime": "2:44:46 PM",
+    "lastSeenTime": "2:44:52 PM",
+    "onlineDurationMins": 0.09806666666666666
+  },
+  "kingegypte-bot@lichess": {
+    "id": "kingegypte-bot",
+    "provider": "lichess",
+    "username": "KingEgypte-BOT",
+    "firstSeen": 1615042177811,
+    "lastSeen": 1615042177812
+  }
+}
