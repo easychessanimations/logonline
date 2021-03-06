@@ -1,0 +1,42 @@
+{
+  "baris-goldeneryplank@lichess": {
+    "id": "baris-goldeneryplank",
+    "provider": "lichess",
+    "username": "BARIS-goldeneryplank",
+    "firstSeen": 1615022260039,
+    "lastSeen": 1615030543331,
+    "firstSeenTime": "9:17:40 AM",
+    "lastSeenTime": "11:35:43 AM",
+    "onlineDurationMins": 138.05486666666667
+  },
+  "azerbaijanchessbot@lichess": {
+    "id": "azerbaijanchessbot",
+    "provider": "lichess",
+    "username": "AzerbaijanChessBot",
+    "firstSeen": 1615025789883,
+    "lastSeen": 1615030699911,
+    "firstSeenTime": "10:16:29 AM",
+    "lastSeenTime": "11:31:49 AM",
+    "onlineDurationMins": 75.32003333333333
+  },
+  "kingegypte-bot@lichess": {
+    "id": "kingegypte-bot",
+    "provider": "lichess",
+    "username": "KingEgypte-BOT",
+    "firstSeen": 1615025947720,
+    "lastSeen": 1615030286992,
+    "firstSeenTime": "10:19:07 AM",
+    "lastSeenTime": "11:31:26 AM",
+    "onlineDurationMins": 72.3212
+  },
+  "raybotchess123@lichess": {
+    "id": "raybotchess123",
+    "provider": "lichess",
+    "username": "RayBotChess123",
+    "firstSeen": 1615030589412,
+    "lastSeen": 1615030775139,
+    "firstSeenTime": "11:36:29 AM",
+    "lastSeenTime": "11:36:40 AM",
+    "onlineDurationMins": 0.18063333333333334
+  }
+}
