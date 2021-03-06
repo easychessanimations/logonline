@@ -1,0 +1,56 @@
+{
+  "kingegypte-bot@lichess": {
+    "id": "kingegypte-bot",
+    "provider": "lichess",
+    "username": "KingEgypte-BOT",
+    "firstSeen": 1615045510230,
+    "lastSeen": 1615050213231,
+    "firstSeenTime": "3:45:10 PM",
+    "lastSeenTime": "4:55:03 PM",
+    "onlineDurationMins": 69.88118333333334
+  },
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "KillerXX3000",
+    "firstSeen": 1615046495409,
+    "lastSeen": 1615049975528,
+    "firstSeenTime": "4:01:35 PM",
+    "lastSeenTime": "4:54:35 PM",
+    "onlineDurationMins": 53.00025
+  },
+  "firebeans@lichess": {
+    "id": "firebeans",
+    "provider": "lichess",
+    "username": "FireBeans",
+    "firstSeen": 1615048872215,
+    "lastSeen": 1615050254831,
+    "firstSeenTime": "4:41:12 PM",
+    "lastSeenTime": "4:53:18 PM",
+    "onlineDurationMins": 12.102216666666667
+  },
+  "reallycrazybot@lichess": {
+    "id": "reallycrazybot",
+    "provider": "lichess",
+    "username": "ReallyCrazyBOT",
+    "firstSeen": 1615049477913,
+    "lastSeen": 1615050141290,
+    "firstSeenTime": "4:51:17 PM",
+    "lastSeenTime": "4:51:21 PM",
+    "onlineDurationMins": 0.05591666666666667
+  },
+  "riko2020_chess@lichess": {
+    "id": "riko2020_chess",
+    "provider": "lichess",
+    "username": "Riko2020_chess",
+    "firstSeen": 1615050103535,
+    "lastSeen": 1615050127044
+  },
+  "crazyfisheater@lichess": {
+    "id": "crazyfisheater",
+    "provider": "lichess",
+    "username": "CrazyFishEater",
+    "firstSeen": 1615050132175,
+    "lastSeen": 1615050141571
+  }
+}
