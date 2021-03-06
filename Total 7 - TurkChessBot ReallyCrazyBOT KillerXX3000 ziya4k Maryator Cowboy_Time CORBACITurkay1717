@@ -1,0 +1,60 @@
+{
+  "turkchessbot@lichess": {
+    "id": "turkchessbot",
+    "provider": "lichess",
+    "username": "TurkChessBot",
+    "firstSeen": 1615034927214,
+    "lastSeen": 1615045125432,
+    "firstSeenTime": "12:48:47 PM",
+    "lastSeenTime": "3:16:53 PM",
+    "onlineDurationMins": 148.10771666666668
+  },
+  "reallycrazybot@lichess": {
+    "id": "reallycrazybot",
+    "provider": "lichess",
+    "username": "ReallyCrazyBOT",
+    "firstSeen": 1615040526344,
+    "lastSeen": 1615045120728,
+    "firstSeenTime": "2:22:06 PM",
+    "lastSeenTime": "3:16:09 PM",
+    "onlineDurationMins": 54.05511666666666
+  },
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "KillerXX3000",
+    "firstSeen": 1615041886240,
+    "lastSeen": 1615045429259,
+    "firstSeenTime": "2:44:46 PM",
+    "lastSeenTime": "3:22:35 PM",
+    "onlineDurationMins": 37.82188333333333
+  },
+  "ziya4k@lichess": {
+    "id": "ziya4k",
+    "provider": "lichess",
+    "username": "ziya4k",
+    "firstSeen": 1615044638037,
+    "lastSeen": 1615044685652
+  },
+  "maryator@lichess": {
+    "id": "maryator",
+    "provider": "lichess",
+    "username": "Maryator",
+    "firstSeen": 1615044800667,
+    "lastSeen": 1615044800687
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1615045413527,
+    "lastSeen": 1615045430404
+  },
+  "corbaciturkay1717@lichess": {
+    "id": "corbaciturkay1717",
+    "provider": "lichess",
+    "username": "CORBACITurkay1717",
+    "firstSeen": 1615045438511,
+    "lastSeen": 1615045438511
+  }
+}
