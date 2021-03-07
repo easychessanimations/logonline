@@ -1,0 +1,26 @@
+{
+  "azerbaijanchessbot@lichess": {
+    "id": "azerbaijanchessbot",
+    "provider": "lichess",
+    "username": "AzerbaijanChessBot",
+    "firstSeen": 1615104625700,
+    "lastSeen": 1615113182659,
+    "firstSeenTime": "8:10:25 AM",
+    "lastSeenTime": "9:42:05 AM",
+    "onlineDurationMins": 91.6716
+  },
+  "raybotchess123@lichess": {
+    "id": "raybotchess123",
+    "provider": "lichess",
+    "username": "RayBotChess123",
+    "firstSeen": 1615113313023,
+    "lastSeen": 1615113461146
+  },
+  "the_best_ai_bot@lichess": {
+    "id": "the_best_ai_bot",
+    "provider": "lichess",
+    "username": "The_Best_Ai_Bot",
+    "firstSeen": 1615113564734,
+    "lastSeen": 1615113564734
+  }
+}
