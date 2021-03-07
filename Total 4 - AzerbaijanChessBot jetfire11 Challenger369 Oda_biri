@@ -1,0 +1,33 @@
+{
+  "azerbaijanchessbot@lichess": {
+    "id": "azerbaijanchessbot",
+    "provider": "lichess",
+    "username": "AzerbaijanChessBot",
+    "firstSeen": 1615104625700,
+    "lastSeen": 1615112026616,
+    "firstSeenTime": "8:10:25 AM",
+    "lastSeenTime": "9:42:05 AM",
+    "onlineDurationMins": 91.6716
+  },
+  "jetfire11@lichess": {
+    "id": "jetfire11",
+    "provider": "lichess",
+    "username": "jetfire11",
+    "firstSeen": 1615110739123,
+    "lastSeen": 1615111207761
+  },
+  "challenger369@lichess": {
+    "id": "challenger369",
+    "provider": "lichess",
+    "username": "Challenger369",
+    "firstSeen": 1615111166416,
+    "lastSeen": 1615111181710
+  },
+  "oda_biri@lichess": {
+    "id": "oda_biri",
+    "provider": "lichess",
+    "username": "Oda_biri",
+    "firstSeen": 1615111694068,
+    "lastSeen": 1615111937674
+  }
+}
