@@ -1,0 +1,26 @@
+{
+  "azerbaijanchessbot@lichess": {
+    "id": "azerbaijanchessbot",
+    "provider": "lichess",
+    "username": "AzerbaijanChessBot",
+    "firstSeen": 1615104625700,
+    "lastSeen": 1615110663591,
+    "firstSeenTime": "8:10:25 AM",
+    "lastSeenTime": "9:42:05 AM",
+    "onlineDurationMins": 91.6716
+  },
+  "silverharsh@lichess": {
+    "id": "silverharsh",
+    "provider": "lichess",
+    "username": "Silverharsh",
+    "firstSeen": 1615110566396,
+    "lastSeen": 1615110688224
+  },
+  "jetfire11@lichess": {
+    "id": "jetfire11",
+    "provider": "lichess",
+    "username": "jetfire11",
+    "firstSeen": 1615110739123,
+    "lastSeen": 1615110739123
+  }
+}
