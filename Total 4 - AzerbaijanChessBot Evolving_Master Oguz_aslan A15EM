@@ -1,0 +1,30 @@
+{
+  "azerbaijanchessbot@lichess": {
+    "id": "azerbaijanchessbot",
+    "provider": "lichess",
+    "username": "AzerbaijanChessBot",
+    "firstSeen": 1615104625700,
+    "lastSeen": 1615106162322
+  },
+  "evolving_master@lichess": {
+    "id": "evolving_master",
+    "provider": "lichess",
+    "username": "Evolving_Master",
+    "firstSeen": 1615105420674,
+    "lastSeen": 1615106152269
+  },
+  "oguz_aslan@lichess": {
+    "id": "oguz_aslan",
+    "provider": "lichess",
+    "username": "Oguz_aslan",
+    "firstSeen": 1615105981459,
+    "lastSeen": 1615106313450
+  },
+  "a15em@lichess": {
+    "id": "a15em",
+    "provider": "lichess",
+    "username": "A15EM",
+    "firstSeen": 1615106019031,
+    "lastSeen": 1615106023754
+  }
+}
