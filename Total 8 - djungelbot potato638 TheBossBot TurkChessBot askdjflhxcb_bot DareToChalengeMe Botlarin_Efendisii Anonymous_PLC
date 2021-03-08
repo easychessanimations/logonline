@@ -1,0 +1,76 @@
+{
+  "djungelbot@lichess": {
+    "id": "djungelbot",
+    "provider": "lichess",
+    "username": "djungelbot",
+    "firstSeen": 1615216808837,
+    "lastSeen": 1615221736419,
+    "firstSeenTime": "3:20:08 PM",
+    "lastSeenTime": "4:42:16 PM",
+    "onlineDurationMins": 82.12636666666667
+  },
+  "potato638@lichess": {
+    "id": "potato638",
+    "provider": "lichess",
+    "username": "potato638",
+    "firstSeen": 1615220704329,
+    "lastSeen": 1615222111629,
+    "firstSeenTime": "4:25:04 PM",
+    "lastSeenTime": "4:43:43 PM",
+    "onlineDurationMins": 18.654833333333332
+  },
+  "thebossbot@lichess": {
+    "id": "thebossbot",
+    "provider": "lichess",
+    "username": "TheBossBot",
+    "firstSeen": 1615220835379,
+    "lastSeen": 1615221626711,
+    "firstSeenTime": "4:27:15 PM",
+    "lastSeenTime": "4:40:26 PM",
+    "onlineDurationMins": 13.188866666666666
+  },
+  "turkchessbot@lichess": {
+    "id": "turkchessbot",
+    "provider": "lichess",
+    "username": "TurkChessBot",
+    "firstSeen": 1615220878451,
+    "lastSeen": 1615221986337,
+    "firstSeenTime": "4:27:58 PM",
+    "lastSeenTime": "4:43:44 PM",
+    "onlineDurationMins": 15.766633333333333
+  },
+  "askdjflhxcb_bot@lichess": {
+    "id": "askdjflhxcb_bot",
+    "provider": "lichess",
+    "username": "askdjflhxcb_bot",
+    "firstSeen": 1615221096708,
+    "lastSeen": 1615222114650,
+    "firstSeenTime": "4:31:36 PM",
+    "lastSeenTime": "4:33:49 PM",
+    "onlineDurationMins": 2.2102
+  },
+  "daretochalengeme@lichess": {
+    "id": "daretochalengeme",
+    "provider": "lichess",
+    "username": "DareToChalengeMe",
+    "firstSeen": 1615221731763,
+    "lastSeen": 1615221808713,
+    "firstSeenTime": "4:42:11 PM",
+    "lastSeenTime": "4:43:28 PM",
+    "onlineDurationMins": 1.2825
+  },
+  "botlarin_efendisii@lichess": {
+    "id": "botlarin_efendisii",
+    "provider": "lichess",
+    "username": "Botlarin_Efendisii",
+    "firstSeen": 1615221950963,
+    "lastSeen": 1615221986107
+  },
+  "anonymous_plc@lichess": {
+    "id": "anonymous_plc",
+    "provider": "lichess",
+    "username": "Anonymous_PLC",
+    "firstSeen": 1615222237565,
+    "lastSeen": 1615222237565
+  }
+}
