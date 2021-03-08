@@ -1,0 +1,32 @@
+{
+  "scholastic_chess_bot@lichess": {
+    "id": "scholastic_chess_bot",
+    "provider": "lichess",
+    "username": "Scholastic_Chess_Bot",
+    "firstSeen": 1615226453135,
+    "lastSeen": 1615227979883,
+    "firstSeenTime": "6:00:53 PM",
+    "lastSeenTime": "6:26:19 PM",
+    "onlineDurationMins": 25.4458
+  },
+  "kingegypte-bot@lichess": {
+    "id": "kingegypte-bot",
+    "provider": "lichess",
+    "username": "KingEgypte-BOT",
+    "firstSeen": 1615226853300,
+    "lastSeen": 1615228427063,
+    "firstSeenTime": "6:07:33 PM",
+    "lastSeenTime": "6:26:06 PM",
+    "onlineDurationMins": 18.55555
+  },
+  "chicken_farmer@lichess": {
+    "id": "chicken_farmer",
+    "provider": "lichess",
+    "username": "chicken_farmer",
+    "firstSeen": 1615226983789,
+    "lastSeen": 1615227963117,
+    "firstSeenTime": "6:09:43 PM",
+    "lastSeenTime": "6:26:03 PM",
+    "onlineDurationMins": 16.322133333333333
+  }
+}
