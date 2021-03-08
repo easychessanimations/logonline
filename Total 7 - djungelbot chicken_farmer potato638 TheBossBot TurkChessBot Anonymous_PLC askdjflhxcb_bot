@@ -1,0 +1,57 @@
+{
+  "djungelbot@lichess": {
+    "id": "djungelbot",
+    "provider": "lichess",
+    "username": "djungelbot",
+    "firstSeen": 1615216808837,
+    "lastSeen": 1615221004517,
+    "firstSeenTime": "3:20:08 PM",
+    "lastSeenTime": "3:51:32 PM",
+    "onlineDurationMins": 31.3961
+  },
+  "chicken_farmer@lichess": {
+    "id": "chicken_farmer",
+    "provider": "lichess",
+    "username": "chicken_farmer",
+    "firstSeen": 1615217593077,
+    "lastSeen": 1615220922296,
+    "firstSeenTime": "3:33:13 PM",
+    "lastSeenTime": "3:52:35 PM",
+    "onlineDurationMins": 19.368816666666667
+  },
+  "potato638@lichess": {
+    "id": "potato638",
+    "provider": "lichess",
+    "username": "potato638",
+    "firstSeen": 1615220704329,
+    "lastSeen": 1615220757352
+  },
+  "thebossbot@lichess": {
+    "id": "thebossbot",
+    "provider": "lichess",
+    "username": "TheBossBot",
+    "firstSeen": 1615220835379,
+    "lastSeen": 1615220850833
+  },
+  "turkchessbot@lichess": {
+    "id": "turkchessbot",
+    "provider": "lichess",
+    "username": "TurkChessBot",
+    "firstSeen": 1615220878451,
+    "lastSeen": 1615220960935
+  },
+  "anonymous_plc@lichess": {
+    "id": "anonymous_plc",
+    "provider": "lichess",
+    "username": "Anonymous_PLC",
+    "firstSeen": 1615220998152,
+    "lastSeen": 1615221038740
+  },
+  "askdjflhxcb_bot@lichess": {
+    "id": "askdjflhxcb_bot",
+    "provider": "lichess",
+    "username": "askdjflhxcb_bot",
+    "firstSeen": 1615221096708,
+    "lastSeen": 1615221096708
+  }
+}
