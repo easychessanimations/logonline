@@ -1,0 +1,30 @@
+{
+  "oeda@lichess": {
+    "id": "oeda",
+    "provider": "lichess",
+    "username": "Oeda",
+    "firstSeen": 1615204610735,
+    "lastSeen": 1615204988704
+  },
+  "sametyakarbot@lichess": {
+    "id": "sametyakarbot",
+    "provider": "lichess",
+    "username": "SametyakarBOT",
+    "firstSeen": 1615204611214,
+    "lastSeen": 1615205050366
+  },
+  "ilker-pro@lichess": {
+    "id": "ilker-pro",
+    "provider": "lichess",
+    "username": "ilker-pro",
+    "firstSeen": 1615204987173,
+    "lastSeen": 1615204987173
+  },
+  "grandchessbot@lichess": {
+    "id": "grandchessbot",
+    "provider": "lichess",
+    "username": "GrandChessBot",
+    "firstSeen": 1615205071182,
+    "lastSeen": 1615205071183
+  }
+}
