@@ -1,0 +1,62 @@
+{
+  "scholastic_chess_bot@lichess": {
+    "id": "scholastic_chess_bot",
+    "provider": "lichess",
+    "username": "Scholastic_Chess_Bot",
+    "firstSeen": 1615226453135,
+    "lastSeen": 1615227344411,
+    "firstSeenTime": "6:00:53 PM",
+    "lastSeenTime": "6:13:31 PM",
+    "onlineDurationMins": 12.63695
+  },
+  "kingegypte-bot@lichess": {
+    "id": "kingegypte-bot",
+    "provider": "lichess",
+    "username": "KingEgypte-BOT",
+    "firstSeen": 1615226853300,
+    "lastSeen": 1615227172113,
+    "firstSeenTime": "6:07:33 PM",
+    "lastSeenTime": "6:12:52 PM",
+    "onlineDurationMins": 5.31355
+  },
+  "monstertrucks944@lichess": {
+    "id": "monstertrucks944",
+    "provider": "lichess",
+    "username": "MonsterTrucks944",
+    "firstSeen": 1615226932777,
+    "lastSeen": 1615227401684,
+    "firstSeenTime": "6:08:52 PM",
+    "lastSeenTime": "6:12:36 PM",
+    "onlineDurationMins": 3.722766666666667
+  },
+  "799309618031362069@discord": {
+    "id": "799309618031362069",
+    "provider": "discord",
+    "username": "Admin for Discord Servers",
+    "firstSeen": 1615226975363,
+    "lastSeen": 1615226982762,
+    "firstSeenTime": "6:09:35 PM",
+    "lastSeenTime": "6:09:42 PM",
+    "onlineDurationMins": 0.12331666666666667
+  },
+  "chicken_farmer@lichess": {
+    "id": "chicken_farmer",
+    "provider": "lichess",
+    "username": "chicken_farmer",
+    "firstSeen": 1615226983789,
+    "lastSeen": 1615227170640,
+    "firstSeenTime": "6:09:43 PM",
+    "lastSeenTime": "6:12:50 PM",
+    "onlineDurationMins": 3.1141833333333335
+  },
+  "magnus_carlsen02@lichess": {
+    "id": "magnus_carlsen02",
+    "provider": "lichess",
+    "username": "Magnus_Carlsen02",
+    "firstSeen": 1615227144441,
+    "lastSeen": 1615227241653,
+    "firstSeenTime": "6:12:24 PM",
+    "lastSeenTime": "6:14:01 PM",
+    "onlineDurationMins": 1.6202
+  }
+}
