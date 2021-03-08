@@ -1,0 +1,29 @@
+{
+  "ilker-pro@lichess": {
+    "id": "ilker-pro",
+    "provider": "lichess",
+    "username": "ilker-pro",
+    "firstSeen": 1615188165301,
+    "lastSeen": 1615191026781,
+    "firstSeenTime": "7:22:45 AM",
+    "lastSeenTime": "7:23:01 AM",
+    "onlineDurationMins": 0.26321666666666665
+  },
+  "zackes@lichess": {
+    "id": "zackes",
+    "provider": "lichess",
+    "username": "Zackes",
+    "firstSeen": 1615188824442,
+    "lastSeen": 1615191150510,
+    "firstSeenTime": "7:33:44 AM",
+    "lastSeenTime": "7:33:47 AM",
+    "onlineDurationMins": 0.05628333333333333
+  },
+  "stokcfishbot@lichess": {
+    "id": "stokcfishbot",
+    "provider": "lichess",
+    "username": "StokcfishbOT",
+    "firstSeen": 1615191148662,
+    "lastSeen": 1615191422345
+  }
+}
