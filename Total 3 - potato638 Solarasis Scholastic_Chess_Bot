@@ -1,0 +1,29 @@
+{
+  "potato638@lichess": {
+    "id": "potato638",
+    "provider": "lichess",
+    "username": "potato638",
+    "firstSeen": 1615220704329,
+    "lastSeen": 1615225929591,
+    "firstSeenTime": "4:25:04 PM",
+    "lastSeenTime": "5:50:04 PM",
+    "onlineDurationMins": 85.01068333333333
+  },
+  "solarasis@lichess": {
+    "id": "solarasis",
+    "provider": "lichess",
+    "username": "Solarasis",
+    "firstSeen": 1615223110725,
+    "lastSeen": 1615225876755,
+    "firstSeenTime": "5:05:10 PM",
+    "lastSeenTime": "5:51:16 PM",
+    "onlineDurationMins": 46.1005
+  },
+  "scholastic_chess_bot@lichess": {
+    "id": "scholastic_chess_bot",
+    "provider": "lichess",
+    "username": "Scholastic_Chess_Bot",
+    "firstSeen": 1615226453135,
+    "lastSeen": 1615226453135
+  }
+}
