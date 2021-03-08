@@ -1,0 +1,36 @@
+{
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1615192560022,
+    "lastSeen": 1615196117764,
+    "firstSeenTime": "8:36:00 AM",
+    "lastSeenTime": "9:01:03 AM",
+    "onlineDurationMins": 25.056116666666668
+  },
+  "bot_of_jotim431@lichess": {
+    "id": "bot_of_jotim431",
+    "provider": "lichess",
+    "username": "Bot_of_jotim431",
+    "firstSeen": 1615192960868,
+    "lastSeen": 1615195961961,
+    "firstSeenTime": "8:42:40 AM",
+    "lastSeenTime": "9:01:36 AM",
+    "onlineDurationMins": 18.92245
+  },
+  "sri-player@lichess": {
+    "id": "sri-player",
+    "provider": "lichess",
+    "username": "Sri-player",
+    "firstSeen": 1615194569324,
+    "lastSeen": 1615195611383
+  },
+  "champian64big@lichess": {
+    "id": "champian64big",
+    "provider": "lichess",
+    "username": "Champian64BIg",
+    "firstSeen": 1615195980622,
+    "lastSeen": 1615195996136
+  }
+}
