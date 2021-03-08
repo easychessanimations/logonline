@@ -1,0 +1,59 @@
+{
+  "djungelbot@lichess": {
+    "id": "djungelbot",
+    "provider": "lichess",
+    "username": "djungelbot",
+    "firstSeen": 1615181129939,
+    "lastSeen": 1615189096250,
+    "firstSeenTime": "5:25:29 AM",
+    "lastSeenTime": "7:31:18 AM",
+    "onlineDurationMins": 125.81601666666667
+  },
+  "champian64big@lichess": {
+    "id": "champian64big",
+    "provider": "lichess",
+    "username": "Champian64BIg",
+    "firstSeen": 1615184081188,
+    "lastSeen": 1615188548131,
+    "firstSeenTime": "6:14:41 AM",
+    "lastSeenTime": "7:29:08 AM",
+    "onlineDurationMins": 74.44905
+  },
+  "sri-player@lichess": {
+    "id": "sri-player",
+    "provider": "lichess",
+    "username": "Sri-player",
+    "firstSeen": 1615187108180,
+    "lastSeen": 1615189095530,
+    "firstSeenTime": "7:05:08 AM",
+    "lastSeenTime": "7:32:59 AM",
+    "onlineDurationMins": 27.855416666666667
+  },
+  "ilker-pro@lichess": {
+    "id": "ilker-pro",
+    "provider": "lichess",
+    "username": "ilker-pro",
+    "firstSeen": 1615188165301,
+    "lastSeen": 1615188979509,
+    "firstSeenTime": "7:22:45 AM",
+    "lastSeenTime": "7:23:01 AM",
+    "onlineDurationMins": 0.26321666666666665
+  },
+  "zackes@lichess": {
+    "id": "zackes",
+    "provider": "lichess",
+    "username": "Zackes",
+    "firstSeen": 1615188824442,
+    "lastSeen": 1615188827819,
+    "firstSeenTime": "7:33:44 AM",
+    "lastSeenTime": "7:33:47 AM",
+    "onlineDurationMins": 0.05628333333333333
+  },
+  "stokcfishbot@lichess": {
+    "id": "stokcfishbot",
+    "provider": "lichess",
+    "username": "StokcfishbOT",
+    "firstSeen": 1615189152335,
+    "lastSeen": 1615189152335
+  }
+}
