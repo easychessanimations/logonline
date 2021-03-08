@@ -1,0 +1,29 @@
+{
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "KillerXX3000",
+    "firstSeen": 1615142992145,
+    "lastSeen": 1615175032077,
+    "firstSeenTime": "6:49:52 PM",
+    "lastSeenTime": "3:09:55 AM",
+    "onlineDurationMins": 500.05581666666666
+  },
+  "mihir10_bot@lichess": {
+    "id": "mihir10_bot",
+    "provider": "lichess",
+    "username": "Mihir10_Bot",
+    "firstSeen": 1615171384770,
+    "lastSeen": 1615174840519,
+    "firstSeenTime": "2:43:04 AM",
+    "lastSeenTime": "3:08:14 AM",
+    "onlineDurationMins": 25.164133333333332
+  },
+  "switcher26@lichess": {
+    "id": "switcher26",
+    "provider": "lichess",
+    "username": "Switcher26",
+    "firstSeen": 1615174329463,
+    "lastSeen": 1615174495155
+  }
+}
