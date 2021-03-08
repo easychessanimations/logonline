@@ -1,0 +1,29 @@
+{
+  "kingegypte-bot@lichess": {
+    "id": "kingegypte-bot",
+    "provider": "lichess",
+    "username": "KingEgypte-BOT",
+    "firstSeen": 1615226853300,
+    "lastSeen": 1615229129290,
+    "firstSeenTime": "6:07:33 PM",
+    "lastSeenTime": "6:45:29 PM",
+    "onlineDurationMins": 37.933166666666665
+  },
+  "chicken_farmer@lichess": {
+    "id": "chicken_farmer",
+    "provider": "lichess",
+    "username": "chicken_farmer",
+    "firstSeen": 1615226983789,
+    "lastSeen": 1615229401666,
+    "firstSeenTime": "6:09:43 PM",
+    "lastSeenTime": "6:49:19 PM",
+    "onlineDurationMins": 39.590783333333334
+  },
+  "potato638@lichess": {
+    "id": "potato638",
+    "provider": "lichess",
+    "username": "potato638",
+    "firstSeen": 1615229472434,
+    "lastSeen": 1615229472434
+  }
+}
