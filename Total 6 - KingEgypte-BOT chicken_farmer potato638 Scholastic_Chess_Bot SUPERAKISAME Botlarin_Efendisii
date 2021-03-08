@@ -1,0 +1,50 @@
+{
+  "kingegypte-bot@lichess": {
+    "id": "kingegypte-bot",
+    "provider": "lichess",
+    "username": "KingEgypte-BOT",
+    "firstSeen": 1615226853300,
+    "lastSeen": 1615229867037,
+    "firstSeenTime": "6:07:33 PM",
+    "lastSeenTime": "6:45:29 PM",
+    "onlineDurationMins": 37.933166666666665
+  },
+  "chicken_farmer@lichess": {
+    "id": "chicken_farmer",
+    "provider": "lichess",
+    "username": "chicken_farmer",
+    "firstSeen": 1615226983789,
+    "lastSeen": 1615230284827,
+    "firstSeenTime": "6:09:43 PM",
+    "lastSeenTime": "6:49:19 PM",
+    "onlineDurationMins": 39.590783333333334
+  },
+  "potato638@lichess": {
+    "id": "potato638",
+    "provider": "lichess",
+    "username": "potato638",
+    "firstSeen": 1615229472434,
+    "lastSeen": 1615230285231
+  },
+  "scholastic_chess_bot@lichess": {
+    "id": "scholastic_chess_bot",
+    "provider": "lichess",
+    "username": "Scholastic_Chess_Bot",
+    "firstSeen": 1615229617141,
+    "lastSeen": 1615230273099
+  },
+  "superakisame@lichess": {
+    "id": "superakisame",
+    "provider": "lichess",
+    "username": "SUPERAKISAME",
+    "firstSeen": 1615230079144,
+    "lastSeen": 1615230278862
+  },
+  "botlarin_efendisii@lichess": {
+    "id": "botlarin_efendisii",
+    "provider": "lichess",
+    "username": "Botlarin_Efendisii",
+    "firstSeen": 1615230286518,
+    "lastSeen": 1615230286518
+  }
+}
