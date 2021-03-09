@@ -1,0 +1,23 @@
+{
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "KillerXX3000",
+    "firstSeen": 1615318028838,
+    "lastSeen": 1615329552213
+  },
+  "realchessbot@lichess": {
+    "id": "realchessbot",
+    "provider": "lichess",
+    "username": "realchessbot",
+    "firstSeen": 1615324276902,
+    "lastSeen": 1615329542875
+  },
+  "stockfish-medium@lichess": {
+    "id": "stockfish-medium",
+    "provider": "lichess",
+    "username": "stockfish-MEDIUM",
+    "firstSeen": 1615329184454,
+    "lastSeen": 1615329893246
+  }
+}
