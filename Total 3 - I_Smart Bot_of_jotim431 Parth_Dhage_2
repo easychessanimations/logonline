@@ -1,0 +1,29 @@
+{
+  "i_smart@lichess": {
+    "id": "i_smart",
+    "provider": "lichess",
+    "username": "I_Smart",
+    "firstSeen": 1615276900205,
+    "lastSeen": 1615278811417,
+    "firstSeenTime": "8:01:40 AM",
+    "lastSeenTime": "8:11:06 AM",
+    "onlineDurationMins": 9.441866666666666
+  },
+  "bot_of_jotim431@lichess": {
+    "id": "bot_of_jotim431",
+    "provider": "lichess",
+    "username": "Bot_of_jotim431",
+    "firstSeen": 1615277224162,
+    "lastSeen": 1615279583749,
+    "firstSeenTime": "8:07:04 AM",
+    "lastSeenTime": "8:07:55 AM",
+    "onlineDurationMins": 0.8593833333333334
+  },
+  "parth_dhage_2@lichess": {
+    "id": "parth_dhage_2",
+    "provider": "lichess",
+    "username": "Parth_Dhage_2",
+    "firstSeen": 1615278020634,
+    "lastSeen": 1615278746379
+  }
+}
