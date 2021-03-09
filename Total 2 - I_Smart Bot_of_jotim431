@@ -1,0 +1,22 @@
+{
+  "i_smart@lichess": {
+    "id": "i_smart",
+    "provider": "lichess",
+    "username": "I_Smart",
+    "firstSeen": 1615276900205,
+    "lastSeen": 1615278811417,
+    "firstSeenTime": "8:01:40 AM",
+    "lastSeenTime": "8:33:31 AM",
+    "onlineDurationMins": 31.853533333333335
+  },
+  "bot_of_jotim431@lichess": {
+    "id": "bot_of_jotim431",
+    "provider": "lichess",
+    "username": "Bot_of_jotim431",
+    "firstSeen": 1615277224162,
+    "lastSeen": 1615279617609,
+    "firstSeenTime": "8:07:04 AM",
+    "lastSeenTime": "8:46:23 AM",
+    "onlineDurationMins": 39.32645
+  }
+}
