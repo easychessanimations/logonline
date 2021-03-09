@@ -1,0 +1,36 @@
+{
+  "mihir10_bot@lichess": {
+    "id": "mihir10_bot",
+    "provider": "lichess",
+    "username": "Mihir10_Bot",
+    "firstSeen": 1615267063368,
+    "lastSeen": 1615270385881,
+    "firstSeenTime": "5:17:43 AM",
+    "lastSeenTime": "5:51:05 AM",
+    "onlineDurationMins": 33.376216666666664
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1615269313256,
+    "lastSeen": 1615270039271,
+    "firstSeenTime": "5:55:13 AM",
+    "lastSeenTime": "5:58:19 AM",
+    "onlineDurationMins": 3.1119666666666665
+  },
+  "the_dragon_bot@lichess": {
+    "id": "the_dragon_bot",
+    "provider": "lichess",
+    "username": "The_dragon_bot",
+    "firstSeen": 1615269881273,
+    "lastSeen": 1615269917745
+  },
+  "ilker-pro@lichess": {
+    "id": "ilker-pro",
+    "provider": "lichess",
+    "username": "ilker-pro",
+    "firstSeen": 1615270538499,
+    "lastSeen": 1615270538499
+  }
+}
