@@ -1,0 +1,50 @@
+{
+  "stockfish-medium@lichess": {
+    "id": "stockfish-medium",
+    "provider": "lichess",
+    "username": "stockfish-MEDIUM",
+    "firstSeen": 1615380153192,
+    "lastSeen": 1615388389302,
+    "firstSeenTime": "12:42:33 PM",
+    "lastSeenTime": "1:31:00 PM",
+    "onlineDurationMins": 48.45245
+  },
+  "roger_taylor@lichess": {
+    "id": "roger_taylor",
+    "provider": "lichess",
+    "username": "Roger_Taylor",
+    "firstSeen": 1615382978304,
+    "lastSeen": 1615388257155,
+    "firstSeenTime": "1:29:38 PM",
+    "lastSeenTime": "1:31:42 PM",
+    "onlineDurationMins": 2.0641
+  },
+  "mushwig@lichess": {
+    "id": "mushwig",
+    "provider": "lichess",
+    "username": "mushwig",
+    "firstSeen": 1615385559425,
+    "lastSeen": 1615388223227
+  },
+  "chicken_farmer@lichess": {
+    "id": "chicken_farmer",
+    "provider": "lichess",
+    "username": "chicken_farmer",
+    "firstSeen": 1615386930560,
+    "lastSeen": 1615387722140
+  },
+  "cheesepizza2363@lichess": {
+    "id": "cheesepizza2363",
+    "provider": "lichess",
+    "username": "cheesepizza2363",
+    "firstSeen": 1615387042626,
+    "lastSeen": 1615388545602
+  },
+  "bongcloud333@lichess": {
+    "id": "bongcloud333",
+    "provider": "lichess",
+    "username": "Bongcloud333",
+    "firstSeen": 1615387159535,
+    "lastSeen": 1615387776768
+  }
+}
