@@ -1,0 +1,52 @@
+{
+  "mushwig@lichess": {
+    "id": "mushwig",
+    "provider": "lichess",
+    "username": "mushwig",
+    "firstSeen": 1615385559425,
+    "lastSeen": 1615395963759,
+    "firstSeenTime": "2:12:39 PM",
+    "lastSeenTime": "5:06:03 PM",
+    "onlineDurationMins": 173.40556666666666
+  },
+  "master_unbeatable@lichess": {
+    "id": "master_unbeatable",
+    "provider": "lichess",
+    "username": "Master_Unbeatable",
+    "firstSeen": 1615391774125,
+    "lastSeen": 1615396007289,
+    "firstSeenTime": "3:56:14 PM",
+    "lastSeenTime": "5:06:47 PM",
+    "onlineDurationMins": 70.55273333333334
+  },
+  "stockfish-medium@lichess": {
+    "id": "stockfish-medium",
+    "provider": "lichess",
+    "username": "stockfish-MEDIUM",
+    "firstSeen": 1615392833415,
+    "lastSeen": 1615396094281,
+    "firstSeenTime": "4:13:53 PM",
+    "lastSeenTime": "5:06:28 PM",
+    "onlineDurationMins": 52.58265
+  },
+  "cobra-bot@lichess": {
+    "id": "cobra-bot",
+    "provider": "lichess",
+    "username": "Cobra-BOT",
+    "firstSeen": 1615394893237,
+    "lastSeen": 1615395988394,
+    "firstSeenTime": "4:48:13 PM",
+    "lastSeenTime": "5:06:28 PM",
+    "onlineDurationMins": 18.25261666666667
+  },
+  "marcoxgamer09@lichess": {
+    "id": "marcoxgamer09",
+    "provider": "lichess",
+    "username": "marcoxgamer09",
+    "firstSeen": 1615395589725,
+    "lastSeen": 1615395648087,
+    "firstSeenTime": "4:59:49 PM",
+    "lastSeenTime": "5:00:48 PM",
+    "onlineDurationMins": 0.9727
+  }
+}
