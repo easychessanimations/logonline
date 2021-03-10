@@ -1,0 +1,23 @@
+{
+  "master_unbeatable@lichess": {
+    "id": "master_unbeatable",
+    "provider": "lichess",
+    "username": "Master_Unbeatable",
+    "firstSeen": 1615402063775,
+    "lastSeen": 1615410047141
+  },
+  "stockfish-medium@lichess": {
+    "id": "stockfish-medium",
+    "provider": "lichess",
+    "username": "Stockfish-MEDIUM",
+    "firstSeen": 1615409599316,
+    "lastSeen": 1615410263985
+  },
+  "yasmarin1@lichess": {
+    "id": "yasmarin1",
+    "provider": "lichess",
+    "username": "yasmarin1",
+    "firstSeen": 1615409769920,
+    "lastSeen": 1615409819028
+  }
+}
