@@ -1,0 +1,16 @@
+{
+  "cobra-bot@lichess": {
+    "id": "cobra-bot",
+    "provider": "lichess",
+    "username": "Cobra-BOT",
+    "firstSeen": 1615401685412,
+    "lastSeen": 1615401691185
+  },
+  "stockfish-medium@lichess": {
+    "id": "stockfish-medium",
+    "provider": "lichess",
+    "username": "Stockfish-MEDIUM",
+    "firstSeen": 1615402022073,
+    "lastSeen": 1615402022073
+  }
+}
