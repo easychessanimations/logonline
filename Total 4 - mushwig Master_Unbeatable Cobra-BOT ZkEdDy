@@ -1,0 +1,39 @@
+{
+  "mushwig@lichess": {
+    "id": "mushwig",
+    "provider": "lichess",
+    "username": "mushwig",
+    "firstSeen": 1615385559425,
+    "lastSeen": 1615397943582,
+    "firstSeenTime": "2:12:39 PM",
+    "lastSeenTime": "5:17:03 PM",
+    "onlineDurationMins": 184.40176666666667
+  },
+  "master_unbeatable@lichess": {
+    "id": "master_unbeatable",
+    "provider": "lichess",
+    "username": "Master_Unbeatable",
+    "firstSeen": 1615391774125,
+    "lastSeen": 1615397983887,
+    "firstSeenTime": "3:56:14 PM",
+    "lastSeenTime": "5:17:43 PM",
+    "onlineDurationMins": 81.49321666666667
+  },
+  "cobra-bot@lichess": {
+    "id": "cobra-bot",
+    "provider": "lichess",
+    "username": "Cobra-BOT",
+    "firstSeen": 1615394893237,
+    "lastSeen": 1615397904407,
+    "firstSeenTime": "4:48:13 PM",
+    "lastSeenTime": "5:22:31 PM",
+    "onlineDurationMins": 34.29923333333333
+  },
+  "zkeddy@lichess": {
+    "id": "zkeddy",
+    "provider": "lichess",
+    "username": "ZkEdDy",
+    "firstSeen": 1615397495588,
+    "lastSeen": 1615397505692
+  }
+}
