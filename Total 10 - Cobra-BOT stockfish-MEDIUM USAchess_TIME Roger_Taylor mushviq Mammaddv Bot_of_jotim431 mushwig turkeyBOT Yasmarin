@@ -1,0 +1,84 @@
+{
+  "cobra-bot@lichess": {
+    "id": "cobra-bot",
+    "provider": "lichess",
+    "username": "Cobra-BOT",
+    "firstSeen": 1615379467105,
+    "lastSeen": 1615385793978,
+    "firstSeenTime": "12:31:07 PM",
+    "lastSeenTime": "1:30:59 PM",
+    "onlineDurationMins": 59.8814
+  },
+  "stockfish-medium@lichess": {
+    "id": "stockfish-medium",
+    "provider": "lichess",
+    "username": "stockfish-MEDIUM",
+    "firstSeen": 1615380153192,
+    "lastSeen": 1615385797505,
+    "firstSeenTime": "12:42:33 PM",
+    "lastSeenTime": "1:31:00 PM",
+    "onlineDurationMins": 48.45245
+  },
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1615382010525,
+    "lastSeen": 1615385950816,
+    "firstSeenTime": "1:13:30 PM",
+    "lastSeenTime": "1:19:32 PM",
+    "onlineDurationMins": 6.0254
+  },
+  "roger_taylor@lichess": {
+    "id": "roger_taylor",
+    "provider": "lichess",
+    "username": "Roger_Taylor",
+    "firstSeen": 1615382978304,
+    "lastSeen": 1615385973793,
+    "firstSeenTime": "1:29:38 PM",
+    "lastSeenTime": "1:31:42 PM",
+    "onlineDurationMins": 2.0641
+  },
+  "mushviq@lichess": {
+    "id": "mushviq",
+    "provider": "lichess",
+    "username": "mushviq",
+    "firstSeen": 1615384851320,
+    "lastSeen": 1615385274449
+  },
+  "mammaddv@lichess": {
+    "id": "mammaddv",
+    "provider": "lichess",
+    "username": "Mammaddv",
+    "firstSeen": 1615385284972,
+    "lastSeen": 1615385328971
+  },
+  "bot_of_jotim431@lichess": {
+    "id": "bot_of_jotim431",
+    "provider": "lichess",
+    "username": "Bot_of_jotim431",
+    "firstSeen": 1615385390231,
+    "lastSeen": 1615385444127
+  },
+  "mushwig@lichess": {
+    "id": "mushwig",
+    "provider": "lichess",
+    "username": "mushwig",
+    "firstSeen": 1615385559425,
+    "lastSeen": 1615385611360
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1615385576531,
+    "lastSeen": 1615385586185
+  },
+  "yasmarin@lichess": {
+    "id": "yasmarin",
+    "provider": "lichess",
+    "username": "Yasmarin",
+    "firstSeen": 1615385979218,
+    "lastSeen": 1615385979218
+  }
+}
