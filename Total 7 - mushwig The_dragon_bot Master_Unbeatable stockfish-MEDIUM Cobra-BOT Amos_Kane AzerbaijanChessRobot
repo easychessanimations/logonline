@@ -1,0 +1,69 @@
+{
+  "mushwig@lichess": {
+    "id": "mushwig",
+    "provider": "lichess",
+    "username": "mushwig",
+    "firstSeen": 1615385559425,
+    "lastSeen": 1615393140341,
+    "firstSeenTime": "2:12:39 PM",
+    "lastSeenTime": "4:19:00 PM",
+    "onlineDurationMins": 126.3486
+  },
+  "the_dragon_bot@lichess": {
+    "id": "the_dragon_bot",
+    "provider": "lichess",
+    "username": "The_dragon_bot",
+    "firstSeen": 1615390608391,
+    "lastSeen": 1615393737481,
+    "firstSeenTime": "3:36:48 PM",
+    "lastSeenTime": "4:19:55 PM",
+    "onlineDurationMins": 43.11233333333333
+  },
+  "master_unbeatable@lichess": {
+    "id": "master_unbeatable",
+    "provider": "lichess",
+    "username": "Master_Unbeatable",
+    "firstSeen": 1615391774125,
+    "lastSeen": 1615393303755,
+    "firstSeenTime": "3:56:14 PM",
+    "lastSeenTime": "4:21:43 PM",
+    "onlineDurationMins": 25.493833333333335
+  },
+  "stockfish-medium@lichess": {
+    "id": "stockfish-medium",
+    "provider": "lichess",
+    "username": "stockfish-MEDIUM",
+    "firstSeen": 1615392833415,
+    "lastSeen": 1615393760303,
+    "firstSeenTime": "4:13:53 PM",
+    "lastSeenTime": "4:22:53 PM",
+    "onlineDurationMins": 9.00705
+  },
+  "cobra-bot@lichess": {
+    "id": "cobra-bot",
+    "provider": "lichess",
+    "username": "Cobra-BOT",
+    "firstSeen": 1615393310802,
+    "lastSeen": 1615393669279,
+    "firstSeenTime": "4:21:50 PM",
+    "lastSeenTime": "4:22:52 PM",
+    "onlineDurationMins": 1.0227666666666666
+  },
+  "amos_kane@lichess": {
+    "id": "amos_kane",
+    "provider": "lichess",
+    "username": "Amos_Kane",
+    "firstSeen": 1615393378726,
+    "lastSeen": 1615393595680,
+    "firstSeenTime": "4:22:58 PM",
+    "lastSeenTime": "4:23:10 PM",
+    "onlineDurationMins": 0.1892
+  },
+  "azerbaijanchessrobot@lichess": {
+    "id": "azerbaijanchessrobot",
+    "provider": "lichess",
+    "username": "AzerbaijanChessRobot",
+    "firstSeen": 1615393588607,
+    "lastSeen": 1615393721967
+  }
+}
