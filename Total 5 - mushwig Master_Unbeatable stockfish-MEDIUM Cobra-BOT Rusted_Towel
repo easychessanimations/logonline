@@ -1,0 +1,49 @@
+{
+  "mushwig@lichess": {
+    "id": "mushwig",
+    "provider": "lichess",
+    "username": "mushwig",
+    "firstSeen": 1615385559425,
+    "lastSeen": 1615396623531,
+    "firstSeenTime": "2:12:39 PM",
+    "lastSeenTime": "5:17:03 PM",
+    "onlineDurationMins": 184.40176666666667
+  },
+  "master_unbeatable@lichess": {
+    "id": "master_unbeatable",
+    "provider": "lichess",
+    "username": "Master_Unbeatable",
+    "firstSeen": 1615391774125,
+    "lastSeen": 1615396663718,
+    "firstSeenTime": "3:56:14 PM",
+    "lastSeenTime": "5:17:43 PM",
+    "onlineDurationMins": 81.49321666666667
+  },
+  "stockfish-medium@lichess": {
+    "id": "stockfish-medium",
+    "provider": "lichess",
+    "username": "stockfish-MEDIUM",
+    "firstSeen": 1615392833415,
+    "lastSeen": 1615396469567,
+    "firstSeenTime": "4:13:53 PM",
+    "lastSeenTime": "5:14:29 PM",
+    "onlineDurationMins": 60.602533333333334
+  },
+  "cobra-bot@lichess": {
+    "id": "cobra-bot",
+    "provider": "lichess",
+    "username": "Cobra-BOT",
+    "firstSeen": 1615394893237,
+    "lastSeen": 1615396813616,
+    "firstSeenTime": "4:48:13 PM",
+    "lastSeenTime": "5:20:13 PM",
+    "onlineDurationMins": 32.00631666666666
+  },
+  "rusted_towel@lichess": {
+    "id": "rusted_towel",
+    "provider": "lichess",
+    "username": "Rusted_Towel",
+    "firstSeen": 1615396881983,
+    "lastSeen": 1615396881983
+  }
+}
