@@ -1,0 +1,23 @@
+{
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1615377725895,
+    "lastSeen": 1615379783109
+  },
+  "weak_bot@lichess": {
+    "id": "weak_bot",
+    "provider": "lichess",
+    "username": "Weak_bot",
+    "firstSeen": 1615378935155,
+    "lastSeen": 1615379901792
+  },
+  "cobra-bot@lichess": {
+    "id": "cobra-bot",
+    "provider": "lichess",
+    "username": "Cobra-BOT",
+    "firstSeen": 1615379467105,
+    "lastSeen": 1615379869365
+  }
+}
