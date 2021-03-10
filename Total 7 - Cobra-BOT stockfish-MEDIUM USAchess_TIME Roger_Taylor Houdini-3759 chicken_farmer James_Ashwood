@@ -1,0 +1,63 @@
+{
+  "cobra-bot@lichess": {
+    "id": "cobra-bot",
+    "provider": "lichess",
+    "username": "Cobra-BOT",
+    "firstSeen": 1615379467105,
+    "lastSeen": 1615384591630,
+    "firstSeenTime": "12:31:07 PM",
+    "lastSeenTime": "1:30:59 PM",
+    "onlineDurationMins": 59.8814
+  },
+  "stockfish-medium@lichess": {
+    "id": "stockfish-medium",
+    "provider": "lichess",
+    "username": "stockfish-MEDIUM",
+    "firstSeen": 1615380153192,
+    "lastSeen": 1615384622821,
+    "firstSeenTime": "12:42:33 PM",
+    "lastSeenTime": "1:31:00 PM",
+    "onlineDurationMins": 48.45245
+  },
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1615382010525,
+    "lastSeen": 1615384510793,
+    "firstSeenTime": "1:13:30 PM",
+    "lastSeenTime": "1:19:32 PM",
+    "onlineDurationMins": 6.0254
+  },
+  "roger_taylor@lichess": {
+    "id": "roger_taylor",
+    "provider": "lichess",
+    "username": "Roger_Taylor",
+    "firstSeen": 1615382978304,
+    "lastSeen": 1615384583002,
+    "firstSeenTime": "1:29:38 PM",
+    "lastSeenTime": "1:31:42 PM",
+    "onlineDurationMins": 2.0641
+  },
+  "houdini-3759@lichess": {
+    "id": "houdini-3759",
+    "provider": "lichess",
+    "username": "Houdini-3759",
+    "firstSeen": 1615383854245,
+    "lastSeen": 1615384147123
+  },
+  "chicken_farmer@lichess": {
+    "id": "chicken_farmer",
+    "provider": "lichess",
+    "username": "chicken_farmer",
+    "firstSeen": 1615384653483,
+    "lastSeen": 1615384663342
+  },
+  "james_ashwood@lichess": {
+    "id": "james_ashwood",
+    "provider": "lichess",
+    "username": "James_Ashwood",
+    "firstSeen": 1615384687341,
+    "lastSeen": 1615384687341
+  }
+}
