@@ -1,0 +1,33 @@
+{
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "KillerXX3000",
+    "firstSeen": 1615361882788,
+    "lastSeen": 1615374726137,
+    "firstSeenTime": "7:38:02 AM",
+    "lastSeenTime": "8:28:02 AM",
+    "onlineDurationMins": 49.999583333333334
+  },
+  "filkafa@lichess": {
+    "id": "filkafa",
+    "provider": "lichess",
+    "username": "Filkafa",
+    "firstSeen": 1615374225655,
+    "lastSeen": 1615374235190
+  },
+  "cobra-bot@lichess": {
+    "id": "cobra-bot",
+    "provider": "lichess",
+    "username": "Cobra-BOT",
+    "firstSeen": 1615374527869,
+    "lastSeen": 1615375049968
+  },
+  "weak_bot@lichess": {
+    "id": "weak_bot",
+    "provider": "lichess",
+    "username": "Weak_bot",
+    "firstSeen": 1615375134090,
+    "lastSeen": 1615375134091
+  }
+}
