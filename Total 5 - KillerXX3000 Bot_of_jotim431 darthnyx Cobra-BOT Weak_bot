@@ -1,0 +1,43 @@
+{
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "KillerXX3000",
+    "firstSeen": 1615361882788,
+    "lastSeen": 1615366266263,
+    "firstSeenTime": "7:38:02 AM",
+    "lastSeenTime": "8:28:02 AM",
+    "onlineDurationMins": 49.999583333333334
+  },
+  "bot_of_jotim431@lichess": {
+    "id": "bot_of_jotim431",
+    "provider": "lichess",
+    "username": "Bot_of_jotim431",
+    "firstSeen": 1615364894907,
+    "lastSeen": 1615366280420,
+    "firstSeenTime": "8:28:14 AM",
+    "lastSeenTime": "8:31:06 AM",
+    "onlineDurationMins": 2.85925
+  },
+  "darthnyx@lichess": {
+    "id": "darthnyx",
+    "provider": "lichess",
+    "username": "darthnyx",
+    "firstSeen": 1615365869987,
+    "lastSeen": 1615366081613
+  },
+  "cobra-bot@lichess": {
+    "id": "cobra-bot",
+    "provider": "lichess",
+    "username": "Cobra-BOT",
+    "firstSeen": 1615366138024,
+    "lastSeen": 1615366330551
+  },
+  "weak_bot@lichess": {
+    "id": "weak_bot",
+    "provider": "lichess",
+    "username": "Weak_bot",
+    "firstSeen": 1615366348615,
+    "lastSeen": 1615366348615
+  }
+}
