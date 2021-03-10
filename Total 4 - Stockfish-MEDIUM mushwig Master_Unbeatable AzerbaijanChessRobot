@@ -1,0 +1,30 @@
+{
+  "stockfish-medium@lichess": {
+    "id": "stockfish-medium",
+    "provider": "lichess",
+    "username": "Stockfish-MEDIUM",
+    "firstSeen": 1615402022073,
+    "lastSeen": 1615403186644
+  },
+  "mushwig@lichess": {
+    "id": "mushwig",
+    "provider": "lichess",
+    "username": "mushwig",
+    "firstSeen": 1615402045525,
+    "lastSeen": 1615402961471
+  },
+  "master_unbeatable@lichess": {
+    "id": "master_unbeatable",
+    "provider": "lichess",
+    "username": "Master_Unbeatable",
+    "firstSeen": 1615402063775,
+    "lastSeen": 1615402723939
+  },
+  "azerbaijanchessrobot@lichess": {
+    "id": "azerbaijanchessrobot",
+    "provider": "lichess",
+    "username": "AzerbaijanChessRobot",
+    "firstSeen": 1615402573974,
+    "lastSeen": 1615403209860
+  }
+}
