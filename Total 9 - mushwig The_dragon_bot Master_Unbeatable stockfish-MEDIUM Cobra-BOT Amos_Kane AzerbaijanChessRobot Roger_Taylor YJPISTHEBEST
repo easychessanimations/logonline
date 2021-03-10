@@ -1,0 +1,89 @@
+{
+  "mushwig@lichess": {
+    "id": "mushwig",
+    "provider": "lichess",
+    "username": "mushwig",
+    "firstSeen": 1615385559425,
+    "lastSeen": 1615393863475,
+    "firstSeenTime": "2:12:39 PM",
+    "lastSeenTime": "4:31:03 PM",
+    "onlineDurationMins": 138.40083333333334
+  },
+  "the_dragon_bot@lichess": {
+    "id": "the_dragon_bot",
+    "provider": "lichess",
+    "username": "The_dragon_bot",
+    "firstSeen": 1615390608391,
+    "lastSeen": 1615393737481,
+    "firstSeenTime": "3:36:48 PM",
+    "lastSeenTime": "4:28:57 PM",
+    "onlineDurationMins": 52.1515
+  },
+  "master_unbeatable@lichess": {
+    "id": "master_unbeatable",
+    "provider": "lichess",
+    "username": "Master_Unbeatable",
+    "firstSeen": 1615391774125,
+    "lastSeen": 1615393903729,
+    "firstSeenTime": "3:56:14 PM",
+    "lastSeenTime": "4:31:43 PM",
+    "onlineDurationMins": 35.4934
+  },
+  "stockfish-medium@lichess": {
+    "id": "stockfish-medium",
+    "provider": "lichess",
+    "username": "stockfish-MEDIUM",
+    "firstSeen": 1615392833415,
+    "lastSeen": 1615393898214,
+    "firstSeenTime": "4:13:53 PM",
+    "lastSeenTime": "4:31:38 PM",
+    "onlineDurationMins": 17.74665
+  },
+  "cobra-bot@lichess": {
+    "id": "cobra-bot",
+    "provider": "lichess",
+    "username": "Cobra-BOT",
+    "firstSeen": 1615393310802,
+    "lastSeen": 1615393921460,
+    "firstSeenTime": "4:21:50 PM",
+    "lastSeenTime": "4:32:01 PM",
+    "onlineDurationMins": 10.177633333333333
+  },
+  "amos_kane@lichess": {
+    "id": "amos_kane",
+    "provider": "lichess",
+    "username": "Amos_Kane",
+    "firstSeen": 1615393378726,
+    "lastSeen": 1615393595680,
+    "firstSeenTime": "4:22:58 PM",
+    "lastSeenTime": "4:26:35 PM",
+    "onlineDurationMins": 3.6159
+  },
+  "azerbaijanchessrobot@lichess": {
+    "id": "azerbaijanchessrobot",
+    "provider": "lichess",
+    "username": "AzerbaijanChessRobot",
+    "firstSeen": 1615393588607,
+    "lastSeen": 1615393721967,
+    "firstSeenTime": "4:26:28 PM",
+    "lastSeenTime": "4:28:41 PM",
+    "onlineDurationMins": 2.2226666666666666
+  },
+  "roger_taylor@lichess": {
+    "id": "roger_taylor",
+    "provider": "lichess",
+    "username": "Roger_Taylor",
+    "firstSeen": 1615393805567,
+    "lastSeen": 1615393827626,
+    "firstSeenTime": "4:30:05 PM",
+    "lastSeenTime": "4:30:27 PM",
+    "onlineDurationMins": 0.36765
+  },
+  "yjpisthebest@lichess": {
+    "id": "yjpisthebest",
+    "provider": "lichess",
+    "username": "YJPISTHEBEST",
+    "firstSeen": 1615394232018,
+    "lastSeen": 1615394232018
+  }
+}
