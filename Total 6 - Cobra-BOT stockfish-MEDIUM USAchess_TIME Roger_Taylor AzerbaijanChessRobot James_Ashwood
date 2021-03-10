@@ -1,0 +1,59 @@
+{
+  "cobra-bot@lichess": {
+    "id": "cobra-bot",
+    "provider": "lichess",
+    "username": "Cobra-BOT",
+    "firstSeen": 1615379467105,
+    "lastSeen": 1615383059989,
+    "firstSeenTime": "12:31:07 PM",
+    "lastSeenTime": "1:30:59 PM",
+    "onlineDurationMins": 59.8814
+  },
+  "stockfish-medium@lichess": {
+    "id": "stockfish-medium",
+    "provider": "lichess",
+    "username": "stockfish-MEDIUM",
+    "firstSeen": 1615380153192,
+    "lastSeen": 1615383156646,
+    "firstSeenTime": "12:42:33 PM",
+    "lastSeenTime": "1:31:00 PM",
+    "onlineDurationMins": 48.45245
+  },
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1615382010525,
+    "lastSeen": 1615383514603,
+    "firstSeenTime": "1:13:30 PM",
+    "lastSeenTime": "1:19:32 PM",
+    "onlineDurationMins": 6.0254
+  },
+  "roger_taylor@lichess": {
+    "id": "roger_taylor",
+    "provider": "lichess",
+    "username": "Roger_Taylor",
+    "firstSeen": 1615382978304,
+    "lastSeen": 1615383273715,
+    "firstSeenTime": "1:29:38 PM",
+    "lastSeenTime": "1:31:42 PM",
+    "onlineDurationMins": 2.0641
+  },
+  "azerbaijanchessrobot@lichess": {
+    "id": "azerbaijanchessrobot",
+    "provider": "lichess",
+    "username": "AzerbaijanChessRobot",
+    "firstSeen": 1615383077747,
+    "lastSeen": 1615383077747,
+    "firstSeenTime": "1:31:17 PM",
+    "lastSeenTime": "1:31:17 PM",
+    "onlineDurationMins": 0
+  },
+  "james_ashwood@lichess": {
+    "id": "james_ashwood",
+    "provider": "lichess",
+    "username": "James_Ashwood",
+    "firstSeen": 1615383581247,
+    "lastSeen": 1615383628789
+  }
+}
