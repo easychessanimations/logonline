@@ -1,0 +1,36 @@
+{
+  "the_dragon_bot@lichess": {
+    "id": "the_dragon_bot",
+    "provider": "lichess",
+    "username": "The_dragon_bot",
+    "firstSeen": 1615439760051,
+    "lastSeen": 1615444263246,
+    "firstSeenTime": "5:16:00 AM",
+    "lastSeenTime": "6:19:25 AM",
+    "onlineDurationMins": 63.42601666666667
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1615442154409,
+    "lastSeen": 1615444139839,
+    "firstSeenTime": "5:55:54 AM",
+    "lastSeenTime": "6:17:59 AM",
+    "onlineDurationMins": 22.0786
+  },
+  "cheesepizza2363@lichess": {
+    "id": "cheesepizza2363",
+    "provider": "lichess",
+    "username": "cheesepizza2363",
+    "firstSeen": 1615443737399,
+    "lastSeen": 1615444406949
+  },
+  "leojoseph101010@lichess": {
+    "id": "leojoseph101010",
+    "provider": "lichess",
+    "username": "leojoseph101010",
+    "firstSeen": 1615444258137,
+    "lastSeen": 1615444312898
+  }
+}
