@@ -1,0 +1,26 @@
+{
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1615442154409,
+    "lastSeen": 1615446800404,
+    "firstSeenTime": "5:55:54 AM",
+    "lastSeenTime": "6:17:59 AM",
+    "onlineDurationMins": 22.0786
+  },
+  "sifir1@lichess": {
+    "id": "sifir1",
+    "provider": "lichess",
+    "username": "sifir1",
+    "firstSeen": 1615446059636,
+    "lastSeen": 1615446101880
+  },
+  "turkchessbot@lichess": {
+    "id": "turkchessbot",
+    "provider": "lichess",
+    "username": "TurkChessBot",
+    "firstSeen": 1615446131426,
+    "lastSeen": 1615446551664
+  }
+}
