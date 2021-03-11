@@ -1,0 +1,42 @@
+{
+  "the_dragon_bot@lichess": {
+    "id": "the_dragon_bot",
+    "provider": "lichess",
+    "username": "The_dragon_bot",
+    "firstSeen": 1615439760051,
+    "lastSeen": 1615443565612,
+    "firstSeenTime": "5:16:00 AM",
+    "lastSeenTime": "6:19:25 AM",
+    "onlineDurationMins": 63.42601666666667
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1615442154409,
+    "lastSeen": 1615443721454,
+    "firstSeenTime": "5:55:54 AM",
+    "lastSeenTime": "6:17:59 AM",
+    "onlineDurationMins": 22.0786
+  },
+  "huahww123@lichess": {
+    "id": "huahww123",
+    "provider": "lichess",
+    "username": "huahww123",
+    "firstSeen": 1615442315637,
+    "lastSeen": 1615443426233,
+    "firstSeenTime": "5:58:35 AM",
+    "lastSeenTime": "6:17:06 AM",
+    "onlineDurationMins": 18.509933333333333
+  },
+  "turkchessbot@lichess": {
+    "id": "turkchessbot",
+    "provider": "lichess",
+    "username": "TurkChessBot",
+    "firstSeen": 1615443001455,
+    "lastSeen": 1615443234374,
+    "firstSeenTime": "6:10:01 AM",
+    "lastSeenTime": "6:13:54 AM",
+    "onlineDurationMins": 3.8819833333333333
+  }
+}
