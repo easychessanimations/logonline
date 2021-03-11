@@ -1,0 +1,40 @@
+{
+  "the_dragon_bot@lichess": {
+    "id": "the_dragon_bot",
+    "provider": "lichess",
+    "username": "The_dragon_bot",
+    "firstSeen": 1615439760051,
+    "lastSeen": 1615442343292,
+    "firstSeenTime": "5:16:00 AM",
+    "lastSeenTime": "5:41:03 AM",
+    "onlineDurationMins": 25.049966666666666
+  },
+  "srilankanchampion@lichess": {
+    "id": "srilankanchampion",
+    "provider": "lichess",
+    "username": "SrilankanChampion",
+    "firstSeen": 1615441806723,
+    "lastSeen": 1615441986336
+  },
+  "80269058@github": {
+    "id": "80269058",
+    "provider": "github",
+    "username": "Sri-player",
+    "firstSeen": 1615441811112,
+    "lastSeen": 1615441835796
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1615442154409,
+    "lastSeen": 1615442163606
+  },
+  "huahww123@lichess": {
+    "id": "huahww123",
+    "provider": "lichess",
+    "username": "huahww123",
+    "firstSeen": 1615442315637,
+    "lastSeen": 1615442399345
+  }
+}
