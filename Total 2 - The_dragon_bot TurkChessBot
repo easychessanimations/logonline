@@ -1,0 +1,19 @@
+{
+  "the_dragon_bot@lichess": {
+    "id": "the_dragon_bot",
+    "provider": "lichess",
+    "username": "The_dragon_bot",
+    "firstSeen": 1615439760051,
+    "lastSeen": 1615441263049,
+    "firstSeenTime": "5:16:00 AM",
+    "lastSeenTime": "5:27:06 AM",
+    "onlineDurationMins": 11.113133333333334
+  },
+  "turkchessbot@lichess": {
+    "id": "turkchessbot",
+    "provider": "lichess",
+    "username": "TurkChessBot",
+    "firstSeen": 1615440787255,
+    "lastSeen": 1615440806266
+  }
+}
