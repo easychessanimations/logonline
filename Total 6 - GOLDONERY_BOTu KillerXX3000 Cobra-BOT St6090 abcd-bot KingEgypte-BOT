@@ -1,0 +1,59 @@
+{
+  "goldonery_botu@lichess": {
+    "id": "goldonery_botu",
+    "provider": "lichess",
+    "username": "GOLDONERY_BOTu",
+    "firstSeen": 1615465588252,
+    "lastSeen": 1615486154619,
+    "firstSeenTime": "12:26:28 PM",
+    "lastSeenTime": "6:09:14 PM",
+    "onlineDurationMins": 342.77278333333334
+  },
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "KillerXX3000",
+    "firstSeen": 1615476227781,
+    "lastSeen": 1615486013399,
+    "firstSeenTime": "3:23:47 PM",
+    "lastSeenTime": "6:06:53 PM",
+    "onlineDurationMins": 163.09363333333334
+  },
+  "cobra-bot@lichess": {
+    "id": "cobra-bot",
+    "provider": "lichess",
+    "username": "Cobra-BOT",
+    "firstSeen": 1615485082032,
+    "lastSeen": 1615486376080,
+    "firstSeenTime": "5:51:22 PM",
+    "lastSeenTime": "6:12:56 PM",
+    "onlineDurationMins": 21.567466666666668
+  },
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1615485094140,
+    "lastSeen": 1615486427576,
+    "firstSeenTime": "5:51:34 PM",
+    "lastSeenTime": "6:13:47 PM",
+    "onlineDurationMins": 22.223933333333335
+  },
+  "abcd-bot@lichess": {
+    "id": "abcd-bot",
+    "provider": "lichess",
+    "username": "abcd-bot",
+    "firstSeen": 1615485630167,
+    "lastSeen": 1615486491033,
+    "firstSeenTime": "6:00:30 PM",
+    "lastSeenTime": "6:14:51 PM",
+    "onlineDurationMins": 14.347766666666667
+  },
+  "kingegypte-bot@lichess": {
+    "id": "kingegypte-bot",
+    "provider": "lichess",
+    "username": "KingEgypte-BOT",
+    "firstSeen": 1615486539975,
+    "lastSeen": 1615486539975
+  }
+}
