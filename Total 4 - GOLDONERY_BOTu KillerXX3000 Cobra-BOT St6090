@@ -1,0 +1,36 @@
+{
+  "goldonery_botu@lichess": {
+    "id": "goldonery_botu",
+    "provider": "lichess",
+    "username": "GOLDONERY_BOTu",
+    "firstSeen": 1615465588252,
+    "lastSeen": 1615485277081,
+    "firstSeenTime": "12:26:28 PM",
+    "lastSeenTime": "5:42:40 PM",
+    "onlineDurationMins": 316.2056666666667
+  },
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "KillerXX3000",
+    "firstSeen": 1615476227781,
+    "lastSeen": 1615485233305,
+    "firstSeenTime": "3:23:47 PM",
+    "lastSeenTime": "5:42:53 PM",
+    "onlineDurationMins": 139.09916666666666
+  },
+  "cobra-bot@lichess": {
+    "id": "cobra-bot",
+    "provider": "lichess",
+    "username": "Cobra-BOT",
+    "firstSeen": 1615485082032,
+    "lastSeen": 1615485094849
+  },
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1615485094140,
+    "lastSeen": 1615485103932
+  }
+}
