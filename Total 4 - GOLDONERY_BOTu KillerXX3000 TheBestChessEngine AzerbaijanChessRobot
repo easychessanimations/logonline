@@ -1,0 +1,42 @@
+{
+  "goldonery_botu@lichess": {
+    "id": "goldonery_botu",
+    "provider": "lichess",
+    "username": "GOLDONERY_BOTu",
+    "firstSeen": 1615465588252,
+    "lastSeen": 1615480480484,
+    "firstSeenTime": "12:26:28 PM",
+    "lastSeenTime": "4:14:37 PM",
+    "onlineDurationMins": 228.14763333333335
+  },
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "KillerXX3000",
+    "firstSeen": 1615476227781,
+    "lastSeen": 1615480730011,
+    "firstSeenTime": "3:23:47 PM",
+    "lastSeenTime": "4:13:50 PM",
+    "onlineDurationMins": 50.03758333333333
+  },
+  "thebestchessengine@lichess": {
+    "id": "thebestchessengine",
+    "provider": "lichess",
+    "username": "TheBestChessEngine",
+    "firstSeen": 1615477651392,
+    "lastSeen": 1615480257444,
+    "firstSeenTime": "3:47:31 PM",
+    "lastSeenTime": "4:15:06 PM",
+    "onlineDurationMins": 27.578033333333334
+  },
+  "azerbaijanchessrobot@lichess": {
+    "id": "azerbaijanchessrobot",
+    "provider": "lichess",
+    "username": "AzerbaijanChessRobot",
+    "firstSeen": 1615479272005,
+    "lastSeen": 1615480096436,
+    "firstSeenTime": "4:14:32 PM",
+    "lastSeenTime": "4:15:53 PM",
+    "onlineDurationMins": 1.3518833333333333
+  }
+}
