@@ -1,0 +1,49 @@
+{
+  "goldonery_botu@lichess": {
+    "id": "goldonery_botu",
+    "provider": "lichess",
+    "username": "GOLDONERY_BOTu",
+    "firstSeen": 1615465588252,
+    "lastSeen": 1615483240595,
+    "firstSeenTime": "12:26:28 PM",
+    "lastSeenTime": "5:20:40 PM",
+    "onlineDurationMins": 294.20571666666666
+  },
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "KillerXX3000",
+    "firstSeen": 1615476227781,
+    "lastSeen": 1615483253529,
+    "firstSeenTime": "3:23:47 PM",
+    "lastSeenTime": "5:20:53 PM",
+    "onlineDurationMins": 117.0958
+  },
+  "stockfish-medium@lichess": {
+    "id": "stockfish-medium",
+    "provider": "lichess",
+    "username": "Stockfish-MEDIUM",
+    "firstSeen": 1615482213056,
+    "lastSeen": 1615482824152,
+    "firstSeenTime": "5:03:33 PM",
+    "lastSeenTime": "5:13:44 PM",
+    "onlineDurationMins": 10.184933333333333
+  },
+  "kayraege01@lichess": {
+    "id": "kayraege01",
+    "provider": "lichess",
+    "username": "KayraEge01",
+    "firstSeen": 1615482594083,
+    "lastSeen": 1615482893553,
+    "firstSeenTime": "5:09:54 PM",
+    "lastSeenTime": "5:14:53 PM",
+    "onlineDurationMins": 4.9911666666666665
+  },
+  "sabs1farahthebest@lichess": {
+    "id": "sabs1farahthebest",
+    "provider": "lichess",
+    "username": "SABS1Farahthebest",
+    "firstSeen": 1615483657976,
+    "lastSeen": 1615483657976
+  }
+}
