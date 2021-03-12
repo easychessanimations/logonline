@@ -1,0 +1,29 @@
+{
+  "champian64big@lichess": {
+    "id": "champian64big",
+    "provider": "lichess",
+    "username": "Champian64BIg",
+    "firstSeen": 1615558918650,
+    "lastSeen": 1615565802313,
+    "firstSeenTime": "2:21:58 PM",
+    "lastSeenTime": "2:57:06 PM",
+    "onlineDurationMins": 35.12468333333333
+  },
+  "bot20222@lichess": {
+    "id": "bot20222",
+    "provider": "lichess",
+    "username": "bot20222",
+    "firstSeen": 1615560529474,
+    "lastSeen": 1615565825094,
+    "firstSeenTime": "2:48:49 PM",
+    "lastSeenTime": "2:56:57 PM",
+    "onlineDurationMins": 8.12855
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1615564609675,
+    "lastSeen": 1615565313519
+  }
+}
