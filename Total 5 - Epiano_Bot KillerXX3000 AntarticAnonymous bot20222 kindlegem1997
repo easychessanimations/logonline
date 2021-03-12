@@ -1,0 +1,52 @@
+{
+  "epiano_bot@lichess": {
+    "id": "epiano_bot",
+    "provider": "lichess",
+    "username": "Epiano_Bot",
+    "firstSeen": 1615570447297,
+    "lastSeen": 1615589292057,
+    "firstSeenTime": "5:34:07 PM",
+    "lastSeenTime": "10:37:08 PM",
+    "onlineDurationMins": 303.0168
+  },
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "KillerXX3000",
+    "firstSeen": 1615581558014,
+    "lastSeen": 1615589301842,
+    "firstSeenTime": "8:39:18 PM",
+    "lastSeenTime": "10:45:18 PM",
+    "onlineDurationMins": 126.0109
+  },
+  "antarticanonymous@lichess": {
+    "id": "antarticanonymous",
+    "provider": "lichess",
+    "username": "AntarticAnonymous",
+    "firstSeen": 1615585975222,
+    "lastSeen": 1615589281384,
+    "firstSeenTime": "9:52:55 PM",
+    "lastSeenTime": "10:42:57 PM",
+    "onlineDurationMins": 50.04415
+  },
+  "bot20222@lichess": {
+    "id": "bot20222",
+    "provider": "lichess",
+    "username": "bot20222",
+    "firstSeen": 1615586884654,
+    "lastSeen": 1615588980184,
+    "firstSeenTime": "10:08:04 PM",
+    "lastSeenTime": "10:43:00 PM",
+    "onlineDurationMins": 34.9255
+  },
+  "kindlegem1997@lichess": {
+    "id": "kindlegem1997",
+    "provider": "lichess",
+    "username": "kindlegem1997",
+    "firstSeen": 1615588323240,
+    "lastSeen": 1615589523767,
+    "firstSeenTime": "10:32:03 PM",
+    "lastSeenTime": "10:44:43 PM",
+    "onlineDurationMins": 12.671766666666667
+  }
+}
