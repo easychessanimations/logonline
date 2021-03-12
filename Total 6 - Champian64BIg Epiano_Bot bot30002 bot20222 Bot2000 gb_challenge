@@ -1,0 +1,62 @@
+{
+  "champian64big@lichess": {
+    "id": "champian64big",
+    "provider": "lichess",
+    "username": "Champian64BIg",
+    "firstSeen": 1615558918650,
+    "lastSeen": 1615561026131,
+    "firstSeenTime": "2:21:58 PM",
+    "lastSeenTime": "2:57:06 PM",
+    "onlineDurationMins": 35.12468333333333
+  },
+  "epiano_bot@lichess": {
+    "id": "epiano_bot",
+    "provider": "lichess",
+    "username": "Epiano_Bot",
+    "firstSeen": 1615559640862,
+    "lastSeen": 1615561074039,
+    "firstSeenTime": "2:34:00 PM",
+    "lastSeenTime": "2:57:54 PM",
+    "onlineDurationMins": 23.886283333333335
+  },
+  "bot30002@lichess": {
+    "id": "bot30002",
+    "provider": "lichess",
+    "username": "bot30002",
+    "firstSeen": 1615560232505,
+    "lastSeen": 1615560522448,
+    "firstSeenTime": "2:43:52 PM",
+    "lastSeenTime": "2:48:42 PM",
+    "onlineDurationMins": 4.8323833333333335
+  },
+  "bot20222@lichess": {
+    "id": "bot20222",
+    "provider": "lichess",
+    "username": "bot20222",
+    "firstSeen": 1615560529474,
+    "lastSeen": 1615561017187,
+    "firstSeenTime": "2:48:49 PM",
+    "lastSeenTime": "2:56:57 PM",
+    "onlineDurationMins": 8.12855
+  },
+  "bot2000@lichess": {
+    "id": "bot2000",
+    "provider": "lichess",
+    "username": "Bot2000",
+    "firstSeen": 1615560663545,
+    "lastSeen": 1615560682672,
+    "firstSeenTime": "2:51:03 PM",
+    "lastSeenTime": "2:51:22 PM",
+    "onlineDurationMins": 0.3187833333333333
+  },
+  "gb_challenge@lichess": {
+    "id": "gb_challenge",
+    "provider": "lichess",
+    "username": "gb_challenge",
+    "firstSeen": 1615560953042,
+    "lastSeen": 1615561067547,
+    "firstSeenTime": "2:55:53 PM",
+    "lastSeenTime": "2:57:47 PM",
+    "onlineDurationMins": 1.9084166666666667
+  }
+}
