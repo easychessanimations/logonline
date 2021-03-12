@@ -1,0 +1,39 @@
+{
+  "epiano_bot@lichess": {
+    "id": "epiano_bot",
+    "provider": "lichess",
+    "username": "Epiano_Bot",
+    "firstSeen": 1615570447297,
+    "lastSeen": 1615593248606,
+    "firstSeenTime": "5:34:07 PM",
+    "lastSeenTime": "11:17:08 PM",
+    "onlineDurationMins": 343.01933333333335
+  },
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "KillerXX3000",
+    "firstSeen": 1615581558014,
+    "lastSeen": 1615593257031,
+    "firstSeenTime": "8:39:18 PM",
+    "lastSeenTime": "11:10:20 PM",
+    "onlineDurationMins": 151.03821666666667
+  },
+  "huahww123@lichess": {
+    "id": "huahww123",
+    "provider": "lichess",
+    "username": "huahww123",
+    "firstSeen": 1615590356594,
+    "lastSeen": 1615593243733,
+    "firstSeenTime": "11:05:56 PM",
+    "lastSeenTime": "11:17:04 PM",
+    "onlineDurationMins": 11.1353
+  },
+  "blackmores-night@lichess": {
+    "id": "blackmores-night",
+    "provider": "lichess",
+    "username": "Blackmores-Night",
+    "firstSeen": 1615593272255,
+    "lastSeen": 1615593272255
+  }
+}
