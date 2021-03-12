@@ -1,0 +1,49 @@
+{
+  "champian64big@lichess": {
+    "id": "champian64big",
+    "provider": "lichess",
+    "username": "Champian64BIg",
+    "firstSeen": 1615558918650,
+    "lastSeen": 1615560422523,
+    "firstSeenTime": "2:21:58 PM",
+    "lastSeenTime": "2:47:02 PM",
+    "onlineDurationMins": 25.06455
+  },
+  "chess-trainer2424@lichess": {
+    "id": "chess-trainer2424",
+    "provider": "lichess",
+    "username": "Chess-Trainer2424",
+    "firstSeen": 1615559487441,
+    "lastSeen": 1615560222850,
+    "firstSeenTime": "2:31:27 PM",
+    "lastSeenTime": "2:43:42 PM",
+    "onlineDurationMins": 12.256816666666667
+  },
+  "epiano_bot@lichess": {
+    "id": "epiano_bot",
+    "provider": "lichess",
+    "username": "Epiano_Bot",
+    "firstSeen": 1615559640862,
+    "lastSeen": 1615560139644,
+    "firstSeenTime": "2:34:00 PM",
+    "lastSeenTime": "2:42:19 PM",
+    "onlineDurationMins": 8.313033333333333
+  },
+  "bot30002@lichess": {
+    "id": "bot30002",
+    "provider": "lichess",
+    "username": "bot30002",
+    "firstSeen": 1615560232505,
+    "lastSeen": 1615560522448,
+    "firstSeenTime": "2:43:52 PM",
+    "lastSeenTime": "2:44:02 PM",
+    "onlineDurationMins": 0.17143333333333333
+  },
+  "bot20222@lichess": {
+    "id": "bot20222",
+    "provider": "lichess",
+    "username": "bot20222",
+    "firstSeen": 1615560529474,
+    "lastSeen": 1615560529474
+  }
+}
