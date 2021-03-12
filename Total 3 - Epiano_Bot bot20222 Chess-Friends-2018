@@ -1,0 +1,23 @@
+{
+  "epiano_bot@lichess": {
+    "id": "epiano_bot",
+    "provider": "lichess",
+    "username": "Epiano_Bot",
+    "firstSeen": 1615570447297,
+    "lastSeen": 1615574892550
+  },
+  "bot20222@lichess": {
+    "id": "bot20222",
+    "provider": "lichess",
+    "username": "bot20222",
+    "firstSeen": 1615573118046,
+    "lastSeen": 1615574919401
+  },
+  "chess-friends-2018@lichess": {
+    "id": "chess-friends-2018",
+    "provider": "lichess",
+    "username": "Chess-Friends-2018",
+    "firstSeen": 1615575281472,
+    "lastSeen": 1615575281472
+  }
+}
