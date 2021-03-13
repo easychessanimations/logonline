@@ -1,0 +1,49 @@
+{
+  "epiano_bot@lichess": {
+    "id": "epiano_bot",
+    "provider": "lichess",
+    "username": "Epiano_Bot",
+    "firstSeen": 1615599909000,
+    "lastSeen": 1615647075420,
+    "firstSeenTime": "1:45:09 AM",
+    "lastSeenTime": "2:42:11 PM",
+    "onlineDurationMins": 777.0481666666667
+  },
+  "angryfoxbot@lichess": {
+    "id": "angryfoxbot",
+    "provider": "lichess",
+    "username": "AngryFoxBOT",
+    "firstSeen": 1615636813623,
+    "lastSeen": 1615647316063,
+    "firstSeenTime": "12:00:13 PM",
+    "lastSeenTime": "2:40:20 PM",
+    "onlineDurationMins": 160.11998333333332
+  },
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1615643878787,
+    "lastSeen": 1615647172182,
+    "firstSeenTime": "1:57:58 PM",
+    "lastSeenTime": "2:48:04 PM",
+    "onlineDurationMins": 50.09896666666667
+  },
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1615646159443,
+    "lastSeen": 1615646790546,
+    "firstSeenTime": "2:35:59 PM",
+    "lastSeenTime": "2:46:30 PM",
+    "onlineDurationMins": 10.518383333333333
+  },
+  "blackmores-night@lichess": {
+    "id": "blackmores-night",
+    "provider": "lichess",
+    "username": "Blackmores-Night",
+    "firstSeen": 1615647620169,
+    "lastSeen": 1615647620169
+  }
+}
