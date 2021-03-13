@@ -1,0 +1,53 @@
+{
+  "epiano_bot@lichess": {
+    "id": "epiano_bot",
+    "provider": "lichess",
+    "username": "Epiano_Bot",
+    "firstSeen": 1615599909000,
+    "lastSeen": 1615632134317,
+    "firstSeenTime": "1:45:09 AM",
+    "lastSeenTime": "10:07:10 AM",
+    "onlineDurationMins": 502.0282
+  },
+  "champian64big@lichess": {
+    "id": "champian64big",
+    "provider": "lichess",
+    "username": "Champian64BIg",
+    "firstSeen": 1615626390228,
+    "lastSeen": 1615632097549,
+    "firstSeenTime": "9:06:30 AM",
+    "lastSeenTime": "10:05:37 AM",
+    "onlineDurationMins": 59.12258333333333
+  },
+  "football_bot@lichess": {
+    "id": "football_bot",
+    "provider": "lichess",
+    "username": "Football_Bot",
+    "firstSeen": 1615627819582,
+    "lastSeen": 1615631349596,
+    "firstSeenTime": "9:30:19 AM",
+    "lastSeenTime": "10:07:09 AM",
+    "onlineDurationMins": 36.836933333333334
+  },
+  "thebestchessengine@lichess": {
+    "id": "thebestchessengine",
+    "provider": "lichess",
+    "username": "TheBestChessEngine",
+    "firstSeen": 1615630783233,
+    "lastSeen": 1615631454937
+  },
+  "angryfoxbot@lichess": {
+    "id": "angryfoxbot",
+    "provider": "lichess",
+    "username": "AngryFoxBOT",
+    "firstSeen": 1615631375679,
+    "lastSeen": 1615631612261
+  },
+  "raybotchess123@lichess": {
+    "id": "raybotchess123",
+    "provider": "lichess",
+    "username": "RayBotChess123",
+    "firstSeen": 1615632189697,
+    "lastSeen": 1615632189698
+  }
+}
