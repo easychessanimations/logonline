@@ -1,0 +1,43 @@
+{
+  "epiano_bot@lichess": {
+    "id": "epiano_bot",
+    "provider": "lichess",
+    "username": "Epiano_Bot",
+    "firstSeen": 1615570447297,
+    "lastSeen": 1615597954102,
+    "firstSeenTime": "5:34:07 PM",
+    "lastSeenTime": "11:17:08 PM",
+    "onlineDurationMins": 343.01933333333335
+  },
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "KillerXX3000",
+    "firstSeen": 1615581558014,
+    "lastSeen": 1615597877205,
+    "firstSeenTime": "8:39:18 PM",
+    "lastSeenTime": "11:10:20 PM",
+    "onlineDurationMins": 151.03821666666667
+  },
+  "blackmores-night@lichess": {
+    "id": "blackmores-night",
+    "provider": "lichess",
+    "username": "Blackmores-Night",
+    "firstSeen": 1615596763727,
+    "lastSeen": 1615597692905
+  },
+  "stockfish-medium@lichess": {
+    "id": "stockfish-medium",
+    "provider": "lichess",
+    "username": "Stockfish-MEDIUM",
+    "firstSeen": 1615597921756,
+    "lastSeen": 1615598001658
+  },
+  "raybotchess123@lichess": {
+    "id": "raybotchess123",
+    "provider": "lichess",
+    "username": "RayBotChess123",
+    "firstSeen": 1615598084791,
+    "lastSeen": 1615598084791
+  }
+}
