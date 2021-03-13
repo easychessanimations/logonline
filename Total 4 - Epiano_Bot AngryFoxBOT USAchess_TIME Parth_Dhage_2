@@ -1,0 +1,39 @@
+{
+  "epiano_bot@lichess": {
+    "id": "epiano_bot",
+    "provider": "lichess",
+    "username": "Epiano_Bot",
+    "firstSeen": 1615599909000,
+    "lastSeen": 1615645755165,
+    "firstSeenTime": "1:45:09 AM",
+    "lastSeenTime": "1:54:15 PM",
+    "onlineDurationMins": 729.1030666666667
+  },
+  "angryfoxbot@lichess": {
+    "id": "angryfoxbot",
+    "provider": "lichess",
+    "username": "AngryFoxBOT",
+    "firstSeen": 1615636813623,
+    "lastSeen": 1615645815745,
+    "firstSeenTime": "12:00:13 PM",
+    "lastSeenTime": "2:05:15 PM",
+    "onlineDurationMins": 125.03636666666667
+  },
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1615643878787,
+    "lastSeen": 1615645848914,
+    "firstSeenTime": "1:57:58 PM",
+    "lastSeenTime": "2:00:36 PM",
+    "onlineDurationMins": 2.629783333333333
+  },
+  "parth_dhage_2@lichess": {
+    "id": "parth_dhage_2",
+    "provider": "lichess",
+    "username": "Parth_Dhage_2",
+    "firstSeen": 1615645667855,
+    "lastSeen": 1615645679398
+  }
+}
