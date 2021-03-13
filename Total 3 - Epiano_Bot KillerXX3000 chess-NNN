@@ -1,0 +1,23 @@
+{
+  "epiano_bot@lichess": {
+    "id": "epiano_bot",
+    "provider": "lichess",
+    "username": "Epiano_Bot",
+    "firstSeen": 1615599909000,
+    "lastSeen": 1615607892406
+  },
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "KillerXX3000",
+    "firstSeen": 1615600518076,
+    "lastSeen": 1615607900433
+  },
+  "chess-nnn@lichess": {
+    "id": "chess-nnn",
+    "provider": "lichess",
+    "username": "chess-NNN",
+    "firstSeen": 1615607029133,
+    "lastSeen": 1615607900236
+  }
+}
