@@ -1,0 +1,39 @@
+{
+  "epiano_bot@lichess": {
+    "id": "epiano_bot",
+    "provider": "lichess",
+    "username": "Epiano_Bot",
+    "firstSeen": 1615599909000,
+    "lastSeen": 1615627274133,
+    "firstSeenTime": "1:45:09 AM",
+    "lastSeenTime": "9:17:10 AM",
+    "onlineDurationMins": 452.02666666666664
+  },
+  "champian64big@lichess": {
+    "id": "champian64big",
+    "provider": "lichess",
+    "username": "Champian64BIg",
+    "firstSeen": 1615626390228,
+    "lastSeen": 1615627154612,
+    "firstSeenTime": "9:06:30 AM",
+    "lastSeenTime": "9:17:34 AM",
+    "onlineDurationMins": 11.0651
+  },
+  "did_ispotcheckmate@lichess": {
+    "id": "did_ispotcheckmate",
+    "provider": "lichess",
+    "username": "Did_ISpotCheckmate",
+    "firstSeen": 1615626391451,
+    "lastSeen": 1615627349694,
+    "firstSeenTime": "9:06:31 AM",
+    "lastSeenTime": "9:17:11 AM",
+    "onlineDurationMins": 10.674666666666667
+  },
+  "daretochalengeme@lichess": {
+    "id": "daretochalengeme",
+    "provider": "lichess",
+    "username": "DareToChalengeMe",
+    "firstSeen": 1615627183552,
+    "lastSeen": 1615627379683
+  }
+}
