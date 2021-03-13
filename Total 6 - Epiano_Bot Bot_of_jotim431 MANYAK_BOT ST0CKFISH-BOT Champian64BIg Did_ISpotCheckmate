@@ -1,0 +1,47 @@
+{
+  "epiano_bot@lichess": {
+    "id": "epiano_bot",
+    "provider": "lichess",
+    "username": "Epiano_Bot",
+    "firstSeen": 1615599909000,
+    "lastSeen": 1615626613987,
+    "firstSeenTime": "1:45:09 AM",
+    "lastSeenTime": "7:31:10 AM",
+    "onlineDurationMins": 346.0207
+  },
+  "bot_of_jotim431@lichess": {
+    "id": "bot_of_jotim431",
+    "provider": "lichess",
+    "username": "Bot_of_jotim431",
+    "firstSeen": 1615625475583,
+    "lastSeen": 1615626058667
+  },
+  "manyak_bot@lichess": {
+    "id": "manyak_bot",
+    "provider": "lichess",
+    "username": "MANYAK_BOT",
+    "firstSeen": 1615625501111,
+    "lastSeen": 1615625862400
+  },
+  "st0ckfish-bot@lichess": {
+    "id": "st0ckfish-bot",
+    "provider": "lichess",
+    "username": "ST0CKFISH-BOT",
+    "firstSeen": 1615626359766,
+    "lastSeen": 1615626478733
+  },
+  "champian64big@lichess": {
+    "id": "champian64big",
+    "provider": "lichess",
+    "username": "Champian64BIg",
+    "firstSeen": 1615626390228,
+    "lastSeen": 1615626673939
+  },
+  "did_ispotcheckmate@lichess": {
+    "id": "did_ispotcheckmate",
+    "provider": "lichess",
+    "username": "Did_ISpotCheckmate",
+    "firstSeen": 1615626391451,
+    "lastSeen": 1615626642431
+  }
+}
