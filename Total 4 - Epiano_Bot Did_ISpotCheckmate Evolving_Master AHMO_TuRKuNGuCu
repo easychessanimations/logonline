@@ -1,0 +1,33 @@
+{
+  "epiano_bot@lichess": {
+    "id": "epiano_bot",
+    "provider": "lichess",
+    "username": "Epiano_Bot",
+    "firstSeen": 1615599909000,
+    "lastSeen": 1615623314042,
+    "firstSeenTime": "1:45:09 AM",
+    "lastSeenTime": "7:31:10 AM",
+    "onlineDurationMins": 346.0207
+  },
+  "did_ispotcheckmate@lichess": {
+    "id": "did_ispotcheckmate",
+    "provider": "lichess",
+    "username": "Did_ISpotCheckmate",
+    "firstSeen": 1615621273229,
+    "lastSeen": 1615623618082
+  },
+  "evolving_master@lichess": {
+    "id": "evolving_master",
+    "provider": "lichess",
+    "username": "Evolving_Master",
+    "firstSeen": 1615621313204,
+    "lastSeen": 1615622816841
+  },
+  "ahmo_turkungucu@lichess": {
+    "id": "ahmo_turkungucu",
+    "provider": "lichess",
+    "username": "AHMO_TuRKuNGuCu",
+    "firstSeen": 1615623618887,
+    "lastSeen": 1615623618887
+  }
+}
