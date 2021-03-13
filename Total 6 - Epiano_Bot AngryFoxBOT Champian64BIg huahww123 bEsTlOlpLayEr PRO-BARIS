@@ -1,0 +1,56 @@
+{
+  "epiano_bot@lichess": {
+    "id": "epiano_bot",
+    "provider": "lichess",
+    "username": "Epiano_Bot",
+    "firstSeen": 1615599909000,
+    "lastSeen": 1615642991580,
+    "firstSeenTime": "1:45:09 AM",
+    "lastSeenTime": "1:30:41 PM",
+    "onlineDurationMins": 705.5342333333333
+  },
+  "angryfoxbot@lichess": {
+    "id": "angryfoxbot",
+    "provider": "lichess",
+    "username": "AngryFoxBOT",
+    "firstSeen": 1615636813623,
+    "lastSeen": 1615643000121,
+    "firstSeenTime": "12:00:13 PM",
+    "lastSeenTime": "1:31:58 PM",
+    "onlineDurationMins": 91.74068333333334
+  },
+  "champian64big@lichess": {
+    "id": "champian64big",
+    "provider": "lichess",
+    "username": "Champian64BIg",
+    "firstSeen": 1615640556143,
+    "lastSeen": 1615642996088,
+    "firstSeenTime": "1:02:36 PM",
+    "lastSeenTime": "1:30:53 PM",
+    "onlineDurationMins": 28.281666666666666
+  },
+  "huahww123@lichess": {
+    "id": "huahww123",
+    "provider": "lichess",
+    "username": "huahww123",
+    "firstSeen": 1615642491619,
+    "lastSeen": 1615643209486,
+    "firstSeenTime": "1:34:51 PM",
+    "lastSeenTime": "1:36:04 PM",
+    "onlineDurationMins": 1.2174333333333334
+  },
+  "bestlolplayer@lichess": {
+    "id": "bestlolplayer",
+    "provider": "lichess",
+    "username": "bEsTlOlpLayEr",
+    "firstSeen": 1615643075718,
+    "lastSeen": 1615643093660
+  },
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1615643114060,
+    "lastSeen": 1615643244107
+  }
+}
