@@ -3,14 +3,20 @@
     "id": "epiano_bot",
     "provider": "lichess",
     "username": "Epiano_Bot",
-    "firstSeen": 1615570447297,
-    "lastSeen": 1615577340829
+    "firstSeen": 1615599909000,
+    "lastSeen": 1615654032199,
+    "firstSeenTime": "1:45:09 AM",
+    "lastSeenTime": "4:47:12 PM",
+    "onlineDurationMins": 902.0533166666667
   },
   "blackmores-night@lichess": {
     "id": "blackmores-night",
     "provider": "lichess",
     "username": "Blackmores-Night",
-    "firstSeen": 1615576715978,
-    "lastSeen": 1615577345870
+    "firstSeen": 1615647620169,
+    "lastSeen": 1615654129621,
+    "firstSeenTime": "3:00:20 PM",
+    "lastSeenTime": "4:48:47 PM",
+    "onlineDurationMins": 108.45118333333333
   }
 }
