@@ -1,0 +1,49 @@
+{
+  "epiano_bot@lichess": {
+    "id": "epiano_bot",
+    "provider": "lichess",
+    "username": "Epiano_Bot",
+    "firstSeen": 1615599909000,
+    "lastSeen": 1615630030692,
+    "firstSeenTime": "1:45:09 AM",
+    "lastSeenTime": "9:54:14 AM",
+    "onlineDurationMins": 489.08683333333335
+  },
+  "champian64big@lichess": {
+    "id": "champian64big",
+    "provider": "lichess",
+    "username": "Champian64BIg",
+    "firstSeen": 1615626390228,
+    "lastSeen": 1615629937583,
+    "firstSeenTime": "9:06:30 AM",
+    "lastSeenTime": "10:05:37 AM",
+    "onlineDurationMins": 59.12258333333333
+  },
+  "football_bot@lichess": {
+    "id": "football_bot",
+    "provider": "lichess",
+    "username": "Football_Bot",
+    "firstSeen": 1615627819582,
+    "lastSeen": 1615630029798,
+    "firstSeenTime": "9:30:19 AM",
+    "lastSeenTime": "10:03:29 AM",
+    "onlineDurationMins": 33.15776666666667
+  },
+  "yusuf_311_6-b@lichess": {
+    "id": "yusuf_311_6-b",
+    "provider": "lichess",
+    "username": "Yusuf_311_6-B",
+    "firstSeen": 1615629722816,
+    "lastSeen": 1615630109517,
+    "firstSeenTime": "10:02:02 AM",
+    "lastSeenTime": "10:04:22 AM",
+    "onlineDurationMins": 2.3251
+  },
+  "bakuturkortaokulu@lichess": {
+    "id": "bakuturkortaokulu",
+    "provider": "lichess",
+    "username": "BakuTurkOrtaokulu",
+    "firstSeen": 1615630117761,
+    "lastSeen": 1615630117761
+  }
+}
