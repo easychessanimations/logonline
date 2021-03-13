@@ -1,0 +1,62 @@
+{
+  "epiano_bot@lichess": {
+    "id": "epiano_bot",
+    "provider": "lichess",
+    "username": "Epiano_Bot",
+    "firstSeen": 1615599909000,
+    "lastSeen": 1615653072168,
+    "firstSeenTime": "1:45:09 AM",
+    "lastSeenTime": "4:31:12 PM",
+    "onlineDurationMins": 886.0528
+  },
+  "angryfoxbot@lichess": {
+    "id": "angryfoxbot",
+    "provider": "lichess",
+    "username": "AngryFoxBOT",
+    "firstSeen": 1615636813623,
+    "lastSeen": 1615653315817,
+    "firstSeenTime": "12:00:13 PM",
+    "lastSeenTime": "4:35:15 PM",
+    "onlineDurationMins": 275.03656666666666
+  },
+  "blackmores-night@lichess": {
+    "id": "blackmores-night",
+    "provider": "lichess",
+    "username": "Blackmores-Night",
+    "firstSeen": 1615647620169,
+    "lastSeen": 1615653443645,
+    "firstSeenTime": "3:00:20 PM",
+    "lastSeenTime": "4:37:23 PM",
+    "onlineDurationMins": 97.05793333333334
+  },
+  "sahinerdem3560@lichess": {
+    "id": "sahinerdem3560",
+    "provider": "lichess",
+    "username": "SahinErdem3560",
+    "firstSeen": 1615652393873,
+    "lastSeen": 1615652852406,
+    "firstSeenTime": "4:19:53 PM",
+    "lastSeenTime": "4:27:32 PM",
+    "onlineDurationMins": 7.642216666666667
+  },
+  "filkafa@lichess": {
+    "id": "filkafa",
+    "provider": "lichess",
+    "username": "Filkafa",
+    "firstSeen": 1615652843080,
+    "lastSeen": 1615652909752,
+    "firstSeenTime": "4:27:23 PM",
+    "lastSeenTime": "4:28:29 PM",
+    "onlineDurationMins": 1.1112
+  },
+  "yayibaba35@lichess": {
+    "id": "yayibaba35",
+    "provider": "lichess",
+    "username": "YayiBaba35",
+    "firstSeen": 1615652853085,
+    "lastSeen": 1615653033130,
+    "firstSeenTime": "4:27:33 PM",
+    "lastSeenTime": "4:30:33 PM",
+    "onlineDurationMins": 3.00075
+  }
+}
