@@ -1,0 +1,33 @@
+{
+  "epiano_bot@lichess": {
+    "id": "epiano_bot",
+    "provider": "lichess",
+    "username": "Epiano_Bot",
+    "firstSeen": 1615599909000,
+    "lastSeen": 1615625290510,
+    "firstSeenTime": "1:45:09 AM",
+    "lastSeenTime": "7:31:10 AM",
+    "onlineDurationMins": 346.0207
+  },
+  "bot_of_jotim431@lichess": {
+    "id": "bot_of_jotim431",
+    "provider": "lichess",
+    "username": "Bot_of_jotim431",
+    "firstSeen": 1615625475583,
+    "lastSeen": 1615625497922
+  },
+  "ahmo_turkungucu@lichess": {
+    "id": "ahmo_turkungucu",
+    "provider": "lichess",
+    "username": "AHMO_TuRKuNGuCu",
+    "firstSeen": 1615625478469,
+    "lastSeen": 1615625483022
+  },
+  "manyak_bot@lichess": {
+    "id": "manyak_bot",
+    "provider": "lichess",
+    "username": "MANYAK_BOT",
+    "firstSeen": 1615625501111,
+    "lastSeen": 1615625501111
+  }
+}
