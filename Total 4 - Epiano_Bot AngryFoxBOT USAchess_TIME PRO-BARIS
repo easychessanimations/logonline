@@ -1,0 +1,42 @@
+{
+  "epiano_bot@lichess": {
+    "id": "epiano_bot",
+    "provider": "lichess",
+    "username": "Epiano_Bot",
+    "firstSeen": 1615599909000,
+    "lastSeen": 1615646531890,
+    "firstSeenTime": "1:45:09 AM",
+    "lastSeenTime": "2:29:15 PM",
+    "onlineDurationMins": 764.10275
+  },
+  "angryfoxbot@lichess": {
+    "id": "angryfoxbot",
+    "provider": "lichess",
+    "username": "AngryFoxBOT",
+    "firstSeen": 1615636813623,
+    "lastSeen": 1615646420822,
+    "firstSeenTime": "12:00:13 PM",
+    "lastSeenTime": "2:30:15 PM",
+    "onlineDurationMins": 150.03536666666668
+  },
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1615643878787,
+    "lastSeen": 1615646508891,
+    "firstSeenTime": "1:57:58 PM",
+    "lastSeenTime": "2:30:48 PM",
+    "onlineDurationMins": 32.83545
+  },
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1615646159443,
+    "lastSeen": 1615646647838,
+    "firstSeenTime": "2:35:59 PM",
+    "lastSeenTime": "2:36:09 PM",
+    "onlineDurationMins": 0.16411666666666666
+  }
+}
