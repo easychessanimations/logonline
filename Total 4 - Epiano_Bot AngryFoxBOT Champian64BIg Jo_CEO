@@ -1,0 +1,33 @@
+{
+  "epiano_bot@lichess": {
+    "id": "epiano_bot",
+    "provider": "lichess",
+    "username": "Epiano_Bot",
+    "firstSeen": 1615599909000,
+    "lastSeen": 1615642031511,
+    "firstSeenTime": "1:45:09 AM",
+    "lastSeenTime": "10:07:10 AM",
+    "onlineDurationMins": 502.0282
+  },
+  "angryfoxbot@lichess": {
+    "id": "angryfoxbot",
+    "provider": "lichess",
+    "username": "AngryFoxBOT",
+    "firstSeen": 1615636813623,
+    "lastSeen": 1615641556590
+  },
+  "champian64big@lichess": {
+    "id": "champian64big",
+    "provider": "lichess",
+    "username": "Champian64BIg",
+    "firstSeen": 1615640556143,
+    "lastSeen": 1615641539706
+  },
+  "jo_ceo@lichess": {
+    "id": "jo_ceo",
+    "provider": "lichess",
+    "username": "Jo_CEO",
+    "firstSeen": 1615642140350,
+    "lastSeen": 1615642140351
+  }
+}
