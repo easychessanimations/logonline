@@ -1,0 +1,72 @@
+{
+  "epiano_bot@lichess": {
+    "id": "epiano_bot",
+    "provider": "lichess",
+    "username": "Epiano_Bot",
+    "firstSeen": 1615599909000,
+    "lastSeen": 1615653072168,
+    "firstSeenTime": "1:45:09 AM",
+    "lastSeenTime": "4:31:12 PM",
+    "onlineDurationMins": 886.0528
+  },
+  "angryfoxbot@lichess": {
+    "id": "angryfoxbot",
+    "provider": "lichess",
+    "username": "AngryFoxBOT",
+    "firstSeen": 1615636813623,
+    "lastSeen": 1615653079512,
+    "firstSeenTime": "12:00:13 PM",
+    "lastSeenTime": "4:31:19 PM",
+    "onlineDurationMins": 271.09815
+  },
+  "blackmores-night@lichess": {
+    "id": "blackmores-night",
+    "provider": "lichess",
+    "username": "Blackmores-Night",
+    "firstSeen": 1615647620169,
+    "lastSeen": 1615653071526,
+    "firstSeenTime": "3:00:20 PM",
+    "lastSeenTime": "4:31:11 PM",
+    "onlineDurationMins": 90.85595
+  },
+  "crazyfisheater@lichess": {
+    "id": "crazyfisheater",
+    "provider": "lichess",
+    "username": "CrazyFishEater",
+    "firstSeen": 1615650731586,
+    "lastSeen": 1615652717286,
+    "firstSeenTime": "3:52:11 PM",
+    "lastSeenTime": "4:25:17 PM",
+    "onlineDurationMins": 33.095
+  },
+  "sahinerdem3560@lichess": {
+    "id": "sahinerdem3560",
+    "provider": "lichess",
+    "username": "SahinErdem3560",
+    "firstSeen": 1615652393873,
+    "lastSeen": 1615652852406,
+    "firstSeenTime": "4:19:53 PM",
+    "lastSeenTime": "4:27:32 PM",
+    "onlineDurationMins": 7.642216666666667
+  },
+  "filkafa@lichess": {
+    "id": "filkafa",
+    "provider": "lichess",
+    "username": "Filkafa",
+    "firstSeen": 1615652843080,
+    "lastSeen": 1615652909752,
+    "firstSeenTime": "4:27:23 PM",
+    "lastSeenTime": "4:28:29 PM",
+    "onlineDurationMins": 1.1112
+  },
+  "yayibaba35@lichess": {
+    "id": "yayibaba35",
+    "provider": "lichess",
+    "username": "YayiBaba35",
+    "firstSeen": 1615652853085,
+    "lastSeen": 1615653033130,
+    "firstSeenTime": "4:27:33 PM",
+    "lastSeenTime": "4:30:33 PM",
+    "onlineDurationMins": 3.00075
+  }
+}
