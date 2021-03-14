@@ -1,0 +1,23 @@
+{
+  "butzke_bot@lichess": {
+    "id": "butzke_bot",
+    "provider": "lichess",
+    "username": "Butzke_BOT",
+    "firstSeen": 1615752777574,
+    "lastSeen": 1615758332300
+  },
+  "ara-online@lichess": {
+    "id": "ara-online",
+    "provider": "lichess",
+    "username": "ara-online",
+    "firstSeen": 1615757410121,
+    "lastSeen": 1615758138140
+  },
+  "stockfish-medium@lichess": {
+    "id": "stockfish-medium",
+    "provider": "lichess",
+    "username": "Stockfish-MEDIUM",
+    "firstSeen": 1615757484578,
+    "lastSeen": 1615758090927
+  }
+}
