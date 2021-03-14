@@ -1,0 +1,23 @@
+{
+  "myproe@lichess": {
+    "id": "myproe",
+    "provider": "lichess",
+    "username": "MyProe",
+    "firstSeen": 1615736772856,
+    "lastSeen": 1615737010385
+  },
+  "butzke_bot@lichess": {
+    "id": "butzke_bot",
+    "provider": "lichess",
+    "username": "Butzke_BOT",
+    "firstSeen": 1615736817827,
+    "lastSeen": 1615736924006
+  },
+  "stockfish-medium@lichess": {
+    "id": "stockfish-medium",
+    "provider": "lichess",
+    "username": "Stockfish-MEDIUM",
+    "firstSeen": 1615737048384,
+    "lastSeen": 1615737048384
+  }
+}
