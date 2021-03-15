@@ -1,0 +1,39 @@
+{
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1615815336640,
+    "lastSeen": 1615816097566,
+    "firstSeenTime": "1:35:36 PM",
+    "lastSeenTime": "1:48:17 PM",
+    "onlineDurationMins": 12.6821
+  },
+  "friendly_bot@lichess": {
+    "id": "friendly_bot",
+    "provider": "lichess",
+    "username": "Friendly_Bot",
+    "firstSeen": 1615815666094,
+    "lastSeen": 1615816430749,
+    "firstSeenTime": "1:41:06 PM",
+    "lastSeenTime": "1:49:37 PM",
+    "onlineDurationMins": 8.52425
+  },
+  "stockfish-medium@lichess": {
+    "id": "stockfish-medium",
+    "provider": "lichess",
+    "username": "Stockfish-MEDIUM",
+    "firstSeen": 1615816091021,
+    "lastSeen": 1615816798071,
+    "firstSeenTime": "1:48:11 PM",
+    "lastSeenTime": "1:48:20 PM",
+    "onlineDurationMins": 0.15846666666666667
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1615816963843,
+    "lastSeen": 1615816963843
+  }
+}
