@@ -1,0 +1,51 @@
+{
+  "stockfish-medium@lichess": {
+    "id": "stockfish-medium",
+    "provider": "lichess",
+    "username": "Stockfish-MEDIUM",
+    "firstSeen": 1615821045298,
+    "lastSeen": 1615831494357
+  },
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "KillerXX3000",
+    "firstSeen": 1615821103938,
+    "lastSeen": 1615830889572
+  },
+  "fmuror02_is_back@lichess": {
+    "id": "fmuror02_is_back",
+    "provider": "lichess",
+    "username": "Fmuror02_is_back",
+    "firstSeen": 1615827003774,
+    "lastSeen": 1615831097177
+  },
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1615829300450,
+    "lastSeen": 1615830802984
+  },
+  "turbovpn@lichess": {
+    "id": "turbovpn",
+    "provider": "lichess",
+    "username": "TurboVPN",
+    "firstSeen": 1615830691639,
+    "lastSeen": 1615831525250
+  },
+  "pufbot@lichess": {
+    "id": "pufbot",
+    "provider": "lichess",
+    "username": "pufbot",
+    "firstSeen": 1615830805101,
+    "lastSeen": 1615831542082
+  },
+  "cobra-bot@lichess": {
+    "id": "cobra-bot",
+    "provider": "lichess",
+    "username": "Cobra-BOT",
+    "firstSeen": 1615831560290,
+    "lastSeen": 1615831560290
+  }
+}
