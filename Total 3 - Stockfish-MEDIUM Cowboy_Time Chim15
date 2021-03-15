@@ -1,0 +1,26 @@
+{
+  "stockfish-medium@lichess": {
+    "id": "stockfish-medium",
+    "provider": "lichess",
+    "username": "Stockfish-MEDIUM",
+    "firstSeen": 1615816091021,
+    "lastSeen": 1615817457949,
+    "firstSeenTime": "1:48:11 PM",
+    "lastSeenTime": "1:48:20 PM",
+    "onlineDurationMins": 0.15846666666666667
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1615816963843,
+    "lastSeen": 1615817495143
+  },
+  "chim15@lichess": {
+    "id": "chim15",
+    "provider": "lichess",
+    "username": "Chim15",
+    "firstSeen": 1615817564169,
+    "lastSeen": 1615817564169
+  }
+}
