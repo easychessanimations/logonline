@@ -1,0 +1,30 @@
+{
+  "stockfish-medium@lichess": {
+    "id": "stockfish-medium",
+    "provider": "lichess",
+    "username": "Stockfish-MEDIUM",
+    "firstSeen": 1615821045298,
+    "lastSeen": 1615833116161
+  },
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "KillerXX3000",
+    "firstSeen": 1615821103938,
+    "lastSeen": 1615833109473
+  },
+  "cobra-bot@lichess": {
+    "id": "cobra-bot",
+    "provider": "lichess",
+    "username": "Cobra-BOT",
+    "firstSeen": 1615831560290,
+    "lastSeen": 1615833110867
+  },
+  "jwsherman@lichess": {
+    "id": "jwsherman",
+    "provider": "lichess",
+    "username": "JWSherman",
+    "firstSeen": 1615833309959,
+    "lastSeen": 1615833309959
+  }
+}
