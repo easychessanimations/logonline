@@ -1,0 +1,39 @@
+{
+  "stockfish-medium@lichess": {
+    "id": "stockfish-medium",
+    "provider": "lichess",
+    "username": "Stockfish-MEDIUM",
+    "firstSeen": 1615816091021,
+    "lastSeen": 1615820113370,
+    "firstSeenTime": "1:48:11 PM",
+    "lastSeenTime": "2:55:13 PM",
+    "onlineDurationMins": 67.03915
+  },
+  "champian64big@lichess": {
+    "id": "champian64big",
+    "provider": "lichess",
+    "username": "Champian64BIg",
+    "firstSeen": 1615819687481,
+    "lastSeen": 1615820357840,
+    "firstSeenTime": "2:48:07 PM",
+    "lastSeenTime": "2:59:17 PM",
+    "onlineDurationMins": 11.17265
+  },
+  "cheesepizza2363@lichess": {
+    "id": "cheesepizza2363",
+    "provider": "lichess",
+    "username": "cheesepizza2363",
+    "firstSeen": 1615820398444,
+    "lastSeen": 1615820408802,
+    "firstSeenTime": "2:59:58 PM",
+    "lastSeenTime": "3:00:08 PM",
+    "onlineDurationMins": 0.17263333333333333
+  },
+  "blackmores-night@lichess": {
+    "id": "blackmores-night",
+    "provider": "lichess",
+    "username": "Blackmores-Night",
+    "firstSeen": 1615820753722,
+    "lastSeen": 1615820753722
+  }
+}
