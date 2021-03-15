@@ -1,0 +1,26 @@
+{
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1615810147550,
+    "lastSeen": 1615810980712,
+    "firstSeenTime": "12:09:07 PM",
+    "lastSeenTime": "12:19:08 PM",
+    "onlineDurationMins": 10.0084
+  },
+  "lokajitkugan@lichess": {
+    "id": "lokajitkugan",
+    "provider": "lichess",
+    "username": "lokajitkugan",
+    "firstSeen": 1615810799322,
+    "lastSeen": 1615811016667
+  },
+  "sarvajit12@lichess": {
+    "id": "sarvajit12",
+    "provider": "lichess",
+    "username": "Sarvajit12",
+    "firstSeen": 1615811017444,
+    "lastSeen": 1615811017444
+  }
+}
