@@ -1,0 +1,33 @@
+{
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1615896583004,
+    "lastSeen": 1615901974341,
+    "firstSeenTime": "12:09:43 PM",
+    "lastSeenTime": "12:44:08 PM",
+    "onlineDurationMins": 34.42245
+  },
+  "thebestchessengine@lichess": {
+    "id": "thebestchessengine",
+    "provider": "lichess",
+    "username": "TheBestChessEngine",
+    "firstSeen": 1615901085499,
+    "lastSeen": 1615901409730
+  },
+  "azerbaijanchessrobot@lichess": {
+    "id": "azerbaijanchessrobot",
+    "provider": "lichess",
+    "username": "AzerbaijanChessRobot",
+    "firstSeen": 1615901415097,
+    "lastSeen": 1615901954522
+  },
+  "champian64big@lichess": {
+    "id": "champian64big",
+    "provider": "lichess",
+    "username": "Champian64BIg",
+    "firstSeen": 1615901997844,
+    "lastSeen": 1615901997844
+  }
+}
