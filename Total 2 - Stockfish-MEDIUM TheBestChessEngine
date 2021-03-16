@@ -1,0 +1,19 @@
+{
+  "stockfish-medium@lichess": {
+    "id": "stockfish-medium",
+    "provider": "lichess",
+    "username": "Stockfish-MEDIUM",
+    "firstSeen": 1615902466145,
+    "lastSeen": 1615921914615,
+    "firstSeenTime": "1:47:46 PM",
+    "lastSeenTime": "3:15:52 PM",
+    "onlineDurationMins": 88.10781666666666
+  },
+  "thebestchessengine@lichess": {
+    "id": "thebestchessengine",
+    "provider": "lichess",
+    "username": "TheBestChessEngine",
+    "firstSeen": 1615921212924,
+    "lastSeen": 1615921260163
+  }
+}
