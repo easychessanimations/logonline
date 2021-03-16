@@ -1,0 +1,29 @@
+{
+  "stockfish-medium@lichess": {
+    "id": "stockfish-medium",
+    "provider": "lichess",
+    "username": "Stockfish-MEDIUM",
+    "firstSeen": 1615902466145,
+    "lastSeen": 1615933107161,
+    "firstSeenTime": "1:47:46 PM",
+    "lastSeenTime": "10:07:54 PM",
+    "onlineDurationMins": 500.1434
+  },
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "KillerXX3000",
+    "firstSeen": 1615929429477,
+    "lastSeen": 1615933632147,
+    "firstSeenTime": "9:17:09 PM",
+    "lastSeenTime": "10:07:12 PM",
+    "onlineDurationMins": 50.043683333333334
+  },
+  "saladmon@lichess": {
+    "id": "saladmon",
+    "provider": "lichess",
+    "username": "saladmon",
+    "firstSeen": 1615933887381,
+    "lastSeen": 1615933887381
+  }
+}
