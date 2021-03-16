@@ -1,0 +1,43 @@
+{
+  "stockfish-medium@lichess": {
+    "id": "stockfish-medium",
+    "provider": "lichess",
+    "username": "Stockfish-MEDIUM",
+    "firstSeen": 1615902466145,
+    "lastSeen": 1615909069163,
+    "firstSeenTime": "1:47:46 PM",
+    "lastSeenTime": "3:15:52 PM",
+    "onlineDurationMins": 88.10781666666666
+  },
+  "azerbaijanchessrobot@lichess": {
+    "id": "azerbaijanchessrobot",
+    "provider": "lichess",
+    "username": "AzerbaijanChessRobot",
+    "firstSeen": 1615904876375,
+    "lastSeen": 1615909652381,
+    "firstSeenTime": "2:27:56 PM",
+    "lastSeenTime": "3:14:43 PM",
+    "onlineDurationMins": 46.77726666666667
+  },
+  "yusufkaanbhdr@lichess": {
+    "id": "yusufkaanbhdr",
+    "provider": "lichess",
+    "username": "yusufKaaNbhdr",
+    "firstSeen": 1615908608989,
+    "lastSeen": 1615908821458
+  },
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1615908681881,
+    "lastSeen": 1615909424855
+  },
+  "ninjagus@lichess": {
+    "id": "ninjagus",
+    "provider": "lichess",
+    "username": "ninjagus",
+    "firstSeen": 1615908695850,
+    "lastSeen": 1615909454562
+  }
+}
