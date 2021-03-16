@@ -1,0 +1,29 @@
+{
+  "champian64big@lichess": {
+    "id": "champian64big",
+    "provider": "lichess",
+    "username": "Champian64BIg",
+    "firstSeen": 1615901997844,
+    "lastSeen": 1615904173237,
+    "firstSeenTime": "1:39:57 PM",
+    "lastSeenTime": "2:16:13 PM",
+    "onlineDurationMins": 36.25655
+  },
+  "stockfish-medium@lichess": {
+    "id": "stockfish-medium",
+    "provider": "lichess",
+    "username": "Stockfish-MEDIUM",
+    "firstSeen": 1615902466145,
+    "lastSeen": 1615904454573,
+    "firstSeenTime": "1:47:46 PM",
+    "lastSeenTime": "2:20:54 PM",
+    "onlineDurationMins": 33.14046666666667
+  },
+  "azerbaijanchessrobot@lichess": {
+    "id": "azerbaijanchessrobot",
+    "provider": "lichess",
+    "username": "AzerbaijanChessRobot",
+    "firstSeen": 1615904876375,
+    "lastSeen": 1615904876376
+  }
+}
