@@ -1,0 +1,39 @@
+{
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1615892833607,
+    "lastSeen": 1615894786125,
+    "firstSeenTime": "11:07:13 AM",
+    "lastSeenTime": "11:29:18 AM",
+    "onlineDurationMins": 22.088333333333335
+  },
+  "liomman@lichess": {
+    "id": "liomman",
+    "provider": "lichess",
+    "username": "liomman",
+    "firstSeen": 1615893500907,
+    "lastSeen": 1615894379173,
+    "firstSeenTime": "11:18:20 AM",
+    "lastSeenTime": "11:31:45 AM",
+    "onlineDurationMins": 13.407583333333333
+  },
+  "angryfoxbot@lichess": {
+    "id": "angryfoxbot",
+    "provider": "lichess",
+    "username": "AngryFoxBOT",
+    "firstSeen": 1615893581408,
+    "lastSeen": 1615894923319,
+    "firstSeenTime": "11:19:41 AM",
+    "lastSeenTime": "11:31:48 AM",
+    "onlineDurationMins": 12.112216666666667
+  },
+  "tempoary_error_man@lichess": {
+    "id": "tempoary_error_man",
+    "provider": "lichess",
+    "username": "Tempoary_Error_Man",
+    "firstSeen": 1615894924367,
+    "lastSeen": 1615894924368
+  }
+}
