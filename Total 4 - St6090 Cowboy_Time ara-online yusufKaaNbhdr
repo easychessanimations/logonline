@@ -1,0 +1,42 @@
+{
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1615896204682,
+    "lastSeen": 1615899806554,
+    "firstSeenTime": "12:03:24 PM",
+    "lastSeenTime": "12:47:55 PM",
+    "onlineDurationMins": 44.51255
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1615896583004,
+    "lastSeen": 1615899289864,
+    "firstSeenTime": "12:09:43 PM",
+    "lastSeenTime": "12:44:08 PM",
+    "onlineDurationMins": 34.42245
+  },
+  "ara-online@lichess": {
+    "id": "ara-online",
+    "provider": "lichess",
+    "username": "ara-online",
+    "firstSeen": 1615896881288,
+    "lastSeen": 1615898993160,
+    "firstSeenTime": "12:14:41 PM",
+    "lastSeenTime": "12:49:53 PM",
+    "onlineDurationMins": 35.19786666666667
+  },
+  "yusufkaanbhdr@lichess": {
+    "id": "yusufkaanbhdr",
+    "provider": "lichess",
+    "username": "yusufKaaNbhdr",
+    "firstSeen": 1615898001722,
+    "lastSeen": 1615899685039,
+    "firstSeenTime": "12:33:21 PM",
+    "lastSeenTime": "12:50:24 PM",
+    "onlineDurationMins": 17.054366666666667
+  }
+}
