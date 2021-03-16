@@ -1,0 +1,19 @@
+{
+  "stockfish-medium@lichess": {
+    "id": "stockfish-medium",
+    "provider": "lichess",
+    "username": "Stockfish-MEDIUM",
+    "firstSeen": 1615902466145,
+    "lastSeen": 1615917838258,
+    "firstSeenTime": "1:47:46 PM",
+    "lastSeenTime": "3:15:52 PM",
+    "onlineDurationMins": 88.10781666666666
+  },
+  "chicken_farmer@lichess": {
+    "id": "chicken_farmer",
+    "provider": "lichess",
+    "username": "chicken_farmer",
+    "firstSeen": 1615917200178,
+    "lastSeen": 1615917244700
+  }
+}
