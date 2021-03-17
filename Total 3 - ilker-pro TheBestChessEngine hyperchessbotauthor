@@ -1,0 +1,29 @@
+{
+  "ilker-pro@lichess": {
+    "id": "ilker-pro",
+    "provider": "lichess",
+    "username": "ilker-pro",
+    "firstSeen": 1615982413482,
+    "lastSeen": 1615985774740,
+    "firstSeenTime": "12:00:13 PM",
+    "lastSeenTime": "12:25:16 PM",
+    "onlineDurationMins": 25.044816666666666
+  },
+  "thebestchessengine@lichess": {
+    "id": "thebestchessengine",
+    "provider": "lichess",
+    "username": "TheBestChessEngine",
+    "firstSeen": 1615983122900,
+    "lastSeen": 1615985897298,
+    "firstSeenTime": "12:12:02 PM",
+    "lastSeenTime": "12:29:54 PM",
+    "onlineDurationMins": 17.85595
+  },
+  "hyperchessbotauthor@lichess": {
+    "id": "hyperchessbotauthor",
+    "provider": "lichess",
+    "username": "hyperchessbotauthor",
+    "firstSeen": 1615985977968,
+    "lastSeen": 1615985977968
+  }
+}
