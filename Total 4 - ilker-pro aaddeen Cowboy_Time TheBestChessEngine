@@ -1,0 +1,39 @@
+{
+  "ilker-pro@lichess": {
+    "id": "ilker-pro",
+    "provider": "lichess",
+    "username": "ilker-pro",
+    "firstSeen": 1615982413482,
+    "lastSeen": 1615987114242,
+    "firstSeenTime": "12:00:13 PM",
+    "lastSeenTime": "1:18:34 PM",
+    "onlineDurationMins": 78.346
+  },
+  "aaddeen@lichess": {
+    "id": "aaddeen",
+    "provider": "lichess",
+    "username": "aaddeen",
+    "firstSeen": 1615986966504,
+    "lastSeen": 1615987217397,
+    "firstSeenTime": "1:16:06 PM",
+    "lastSeenTime": "1:20:17 PM",
+    "onlineDurationMins": 4.18155
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1615987018813,
+    "lastSeen": 1615987513475,
+    "firstSeenTime": "1:16:58 PM",
+    "lastSeenTime": "1:21:11 PM",
+    "onlineDurationMins": 4.21605
+  },
+  "thebestchessengine@lichess": {
+    "id": "thebestchessengine",
+    "provider": "lichess",
+    "username": "TheBestChessEngine",
+    "firstSeen": 1615987546979,
+    "lastSeen": 1615987546980
+  }
+}
