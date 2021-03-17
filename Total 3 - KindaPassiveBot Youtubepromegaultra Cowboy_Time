@@ -1,0 +1,29 @@
+{
+  "kindapassivebot@lichess": {
+    "id": "kindapassivebot",
+    "provider": "lichess",
+    "username": "KindaPassiveBot",
+    "firstSeen": 1615992112540,
+    "lastSeen": 1616000501937,
+    "firstSeenTime": "2:41:52 PM",
+    "lastSeenTime": "5:01:41 PM",
+    "onlineDurationMins": 139.82328333333334
+  },
+  "youtubepromegaultra@lichess": {
+    "id": "youtubepromegaultra",
+    "provider": "lichess",
+    "username": "Youtubepromegaultra",
+    "firstSeen": 1616000557437,
+    "lastSeen": 1616000842091,
+    "firstSeenTime": "5:02:37 PM",
+    "lastSeenTime": "5:07:22 PM",
+    "onlineDurationMins": 4.744233333333334
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1616000995685,
+    "lastSeen": 1616000995685
+  }
+}
