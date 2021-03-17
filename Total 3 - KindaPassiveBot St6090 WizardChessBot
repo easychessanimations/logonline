@@ -1,0 +1,26 @@
+{
+  "kindapassivebot@lichess": {
+    "id": "kindapassivebot",
+    "provider": "lichess",
+    "username": "KindaPassiveBot",
+    "firstSeen": 1615992112540,
+    "lastSeen": 1616005645722,
+    "firstSeenTime": "2:41:52 PM",
+    "lastSeenTime": "5:14:26 PM",
+    "onlineDurationMins": 152.56926666666666
+  },
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1616005135134,
+    "lastSeen": 1616005146018
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1616005539867,
+    "lastSeen": 1616005540995
+  }
+}
