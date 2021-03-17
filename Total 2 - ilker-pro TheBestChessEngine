@@ -1,0 +1,22 @@
+{
+  "ilker-pro@lichess": {
+    "id": "ilker-pro",
+    "provider": "lichess",
+    "username": "ilker-pro",
+    "firstSeen": 1615982413482,
+    "lastSeen": 1615983916171,
+    "firstSeenTime": "12:00:13 PM",
+    "lastSeenTime": "12:11:14 PM",
+    "onlineDurationMins": 11.0203
+  },
+  "thebestchessengine@lichess": {
+    "id": "thebestchessengine",
+    "provider": "lichess",
+    "username": "TheBestChessEngine",
+    "firstSeen": 1615983122900,
+    "lastSeen": 1615984158584,
+    "firstSeenTime": "12:12:02 PM",
+    "lastSeenTime": "12:12:05 PM",
+    "onlineDurationMins": 0.049133333333333334
+  }
+}
