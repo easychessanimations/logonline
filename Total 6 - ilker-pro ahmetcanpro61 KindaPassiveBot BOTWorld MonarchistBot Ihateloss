@@ -1,0 +1,47 @@
+{
+  "ilker-pro@lichess": {
+    "id": "ilker-pro",
+    "provider": "lichess",
+    "username": "ilker-pro",
+    "firstSeen": 1615982413482,
+    "lastSeen": 1615992697552,
+    "firstSeenTime": "12:00:13 PM",
+    "lastSeenTime": "1:18:34 PM",
+    "onlineDurationMins": 78.346
+  },
+  "ahmetcanpro61@lichess": {
+    "id": "ahmetcanpro61",
+    "provider": "lichess",
+    "username": "ahmetcanpro61",
+    "firstSeen": 1615991602526,
+    "lastSeen": 1615992697627
+  },
+  "kindapassivebot@lichess": {
+    "id": "kindapassivebot",
+    "provider": "lichess",
+    "username": "KindaPassiveBot",
+    "firstSeen": 1615992112540,
+    "lastSeen": 1615992747792
+  },
+  "botworld@lichess": {
+    "id": "botworld",
+    "provider": "lichess",
+    "username": "BOTWorld",
+    "firstSeen": 1615992262940,
+    "lastSeen": 1615992264745
+  },
+  "monarchistbot@lichess": {
+    "id": "monarchistbot",
+    "provider": "lichess",
+    "username": "MonarchistBot",
+    "firstSeen": 1615992457043,
+    "lastSeen": 1615992737255
+  },
+  "ihateloss@lichess": {
+    "id": "ihateloss",
+    "provider": "lichess",
+    "username": "Ihateloss",
+    "firstSeen": 1615992923058,
+    "lastSeen": 1615992923058
+  }
+}
