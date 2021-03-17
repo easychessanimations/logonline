@@ -1,0 +1,46 @@
+{
+  "kindapassivebot@lichess": {
+    "id": "kindapassivebot",
+    "provider": "lichess",
+    "username": "KindaPassiveBot",
+    "firstSeen": 1615992112540,
+    "lastSeen": 1615996947229,
+    "firstSeenTime": "2:41:52 PM",
+    "lastSeenTime": "3:31:55 PM",
+    "onlineDurationMins": 50.043483333333334
+  },
+  "arobotz@lichess": {
+    "id": "arobotz",
+    "provider": "lichess",
+    "username": "ARobotz",
+    "firstSeen": 1615993912071,
+    "lastSeen": 1615996818050,
+    "firstSeenTime": "3:11:52 PM",
+    "lastSeenTime": "3:36:16 PM",
+    "onlineDurationMins": 24.405616666666667
+  },
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1615994966943,
+    "lastSeen": 1615997219906,
+    "firstSeenTime": "3:29:26 PM",
+    "lastSeenTime": "3:34:51 PM",
+    "onlineDurationMins": 5.41415
+  },
+  "serikiller@lichess": {
+    "id": "serikiller",
+    "provider": "lichess",
+    "username": "SeriKiller",
+    "firstSeen": 1615997062484,
+    "lastSeen": 1615997296082
+  },
+  "serikillers@lichess": {
+    "id": "serikillers",
+    "provider": "lichess",
+    "username": "SeriKillers",
+    "firstSeen": 1615997332298,
+    "lastSeen": 1615997332299
+  }
+}
