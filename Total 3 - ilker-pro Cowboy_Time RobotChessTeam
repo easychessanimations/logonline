@@ -1,0 +1,29 @@
+{
+  "ilker-pro@lichess": {
+    "id": "ilker-pro",
+    "provider": "lichess",
+    "username": "ilker-pro",
+    "firstSeen": 1615982413482,
+    "lastSeen": 1615988574529,
+    "firstSeenTime": "12:00:13 PM",
+    "lastSeenTime": "1:18:34 PM",
+    "onlineDurationMins": 78.346
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1615987018813,
+    "lastSeen": 1615989085151,
+    "firstSeenTime": "1:16:58 PM",
+    "lastSeenTime": "1:21:11 PM",
+    "onlineDurationMins": 4.21605
+  },
+  "robotchessteam@lichess": {
+    "id": "robotchessteam",
+    "provider": "lichess",
+    "username": "RobotChessTeam",
+    "firstSeen": 1615988833461,
+    "lastSeen": 1615988841682
+  }
+}
