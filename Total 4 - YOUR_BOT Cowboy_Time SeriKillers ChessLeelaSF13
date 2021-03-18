@@ -1,0 +1,36 @@
+{
+  "your_bot@lichess": {
+    "id": "your_bot",
+    "provider": "lichess",
+    "username": "YOUR_BOT",
+    "firstSeen": 1616049065500,
+    "lastSeen": 1616057017317,
+    "firstSeenTime": "6:31:05 AM",
+    "lastSeenTime": "8:11:13 AM",
+    "onlineDurationMins": 100.13976666666667
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1616049974737,
+    "lastSeen": 1616056344754,
+    "firstSeenTime": "6:46:14 AM",
+    "lastSeenTime": "8:05:29 AM",
+    "onlineDurationMins": 79.23826666666666
+  },
+  "serikillers@lichess": {
+    "id": "serikillers",
+    "provider": "lichess",
+    "username": "SeriKillers",
+    "firstSeen": 1616056323929,
+    "lastSeen": 1616056700788
+  },
+  "chessleelasf13@lichess": {
+    "id": "chessleelasf13",
+    "provider": "lichess",
+    "username": "ChessLeelaSF13",
+    "firstSeen": 1616057048067,
+    "lastSeen": 1616057048067
+  }
+}
