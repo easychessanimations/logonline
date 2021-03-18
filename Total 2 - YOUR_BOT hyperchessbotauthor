@@ -1,0 +1,22 @@
+{
+  "your_bot@lichess": {
+    "id": "your_bot",
+    "provider": "lichess",
+    "username": "YOUR_BOT",
+    "firstSeen": 1616065779778,
+    "lastSeen": 1616069315055,
+    "firstSeenTime": "11:09:39 AM",
+    "lastSeenTime": "11:57:38 AM",
+    "onlineDurationMins": 47.97825
+  },
+  "hyperchessbotauthor@lichess": {
+    "id": "hyperchessbotauthor",
+    "provider": "lichess",
+    "username": "hyperchessbotauthor",
+    "firstSeen": 1616068393367,
+    "lastSeen": 1616069974578,
+    "firstSeenTime": "11:53:13 AM",
+    "lastSeenTime": "11:57:12 AM",
+    "onlineDurationMins": 3.9783166666666667
+  }
+}
