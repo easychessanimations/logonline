@@ -1,0 +1,29 @@
+{
+  "your_bot@lichess": {
+    "id": "your_bot",
+    "provider": "lichess",
+    "username": "YOUR_BOT",
+    "firstSeen": 1616065779778,
+    "lastSeen": 1616067316951,
+    "firstSeenTime": "11:09:39 AM",
+    "lastSeenTime": "11:20:56 AM",
+    "onlineDurationMins": 11.2866
+  },
+  "hyperchessbotauthor@lichess": {
+    "id": "hyperchessbotauthor",
+    "provider": "lichess",
+    "username": "hyperchessbotauthor",
+    "firstSeen": 1616066123273,
+    "lastSeen": 1616066530812,
+    "firstSeenTime": "11:15:23 AM",
+    "lastSeenTime": "11:22:10 AM",
+    "onlineDurationMins": 6.792316666666666
+  },
+  "threecheck_3check@lichess": {
+    "id": "threecheck_3check",
+    "provider": "lichess",
+    "username": "ThreeCheck_3Check",
+    "firstSeen": 1616066863262,
+    "lastSeen": 1616067119612
+  }
+}
