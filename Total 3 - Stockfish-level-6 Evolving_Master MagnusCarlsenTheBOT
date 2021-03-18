@@ -1,0 +1,23 @@
+{
+  "stockfish-level-6@lichess": {
+    "id": "stockfish-level-6",
+    "provider": "lichess",
+    "username": "Stockfish-level-6",
+    "firstSeen": 1616080800635,
+    "lastSeen": 1616081513600
+  },
+  "evolving_master@lichess": {
+    "id": "evolving_master",
+    "provider": "lichess",
+    "username": "Evolving_Master",
+    "firstSeen": 1616081516783,
+    "lastSeen": 1616081520151
+  },
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1616081796342,
+    "lastSeen": 1616081796342
+  }
+}
