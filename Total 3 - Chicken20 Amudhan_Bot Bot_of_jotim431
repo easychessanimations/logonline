@@ -1,0 +1,26 @@
+{
+  "chicken20@lichess": {
+    "id": "chicken20",
+    "provider": "lichess",
+    "username": "Chicken20",
+    "firstSeen": 1616072792797,
+    "lastSeen": 1616074187333,
+    "firstSeenTime": "1:06:32 PM",
+    "lastSeenTime": "1:09:58 PM",
+    "onlineDurationMins": 3.434833333333333
+  },
+  "amudhan_bot@lichess": {
+    "id": "amudhan_bot",
+    "provider": "lichess",
+    "username": "Amudhan_Bot",
+    "firstSeen": 1616074226662,
+    "lastSeen": 1616074238863
+  },
+  "bot_of_jotim431@lichess": {
+    "id": "bot_of_jotim431",
+    "provider": "lichess",
+    "username": "Bot_of_jotim431",
+    "firstSeen": 1616074838342,
+    "lastSeen": 1616074914858
+  }
+}
