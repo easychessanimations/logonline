@@ -1,0 +1,50 @@
+{
+  "your_bot@lichess": {
+    "id": "your_bot",
+    "provider": "lichess",
+    "username": "YOUR_BOT",
+    "firstSeen": 1616049065500,
+    "lastSeen": 1616051931887,
+    "firstSeenTime": "6:31:05 AM",
+    "lastSeenTime": "7:02:21 AM",
+    "onlineDurationMins": 31.26725
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1616049974737,
+    "lastSeen": 1616052048237,
+    "firstSeenTime": "6:46:14 AM",
+    "lastSeenTime": "6:58:24 AM",
+    "onlineDurationMins": 12.16955
+  },
+  "thebestchessengine@lichess": {
+    "id": "thebestchessengine",
+    "provider": "lichess",
+    "username": "TheBestChessEngine",
+    "firstSeen": 1616050949265,
+    "lastSeen": 1616052033588
+  },
+  "the_dragon_bot@lichess": {
+    "id": "the_dragon_bot",
+    "provider": "lichess",
+    "username": "The_dragon_bot",
+    "firstSeen": 1616051322655,
+    "lastSeen": 1616052459683
+  },
+  "ihateloss@lichess": {
+    "id": "ihateloss",
+    "provider": "lichess",
+    "username": "Ihateloss",
+    "firstSeen": 1616051347219,
+    "lastSeen": 1616052459645
+  },
+  "sumal_bro@lichess": {
+    "id": "sumal_bro",
+    "provider": "lichess",
+    "username": "SUMAL_BRO",
+    "firstSeen": 1616052497369,
+    "lastSeen": 1616052497369
+  }
+}
