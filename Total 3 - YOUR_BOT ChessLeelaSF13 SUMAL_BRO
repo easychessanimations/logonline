@@ -1,0 +1,26 @@
+{
+  "your_bot@lichess": {
+    "id": "your_bot",
+    "provider": "lichess",
+    "username": "YOUR_BOT",
+    "firstSeen": 1616049065500,
+    "lastSeen": 1616057163390,
+    "firstSeenTime": "6:31:05 AM",
+    "lastSeenTime": "8:11:13 AM",
+    "onlineDurationMins": 100.13976666666667
+  },
+  "chessleelasf13@lichess": {
+    "id": "chessleelasf13",
+    "provider": "lichess",
+    "username": "ChessLeelaSF13",
+    "firstSeen": 1616057048067,
+    "lastSeen": 1616057196590
+  },
+  "sumal_bro@lichess": {
+    "id": "sumal_bro",
+    "provider": "lichess",
+    "username": "SUMAL_BRO",
+    "firstSeen": 1616057240010,
+    "lastSeen": 1616057594201
+  }
+}
