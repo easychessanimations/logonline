@@ -1,0 +1,29 @@
+{
+  "hiper_bot@lichess": {
+    "id": "hiper_bot",
+    "provider": "lichess",
+    "username": "Hiper_BOT",
+    "firstSeen": 1616157568004,
+    "lastSeen": 1616159195490,
+    "firstSeenTime": "12:39:28 PM",
+    "lastSeenTime": "12:55:33 PM",
+    "onlineDurationMins": 16.0875
+  },
+  "botx29kli76@lichess": {
+    "id": "botx29kli76",
+    "provider": "lichess",
+    "username": "BotX29KLI76",
+    "firstSeen": 1616158414962,
+    "lastSeen": 1616159270145,
+    "firstSeenTime": "12:53:34 PM",
+    "lastSeenTime": "12:54:12 PM",
+    "onlineDurationMins": 0.6277666666666667
+  },
+  "hyperchessbotauthor@lichess": {
+    "id": "hyperchessbotauthor",
+    "provider": "lichess",
+    "username": "hyperchessbotauthor",
+    "firstSeen": 1616158837910,
+    "lastSeen": 1616159417574
+  }
+}
