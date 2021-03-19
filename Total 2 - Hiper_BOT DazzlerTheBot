@@ -1,0 +1,19 @@
+{
+  "hiper_bot@lichess": {
+    "id": "hiper_bot",
+    "provider": "lichess",
+    "username": "Hiper_BOT",
+    "firstSeen": 1616181306133,
+    "lastSeen": 1616188809599,
+    "firstSeenTime": "7:15:06 PM",
+    "lastSeenTime": "7:52:09 PM",
+    "onlineDurationMins": 37.06111666666666
+  },
+  "dazzlerthebot@lichess": {
+    "id": "dazzlerthebot",
+    "provider": "lichess",
+    "username": "DazzlerTheBot",
+    "firstSeen": 1616187622772,
+    "lastSeen": 1616188407647
+  }
+}
