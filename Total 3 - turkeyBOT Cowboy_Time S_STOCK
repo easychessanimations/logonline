@@ -1,0 +1,23 @@
+{
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1616133836255,
+    "lastSeen": 1616136838583
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1616136687719,
+    "lastSeen": 1616136853858
+  },
+  "s_stock@lichess": {
+    "id": "s_stock",
+    "provider": "lichess",
+    "username": "S_STOCK",
+    "firstSeen": 1616136930211,
+    "lastSeen": 1616136930211
+  }
+}
