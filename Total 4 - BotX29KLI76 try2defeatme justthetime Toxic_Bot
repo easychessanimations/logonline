@@ -1,0 +1,39 @@
+{
+  "botx29kli76@lichess": {
+    "id": "botx29kli76",
+    "provider": "lichess",
+    "username": "BotX29KLI76",
+    "firstSeen": 1616153255176,
+    "lastSeen": 1616155196849,
+    "firstSeenTime": "11:27:35 AM",
+    "lastSeenTime": "11:44:56 AM",
+    "onlineDurationMins": 17.353766666666665
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1616153289447,
+    "lastSeen": 1616155089193,
+    "firstSeenTime": "11:28:09 AM",
+    "lastSeenTime": "11:45:12 AM",
+    "onlineDurationMins": 17.054816666666667
+  },
+  "justthetime@lichess": {
+    "id": "justthetime",
+    "provider": "lichess",
+    "username": "justthetime",
+    "firstSeen": 1616153739330,
+    "lastSeen": 1616155022883,
+    "firstSeenTime": "11:35:39 AM",
+    "lastSeenTime": "11:46:41 AM",
+    "onlineDurationMins": 11.043383333333333
+  },
+  "toxic_bot@lichess": {
+    "id": "toxic_bot",
+    "provider": "lichess",
+    "username": "Toxic_Bot",
+    "firstSeen": 1616155505384,
+    "lastSeen": 1616155505384
+  }
+}
