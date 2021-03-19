@@ -1,0 +1,36 @@
+{
+  "hiper_bot@lichess": {
+    "id": "hiper_bot",
+    "provider": "lichess",
+    "username": "Hiper_BOT",
+    "firstSeen": 1616160570277,
+    "lastSeen": 1616168914518,
+    "firstSeenTime": "1:29:30 PM",
+    "lastSeenTime": "3:09:30 PM",
+    "onlineDurationMins": 100.0006
+  },
+  "parth_dhage_2@lichess": {
+    "id": "parth_dhage_2",
+    "provider": "lichess",
+    "username": "Parth_Dhage_2",
+    "firstSeen": 1616164858818,
+    "lastSeen": 1616168908251,
+    "firstSeenTime": "2:40:58 PM",
+    "lastSeenTime": "3:06:03 PM",
+    "onlineDurationMins": 25.074316666666668
+  },
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1616168693285,
+    "lastSeen": 1616168930559
+  },
+  "botx29kli76@lichess": {
+    "id": "botx29kli76",
+    "provider": "lichess",
+    "username": "BotX29KLI76",
+    "firstSeen": 1616169266471,
+    "lastSeen": 1616169266471
+  }
+}
