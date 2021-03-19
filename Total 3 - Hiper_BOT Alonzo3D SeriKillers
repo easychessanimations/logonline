@@ -1,0 +1,23 @@
+{
+  "hiper_bot@lichess": {
+    "id": "hiper_bot",
+    "provider": "lichess",
+    "username": "Hiper_BOT",
+    "firstSeen": 1616160570277,
+    "lastSeen": 1616161833516
+  },
+  "alonzo3d@lichess": {
+    "id": "alonzo3d",
+    "provider": "lichess",
+    "username": "Alonzo3D",
+    "firstSeen": 1616160721304,
+    "lastSeen": 1616161927279
+  },
+  "serikillers@lichess": {
+    "id": "serikillers",
+    "provider": "lichess",
+    "username": "SeriKillers",
+    "firstSeen": 1616161555970,
+    "lastSeen": 1616161570319
+  }
+}
