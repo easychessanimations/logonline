@@ -1,0 +1,26 @@
+{
+  "hiper_bot@lichess": {
+    "id": "hiper_bot",
+    "provider": "lichess",
+    "username": "Hiper_BOT",
+    "firstSeen": 1616160570277,
+    "lastSeen": 1616163570037,
+    "firstSeenTime": "1:29:30 PM",
+    "lastSeenTime": "1:54:29 PM",
+    "onlineDurationMins": 24.994416666666666
+  },
+  "personanongratatr@lichess": {
+    "id": "personanongratatr",
+    "provider": "lichess",
+    "username": "PersonaNonGrataTR",
+    "firstSeen": 1616163736539,
+    "lastSeen": 1616163798485
+  },
+  "your_bot@lichess": {
+    "id": "your_bot",
+    "provider": "lichess",
+    "username": "YOUR_BOT",
+    "firstSeen": 1616163809542,
+    "lastSeen": 1616163809542
+  }
+}
