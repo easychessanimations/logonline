@@ -1,0 +1,26 @@
+{
+  "hiper_bot@lichess": {
+    "id": "hiper_bot",
+    "provider": "lichess",
+    "username": "Hiper_BOT",
+    "firstSeen": 1616181306133,
+    "lastSeen": 1616185809632,
+    "firstSeenTime": "7:15:06 PM",
+    "lastSeenTime": "7:52:09 PM",
+    "onlineDurationMins": 37.06111666666666
+  },
+  "breeze-hot@lichess": {
+    "id": "breeze-hot",
+    "provider": "lichess",
+    "username": "Breeze-Hot",
+    "firstSeen": 1616185870576,
+    "lastSeen": 1616185892252
+  },
+  "emre_coskun_e@lichess": {
+    "id": "emre_coskun_e",
+    "provider": "lichess",
+    "username": "emre_coskun_E",
+    "firstSeen": 1616186086747,
+    "lastSeen": 1616186086747
+  }
+}
