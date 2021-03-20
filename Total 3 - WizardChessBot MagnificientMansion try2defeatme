@@ -1,0 +1,23 @@
+{
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1616225606742,
+    "lastSeen": 1616227781111
+  },
+  "magnificientmansion@lichess": {
+    "id": "magnificientmansion",
+    "provider": "lichess",
+    "username": "MagnificientMansion",
+    "firstSeen": 1616227003235,
+    "lastSeen": 1616227041582
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1616227830088,
+    "lastSeen": 1616227830088
+  }
+}
