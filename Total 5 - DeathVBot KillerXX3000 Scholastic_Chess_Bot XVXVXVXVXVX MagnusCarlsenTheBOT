@@ -1,0 +1,49 @@
+{
+  "deathvbot@lichess": {
+    "id": "deathvbot",
+    "provider": "lichess",
+    "username": "DeathVBot",
+    "firstSeen": 1616246046960,
+    "lastSeen": 1616248448891,
+    "firstSeenTime": "1:14:06 PM",
+    "lastSeenTime": "1:54:08 PM",
+    "onlineDurationMins": 40.032183333333336
+  },
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "KillerXX3000",
+    "firstSeen": 1616246336023,
+    "lastSeen": 1616248983951,
+    "firstSeenTime": "1:18:56 PM",
+    "lastSeenTime": "1:52:03 PM",
+    "onlineDurationMins": 33.13248333333333
+  },
+  "scholastic_chess_bot@lichess": {
+    "id": "scholastic_chess_bot",
+    "provider": "lichess",
+    "username": "Scholastic_Chess_Bot",
+    "firstSeen": 1616247601360,
+    "lastSeen": 1616249285327,
+    "firstSeenTime": "1:40:01 PM",
+    "lastSeenTime": "2:00:45 PM",
+    "onlineDurationMins": 20.73705
+  },
+  "xvxvxvxvxvx@lichess": {
+    "id": "xvxvxvxvxvx",
+    "provider": "lichess",
+    "username": "XVXVXVXVXVX",
+    "firstSeen": 1616248449709,
+    "lastSeen": 1616249275177,
+    "firstSeenTime": "1:54:09 PM",
+    "lastSeenTime": "2:00:42 PM",
+    "onlineDurationMins": 6.550866666666667
+  },
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1616249288187,
+    "lastSeen": 1616249288188
+  }
+}
