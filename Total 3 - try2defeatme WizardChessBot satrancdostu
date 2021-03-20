@@ -1,0 +1,23 @@
+{
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1616224341283,
+    "lastSeen": 1616226433297
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1616225606742,
+    "lastSeen": 1616226546840
+  },
+  "satrancdostu@lichess": {
+    "id": "satrancdostu",
+    "provider": "lichess",
+    "username": "satrancdostu",
+    "firstSeen": 1616226421709,
+    "lastSeen": 1616226430213
+  }
+}
