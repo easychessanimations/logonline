@@ -1,0 +1,47 @@
+{
+  "botworld@lichess": {
+    "id": "botworld",
+    "provider": "lichess",
+    "username": "BOTWorld",
+    "firstSeen": 1616235203364,
+    "lastSeen": 1616240714656,
+    "firstSeenTime": "10:13:23 AM",
+    "lastSeenTime": "11:09:37 AM",
+    "onlineDurationMins": 56.23186666666667
+  },
+  "deathvbot@lichess": {
+    "id": "deathvbot",
+    "provider": "lichess",
+    "username": "DeathVBot",
+    "firstSeen": 1616239419788,
+    "lastSeen": 1616240694369
+  },
+  "fast_dragon@lichess": {
+    "id": "fast_dragon",
+    "provider": "lichess",
+    "username": "FAST_DRAGON",
+    "firstSeen": 1616239823202,
+    "lastSeen": 1616240708240
+  },
+  "thatsnikkis_bot@lichess": {
+    "id": "thatsnikkis_bot",
+    "provider": "lichess",
+    "username": "ThatsNikkis_BOT",
+    "firstSeen": 1616240010288,
+    "lastSeen": 1616240077939
+  },
+  "vk1800000@lichess": {
+    "id": "vk1800000",
+    "provider": "lichess",
+    "username": "Vk1800000",
+    "firstSeen": 1616240647438,
+    "lastSeen": 1616240716290
+  },
+  "maskgun@lichess": {
+    "id": "maskgun",
+    "provider": "lichess",
+    "username": "MaskGun",
+    "firstSeen": 1616240737464,
+    "lastSeen": 1616240737464
+  }
+}
