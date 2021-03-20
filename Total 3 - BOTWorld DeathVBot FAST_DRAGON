@@ -1,0 +1,26 @@
+{
+  "botworld@lichess": {
+    "id": "botworld",
+    "provider": "lichess",
+    "username": "BOTWorld",
+    "firstSeen": 1616235203364,
+    "lastSeen": 1616239706124,
+    "firstSeenTime": "10:13:23 AM",
+    "lastSeenTime": "11:09:37 AM",
+    "onlineDurationMins": 56.23186666666667
+  },
+  "deathvbot@lichess": {
+    "id": "deathvbot",
+    "provider": "lichess",
+    "username": "DeathVBot",
+    "firstSeen": 1616239419788,
+    "lastSeen": 1616239807380
+  },
+  "fast_dragon@lichess": {
+    "id": "fast_dragon",
+    "provider": "lichess",
+    "username": "FAST_DRAGON",
+    "firstSeen": 1616239823202,
+    "lastSeen": 1616239823202
+  }
+}
