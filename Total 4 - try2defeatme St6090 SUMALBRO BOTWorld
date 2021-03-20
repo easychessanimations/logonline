@@ -1,0 +1,33 @@
+{
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1616231372215,
+    "lastSeen": 1616234873476,
+    "firstSeenTime": "9:09:32 AM",
+    "lastSeenTime": "9:24:10 AM",
+    "onlineDurationMins": 14.634616666666666
+  },
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1616233528757,
+    "lastSeen": 1616235031103
+  },
+  "80937948@github": {
+    "id": "80937948",
+    "provider": "github",
+    "username": "SUMALBRO",
+    "firstSeen": 1616234511970,
+    "lastSeen": 1616234519158
+  },
+  "botworld@lichess": {
+    "id": "botworld",
+    "provider": "lichess",
+    "username": "BOTWorld",
+    "firstSeen": 1616235203364,
+    "lastSeen": 1616235203364
+  }
+}
