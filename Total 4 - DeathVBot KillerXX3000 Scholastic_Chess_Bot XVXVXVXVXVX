@@ -1,0 +1,36 @@
+{
+  "deathvbot@lichess": {
+    "id": "deathvbot",
+    "provider": "lichess",
+    "username": "DeathVBot",
+    "firstSeen": 1616246046960,
+    "lastSeen": 1616248448891,
+    "firstSeenTime": "1:14:06 PM",
+    "lastSeenTime": "1:19:32 PM",
+    "onlineDurationMins": 5.42435
+  },
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "KillerXX3000",
+    "firstSeen": 1616246336023,
+    "lastSeen": 1616248323972,
+    "firstSeenTime": "1:18:56 PM",
+    "lastSeenTime": "1:19:46 PM",
+    "onlineDurationMins": 0.84695
+  },
+  "scholastic_chess_bot@lichess": {
+    "id": "scholastic_chess_bot",
+    "provider": "lichess",
+    "username": "Scholastic_Chess_Bot",
+    "firstSeen": 1616247601360,
+    "lastSeen": 1616248427581
+  },
+  "xvxvxvxvxvx@lichess": {
+    "id": "xvxvxvxvxvx",
+    "provider": "lichess",
+    "username": "XVXVXVXVXVX",
+    "firstSeen": 1616248449709,
+    "lastSeen": 1616248449709
+  }
+}
