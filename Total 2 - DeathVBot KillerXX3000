@@ -1,0 +1,22 @@
+{
+  "deathvbot@lichess": {
+    "id": "deathvbot",
+    "provider": "lichess",
+    "username": "DeathVBot",
+    "firstSeen": 1616246046960,
+    "lastSeen": 1616247539887,
+    "firstSeenTime": "1:14:06 PM",
+    "lastSeenTime": "1:19:32 PM",
+    "onlineDurationMins": 5.42435
+  },
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "KillerXX3000",
+    "firstSeen": 1616246336023,
+    "lastSeen": 1616247007357,
+    "firstSeenTime": "1:18:56 PM",
+    "lastSeenTime": "1:19:46 PM",
+    "onlineDurationMins": 0.84695
+  }
+}
