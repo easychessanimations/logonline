@@ -1,0 +1,23 @@
+{
+  "botworld@lichess": {
+    "id": "botworld",
+    "provider": "lichess",
+    "username": "BOTWorld",
+    "firstSeen": 1616314327942,
+    "lastSeen": 1616315715067
+  },
+  "dhruvin6@lichess": {
+    "id": "dhruvin6",
+    "provider": "lichess",
+    "username": "Dhruvin6",
+    "firstSeen": 1616315336077,
+    "lastSeen": 1616315770379
+  },
+  "dhruvin_chess@lichess": {
+    "id": "dhruvin_chess",
+    "provider": "lichess",
+    "username": "Dhruvin_chess",
+    "firstSeen": 1616315771379,
+    "lastSeen": 1616315771379
+  }
+}
