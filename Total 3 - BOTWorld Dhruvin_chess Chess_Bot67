@@ -1,0 +1,29 @@
+{
+  "botworld@lichess": {
+    "id": "botworld",
+    "provider": "lichess",
+    "username": "BOTWorld",
+    "firstSeen": 1616314327942,
+    "lastSeen": 1616316494118,
+    "firstSeenTime": "8:12:07 AM",
+    "lastSeenTime": "8:37:10 AM",
+    "onlineDurationMins": 25.043066666666668
+  },
+  "dhruvin_chess@lichess": {
+    "id": "dhruvin_chess",
+    "provider": "lichess",
+    "username": "Dhruvin_chess",
+    "firstSeen": 1616315771379,
+    "lastSeen": 1616316591490,
+    "firstSeenTime": "8:36:11 AM",
+    "lastSeenTime": "8:37:59 AM",
+    "onlineDurationMins": 1.80645
+  },
+  "chess_bot67@lichess": {
+    "id": "chess_bot67",
+    "provider": "lichess",
+    "username": "Chess_Bot67",
+    "firstSeen": 1616316592763,
+    "lastSeen": 1616316677502
+  }
+}
