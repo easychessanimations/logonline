@@ -1,0 +1,40 @@
+{
+  "robociech@lichess": {
+    "id": "robociech",
+    "provider": "lichess",
+    "username": "Robociech",
+    "firstSeen": 1616334988262,
+    "lastSeen": 1616336544580,
+    "firstSeenTime": "1:56:28 PM",
+    "lastSeenTime": "2:00:10 PM",
+    "onlineDurationMins": 3.69845
+  },
+  "chicken_farmer@lichess": {
+    "id": "chicken_farmer",
+    "provider": "lichess",
+    "username": "chicken_farmer",
+    "firstSeen": 1616335612992,
+    "lastSeen": 1616336098881
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1616335628501,
+    "lastSeen": 1616336521957
+  },
+  "hikaru_nakamura1@lichess": {
+    "id": "hikaru_nakamura1",
+    "provider": "lichess",
+    "username": "Hikaru_Nakamura1",
+    "firstSeen": 1616336162725,
+    "lastSeen": 1616336164233
+  },
+  "dazzlerthebot@lichess": {
+    "id": "dazzlerthebot",
+    "provider": "lichess",
+    "username": "DazzlerTheBot",
+    "firstSeen": 1616336635086,
+    "lastSeen": 1616336635086
+  }
+}
