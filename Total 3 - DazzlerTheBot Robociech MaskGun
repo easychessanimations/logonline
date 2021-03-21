@@ -1,0 +1,29 @@
+{
+  "dazzlerthebot@lichess": {
+    "id": "dazzlerthebot",
+    "provider": "lichess",
+    "username": "DazzlerTheBot",
+    "firstSeen": 1616347301140,
+    "lastSeen": 1616351234013,
+    "firstSeenTime": "5:21:41 PM",
+    "lastSeenTime": "5:54:10 PM",
+    "onlineDurationMins": 32.49185
+  },
+  "robociech@lichess": {
+    "id": "robociech",
+    "provider": "lichess",
+    "username": "Robociech",
+    "firstSeen": 1616348999406,
+    "lastSeen": 1616351113784,
+    "firstSeenTime": "5:49:59 PM",
+    "lastSeenTime": "5:50:35 PM",
+    "onlineDurationMins": 0.6082
+  },
+  "maskgun@lichess": {
+    "id": "maskgun",
+    "provider": "lichess",
+    "username": "MaskGun",
+    "firstSeen": 1616350766135,
+    "lastSeen": 1616351299410
+  }
+}
