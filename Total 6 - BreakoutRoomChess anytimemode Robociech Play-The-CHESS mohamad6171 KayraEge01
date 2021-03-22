@@ -1,0 +1,59 @@
+{
+  "breakoutroomchess@lichess": {
+    "id": "breakoutroomchess",
+    "provider": "lichess",
+    "username": "BreakoutRoomChess",
+    "firstSeen": 1616423610891,
+    "lastSeen": 1616425425110,
+    "firstSeenTime": "2:33:30 PM",
+    "lastSeenTime": "3:03:45 PM",
+    "onlineDurationMins": 30.236983333333335
+  },
+  "anytimemode@lichess": {
+    "id": "anytimemode",
+    "provider": "lichess",
+    "username": "anytimemode",
+    "firstSeen": 1616423630379,
+    "lastSeen": 1616425748641,
+    "firstSeenTime": "2:33:50 PM",
+    "lastSeenTime": "3:09:08 PM",
+    "onlineDurationMins": 35.30436666666667
+  },
+  "robociech@lichess": {
+    "id": "robociech",
+    "provider": "lichess",
+    "username": "Robociech",
+    "firstSeen": 1616424077675,
+    "lastSeen": 1616425435060,
+    "firstSeenTime": "2:41:17 PM",
+    "lastSeenTime": "3:03:55 PM",
+    "onlineDurationMins": 22.623083333333334
+  },
+  "play-the-chess@lichess": {
+    "id": "play-the-chess",
+    "provider": "lichess",
+    "username": "Play-The-CHESS",
+    "firstSeen": 1616424591355,
+    "lastSeen": 1616424951459,
+    "firstSeenTime": "2:49:51 PM",
+    "lastSeenTime": "2:55:51 PM",
+    "onlineDurationMins": 6.001733333333333
+  },
+  "mohamad6171@lichess": {
+    "id": "mohamad6171",
+    "provider": "lichess",
+    "username": "mohamad6171",
+    "firstSeen": 1616425589872,
+    "lastSeen": 1616425779454,
+    "firstSeenTime": "3:06:29 PM",
+    "lastSeenTime": "3:09:39 PM",
+    "onlineDurationMins": 3.1597
+  },
+  "kayraege01@lichess": {
+    "id": "kayraege01",
+    "provider": "lichess",
+    "username": "KayraEge01",
+    "firstSeen": 1616425837044,
+    "lastSeen": 1616425837044
+  }
+}
