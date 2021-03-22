@@ -1,0 +1,29 @@
+{
+  "anytimemode@lichess": {
+    "id": "anytimemode",
+    "provider": "lichess",
+    "username": "anytimemode",
+    "firstSeen": 1616429544755,
+    "lastSeen": 1616432086520,
+    "firstSeenTime": "4:12:24 PM",
+    "lastSeenTime": "4:54:46 PM",
+    "onlineDurationMins": 42.36275
+  },
+  "kaancolakoglu@lichess": {
+    "id": "kaancolakoglu",
+    "provider": "lichess",
+    "username": "kaancolakoglu",
+    "firstSeen": 1616431708096,
+    "lastSeen": 1616431709990,
+    "firstSeenTime": "4:48:28 PM",
+    "lastSeenTime": "4:48:29 PM",
+    "onlineDurationMins": 0.031566666666666666
+  },
+  "tuxbot11000@lichess": {
+    "id": "tuxbot11000",
+    "provider": "lichess",
+    "username": "Tuxbot11000",
+    "firstSeen": 1616432541356,
+    "lastSeen": 1616432541356
+  }
+}
