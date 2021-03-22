@@ -1,0 +1,16 @@
+{
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1616410519427,
+    "lastSeen": 1616410529910
+  },
+  "st0ckfish-bot@lichess": {
+    "id": "st0ckfish-bot",
+    "provider": "lichess",
+    "username": "ST0CKFISH-BOT",
+    "firstSeen": 1616410540593,
+    "lastSeen": 1616410540593
+  }
+}
