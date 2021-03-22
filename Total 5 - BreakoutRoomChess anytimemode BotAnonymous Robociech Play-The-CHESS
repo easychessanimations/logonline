@@ -1,0 +1,37 @@
+{
+  "breakoutroomchess@lichess": {
+    "id": "breakoutroomchess",
+    "provider": "lichess",
+    "username": "BreakoutRoomChess",
+    "firstSeen": 1616423610891,
+    "lastSeen": 1616425425110
+  },
+  "anytimemode@lichess": {
+    "id": "anytimemode",
+    "provider": "lichess",
+    "username": "anytimemode",
+    "firstSeen": 1616423630379,
+    "lastSeen": 1616425360692
+  },
+  "botanonymous@lichess": {
+    "id": "botanonymous",
+    "provider": "lichess",
+    "username": "BotAnonymous",
+    "firstSeen": 1616423700037,
+    "lastSeen": 1616424669349
+  },
+  "robociech@lichess": {
+    "id": "robociech",
+    "provider": "lichess",
+    "username": "Robociech",
+    "firstSeen": 1616424077675,
+    "lastSeen": 1616425435060
+  },
+  "play-the-chess@lichess": {
+    "id": "play-the-chess",
+    "provider": "lichess",
+    "username": "Play-The-CHESS",
+    "firstSeen": 1616424591355,
+    "lastSeen": 1616424951459
+  }
+}
