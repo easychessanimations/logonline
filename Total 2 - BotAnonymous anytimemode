@@ -1,0 +1,19 @@
+{
+  "botanonymous@lichess": {
+    "id": "botanonymous",
+    "provider": "lichess",
+    "username": "BotAnonymous",
+    "firstSeen": 1616428062464,
+    "lastSeen": 1616429474599,
+    "firstSeenTime": "3:47:42 PM",
+    "lastSeenTime": "4:00:34 PM",
+    "onlineDurationMins": 12.87545
+  },
+  "anytimemode@lichess": {
+    "id": "anytimemode",
+    "provider": "lichess",
+    "username": "anytimemode",
+    "firstSeen": 1616429544755,
+    "lastSeen": 1616429544755
+  }
+}
