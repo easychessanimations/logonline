@@ -1,0 +1,23 @@
+{
+  "botanonymous@lichess": {
+    "id": "botanonymous",
+    "provider": "lichess",
+    "username": "BotAnonymous",
+    "firstSeen": 1616463008431,
+    "lastSeen": 1616465005351
+  },
+  "scholastic_chess_bot@lichess": {
+    "id": "scholastic_chess_bot",
+    "provider": "lichess",
+    "username": "Scholastic_Chess_Bot",
+    "firstSeen": 1616463981754,
+    "lastSeen": 1616465308165
+  },
+  "nicetohityou2000@lichess": {
+    "id": "nicetohityou2000",
+    "provider": "lichess",
+    "username": "NiceToHitYou2000",
+    "firstSeen": 1616465402831,
+    "lastSeen": 1616465402832
+  }
+}
