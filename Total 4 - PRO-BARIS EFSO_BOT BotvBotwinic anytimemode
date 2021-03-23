@@ -1,0 +1,36 @@
+{
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1616476827239,
+    "lastSeen": 1616484619083,
+    "firstSeenTime": "5:20:27 AM",
+    "lastSeenTime": "6:57:19 AM",
+    "onlineDurationMins": 96.86493333333334
+  },
+  "efso_bot@lichess": {
+    "id": "efso_bot",
+    "provider": "lichess",
+    "username": "EFSO_BOT",
+    "firstSeen": 1616477535563,
+    "lastSeen": 1616484700312,
+    "firstSeenTime": "5:32:15 AM",
+    "lastSeenTime": "6:56:40 AM",
+    "onlineDurationMins": 84.41813333333333
+  },
+  "botvbotwinic@lichess": {
+    "id": "botvbotwinic",
+    "provider": "lichess",
+    "username": "BotvBotwinic",
+    "firstSeen": 1616483390017,
+    "lastSeen": 1616484069292
+  },
+  "anytimemode@lichess": {
+    "id": "anytimemode",
+    "provider": "lichess",
+    "username": "anytimemode",
+    "firstSeen": 1616484098198,
+    "lastSeen": 1616484770053
+  }
+}
