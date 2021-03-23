@@ -1,0 +1,16 @@
+{
+  "botanonymous@lichess": {
+    "id": "botanonymous",
+    "provider": "lichess",
+    "username": "BotAnonymous",
+    "firstSeen": 1616463008431,
+    "lastSeen": 1616463615928
+  },
+  "scholastic_chess_bot@lichess": {
+    "id": "scholastic_chess_bot",
+    "provider": "lichess",
+    "username": "Scholastic_Chess_Bot",
+    "firstSeen": 1616463981754,
+    "lastSeen": 1616463981755
+  }
+}
