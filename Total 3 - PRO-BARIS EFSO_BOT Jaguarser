@@ -1,0 +1,29 @@
+{
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1616476827239,
+    "lastSeen": 1616481975697,
+    "firstSeenTime": "5:20:27 AM",
+    "lastSeenTime": "6:46:15 AM",
+    "onlineDurationMins": 85.80763333333333
+  },
+  "efso_bot@lichess": {
+    "id": "efso_bot",
+    "provider": "lichess",
+    "username": "EFSO_BOT",
+    "firstSeen": 1616477535563,
+    "lastSeen": 1616481938420,
+    "firstSeenTime": "5:32:15 AM",
+    "lastSeenTime": "6:45:38 AM",
+    "onlineDurationMins": 73.38095
+  },
+  "jaguarser@lichess": {
+    "id": "jaguarser",
+    "provider": "lichess",
+    "username": "Jaguarser",
+    "firstSeen": 1616482343772,
+    "lastSeen": 1616482343772
+  }
+}
