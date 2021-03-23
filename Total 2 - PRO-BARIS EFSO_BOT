@@ -4,13 +4,19 @@
     "provider": "lichess",
     "username": "PRO-BARIS",
     "firstSeen": 1616476827239,
-    "lastSeen": 1616478252463
+    "lastSeen": 1616479999123,
+    "firstSeenTime": "5:20:27 AM",
+    "lastSeenTime": "6:13:19 AM",
+    "onlineDurationMins": 52.864733333333334
   },
   "efso_bot@lichess": {
     "id": "efso_bot",
     "provider": "lichess",
     "username": "EFSO_BOT",
     "firstSeen": 1616477535563,
-    "lastSeen": 1616478549876
+    "lastSeen": 1616480061931,
+    "firstSeenTime": "5:32:15 AM",
+    "lastSeenTime": "6:01:28 AM",
+    "onlineDurationMins": 29.213666666666665
   }
 }
