@@ -1,0 +1,26 @@
+{
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1616476827239,
+    "lastSeen": 1616485455726,
+    "firstSeenTime": "5:20:27 AM",
+    "lastSeenTime": "6:57:19 AM",
+    "onlineDurationMins": 96.86493333333334
+  },
+  "botvbotwinic@lichess": {
+    "id": "botvbotwinic",
+    "provider": "lichess",
+    "username": "BotvBotwinic",
+    "firstSeen": 1616483390017,
+    "lastSeen": 1616485576499
+  },
+  "anytimemode@lichess": {
+    "id": "anytimemode",
+    "provider": "lichess",
+    "username": "anytimemode",
+    "firstSeen": 1616484098198,
+    "lastSeen": 1616485507556
+  }
+}
