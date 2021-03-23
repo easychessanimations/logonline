@@ -1,0 +1,37 @@
+{
+  "justanother_bot@lichess": {
+    "id": "justanother_bot",
+    "provider": "lichess",
+    "username": "JustAnother_BOT",
+    "firstSeen": 1616516732019,
+    "lastSeen": 1616522345790
+  },
+  "miegsbot@lichess": {
+    "id": "miegsbot",
+    "provider": "lichess",
+    "username": "MiegsBOT",
+    "firstSeen": 1616519785515,
+    "lastSeen": 1616522011581
+  },
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "KillerXX3000",
+    "firstSeen": 1616522034342,
+    "lastSeen": 1616522050120
+  },
+  "fastestcheckmate@lichess": {
+    "id": "fastestcheckmate",
+    "provider": "lichess",
+    "username": "FastestCheckmate",
+    "firstSeen": 1616522452039,
+    "lastSeen": 1616522480474
+  },
+  "pranavbobbysekharbot@lichess": {
+    "id": "pranavbobbysekharbot",
+    "provider": "lichess",
+    "username": "PranavBobbySekharBot",
+    "firstSeen": 1616522686483,
+    "lastSeen": 1616522686483
+  }
+}
