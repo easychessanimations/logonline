@@ -1,0 +1,26 @@
+{
+  "justanother_bot@lichess": {
+    "id": "justanother_bot",
+    "provider": "lichess",
+    "username": "JustAnother_BOT",
+    "firstSeen": 1616535557738,
+    "lastSeen": 1616539091566,
+    "firstSeenTime": "9:39:17 PM",
+    "lastSeenTime": "9:51:17 PM",
+    "onlineDurationMins": 11.9993
+  },
+  "squibbler@lichess": {
+    "id": "squibbler",
+    "provider": "lichess",
+    "username": "squibbler",
+    "firstSeen": 1616538548739,
+    "lastSeen": 1616538685066
+  },
+  "thatgiy@lichess": {
+    "id": "thatgiy",
+    "provider": "lichess",
+    "username": "ThatgIY",
+    "firstSeen": 1616539547500,
+    "lastSeen": 1616539547500
+  }
+}
