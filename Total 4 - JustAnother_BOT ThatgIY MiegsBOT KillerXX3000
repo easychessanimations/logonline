@@ -1,0 +1,33 @@
+{
+  "justanother_bot@lichess": {
+    "id": "justanother_bot",
+    "provider": "lichess",
+    "username": "JustAnother_BOT",
+    "firstSeen": 1616535557738,
+    "lastSeen": 1616539091566,
+    "firstSeenTime": "9:39:17 PM",
+    "lastSeenTime": "9:51:17 PM",
+    "onlineDurationMins": 11.9993
+  },
+  "thatgiy@lichess": {
+    "id": "thatgiy",
+    "provider": "lichess",
+    "username": "ThatgIY",
+    "firstSeen": 1616539547500,
+    "lastSeen": 1616539647633
+  },
+  "miegsbot@lichess": {
+    "id": "miegsbot",
+    "provider": "lichess",
+    "username": "MiegsBOT",
+    "firstSeen": 1616539652582,
+    "lastSeen": 1616539655995
+  },
+  "killerxx3000@lichess": {
+    "id": "killerxx3000",
+    "provider": "lichess",
+    "username": "KillerXX3000",
+    "firstSeen": 1616539686370,
+    "lastSeen": 1616539686371
+  }
+}
