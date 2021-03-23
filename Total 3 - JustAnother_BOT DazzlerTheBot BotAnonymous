@@ -1,0 +1,23 @@
+{
+  "justanother_bot@lichess": {
+    "id": "justanother_bot",
+    "provider": "lichess",
+    "username": "JustAnother_BOT",
+    "firstSeen": 1616452312730,
+    "lastSeen": 1616462424812
+  },
+  "dazzlerthebot@lichess": {
+    "id": "dazzlerthebot",
+    "provider": "lichess",
+    "username": "DazzlerTheBot",
+    "firstSeen": 1616458104422,
+    "lastSeen": 1616462757211
+  },
+  "botanonymous@lichess": {
+    "id": "botanonymous",
+    "provider": "lichess",
+    "username": "BotAnonymous",
+    "firstSeen": 1616463008431,
+    "lastSeen": 1616463008431
+  }
+}
