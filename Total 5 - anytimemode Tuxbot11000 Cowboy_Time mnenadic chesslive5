@@ -1,0 +1,43 @@
+{
+  "anytimemode@lichess": {
+    "id": "anytimemode",
+    "provider": "lichess",
+    "username": "anytimemode",
+    "firstSeen": 1616595145674,
+    "lastSeen": 1616608762102,
+    "firstSeenTime": "2:12:25 PM",
+    "lastSeenTime": "2:45:25 PM",
+    "onlineDurationMins": 33.00118333333333
+  },
+  "tuxbot11000@lichess": {
+    "id": "tuxbot11000",
+    "provider": "lichess",
+    "username": "Tuxbot11000",
+    "firstSeen": 1616595791437,
+    "lastSeen": 1616609294228,
+    "firstSeenTime": "2:23:11 PM",
+    "lastSeenTime": "2:35:17 PM",
+    "onlineDurationMins": 12.100566666666667
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1616606668062,
+    "lastSeen": 1616609404104
+  },
+  "mnenadic@lichess": {
+    "id": "mnenadic",
+    "provider": "lichess",
+    "username": "mnenadic",
+    "firstSeen": 1616608515443,
+    "lastSeen": 1616608571485
+  },
+  "chesslive5@lichess": {
+    "id": "chesslive5",
+    "provider": "lichess",
+    "username": "chesslive5",
+    "firstSeen": 1616609270054,
+    "lastSeen": 1616609327923
+  }
+}
