@@ -1,0 +1,57 @@
+{
+  "anytimemode@lichess": {
+    "id": "anytimemode",
+    "provider": "lichess",
+    "username": "anytimemode",
+    "firstSeen": 1616595145674,
+    "lastSeen": 1616610253639,
+    "firstSeenTime": "2:12:25 PM",
+    "lastSeenTime": "2:45:25 PM",
+    "onlineDurationMins": 33.00118333333333
+  },
+  "tuxbot11000@lichess": {
+    "id": "tuxbot11000",
+    "provider": "lichess",
+    "username": "Tuxbot11000",
+    "firstSeen": 1616595791437,
+    "lastSeen": 1616610134093,
+    "firstSeenTime": "2:23:11 PM",
+    "lastSeenTime": "2:35:17 PM",
+    "onlineDurationMins": 12.100566666666667
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1616606668062,
+    "lastSeen": 1616610153915
+  },
+  "chesslive5@lichess": {
+    "id": "chesslive5",
+    "provider": "lichess",
+    "username": "chesslive5",
+    "firstSeen": 1616609270054,
+    "lastSeen": 1616610036872
+  },
+  "ahmetcanpro61@lichess": {
+    "id": "ahmetcanpro61",
+    "provider": "lichess",
+    "username": "ahmetcanpro61",
+    "firstSeen": 1616609605086,
+    "lastSeen": 1616609755686
+  },
+  "thebelarusianbot@lichess": {
+    "id": "thebelarusianbot",
+    "provider": "lichess",
+    "username": "TheBelarusianBOT",
+    "firstSeen": 1616609777002,
+    "lastSeen": 1616609969061
+  },
+  "legendarychessleader@lichess": {
+    "id": "legendarychessleader",
+    "provider": "lichess",
+    "username": "LegendaryChessLeader",
+    "firstSeen": 1616610320161,
+    "lastSeen": 1616610320161
+  }
+}
