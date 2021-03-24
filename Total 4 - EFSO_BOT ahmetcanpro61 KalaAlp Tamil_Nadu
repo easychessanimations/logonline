@@ -1,0 +1,39 @@
+{
+  "efso_bot@lichess": {
+    "id": "efso_bot",
+    "provider": "lichess",
+    "username": "EFSO_BOT",
+    "firstSeen": 1616564156503,
+    "lastSeen": 1616570080825,
+    "firstSeenTime": "5:35:56 AM",
+    "lastSeenTime": "7:03:40 AM",
+    "onlineDurationMins": 87.73946666666667
+  },
+  "ahmetcanpro61@lichess": {
+    "id": "ahmetcanpro61",
+    "provider": "lichess",
+    "username": "ahmetcanpro61",
+    "firstSeen": 1616568506495,
+    "lastSeen": 1616570008748,
+    "firstSeenTime": "6:48:26 AM",
+    "lastSeenTime": "7:13:28 AM",
+    "onlineDurationMins": 25.03755
+  },
+  "kalaalp@lichess": {
+    "id": "kalaalp",
+    "provider": "lichess",
+    "username": "KalaAlp",
+    "firstSeen": 1616569939734,
+    "lastSeen": 1616570064686,
+    "firstSeenTime": "7:12:19 AM",
+    "lastSeenTime": "7:13:41 AM",
+    "onlineDurationMins": 1.3554666666666666
+  },
+  "tamil_nadu@lichess": {
+    "id": "tamil_nadu",
+    "provider": "lichess",
+    "username": "Tamil_Nadu",
+    "firstSeen": 1616570076489,
+    "lastSeen": 1616570202541
+  }
+}
