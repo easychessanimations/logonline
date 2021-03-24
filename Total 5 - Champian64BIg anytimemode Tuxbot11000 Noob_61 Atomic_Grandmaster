@@ -1,0 +1,49 @@
+{
+  "champian64big@lichess": {
+    "id": "champian64big",
+    "provider": "lichess",
+    "username": "Champian64BIg",
+    "firstSeen": 1616592146796,
+    "lastSeen": 1616596119683,
+    "firstSeenTime": "1:22:26 PM",
+    "lastSeenTime": "2:28:39 PM",
+    "onlineDurationMins": 66.21478333333333
+  },
+  "anytimemode@lichess": {
+    "id": "anytimemode",
+    "provider": "lichess",
+    "username": "anytimemode",
+    "firstSeen": 1616595145674,
+    "lastSeen": 1616595860990,
+    "firstSeenTime": "2:12:25 PM",
+    "lastSeenTime": "2:24:20 PM",
+    "onlineDurationMins": 11.921933333333333
+  },
+  "tuxbot11000@lichess": {
+    "id": "tuxbot11000",
+    "provider": "lichess",
+    "username": "Tuxbot11000",
+    "firstSeen": 1616595791437,
+    "lastSeen": 1616595801813,
+    "firstSeenTime": "2:23:11 PM",
+    "lastSeenTime": "2:23:21 PM",
+    "onlineDurationMins": 0.17293333333333333
+  },
+  "noob_61@lichess": {
+    "id": "noob_61",
+    "provider": "lichess",
+    "username": "Noob_61",
+    "firstSeen": 1616595870686,
+    "lastSeen": 1616596240419,
+    "firstSeenTime": "2:24:30 PM",
+    "lastSeenTime": "2:30:20 PM",
+    "onlineDurationMins": 5.8277
+  },
+  "atomic_grandmaster@lichess": {
+    "id": "atomic_grandmaster",
+    "provider": "lichess",
+    "username": "Atomic_Grandmaster",
+    "firstSeen": 1616596254755,
+    "lastSeen": 1616596262649
+  }
+}
