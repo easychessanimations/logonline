@@ -1,0 +1,63 @@
+{
+  "anytimemode@lichess": {
+    "id": "anytimemode",
+    "provider": "lichess",
+    "username": "anytimemode",
+    "firstSeen": 1616575318737,
+    "lastSeen": 1616580613701,
+    "firstSeenTime": "8:41:58 AM",
+    "lastSeenTime": "9:37:06 AM",
+    "onlineDurationMins": 55.12761666666667
+  },
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1616575495069,
+    "lastSeen": 1616580598591,
+    "firstSeenTime": "8:44:55 AM",
+    "lastSeenTime": "9:36:55 AM",
+    "onlineDurationMins": 52.00155
+  },
+  "pranavbobbysekharbot@lichess": {
+    "id": "pranavbobbysekharbot",
+    "provider": "lichess",
+    "username": "PranavBobbySekharBot",
+    "firstSeen": 1616578364384,
+    "lastSeen": 1616580600088,
+    "firstSeenTime": "9:32:44 AM",
+    "lastSeenTime": "9:37:10 AM",
+    "onlineDurationMins": 4.43525
+  },
+  "ahmetcanpro61@lichess": {
+    "id": "ahmetcanpro61",
+    "provider": "lichess",
+    "username": "ahmetcanpro61",
+    "firstSeen": 1616578619045,
+    "lastSeen": 1616580618678,
+    "firstSeenTime": "9:36:59 AM",
+    "lastSeenTime": "9:37:07 AM",
+    "onlineDurationMins": 0.14601666666666666
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1616580394349,
+    "lastSeen": 1616580461478
+  },
+  "efso_bot@lichess": {
+    "id": "efso_bot",
+    "provider": "lichess",
+    "username": "EFSO_BOT",
+    "firstSeen": 1616580613508,
+    "lastSeen": 1616580613508
+  },
+  "ilker-pro@lichess": {
+    "id": "ilker-pro",
+    "provider": "lichess",
+    "username": "ilker-pro",
+    "firstSeen": 1616580619955,
+    "lastSeen": 1616580619955
+  }
+}
