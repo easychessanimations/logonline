@@ -1,0 +1,46 @@
+{
+  "anytimemode@lichess": {
+    "id": "anytimemode",
+    "provider": "lichess",
+    "username": "anytimemode",
+    "firstSeen": 1616575318737,
+    "lastSeen": 1616587322473,
+    "firstSeenTime": "8:41:58 AM",
+    "lastSeenTime": "11:45:12 AM",
+    "onlineDurationMins": 183.22346666666667
+  },
+  "tuxbot11000@lichess": {
+    "id": "tuxbot11000",
+    "provider": "lichess",
+    "username": "Tuxbot11000",
+    "firstSeen": 1616581206636,
+    "lastSeen": 1616587209194,
+    "firstSeenTime": "10:20:06 AM",
+    "lastSeenTime": "11:45:09 AM",
+    "onlineDurationMins": 85.04453333333333
+  },
+  "pranavbobbysekharbot@lichess": {
+    "id": "pranavbobbysekharbot",
+    "provider": "lichess",
+    "username": "PranavBobbySekharBot",
+    "firstSeen": 1616585380946,
+    "lastSeen": 1616586950782,
+    "firstSeenTime": "11:29:40 AM",
+    "lastSeenTime": "11:45:36 AM",
+    "onlineDurationMins": 15.928683333333334
+  },
+  "schachjohnnys@lichess": {
+    "id": "schachjohnnys",
+    "provider": "lichess",
+    "username": "Schachjohnnys",
+    "firstSeen": 1616587349084,
+    "lastSeen": 1616587378857
+  },
+  "champian64big@lichess": {
+    "id": "champian64big",
+    "provider": "lichess",
+    "username": "Champian64BIg",
+    "firstSeen": 1616587400846,
+    "lastSeen": 1616587400846
+  }
+}
