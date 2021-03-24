@@ -1,0 +1,16 @@
+{
+  "bot_x@lichess": {
+    "id": "bot_x",
+    "provider": "lichess",
+    "username": "BOT_X",
+    "firstSeen": 1616582429231,
+    "lastSeen": 1616583813661
+  },
+  "chess_with_troll@lichess": {
+    "id": "chess_with_troll",
+    "provider": "lichess",
+    "username": "chess_with_troll",
+    "firstSeen": 1616584035944,
+    "lastSeen": 1616584035944
+  }
+}
