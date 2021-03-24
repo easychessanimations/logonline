@@ -1,0 +1,26 @@
+{
+  "efso_bot@lichess": {
+    "id": "efso_bot",
+    "provider": "lichess",
+    "username": "EFSO_BOT",
+    "firstSeen": 1616564156503,
+    "lastSeen": 1616571987811,
+    "firstSeenTime": "5:35:56 AM",
+    "lastSeenTime": "7:03:40 AM",
+    "onlineDurationMins": 87.73946666666667
+  },
+  "tamil_nadu@lichess": {
+    "id": "tamil_nadu",
+    "provider": "lichess",
+    "username": "Tamil_Nadu",
+    "firstSeen": 1616570076489,
+    "lastSeen": 1616571251963
+  },
+  "anytimemode@lichess": {
+    "id": "anytimemode",
+    "provider": "lichess",
+    "username": "anytimemode",
+    "firstSeen": 1616570375045,
+    "lastSeen": 1616571785847
+  }
+}
