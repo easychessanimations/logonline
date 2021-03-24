@@ -1,0 +1,42 @@
+{
+  "anytimemode@lichess": {
+    "id": "anytimemode",
+    "provider": "lichess",
+    "username": "anytimemode",
+    "firstSeen": 1616575318737,
+    "lastSeen": 1616586312145,
+    "firstSeenTime": "8:41:58 AM",
+    "lastSeenTime": "11:45:12 AM",
+    "onlineDurationMins": 183.22346666666667
+  },
+  "ahmetcanpro61@lichess": {
+    "id": "ahmetcanpro61",
+    "provider": "lichess",
+    "username": "ahmetcanpro61",
+    "firstSeen": 1616578619045,
+    "lastSeen": 1616585669743,
+    "firstSeenTime": "9:36:59 AM",
+    "lastSeenTime": "11:34:29 AM",
+    "onlineDurationMins": 117.51163333333334
+  },
+  "tuxbot11000@lichess": {
+    "id": "tuxbot11000",
+    "provider": "lichess",
+    "username": "Tuxbot11000",
+    "firstSeen": 1616581206636,
+    "lastSeen": 1616586309308,
+    "firstSeenTime": "10:20:06 AM",
+    "lastSeenTime": "11:45:09 AM",
+    "onlineDurationMins": 85.04453333333333
+  },
+  "pranavbobbysekharbot@lichess": {
+    "id": "pranavbobbysekharbot",
+    "provider": "lichess",
+    "username": "PranavBobbySekharBot",
+    "firstSeen": 1616585380946,
+    "lastSeen": 1616586336667,
+    "firstSeenTime": "11:29:40 AM",
+    "lastSeenTime": "11:45:36 AM",
+    "onlineDurationMins": 15.928683333333334
+  }
+}
