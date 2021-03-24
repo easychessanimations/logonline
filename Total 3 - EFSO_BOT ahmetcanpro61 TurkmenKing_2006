@@ -1,0 +1,29 @@
+{
+  "efso_bot@lichess": {
+    "id": "efso_bot",
+    "provider": "lichess",
+    "username": "EFSO_BOT",
+    "firstSeen": 1616564156503,
+    "lastSeen": 1616568985791,
+    "firstSeenTime": "5:35:56 AM",
+    "lastSeenTime": "6:56:25 AM",
+    "onlineDurationMins": 80.48813333333334
+  },
+  "ahmetcanpro61@lichess": {
+    "id": "ahmetcanpro61",
+    "provider": "lichess",
+    "username": "ahmetcanpro61",
+    "firstSeen": 1616568506495,
+    "lastSeen": 1616569225051,
+    "firstSeenTime": "6:48:26 AM",
+    "lastSeenTime": "6:59:49 AM",
+    "onlineDurationMins": 11.38895
+  },
+  "turkmenking_2006@lichess": {
+    "id": "turkmenking_2006",
+    "provider": "lichess",
+    "username": "TurkmenKing_2006",
+    "firstSeen": 1616569246398,
+    "lastSeen": 1616569246398
+  }
+}
