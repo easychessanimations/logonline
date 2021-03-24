@@ -1,0 +1,43 @@
+{
+  "anytimemode@lichess": {
+    "id": "anytimemode",
+    "provider": "lichess",
+    "username": "anytimemode",
+    "firstSeen": 1616595145674,
+    "lastSeen": 1616607321797,
+    "firstSeenTime": "2:12:25 PM",
+    "lastSeenTime": "2:45:25 PM",
+    "onlineDurationMins": 33.00118333333333
+  },
+  "tuxbot11000@lichess": {
+    "id": "tuxbot11000",
+    "provider": "lichess",
+    "username": "Tuxbot11000",
+    "firstSeen": 1616595791437,
+    "lastSeen": 1616607314161,
+    "firstSeenTime": "2:23:11 PM",
+    "lastSeenTime": "2:35:17 PM",
+    "onlineDurationMins": 12.100566666666667
+  },
+  "imaginebeingabot@lichess": {
+    "id": "imaginebeingabot",
+    "provider": "lichess",
+    "username": "imaginebeingabot",
+    "firstSeen": 1616604471604,
+    "lastSeen": 1616606986306
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1616606668062,
+    "lastSeen": 1616607307761
+  },
+  "paultheo2004@lichess": {
+    "id": "paultheo2004",
+    "provider": "lichess",
+    "username": "paultheo2004",
+    "firstSeen": 1616607421290,
+    "lastSeen": 1616607421290
+  }
+}
