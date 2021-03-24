@@ -1,0 +1,43 @@
+{
+  "anytimemode@lichess": {
+    "id": "anytimemode",
+    "provider": "lichess",
+    "username": "anytimemode",
+    "firstSeen": 1616595145674,
+    "lastSeen": 1616603243995,
+    "firstSeenTime": "2:12:25 PM",
+    "lastSeenTime": "2:45:25 PM",
+    "onlineDurationMins": 33.00118333333333
+  },
+  "tuxbot11000@lichess": {
+    "id": "tuxbot11000",
+    "provider": "lichess",
+    "username": "Tuxbot11000",
+    "firstSeen": 1616595791437,
+    "lastSeen": 1616603293752,
+    "firstSeenTime": "2:23:11 PM",
+    "lastSeenTime": "2:35:17 PM",
+    "onlineDurationMins": 12.100566666666667
+  },
+  "pranavbobbysekharbot@lichess": {
+    "id": "pranavbobbysekharbot",
+    "provider": "lichess",
+    "username": "PranavBobbySekharBot",
+    "firstSeen": 1616601808261,
+    "lastSeen": 1616603255756
+  },
+  "champian64big@lichess": {
+    "id": "champian64big",
+    "provider": "lichess",
+    "username": "Champian64BIg",
+    "firstSeen": 1616603545681,
+    "lastSeen": 1616603638537
+  },
+  "efso_bot@lichess": {
+    "id": "efso_bot",
+    "provider": "lichess",
+    "username": "EFSO_BOT",
+    "firstSeen": 1616603650153,
+    "lastSeen": 1616603650153
+  }
+}
