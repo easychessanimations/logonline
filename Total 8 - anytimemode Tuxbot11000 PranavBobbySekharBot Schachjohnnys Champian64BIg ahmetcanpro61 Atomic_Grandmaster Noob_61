@@ -1,0 +1,73 @@
+{
+  "anytimemode@lichess": {
+    "id": "anytimemode",
+    "provider": "lichess",
+    "username": "anytimemode",
+    "firstSeen": 1616575318737,
+    "lastSeen": 1616587692613,
+    "firstSeenTime": "8:41:58 AM",
+    "lastSeenTime": "12:02:02 PM",
+    "onlineDurationMins": 200.06226666666666
+  },
+  "tuxbot11000@lichess": {
+    "id": "tuxbot11000",
+    "provider": "lichess",
+    "username": "Tuxbot11000",
+    "firstSeen": 1616581206636,
+    "lastSeen": 1616587692451,
+    "firstSeenTime": "10:20:06 AM",
+    "lastSeenTime": "12:00:09 PM",
+    "onlineDurationMins": 100.04263333333333
+  },
+  "pranavbobbysekharbot@lichess": {
+    "id": "pranavbobbysekharbot",
+    "provider": "lichess",
+    "username": "PranavBobbySekharBot",
+    "firstSeen": 1616585380946,
+    "lastSeen": 1616587671232,
+    "firstSeenTime": "11:29:40 AM",
+    "lastSeenTime": "11:55:50 AM",
+    "onlineDurationMins": 26.163933333333333
+  },
+  "schachjohnnys@lichess": {
+    "id": "schachjohnnys",
+    "provider": "lichess",
+    "username": "Schachjohnnys",
+    "firstSeen": 1616587349084,
+    "lastSeen": 1616587673347,
+    "firstSeenTime": "12:02:29 PM",
+    "lastSeenTime": "12:02:58 PM",
+    "onlineDurationMins": 0.49621666666666664
+  },
+  "champian64big@lichess": {
+    "id": "champian64big",
+    "provider": "lichess",
+    "username": "Champian64BIg",
+    "firstSeen": 1616587400846,
+    "lastSeen": 1616587719892,
+    "firstSeenTime": "12:03:20 PM",
+    "lastSeenTime": "12:03:22 PM",
+    "onlineDurationMins": 0.034416666666666665
+  },
+  "ahmetcanpro61@lichess": {
+    "id": "ahmetcanpro61",
+    "provider": "lichess",
+    "username": "ahmetcanpro61",
+    "firstSeen": 1616587455889,
+    "lastSeen": 1616587465463
+  },
+  "atomic_grandmaster@lichess": {
+    "id": "atomic_grandmaster",
+    "provider": "lichess",
+    "username": "Atomic_Grandmaster",
+    "firstSeen": 1616587674284,
+    "lastSeen": 1616587740406
+  },
+  "noob_61@lichess": {
+    "id": "noob_61",
+    "provider": "lichess",
+    "username": "Noob_61",
+    "firstSeen": 1616587850798,
+    "lastSeen": 1616587850798
+  }
+}
