@@ -1,0 +1,59 @@
+{
+  "anytimemode@lichess": {
+    "id": "anytimemode",
+    "provider": "lichess",
+    "username": "anytimemode",
+    "firstSeen": 1616575318737,
+    "lastSeen": 1616576448518,
+    "firstSeenTime": "8:41:58 AM",
+    "lastSeenTime": "8:45:06 AM",
+    "onlineDurationMins": 3.1368833333333335
+  },
+  "pro-baris@lichess": {
+    "id": "pro-baris",
+    "provider": "lichess",
+    "username": "PRO-BARIS",
+    "firstSeen": 1616575495069,
+    "lastSeen": 1616576398303,
+    "firstSeenTime": "8:44:55 AM",
+    "lastSeenTime": "8:47:57 AM",
+    "onlineDurationMins": 3.0332666666666666
+  },
+  "efso_bot@lichess": {
+    "id": "efso_bot",
+    "provider": "lichess",
+    "username": "EFSO_BOT",
+    "firstSeen": 1616575497903,
+    "lastSeen": 1616576469268,
+    "firstSeenTime": "8:44:57 AM",
+    "lastSeenTime": "8:44:57 AM",
+    "onlineDurationMins": 0
+  },
+  "zeynepberencivil@lichess": {
+    "id": "zeynepberencivil",
+    "provider": "lichess",
+    "username": "zeynepberencivil",
+    "firstSeen": 1616575676102,
+    "lastSeen": 1616576508666,
+    "firstSeenTime": "8:47:56 AM",
+    "lastSeenTime": "8:48:47 AM",
+    "onlineDurationMins": 0.8614166666666667
+  },
+  "mrbotx@lichess": {
+    "id": "mrbotx",
+    "provider": "lichess",
+    "username": "MrBotX",
+    "firstSeen": 1616575762241,
+    "lastSeen": 1616576373782,
+    "firstSeenTime": "8:49:22 AM",
+    "lastSeenTime": "8:49:35 AM",
+    "onlineDurationMins": 0.21443333333333334
+  },
+  "noob_61@lichess": {
+    "id": "noob_61",
+    "provider": "lichess",
+    "username": "NOOB_61",
+    "firstSeen": 1616576509467,
+    "lastSeen": 1616576509467
+  }
+}
