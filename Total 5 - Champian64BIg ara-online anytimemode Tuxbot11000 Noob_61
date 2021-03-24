@@ -1,0 +1,49 @@
+{
+  "champian64big@lichess": {
+    "id": "champian64big",
+    "provider": "lichess",
+    "username": "Champian64BIg",
+    "firstSeen": 1616592146796,
+    "lastSeen": 1616595856849,
+    "firstSeenTime": "1:22:26 PM",
+    "lastSeenTime": "2:22:32 PM",
+    "onlineDurationMins": 60.0907
+  },
+  "ara-online@lichess": {
+    "id": "ara-online",
+    "provider": "lichess",
+    "username": "ara-online",
+    "firstSeen": 1616594929089,
+    "lastSeen": 1616595385519,
+    "firstSeenTime": "2:08:49 PM",
+    "lastSeenTime": "2:16:25 PM",
+    "onlineDurationMins": 7.607166666666667
+  },
+  "anytimemode@lichess": {
+    "id": "anytimemode",
+    "provider": "lichess",
+    "username": "anytimemode",
+    "firstSeen": 1616595145674,
+    "lastSeen": 1616595860990,
+    "firstSeenTime": "2:12:25 PM",
+    "lastSeenTime": "2:13:27 PM",
+    "onlineDurationMins": 1.0234833333333333
+  },
+  "tuxbot11000@lichess": {
+    "id": "tuxbot11000",
+    "provider": "lichess",
+    "username": "Tuxbot11000",
+    "firstSeen": 1616595791437,
+    "lastSeen": 1616595801813,
+    "firstSeenTime": "2:23:11 PM",
+    "lastSeenTime": "2:23:21 PM",
+    "onlineDurationMins": 0.17293333333333333
+  },
+  "noob_61@lichess": {
+    "id": "noob_61",
+    "provider": "lichess",
+    "username": "Noob_61",
+    "firstSeen": 1616595870686,
+    "lastSeen": 1616595870687
+  }
+}
