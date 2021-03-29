@@ -4,16 +4,19 @@
     "provider": "lichess",
     "username": "XXXTryandTryXXX",
     "firstSeen": 1617020657992,
-    "lastSeen": 1617031897634,
+    "lastSeen": 1617039977191,
     "firstSeenTime": "12:24:17 PM",
-    "lastSeenTime": "1:04:45 PM",
-    "onlineDurationMins": 40.45115
+    "lastSeenTime": "5:29:04 PM",
+    "onlineDurationMins": 304.76728333333335
   },
   "bot2000@lichess": {
     "id": "bot2000",
     "provider": "lichess",
     "username": "Bot2000",
-    "firstSeen": 1617031932858,
-    "lastSeen": 1617031932858
+    "firstSeen": 1617038866674,
+    "lastSeen": 1617040221935,
+    "firstSeenTime": "5:27:46 PM",
+    "lastSeenTime": "5:29:00 PM",
+    "onlineDurationMins": 1.2286666666666666
   }
 }
