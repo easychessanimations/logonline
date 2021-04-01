@@ -1,0 +1,22 @@
+{
+  "bot234@lichess": {
+    "id": "bot234",
+    "provider": "lichess",
+    "username": "BOT234",
+    "firstSeen": 1617278720921,
+    "lastSeen": 1617285504694,
+    "firstSeenTime": "12:05:20 PM",
+    "lastSeenTime": "1:58:24 PM",
+    "onlineDurationMins": 113.06288333333333
+  },
+  "abcd-bot@lichess": {
+    "id": "abcd-bot",
+    "provider": "lichess",
+    "username": "abcd-bot",
+    "firstSeen": 1617284990824,
+    "lastSeen": 1617285603993,
+    "firstSeenTime": "1:49:50 PM",
+    "lastSeenTime": "2:00:03 PM",
+    "onlineDurationMins": 10.219483333333333
+  }
+}
