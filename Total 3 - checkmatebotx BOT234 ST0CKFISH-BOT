@@ -1,0 +1,32 @@
+{
+  "checkmatebotx@lichess": {
+    "id": "checkmatebotx",
+    "provider": "lichess",
+    "username": "checkmatebotx",
+    "firstSeen": 1617273706118,
+    "lastSeen": 1617283958008,
+    "firstSeenTime": "10:41:46 AM",
+    "lastSeenTime": "1:32:38 PM",
+    "onlineDurationMins": 170.86483333333334
+  },
+  "bot234@lichess": {
+    "id": "bot234",
+    "provider": "lichess",
+    "username": "BOT234",
+    "firstSeen": 1617278720921,
+    "lastSeen": 1617283527637,
+    "firstSeenTime": "12:05:20 PM",
+    "lastSeenTime": "1:25:27 PM",
+    "onlineDurationMins": 80.11193333333334
+  },
+  "st0ckfish-bot@lichess": {
+    "id": "st0ckfish-bot",
+    "provider": "lichess",
+    "username": "ST0CKFISH-BOT",
+    "firstSeen": 1617283026372,
+    "lastSeen": 1617283603380,
+    "firstSeenTime": "1:17:06 PM",
+    "lastSeenTime": "1:26:43 PM",
+    "onlineDurationMins": 9.6168
+  }
+}
