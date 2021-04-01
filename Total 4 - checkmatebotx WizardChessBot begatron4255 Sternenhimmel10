@@ -1,0 +1,30 @@
+{
+  "checkmatebotx@lichess": {
+    "id": "checkmatebotx",
+    "provider": "lichess",
+    "username": "checkmatebotx",
+    "firstSeen": 1617296400098,
+    "lastSeen": 1617303132128
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1617299053704,
+    "lastSeen": 1617303124024
+  },
+  "begatron4255@lichess": {
+    "id": "begatron4255",
+    "provider": "lichess",
+    "username": "begatron4255",
+    "firstSeen": 1617301534306,
+    "lastSeen": 1617303229622
+  },
+  "sternenhimmel10@lichess": {
+    "id": "sternenhimmel10",
+    "provider": "lichess",
+    "username": "Sternenhimmel10",
+    "firstSeen": 1617302667492,
+    "lastSeen": 1617303531587
+  }
+}
