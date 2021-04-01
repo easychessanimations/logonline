@@ -1,0 +1,39 @@
+{
+  "checkmatebotx@lichess": {
+    "id": "checkmatebotx",
+    "provider": "lichess",
+    "username": "checkmatebotx",
+    "firstSeen": 1617273706118,
+    "lastSeen": 1617281232635,
+    "firstSeenTime": "10:41:46 AM",
+    "lastSeenTime": "12:47:12 PM",
+    "onlineDurationMins": 125.44195
+  },
+  "bot234@lichess": {
+    "id": "bot234",
+    "provider": "lichess",
+    "username": "BOT234",
+    "firstSeen": 1617278720921,
+    "lastSeen": 1617281543900,
+    "firstSeenTime": "12:05:20 PM",
+    "lastSeenTime": "12:52:23 PM",
+    "onlineDurationMins": 47.04965
+  },
+  "maddie2130@lichess": {
+    "id": "maddie2130",
+    "provider": "lichess",
+    "username": "maddie2130",
+    "firstSeen": 1617278760344,
+    "lastSeen": 1617280887898,
+    "firstSeenTime": "12:06:00 PM",
+    "lastSeenTime": "12:41:27 PM",
+    "onlineDurationMins": 35.45923333333333
+  },
+  "thebestchessengine@lichess": {
+    "id": "thebestchessengine",
+    "provider": "lichess",
+    "username": "TheBestChessEngine",
+    "firstSeen": 1617281644893,
+    "lastSeen": 1617281644893
+  }
+}
