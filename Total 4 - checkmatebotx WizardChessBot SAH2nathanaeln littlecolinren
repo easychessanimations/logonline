@@ -1,0 +1,30 @@
+{
+  "checkmatebotx@lichess": {
+    "id": "checkmatebotx",
+    "provider": "lichess",
+    "username": "checkmatebotx",
+    "firstSeen": 1617296400098,
+    "lastSeen": 1617304512020
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1617299053704,
+    "lastSeen": 1617305054978
+  },
+  "sah2nathanaeln@lichess": {
+    "id": "sah2nathanaeln",
+    "provider": "lichess",
+    "username": "SAH2nathanaeln",
+    "firstSeen": 1617304952966,
+    "lastSeen": 1617305066016
+  },
+  "littlecolinren@lichess": {
+    "id": "littlecolinren",
+    "provider": "lichess",
+    "username": "littlecolinren",
+    "firstSeen": 1617305095966,
+    "lastSeen": 1617305095966
+  }
+}
