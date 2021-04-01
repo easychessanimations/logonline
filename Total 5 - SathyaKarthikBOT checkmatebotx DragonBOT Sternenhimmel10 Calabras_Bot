@@ -1,0 +1,52 @@
+{
+  "sathyakarthikbot@lichess": {
+    "id": "sathyakarthikbot",
+    "provider": "lichess",
+    "username": "SathyaKarthikBOT",
+    "firstSeen": 1617268452152,
+    "lastSeen": 1617269682744,
+    "firstSeenTime": "9:14:12 AM",
+    "lastSeenTime": "9:34:42 AM",
+    "onlineDurationMins": 20.509866666666667
+  },
+  "checkmatebotx@lichess": {
+    "id": "checkmatebotx",
+    "provider": "lichess",
+    "username": "checkmatebotx",
+    "firstSeen": 1617269200736,
+    "lastSeen": 1617269891996,
+    "firstSeenTime": "9:26:40 AM",
+    "lastSeenTime": "9:35:26 AM",
+    "onlineDurationMins": 8.768766666666666
+  },
+  "dragonbot@lichess": {
+    "id": "dragonbot",
+    "provider": "lichess",
+    "username": "DragonBOT",
+    "firstSeen": 1617269225374,
+    "lastSeen": 1617269256885,
+    "firstSeenTime": "9:27:05 AM",
+    "lastSeenTime": "9:27:36 AM",
+    "onlineDurationMins": 0.5251833333333333
+  },
+  "sternenhimmel10@lichess": {
+    "id": "sternenhimmel10",
+    "provider": "lichess",
+    "username": "Sternenhimmel10",
+    "firstSeen": 1617269349252,
+    "lastSeen": 1617269451556,
+    "firstSeenTime": "9:29:09 AM",
+    "lastSeenTime": "9:30:51 AM",
+    "onlineDurationMins": 1.7050666666666667
+  },
+  "calabras_bot@lichess": {
+    "id": "calabras_bot",
+    "provider": "lichess",
+    "username": "Calabras_Bot",
+    "firstSeen": 1617269524073,
+    "lastSeen": 1617269629136,
+    "firstSeenTime": "9:32:04 AM",
+    "lastSeenTime": "9:33:49 AM",
+    "onlineDurationMins": 1.75105
+  }
+}
