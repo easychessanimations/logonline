@@ -1,0 +1,29 @@
+{
+  "thebestchessengine@lichess": {
+    "id": "thebestchessengine",
+    "provider": "lichess",
+    "username": "TheBestChessEngine",
+    "firstSeen": 1617290990095,
+    "lastSeen": 1617291026234,
+    "firstSeenTime": "3:29:50 PM",
+    "lastSeenTime": "3:30:26 PM",
+    "onlineDurationMins": 0.6023166666666666
+  },
+  "chessonboard-bot@lichess": {
+    "id": "chessonboard-bot",
+    "provider": "lichess",
+    "username": "ChessOnBoard-BOT",
+    "firstSeen": 1617291027377,
+    "lastSeen": 1617291079286,
+    "firstSeenTime": "3:30:27 PM",
+    "lastSeenTime": "3:31:19 PM",
+    "onlineDurationMins": 0.86515
+  },
+  "sah2nathanaeln@lichess": {
+    "id": "sah2nathanaeln",
+    "provider": "lichess",
+    "username": "SAH2nathanaeln",
+    "firstSeen": 1617291450371,
+    "lastSeen": 1617291450371
+  }
+}
