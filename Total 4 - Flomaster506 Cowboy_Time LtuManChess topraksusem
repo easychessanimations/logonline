@@ -1,0 +1,39 @@
+{
+  "flomaster506@lichess": {
+    "id": "flomaster506",
+    "provider": "lichess",
+    "username": "Flomaster506",
+    "firstSeen": 1617373634861,
+    "lastSeen": 1617388433980,
+    "firstSeenTime": "2:27:14 PM",
+    "lastSeenTime": "6:33:53 PM",
+    "onlineDurationMins": 246.65198333333333
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1617387299937,
+    "lastSeen": 1617388201126,
+    "firstSeenTime": "6:14:59 PM",
+    "lastSeenTime": "6:30:01 PM",
+    "onlineDurationMins": 15.019816666666667
+  },
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1617387681843,
+    "lastSeen": 1617388394232,
+    "firstSeenTime": "6:21:21 PM",
+    "lastSeenTime": "6:33:14 PM",
+    "onlineDurationMins": 11.87315
+  },
+  "topraksusem@lichess": {
+    "id": "topraksusem",
+    "provider": "lichess",
+    "username": "topraksusem",
+    "firstSeen": 1617388808122,
+    "lastSeen": 1617388808122
+  }
+}
