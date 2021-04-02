@@ -1,0 +1,52 @@
+{
+  "checkmatebotx@lichess": {
+    "id": "checkmatebotx",
+    "provider": "lichess",
+    "username": "checkmatebotx",
+    "firstSeen": 1617335322006,
+    "lastSeen": 1617358443467,
+    "firstSeenTime": "3:48:42 AM",
+    "lastSeenTime": "10:14:03 AM",
+    "onlineDurationMins": 385.35768333333334
+  },
+  "chessonboard-bot@lichess": {
+    "id": "chessonboard-bot",
+    "provider": "lichess",
+    "username": "ChessOnBoard-BOT",
+    "firstSeen": 1617354566655,
+    "lastSeen": 1617358468261,
+    "firstSeenTime": "9:09:26 AM",
+    "lastSeenTime": "10:14:28 AM",
+    "onlineDurationMins": 65.02676666666666
+  },
+  "kayraege01@lichess": {
+    "id": "kayraege01",
+    "provider": "lichess",
+    "username": "KayraEge01",
+    "firstSeen": 1617357791322,
+    "lastSeen": 1617358439913,
+    "firstSeenTime": "10:03:11 AM",
+    "lastSeenTime": "10:13:59 AM",
+    "onlineDurationMins": 10.80985
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1617358404275,
+    "lastSeen": 1617358413588,
+    "firstSeenTime": "10:13:24 AM",
+    "lastSeenTime": "10:13:33 AM",
+    "onlineDurationMins": 0.15521666666666667
+  },
+  "tbb-thebigben@lichess": {
+    "id": "tbb-thebigben",
+    "provider": "lichess",
+    "username": "TBB-TheBigBen",
+    "firstSeen": 1617358461581,
+    "lastSeen": 1617358477026,
+    "firstSeenTime": "10:14:21 AM",
+    "lastSeenTime": "10:14:37 AM",
+    "onlineDurationMins": 0.2574166666666667
+  }
+}
