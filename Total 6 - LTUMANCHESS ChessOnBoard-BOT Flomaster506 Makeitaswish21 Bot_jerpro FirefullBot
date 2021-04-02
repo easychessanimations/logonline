@@ -1,0 +1,44 @@
+{
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LTUMANCHESS",
+    "firstSeen": 1617368286550,
+    "lastSeen": 1617376395596
+  },
+  "chessonboard-bot@lichess": {
+    "id": "chessonboard-bot",
+    "provider": "lichess",
+    "username": "ChessOnBoard-BOT",
+    "firstSeen": 1617371349955,
+    "lastSeen": 1617376475387
+  },
+  "flomaster506@lichess": {
+    "id": "flomaster506",
+    "provider": "lichess",
+    "username": "Flomaster506",
+    "firstSeen": 1617373634861,
+    "lastSeen": 1617376565188
+  },
+  "makeitaswish21@lichess": {
+    "id": "makeitaswish21",
+    "provider": "lichess",
+    "username": "Makeitaswish21",
+    "firstSeen": 1617373917062,
+    "lastSeen": 1617376211734
+  },
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1617376257852,
+    "lastSeen": 1617376257878
+  },
+  "firefullbot@lichess": {
+    "id": "firefullbot",
+    "provider": "lichess",
+    "username": "FirefullBot",
+    "firstSeen": 1617376578523,
+    "lastSeen": 1617376582778
+  }
+}
