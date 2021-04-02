@@ -1,0 +1,32 @@
+{
+  "checkmatebotx@lichess": {
+    "id": "checkmatebotx",
+    "provider": "lichess",
+    "username": "checkmatebotx",
+    "firstSeen": 1617335322006,
+    "lastSeen": 1617355747249,
+    "firstSeenTime": "3:48:42 AM",
+    "lastSeenTime": "9:18:03 AM",
+    "onlineDurationMins": 329.35766666666666
+  },
+  "sathyakarthikbot@lichess": {
+    "id": "sathyakarthikbot",
+    "provider": "lichess",
+    "username": "SathyaKarthikBOT",
+    "firstSeen": 1617353479903,
+    "lastSeen": 1617355440821,
+    "firstSeenTime": "8:51:19 AM",
+    "lastSeenTime": "9:24:00 AM",
+    "onlineDurationMins": 32.68196666666667
+  },
+  "chessonboard-bot@lichess": {
+    "id": "chessonboard-bot",
+    "provider": "lichess",
+    "username": "ChessOnBoard-BOT",
+    "firstSeen": 1617354566655,
+    "lastSeen": 1617355740965,
+    "firstSeenTime": "9:09:26 AM",
+    "lastSeenTime": "9:24:28 AM",
+    "onlineDurationMins": 15.027533333333333
+  }
+}
