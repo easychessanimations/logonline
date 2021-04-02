@@ -1,0 +1,59 @@
+{
+  "checkmatebotx@lichess": {
+    "id": "checkmatebotx",
+    "provider": "lichess",
+    "username": "checkmatebotx",
+    "firstSeen": 1617335322006,
+    "lastSeen": 1617359894167,
+    "firstSeenTime": "3:48:42 AM",
+    "lastSeenTime": "10:38:14 AM",
+    "onlineDurationMins": 409.5360166666667
+  },
+  "chessonboard-bot@lichess": {
+    "id": "chessonboard-bot",
+    "provider": "lichess",
+    "username": "ChessOnBoard-BOT",
+    "firstSeen": 1617354566655,
+    "lastSeen": 1617360397487,
+    "firstSeenTime": "9:09:26 AM",
+    "lastSeenTime": "10:46:37 AM",
+    "onlineDurationMins": 97.18053333333333
+  },
+  "flomaster506@lichess": {
+    "id": "flomaster506",
+    "provider": "lichess",
+    "username": "Flomaster506",
+    "firstSeen": 1617358900329,
+    "lastSeen": 1617360578567,
+    "firstSeenTime": "10:21:40 AM",
+    "lastSeenTime": "10:49:38 AM",
+    "onlineDurationMins": 27.970633333333332
+  },
+  "beratyuksel4255@lichess": {
+    "id": "beratyuksel4255",
+    "provider": "lichess",
+    "username": "beratyuksel4255",
+    "firstSeen": 1617360469121,
+    "lastSeen": 1617360478018,
+    "firstSeenTime": "10:47:49 AM",
+    "lastSeenTime": "10:47:58 AM",
+    "onlineDurationMins": 0.14828333333333332
+  },
+  "begatron4255@lichess": {
+    "id": "begatron4255",
+    "provider": "lichess",
+    "username": "begatron4255",
+    "firstSeen": 1617360485732,
+    "lastSeen": 1617360593689,
+    "firstSeenTime": "10:48:05 AM",
+    "lastSeenTime": "10:49:51 AM",
+    "onlineDurationMins": 1.75495
+  },
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1617360596636,
+    "lastSeen": 1617360596636
+  }
+}
