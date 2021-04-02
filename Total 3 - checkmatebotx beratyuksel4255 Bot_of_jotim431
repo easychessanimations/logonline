@@ -1,0 +1,29 @@
+{
+  "checkmatebotx@lichess": {
+    "id": "checkmatebotx",
+    "provider": "lichess",
+    "username": "checkmatebotx",
+    "firstSeen": 1617335322006,
+    "lastSeen": 1617347946463,
+    "firstSeenTime": "3:48:42 AM",
+    "lastSeenTime": "7:19:06 AM",
+    "onlineDurationMins": 210.40761666666666
+  },
+  "beratyuksel4255@lichess": {
+    "id": "beratyuksel4255",
+    "provider": "lichess",
+    "username": "beratyuksel4255",
+    "firstSeen": 1617347879573,
+    "lastSeen": 1617347954696,
+    "firstSeenTime": "7:17:59 AM",
+    "lastSeenTime": "7:19:14 AM",
+    "onlineDurationMins": 1.25205
+  },
+  "bot_of_jotim431@lichess": {
+    "id": "bot_of_jotim431",
+    "provider": "lichess",
+    "username": "Bot_of_jotim431",
+    "firstSeen": 1617348402556,
+    "lastSeen": 1617348402556
+  }
+}
