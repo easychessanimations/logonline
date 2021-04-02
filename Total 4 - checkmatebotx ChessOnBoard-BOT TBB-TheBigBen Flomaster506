@@ -1,0 +1,42 @@
+{
+  "checkmatebotx@lichess": {
+    "id": "checkmatebotx",
+    "provider": "lichess",
+    "username": "checkmatebotx",
+    "firstSeen": 1617335322006,
+    "lastSeen": 1617359343646,
+    "firstSeenTime": "3:48:42 AM",
+    "lastSeenTime": "10:29:03 AM",
+    "onlineDurationMins": 400.36066666666665
+  },
+  "chessonboard-bot@lichess": {
+    "id": "chessonboard-bot",
+    "provider": "lichess",
+    "username": "ChessOnBoard-BOT",
+    "firstSeen": 1617354566655,
+    "lastSeen": 1617359449152,
+    "firstSeenTime": "9:09:26 AM",
+    "lastSeenTime": "10:30:49 AM",
+    "onlineDurationMins": 81.37495
+  },
+  "tbb-thebigben@lichess": {
+    "id": "tbb-thebigben",
+    "provider": "lichess",
+    "username": "TBB-TheBigBen",
+    "firstSeen": 1617358461581,
+    "lastSeen": 1617358899627,
+    "firstSeenTime": "10:14:21 AM",
+    "lastSeenTime": "10:21:39 AM",
+    "onlineDurationMins": 7.300766666666667
+  },
+  "flomaster506@lichess": {
+    "id": "flomaster506",
+    "provider": "lichess",
+    "username": "Flomaster506",
+    "firstSeen": 1617358900329,
+    "lastSeen": 1617359636944,
+    "firstSeenTime": "10:21:40 AM",
+    "lastSeenTime": "10:33:25 AM",
+    "onlineDurationMins": 11.752783333333333
+  }
+}
