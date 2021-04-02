@@ -1,0 +1,32 @@
+{
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LTUMANCHESS",
+    "firstSeen": 1617368286550,
+    "lastSeen": 1617385334221,
+    "firstSeenTime": "12:58:06 PM",
+    "lastSeenTime": "5:42:14 PM",
+    "onlineDurationMins": 284.12785
+  },
+  "flomaster506@lichess": {
+    "id": "flomaster506",
+    "provider": "lichess",
+    "username": "Flomaster506",
+    "firstSeen": 1617373634861,
+    "lastSeen": 1617385323929,
+    "firstSeenTime": "2:27:14 PM",
+    "lastSeenTime": "5:42:03 PM",
+    "onlineDurationMins": 194.8178
+  },
+  "sternenhimmel10@lichess": {
+    "id": "sternenhimmel10",
+    "provider": "lichess",
+    "username": "Sternenhimmel10",
+    "firstSeen": 1617380663714,
+    "lastSeen": 1617384669333,
+    "firstSeenTime": "4:24:23 PM",
+    "lastSeenTime": "5:31:09 PM",
+    "onlineDurationMins": 66.76031666666667
+  }
+}
