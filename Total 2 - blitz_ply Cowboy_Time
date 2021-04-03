@@ -1,0 +1,19 @@
+{
+  "blitz_ply@lichess": {
+    "id": "blitz_ply",
+    "provider": "lichess",
+    "username": "blitz_ply",
+    "firstSeen": 1617456677224,
+    "lastSeen": 1617461549304,
+    "firstSeenTime": "1:31:17 PM",
+    "lastSeenTime": "1:57:23 PM",
+    "onlineDurationMins": 26.097166666666666
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1617459600173,
+    "lastSeen": 1617461197867
+  }
+}
