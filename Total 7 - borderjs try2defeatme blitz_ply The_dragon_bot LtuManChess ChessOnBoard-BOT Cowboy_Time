@@ -1,0 +1,57 @@
+{
+  "borderjs@lichess": {
+    "id": "borderjs",
+    "provider": "lichess",
+    "username": "borderjs",
+    "firstSeen": 1617418062371,
+    "lastSeen": 1617446145997,
+    "firstSeenTime": "2:47:42 AM",
+    "lastSeenTime": "5:11:42 AM",
+    "onlineDurationMins": 144.00056666666666
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1617422722753,
+    "lastSeen": 1617446138748,
+    "firstSeenTime": "4:05:22 AM",
+    "lastSeenTime": "5:14:03 AM",
+    "onlineDurationMins": 68.67248333333333
+  },
+  "blitz_ply@lichess": {
+    "id": "blitz_ply",
+    "provider": "lichess",
+    "username": "blitz_ply",
+    "firstSeen": 1617438136733,
+    "lastSeen": 1617445525690
+  },
+  "the_dragon_bot@lichess": {
+    "id": "the_dragon_bot",
+    "provider": "lichess",
+    "username": "The_dragon_bot",
+    "firstSeen": 1617445268654,
+    "lastSeen": 1617446298552
+  },
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1617446162442,
+    "lastSeen": 1617446162442
+  },
+  "chessonboard-bot@lichess": {
+    "id": "chessonboard-bot",
+    "provider": "lichess",
+    "username": "ChessOnBoard-BOT",
+    "firstSeen": 1617446250854,
+    "lastSeen": 1617446301996
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1617446400103,
+    "lastSeen": 1617446400104
+  }
+}
