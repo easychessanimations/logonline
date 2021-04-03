@@ -1,0 +1,26 @@
+{
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1617422722753,
+    "lastSeen": 1617451278257,
+    "firstSeenTime": "4:05:22 AM",
+    "lastSeenTime": "5:14:03 AM",
+    "onlineDurationMins": 68.67248333333333
+  },
+  "sponsorchessbot@lichess": {
+    "id": "sponsorchessbot",
+    "provider": "lichess",
+    "username": "SponsorChessBot",
+    "firstSeen": 1617450300729,
+    "lastSeen": 1617451232287
+  },
+  "fast_dragon@lichess": {
+    "id": "fast_dragon",
+    "provider": "lichess",
+    "username": "FAST_DRAGON",
+    "firstSeen": 1617450342951,
+    "lastSeen": 1617451034229
+  }
+}
