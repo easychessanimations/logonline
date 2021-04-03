@@ -1,0 +1,19 @@
+{
+  "borderjs@lichess": {
+    "id": "borderjs",
+    "provider": "lichess",
+    "username": "borderjs",
+    "firstSeen": 1617418062371,
+    "lastSeen": 1617422025855,
+    "firstSeenTime": "2:47:42 AM",
+    "lastSeenTime": "3:42:42 AM",
+    "onlineDurationMins": 55.00026666666667
+  },
+  "checkmatebotx@lichess": {
+    "id": "checkmatebotx",
+    "provider": "lichess",
+    "username": "checkmatebotx",
+    "firstSeen": 1617422074453,
+    "lastSeen": 1617422074453
+  }
+}
