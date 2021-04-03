@@ -1,0 +1,19 @@
+{
+  "sponsorchessbot@lichess": {
+    "id": "sponsorchessbot",
+    "provider": "lichess",
+    "username": "SponsorChessBot",
+    "firstSeen": 1617453281256,
+    "lastSeen": 1617456141535,
+    "firstSeenTime": "12:34:41 PM",
+    "lastSeenTime": "1:22:21 PM",
+    "onlineDurationMins": 47.67131666666667
+  },
+  "blitz_ply@lichess": {
+    "id": "blitz_ply",
+    "provider": "lichess",
+    "username": "blitz_ply",
+    "firstSeen": 1617456677224,
+    "lastSeen": 1617456677224
+  }
+}
