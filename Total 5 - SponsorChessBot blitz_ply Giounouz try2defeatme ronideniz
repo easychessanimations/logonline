@@ -1,0 +1,40 @@
+{
+  "sponsorchessbot@lichess": {
+    "id": "sponsorchessbot",
+    "provider": "lichess",
+    "username": "SponsorChessBot",
+    "firstSeen": 1617453281256,
+    "lastSeen": 1617457462003,
+    "firstSeenTime": "12:34:41 PM",
+    "lastSeenTime": "1:22:21 PM",
+    "onlineDurationMins": 47.67131666666667
+  },
+  "blitz_ply@lichess": {
+    "id": "blitz_ply",
+    "provider": "lichess",
+    "username": "blitz_ply",
+    "firstSeen": 1617456677224,
+    "lastSeen": 1617457551694
+  },
+  "giounouz@lichess": {
+    "id": "giounouz",
+    "provider": "lichess",
+    "username": "Giounouz",
+    "firstSeen": 1617457495137,
+    "lastSeen": 1617457885404
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1617457587839,
+    "lastSeen": 1617457598825
+  },
+  "ronideniz@lichess": {
+    "id": "ronideniz",
+    "provider": "lichess",
+    "username": "ronideniz",
+    "firstSeen": 1617458047171,
+    "lastSeen": 1617458047171
+  }
+}
