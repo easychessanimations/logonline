@@ -4,26 +4,29 @@
     "provider": "lichess",
     "username": "borderjs",
     "firstSeen": 1617418062371,
-    "lastSeen": 1617422622571,
+    "lastSeen": 1617427362430,
     "firstSeenTime": "2:47:42 AM",
-    "lastSeenTime": "3:53:45 AM",
-    "onlineDurationMins": 66.05806666666666
+    "lastSeenTime": "5:11:42 AM",
+    "onlineDurationMins": 144.00056666666666
   },
   "checkmatebotx@lichess": {
     "id": "checkmatebotx",
     "provider": "lichess",
     "username": "checkmatebotx",
     "firstSeen": 1617422074453,
-    "lastSeen": 1617422088251,
+    "lastSeen": 1617427363632,
     "firstSeenTime": "3:54:34 AM",
-    "lastSeenTime": "3:54:48 AM",
-    "onlineDurationMins": 0.22996666666666668
+    "lastSeenTime": "5:11:41 AM",
+    "onlineDurationMins": 77.11283333333333
   },
   "try2defeatme@lichess": {
     "id": "try2defeatme",
     "provider": "lichess",
     "username": "try2defeatme",
     "firstSeen": 1617422722753,
-    "lastSeen": 1617422722754
+    "lastSeen": 1617427341623,
+    "firstSeenTime": "4:05:22 AM",
+    "lastSeenTime": "5:14:03 AM",
+    "onlineDurationMins": 68.67248333333333
   }
 }
