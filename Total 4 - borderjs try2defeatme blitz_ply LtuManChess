@@ -1,0 +1,36 @@
+{
+  "borderjs@lichess": {
+    "id": "borderjs",
+    "provider": "lichess",
+    "username": "borderjs",
+    "firstSeen": 1617418062371,
+    "lastSeen": 1617431322496,
+    "firstSeenTime": "2:47:42 AM",
+    "lastSeenTime": "5:11:42 AM",
+    "onlineDurationMins": 144.00056666666666
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1617422722753,
+    "lastSeen": 1617431313721,
+    "firstSeenTime": "4:05:22 AM",
+    "lastSeenTime": "5:14:03 AM",
+    "onlineDurationMins": 68.67248333333333
+  },
+  "blitz_ply@lichess": {
+    "id": "blitz_ply",
+    "provider": "lichess",
+    "username": "blitz_ply",
+    "firstSeen": 1617430178818,
+    "lastSeen": 1617430937769
+  },
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1617431440906,
+    "lastSeen": 1617431440906
+  }
+}
