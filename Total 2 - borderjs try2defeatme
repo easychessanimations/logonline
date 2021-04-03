@@ -1,0 +1,22 @@
+{
+  "borderjs@lichess": {
+    "id": "borderjs",
+    "provider": "lichess",
+    "username": "borderjs",
+    "firstSeen": 1617418062371,
+    "lastSeen": 1617446802639,
+    "firstSeenTime": "2:47:42 AM",
+    "lastSeenTime": "5:11:42 AM",
+    "onlineDurationMins": 144.00056666666666
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1617422722753,
+    "lastSeen": 1617446777723,
+    "firstSeenTime": "4:05:22 AM",
+    "lastSeenTime": "5:14:03 AM",
+    "onlineDurationMins": 68.67248333333333
+  }
+}
