@@ -1,0 +1,26 @@
+{
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1617462980240,
+    "lastSeen": 1617463681921,
+    "firstSeenTime": "3:16:20 PM",
+    "lastSeenTime": "3:24:39 PM",
+    "onlineDurationMins": 8.323533333333334
+  },
+  "sponsorchessbot@lichess": {
+    "id": "sponsorchessbot",
+    "provider": "lichess",
+    "username": "SponsorChessBot",
+    "firstSeen": 1617463803099,
+    "lastSeen": 1617463860711
+  },
+  "checkmatebotx@lichess": {
+    "id": "checkmatebotx",
+    "provider": "lichess",
+    "username": "checkmatebotx",
+    "firstSeen": 1617463924024,
+    "lastSeen": 1617463924024
+  }
+}
