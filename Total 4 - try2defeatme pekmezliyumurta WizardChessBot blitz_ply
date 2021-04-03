@@ -1,0 +1,33 @@
+{
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1617422722753,
+    "lastSeen": 1617453018266,
+    "firstSeenTime": "4:05:22 AM",
+    "lastSeenTime": "5:14:03 AM",
+    "onlineDurationMins": 68.67248333333333
+  },
+  "pekmezliyumurta@lichess": {
+    "id": "pekmezliyumurta",
+    "provider": "lichess",
+    "username": "pekmezliyumurta",
+    "firstSeen": 1617452144605,
+    "lastSeen": 1617452302580
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1617452354463,
+    "lastSeen": 1617452660607
+  },
+  "blitz_ply@lichess": {
+    "id": "blitz_ply",
+    "provider": "lichess",
+    "username": "blitz_ply",
+    "firstSeen": 1617452356494,
+    "lastSeen": 1617452509440
+  }
+}
