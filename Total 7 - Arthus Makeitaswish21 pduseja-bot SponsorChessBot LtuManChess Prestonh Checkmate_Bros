@@ -1,0 +1,72 @@
+{
+  "816556795023327264@discord": {
+    "id": "816556795023327264",
+    "provider": "discord",
+    "username": "Arthus",
+    "firstSeen": 1617542963900,
+    "lastSeen": 1617557296908,
+    "firstSeenTime": "1:29:23 PM",
+    "lastSeenTime": "5:28:16 PM",
+    "onlineDurationMins": 238.88346666666666
+  },
+  "makeitaswish21@lichess": {
+    "id": "makeitaswish21",
+    "provider": "lichess",
+    "username": "Makeitaswish21",
+    "firstSeen": 1617545434076,
+    "lastSeen": 1617557439024,
+    "firstSeenTime": "2:10:34 PM",
+    "lastSeenTime": "5:30:39 PM",
+    "onlineDurationMins": 200.08246666666668
+  },
+  "pduseja-bot@lichess": {
+    "id": "pduseja-bot",
+    "provider": "lichess",
+    "username": "pduseja-bot",
+    "firstSeen": 1617555178348,
+    "lastSeen": 1617557839499,
+    "firstSeenTime": "4:52:58 PM",
+    "lastSeenTime": "5:31:25 PM",
+    "onlineDurationMins": 38.45986666666667
+  },
+  "sponsorchessbot@lichess": {
+    "id": "sponsorchessbot",
+    "provider": "lichess",
+    "username": "SponsorChessBot",
+    "firstSeen": 1617556297402,
+    "lastSeen": 1617557817408,
+    "firstSeenTime": "5:11:37 PM",
+    "lastSeenTime": "5:30:45 PM",
+    "onlineDurationMins": 19.13768333333333
+  },
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1617557102062,
+    "lastSeen": 1617557765576,
+    "firstSeenTime": "5:25:02 PM",
+    "lastSeenTime": "5:31:18 PM",
+    "onlineDurationMins": 6.2735
+  },
+  "prestonh@lichess": {
+    "id": "prestonh",
+    "provider": "lichess",
+    "username": "Prestonh",
+    "firstSeen": 1617557103148,
+    "lastSeen": 1617557766474,
+    "firstSeenTime": "5:25:03 PM",
+    "lastSeenTime": "5:25:06 PM",
+    "onlineDurationMins": 0.056183333333333335
+  },
+  "checkmate_bros@lichess": {
+    "id": "checkmate_bros",
+    "provider": "lichess",
+    "username": "Checkmate_Bros",
+    "firstSeen": 1617557337178,
+    "lastSeen": 1617557350070,
+    "firstSeenTime": "5:28:57 PM",
+    "lastSeenTime": "5:29:10 PM",
+    "onlineDurationMins": 0.21486666666666668
+  }
+}
