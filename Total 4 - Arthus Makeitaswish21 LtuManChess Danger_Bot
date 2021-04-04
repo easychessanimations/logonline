@@ -1,0 +1,42 @@
+{
+  "816556795023327264@discord": {
+    "id": "816556795023327264",
+    "provider": "discord",
+    "username": "Arthus",
+    "firstSeen": 1617542963900,
+    "lastSeen": 1617548594639,
+    "firstSeenTime": "1:29:23 PM",
+    "lastSeenTime": "3:03:14 PM",
+    "onlineDurationMins": 93.84565
+  },
+  "makeitaswish21@lichess": {
+    "id": "makeitaswish21",
+    "provider": "lichess",
+    "username": "Makeitaswish21",
+    "firstSeen": 1617545434076,
+    "lastSeen": 1617548935405,
+    "firstSeenTime": "2:10:34 PM",
+    "lastSeenTime": "3:00:37 PM",
+    "onlineDurationMins": 50.05608333333333
+  },
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1617547479289,
+    "lastSeen": 1617548885282,
+    "firstSeenTime": "2:44:39 PM",
+    "lastSeenTime": "3:03:26 PM",
+    "onlineDurationMins": 18.77865
+  },
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1617548197100,
+    "lastSeen": 1617548202066,
+    "firstSeenTime": "2:56:37 PM",
+    "lastSeenTime": "2:56:42 PM",
+    "onlineDurationMins": 0.08276666666666667
+  }
+}
