@@ -1,0 +1,59 @@
+{
+  "816556795023327264@discord": {
+    "id": "816556795023327264",
+    "provider": "discord",
+    "username": "Arthus",
+    "firstSeen": 1617542963900,
+    "lastSeen": 1617564081486,
+    "firstSeenTime": "1:29:23 PM",
+    "lastSeenTime": "6:55:17 PM",
+    "onlineDurationMins": 325.89976666666666
+  },
+  "makeitaswish21@lichess": {
+    "id": "makeitaswish21",
+    "provider": "lichess",
+    "username": "Makeitaswish21",
+    "firstSeen": 1617545434076,
+    "lastSeen": 1617564104174,
+    "firstSeenTime": "2:10:34 PM",
+    "lastSeenTime": "6:46:34 PM",
+    "onlineDurationMins": 276.01335
+  },
+  "prestonh@lichess": {
+    "id": "prestonh",
+    "provider": "lichess",
+    "username": "Prestonh",
+    "firstSeen": 1617557103148,
+    "lastSeen": 1617563823187,
+    "firstSeenTime": "5:25:03 PM",
+    "lastSeenTime": "6:55:06 PM",
+    "onlineDurationMins": 90.0506
+  },
+  "kevyboy2010@lichess": {
+    "id": "kevyboy2010",
+    "provider": "lichess",
+    "username": "Kevyboy2010",
+    "firstSeen": 1617561752875,
+    "lastSeen": 1617564092768,
+    "firstSeenTime": "6:42:32 PM",
+    "lastSeenTime": "6:55:39 PM",
+    "onlineDurationMins": 13.106616666666667
+  },
+  "pduseja-bot@lichess": {
+    "id": "pduseja-bot",
+    "provider": "lichess",
+    "username": "pduseja-bot",
+    "firstSeen": 1617562423917,
+    "lastSeen": 1617564393397,
+    "firstSeenTime": "6:53:43 PM",
+    "lastSeenTime": "6:54:36 PM",
+    "onlineDurationMins": 0.8832666666666666
+  },
+  "sponsorchessbot@lichess": {
+    "id": "sponsorchessbot",
+    "provider": "lichess",
+    "username": "SponsorChessBot",
+    "firstSeen": 1617563864755,
+    "lastSeen": 1617563865168
+  }
+}
