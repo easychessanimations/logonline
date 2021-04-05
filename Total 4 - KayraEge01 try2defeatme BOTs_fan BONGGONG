@@ -1,0 +1,39 @@
+{
+  "kayraege01@lichess": {
+    "id": "kayraege01",
+    "provider": "lichess",
+    "username": "KayraEge01",
+    "firstSeen": 1617602245579,
+    "lastSeen": 1617607116296,
+    "firstSeenTime": "5:57:25 AM",
+    "lastSeenTime": "7:04:14 AM",
+    "onlineDurationMins": 66.81113333333333
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1617603150889,
+    "lastSeen": 1617607091454,
+    "firstSeenTime": "6:12:30 AM",
+    "lastSeenTime": "6:56:15 AM",
+    "onlineDurationMins": 43.73726666666666
+  },
+  "bots_fan@lichess": {
+    "id": "bots_fan",
+    "provider": "lichess",
+    "username": "BOTs_fan",
+    "firstSeen": 1617605508431,
+    "lastSeen": 1617607274357,
+    "firstSeenTime": "6:51:48 AM",
+    "lastSeenTime": "6:52:39 AM",
+    "onlineDurationMins": 0.8567166666666667
+  },
+  "bonggong@lichess": {
+    "id": "bonggong",
+    "provider": "lichess",
+    "username": "BONGGONG",
+    "firstSeen": 1617606396063,
+    "lastSeen": 1617607075192
+  }
+}
