@@ -1,0 +1,36 @@
+{
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1617603150889,
+    "lastSeen": 1617621660644,
+    "firstSeenTime": "6:12:30 AM",
+    "lastSeenTime": "10:24:15 AM",
+    "onlineDurationMins": 251.7442
+  },
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1617617995832,
+    "lastSeen": 1617620999681,
+    "firstSeenTime": "10:19:55 AM",
+    "lastSeenTime": "10:20:36 AM",
+    "onlineDurationMins": 0.6838666666666666
+  },
+  "sponsorchessbot@lichess": {
+    "id": "sponsorchessbot",
+    "provider": "lichess",
+    "username": "SponsorChessBot",
+    "firstSeen": 1617619983540,
+    "lastSeen": 1617621697389
+  },
+  "bot_of_jotim431@lichess": {
+    "id": "bot_of_jotim431",
+    "provider": "lichess",
+    "username": "Bot_of_jotim431",
+    "firstSeen": 1617621259742,
+    "lastSeen": 1617621313494
+  }
+}
