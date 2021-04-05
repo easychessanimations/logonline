@@ -1,0 +1,29 @@
+{
+  "kayraege01@lichess": {
+    "id": "kayraege01",
+    "provider": "lichess",
+    "username": "KayraEge01",
+    "firstSeen": 1617602245579,
+    "lastSeen": 1617603852817,
+    "firstSeenTime": "5:57:25 AM",
+    "lastSeenTime": "6:22:32 AM",
+    "onlineDurationMins": 25.113916666666668
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1617603150889,
+    "lastSeen": 1617603829426,
+    "firstSeenTime": "6:12:30 AM",
+    "lastSeenTime": "6:23:15 AM",
+    "onlineDurationMins": 10.738516666666667
+  },
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1617603870695,
+    "lastSeen": 1617603870695
+  }
+}
