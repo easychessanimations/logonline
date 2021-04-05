@@ -1,0 +1,33 @@
+{
+  "ghooost2173@lichess": {
+    "id": "ghooost2173",
+    "provider": "lichess",
+    "username": "ghooost2173",
+    "firstSeen": 1617630083588,
+    "lastSeen": 1617633252340,
+    "firstSeenTime": "1:41:23 PM",
+    "lastSeenTime": "1:43:44 PM",
+    "onlineDurationMins": 2.3561
+  },
+  "firebeans@lichess": {
+    "id": "firebeans",
+    "provider": "lichess",
+    "username": "FireBeans",
+    "firstSeen": 1617632354777,
+    "lastSeen": 1617633285842
+  },
+  "bot2000@lichess": {
+    "id": "bot2000",
+    "provider": "lichess",
+    "username": "Bot2000",
+    "firstSeen": 1617632581075,
+    "lastSeen": 1617632727754
+  },
+  "wizardchessbot@lichess": {
+    "id": "wizardchessbot",
+    "provider": "lichess",
+    "username": "WizardChessBot",
+    "firstSeen": 1617632775214,
+    "lastSeen": 1617632797805
+  }
+}
