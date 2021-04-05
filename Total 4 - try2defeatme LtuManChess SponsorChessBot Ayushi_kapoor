@@ -1,0 +1,36 @@
+{
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1617603150889,
+    "lastSeen": 1617620610162,
+    "firstSeenTime": "6:12:30 AM",
+    "lastSeenTime": "10:24:15 AM",
+    "onlineDurationMins": 251.7442
+  },
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1617617995832,
+    "lastSeen": 1617620701928,
+    "firstSeenTime": "10:19:55 AM",
+    "lastSeenTime": "10:20:36 AM",
+    "onlineDurationMins": 0.6838666666666666
+  },
+  "sponsorchessbot@lichess": {
+    "id": "sponsorchessbot",
+    "provider": "lichess",
+    "username": "SponsorChessBot",
+    "firstSeen": 1617619983540,
+    "lastSeen": 1617620425806
+  },
+  "ayushi_kapoor@lichess": {
+    "id": "ayushi_kapoor",
+    "provider": "lichess",
+    "username": "Ayushi_kapoor",
+    "firstSeen": 1617620241040,
+    "lastSeen": 1617620251037
+  }
+}
