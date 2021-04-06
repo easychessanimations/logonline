@@ -1,0 +1,82 @@
+{
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1617705333646,
+    "lastSeen": 1617712061602,
+    "firstSeenTime": "10:35:33 AM",
+    "lastSeenTime": "12:27:41 PM",
+    "onlineDurationMins": 112.1326
+  },
+  "botsky16@lichess": {
+    "id": "botsky16",
+    "provider": "lichess",
+    "username": "BotSky16",
+    "firstSeen": 1617707909171,
+    "lastSeen": 1617712052647,
+    "firstSeenTime": "11:18:29 AM",
+    "lastSeenTime": "12:27:32 PM",
+    "onlineDurationMins": 69.05793333333334
+  },
+  "g6g6g6g6g6@lichess": {
+    "id": "g6g6g6g6g6",
+    "provider": "lichess",
+    "username": "G6G6G6G6G6",
+    "firstSeen": 1617709419325,
+    "lastSeen": 1617712177268,
+    "firstSeenTime": "11:43:39 AM",
+    "lastSeenTime": "12:17:09 PM",
+    "onlineDurationMins": 33.501416666666664
+  },
+  "ronaldweasleybot@lichess": {
+    "id": "ronaldweasleybot",
+    "provider": "lichess",
+    "username": "RonaldWeasleyBot",
+    "firstSeen": 1617709941110,
+    "lastSeen": 1617711720540,
+    "firstSeenTime": "11:52:21 AM",
+    "lastSeenTime": "12:22:00 PM",
+    "onlineDurationMins": 29.657166666666665
+  },
+  "flomaster506@lichess": {
+    "id": "flomaster506",
+    "provider": "lichess",
+    "username": "Flomaster506",
+    "firstSeen": 1617710216397,
+    "lastSeen": 1617712142481,
+    "firstSeenTime": "11:56:56 AM",
+    "lastSeenTime": "12:29:02 PM",
+    "onlineDurationMins": 32.1014
+  },
+  "huahww123@lichess": {
+    "id": "huahww123",
+    "provider": "lichess",
+    "username": "huahww123",
+    "firstSeen": 1617710967732,
+    "lastSeen": 1617712092390,
+    "firstSeenTime": "12:09:27 PM",
+    "lastSeenTime": "12:28:12 PM",
+    "onlineDurationMins": 18.7443
+  },
+  "firebeans@lichess": {
+    "id": "firebeans",
+    "provider": "lichess",
+    "username": "FireBeans",
+    "firstSeen": 1617711049878,
+    "lastSeen": 1617711925638,
+    "firstSeenTime": "12:10:49 PM",
+    "lastSeenTime": "12:25:25 PM",
+    "onlineDurationMins": 14.596
+  },
+  "stockfish-level-6@lichess": {
+    "id": "stockfish-level-6",
+    "provider": "lichess",
+    "username": "Stockfish-level-6",
+    "firstSeen": 1617711372161,
+    "lastSeen": 1617711556182,
+    "firstSeenTime": "12:16:12 PM",
+    "lastSeenTime": "12:19:16 PM",
+    "onlineDurationMins": 3.0670166666666665
+  }
+}
