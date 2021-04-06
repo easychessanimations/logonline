@@ -1,0 +1,57 @@
+{
+  "nobody11892@lichess": {
+    "id": "nobody11892",
+    "provider": "lichess",
+    "username": "Nobody11892",
+    "firstSeen": 1617684323816,
+    "lastSeen": 1617697286996,
+    "firstSeenTime": "4:45:23 AM",
+    "lastSeenTime": "5:31:27 AM",
+    "onlineDurationMins": 46.058233333333334
+  },
+  "ufopro@lichess": {
+    "id": "ufopro",
+    "provider": "lichess",
+    "username": "ufopro",
+    "firstSeen": 1617687008064,
+    "lastSeen": 1617697306113,
+    "firstSeenTime": "5:30:08 AM",
+    "lastSeenTime": "5:36:24 AM",
+    "onlineDurationMins": 6.276866666666667
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1617692323284,
+    "lastSeen": 1617697117895
+  },
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1617694205788,
+    "lastSeen": 1617697312149
+  },
+  "sponsorchessbot@lichess": {
+    "id": "sponsorchessbot",
+    "provider": "lichess",
+    "username": "SponsorChessBot",
+    "firstSeen": 1617695570122,
+    "lastSeen": 1617697247039
+  },
+  "ronaldweasleybot@lichess": {
+    "id": "ronaldweasleybot",
+    "provider": "lichess",
+    "username": "RonaldWeasleyBot",
+    "firstSeen": 1617697246696,
+    "lastSeen": 1617697256315
+  },
+  "rapidchessbot@lichess": {
+    "id": "rapidchessbot",
+    "provider": "lichess",
+    "username": "RapidChessBOT",
+    "firstSeen": 1617697376484,
+    "lastSeen": 1617697376484
+  }
+}
