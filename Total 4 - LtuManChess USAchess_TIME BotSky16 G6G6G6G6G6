@@ -1,0 +1,42 @@
+{
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1617694205788,
+    "lastSeen": 1617708948872,
+    "firstSeenTime": "7:30:05 AM",
+    "lastSeenTime": "11:35:48 AM",
+    "onlineDurationMins": 245.71806666666666
+  },
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1617705333646,
+    "lastSeen": 1617709310970,
+    "firstSeenTime": "10:35:33 AM",
+    "lastSeenTime": "11:41:50 AM",
+    "onlineDurationMins": 66.28873333333334
+  },
+  "botsky16@lichess": {
+    "id": "botsky16",
+    "provider": "lichess",
+    "username": "BotSky16",
+    "firstSeen": 1617707909171,
+    "lastSeen": 1617709232501,
+    "firstSeenTime": "11:18:29 AM",
+    "lastSeenTime": "11:40:32 AM",
+    "onlineDurationMins": 22.0555
+  },
+  "g6g6g6g6g6@lichess": {
+    "id": "g6g6g6g6g6",
+    "provider": "lichess",
+    "username": "G6G6G6G6G6",
+    "firstSeen": 1617709419325,
+    "lastSeen": 1617709423084,
+    "firstSeenTime": "11:43:39 AM",
+    "lastSeenTime": "11:43:43 AM",
+    "onlineDurationMins": 0.06265
+  }
+}
