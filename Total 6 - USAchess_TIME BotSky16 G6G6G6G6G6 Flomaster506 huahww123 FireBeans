@@ -1,0 +1,62 @@
+{
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1617705333646,
+    "lastSeen": 1617712061602,
+    "firstSeenTime": "10:35:33 AM",
+    "lastSeenTime": "12:27:41 PM",
+    "onlineDurationMins": 112.1326
+  },
+  "botsky16@lichess": {
+    "id": "botsky16",
+    "provider": "lichess",
+    "username": "BotSky16",
+    "firstSeen": 1617707909171,
+    "lastSeen": 1617712529342,
+    "firstSeenTime": "11:18:29 AM",
+    "lastSeenTime": "12:35:29 PM",
+    "onlineDurationMins": 77.00285
+  },
+  "g6g6g6g6g6@lichess": {
+    "id": "g6g6g6g6g6",
+    "provider": "lichess",
+    "username": "G6G6G6G6G6",
+    "firstSeen": 1617709419325,
+    "lastSeen": 1617712177268,
+    "firstSeenTime": "11:43:39 AM",
+    "lastSeenTime": "12:29:37 PM",
+    "onlineDurationMins": 45.965716666666665
+  },
+  "flomaster506@lichess": {
+    "id": "flomaster506",
+    "provider": "lichess",
+    "username": "Flomaster506",
+    "firstSeen": 1617710216397,
+    "lastSeen": 1617712559730,
+    "firstSeenTime": "11:56:56 AM",
+    "lastSeenTime": "12:35:59 PM",
+    "onlineDurationMins": 39.05555
+  },
+  "huahww123@lichess": {
+    "id": "huahww123",
+    "provider": "lichess",
+    "username": "huahww123",
+    "firstSeen": 1617710967732,
+    "lastSeen": 1617712634317,
+    "firstSeenTime": "12:09:27 PM",
+    "lastSeenTime": "12:36:05 PM",
+    "onlineDurationMins": 26.634566666666668
+  },
+  "firebeans@lichess": {
+    "id": "firebeans",
+    "provider": "lichess",
+    "username": "FireBeans",
+    "firstSeen": 1617711049878,
+    "lastSeen": 1617712369772,
+    "firstSeenTime": "12:10:49 PM",
+    "lastSeenTime": "12:32:49 PM",
+    "onlineDurationMins": 21.998233333333335
+  }
+}
