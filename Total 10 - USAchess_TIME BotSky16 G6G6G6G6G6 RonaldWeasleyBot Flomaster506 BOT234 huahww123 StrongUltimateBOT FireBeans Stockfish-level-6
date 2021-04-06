@@ -1,0 +1,99 @@
+{
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1617705333646,
+    "lastSeen": 1617711336984,
+    "firstSeenTime": "10:35:33 AM",
+    "lastSeenTime": "12:15:36 PM",
+    "onlineDurationMins": 100.05563333333333
+  },
+  "botsky16@lichess": {
+    "id": "botsky16",
+    "provider": "lichess",
+    "username": "BotSky16",
+    "firstSeen": 1617707909171,
+    "lastSeen": 1617711272524,
+    "firstSeenTime": "11:18:29 AM",
+    "lastSeenTime": "12:14:32 PM",
+    "onlineDurationMins": 56.055883333333334
+  },
+  "g6g6g6g6g6@lichess": {
+    "id": "g6g6g6g6g6",
+    "provider": "lichess",
+    "username": "G6G6G6G6G6",
+    "firstSeen": 1617709419325,
+    "lastSeen": 1617711312949,
+    "firstSeenTime": "11:43:39 AM",
+    "lastSeenTime": "12:15:12 PM",
+    "onlineDurationMins": 31.5604
+  },
+  "ronaldweasleybot@lichess": {
+    "id": "ronaldweasleybot",
+    "provider": "lichess",
+    "username": "RonaldWeasleyBot",
+    "firstSeen": 1617709941110,
+    "lastSeen": 1617711305820,
+    "firstSeenTime": "11:52:21 AM",
+    "lastSeenTime": "12:15:05 PM",
+    "onlineDurationMins": 22.745166666666666
+  },
+  "flomaster506@lichess": {
+    "id": "flomaster506",
+    "provider": "lichess",
+    "username": "Flomaster506",
+    "firstSeen": 1617710216397,
+    "lastSeen": 1617711357721,
+    "firstSeenTime": "11:56:56 AM",
+    "lastSeenTime": "12:15:11 PM",
+    "onlineDurationMins": 18.24341666666667
+  },
+  "bot234@lichess": {
+    "id": "bot234",
+    "provider": "lichess",
+    "username": "BOT234",
+    "firstSeen": 1617710552866,
+    "lastSeen": 1617711280608,
+    "firstSeenTime": "12:02:32 PM",
+    "lastSeenTime": "12:14:40 PM",
+    "onlineDurationMins": 12.129033333333334
+  },
+  "huahww123@lichess": {
+    "id": "huahww123",
+    "provider": "lichess",
+    "username": "huahww123",
+    "firstSeen": 1617710967732,
+    "lastSeen": 1617711367133,
+    "firstSeenTime": "12:09:27 PM",
+    "lastSeenTime": "12:15:38 PM",
+    "onlineDurationMins": 6.172066666666667
+  },
+  "strongultimatebot@lichess": {
+    "id": "strongultimatebot",
+    "provider": "lichess",
+    "username": "StrongUltimateBOT",
+    "firstSeen": 1617711008929,
+    "lastSeen": 1617711100301,
+    "firstSeenTime": "12:10:08 PM",
+    "lastSeenTime": "12:11:40 PM",
+    "onlineDurationMins": 1.5228666666666666
+  },
+  "firebeans@lichess": {
+    "id": "firebeans",
+    "provider": "lichess",
+    "username": "FireBeans",
+    "firstSeen": 1617711049878,
+    "lastSeen": 1617711058843,
+    "firstSeenTime": "12:10:49 PM",
+    "lastSeenTime": "12:10:58 PM",
+    "onlineDurationMins": 0.14941666666666667
+  },
+  "stockfish-level-6@lichess": {
+    "id": "stockfish-level-6",
+    "provider": "lichess",
+    "username": "Stockfish-level-6",
+    "firstSeen": 1617711372161,
+    "lastSeen": 1617711372161
+  }
+}
