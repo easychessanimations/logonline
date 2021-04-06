@@ -1,0 +1,60 @@
+{
+  "firebeans@lichess": {
+    "id": "firebeans",
+    "provider": "lichess",
+    "username": "FireBeans",
+    "firstSeen": 1617711049878,
+    "lastSeen": 1617729649822,
+    "firstSeenTime": "12:10:49 PM",
+    "lastSeenTime": "4:58:49 PM",
+    "onlineDurationMins": 287.9988833333333
+  },
+  "flomaster506@lichess": {
+    "id": "flomaster506",
+    "provider": "lichess",
+    "username": "Flomaster506",
+    "firstSeen": 1617726677698,
+    "lastSeen": 1617729972394,
+    "firstSeenTime": "4:31:17 PM",
+    "lastSeenTime": "5:01:01 PM",
+    "onlineDurationMins": 29.723516666666665
+  },
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1617726923239,
+    "lastSeen": 1617729501709,
+    "firstSeenTime": "4:35:23 PM",
+    "lastSeenTime": "4:51:17 PM",
+    "onlineDurationMins": 15.910216666666667
+  },
+  "checkmatebotx@lichess": {
+    "id": "checkmatebotx",
+    "provider": "lichess",
+    "username": "checkmatebotx",
+    "firstSeen": 1617728909778,
+    "lastSeen": 1617729261364
+  },
+  "botmobile@lichess": {
+    "id": "botmobile",
+    "provider": "lichess",
+    "username": "Botmobile",
+    "firstSeen": 1617729257223,
+    "lastSeen": 1617729926964
+  },
+  "energetic_ramanayake@lichess": {
+    "id": "energetic_ramanayake",
+    "provider": "lichess",
+    "username": "Energetic_Ramanayake",
+    "firstSeen": 1617729262361,
+    "lastSeen": 1617729974835
+  },
+  "sponsorchessbot@lichess": {
+    "id": "sponsorchessbot",
+    "provider": "lichess",
+    "username": "SponsorChessBot",
+    "firstSeen": 1617730037794,
+    "lastSeen": 1617730037794
+  }
+}
