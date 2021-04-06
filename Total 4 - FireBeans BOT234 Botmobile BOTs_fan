@@ -1,0 +1,39 @@
+{
+  "firebeans@lichess": {
+    "id": "firebeans",
+    "provider": "lichess",
+    "username": "FireBeans",
+    "firstSeen": 1617711049878,
+    "lastSeen": 1617726586440,
+    "firstSeenTime": "12:10:49 PM",
+    "lastSeenTime": "4:22:49 PM",
+    "onlineDurationMins": 252.00001666666665
+  },
+  "bot234@lichess": {
+    "id": "bot234",
+    "provider": "lichess",
+    "username": "BOT234",
+    "firstSeen": 1617721597674,
+    "lastSeen": 1617726563948,
+    "firstSeenTime": "3:06:37 PM",
+    "lastSeenTime": "4:21:37 PM",
+    "onlineDurationMins": 75.00226666666667
+  },
+  "botmobile@lichess": {
+    "id": "botmobile",
+    "provider": "lichess",
+    "username": "Botmobile",
+    "firstSeen": 1617725375286,
+    "lastSeen": 1617726042614,
+    "firstSeenTime": "4:09:35 PM",
+    "lastSeenTime": "4:20:42 PM",
+    "onlineDurationMins": 11.122133333333334
+  },
+  "bots_fan@lichess": {
+    "id": "bots_fan",
+    "provider": "lichess",
+    "username": "BOTs_fan",
+    "firstSeen": 1617726613437,
+    "lastSeen": 1617726613437
+  }
+}
