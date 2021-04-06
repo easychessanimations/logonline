@@ -1,0 +1,57 @@
+{
+  "nobody11892@lichess": {
+    "id": "nobody11892",
+    "provider": "lichess",
+    "username": "Nobody11892",
+    "firstSeen": 1617684323816,
+    "lastSeen": 1617695123812,
+    "firstSeenTime": "4:45:23 AM",
+    "lastSeenTime": "5:31:27 AM",
+    "onlineDurationMins": 46.058233333333334
+  },
+  "ufopro@lichess": {
+    "id": "ufopro",
+    "provider": "lichess",
+    "username": "ufopro",
+    "firstSeen": 1617687008064,
+    "lastSeen": 1617695455531,
+    "firstSeenTime": "5:30:08 AM",
+    "lastSeenTime": "5:36:24 AM",
+    "onlineDurationMins": 6.276866666666667
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1617692323284,
+    "lastSeen": 1617695326844
+  },
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1617694205788,
+    "lastSeen": 1617695512030
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1617694280744,
+    "lastSeen": 1617695278001
+  },
+  "strongultimatebot@lichess": {
+    "id": "strongultimatebot",
+    "provider": "lichess",
+    "username": "StrongUltimateBOT",
+    "firstSeen": 1617695178955,
+    "lastSeen": 1617695187943
+  },
+  "sponsorchessbot@lichess": {
+    "id": "sponsorchessbot",
+    "provider": "lichess",
+    "username": "SponsorChessBot",
+    "firstSeen": 1617695570122,
+    "lastSeen": 1617695570122
+  }
+}
