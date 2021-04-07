@@ -1,0 +1,62 @@
+{
+  "botmobile@lichess": {
+    "id": "botmobile",
+    "provider": "lichess",
+    "username": "Botmobile",
+    "firstSeen": 1617781435897,
+    "lastSeen": 1617782827167,
+    "firstSeenTime": "7:43:55 AM",
+    "lastSeenTime": "8:07:07 AM",
+    "onlineDurationMins": 23.187833333333334
+  },
+  "makeitaswish21@lichess": {
+    "id": "makeitaswish21",
+    "provider": "lichess",
+    "username": "Makeitaswish21",
+    "firstSeen": 1617781446781,
+    "lastSeen": 1617782840385,
+    "firstSeenTime": "7:44:06 AM",
+    "lastSeenTime": "8:07:20 AM",
+    "onlineDurationMins": 23.226733333333332
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1617781492271,
+    "lastSeen": 1617783072652,
+    "firstSeenTime": "7:44:52 AM",
+    "lastSeenTime": "8:10:41 AM",
+    "onlineDurationMins": 25.823016666666668
+  },
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1617781692808,
+    "lastSeen": 1617783016067,
+    "firstSeenTime": "7:48:12 AM",
+    "lastSeenTime": "8:10:16 AM",
+    "onlineDurationMins": 22.054316666666665
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1617782527089,
+    "lastSeen": 1617782630571,
+    "firstSeenTime": "8:02:07 AM",
+    "lastSeenTime": "8:03:50 AM",
+    "onlineDurationMins": 1.7247
+  },
+  "samet_yakar12@lichess": {
+    "id": "samet_yakar12",
+    "provider": "lichess",
+    "username": "Samet_yakar12",
+    "firstSeen": 1617782900016,
+    "lastSeen": 1617782912296,
+    "firstSeenTime": "8:08:20 AM",
+    "lastSeenTime": "8:08:32 AM",
+    "onlineDurationMins": 0.20466666666666666
+  }
+}
