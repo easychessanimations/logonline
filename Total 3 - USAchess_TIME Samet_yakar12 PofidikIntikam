@@ -1,0 +1,29 @@
+{
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1617792090729,
+    "lastSeen": 1617794183505,
+    "firstSeenTime": "10:41:30 AM",
+    "lastSeenTime": "11:06:35 AM",
+    "onlineDurationMins": 25.07283333333333
+  },
+  "samet_yakar12@lichess": {
+    "id": "samet_yakar12",
+    "provider": "lichess",
+    "username": "Samet_yakar12",
+    "firstSeen": 1617793790856,
+    "lastSeen": 1617794862155,
+    "firstSeenTime": "11:09:50 AM",
+    "lastSeenTime": "11:12:41 AM",
+    "onlineDurationMins": 2.84655
+  },
+  "pofidikintikam@lichess": {
+    "id": "pofidikintikam",
+    "provider": "lichess",
+    "username": "PofidikIntikam",
+    "firstSeen": 1617794548620,
+    "lastSeen": 1617794854074
+  }
+}
