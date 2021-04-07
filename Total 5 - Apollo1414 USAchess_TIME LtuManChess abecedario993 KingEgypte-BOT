@@ -1,0 +1,43 @@
+{
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1617799143478,
+    "lastSeen": 1617808282715,
+    "firstSeenTime": "12:39:03 PM",
+    "lastSeenTime": "1:38:38 PM",
+    "onlineDurationMins": 59.57718333333333
+  },
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1617800512612,
+    "lastSeen": 1617808039498,
+    "firstSeenTime": "1:01:52 PM",
+    "lastSeenTime": "1:35:01 PM",
+    "onlineDurationMins": 33.14391666666667
+  },
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1617803333828,
+    "lastSeen": 1617808274761
+  },
+  "abecedario993@lichess": {
+    "id": "abecedario993",
+    "provider": "lichess",
+    "username": "abecedario993",
+    "firstSeen": 1617807768627,
+    "lastSeen": 1617807989135
+  },
+  "kingegypte-bot@lichess": {
+    "id": "kingegypte-bot",
+    "provider": "lichess",
+    "username": "KingEgypte-BOT",
+    "firstSeen": 1617808301420,
+    "lastSeen": 1617808366827
+  }
+}
