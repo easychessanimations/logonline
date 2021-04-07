@@ -1,0 +1,56 @@
+{
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1617799143478,
+    "lastSeen": 1617803806992,
+    "firstSeenTime": "12:39:03 PM",
+    "lastSeenTime": "1:38:38 PM",
+    "onlineDurationMins": 59.57718333333333
+  },
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1617800512612,
+    "lastSeen": 1617803901733,
+    "firstSeenTime": "1:01:52 PM",
+    "lastSeenTime": "1:35:01 PM",
+    "onlineDurationMins": 33.14391666666667
+  },
+  "samet_yakar12@lichess": {
+    "id": "samet_yakar12",
+    "provider": "lichess",
+    "username": "Samet_yakar12",
+    "firstSeen": 1617801309471,
+    "lastSeen": 1617803508340,
+    "firstSeenTime": "1:15:09 PM",
+    "lastSeenTime": "1:38:30 PM",
+    "onlineDurationMins": 23.34785
+  },
+  "pijusgry@lichess": {
+    "id": "pijusgry",
+    "provider": "lichess",
+    "username": "PijusGry",
+    "firstSeen": 1617803032339,
+    "lastSeen": 1617803196109,
+    "firstSeenTime": "1:43:52 PM",
+    "lastSeenTime": "1:43:55 PM",
+    "onlineDurationMins": 0.056133333333333334
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1617803145295,
+    "lastSeen": 1617803885762
+  },
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1617803333828,
+    "lastSeen": 1617803394008
+  }
+}
