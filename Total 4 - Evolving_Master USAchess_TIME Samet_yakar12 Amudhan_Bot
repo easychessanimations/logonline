@@ -1,0 +1,33 @@
+{
+  "evolving_master@lichess": {
+    "id": "evolving_master",
+    "provider": "lichess",
+    "username": "Evolving_Master",
+    "firstSeen": 1617790562913,
+    "lastSeen": 1617793533449,
+    "firstSeenTime": "10:16:02 AM",
+    "lastSeenTime": "10:33:47 AM",
+    "onlineDurationMins": 17.741783333333334
+  },
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1617792090729,
+    "lastSeen": 1617793595099
+  },
+  "samet_yakar12@lichess": {
+    "id": "samet_yakar12",
+    "provider": "lichess",
+    "username": "Samet_yakar12",
+    "firstSeen": 1617793790856,
+    "lastSeen": 1617793826458
+  },
+  "amudhan_bot@lichess": {
+    "id": "amudhan_bot",
+    "provider": "lichess",
+    "username": "Amudhan_Bot",
+    "firstSeen": 1617793871281,
+    "lastSeen": 1617793871281
+  }
+}
