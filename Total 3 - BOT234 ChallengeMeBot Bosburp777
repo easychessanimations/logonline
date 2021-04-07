@@ -1,0 +1,32 @@
+{
+  "bot234@lichess": {
+    "id": "bot234",
+    "provider": "lichess",
+    "username": "BOT234",
+    "firstSeen": 1617815823140,
+    "lastSeen": 1617820421750,
+    "firstSeenTime": "5:17:03 PM",
+    "lastSeenTime": "6:08:41 PM",
+    "onlineDurationMins": 51.64156666666667
+  },
+  "challengemebot@lichess": {
+    "id": "challengemebot",
+    "provider": "lichess",
+    "username": "ChallengeMeBot",
+    "firstSeen": 1617816993558,
+    "lastSeen": 1617819995407,
+    "firstSeenTime": "5:36:33 PM",
+    "lastSeenTime": "6:13:33 PM",
+    "onlineDurationMins": 37.00035
+  },
+  "bosburp777@lichess": {
+    "id": "bosburp777",
+    "provider": "lichess",
+    "username": "Bosburp777",
+    "firstSeen": 1617818973517,
+    "lastSeen": 1617819800594,
+    "firstSeenTime": "6:09:33 PM",
+    "lastSeenTime": "6:12:20 PM",
+    "onlineDurationMins": 2.78985
+  }
+}
