@@ -1,0 +1,33 @@
+{
+  "bot234@lichess": {
+    "id": "bot234",
+    "provider": "lichess",
+    "username": "BOT234",
+    "firstSeen": 1617815823140,
+    "lastSeen": 1617823623199,
+    "firstSeenTime": "5:17:03 PM",
+    "lastSeenTime": "6:08:41 PM",
+    "onlineDurationMins": 51.64156666666667
+  },
+  "merhaba3@lichess": {
+    "id": "merhaba3",
+    "provider": "lichess",
+    "username": "Merhaba3",
+    "firstSeen": 1617822635455,
+    "lastSeen": 1617823680997
+  },
+  "world1@lichess": {
+    "id": "world1",
+    "provider": "lichess",
+    "username": "World1",
+    "firstSeen": 1617823544607,
+    "lastSeen": 1617823576109
+  },
+  "358732888163876866@discord": {
+    "id": "358732888163876866",
+    "provider": "discord",
+    "username": "kimbo slice",
+    "firstSeen": 1617823813760,
+    "lastSeen": 1617823839377
+  }
+}
