@@ -1,0 +1,52 @@
+{
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1617792090729,
+    "lastSeen": 1617794183505,
+    "firstSeenTime": "10:41:30 AM",
+    "lastSeenTime": "11:06:35 AM",
+    "onlineDurationMins": 25.07283333333333
+  },
+  "samet_yakar12@lichess": {
+    "id": "samet_yakar12",
+    "provider": "lichess",
+    "username": "Samet_yakar12",
+    "firstSeen": 1617793790856,
+    "lastSeen": 1617794459333,
+    "firstSeenTime": "11:09:50 AM",
+    "lastSeenTime": "11:12:41 AM",
+    "onlineDurationMins": 2.84655
+  },
+  "amudhan_bot@lichess": {
+    "id": "amudhan_bot",
+    "provider": "lichess",
+    "username": "Amudhan_Bot",
+    "firstSeen": 1617793871281,
+    "lastSeen": 1617793877299,
+    "firstSeenTime": "11:11:11 AM",
+    "lastSeenTime": "11:11:17 AM",
+    "onlineDurationMins": 0.1003
+  },
+  "stockfishnnue987@lichess": {
+    "id": "stockfishnnue987",
+    "provider": "lichess",
+    "username": "StockfishNnuE987",
+    "firstSeen": 1617793878167,
+    "lastSeen": 1617793897689,
+    "firstSeenTime": "11:11:18 AM",
+    "lastSeenTime": "11:11:37 AM",
+    "onlineDurationMins": 0.3253666666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1617793971791,
+    "lastSeen": 1617793972479,
+    "firstSeenTime": "11:12:51 AM",
+    "lastSeenTime": "11:12:51 AM",
+    "onlineDurationMins": 0
+  }
+}
