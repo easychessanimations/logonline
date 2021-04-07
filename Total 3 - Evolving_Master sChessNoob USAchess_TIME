@@ -1,0 +1,29 @@
+{
+  "evolving_master@lichess": {
+    "id": "evolving_master",
+    "provider": "lichess",
+    "username": "Evolving_Master",
+    "firstSeen": 1617790562913,
+    "lastSeen": 1617792645258,
+    "firstSeenTime": "10:16:02 AM",
+    "lastSeenTime": "10:33:47 AM",
+    "onlineDurationMins": 17.741783333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1617791679788,
+    "lastSeen": 1617791823876,
+    "firstSeenTime": "10:34:39 AM",
+    "lastSeenTime": "10:37:03 AM",
+    "onlineDurationMins": 2.401466666666667
+  },
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1617792090729,
+    "lastSeen": 1617792205665
+  }
+}
