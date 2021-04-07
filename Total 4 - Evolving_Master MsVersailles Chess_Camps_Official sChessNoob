@@ -1,0 +1,42 @@
+{
+  "evolving_master@lichess": {
+    "id": "evolving_master",
+    "provider": "lichess",
+    "username": "Evolving_Master",
+    "firstSeen": 1617790562913,
+    "lastSeen": 1617792067919,
+    "firstSeenTime": "10:16:02 AM",
+    "lastSeenTime": "10:33:47 AM",
+    "onlineDurationMins": 17.741783333333334
+  },
+  "msversailles@lichess": {
+    "id": "msversailles",
+    "provider": "lichess",
+    "username": "MsVersailles",
+    "firstSeen": 1617791278924,
+    "lastSeen": 1617791282540,
+    "firstSeenTime": "10:27:58 AM",
+    "lastSeenTime": "10:28:02 AM",
+    "onlineDurationMins": 0.06026666666666667
+  },
+  "chess_camps_official@lichess": {
+    "id": "chess_camps_official",
+    "provider": "lichess",
+    "username": "Chess_Camps_Official",
+    "firstSeen": 1617791629035,
+    "lastSeen": 1617791729808,
+    "firstSeenTime": "10:33:49 AM",
+    "lastSeenTime": "10:35:29 AM",
+    "onlineDurationMins": 1.67955
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1617791679788,
+    "lastSeen": 1617791823876,
+    "firstSeenTime": "10:34:39 AM",
+    "lastSeenTime": "10:37:03 AM",
+    "onlineDurationMins": 2.401466666666667
+  }
+}
