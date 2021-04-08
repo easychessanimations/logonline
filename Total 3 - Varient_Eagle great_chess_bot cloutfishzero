@@ -1,0 +1,29 @@
+{
+  "varient_eagle@lichess": {
+    "id": "varient_eagle",
+    "provider": "lichess",
+    "username": "Varient_Eagle",
+    "firstSeen": 1617910349865,
+    "lastSeen": 1617917692264,
+    "firstSeenTime": "7:32:29 PM",
+    "lastSeenTime": "8:15:06 PM",
+    "onlineDurationMins": 42.609566666666666
+  },
+  "great_chess_bot@lichess": {
+    "id": "great_chess_bot",
+    "provider": "lichess",
+    "username": "great_chess_bot",
+    "firstSeen": 1617912315985,
+    "lastSeen": 1617917464981,
+    "firstSeenTime": "8:05:15 PM",
+    "lastSeenTime": "8:13:14 PM",
+    "onlineDurationMins": 7.974166666666667
+  },
+  "cloutfishzero@lichess": {
+    "id": "cloutfishzero",
+    "provider": "lichess",
+    "username": "cloutfishzero",
+    "firstSeen": 1617913501201,
+    "lastSeen": 1617917633079
+  }
+}
