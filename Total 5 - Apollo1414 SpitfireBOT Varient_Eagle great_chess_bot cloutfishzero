@@ -1,0 +1,49 @@
+{
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1617901397239,
+    "lastSeen": 1617915827782,
+    "firstSeenTime": "5:03:17 PM",
+    "lastSeenTime": "8:07:23 PM",
+    "onlineDurationMins": 184.10035
+  },
+  "spitfirebot@lichess": {
+    "id": "spitfirebot",
+    "provider": "lichess",
+    "username": "SpitfireBOT",
+    "firstSeen": 1617904297470,
+    "lastSeen": 1617915630969,
+    "firstSeenTime": "5:51:37 PM",
+    "lastSeenTime": "8:12:31 PM",
+    "onlineDurationMins": 140.90143333333333
+  },
+  "varient_eagle@lichess": {
+    "id": "varient_eagle",
+    "provider": "lichess",
+    "username": "Varient_Eagle",
+    "firstSeen": 1617910349865,
+    "lastSeen": 1617915830554,
+    "firstSeenTime": "7:32:29 PM",
+    "lastSeenTime": "8:15:06 PM",
+    "onlineDurationMins": 42.609566666666666
+  },
+  "great_chess_bot@lichess": {
+    "id": "great_chess_bot",
+    "provider": "lichess",
+    "username": "great_chess_bot",
+    "firstSeen": 1617912315985,
+    "lastSeen": 1617915668321,
+    "firstSeenTime": "8:05:15 PM",
+    "lastSeenTime": "8:13:14 PM",
+    "onlineDurationMins": 7.974166666666667
+  },
+  "cloutfishzero@lichess": {
+    "id": "cloutfishzero",
+    "provider": "lichess",
+    "username": "cloutfishzero",
+    "firstSeen": 1617913501201,
+    "lastSeen": 1617915821060
+  }
+}
