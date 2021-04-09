@@ -1,0 +1,57 @@
+{
+  "varient_eagle@lichess": {
+    "id": "varient_eagle",
+    "provider": "lichess",
+    "username": "Varient_Eagle",
+    "firstSeen": 1617978235238,
+    "lastSeen": 1617986342708,
+    "firstSeenTime": "2:23:55 PM",
+    "lastSeenTime": "3:06:41 PM",
+    "onlineDurationMins": 42.768116666666664
+  },
+  "firebeans@lichess": {
+    "id": "firebeans",
+    "provider": "lichess",
+    "username": "FireBeans",
+    "firstSeen": 1617979196349,
+    "lastSeen": 1617985661092,
+    "firstSeenTime": "2:39:56 PM",
+    "lastSeenTime": "3:11:39 PM",
+    "onlineDurationMins": 31.726216666666666
+  },
+  "makeitaswish21@lichess": {
+    "id": "makeitaswish21",
+    "provider": "lichess",
+    "username": "Makeitaswish21",
+    "firstSeen": 1617983266528,
+    "lastSeen": 1617985627591
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1617983274293,
+    "lastSeen": 1617985674899
+  },
+  "spitfirebot@lichess": {
+    "id": "spitfirebot",
+    "provider": "lichess",
+    "username": "SpitfireBOT",
+    "firstSeen": 1617984248508,
+    "lastSeen": 1617985895848
+  },
+  "mega-pekka@lichess": {
+    "id": "mega-pekka",
+    "provider": "lichess",
+    "username": "MEGA-PEKKA",
+    "firstSeen": 1617984929553,
+    "lastSeen": 1617985895893
+  },
+  "sabhchessbot@lichess": {
+    "id": "sabhchessbot",
+    "provider": "lichess",
+    "username": "SABHchessbot",
+    "firstSeen": 1617986157449,
+    "lastSeen": 1617986178806
+  }
+}
