@@ -1,0 +1,86 @@
+{
+  "marlia123456@lichess": {
+    "id": "marlia123456",
+    "provider": "lichess",
+    "username": "Marlia123456",
+    "firstSeen": 1617960924959,
+    "lastSeen": 1617964798181,
+    "firstSeenTime": "9:35:24 AM",
+    "lastSeenTime": "10:33:39 AM",
+    "onlineDurationMins": 58.248533333333334
+  },
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1617961521361,
+    "lastSeen": 1617964522937,
+    "firstSeenTime": "9:45:21 AM",
+    "lastSeenTime": "10:35:22 AM",
+    "onlineDurationMins": 50.026266666666665
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1617961563871,
+    "lastSeen": 1617964782726,
+    "firstSeenTime": "9:46:03 AM",
+    "lastSeenTime": "10:31:32 AM",
+    "onlineDurationMins": 45.473483333333334
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1617964225862,
+    "lastSeen": 1617964238605,
+    "firstSeenTime": "10:30:25 AM",
+    "lastSeenTime": "10:30:38 AM",
+    "onlineDurationMins": 0.21238333333333334
+  },
+  "blitz_ply@lichess": {
+    "id": "blitz_ply",
+    "provider": "lichess",
+    "username": "blitz_ply",
+    "firstSeen": 1617964272241,
+    "lastSeen": 1617964824180,
+    "firstSeenTime": "10:31:12 AM",
+    "lastSeenTime": "10:36:21 AM",
+    "onlineDurationMins": 5.157666666666667
+  },
+  "whatisinthesky@lichess": {
+    "id": "whatisinthesky",
+    "provider": "lichess",
+    "username": "whatisinthesky",
+    "firstSeen": 1617964373217,
+    "lastSeen": 1617964459128,
+    "firstSeenTime": "10:32:53 AM",
+    "lastSeenTime": "10:34:19 AM",
+    "onlineDurationMins": 1.43185
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1617964632273,
+    "lastSeen": 1617964632274,
+    "firstSeenTime": "10:37:12 AM",
+    "lastSeenTime": "10:37:12 AM",
+    "onlineDurationMins": 0.000016666666666666667
+  },
+  "iamadifficult@lichess": {
+    "id": "iamadifficult",
+    "provider": "lichess",
+    "username": "Iamadifficult",
+    "firstSeen": 1617964792523,
+    "lastSeen": 1617964914413
+  },
+  "diogowin@lichess": {
+    "id": "diogowin",
+    "provider": "lichess",
+    "username": "diogowin",
+    "firstSeen": 1617964915576,
+    "lastSeen": 1617964915576
+  }
+}
