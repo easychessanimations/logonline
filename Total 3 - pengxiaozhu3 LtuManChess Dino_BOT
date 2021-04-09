@@ -1,0 +1,29 @@
+{
+  "pengxiaozhu3@lichess": {
+    "id": "pengxiaozhu3",
+    "provider": "lichess",
+    "username": "pengxiaozhu3",
+    "firstSeen": 1617951612421,
+    "lastSeen": 1617953521130,
+    "firstSeenTime": "7:00:12 AM",
+    "lastSeenTime": "7:17:11 AM",
+    "onlineDurationMins": 16.984
+  },
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1617951638791,
+    "lastSeen": 1617953049159,
+    "firstSeenTime": "7:00:38 AM",
+    "lastSeenTime": "7:16:03 AM",
+    "onlineDurationMins": 15.417083333333334
+  },
+  "dino_bot@lichess": {
+    "id": "dino_bot",
+    "provider": "lichess",
+    "username": "Dino_BOT",
+    "firstSeen": 1617953401022,
+    "lastSeen": 1617953546732
+  }
+}
