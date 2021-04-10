@@ -1,0 +1,19 @@
+{
+  "iamadifficult@lichess": {
+    "id": "iamadifficult",
+    "provider": "lichess",
+    "username": "Iamadifficult",
+    "firstSeen": 1618027801992,
+    "lastSeen": 1618031403996,
+    "firstSeenTime": "4:10:01 AM",
+    "lastSeenTime": "4:35:05 AM",
+    "onlineDurationMins": 25.05666666666667
+  },
+  "blitz_ply@lichess": {
+    "id": "blitz_ply",
+    "provider": "lichess",
+    "username": "blitz_ply",
+    "firstSeen": 1618031441556,
+    "lastSeen": 1618031441556
+  }
+}
