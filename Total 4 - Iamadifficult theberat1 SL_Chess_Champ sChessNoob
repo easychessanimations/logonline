@@ -1,0 +1,42 @@
+{
+  "iamadifficult@lichess": {
+    "id": "iamadifficult",
+    "provider": "lichess",
+    "username": "Iamadifficult",
+    "firstSeen": 1618040880480,
+    "lastSeen": 1618042381004,
+    "firstSeenTime": "7:48:00 AM",
+    "lastSeenTime": "7:48:40 AM",
+    "onlineDurationMins": 0.6613333333333333
+  },
+  "theberat1@lichess": {
+    "id": "theberat1",
+    "provider": "lichess",
+    "username": "theberat1",
+    "firstSeen": 1618040954904,
+    "lastSeen": 1618041915962,
+    "firstSeenTime": "7:49:14 AM",
+    "lastSeenTime": "8:00:03 AM",
+    "onlineDurationMins": 10.8093
+  },
+  "sl_chess_champ@lichess": {
+    "id": "sl_chess_champ",
+    "provider": "lichess",
+    "username": "SL_Chess_Champ",
+    "firstSeen": 1618041489344,
+    "lastSeen": 1618041738916,
+    "firstSeenTime": "7:58:09 AM",
+    "lastSeenTime": "8:01:38 AM",
+    "onlineDurationMins": 3.48385
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618041705209,
+    "lastSeen": 1618041706082,
+    "firstSeenTime": "8:01:45 AM",
+    "lastSeenTime": "8:01:45 AM",
+    "onlineDurationMins": 0
+  }
+}
