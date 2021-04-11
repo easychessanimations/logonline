@@ -1,0 +1,26 @@
+{
+  "herts@lichess": {
+    "id": "herts",
+    "provider": "lichess",
+    "username": "heRTs",
+    "firstSeen": 1618140039556,
+    "lastSeen": 1618144548726,
+    "firstSeenTime": "11:20:39 AM",
+    "lastSeenTime": "11:22:30 AM",
+    "onlineDurationMins": 1.8531166666666667
+  },
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1618140648201,
+    "lastSeen": 1618145279834
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618140922679,
+    "lastSeen": 1618145002492
+  }
+}
