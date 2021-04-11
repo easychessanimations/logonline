@@ -1,0 +1,67 @@
+{
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1618140648201,
+    "lastSeen": 1618147385909,
+    "firstSeenTime": "11:30:48 AM",
+    "lastSeenTime": "1:12:05 PM",
+    "onlineDurationMins": 101.2911
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618140922679,
+    "lastSeen": 1618147649154,
+    "firstSeenTime": "11:35:22 AM",
+    "lastSeenTime": "1:16:28 PM",
+    "onlineDurationMins": 101.0897
+  },
+  "bot-iam-bot@lichess": {
+    "id": "bot-iam-bot",
+    "provider": "lichess",
+    "username": "BOt-Iam-BOt",
+    "firstSeen": 1618146838292,
+    "lastSeen": 1618147506855,
+    "firstSeenTime": "1:13:58 PM",
+    "lastSeenTime": "1:14:19 PM",
+    "onlineDurationMins": 0.3586
+  },
+  "makeitaswish21@lichess": {
+    "id": "makeitaswish21",
+    "provider": "lichess",
+    "username": "Makeitaswish21",
+    "firstSeen": 1618147247671,
+    "lastSeen": 1618147416436
+  },
+  "mrmasterjim@lichess": {
+    "id": "mrmasterjim",
+    "provider": "lichess",
+    "username": "Mrmasterjim",
+    "firstSeen": 1618147504144,
+    "lastSeen": 1618148110258
+  },
+  "816556795023327264@discord": {
+    "id": "816556795023327264",
+    "provider": "discord",
+    "username": "Arthus",
+    "firstSeen": 1618147560133,
+    "lastSeen": 1618147591743
+  },
+  "peiz@lichess": {
+    "id": "peiz",
+    "provider": "lichess",
+    "username": "peiz",
+    "firstSeen": 1618147907863,
+    "lastSeen": 1618148079082
+  },
+  "ostotek@lichess": {
+    "id": "ostotek",
+    "provider": "lichess",
+    "username": "ostotek",
+    "firstSeen": 1618148118566,
+    "lastSeen": 1618148118567
+  }
+}
