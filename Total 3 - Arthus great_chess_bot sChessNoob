@@ -1,0 +1,26 @@
+{
+  "816556795023327264@discord": {
+    "id": "816556795023327264",
+    "provider": "discord",
+    "username": "Arthus",
+    "firstSeen": 1618160192484,
+    "lastSeen": 1618189997026,
+    "firstSeenTime": "4:56:32 PM",
+    "lastSeenTime": "12:42:13 AM",
+    "onlineDurationMins": 465.6849
+  },
+  "great_chess_bot@lichess": {
+    "id": "great_chess_bot",
+    "provider": "lichess",
+    "username": "great_chess_bot",
+    "firstSeen": 1618189631125,
+    "lastSeen": 1618190290134
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618190355912,
+    "lastSeen": 1618190355912
+  }
+}
