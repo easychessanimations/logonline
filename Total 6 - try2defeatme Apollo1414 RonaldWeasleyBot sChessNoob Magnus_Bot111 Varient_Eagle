@@ -1,0 +1,56 @@
+{
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618218017997,
+    "lastSeen": 1618232837534,
+    "firstSeenTime": "9:00:17 AM",
+    "lastSeenTime": "12:56:17 PM",
+    "onlineDurationMins": 235.98386666666667
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1618218709392,
+    "lastSeen": 1618232591975,
+    "firstSeenTime": "9:11:49 AM",
+    "lastSeenTime": "12:56:56 PM",
+    "onlineDurationMins": 225.1111
+  },
+  "ronaldweasleybot@lichess": {
+    "id": "ronaldweasleybot",
+    "provider": "lichess",
+    "username": "RonaldWeasleyBot",
+    "firstSeen": 1618225993974,
+    "lastSeen": 1618232839483,
+    "firstSeenTime": "11:13:13 AM",
+    "lastSeenTime": "12:56:19 PM",
+    "onlineDurationMins": 103.09355
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618232371521,
+    "lastSeen": 1618232371521,
+    "firstSeenTime": "12:59:31 PM",
+    "lastSeenTime": "12:59:31 PM",
+    "onlineDurationMins": 0
+  },
+  "magnus_bot111@lichess": {
+    "id": "magnus_bot111",
+    "provider": "lichess",
+    "username": "Magnus_Bot111",
+    "firstSeen": 1618232668546,
+    "lastSeen": 1618232680538
+  },
+  "varient_eagle@lichess": {
+    "id": "varient_eagle",
+    "provider": "lichess",
+    "username": "Varient_Eagle",
+    "firstSeen": 1618232730259,
+    "lastSeen": 1618232741103
+  }
+}
