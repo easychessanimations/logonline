@@ -1,0 +1,30 @@
+{
+  "bot-iam-bot@lichess": {
+    "id": "bot-iam-bot",
+    "provider": "lichess",
+    "username": "BOt-Iam-BOt",
+    "firstSeen": 1618195487949,
+    "lastSeen": 1618206115798
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618201110606,
+    "lastSeen": 1618206138050
+  },
+  "harsheelk@lichess": {
+    "id": "harsheelk",
+    "provider": "lichess",
+    "username": "HarsheelK",
+    "firstSeen": 1618205326193,
+    "lastSeen": 1618206091354
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618206276590,
+    "lastSeen": 1618206276590
+  }
+}
