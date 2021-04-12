@@ -1,0 +1,60 @@
+{
+  "varient_eagle@lichess": {
+    "id": "varient_eagle",
+    "provider": "lichess",
+    "username": "Varient_Eagle",
+    "firstSeen": 1618239206745,
+    "lastSeen": 1618244204366,
+    "firstSeenTime": "2:53:26 PM",
+    "lastSeenTime": "3:28:51 PM",
+    "onlineDurationMins": 35.41668333333333
+  },
+  "allvariantsbot@lichess": {
+    "id": "allvariantsbot",
+    "provider": "lichess",
+    "username": "allvariantsbot",
+    "firstSeen": 1618239904029,
+    "lastSeen": 1618243652486,
+    "firstSeenTime": "3:05:04 PM",
+    "lastSeenTime": "3:30:56 PM",
+    "onlineDurationMins": 25.867816666666666
+  },
+  "magnus_bot111@lichess": {
+    "id": "magnus_bot111",
+    "provider": "lichess",
+    "username": "Magnus_Bot111",
+    "firstSeen": 1618240987168,
+    "lastSeen": 1618244062644,
+    "firstSeenTime": "3:23:07 PM",
+    "lastSeenTime": "3:28:57 PM",
+    "onlineDurationMins": 5.835683333333333
+  },
+  "drmeowmeow@lichess": {
+    "id": "drmeowmeow",
+    "provider": "lichess",
+    "username": "DrMeowMeow",
+    "firstSeen": 1618241943165,
+    "lastSeen": 1618243445104
+  },
+  "yjpisthebest@lichess": {
+    "id": "yjpisthebest",
+    "provider": "lichess",
+    "username": "YJPISTHEBEST",
+    "firstSeen": 1618243766275,
+    "lastSeen": 1618244036841
+  },
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1618243935643,
+    "lastSeen": 1618243935643
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1618244220108,
+    "lastSeen": 1618244220108
+  }
+}
