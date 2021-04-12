@@ -1,0 +1,33 @@
+{
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1618207158529,
+    "lastSeen": 1618220227657,
+    "firstSeenTime": "5:59:18 AM",
+    "lastSeenTime": "7:58:00 AM",
+    "onlineDurationMins": 118.70141666666666
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618218017997,
+    "lastSeen": 1618220177118
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1618218709392,
+    "lastSeen": 1618220211701
+  },
+  "opental11@lichess": {
+    "id": "opental11",
+    "provider": "lichess",
+    "username": "OpenTal11",
+    "firstSeen": 1618220253182,
+    "lastSeen": 1618220253182
+  }
+}
