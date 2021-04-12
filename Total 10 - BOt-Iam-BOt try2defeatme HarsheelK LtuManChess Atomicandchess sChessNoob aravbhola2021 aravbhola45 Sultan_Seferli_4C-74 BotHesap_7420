@@ -1,0 +1,96 @@
+{
+  "bot-iam-bot@lichess": {
+    "id": "bot-iam-bot",
+    "provider": "lichess",
+    "username": "BOt-Iam-BOt",
+    "firstSeen": 1618195487949,
+    "lastSeen": 1618209053237,
+    "firstSeenTime": "2:44:47 AM",
+    "lastSeenTime": "6:30:53 AM",
+    "onlineDurationMins": 226.08813333333333
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618201110606,
+    "lastSeen": 1618209308940,
+    "firstSeenTime": "4:18:30 AM",
+    "lastSeenTime": "6:35:08 AM",
+    "onlineDurationMins": 136.6389
+  },
+  "harsheelk@lichess": {
+    "id": "harsheelk",
+    "provider": "lichess",
+    "username": "HarsheelK",
+    "firstSeen": 1618205326193,
+    "lastSeen": 1618209075806,
+    "firstSeenTime": "5:28:46 AM",
+    "lastSeenTime": "6:31:15 AM",
+    "onlineDurationMins": 62.49355
+  },
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1618207158529,
+    "lastSeen": 1618209417526,
+    "firstSeenTime": "5:59:18 AM",
+    "lastSeenTime": "6:24:20 AM",
+    "onlineDurationMins": 25.03015
+  },
+  "atomicandchess@lichess": {
+    "id": "atomicandchess",
+    "provider": "lichess",
+    "username": "Atomicandchess",
+    "firstSeen": 1618207729741,
+    "lastSeen": 1618208832749,
+    "firstSeenTime": "6:08:49 AM",
+    "lastSeenTime": "6:27:12 AM",
+    "onlineDurationMins": 18.383466666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618208209383,
+    "lastSeen": 1618209324852,
+    "firstSeenTime": "6:16:49 AM",
+    "lastSeenTime": "6:35:24 AM",
+    "onlineDurationMins": 18.59115
+  },
+  "aravbhola2021@lichess": {
+    "id": "aravbhola2021",
+    "provider": "lichess",
+    "username": "aravbhola2021",
+    "firstSeen": 1618209233003,
+    "lastSeen": 1618209239378,
+    "firstSeenTime": "6:33:53 AM",
+    "lastSeenTime": "6:33:59 AM",
+    "onlineDurationMins": 0.10625
+  },
+  "806421647337979935@discord": {
+    "id": "806421647337979935",
+    "provider": "discord",
+    "username": "aravbhola45",
+    "firstSeen": 1618209293152,
+    "lastSeen": 1618209297355,
+    "firstSeenTime": "6:34:53 AM",
+    "lastSeenTime": "6:34:57 AM",
+    "onlineDurationMins": 0.07005
+  },
+  "sultan_seferli_4c-74@lichess": {
+    "id": "sultan_seferli_4c-74",
+    "provider": "lichess",
+    "username": "Sultan_Seferli_4C-74",
+    "firstSeen": 1618209414937,
+    "lastSeen": 1618209426270
+  },
+  "bothesap_7420@lichess": {
+    "id": "bothesap_7420",
+    "provider": "lichess",
+    "username": "BotHesap_7420",
+    "firstSeen": 1618209427076,
+    "lastSeen": 1618209427076
+  }
+}
