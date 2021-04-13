@@ -1,0 +1,72 @@
+{
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618302740623,
+    "lastSeen": 1618314337529,
+    "firstSeenTime": "8:32:20 AM",
+    "lastSeenTime": "11:45:37 AM",
+    "onlineDurationMins": 193.28176666666667
+  },
+  "ronaldweasleybot@lichess": {
+    "id": "ronaldweasleybot",
+    "provider": "lichess",
+    "username": "RonaldWeasleyBot",
+    "firstSeen": 1618304865703,
+    "lastSeen": 1618314253891,
+    "firstSeenTime": "9:07:45 AM",
+    "lastSeenTime": "11:44:13 AM",
+    "onlineDurationMins": 156.4698
+  },
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1618312677201,
+    "lastSeen": 1618314239323,
+    "firstSeenTime": "11:17:57 AM",
+    "lastSeenTime": "11:43:59 AM",
+    "onlineDurationMins": 26.03536666666667
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618312768173,
+    "lastSeen": 1618314057280,
+    "firstSeenTime": "11:19:28 AM",
+    "lastSeenTime": "11:40:57 AM",
+    "onlineDurationMins": 21.485116666666666
+  },
+  "bot-iam-bot@lichess": {
+    "id": "bot-iam-bot",
+    "provider": "lichess",
+    "username": "BOt-Iam-BOt",
+    "firstSeen": 1618313539452,
+    "lastSeen": 1618314234145,
+    "firstSeenTime": "11:32:19 AM",
+    "lastSeenTime": "11:43:54 AM",
+    "onlineDurationMins": 11.578216666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618313819619,
+    "lastSeen": 1618314351514,
+    "firstSeenTime": "11:36:59 AM",
+    "lastSeenTime": "11:45:51 AM",
+    "onlineDurationMins": 8.864916666666666
+  },
+  "bloody_bone@lichess": {
+    "id": "bloody_bone",
+    "provider": "lichess",
+    "username": "Bloody_Bone",
+    "firstSeen": 1618313961419,
+    "lastSeen": 1618314329863,
+    "firstSeenTime": "11:39:21 AM",
+    "lastSeenTime": "11:45:29 AM",
+    "onlineDurationMins": 6.140733333333333
+  }
+}
