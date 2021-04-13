@@ -1,0 +1,44 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618296249062,
+    "lastSeen": 1618300529671
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618296605729,
+    "lastSeen": 1618300610030
+  },
+  "elozozo@lichess": {
+    "id": "elozozo",
+    "provider": "lichess",
+    "username": "elozozo",
+    "firstSeen": 1618299830180,
+    "lastSeen": 1618300561532
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1618299998473,
+    "lastSeen": 1618300184207
+  },
+  "musa20122012moak@lichess": {
+    "id": "musa20122012moak",
+    "provider": "lichess",
+    "username": "Musa20122012Moak",
+    "firstSeen": 1618300594756,
+    "lastSeen": 1618300632476
+  },
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1618300640452,
+    "lastSeen": 1618300640452
+  }
+}
