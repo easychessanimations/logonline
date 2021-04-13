@@ -1,0 +1,36 @@
+{
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618302740623,
+    "lastSeen": 1618311909182,
+    "firstSeenTime": "8:32:20 AM",
+    "lastSeenTime": "10:20:11 AM",
+    "onlineDurationMins": 107.85611666666667
+  },
+  "ronaldweasleybot@lichess": {
+    "id": "ronaldweasleybot",
+    "provider": "lichess",
+    "username": "RonaldWeasleyBot",
+    "firstSeen": 1618304865703,
+    "lastSeen": 1618311910712,
+    "firstSeenTime": "9:07:45 AM",
+    "lastSeenTime": "10:16:10 AM",
+    "onlineDurationMins": 68.41771666666666
+  },
+  "musa20122012moak@lichess": {
+    "id": "musa20122012moak",
+    "provider": "lichess",
+    "username": "Musa20122012Moak",
+    "firstSeen": 1618311023211,
+    "lastSeen": 1618311922641
+  },
+  "ruizbot@lichess": {
+    "id": "ruizbot",
+    "provider": "lichess",
+    "username": "RuizBot",
+    "firstSeen": 1618311976098,
+    "lastSeen": 1618312340126
+  }
+}
