@@ -1,0 +1,79 @@
+{
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618302740623,
+    "lastSeen": 1618313452084,
+    "firstSeenTime": "8:32:20 AM",
+    "lastSeenTime": "11:30:52 AM",
+    "onlineDurationMins": 178.52435
+  },
+  "ronaldweasleybot@lichess": {
+    "id": "ronaldweasleybot",
+    "provider": "lichess",
+    "username": "RonaldWeasleyBot",
+    "firstSeen": 1618304865703,
+    "lastSeen": 1618313410688,
+    "firstSeenTime": "9:07:45 AM",
+    "lastSeenTime": "11:30:10 AM",
+    "onlineDurationMins": 142.41641666666666
+  },
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1618312677201,
+    "lastSeen": 1618314176118,
+    "firstSeenTime": "11:17:57 AM",
+    "lastSeenTime": "11:32:56 AM",
+    "onlineDurationMins": 14.980116666666667
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618312768173,
+    "lastSeen": 1618314057280,
+    "firstSeenTime": "11:19:28 AM",
+    "lastSeenTime": "11:34:47 AM",
+    "onlineDurationMins": 15.322716666666667
+  },
+  "streamerchessrobot@lichess": {
+    "id": "streamerchessrobot",
+    "provider": "lichess",
+    "username": "StreamerChessRobot",
+    "firstSeen": 1618313458010,
+    "lastSeen": 1618313468072,
+    "firstSeenTime": "11:30:58 AM",
+    "lastSeenTime": "11:31:08 AM",
+    "onlineDurationMins": 0.1677
+  },
+  "bot-iam-bot@lichess": {
+    "id": "bot-iam-bot",
+    "provider": "lichess",
+    "username": "BOt-Iam-BOt",
+    "firstSeen": 1618313539452,
+    "lastSeen": 1618313944353,
+    "firstSeenTime": "11:32:19 AM",
+    "lastSeenTime": "11:35:17 AM",
+    "onlineDurationMins": 2.9661166666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618313819619,
+    "lastSeen": 1618313826160,
+    "firstSeenTime": "11:36:59 AM",
+    "lastSeenTime": "11:36:59 AM",
+    "onlineDurationMins": 0
+  },
+  "bloody_bone@lichess": {
+    "id": "bloody_bone",
+    "provider": "lichess",
+    "username": "Bloody_Bone",
+    "firstSeen": 1618313961419,
+    "lastSeen": 1618314134261
+  }
+}
