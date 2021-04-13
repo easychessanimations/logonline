@@ -1,0 +1,30 @@
+{
+  "bot-iam-bot@lichess": {
+    "id": "bot-iam-bot",
+    "provider": "lichess",
+    "username": "BOt-Iam-BOt",
+    "firstSeen": 1618291520959,
+    "lastSeen": 1618295936908
+  },
+  "superbots@lichess": {
+    "id": "superbots",
+    "provider": "lichess",
+    "username": "superbots",
+    "firstSeen": 1618292954911,
+    "lastSeen": 1618296257510
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618296249062,
+    "lastSeen": 1618296317225
+  },
+  "chess_epicyo12345@lichess": {
+    "id": "chess_epicyo12345",
+    "provider": "lichess",
+    "username": "Chess_EpicYo12345",
+    "firstSeen": 1618296370238,
+    "lastSeen": 1618296370238
+  }
+}
