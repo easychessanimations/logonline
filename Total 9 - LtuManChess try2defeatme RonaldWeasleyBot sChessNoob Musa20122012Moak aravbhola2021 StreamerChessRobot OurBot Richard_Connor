@@ -1,0 +1,83 @@
+{
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1618300640452,
+    "lastSeen": 1618309676209,
+    "firstSeenTime": "7:57:20 AM",
+    "lastSeenTime": "10:15:59 AM",
+    "onlineDurationMins": 138.6521
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618302740623,
+    "lastSeen": 1618310149373,
+    "firstSeenTime": "8:32:20 AM",
+    "lastSeenTime": "10:20:11 AM",
+    "onlineDurationMins": 107.85611666666667
+  },
+  "ronaldweasleybot@lichess": {
+    "id": "ronaldweasleybot",
+    "provider": "lichess",
+    "username": "RonaldWeasleyBot",
+    "firstSeen": 1618304865703,
+    "lastSeen": 1618310031725,
+    "firstSeenTime": "9:07:45 AM",
+    "lastSeenTime": "10:16:10 AM",
+    "onlineDurationMins": 68.41771666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618305771048,
+    "lastSeen": 1618309337008,
+    "firstSeenTime": "9:22:51 AM",
+    "lastSeenTime": "10:22:17 AM",
+    "onlineDurationMins": 59.43266666666667
+  },
+  "musa20122012moak@lichess": {
+    "id": "musa20122012moak",
+    "provider": "lichess",
+    "username": "Musa20122012Moak",
+    "firstSeen": 1618306123933,
+    "lastSeen": 1618309607488,
+    "firstSeenTime": "9:28:43 AM",
+    "lastSeenTime": "10:15:47 AM",
+    "onlineDurationMins": 47.058933333333336
+  },
+  "aravbhola2021@lichess": {
+    "id": "aravbhola2021",
+    "provider": "lichess",
+    "username": "aravbhola2021",
+    "firstSeen": 1618307765001,
+    "lastSeen": 1618309304170,
+    "firstSeenTime": "9:56:05 AM",
+    "lastSeenTime": "10:21:44 AM",
+    "onlineDurationMins": 25.652816666666666
+  },
+  "streamerchessrobot@lichess": {
+    "id": "streamerchessrobot",
+    "provider": "lichess",
+    "username": "StreamerChessRobot",
+    "firstSeen": 1618309569312,
+    "lastSeen": 1618309828133
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618309757568,
+    "lastSeen": 1618309865124
+  },
+  "richard_connor@lichess": {
+    "id": "richard_connor",
+    "provider": "lichess",
+    "username": "Richard_Connor",
+    "firstSeen": 1618309845016,
+    "lastSeen": 1618309889303
+  }
+}
