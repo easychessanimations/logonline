@@ -1,0 +1,97 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618296249062,
+    "lastSeen": 1618302593894,
+    "firstSeenTime": "6:44:09 AM",
+    "lastSeenTime": "8:14:52 AM",
+    "onlineDurationMins": 90.72841666666666
+  },
+  "elozozo@lichess": {
+    "id": "elozozo",
+    "provider": "lichess",
+    "username": "elozozo",
+    "firstSeen": 1618299830180,
+    "lastSeen": 1618302831324,
+    "firstSeenTime": "7:43:50 AM",
+    "lastSeenTime": "8:08:58 AM",
+    "onlineDurationMins": 25.1338
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1618299998473,
+    "lastSeen": 1618302387910,
+    "firstSeenTime": "7:46:38 AM",
+    "lastSeenTime": "8:11:41 AM",
+    "onlineDurationMins": 25.044616666666666
+  },
+  "musa20122012moak@lichess": {
+    "id": "musa20122012moak",
+    "provider": "lichess",
+    "username": "Musa20122012Moak",
+    "firstSeen": 1618300594756,
+    "lastSeen": 1618302854398,
+    "firstSeenTime": "7:56:34 AM",
+    "lastSeenTime": "8:10:35 AM",
+    "onlineDurationMins": 14.016766666666667
+  },
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1618300640452,
+    "lastSeen": 1618302656214,
+    "firstSeenTime": "7:57:20 AM",
+    "lastSeenTime": "8:08:59 AM",
+    "onlineDurationMins": 11.649716666666666
+  },
+  "fcarannante@lichess": {
+    "id": "fcarannante",
+    "provider": "lichess",
+    "username": "fcarannante",
+    "firstSeen": 1618301815072,
+    "lastSeen": 1618301973955,
+    "firstSeenTime": "8:16:55 AM",
+    "lastSeenTime": "8:16:59 AM",
+    "onlineDurationMins": 0.06886666666666667
+  },
+  "sneakyhicky@lichess": {
+    "id": "sneakyhicky",
+    "provider": "lichess",
+    "username": "SneakyHicky",
+    "firstSeen": 1618301960559,
+    "lastSeen": 1618302498272
+  },
+  "fc89_bot@lichess": {
+    "id": "fc89_bot",
+    "provider": "lichess",
+    "username": "fc89_bot",
+    "firstSeen": 1618301974712,
+    "lastSeen": 1618302783796
+  },
+  "botkaru69@lichess": {
+    "id": "botkaru69",
+    "provider": "lichess",
+    "username": "BotKaru69",
+    "firstSeen": 1618302499117,
+    "lastSeen": 1618302862304
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618302740623,
+    "lastSeen": 1618302746202
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618302870502,
+    "lastSeen": 1618302870502
+  }
+}
