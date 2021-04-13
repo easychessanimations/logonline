@@ -1,0 +1,71 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618315607561,
+    "lastSeen": 1618332070473,
+    "firstSeenTime": "12:06:47 PM",
+    "lastSeenTime": "2:05:02 PM",
+    "onlineDurationMins": 118.254
+  },
+  "varient_eagle@lichess": {
+    "id": "varient_eagle",
+    "provider": "lichess",
+    "username": "Varient_Eagle",
+    "firstSeen": 1618320259953,
+    "lastSeen": 1618331606640,
+    "firstSeenTime": "1:24:19 PM",
+    "lastSeenTime": "2:05:05 PM",
+    "onlineDurationMins": 40.75898333333333
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1618330166584,
+    "lastSeen": 1618331610248
+  },
+  "zeus_god@lichess": {
+    "id": "zeus_god",
+    "provider": "lichess",
+    "username": "Zeus_God",
+    "firstSeen": 1618331397395,
+    "lastSeen": 1618331402018
+  },
+  "silasschultzbot@lichess": {
+    "id": "silasschultzbot",
+    "provider": "lichess",
+    "username": "SiLaSScHuLtZBOT",
+    "firstSeen": 1618331751565,
+    "lastSeen": 1618332099449
+  },
+  "snorlaxgx@lichess": {
+    "id": "snorlaxgx",
+    "provider": "lichess",
+    "username": "SnorlaxGX",
+    "firstSeen": 1618331905966,
+    "lastSeen": 1618332099480
+  },
+  "feuer2@lichess": {
+    "id": "feuer2",
+    "provider": "lichess",
+    "username": "Feuer2",
+    "firstSeen": 1618331926880,
+    "lastSeen": 1618331935849
+  },
+  "streamerchessrobot@lichess": {
+    "id": "streamerchessrobot",
+    "provider": "lichess",
+    "username": "StreamerChessRobot",
+    "firstSeen": 1618331996952,
+    "lastSeen": 1618332117908
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618332149098,
+    "lastSeen": 1618332149098
+  }
+}
