@@ -1,0 +1,40 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618334679875,
+    "lastSeen": 1618354030329,
+    "firstSeenTime": "5:24:39 PM",
+    "lastSeenTime": "5:49:39 PM",
+    "onlineDurationMins": 24.999083333333335
+  },
+  "makeitaswish21@lichess": {
+    "id": "makeitaswish21",
+    "provider": "lichess",
+    "username": "Makeitaswish21",
+    "firstSeen": 1618347692530,
+    "lastSeen": 1618354227454
+  },
+  "bot234@lichess": {
+    "id": "bot234",
+    "provider": "lichess",
+    "username": "BOT234",
+    "firstSeen": 1618352355205,
+    "lastSeen": 1618354338987
+  },
+  "willschultz@lichess": {
+    "id": "willschultz",
+    "provider": "lichess",
+    "username": "WiLlScHuLtZ",
+    "firstSeen": 1618354418059,
+    "lastSeen": 1618354423885
+  },
+  "snorlaxgx@lichess": {
+    "id": "snorlaxgx",
+    "provider": "lichess",
+    "username": "SnorlaxGX",
+    "firstSeen": 1618354431087,
+    "lastSeen": 1618354431087
+  }
+}
