@@ -1,0 +1,82 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618315607561,
+    "lastSeen": 1618325797492,
+    "firstSeenTime": "12:06:47 PM",
+    "lastSeenTime": "2:05:02 PM",
+    "onlineDurationMins": 118.254
+  },
+  "teachingsb@lichess": {
+    "id": "teachingsb",
+    "provider": "lichess",
+    "username": "TeachingSB",
+    "firstSeen": 1618316241560,
+    "lastSeen": 1618325527256,
+    "firstSeenTime": "12:17:21 PM",
+    "lastSeenTime": "2:05:07 PM",
+    "onlineDurationMins": 107.75933333333333
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618316954468,
+    "lastSeen": 1618325541665,
+    "firstSeenTime": "12:29:14 PM",
+    "lastSeenTime": "2:05:21 PM",
+    "onlineDurationMins": 96.1102
+  },
+  "cheesepizza2363@lichess": {
+    "id": "cheesepizza2363",
+    "provider": "lichess",
+    "username": "cheesepizza2363",
+    "firstSeen": 1618320200664,
+    "lastSeen": 1618325782725,
+    "firstSeenTime": "1:23:20 PM",
+    "lastSeenTime": "1:59:19 PM",
+    "onlineDurationMins": 35.97805
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1618320211665,
+    "lastSeen": 1618325523412,
+    "firstSeenTime": "1:23:31 PM",
+    "lastSeenTime": "2:04:49 PM",
+    "onlineDurationMins": 41.29606666666667
+  },
+  "varient_eagle@lichess": {
+    "id": "varient_eagle",
+    "provider": "lichess",
+    "username": "Varient_Eagle",
+    "firstSeen": 1618320259953,
+    "lastSeen": 1618325529200,
+    "firstSeenTime": "1:24:19 PM",
+    "lastSeenTime": "2:05:05 PM",
+    "onlineDurationMins": 40.75898333333333
+  },
+  "musa20122012moak@lichess": {
+    "id": "musa20122012moak",
+    "provider": "lichess",
+    "username": "Musa20122012Moak",
+    "firstSeen": 1618320603549,
+    "lastSeen": 1618325509881,
+    "firstSeenTime": "1:30:03 PM",
+    "lastSeenTime": "2:05:14 PM",
+    "onlineDurationMins": 35.18345
+  },
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1618322335737,
+    "lastSeen": 1618325219001,
+    "firstSeenTime": "1:58:55 PM",
+    "lastSeenTime": "1:58:55 PM",
+    "onlineDurationMins": 0
+  }
+}
