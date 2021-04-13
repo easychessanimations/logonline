@@ -1,0 +1,30 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618296249062,
+    "lastSeen": 1618297753872
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618296605729,
+    "lastSeen": 1618297512181
+  },
+  "trollingcrow45@lichess": {
+    "id": "trollingcrow45",
+    "provider": "lichess",
+    "username": "trollingcrow45",
+    "firstSeen": 1618296819724,
+    "lastSeen": 1618297552809
+  },
+  "pengxiaozhu3@lichess": {
+    "id": "pengxiaozhu3",
+    "provider": "lichess",
+    "username": "pengxiaozhu3",
+    "firstSeen": 1618297141319,
+    "lastSeen": 1618297354976
+  }
+}
