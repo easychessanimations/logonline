@@ -1,0 +1,23 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618296249062,
+    "lastSeen": 1618299788686
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618296605729,
+    "lastSeen": 1618299701699
+  },
+  "elozozo@lichess": {
+    "id": "elozozo",
+    "provider": "lichess",
+    "username": "elozozo",
+    "firstSeen": 1618299830180,
+    "lastSeen": 1618299830180
+  }
+}
