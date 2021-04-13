@@ -1,0 +1,40 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618334679875,
+    "lastSeen": 1618348750223,
+    "firstSeenTime": "5:24:39 PM",
+    "lastSeenTime": "5:49:39 PM",
+    "onlineDurationMins": 24.999083333333335
+  },
+  "varient_eagle@lichess": {
+    "id": "varient_eagle",
+    "provider": "lichess",
+    "username": "Varient_Eagle",
+    "firstSeen": 1618343503924,
+    "lastSeen": 1618348749778
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1618346873417,
+    "lastSeen": 1618348722139
+  },
+  "zeus_god@lichess": {
+    "id": "zeus_god",
+    "provider": "lichess",
+    "username": "Zeus_God",
+    "firstSeen": 1618347160983,
+    "lastSeen": 1618348885784
+  },
+  "makeitaswish21@lichess": {
+    "id": "makeitaswish21",
+    "provider": "lichess",
+    "username": "Makeitaswish21",
+    "firstSeen": 1618347692530,
+    "lastSeen": 1618348359241
+  }
+}
