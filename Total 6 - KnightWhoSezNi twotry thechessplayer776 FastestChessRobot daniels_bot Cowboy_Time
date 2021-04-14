@@ -1,0 +1,50 @@
+{
+  "knightwhosezni@lichess": {
+    "id": "knightwhosezni",
+    "provider": "lichess",
+    "username": "KnightWhoSezNi",
+    "firstSeen": 1618421456138,
+    "lastSeen": 1618424111821,
+    "firstSeenTime": "5:30:56 PM",
+    "lastSeenTime": "5:51:08 PM",
+    "onlineDurationMins": 20.209533333333333
+  },
+  "twotry@lichess": {
+    "id": "twotry",
+    "provider": "lichess",
+    "username": "twotry",
+    "firstSeen": 1618421739793,
+    "lastSeen": 1618423998634,
+    "firstSeenTime": "5:35:39 PM",
+    "lastSeenTime": "5:50:00 PM",
+    "onlineDurationMins": 14.3397
+  },
+  "thechessplayer776@lichess": {
+    "id": "thechessplayer776",
+    "provider": "lichess",
+    "username": "thechessplayer776",
+    "firstSeen": 1618423274875,
+    "lastSeen": 1618424201428
+  },
+  "fastestchessrobot@lichess": {
+    "id": "fastestchessrobot",
+    "provider": "lichess",
+    "username": "FastestChessRobot",
+    "firstSeen": 1618423810696,
+    "lastSeen": 1618424335968
+  },
+  "daniels_bot@lichess": {
+    "id": "daniels_bot",
+    "provider": "lichess",
+    "username": "daniels_bot",
+    "firstSeen": 1618423983194,
+    "lastSeen": 1618424372376
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1618424428518,
+    "lastSeen": 1618424428518
+  }
+}
