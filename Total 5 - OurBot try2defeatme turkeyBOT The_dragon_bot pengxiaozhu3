@@ -1,0 +1,37 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618379988012,
+    "lastSeen": 1618389322236
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618382978006,
+    "lastSeen": 1618389311694
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1618387977742,
+    "lastSeen": 1618388996021
+  },
+  "the_dragon_bot@lichess": {
+    "id": "the_dragon_bot",
+    "provider": "lichess",
+    "username": "The_dragon_bot",
+    "firstSeen": 1618389440539,
+    "lastSeen": 1618389451312
+  },
+  "pengxiaozhu3@lichess": {
+    "id": "pengxiaozhu3",
+    "provider": "lichess",
+    "username": "pengxiaozhu3",
+    "firstSeen": 1618389542030,
+    "lastSeen": 1618389542030
+  }
+}
