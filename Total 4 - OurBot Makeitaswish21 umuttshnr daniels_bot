@@ -1,0 +1,33 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618334679875,
+    "lastSeen": 1618358773606,
+    "firstSeenTime": "5:24:39 PM",
+    "lastSeenTime": "5:49:39 PM",
+    "onlineDurationMins": 24.999083333333335
+  },
+  "makeitaswish21@lichess": {
+    "id": "makeitaswish21",
+    "provider": "lichess",
+    "username": "Makeitaswish21",
+    "firstSeen": 1618347692530,
+    "lastSeen": 1618358634969
+  },
+  "umuttshnr@lichess": {
+    "id": "umuttshnr",
+    "provider": "lichess",
+    "username": "umuttshnr",
+    "firstSeen": 1618357954665,
+    "lastSeen": 1618358259819
+  },
+  "daniels_bot@lichess": {
+    "id": "daniels_bot",
+    "provider": "lichess",
+    "username": "daniels_bot",
+    "firstSeen": 1618358038014,
+    "lastSeen": 1618358354982
+  }
+}
