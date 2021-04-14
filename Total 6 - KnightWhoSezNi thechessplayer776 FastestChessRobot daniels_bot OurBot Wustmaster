@@ -1,0 +1,47 @@
+{
+  "knightwhosezni@lichess": {
+    "id": "knightwhosezni",
+    "provider": "lichess",
+    "username": "KnightWhoSezNi",
+    "firstSeen": 1618421456138,
+    "lastSeen": 1618426210866,
+    "firstSeenTime": "5:30:56 PM",
+    "lastSeenTime": "5:51:08 PM",
+    "onlineDurationMins": 20.209533333333333
+  },
+  "thechessplayer776@lichess": {
+    "id": "thechessplayer776",
+    "provider": "lichess",
+    "username": "thechessplayer776",
+    "firstSeen": 1618423274875,
+    "lastSeen": 1618426343891
+  },
+  "fastestchessrobot@lichess": {
+    "id": "fastestchessrobot",
+    "provider": "lichess",
+    "username": "FastestChessRobot",
+    "firstSeen": 1618423810696,
+    "lastSeen": 1618426279984
+  },
+  "daniels_bot@lichess": {
+    "id": "daniels_bot",
+    "provider": "lichess",
+    "username": "daniels_bot",
+    "firstSeen": 1618423983194,
+    "lastSeen": 1618426094540
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618425189496,
+    "lastSeen": 1618426049661
+  },
+  "wustmaster@lichess": {
+    "id": "wustmaster",
+    "provider": "lichess",
+    "username": "Wustmaster",
+    "firstSeen": 1618426358252,
+    "lastSeen": 1618426358252
+  }
+}
