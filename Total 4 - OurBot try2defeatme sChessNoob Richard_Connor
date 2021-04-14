@@ -1,0 +1,39 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618379988012,
+    "lastSeen": 1618390129935,
+    "firstSeenTime": "5:59:48 AM",
+    "lastSeenTime": "8:35:22 AM",
+    "onlineDurationMins": 155.5704
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618382978006,
+    "lastSeen": 1618390092010,
+    "firstSeenTime": "6:49:38 AM",
+    "lastSeenTime": "8:35:11 AM",
+    "onlineDurationMins": 105.56146666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618389741731,
+    "lastSeen": 1618389808555,
+    "firstSeenTime": "8:42:21 AM",
+    "lastSeenTime": "8:43:28 AM",
+    "onlineDurationMins": 1.1137333333333332
+  },
+  "richard_connor@lichess": {
+    "id": "richard_connor",
+    "provider": "lichess",
+    "username": "Richard_Connor",
+    "firstSeen": 1618390308687,
+    "lastSeen": 1618390477818
+  }
+}
