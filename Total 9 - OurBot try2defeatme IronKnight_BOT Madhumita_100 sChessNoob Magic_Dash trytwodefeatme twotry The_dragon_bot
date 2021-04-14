@@ -1,0 +1,89 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618379988012,
+    "lastSeen": 1618392697264,
+    "firstSeenTime": "5:59:48 AM",
+    "lastSeenTime": "9:31:37 AM",
+    "onlineDurationMins": 211.82086666666666
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618382978006,
+    "lastSeen": 1618392311664,
+    "firstSeenTime": "6:49:38 AM",
+    "lastSeenTime": "9:25:11 AM",
+    "onlineDurationMins": 155.56096666666667
+  },
+  "ironknight_bot@lichess": {
+    "id": "ironknight_bot",
+    "provider": "lichess",
+    "username": "IronKnight_BOT",
+    "firstSeen": 1618390548368,
+    "lastSeen": 1618392861102,
+    "firstSeenTime": "8:55:48 AM",
+    "lastSeenTime": "9:31:28 AM",
+    "onlineDurationMins": 35.66525
+  },
+  "madhumita_100@lichess": {
+    "id": "madhumita_100",
+    "provider": "lichess",
+    "username": "Madhumita_100",
+    "firstSeen": 1618392146035,
+    "lastSeen": 1618392307283,
+    "firstSeenTime": "9:22:26 AM",
+    "lastSeenTime": "9:25:07 AM",
+    "onlineDurationMins": 2.6874666666666664
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618392249065,
+    "lastSeen": 1618392843810,
+    "firstSeenTime": "9:24:09 AM",
+    "lastSeenTime": "9:34:03 AM",
+    "onlineDurationMins": 9.912416666666667
+  },
+  "magic_dash@lichess": {
+    "id": "magic_dash",
+    "provider": "lichess",
+    "username": "Magic_Dash",
+    "firstSeen": 1618392306670,
+    "lastSeen": 1618392479949,
+    "firstSeenTime": "9:25:06 AM",
+    "lastSeenTime": "9:27:59 AM",
+    "onlineDurationMins": 2.887983333333333
+  },
+  "trytwodefeatme@lichess": {
+    "id": "trytwodefeatme",
+    "provider": "lichess",
+    "username": "trytwodefeatme",
+    "firstSeen": 1618392486546,
+    "lastSeen": 1618392491787,
+    "firstSeenTime": "9:28:06 AM",
+    "lastSeenTime": "9:28:11 AM",
+    "onlineDurationMins": 0.08735
+  },
+  "twotry@lichess": {
+    "id": "twotry",
+    "provider": "lichess",
+    "username": "twotry",
+    "firstSeen": 1618392503317,
+    "lastSeen": 1618392806850,
+    "firstSeenTime": "9:28:23 AM",
+    "lastSeenTime": "9:33:26 AM",
+    "onlineDurationMins": 5.058883333333333
+  },
+  "the_dragon_bot@lichess": {
+    "id": "the_dragon_bot",
+    "provider": "lichess",
+    "username": "The_dragon_bot",
+    "firstSeen": 1618392926442,
+    "lastSeen": 1618392926442
+  }
+}
