@@ -1,0 +1,50 @@
+{
+  "twotry@lichess": {
+    "id": "twotry",
+    "provider": "lichess",
+    "username": "twotry",
+    "firstSeen": 1618489951656,
+    "lastSeen": 1618510783395,
+    "firstSeenTime": "12:32:31 PM",
+    "lastSeenTime": "3:19:46 PM",
+    "onlineDurationMins": 167.24716666666666
+  },
+  "daniels_bot@lichess": {
+    "id": "daniels_bot",
+    "provider": "lichess",
+    "username": "daniels_bot",
+    "firstSeen": 1618499754278,
+    "lastSeen": 1618510905854,
+    "firstSeenTime": "3:15:54 PM",
+    "lastSeenTime": "3:19:22 PM",
+    "onlineDurationMins": 3.47405
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1618506198869,
+    "lastSeen": 1618510700083
+  },
+  "chillibot@lichess": {
+    "id": "chillibot",
+    "provider": "lichess",
+    "username": "ChilliBot",
+    "firstSeen": 1618507041342,
+    "lastSeen": 1618510907893
+  },
+  "drmeowmeow@lichess": {
+    "id": "drmeowmeow",
+    "provider": "lichess",
+    "username": "DrMeowMeow",
+    "firstSeen": 1618508319193,
+    "lastSeen": 1618510620293
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1618510908031,
+    "lastSeen": 1618510908031
+  }
+}
