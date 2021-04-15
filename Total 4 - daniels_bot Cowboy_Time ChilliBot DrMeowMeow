@@ -1,0 +1,33 @@
+{
+  "daniels_bot@lichess": {
+    "id": "daniels_bot",
+    "provider": "lichess",
+    "username": "daniels_bot",
+    "firstSeen": 1618499754278,
+    "lastSeen": 1618512455972,
+    "firstSeenTime": "3:15:54 PM",
+    "lastSeenTime": "3:19:22 PM",
+    "onlineDurationMins": 3.47405
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1618506198869,
+    "lastSeen": 1618512629391
+  },
+  "chillibot@lichess": {
+    "id": "chillibot",
+    "provider": "lichess",
+    "username": "ChilliBot",
+    "firstSeen": 1618507041342,
+    "lastSeen": 1618512500177
+  },
+  "drmeowmeow@lichess": {
+    "id": "drmeowmeow",
+    "provider": "lichess",
+    "username": "DrMeowMeow",
+    "firstSeen": 1618508319193,
+    "lastSeen": 1618512596549
+  }
+}
