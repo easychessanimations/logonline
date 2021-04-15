@@ -1,0 +1,22 @@
+{
+  "daniels_bot@lichess": {
+    "id": "daniels_bot",
+    "provider": "lichess",
+    "username": "daniels_bot",
+    "firstSeen": 1618499754278,
+    "lastSeen": 1618524512891,
+    "firstSeenTime": "3:15:54 PM",
+    "lastSeenTime": "9:57:36 PM",
+    "onlineDurationMins": 401.7004333333333
+  },
+  "chillibot@lichess": {
+    "id": "chillibot",
+    "provider": "lichess",
+    "username": "ChilliBot",
+    "firstSeen": 1618522677149,
+    "lastSeen": 1618524945828,
+    "firstSeenTime": "9:37:57 PM",
+    "lastSeenTime": "9:51:50 PM",
+    "onlineDurationMins": 13.883416666666667
+  }
+}
