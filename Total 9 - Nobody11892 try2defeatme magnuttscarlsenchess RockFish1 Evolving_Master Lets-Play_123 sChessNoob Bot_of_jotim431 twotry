@@ -1,0 +1,86 @@
+{
+  "nobody11892@lichess": {
+    "id": "nobody11892",
+    "provider": "lichess",
+    "username": "Nobody11892",
+    "firstSeen": 1618470739875,
+    "lastSeen": 1618484903398,
+    "firstSeenTime": "7:12:19 AM",
+    "lastSeenTime": "11:08:23 AM",
+    "onlineDurationMins": 236.05871666666667
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618477214052,
+    "lastSeen": 1618484911597,
+    "firstSeenTime": "9:00:14 AM",
+    "lastSeenTime": "11:08:31 AM",
+    "onlineDurationMins": 128.29241666666667
+  },
+  "magnuttscarlsenchess@lichess": {
+    "id": "magnuttscarlsenchess",
+    "provider": "lichess",
+    "username": "magnuttscarlsenchess",
+    "firstSeen": 1618478519573,
+    "lastSeen": 1618484889570,
+    "firstSeenTime": "9:21:59 AM",
+    "lastSeenTime": "11:08:09 AM",
+    "onlineDurationMins": 106.16661666666667
+  },
+  "rockfish1@lichess": {
+    "id": "rockfish1",
+    "provider": "lichess",
+    "username": "RockFish1",
+    "firstSeen": 1618480208500,
+    "lastSeen": 1618485572608,
+    "firstSeenTime": "9:50:08 AM",
+    "lastSeenTime": "11:01:41 AM",
+    "onlineDurationMins": 71.54723333333334
+  },
+  "evolving_master@lichess": {
+    "id": "evolving_master",
+    "provider": "lichess",
+    "username": "Evolving_Master",
+    "firstSeen": 1618481178716,
+    "lastSeen": 1618484873466,
+    "firstSeenTime": "10:06:18 AM",
+    "lastSeenTime": "11:07:53 AM",
+    "onlineDurationMins": 61.579166666666666
+  },
+  "lets-play_123@lichess": {
+    "id": "lets-play_123",
+    "provider": "lichess",
+    "username": "Lets-Play_123",
+    "firstSeen": 1618484612617,
+    "lastSeen": 1618484937821,
+    "firstSeenTime": "11:03:32 AM",
+    "lastSeenTime": "11:08:57 AM",
+    "onlineDurationMins": 5.420066666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618484984872,
+    "lastSeen": 1618484985370,
+    "firstSeenTime": "11:09:44 AM",
+    "lastSeenTime": "11:09:44 AM",
+    "onlineDurationMins": 0
+  },
+  "bot_of_jotim431@lichess": {
+    "id": "bot_of_jotim431",
+    "provider": "lichess",
+    "username": "Bot_of_jotim431",
+    "firstSeen": 1618485537203,
+    "lastSeen": 1618485540980
+  },
+  "twotry@lichess": {
+    "id": "twotry",
+    "provider": "lichess",
+    "username": "twotry",
+    "firstSeen": 1618485585779,
+    "lastSeen": 1618485585779
+  }
+}
