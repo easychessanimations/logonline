@@ -1,0 +1,19 @@
+{
+  "daniels_bot@lichess": {
+    "id": "daniels_bot",
+    "provider": "lichess",
+    "username": "daniels_bot",
+    "firstSeen": 1618499754278,
+    "lastSeen": 1618519952580,
+    "firstSeenTime": "3:15:54 PM",
+    "lastSeenTime": "3:19:22 PM",
+    "onlineDurationMins": 3.47405
+  },
+  "stockfish-medium@lichess": {
+    "id": "stockfish-medium",
+    "provider": "lichess",
+    "username": "Stockfish-MEDIUM",
+    "firstSeen": 1618520028472,
+    "lastSeen": 1618520028472
+  }
+}
