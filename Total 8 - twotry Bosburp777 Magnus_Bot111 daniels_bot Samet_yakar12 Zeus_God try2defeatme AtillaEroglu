@@ -1,0 +1,70 @@
+{
+  "twotry@lichess": {
+    "id": "twotry",
+    "provider": "lichess",
+    "username": "twotry",
+    "firstSeen": 1618489951656,
+    "lastSeen": 1618503166002,
+    "firstSeenTime": "12:32:31 PM",
+    "lastSeenTime": "3:19:46 PM",
+    "onlineDurationMins": 167.24716666666666
+  },
+  "bosburp777@lichess": {
+    "id": "bosburp777",
+    "provider": "lichess",
+    "username": "Bosburp777",
+    "firstSeen": 1618497885062,
+    "lastSeen": 1618502907216,
+    "firstSeenTime": "2:44:45 PM",
+    "lastSeenTime": "3:21:01 PM",
+    "onlineDurationMins": 36.277633333333334
+  },
+  "magnus_bot111@lichess": {
+    "id": "magnus_bot111",
+    "provider": "lichess",
+    "username": "Magnus_Bot111",
+    "firstSeen": 1618498393612,
+    "lastSeen": 1618503124484,
+    "firstSeenTime": "2:53:13 PM",
+    "lastSeenTime": "3:18:34 PM",
+    "onlineDurationMins": 25.34188333333333
+  },
+  "daniels_bot@lichess": {
+    "id": "daniels_bot",
+    "provider": "lichess",
+    "username": "daniels_bot",
+    "firstSeen": 1618499754278,
+    "lastSeen": 1618503123797,
+    "firstSeenTime": "3:15:54 PM",
+    "lastSeenTime": "3:19:22 PM",
+    "onlineDurationMins": 3.47405
+  },
+  "samet_yakar12@lichess": {
+    "id": "samet_yakar12",
+    "provider": "lichess",
+    "username": "Samet_yakar12",
+    "firstSeen": 1618501577329,
+    "lastSeen": 1618502654273
+  },
+  "zeus_god@lichess": {
+    "id": "zeus_god",
+    "provider": "lichess",
+    "username": "Zeus_God",
+    "firstSeen": 1618502002301,
+    "lastSeen": 1618502915510
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618502762117,
+    "lastSeen": 1618502765721
+  },
+  "atillaeroglu@lichess": {
+    "id": "atillaeroglu",
+    "provider": "lichess",
+    "username": "AtillaEroglu",
+    "firstSeen": 1618502912223,
+    "lastSeen": 1618502927568
+  }
+}
