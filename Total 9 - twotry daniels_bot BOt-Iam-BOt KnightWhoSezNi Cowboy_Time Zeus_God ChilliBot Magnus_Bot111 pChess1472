@@ -1,0 +1,71 @@
+{
+  "twotry@lichess": {
+    "id": "twotry",
+    "provider": "lichess",
+    "username": "twotry",
+    "firstSeen": 1618489951656,
+    "lastSeen": 1618507485822,
+    "firstSeenTime": "12:32:31 PM",
+    "lastSeenTime": "3:19:46 PM",
+    "onlineDurationMins": 167.24716666666666
+  },
+  "daniels_bot@lichess": {
+    "id": "daniels_bot",
+    "provider": "lichess",
+    "username": "daniels_bot",
+    "firstSeen": 1618499754278,
+    "lastSeen": 1618507292889,
+    "firstSeenTime": "3:15:54 PM",
+    "lastSeenTime": "3:19:22 PM",
+    "onlineDurationMins": 3.47405
+  },
+  "bot-iam-bot@lichess": {
+    "id": "bot-iam-bot",
+    "provider": "lichess",
+    "username": "BOt-Iam-BOt",
+    "firstSeen": 1618503276861,
+    "lastSeen": 1618507467699
+  },
+  "knightwhosezni@lichess": {
+    "id": "knightwhosezni",
+    "provider": "lichess",
+    "username": "KnightWhoSezNi",
+    "firstSeen": 1618504581741,
+    "lastSeen": 1618507083296
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1618506198869,
+    "lastSeen": 1618506932669
+  },
+  "zeus_god@lichess": {
+    "id": "zeus_god",
+    "provider": "lichess",
+    "username": "Zeus_God",
+    "firstSeen": 1618506917805,
+    "lastSeen": 1618506921422
+  },
+  "chillibot@lichess": {
+    "id": "chillibot",
+    "provider": "lichess",
+    "username": "ChilliBot",
+    "firstSeen": 1618507041342,
+    "lastSeen": 1618507496215
+  },
+  "magnus_bot111@lichess": {
+    "id": "magnus_bot111",
+    "provider": "lichess",
+    "username": "Magnus_Bot111",
+    "firstSeen": 1618507255467,
+    "lastSeen": 1618507277534
+  },
+  "pchess1472@lichess": {
+    "id": "pchess1472",
+    "provider": "lichess",
+    "username": "pChess1472",
+    "firstSeen": 1618507497063,
+    "lastSeen": 1618507497063
+  }
+}
