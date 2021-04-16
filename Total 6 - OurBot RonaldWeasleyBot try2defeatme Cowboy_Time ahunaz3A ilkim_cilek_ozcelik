@@ -1,0 +1,53 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618555936722,
+    "lastSeen": 1618572510257,
+    "firstSeenTime": "6:52:16 AM",
+    "lastSeenTime": "10:52:12 AM",
+    "onlineDurationMins": 239.92243333333334
+  },
+  "ronaldweasleybot@lichess": {
+    "id": "ronaldweasleybot",
+    "provider": "lichess",
+    "username": "RonaldWeasleyBot",
+    "firstSeen": 1618561131626,
+    "lastSeen": 1618572491958,
+    "firstSeenTime": "8:18:51 AM",
+    "lastSeenTime": "10:49:11 AM",
+    "onlineDurationMins": 150.33868333333334
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618569104958,
+    "lastSeen": 1618572108148,
+    "firstSeenTime": "10:31:44 AM",
+    "lastSeenTime": "10:44:07 AM",
+    "onlineDurationMins": 12.378133333333333
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1618571399626,
+    "lastSeen": 1618572086175
+  },
+  "ahunaz3a@lichess": {
+    "id": "ahunaz3a",
+    "provider": "lichess",
+    "username": "ahunaz3A",
+    "firstSeen": 1618571989342,
+    "lastSeen": 1618572436072
+  },
+  "ilkim_cilek_ozcelik@lichess": {
+    "id": "ilkim_cilek_ozcelik",
+    "provider": "lichess",
+    "username": "ilkim_cilek_ozcelik",
+    "firstSeen": 1618572074403,
+    "lastSeen": 1618572310866
+  }
+}
