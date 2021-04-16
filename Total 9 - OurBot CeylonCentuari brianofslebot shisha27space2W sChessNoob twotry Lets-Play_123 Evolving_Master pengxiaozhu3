@@ -1,0 +1,89 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618555936722,
+    "lastSeen": 1618558236727,
+    "firstSeenTime": "6:52:16 AM",
+    "lastSeenTime": "7:30:36 AM",
+    "onlineDurationMins": 38.333416666666665
+  },
+  "ceyloncentuari@lichess": {
+    "id": "ceyloncentuari",
+    "provider": "lichess",
+    "username": "CeylonCentuari",
+    "firstSeen": 1618556601289,
+    "lastSeen": 1618558105045,
+    "firstSeenTime": "7:03:21 AM",
+    "lastSeenTime": "7:28:25 AM",
+    "onlineDurationMins": 25.0626
+  },
+  "brianofslebot@lichess": {
+    "id": "brianofslebot",
+    "provider": "lichess",
+    "username": "brianofslebot",
+    "firstSeen": 1618557138271,
+    "lastSeen": 1618558207965,
+    "firstSeenTime": "7:12:18 AM",
+    "lastSeenTime": "7:30:07 AM",
+    "onlineDurationMins": 17.828233333333333
+  },
+  "shisha27space2w@lichess": {
+    "id": "shisha27space2w",
+    "provider": "lichess",
+    "username": "shisha27space2W",
+    "firstSeen": 1618557462054,
+    "lastSeen": 1618558059499,
+    "firstSeenTime": "7:17:42 AM",
+    "lastSeenTime": "7:27:39 AM",
+    "onlineDurationMins": 9.957416666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618557627424,
+    "lastSeen": 1618558262252,
+    "firstSeenTime": "7:20:27 AM",
+    "lastSeenTime": "7:31:02 AM",
+    "onlineDurationMins": 10.580466666666666
+  },
+  "twotry@lichess": {
+    "id": "twotry",
+    "provider": "lichess",
+    "username": "twotry",
+    "firstSeen": 1618557717091,
+    "lastSeen": 1618557744413,
+    "firstSeenTime": "7:21:57 AM",
+    "lastSeenTime": "7:22:24 AM",
+    "onlineDurationMins": 0.45536666666666664
+  },
+  "lets-play_123@lichess": {
+    "id": "lets-play_123",
+    "provider": "lichess",
+    "username": "Lets-Play_123",
+    "firstSeen": 1618557765995,
+    "lastSeen": 1618558190411,
+    "firstSeenTime": "7:22:45 AM",
+    "lastSeenTime": "7:29:50 AM",
+    "onlineDurationMins": 7.0736
+  },
+  "evolving_master@lichess": {
+    "id": "evolving_master",
+    "provider": "lichess",
+    "username": "Evolving_Master",
+    "firstSeen": 1618558046932,
+    "lastSeen": 1618558228760,
+    "firstSeenTime": "7:27:26 AM",
+    "lastSeenTime": "7:30:28 AM",
+    "onlineDurationMins": 3.030466666666667
+  },
+  "pengxiaozhu3@lichess": {
+    "id": "pengxiaozhu3",
+    "provider": "lichess",
+    "username": "pengxiaozhu3",
+    "firstSeen": 1618558263369,
+    "lastSeen": 1618558264214
+  }
+}
