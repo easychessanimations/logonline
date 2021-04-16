@@ -1,0 +1,67 @@
+{
+  "daniels_bot@lichess": {
+    "id": "daniels_bot",
+    "provider": "lichess",
+    "username": "daniels_bot",
+    "firstSeen": 1618582003336,
+    "lastSeen": 1618600513861,
+    "firstSeenTime": "2:06:43 PM",
+    "lastSeenTime": "3:56:31 PM",
+    "onlineDurationMins": 109.81078333333333
+  },
+  "makeitaswish21@lichess": {
+    "id": "makeitaswish21",
+    "provider": "lichess",
+    "username": "Makeitaswish21",
+    "firstSeen": 1618587102963,
+    "lastSeen": 1618600609145,
+    "firstSeenTime": "3:31:42 PM",
+    "lastSeenTime": "3:56:45 PM",
+    "onlineDurationMins": 25.039916666666667
+  },
+  "varient_eagle@lichess": {
+    "id": "varient_eagle",
+    "provider": "lichess",
+    "username": "Varient_Eagle",
+    "firstSeen": 1618587834483,
+    "lastSeen": 1618600479423,
+    "firstSeenTime": "3:43:54 PM",
+    "lastSeenTime": "3:54:32 PM",
+    "onlineDurationMins": 10.630183333333333
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618590250552,
+    "lastSeen": 1618600507008
+  },
+  "thechessplayer776@lichess": {
+    "id": "thechessplayer776",
+    "provider": "lichess",
+    "username": "thechessplayer776",
+    "firstSeen": 1618590273587,
+    "lastSeen": 1618600486724
+  },
+  "bfdzvfsgaergfds@lichess": {
+    "id": "bfdzvfsgaergfds",
+    "provider": "lichess",
+    "username": "bfdzvfsgaergfds",
+    "firstSeen": 1618594055028,
+    "lastSeen": 1618600264925
+  },
+  "trytwodefeatme@lichess": {
+    "id": "trytwodefeatme",
+    "provider": "lichess",
+    "username": "trytwodefeatme",
+    "firstSeen": 1618599698153,
+    "lastSeen": 1618600076327
+  },
+  "swalby@lichess": {
+    "id": "swalby",
+    "provider": "lichess",
+    "username": "Swalby",
+    "firstSeen": 1618599811359,
+    "lastSeen": 1618599959284
+  }
+}
