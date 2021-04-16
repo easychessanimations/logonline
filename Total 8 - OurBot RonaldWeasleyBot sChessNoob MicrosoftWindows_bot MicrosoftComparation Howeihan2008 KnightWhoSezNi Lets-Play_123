@@ -1,0 +1,82 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618555936722,
+    "lastSeen": 1618579363943,
+    "firstSeenTime": "6:52:16 AM",
+    "lastSeenTime": "1:20:56 PM",
+    "onlineDurationMins": 388.6700666666667
+  },
+  "ronaldweasleybot@lichess": {
+    "id": "ronaldweasleybot",
+    "provider": "lichess",
+    "username": "RonaldWeasleyBot",
+    "firstSeen": 1618561131626,
+    "lastSeen": 1618579334992,
+    "firstSeenTime": "8:18:51 AM",
+    "lastSeenTime": "1:19:11 PM",
+    "onlineDurationMins": 300.3367166666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618576192567,
+    "lastSeen": 1618579262070,
+    "firstSeenTime": "12:29:52 PM",
+    "lastSeenTime": "1:21:02 PM",
+    "onlineDurationMins": 51.15838333333333
+  },
+  "microsoftwindows_bot@lichess": {
+    "id": "microsoftwindows_bot",
+    "provider": "lichess",
+    "username": "MicrosoftWindows_bot",
+    "firstSeen": 1618578522680,
+    "lastSeen": 1618578965934,
+    "firstSeenTime": "1:08:42 PM",
+    "lastSeenTime": "1:16:05 PM",
+    "onlineDurationMins": 7.387566666666666
+  },
+  "microsoftcomparation@lichess": {
+    "id": "microsoftcomparation",
+    "provider": "lichess",
+    "username": "MicrosoftComparation",
+    "firstSeen": 1618578546135,
+    "lastSeen": 1618578955997,
+    "firstSeenTime": "1:09:06 PM",
+    "lastSeenTime": "1:15:55 PM",
+    "onlineDurationMins": 6.831033333333333
+  },
+  "howeihan2008@lichess": {
+    "id": "howeihan2008",
+    "provider": "lichess",
+    "username": "Howeihan2008",
+    "firstSeen": 1618578872948,
+    "lastSeen": 1618578951738,
+    "firstSeenTime": "1:14:32 PM",
+    "lastSeenTime": "1:15:51 PM",
+    "onlineDurationMins": 1.3131666666666666
+  },
+  "knightwhosezni@lichess": {
+    "id": "knightwhosezni",
+    "provider": "lichess",
+    "username": "KnightWhoSezNi",
+    "firstSeen": 1618579061737,
+    "lastSeen": 1618579077980,
+    "firstSeenTime": "1:17:41 PM",
+    "lastSeenTime": "1:17:57 PM",
+    "onlineDurationMins": 0.27071666666666666
+  },
+  "lets-play_123@lichess": {
+    "id": "lets-play_123",
+    "provider": "lichess",
+    "username": "Lets-Play_123",
+    "firstSeen": 1618579166459,
+    "lastSeen": 1618579405900,
+    "firstSeenTime": "1:19:26 PM",
+    "lastSeenTime": "1:20:45 PM",
+    "onlineDurationMins": 1.3179333333333334
+  }
+}
