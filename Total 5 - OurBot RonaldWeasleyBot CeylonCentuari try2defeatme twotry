@@ -1,0 +1,49 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618555936722,
+    "lastSeen": 1618571218288,
+    "firstSeenTime": "6:52:16 AM",
+    "lastSeenTime": "10:52:12 AM",
+    "onlineDurationMins": 239.92243333333334
+  },
+  "ronaldweasleybot@lichess": {
+    "id": "ronaldweasleybot",
+    "provider": "lichess",
+    "username": "RonaldWeasleyBot",
+    "firstSeen": 1618561131626,
+    "lastSeen": 1618571175187,
+    "firstSeenTime": "8:18:51 AM",
+    "lastSeenTime": "10:49:11 AM",
+    "onlineDurationMins": 150.33868333333334
+  },
+  "ceyloncentuari@lichess": {
+    "id": "ceyloncentuari",
+    "provider": "lichess",
+    "username": "CeylonCentuari",
+    "firstSeen": 1618567803209,
+    "lastSeen": 1618571088932,
+    "firstSeenTime": "10:10:03 AM",
+    "lastSeenTime": "10:51:08 AM",
+    "onlineDurationMins": 41.0918
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618569104958,
+    "lastSeen": 1618571306687,
+    "firstSeenTime": "10:31:44 AM",
+    "lastSeenTime": "10:44:07 AM",
+    "onlineDurationMins": 12.378133333333333
+  },
+  "twotry@lichess": {
+    "id": "twotry",
+    "provider": "lichess",
+    "username": "twotry",
+    "firstSeen": 1618570705202,
+    "lastSeen": 1618571033714
+  }
+}
