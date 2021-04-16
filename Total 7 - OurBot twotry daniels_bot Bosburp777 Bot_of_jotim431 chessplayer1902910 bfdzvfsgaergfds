@@ -1,0 +1,57 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618555936722,
+    "lastSeen": 1618585407257,
+    "firstSeenTime": "6:52:16 AM",
+    "lastSeenTime": "2:02:47 PM",
+    "onlineDurationMins": 430.51545
+  },
+  "twotry@lichess": {
+    "id": "twotry",
+    "provider": "lichess",
+    "username": "twotry",
+    "firstSeen": 1618580428365,
+    "lastSeen": 1618585378788,
+    "firstSeenTime": "1:40:28 PM",
+    "lastSeenTime": "2:04:27 PM",
+    "onlineDurationMins": 23.991083333333332
+  },
+  "daniels_bot@lichess": {
+    "id": "daniels_bot",
+    "provider": "lichess",
+    "username": "daniels_bot",
+    "firstSeen": 1618582003336,
+    "lastSeen": 1618585135326
+  },
+  "bosburp777@lichess": {
+    "id": "bosburp777",
+    "provider": "lichess",
+    "username": "Bosburp777",
+    "firstSeen": 1618584486992,
+    "lastSeen": 1618585317890
+  },
+  "bot_of_jotim431@lichess": {
+    "id": "bot_of_jotim431",
+    "provider": "lichess",
+    "username": "Bot_of_jotim431",
+    "firstSeen": 1618585010482,
+    "lastSeen": 1618585035960
+  },
+  "chessplayer1902910@lichess": {
+    "id": "chessplayer1902910",
+    "provider": "lichess",
+    "username": "chessplayer1902910",
+    "firstSeen": 1618585159831,
+    "lastSeen": 1618585169869
+  },
+  "bfdzvfsgaergfds@lichess": {
+    "id": "bfdzvfsgaergfds",
+    "provider": "lichess",
+    "username": "bfdzvfsgaergfds",
+    "firstSeen": 1618585214558,
+    "lastSeen": 1618585579117
+  }
+}
