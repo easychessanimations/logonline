@@ -1,0 +1,53 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618555936722,
+    "lastSeen": 1618578510298,
+    "firstSeenTime": "6:52:16 AM",
+    "lastSeenTime": "1:00:10 PM",
+    "onlineDurationMins": 367.8996
+  },
+  "ronaldweasleybot@lichess": {
+    "id": "ronaldweasleybot",
+    "provider": "lichess",
+    "username": "RonaldWeasleyBot",
+    "firstSeen": 1618561131626,
+    "lastSeen": 1618578491820,
+    "firstSeenTime": "8:18:51 AM",
+    "lastSeenTime": "12:57:56 PM",
+    "onlineDurationMins": 279.08916666666664
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618576192567,
+    "lastSeen": 1618578473026,
+    "firstSeenTime": "12:29:52 PM",
+    "lastSeenTime": "1:07:53 PM",
+    "onlineDurationMins": 38.00765
+  },
+  "palpablebear@lichess": {
+    "id": "palpablebear",
+    "provider": "lichess",
+    "username": "PalpableBear",
+    "firstSeen": 1618578477007,
+    "lastSeen": 1618578487435
+  },
+  "microsoftwindows_bot@lichess": {
+    "id": "microsoftwindows_bot",
+    "provider": "lichess",
+    "username": "MicrosoftWindows_bot",
+    "firstSeen": 1618578522680,
+    "lastSeen": 1618578544922
+  },
+  "microsoftcomparation@lichess": {
+    "id": "microsoftcomparation",
+    "provider": "lichess",
+    "username": "MicrosoftComparation",
+    "firstSeen": 1618578546135,
+    "lastSeen": 1618578546135
+  }
+}
