@@ -1,0 +1,76 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618555936722,
+    "lastSeen": 1618557620998,
+    "firstSeenTime": "6:52:16 AM",
+    "lastSeenTime": "7:20:20 AM",
+    "onlineDurationMins": 28.071266666666666
+  },
+  "ceyloncentuari@lichess": {
+    "id": "ceyloncentuari",
+    "provider": "lichess",
+    "username": "CeylonCentuari",
+    "firstSeen": 1618556601289,
+    "lastSeen": 1618557748699,
+    "firstSeenTime": "7:03:21 AM",
+    "lastSeenTime": "7:18:02 AM",
+    "onlineDurationMins": 14.687083333333334
+  },
+  "rockfish1@lichess": {
+    "id": "rockfish1",
+    "provider": "lichess",
+    "username": "RockFish1",
+    "firstSeen": 1618556922924,
+    "lastSeen": 1618557364185,
+    "firstSeenTime": "7:08:42 AM",
+    "lastSeenTime": "7:16:04 AM",
+    "onlineDurationMins": 7.35435
+  },
+  "brianofslebot@lichess": {
+    "id": "brianofslebot",
+    "provider": "lichess",
+    "username": "brianofslebot",
+    "firstSeen": 1618557138271,
+    "lastSeen": 1618557758158,
+    "firstSeenTime": "7:12:18 AM",
+    "lastSeenTime": "7:19:26 AM",
+    "onlineDurationMins": 7.132783333333333
+  },
+  "shisha27space2w@lichess": {
+    "id": "shisha27space2w",
+    "provider": "lichess",
+    "username": "shisha27space2W",
+    "firstSeen": 1618557462054,
+    "lastSeen": 1618557761642,
+    "firstSeenTime": "7:17:42 AM",
+    "lastSeenTime": "7:18:41 AM",
+    "onlineDurationMins": 0.9931166666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618557627424,
+    "lastSeen": 1618557627424,
+    "firstSeenTime": "7:20:27 AM",
+    "lastSeenTime": "7:20:27 AM",
+    "onlineDurationMins": 0
+  },
+  "twotry@lichess": {
+    "id": "twotry",
+    "provider": "lichess",
+    "username": "twotry",
+    "firstSeen": 1618557717091,
+    "lastSeen": 1618557744413
+  },
+  "lets-play_123@lichess": {
+    "id": "lets-play_123",
+    "provider": "lichess",
+    "username": "Lets-Play_123",
+    "firstSeen": 1618557765995,
+    "lastSeen": 1618557765995
+  }
+}
