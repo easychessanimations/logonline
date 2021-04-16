@@ -1,0 +1,80 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618555936722,
+    "lastSeen": 1618562037902,
+    "firstSeenTime": "6:52:16 AM",
+    "lastSeenTime": "8:00:57 AM",
+    "onlineDurationMins": 68.68276666666667
+  },
+  "brianofslebot@lichess": {
+    "id": "brianofslebot",
+    "provider": "lichess",
+    "username": "brianofslebot",
+    "firstSeen": 1618557138271,
+    "lastSeen": 1618562123296,
+    "firstSeenTime": "7:12:18 AM",
+    "lastSeenTime": "8:01:38 AM",
+    "onlineDurationMins": 49.33105
+  },
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1618558326731,
+    "lastSeen": 1618561881443,
+    "firstSeenTime": "7:32:06 AM",
+    "lastSeenTime": "8:00:31 AM",
+    "onlineDurationMins": 28.418766666666667
+  },
+  "bloody_bone@lichess": {
+    "id": "bloody_bone",
+    "provider": "lichess",
+    "username": "Bloody_Bone",
+    "firstSeen": 1618559840006,
+    "lastSeen": 1618561705348,
+    "firstSeenTime": "7:57:20 AM",
+    "lastSeenTime": "8:01:24 AM",
+    "onlineDurationMins": 4.07165
+  },
+  "botsss@lichess": {
+    "id": "botsss",
+    "provider": "lichess",
+    "username": "botsss",
+    "firstSeen": 1618560082079,
+    "lastSeen": 1618562057672,
+    "firstSeenTime": "8:01:22 AM",
+    "lastSeenTime": "8:02:03 AM",
+    "onlineDurationMins": 0.69735
+  },
+  "ronaldweasleybot@lichess": {
+    "id": "ronaldweasleybot",
+    "provider": "lichess",
+    "username": "RonaldWeasleyBot",
+    "firstSeen": 1618561131626,
+    "lastSeen": 1618562062124
+  },
+  "samet_yakar12@lichess": {
+    "id": "samet_yakar12",
+    "provider": "lichess",
+    "username": "Samet_yakar12",
+    "firstSeen": 1618561178619,
+    "lastSeen": 1618562041111
+  },
+  "masterchessengine@lichess": {
+    "id": "masterchessengine",
+    "provider": "lichess",
+    "username": "MasterChessEngine",
+    "firstSeen": 1618561866799,
+    "lastSeen": 1618562114318
+  },
+  "lets-play_123@lichess": {
+    "id": "lets-play_123",
+    "provider": "lichess",
+    "username": "Lets-Play_123",
+    "firstSeen": 1618562128079,
+    "lastSeen": 1618562128079
+  }
+}
