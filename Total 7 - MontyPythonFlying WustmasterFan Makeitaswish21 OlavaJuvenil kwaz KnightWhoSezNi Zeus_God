@@ -1,0 +1,60 @@
+{
+  "montypythonflying@lichess": {
+    "id": "montypythonflying",
+    "provider": "lichess",
+    "username": "MontyPythonFlying",
+    "firstSeen": 1618675558931,
+    "lastSeen": 1618694942700,
+    "firstSeenTime": "4:05:58 PM",
+    "lastSeenTime": "8:13:02 PM",
+    "onlineDurationMins": 247.0625
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1618676458733,
+    "lastSeen": 1618694934518,
+    "firstSeenTime": "4:20:58 PM",
+    "lastSeenTime": "8:06:53 PM",
+    "onlineDurationMins": 225.91875
+  },
+  "makeitaswish21@lichess": {
+    "id": "makeitaswish21",
+    "provider": "lichess",
+    "username": "Makeitaswish21",
+    "firstSeen": 1618689687525,
+    "lastSeen": 1618694515446,
+    "firstSeenTime": "8:01:27 PM",
+    "lastSeenTime": "8:12:43 PM",
+    "onlineDurationMins": 11.263
+  },
+  "olavajuvenil@lichess": {
+    "id": "olavajuvenil",
+    "provider": "lichess",
+    "username": "OlavaJuvenil",
+    "firstSeen": 1618690764551,
+    "lastSeen": 1618694954416
+  },
+  "kwaz@lichess": {
+    "id": "kwaz",
+    "provider": "lichess",
+    "username": "kwaz",
+    "firstSeen": 1618693404289,
+    "lastSeen": 1618694408026
+  },
+  "knightwhosezni@lichess": {
+    "id": "knightwhosezni",
+    "provider": "lichess",
+    "username": "KnightWhoSezNi",
+    "firstSeen": 1618694668183,
+    "lastSeen": 1618694682508
+  },
+  "zeus_god@lichess": {
+    "id": "zeus_god",
+    "provider": "lichess",
+    "username": "Zeus_God",
+    "firstSeen": 1618695123165,
+    "lastSeen": 1618695123165
+  }
+}
