@@ -1,0 +1,73 @@
+{
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618655912971,
+    "lastSeen": 1618660990586,
+    "firstSeenTime": "10:38:32 AM",
+    "lastSeenTime": "11:41:33 AM",
+    "onlineDurationMins": 63.01145
+  },
+  "twotry@lichess": {
+    "id": "twotry",
+    "provider": "lichess",
+    "username": "twotry",
+    "firstSeen": 1618655997685,
+    "lastSeen": 1618660746920,
+    "firstSeenTime": "10:39:57 AM",
+    "lastSeenTime": "11:37:07 AM",
+    "onlineDurationMins": 57.156416666666665
+  },
+  "makeitaswish21@lichess": {
+    "id": "makeitaswish21",
+    "provider": "lichess",
+    "username": "Makeitaswish21",
+    "firstSeen": 1618659387948,
+    "lastSeen": 1618660890449,
+    "firstSeenTime": "11:36:27 AM",
+    "lastSeenTime": "11:36:38 AM",
+    "onlineDurationMins": 0.18306666666666666
+  },
+  "silasschultzbot@lichess": {
+    "id": "silasschultzbot",
+    "provider": "lichess",
+    "username": "SiLaSScHuLtZBOT",
+    "firstSeen": 1618659961926,
+    "lastSeen": 1618660752389,
+    "firstSeenTime": "11:46:01 AM",
+    "lastSeenTime": "11:46:11 AM",
+    "onlineDurationMins": 0.15455
+  },
+  "masterchessengine@lichess": {
+    "id": "masterchessengine",
+    "provider": "lichess",
+    "username": "MasterChessEngine",
+    "firstSeen": 1618660009561,
+    "lastSeen": 1618660677131,
+    "firstSeenTime": "11:46:49 AM",
+    "lastSeenTime": "11:46:51 AM",
+    "onlineDurationMins": 0.025666666666666667
+  },
+  "chess_camps_official@lichess": {
+    "id": "chess_camps_official",
+    "provider": "lichess",
+    "username": "Chess_Camps_Official",
+    "firstSeen": 1618660612730,
+    "lastSeen": 1618660966273
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618660710935,
+    "lastSeen": 1618660714047
+  },
+  "feuer2@lichess": {
+    "id": "feuer2",
+    "provider": "lichess",
+    "username": "Feuer2",
+    "firstSeen": 1618660996488,
+    "lastSeen": 1618660996488
+  }
+}
