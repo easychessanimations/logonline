@@ -1,0 +1,42 @@
+{
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1618644864188,
+    "lastSeen": 1618648455349,
+    "firstSeenTime": "7:34:24 AM",
+    "lastSeenTime": "8:33:24 AM",
+    "onlineDurationMins": 59.012816666666666
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618646070698,
+    "lastSeen": 1618648161455,
+    "firstSeenTime": "7:54:30 AM",
+    "lastSeenTime": "8:29:21 AM",
+    "onlineDurationMins": 34.84595
+  },
+  "botsss@lichess": {
+    "id": "botsss",
+    "provider": "lichess",
+    "username": "botsss",
+    "firstSeen": 1618648358157,
+    "lastSeen": 1618648561596,
+    "firstSeenTime": "8:32:38 AM",
+    "lastSeenTime": "8:32:47 AM",
+    "onlineDurationMins": 0.15285
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618648427158,
+    "lastSeen": 1618648427158,
+    "firstSeenTime": "8:33:47 AM",
+    "lastSeenTime": "8:33:47 AM",
+    "onlineDurationMins": 0
+  }
+}
