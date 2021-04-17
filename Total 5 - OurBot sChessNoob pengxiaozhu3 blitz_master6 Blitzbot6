@@ -1,0 +1,46 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618646070698,
+    "lastSeen": 1618652170912,
+    "firstSeenTime": "7:54:30 AM",
+    "lastSeenTime": "9:25:10 AM",
+    "onlineDurationMins": 90.66831666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618649494373,
+    "lastSeen": 1618651898575,
+    "firstSeenTime": "8:51:34 AM",
+    "lastSeenTime": "9:31:38 AM",
+    "onlineDurationMins": 40.070033333333335
+  },
+  "pengxiaozhu3@lichess": {
+    "id": "pengxiaozhu3",
+    "provider": "lichess",
+    "username": "pengxiaozhu3",
+    "firstSeen": 1618650622813,
+    "lastSeen": 1618652171090,
+    "firstSeenTime": "9:10:22 AM",
+    "lastSeenTime": "9:24:11 AM",
+    "onlineDurationMins": 13.8073
+  },
+  "blitz_master6@lichess": {
+    "id": "blitz_master6",
+    "provider": "lichess",
+    "username": "blitz_master6",
+    "firstSeen": 1618652063355,
+    "lastSeen": 1618652065862
+  },
+  "blitzbot6@lichess": {
+    "id": "blitzbot6",
+    "provider": "lichess",
+    "username": "Blitzbot6",
+    "firstSeen": 1618652066544,
+    "lastSeen": 1618652471458
+  }
+}
