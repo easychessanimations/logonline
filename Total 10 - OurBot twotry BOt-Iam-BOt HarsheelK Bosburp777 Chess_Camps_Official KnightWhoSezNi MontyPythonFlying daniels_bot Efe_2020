@@ -1,0 +1,75 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618667047347,
+    "lastSeen": 1618675690784,
+    "firstSeenTime": "1:44:07 PM",
+    "lastSeenTime": "2:10:07 PM",
+    "onlineDurationMins": 26.00105
+  },
+  "twotry@lichess": {
+    "id": "twotry",
+    "provider": "lichess",
+    "username": "twotry",
+    "firstSeen": 1618669274410,
+    "lastSeen": 1618675694117
+  },
+  "bot-iam-bot@lichess": {
+    "id": "bot-iam-bot",
+    "provider": "lichess",
+    "username": "BOt-Iam-BOt",
+    "firstSeen": 1618670152734,
+    "lastSeen": 1618676156596
+  },
+  "harsheelk@lichess": {
+    "id": "harsheelk",
+    "provider": "lichess",
+    "username": "HarsheelK",
+    "firstSeen": 1618672512871,
+    "lastSeen": 1618675513067
+  },
+  "bosburp777@lichess": {
+    "id": "bosburp777",
+    "provider": "lichess",
+    "username": "Bosburp777",
+    "firstSeen": 1618673401643,
+    "lastSeen": 1618675611490
+  },
+  "chess_camps_official@lichess": {
+    "id": "chess_camps_official",
+    "provider": "lichess",
+    "username": "Chess_Camps_Official",
+    "firstSeen": 1618674322571,
+    "lastSeen": 1618676007744
+  },
+  "knightwhosezni@lichess": {
+    "id": "knightwhosezni",
+    "provider": "lichess",
+    "username": "KnightWhoSezNi",
+    "firstSeen": 1618674803538,
+    "lastSeen": 1618675570572
+  },
+  "montypythonflying@lichess": {
+    "id": "montypythonflying",
+    "provider": "lichess",
+    "username": "MontyPythonFlying",
+    "firstSeen": 1618675558931,
+    "lastSeen": 1618676069884
+  },
+  "daniels_bot@lichess": {
+    "id": "daniels_bot",
+    "provider": "lichess",
+    "username": "daniels_bot",
+    "firstSeen": 1618675562454,
+    "lastSeen": 1618675565618
+  },
+  "efe_2020@lichess": {
+    "id": "efe_2020",
+    "provider": "lichess",
+    "username": "Efe_2020",
+    "firstSeen": 1618676183835,
+    "lastSeen": 1618676183835
+  }
+}
