@@ -1,0 +1,51 @@
+{
+  "the-golden-trio@lichess": {
+    "id": "the-golden-trio",
+    "provider": "lichess",
+    "username": "The-Golden-Trio",
+    "firstSeen": 1618642891198,
+    "lastSeen": 1618645900625
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1618644864188,
+    "lastSeen": 1618645839119
+  },
+  "ceyloncentuari@lichess": {
+    "id": "ceyloncentuari",
+    "provider": "lichess",
+    "username": "CeylonCentuari",
+    "firstSeen": 1618645528240,
+    "lastSeen": 1618645738506
+  },
+  "lets-play_123@lichess": {
+    "id": "lets-play_123",
+    "provider": "lichess",
+    "username": "Lets-Play_123",
+    "firstSeen": 1618645687101,
+    "lastSeen": 1618645747609
+  },
+  "iamkid_chessbot@lichess": {
+    "id": "iamkid_chessbot",
+    "provider": "lichess",
+    "username": "Iamkid_Chessbot",
+    "firstSeen": 1618645742634,
+    "lastSeen": 1618645802044
+  },
+  "stockfish7_5@lichess": {
+    "id": "stockfish7_5",
+    "provider": "lichess",
+    "username": "stockfish7_5",
+    "firstSeen": 1618645875439,
+    "lastSeen": 1618645892790
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618645925864,
+    "lastSeen": 1618645925864
+  }
+}
