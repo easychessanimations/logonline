@@ -1,0 +1,68 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618667047347,
+    "lastSeen": 1618674307513,
+    "firstSeenTime": "1:44:07 PM",
+    "lastSeenTime": "2:10:07 PM",
+    "onlineDurationMins": 26.00105
+  },
+  "twotry@lichess": {
+    "id": "twotry",
+    "provider": "lichess",
+    "username": "twotry",
+    "firstSeen": 1618669274410,
+    "lastSeen": 1618674255388
+  },
+  "bot-iam-bot@lichess": {
+    "id": "bot-iam-bot",
+    "provider": "lichess",
+    "username": "BOt-Iam-BOt",
+    "firstSeen": 1618670152734,
+    "lastSeen": 1618674656687
+  },
+  "harsheelk@lichess": {
+    "id": "harsheelk",
+    "provider": "lichess",
+    "username": "HarsheelK",
+    "firstSeen": 1618672512871,
+    "lastSeen": 1618674682735
+  },
+  "daniels_bot@lichess": {
+    "id": "daniels_bot",
+    "provider": "lichess",
+    "username": "daniels_bot",
+    "firstSeen": 1618672560977,
+    "lastSeen": 1618674545848
+  },
+  "montypythonflying@lichess": {
+    "id": "montypythonflying",
+    "provider": "lichess",
+    "username": "MontyPythonFlying",
+    "firstSeen": 1618673062562,
+    "lastSeen": 1618674569392
+  },
+  "bosburp777@lichess": {
+    "id": "bosburp777",
+    "provider": "lichess",
+    "username": "Bosburp777",
+    "firstSeen": 1618673401643,
+    "lastSeen": 1618674867209
+  },
+  "chess_camps_official@lichess": {
+    "id": "chess_camps_official",
+    "provider": "lichess",
+    "username": "Chess_Camps_Official",
+    "firstSeen": 1618674322571,
+    "lastSeen": 1618674878749
+  },
+  "knightwhosezni@lichess": {
+    "id": "knightwhosezni",
+    "provider": "lichess",
+    "username": "KnightWhoSezNi",
+    "firstSeen": 1618674803538,
+    "lastSeen": 1618674831154
+  }
+}
