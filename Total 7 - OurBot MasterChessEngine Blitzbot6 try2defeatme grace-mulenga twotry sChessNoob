@@ -1,0 +1,72 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618646070698,
+    "lastSeen": 1618656910910,
+    "firstSeenTime": "7:54:30 AM",
+    "lastSeenTime": "10:55:10 AM",
+    "onlineDurationMins": 180.6702
+  },
+  "masterchessengine@lichess": {
+    "id": "masterchessengine",
+    "provider": "lichess",
+    "username": "MasterChessEngine",
+    "firstSeen": 1618653667869,
+    "lastSeen": 1618657083806,
+    "firstSeenTime": "10:01:07 AM",
+    "lastSeenTime": "10:57:26 AM",
+    "onlineDurationMins": 56.31623333333334
+  },
+  "blitzbot6@lichess": {
+    "id": "blitzbot6",
+    "provider": "lichess",
+    "username": "Blitzbot6",
+    "firstSeen": 1618655331604,
+    "lastSeen": 1618657087008,
+    "firstSeenTime": "10:28:51 AM",
+    "lastSeenTime": "10:57:35 AM",
+    "onlineDurationMins": 28.7398
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618655912971,
+    "lastSeen": 1618656778867,
+    "firstSeenTime": "10:38:32 AM",
+    "lastSeenTime": "10:52:58 AM",
+    "onlineDurationMins": 14.4316
+  },
+  "grace-mulenga@lichess": {
+    "id": "grace-mulenga",
+    "provider": "lichess",
+    "username": "grace-mulenga",
+    "firstSeen": 1618655961182,
+    "lastSeen": 1618656605231,
+    "firstSeenTime": "10:39:21 AM",
+    "lastSeenTime": "10:50:05 AM",
+    "onlineDurationMins": 10.73415
+  },
+  "twotry@lichess": {
+    "id": "twotry",
+    "provider": "lichess",
+    "username": "twotry",
+    "firstSeen": 1618655997685,
+    "lastSeen": 1618656790446,
+    "firstSeenTime": "10:39:57 AM",
+    "lastSeenTime": "10:53:10 AM",
+    "onlineDurationMins": 13.212683333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618656615833,
+    "lastSeen": 1618657112146,
+    "firstSeenTime": "10:50:15 AM",
+    "lastSeenTime": "10:58:01 AM",
+    "onlineDurationMins": 7.7551
+  }
+}
