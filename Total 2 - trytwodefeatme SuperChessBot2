@@ -4,13 +4,19 @@
     "provider": "lichess",
     "username": "trytwodefeatme",
     "firstSeen": 1618628236241,
-    "lastSeen": 1618630276275
+    "lastSeen": 1618631456885,
+    "firstSeenTime": "2:57:16 AM",
+    "lastSeenTime": "3:31:16 AM",
+    "onlineDurationMins": 34.000566666666664
   },
   "superchessbot2@lichess": {
     "id": "superchessbot2",
     "provider": "lichess",
     "username": "SuperChessBot2",
     "firstSeen": 1618630315459,
-    "lastSeen": 1618630315459
+    "lastSeen": 1618631048816,
+    "firstSeenTime": "3:31:55 AM",
+    "lastSeenTime": "3:42:13 AM",
+    "onlineDurationMins": 10.3076
   }
 }
