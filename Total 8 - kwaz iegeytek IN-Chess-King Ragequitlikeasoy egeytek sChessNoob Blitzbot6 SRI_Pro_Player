@@ -1,0 +1,79 @@
+{
+  "kwaz@lichess": {
+    "id": "kwaz",
+    "provider": "lichess",
+    "username": "kwaz",
+    "firstSeen": 1618663854761,
+    "lastSeen": 1618666858335,
+    "firstSeenTime": "12:50:54 PM",
+    "lastSeenTime": "1:28:24 PM",
+    "onlineDurationMins": 37.50315
+  },
+  "iegeytek@lichess": {
+    "id": "iegeytek",
+    "provider": "lichess",
+    "username": "iegeytek",
+    "firstSeen": 1618664345386,
+    "lastSeen": 1618666142892,
+    "firstSeenTime": "12:59:05 PM",
+    "lastSeenTime": "1:29:02 PM",
+    "onlineDurationMins": 29.958433333333332
+  },
+  "in-chess-king@lichess": {
+    "id": "in-chess-king",
+    "provider": "lichess",
+    "username": "IN-Chess-King",
+    "firstSeen": 1618665408825,
+    "lastSeen": 1618666139086,
+    "firstSeenTime": "1:16:48 PM",
+    "lastSeenTime": "1:28:59 PM",
+    "onlineDurationMins": 12.171016666666667
+  },
+  "ragequitlikeasoy@lichess": {
+    "id": "ragequitlikeasoy",
+    "provider": "lichess",
+    "username": "Ragequitlikeasoy",
+    "firstSeen": 1618665714838,
+    "lastSeen": 1618666803120,
+    "firstSeenTime": "1:21:54 PM",
+    "lastSeenTime": "1:40:03 PM",
+    "onlineDurationMins": 18.138033333333333
+  },
+  "egeytek@lichess": {
+    "id": "egeytek",
+    "provider": "lichess",
+    "username": "egeytek",
+    "firstSeen": 1618666171358,
+    "lastSeen": 1618666710741,
+    "firstSeenTime": "1:29:31 PM",
+    "lastSeenTime": "1:38:30 PM",
+    "onlineDurationMins": 8.989716666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618666483720,
+    "lastSeen": 1618666855530,
+    "firstSeenTime": "1:34:43 PM",
+    "lastSeenTime": "1:40:55 PM",
+    "onlineDurationMins": 6.196833333333333
+  },
+  "blitzbot6@lichess": {
+    "id": "blitzbot6",
+    "provider": "lichess",
+    "username": "Blitzbot6",
+    "firstSeen": 1618666839568,
+    "lastSeen": 1618666848906,
+    "firstSeenTime": "1:40:39 PM",
+    "lastSeenTime": "1:40:48 PM",
+    "onlineDurationMins": 0.15563333333333335
+  },
+  "sri_pro_player@lichess": {
+    "id": "sri_pro_player",
+    "provider": "lichess",
+    "username": "SRI_Pro_Player",
+    "firstSeen": 1618666874027,
+    "lastSeen": 1618666874027
+  }
+}
