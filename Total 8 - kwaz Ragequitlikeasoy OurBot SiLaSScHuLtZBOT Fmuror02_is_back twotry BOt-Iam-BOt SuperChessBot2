@@ -1,0 +1,73 @@
+{
+  "kwaz@lichess": {
+    "id": "kwaz",
+    "provider": "lichess",
+    "username": "kwaz",
+    "firstSeen": 1618663854761,
+    "lastSeen": 1618671549712,
+    "firstSeenTime": "12:50:54 PM",
+    "lastSeenTime": "2:07:49 PM",
+    "onlineDurationMins": 76.90718333333334
+  },
+  "ragequitlikeasoy@lichess": {
+    "id": "ragequitlikeasoy",
+    "provider": "lichess",
+    "username": "Ragequitlikeasoy",
+    "firstSeen": 1618665714838,
+    "lastSeen": 1618671513142,
+    "firstSeenTime": "1:21:54 PM",
+    "lastSeenTime": "2:08:40 PM",
+    "onlineDurationMins": 46.768
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618667047347,
+    "lastSeen": 1618671547458,
+    "firstSeenTime": "1:44:07 PM",
+    "lastSeenTime": "2:10:07 PM",
+    "onlineDurationMins": 26.00105
+  },
+  "silasschultzbot@lichess": {
+    "id": "silasschultzbot",
+    "provider": "lichess",
+    "username": "SiLaSScHuLtZBOT",
+    "firstSeen": 1618667114747,
+    "lastSeen": 1618671791586,
+    "firstSeenTime": "1:45:14 PM",
+    "lastSeenTime": "2:11:32 PM",
+    "onlineDurationMins": 26.289533333333335
+  },
+  "fmuror02_is_back@lichess": {
+    "id": "fmuror02_is_back",
+    "provider": "lichess",
+    "username": "Fmuror02_is_back",
+    "firstSeen": 1618668545728,
+    "lastSeen": 1618671323085,
+    "firstSeenTime": "2:09:05 PM",
+    "lastSeenTime": "2:11:42 PM",
+    "onlineDurationMins": 2.60935
+  },
+  "twotry@lichess": {
+    "id": "twotry",
+    "provider": "lichess",
+    "username": "twotry",
+    "firstSeen": 1618669274410,
+    "lastSeen": 1618671563966
+  },
+  "bot-iam-bot@lichess": {
+    "id": "bot-iam-bot",
+    "provider": "lichess",
+    "username": "BOt-Iam-BOt",
+    "firstSeen": 1618670152734,
+    "lastSeen": 1618671656655
+  },
+  "superchessbot2@lichess": {
+    "id": "superchessbot2",
+    "provider": "lichess",
+    "username": "SuperChessBot2",
+    "firstSeen": 1618671091372,
+    "lastSeen": 1618672202068
+  }
+}
