@@ -1,0 +1,32 @@
+{
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1618644864188,
+    "lastSeen": 1618647916662,
+    "firstSeenTime": "7:34:24 AM",
+    "lastSeenTime": "8:00:06 AM",
+    "onlineDurationMins": 25.707916666666666
+  },
+  "ceyloncentuari@lichess": {
+    "id": "ceyloncentuari",
+    "provider": "lichess",
+    "username": "CeylonCentuari",
+    "firstSeen": 1618645528240,
+    "lastSeen": 1618647733243,
+    "firstSeenTime": "7:45:28 AM",
+    "lastSeenTime": "7:59:29 AM",
+    "onlineDurationMins": 14.025333333333334
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618646070698,
+    "lastSeen": 1618647572307,
+    "firstSeenTime": "7:54:30 AM",
+    "lastSeenTime": "8:06:10 AM",
+    "onlineDurationMins": 11.666166666666667
+  }
+}
