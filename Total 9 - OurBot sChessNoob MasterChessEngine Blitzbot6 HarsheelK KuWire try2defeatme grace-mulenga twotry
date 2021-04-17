@@ -1,0 +1,77 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618646070698,
+    "lastSeen": 1618655590876,
+    "firstSeenTime": "7:54:30 AM",
+    "lastSeenTime": "10:25:08 AM",
+    "onlineDurationMins": 150.63355
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618653609428,
+    "lastSeen": 1618655385473,
+    "firstSeenTime": "10:00:09 AM",
+    "lastSeenTime": "10:29:45 AM",
+    "onlineDurationMins": 29.60075
+  },
+  "masterchessengine@lichess": {
+    "id": "masterchessengine",
+    "provider": "lichess",
+    "username": "MasterChessEngine",
+    "firstSeen": 1618653667869,
+    "lastSeen": 1618655951766,
+    "firstSeenTime": "10:01:07 AM",
+    "lastSeenTime": "10:27:03 AM",
+    "onlineDurationMins": 25.925666666666668
+  },
+  "blitzbot6@lichess": {
+    "id": "blitzbot6",
+    "provider": "lichess",
+    "username": "Blitzbot6",
+    "firstSeen": 1618655331604,
+    "lastSeen": 1618655610953,
+    "firstSeenTime": "10:28:51 AM",
+    "lastSeenTime": "10:29:10 AM",
+    "onlineDurationMins": 0.3202
+  },
+  "harsheelk@lichess": {
+    "id": "harsheelk",
+    "provider": "lichess",
+    "username": "HarsheelK",
+    "firstSeen": 1618655427876,
+    "lastSeen": 1618655431562
+  },
+  "kuwire@lichess": {
+    "id": "kuwire",
+    "provider": "lichess",
+    "username": "KuWire",
+    "firstSeen": 1618655473404,
+    "lastSeen": 1618655959722
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618655912971,
+    "lastSeen": 1618655932177
+  },
+  "grace-mulenga@lichess": {
+    "id": "grace-mulenga",
+    "provider": "lichess",
+    "username": "grace-mulenga",
+    "firstSeen": 1618655961182,
+    "lastSeen": 1618655992203
+  },
+  "twotry@lichess": {
+    "id": "twotry",
+    "provider": "lichess",
+    "username": "twotry",
+    "firstSeen": 1618655997685,
+    "lastSeen": 1618655997685
+  }
+}
