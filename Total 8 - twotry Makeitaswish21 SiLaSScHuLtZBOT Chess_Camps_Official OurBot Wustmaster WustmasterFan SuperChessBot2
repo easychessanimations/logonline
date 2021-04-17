@@ -1,0 +1,73 @@
+{
+  "twotry@lichess": {
+    "id": "twotry",
+    "provider": "lichess",
+    "username": "twotry",
+    "firstSeen": 1618655997685,
+    "lastSeen": 1618662067730,
+    "firstSeenTime": "10:39:57 AM",
+    "lastSeenTime": "12:10:11 PM",
+    "onlineDurationMins": 90.22453333333333
+  },
+  "makeitaswish21@lichess": {
+    "id": "makeitaswish21",
+    "provider": "lichess",
+    "username": "Makeitaswish21",
+    "firstSeen": 1618659387948,
+    "lastSeen": 1618662391008,
+    "firstSeenTime": "11:36:27 AM",
+    "lastSeenTime": "12:09:37 PM",
+    "onlineDurationMins": 33.15133333333333
+  },
+  "silasschultzbot@lichess": {
+    "id": "silasschultzbot",
+    "provider": "lichess",
+    "username": "SiLaSScHuLtZBOT",
+    "firstSeen": 1618659961926,
+    "lastSeen": 1618662245251,
+    "firstSeenTime": "11:46:01 AM",
+    "lastSeenTime": "12:10:15 PM",
+    "onlineDurationMins": 24.22305
+  },
+  "chess_camps_official@lichess": {
+    "id": "chess_camps_official",
+    "provider": "lichess",
+    "username": "Chess_Camps_Official",
+    "firstSeen": 1618660612730,
+    "lastSeen": 1618661580466,
+    "firstSeenTime": "11:56:52 AM",
+    "lastSeenTime": "12:07:08 PM",
+    "onlineDurationMins": 10.262933333333333
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618660710935,
+    "lastSeen": 1618662067250,
+    "firstSeenTime": "11:58:30 AM",
+    "lastSeenTime": "12:10:10 PM",
+    "onlineDurationMins": 11.658033333333334
+  },
+  "wustmaster@lichess": {
+    "id": "wustmaster",
+    "provider": "lichess",
+    "username": "Wustmaster",
+    "firstSeen": 1618661926509,
+    "lastSeen": 1618661937564
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1618661955173,
+    "lastSeen": 1618661967350
+  },
+  "superchessbot2@lichess": {
+    "id": "superchessbot2",
+    "provider": "lichess",
+    "username": "SuperChessBot2",
+    "firstSeen": 1618662434851,
+    "lastSeen": 1618662434851
+  }
+}
