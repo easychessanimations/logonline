@@ -1,0 +1,69 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618646070698,
+    "lastSeen": 1618651143640,
+    "firstSeenTime": "7:54:30 AM",
+    "lastSeenTime": "9:14:10 AM",
+    "onlineDurationMins": 79.66756666666667
+  },
+  "botsss@lichess": {
+    "id": "botsss",
+    "provider": "lichess",
+    "username": "botsss",
+    "firstSeen": 1618648358157,
+    "lastSeen": 1618650468024,
+    "firstSeenTime": "8:32:38 AM",
+    "lastSeenTime": "9:07:48 AM",
+    "onlineDurationMins": 35.16445
+  },
+  "harsheelk@lichess": {
+    "id": "harsheelk",
+    "provider": "lichess",
+    "username": "HarsheelK",
+    "firstSeen": 1618649126354,
+    "lastSeen": 1618650721769,
+    "firstSeenTime": "8:45:26 AM",
+    "lastSeenTime": "9:12:01 AM",
+    "onlineDurationMins": 26.59025
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618649494373,
+    "lastSeen": 1618650945248,
+    "firstSeenTime": "8:51:34 AM",
+    "lastSeenTime": "9:15:45 AM",
+    "onlineDurationMins": 24.18125
+  },
+  "superchessbot2@lichess": {
+    "id": "superchessbot2",
+    "provider": "lichess",
+    "username": "SuperChessBot2",
+    "firstSeen": 1618649752100,
+    "lastSeen": 1618650814797,
+    "firstSeenTime": "8:55:52 AM",
+    "lastSeenTime": "9:13:34 AM",
+    "onlineDurationMins": 17.711616666666668
+  },
+  "pengxiaozhu3@lichess": {
+    "id": "pengxiaozhu3",
+    "provider": "lichess",
+    "username": "pengxiaozhu3",
+    "firstSeen": 1618650622813,
+    "lastSeen": 1618650637417,
+    "firstSeenTime": "9:10:22 AM",
+    "lastSeenTime": "9:10:37 AM",
+    "onlineDurationMins": 0.2434
+  },
+  "arya123aaa@lichess": {
+    "id": "arya123aaa",
+    "provider": "lichess",
+    "username": "arya123aaa",
+    "firstSeen": 1618651217456,
+    "lastSeen": 1618651217456
+  }
+}
