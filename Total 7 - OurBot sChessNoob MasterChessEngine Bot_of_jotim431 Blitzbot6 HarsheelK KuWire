@@ -1,0 +1,66 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618646070698,
+    "lastSeen": 1618655108711,
+    "firstSeenTime": "7:54:30 AM",
+    "lastSeenTime": "10:25:08 AM",
+    "onlineDurationMins": 150.63355
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618653609428,
+    "lastSeen": 1618655385473,
+    "firstSeenTime": "10:00:09 AM",
+    "lastSeenTime": "10:29:45 AM",
+    "onlineDurationMins": 29.60075
+  },
+  "masterchessengine@lichess": {
+    "id": "masterchessengine",
+    "provider": "lichess",
+    "username": "MasterChessEngine",
+    "firstSeen": 1618653667869,
+    "lastSeen": 1618655223409,
+    "firstSeenTime": "10:01:07 AM",
+    "lastSeenTime": "10:27:03 AM",
+    "onlineDurationMins": 25.925666666666668
+  },
+  "bot_of_jotim431@lichess": {
+    "id": "bot_of_jotim431",
+    "provider": "lichess",
+    "username": "Bot_of_jotim431",
+    "firstSeen": 1618654593831,
+    "lastSeen": 1618654617675,
+    "firstSeenTime": "10:16:33 AM",
+    "lastSeenTime": "10:16:57 AM",
+    "onlineDurationMins": 0.3974
+  },
+  "blitzbot6@lichess": {
+    "id": "blitzbot6",
+    "provider": "lichess",
+    "username": "Blitzbot6",
+    "firstSeen": 1618655331604,
+    "lastSeen": 1618655350816,
+    "firstSeenTime": "10:28:51 AM",
+    "lastSeenTime": "10:29:10 AM",
+    "onlineDurationMins": 0.3202
+  },
+  "harsheelk@lichess": {
+    "id": "harsheelk",
+    "provider": "lichess",
+    "username": "HarsheelK",
+    "firstSeen": 1618655427876,
+    "lastSeen": 1618655431562
+  },
+  "kuwire@lichess": {
+    "id": "kuwire",
+    "provider": "lichess",
+    "username": "KuWire",
+    "firstSeen": 1618655473404,
+    "lastSeen": 1618655473404
+  }
+}
