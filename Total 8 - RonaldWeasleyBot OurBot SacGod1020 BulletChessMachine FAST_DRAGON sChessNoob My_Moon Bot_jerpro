@@ -1,0 +1,76 @@
+{
+  "ronaldweasleybot@lichess": {
+    "id": "ronaldweasleybot",
+    "provider": "lichess",
+    "username": "RonaldWeasleyBot",
+    "firstSeen": 1618732764598,
+    "lastSeen": 1618738792547,
+    "firstSeenTime": "7:59:24 AM",
+    "lastSeenTime": "9:27:52 AM",
+    "onlineDurationMins": 88.46745
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618732835971,
+    "lastSeen": 1618738838051,
+    "firstSeenTime": "8:00:35 AM",
+    "lastSeenTime": "9:36:12 AM",
+    "onlineDurationMins": 95.60691666666666
+  },
+  "sacgod1020@lichess": {
+    "id": "sacgod1020",
+    "provider": "lichess",
+    "username": "SacGod1020",
+    "firstSeen": 1618734081115,
+    "lastSeen": 1618739038748,
+    "firstSeenTime": "8:21:21 AM",
+    "lastSeenTime": "9:36:26 AM",
+    "onlineDurationMins": 75.08796666666667
+  },
+  "bulletchessmachine@lichess": {
+    "id": "bulletchessmachine",
+    "provider": "lichess",
+    "username": "BulletChessMachine",
+    "firstSeen": 1618736384207,
+    "lastSeen": 1618739015999,
+    "firstSeenTime": "8:59:44 AM",
+    "lastSeenTime": "9:34:57 AM",
+    "onlineDurationMins": 35.22581666666667
+  },
+  "fast_dragon@lichess": {
+    "id": "fast_dragon",
+    "provider": "lichess",
+    "username": "FAST_DRAGON",
+    "firstSeen": 1618737155547,
+    "lastSeen": 1618738537104,
+    "firstSeenTime": "9:12:35 AM",
+    "lastSeenTime": "9:35:37 AM",
+    "onlineDurationMins": 23.02595
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618737855555,
+    "lastSeen": 1618738755485,
+    "firstSeenTime": "9:24:15 AM",
+    "lastSeenTime": "9:39:15 AM",
+    "onlineDurationMins": 14.998833333333334
+  },
+  "my_moon@lichess": {
+    "id": "my_moon",
+    "provider": "lichess",
+    "username": "My_Moon",
+    "firstSeen": 1618738798633,
+    "lastSeen": 1618738880677
+  },
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1618739052631,
+    "lastSeen": 1618739052631
+  }
+}
