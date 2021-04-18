@@ -1,0 +1,66 @@
+{
+  "twotry@lichess": {
+    "id": "twotry",
+    "provider": "lichess",
+    "username": "twotry",
+    "firstSeen": 1618740312967,
+    "lastSeen": 1618750216969,
+    "firstSeenTime": "10:05:12 AM",
+    "lastSeenTime": "12:40:12 PM",
+    "onlineDurationMins": 154.99693333333335
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618745218789,
+    "lastSeen": 1618750217103,
+    "firstSeenTime": "11:26:58 AM",
+    "lastSeenTime": "12:43:17 PM",
+    "onlineDurationMins": 76.30675
+  },
+  "fast_dragon@lichess": {
+    "id": "fast_dragon",
+    "provider": "lichess",
+    "username": "FAST_DRAGON",
+    "firstSeen": 1618745661417,
+    "lastSeen": 1618750233680,
+    "firstSeenTime": "11:34:21 AM",
+    "lastSeenTime": "12:36:46 PM",
+    "onlineDurationMins": 62.41683333333334
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618747385726,
+    "lastSeen": 1618750387704,
+    "firstSeenTime": "12:03:05 PM",
+    "lastSeenTime": "12:37:08 PM",
+    "onlineDurationMins": 34.05351666666667
+  },
+  "bosburp777@lichess": {
+    "id": "bosburp777",
+    "provider": "lichess",
+    "username": "Bosburp777",
+    "firstSeen": 1618748752356,
+    "lastSeen": 1618750541808,
+    "firstSeenTime": "12:25:52 PM",
+    "lastSeenTime": "12:40:17 PM",
+    "onlineDurationMins": 14.425916666666666
+  },
+  "bot_of_jotim431@lichess": {
+    "id": "bot_of_jotim431",
+    "provider": "lichess",
+    "username": "Bot_of_jotim431",
+    "firstSeen": 1618750090718,
+    "lastSeen": 1618750114192
+  },
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1618750238735,
+    "lastSeen": 1618750241919
+  }
+}
