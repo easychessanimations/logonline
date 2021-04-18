@@ -1,0 +1,59 @@
+{
+  "twotry@lichess": {
+    "id": "twotry",
+    "provider": "lichess",
+    "username": "twotry",
+    "firstSeen": 1618740312967,
+    "lastSeen": 1618745733158,
+    "firstSeenTime": "10:05:12 AM",
+    "lastSeenTime": "11:25:25 AM",
+    "onlineDurationMins": 80.2072
+  },
+  "chess_camps_official@lichess": {
+    "id": "chess_camps_official",
+    "provider": "lichess",
+    "username": "Chess_Camps_Official",
+    "firstSeen": 1618743293175,
+    "lastSeen": 1618746004436,
+    "firstSeenTime": "10:54:53 AM",
+    "lastSeenTime": "11:32:15 AM",
+    "onlineDurationMins": 37.38005
+  },
+  "pengxiaozhu3@lichess": {
+    "id": "pengxiaozhu3",
+    "provider": "lichess",
+    "username": "pengxiaozhu3",
+    "firstSeen": 1618743433090,
+    "lastSeen": 1618745694360,
+    "firstSeenTime": "10:57:13 AM",
+    "lastSeenTime": "11:33:22 AM",
+    "onlineDurationMins": 36.15658333333333
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618745218789,
+    "lastSeen": 1618746020208,
+    "firstSeenTime": "11:26:58 AM",
+    "lastSeenTime": "11:28:24 AM",
+    "onlineDurationMins": 1.4261
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618745652816,
+    "lastSeen": 1618745652816,
+    "firstSeenTime": "11:34:12 AM",
+    "lastSeenTime": "11:34:12 AM",
+    "onlineDurationMins": 0
+  },
+  "fast_dragon@lichess": {
+    "id": "fast_dragon",
+    "provider": "lichess",
+    "username": "FAST_DRAGON",
+    "firstSeen": 1618745661417,
+    "lastSeen": 1618746260176
+  }
+}
