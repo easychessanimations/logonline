@@ -1,0 +1,72 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618732835971,
+    "lastSeen": 1618739528447,
+    "firstSeenTime": "8:00:35 AM",
+    "lastSeenTime": "9:52:08 AM",
+    "onlineDurationMins": 111.54126666666667
+  },
+  "bulletchessmachine@lichess": {
+    "id": "bulletchessmachine",
+    "provider": "lichess",
+    "username": "BulletChessMachine",
+    "firstSeen": 1618736384207,
+    "lastSeen": 1618739856859,
+    "firstSeenTime": "8:59:44 AM",
+    "lastSeenTime": "9:53:28 AM",
+    "onlineDurationMins": 53.73791666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618737855555,
+    "lastSeen": 1618739786885,
+    "firstSeenTime": "9:24:15 AM",
+    "lastSeenTime": "9:56:26 AM",
+    "onlineDurationMins": 32.188833333333335
+  },
+  "my_moon@lichess": {
+    "id": "my_moon",
+    "provider": "lichess",
+    "username": "My_Moon",
+    "firstSeen": 1618738798633,
+    "lastSeen": 1618739518103,
+    "firstSeenTime": "9:39:58 AM",
+    "lastSeenTime": "9:51:58 AM",
+    "onlineDurationMins": 11.991166666666667
+  },
+  "bot_jerpro@lichess": {
+    "id": "bot_jerpro",
+    "provider": "lichess",
+    "username": "Bot_jerpro",
+    "firstSeen": 1618739052631,
+    "lastSeen": 1618739703790,
+    "firstSeenTime": "9:44:12 AM",
+    "lastSeenTime": "9:55:03 AM",
+    "onlineDurationMins": 10.85265
+  },
+  "ofsbrianlebot@lichess": {
+    "id": "ofsbrianlebot",
+    "provider": "lichess",
+    "username": "ofsbrianlebot",
+    "firstSeen": 1618739493146,
+    "lastSeen": 1618739726671,
+    "firstSeenTime": "9:51:33 AM",
+    "lastSeenTime": "9:55:26 AM",
+    "onlineDurationMins": 3.8920833333333333
+  },
+  "mannreader@lichess": {
+    "id": "mannreader",
+    "provider": "lichess",
+    "username": "MannReader",
+    "firstSeen": 1618739663713,
+    "lastSeen": 1618739672196,
+    "firstSeenTime": "9:54:23 AM",
+    "lastSeenTime": "9:54:32 AM",
+    "onlineDurationMins": 0.14138333333333333
+  }
+}
