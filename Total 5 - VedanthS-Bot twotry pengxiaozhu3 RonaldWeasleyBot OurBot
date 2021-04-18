@@ -1,0 +1,37 @@
+{
+  "vedanths-bot@lichess": {
+    "id": "vedanths-bot",
+    "provider": "lichess",
+    "username": "VedanthS-Bot",
+    "firstSeen": 1618731696498,
+    "lastSeen": 1618732836014
+  },
+  "twotry@lichess": {
+    "id": "twotry",
+    "provider": "lichess",
+    "username": "twotry",
+    "firstSeen": 1618731754795,
+    "lastSeen": 1618733010037
+  },
+  "pengxiaozhu3@lichess": {
+    "id": "pengxiaozhu3",
+    "provider": "lichess",
+    "username": "pengxiaozhu3",
+    "firstSeen": 1618731819137,
+    "lastSeen": 1618732966107
+  },
+  "ronaldweasleybot@lichess": {
+    "id": "ronaldweasleybot",
+    "provider": "lichess",
+    "username": "RonaldWeasleyBot",
+    "firstSeen": 1618732764598,
+    "lastSeen": 1618732793361
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618732835971,
+    "lastSeen": 1618732910906
+  }
+}
