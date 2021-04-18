@@ -1,0 +1,99 @@
+{
+  "twotry@lichess": {
+    "id": "twotry",
+    "provider": "lichess",
+    "username": "twotry",
+    "firstSeen": 1618731754795,
+    "lastSeen": 1618736250219,
+    "firstSeenTime": "7:42:34 AM",
+    "lastSeenTime": "8:47:30 AM",
+    "onlineDurationMins": 64.92493333333333
+  },
+  "ronaldweasleybot@lichess": {
+    "id": "ronaldweasleybot",
+    "provider": "lichess",
+    "username": "RonaldWeasleyBot",
+    "firstSeen": 1618732764598,
+    "lastSeen": 1618736220609,
+    "firstSeenTime": "7:59:24 AM",
+    "lastSeenTime": "8:53:45 AM",
+    "onlineDurationMins": 54.34438333333333
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618732835971,
+    "lastSeen": 1618736182588,
+    "firstSeenTime": "8:00:35 AM",
+    "lastSeenTime": "8:50:37 AM",
+    "onlineDurationMins": 50.0335
+  },
+  "pengxiaozhu3@lichess": {
+    "id": "pengxiaozhu3",
+    "provider": "lichess",
+    "username": "pengxiaozhu3",
+    "firstSeen": 1618734057117,
+    "lastSeen": 1618735917649,
+    "firstSeenTime": "8:20:57 AM",
+    "lastSeenTime": "8:51:57 AM",
+    "onlineDurationMins": 31.008866666666666
+  },
+  "sacgod1020@lichess": {
+    "id": "sacgod1020",
+    "provider": "lichess",
+    "username": "SacGod1020",
+    "firstSeen": 1618734081115,
+    "lastSeen": 1618736214790,
+    "firstSeenTime": "8:21:21 AM",
+    "lastSeenTime": "8:50:10 AM",
+    "onlineDurationMins": 28.829866666666668
+  },
+  "vedanths-bot@lichess": {
+    "id": "vedanths-bot",
+    "provider": "lichess",
+    "username": "VedanthS-Bot",
+    "firstSeen": 1618734625580,
+    "lastSeen": 1618736114762,
+    "firstSeenTime": "8:30:25 AM",
+    "lastSeenTime": "8:52:00 AM",
+    "onlineDurationMins": 21.575233333333333
+  },
+  "stockfish9chessbot@lichess": {
+    "id": "stockfish9chessbot",
+    "provider": "lichess",
+    "username": "Stockfish9ChessBot",
+    "firstSeen": 1618734938612,
+    "lastSeen": 1618735940893,
+    "firstSeenTime": "8:35:38 AM",
+    "lastSeenTime": "8:52:20 AM",
+    "onlineDurationMins": 16.70468333333333
+  },
+  "shisha27space2w@lichess": {
+    "id": "shisha27space2w",
+    "provider": "lichess",
+    "username": "shisha27space2W",
+    "firstSeen": 1618735124641,
+    "lastSeen": 1618736067645,
+    "firstSeenTime": "8:38:44 AM",
+    "lastSeenTime": "8:54:27 AM",
+    "onlineDurationMins": 15.716733333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618736070360,
+    "lastSeen": 1618736070360,
+    "firstSeenTime": "8:54:30 AM",
+    "lastSeenTime": "8:54:30 AM",
+    "onlineDurationMins": 0
+  },
+  "street_race_1st@lichess": {
+    "id": "street_race_1st",
+    "provider": "lichess",
+    "username": "Street_race_1st",
+    "firstSeen": 1618736285362,
+    "lastSeen": 1618736285362
+  }
+}
