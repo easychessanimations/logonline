@@ -1,0 +1,79 @@
+{
+  "twotry@lichess": {
+    "id": "twotry",
+    "provider": "lichess",
+    "username": "twotry",
+    "firstSeen": 1618740312967,
+    "lastSeen": 1618747096324,
+    "firstSeenTime": "10:05:12 AM",
+    "lastSeenTime": "11:58:16 AM",
+    "onlineDurationMins": 113.05595
+  },
+  "chess_camps_official@lichess": {
+    "id": "chess_camps_official",
+    "provider": "lichess",
+    "username": "Chess_Camps_Official",
+    "firstSeen": 1618743293175,
+    "lastSeen": 1618747532054,
+    "firstSeenTime": "10:54:53 AM",
+    "lastSeenTime": "12:01:19 PM",
+    "onlineDurationMins": 66.44646666666667
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618745218789,
+    "lastSeen": 1618747336836,
+    "firstSeenTime": "11:26:58 AM",
+    "lastSeenTime": "12:02:16 PM",
+    "onlineDurationMins": 35.300783333333335
+  },
+  "fast_dragon@lichess": {
+    "id": "fast_dragon",
+    "provider": "lichess",
+    "username": "FAST_DRAGON",
+    "firstSeen": 1618745661417,
+    "lastSeen": 1618747182726,
+    "firstSeenTime": "11:34:21 AM",
+    "lastSeenTime": "11:59:42 AM",
+    "onlineDurationMins": 25.35515
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618747091059,
+    "lastSeen": 1618747390648,
+    "firstSeenTime": "11:58:11 AM",
+    "lastSeenTime": "12:03:10 PM",
+    "onlineDurationMins": 4.99315
+  },
+  "silasschultzbot@lichess": {
+    "id": "silasschultzbot",
+    "provider": "lichess",
+    "username": "SiLaSScHuLtZBOT",
+    "firstSeen": 1618747334971,
+    "lastSeen": 1618747546820,
+    "firstSeenTime": "12:02:14 PM",
+    "lastSeenTime": "12:02:25 PM",
+    "onlineDurationMins": 0.17728333333333332
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618747385726,
+    "lastSeen": 1618747425635,
+    "firstSeenTime": "12:03:05 PM",
+    "lastSeenTime": "12:03:10 PM",
+    "onlineDurationMins": 0.07468333333333334
+  },
+  "vedanths-bot@lichess": {
+    "id": "vedanths-bot",
+    "provider": "lichess",
+    "username": "VedanthS-Bot",
+    "firstSeen": 1618747575998,
+    "lastSeen": 1618747575998
+  }
+}
