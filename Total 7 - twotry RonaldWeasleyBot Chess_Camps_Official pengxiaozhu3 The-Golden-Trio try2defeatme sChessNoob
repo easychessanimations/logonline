@@ -1,0 +1,66 @@
+{
+  "twotry@lichess": {
+    "id": "twotry",
+    "provider": "lichess",
+    "username": "twotry",
+    "firstSeen": 1618740312967,
+    "lastSeen": 1618745125399,
+    "firstSeenTime": "10:05:12 AM",
+    "lastSeenTime": "11:12:12 AM",
+    "onlineDurationMins": 66.99623333333334
+  },
+  "ronaldweasleybot@lichess": {
+    "id": "ronaldweasleybot",
+    "provider": "lichess",
+    "username": "RonaldWeasleyBot",
+    "firstSeen": 1618742137978,
+    "lastSeen": 1618744852878,
+    "firstSeenTime": "10:35:37 AM",
+    "lastSeenTime": "11:09:52 AM",
+    "onlineDurationMins": 34.249316666666665
+  },
+  "chess_camps_official@lichess": {
+    "id": "chess_camps_official",
+    "provider": "lichess",
+    "username": "Chess_Camps_Official",
+    "firstSeen": 1618743293175,
+    "lastSeen": 1618745535978,
+    "firstSeenTime": "10:54:53 AM",
+    "lastSeenTime": "11:14:49 AM",
+    "onlineDurationMins": 19.940183333333334
+  },
+  "pengxiaozhu3@lichess": {
+    "id": "pengxiaozhu3",
+    "provider": "lichess",
+    "username": "pengxiaozhu3",
+    "firstSeen": 1618743433090,
+    "lastSeen": 1618745602485,
+    "firstSeenTime": "10:57:13 AM",
+    "lastSeenTime": "11:12:53 AM",
+    "onlineDurationMins": 15.672783333333333
+  },
+  "the-golden-trio@lichess": {
+    "id": "the-golden-trio",
+    "provider": "lichess",
+    "username": "The-Golden-Trio",
+    "firstSeen": 1618744509507,
+    "lastSeen": 1618745176930,
+    "firstSeenTime": "11:15:09 AM",
+    "lastSeenTime": "11:15:16 AM",
+    "onlineDurationMins": 0.11646666666666666
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618745218789,
+    "lastSeen": 1618745304355
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618745652816,
+    "lastSeen": 1618745652816
+  }
+}
