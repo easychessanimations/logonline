@@ -1,0 +1,29 @@
+{
+  "the-golden-trio@lichess": {
+    "id": "the-golden-trio",
+    "provider": "lichess",
+    "username": "The-Golden-Trio",
+    "firstSeen": 1618713278700,
+    "lastSeen": 1618726759793,
+    "firstSeenTime": "2:34:38 AM",
+    "lastSeenTime": "5:13:15 AM",
+    "onlineDurationMins": 158.61113333333333
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618721300502,
+    "lastSeen": 1618727002362,
+    "firstSeenTime": "4:48:20 AM",
+    "lastSeenTime": "5:11:43 AM",
+    "onlineDurationMins": 23.3831
+  },
+  "twotry@lichess": {
+    "id": "twotry",
+    "provider": "lichess",
+    "username": "twotry",
+    "firstSeen": 1618725467618,
+    "lastSeen": 1618726970799
+  }
+}
