@@ -1,0 +1,30 @@
+{
+  "the-golden-trio@lichess": {
+    "id": "the-golden-trio",
+    "provider": "lichess",
+    "username": "The-Golden-Trio",
+    "firstSeen": 1618713278700,
+    "lastSeen": 1618721236286
+  },
+  "in-chess-king@lichess": {
+    "id": "in-chess-king",
+    "provider": "lichess",
+    "username": "IN-Chess-King",
+    "firstSeen": 1618714509173,
+    "lastSeen": 1618721169247
+  },
+  "pduseja-bot@lichess": {
+    "id": "pduseja-bot",
+    "provider": "lichess",
+    "username": "pduseja-bot",
+    "firstSeen": 1618718038674,
+    "lastSeen": 1618721037231
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618721300502,
+    "lastSeen": 1618721300502
+  }
+}
