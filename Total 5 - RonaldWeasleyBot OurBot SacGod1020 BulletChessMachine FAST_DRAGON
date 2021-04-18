@@ -1,0 +1,49 @@
+{
+  "ronaldweasleybot@lichess": {
+    "id": "ronaldweasleybot",
+    "provider": "lichess",
+    "username": "RonaldWeasleyBot",
+    "firstSeen": 1618732764598,
+    "lastSeen": 1618737412631,
+    "firstSeenTime": "7:59:24 AM",
+    "lastSeenTime": "9:04:55 AM",
+    "onlineDurationMins": 65.52048333333333
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618732835971,
+    "lastSeen": 1618737435072,
+    "firstSeenTime": "8:00:35 AM",
+    "lastSeenTime": "9:05:08 AM",
+    "onlineDurationMins": 64.54181666666666
+  },
+  "sacgod1020@lichess": {
+    "id": "sacgod1020",
+    "provider": "lichess",
+    "username": "SacGod1020",
+    "firstSeen": 1618734081115,
+    "lastSeen": 1618737732508,
+    "firstSeenTime": "8:21:21 AM",
+    "lastSeenTime": "9:07:50 AM",
+    "onlineDurationMins": 46.48708333333333
+  },
+  "bulletchessmachine@lichess": {
+    "id": "bulletchessmachine",
+    "provider": "lichess",
+    "username": "BulletChessMachine",
+    "firstSeen": 1618736384207,
+    "lastSeen": 1618737801907,
+    "firstSeenTime": "8:59:44 AM",
+    "lastSeenTime": "9:00:12 AM",
+    "onlineDurationMins": 0.4750666666666667
+  },
+  "fast_dragon@lichess": {
+    "id": "fast_dragon",
+    "provider": "lichess",
+    "username": "FAST_DRAGON",
+    "firstSeen": 1618737155547,
+    "lastSeen": 1618737852145
+  }
+}
