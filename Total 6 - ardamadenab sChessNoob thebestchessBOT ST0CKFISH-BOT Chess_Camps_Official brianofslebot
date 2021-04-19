@@ -1,0 +1,56 @@
+{
+  "ardamadenab@lichess": {
+    "id": "ardamadenab",
+    "provider": "lichess",
+    "username": "ardamadenab",
+    "firstSeen": 1618829001590,
+    "lastSeen": 1618830185744,
+    "firstSeenTime": "10:43:21 AM",
+    "lastSeenTime": "11:03:05 AM",
+    "onlineDurationMins": 19.7359
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618829202635,
+    "lastSeen": 1618830267305,
+    "firstSeenTime": "10:46:42 AM",
+    "lastSeenTime": "11:04:27 AM",
+    "onlineDurationMins": 17.7445
+  },
+  "thebestchessbot@lichess": {
+    "id": "thebestchessbot",
+    "provider": "lichess",
+    "username": "thebestchessBOT",
+    "firstSeen": 1618829440755,
+    "lastSeen": 1618830223803,
+    "firstSeenTime": "10:50:40 AM",
+    "lastSeenTime": "11:03:43 AM",
+    "onlineDurationMins": 13.0508
+  },
+  "st0ckfish-bot@lichess": {
+    "id": "st0ckfish-bot",
+    "provider": "lichess",
+    "username": "ST0CKFISH-BOT",
+    "firstSeen": 1618829779762,
+    "lastSeen": 1618830834100,
+    "firstSeenTime": "10:56:19 AM",
+    "lastSeenTime": "11:03:26 AM",
+    "onlineDurationMins": 7.118916666666666
+  },
+  "chess_camps_official@lichess": {
+    "id": "chess_camps_official",
+    "provider": "lichess",
+    "username": "Chess_Camps_Official",
+    "firstSeen": 1618830349587,
+    "lastSeen": 1618830359131
+  },
+  "brianofslebot@lichess": {
+    "id": "brianofslebot",
+    "provider": "lichess",
+    "username": "brianofslebot",
+    "firstSeen": 1618830533203,
+    "lastSeen": 1618830543932
+  }
+}
