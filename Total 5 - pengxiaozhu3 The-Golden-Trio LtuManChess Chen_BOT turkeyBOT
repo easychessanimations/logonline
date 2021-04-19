@@ -1,0 +1,43 @@
+{
+  "pengxiaozhu3@lichess": {
+    "id": "pengxiaozhu3",
+    "provider": "lichess",
+    "username": "pengxiaozhu3",
+    "firstSeen": 1618819639084,
+    "lastSeen": 1618826558867,
+    "firstSeenTime": "8:07:19 AM",
+    "lastSeenTime": "9:32:18 AM",
+    "onlineDurationMins": 84.9926
+  },
+  "the-golden-trio@lichess": {
+    "id": "the-golden-trio",
+    "provider": "lichess",
+    "username": "The-Golden-Trio",
+    "firstSeen": 1618820037779,
+    "lastSeen": 1618826690509,
+    "firstSeenTime": "8:13:57 AM",
+    "lastSeenTime": "9:26:16 AM",
+    "onlineDurationMins": 72.31543333333333
+  },
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1618825448344,
+    "lastSeen": 1618826949869
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1618826205537,
+    "lastSeen": 1618826930205
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1618826886862,
+    "lastSeen": 1618826895932
+  }
+}
