@@ -1,0 +1,51 @@
+{
+  "msversailles@lichess": {
+    "id": "msversailles",
+    "provider": "lichess",
+    "username": "MsVersailles",
+    "firstSeen": 1618815245247,
+    "lastSeen": 1618816599327
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1618815624760,
+    "lastSeen": 1618816461660
+  },
+  "ronaldweasleybot@lichess": {
+    "id": "ronaldweasleybot",
+    "provider": "lichess",
+    "username": "RonaldWeasleyBot",
+    "firstSeen": 1618815778708,
+    "lastSeen": 1618816492314
+  },
+  "thebestchessbot@lichess": {
+    "id": "thebestchessbot",
+    "provider": "lichess",
+    "username": "thebestchessBOT",
+    "firstSeen": 1618816182599,
+    "lastSeen": 1618817132498
+  },
+  "chess_camps_official@lichess": {
+    "id": "chess_camps_official",
+    "provider": "lichess",
+    "username": "Chess_Camps_Official",
+    "firstSeen": 1618816548388,
+    "lastSeen": 1618817120915
+  },
+  "gamer_bot@lichess": {
+    "id": "gamer_bot",
+    "provider": "lichess",
+    "username": "Gamer_bot",
+    "firstSeen": 1618816764439,
+    "lastSeen": 1618816803883
+  },
+  "the-golden-trio@lichess": {
+    "id": "the-golden-trio",
+    "provider": "lichess",
+    "username": "The-Golden-Trio",
+    "firstSeen": 1618817147073,
+    "lastSeen": 1618817161893
+  }
+}
