@@ -1,0 +1,23 @@
+{
+  "kindapassivebot@lichess": {
+    "id": "kindapassivebot",
+    "provider": "lichess",
+    "username": "KindaPassiveBot",
+    "firstSeen": 1618852286221,
+    "lastSeen": 1618852286221
+  },
+  "wittenbergadmin@lichess": {
+    "id": "wittenbergadmin",
+    "provider": "lichess",
+    "username": "WittenbergAdmin",
+    "firstSeen": 1618852307799,
+    "lastSeen": 1618852308910
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618852320408,
+    "lastSeen": 1618852320408
+  }
+}
