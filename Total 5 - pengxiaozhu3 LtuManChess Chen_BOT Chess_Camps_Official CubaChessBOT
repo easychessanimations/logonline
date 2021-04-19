@@ -1,0 +1,46 @@
+{
+  "pengxiaozhu3@lichess": {
+    "id": "pengxiaozhu3",
+    "provider": "lichess",
+    "username": "pengxiaozhu3",
+    "firstSeen": 1618819639084,
+    "lastSeen": 1618828341697,
+    "firstSeenTime": "8:07:19 AM",
+    "lastSeenTime": "10:24:54 AM",
+    "onlineDurationMins": 137.59573333333333
+  },
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1618825448344,
+    "lastSeen": 1618828450143,
+    "firstSeenTime": "9:44:08 AM",
+    "lastSeenTime": "10:26:08 AM",
+    "onlineDurationMins": 42.006283333333336
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1618826205537,
+    "lastSeen": 1618828370286,
+    "firstSeenTime": "9:56:45 AM",
+    "lastSeenTime": "10:21:50 AM",
+    "onlineDurationMins": 25.077516666666668
+  },
+  "chess_camps_official@lichess": {
+    "id": "chess_camps_official",
+    "provider": "lichess",
+    "username": "Chess_Camps_Official",
+    "firstSeen": 1618828315794,
+    "lastSeen": 1618828707915
+  },
+  "cubachessbot@lichess": {
+    "id": "cubachessbot",
+    "provider": "lichess",
+    "username": "CubaChessBOT",
+    "firstSeen": 1618828404441,
+    "lastSeen": 1618828761520
+  }
+}
