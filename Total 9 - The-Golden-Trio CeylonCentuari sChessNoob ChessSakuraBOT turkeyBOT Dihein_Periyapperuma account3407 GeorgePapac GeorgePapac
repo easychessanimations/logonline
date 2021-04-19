@@ -1,0 +1,92 @@
+{
+  "the-golden-trio@lichess": {
+    "id": "the-golden-trio",
+    "provider": "lichess",
+    "username": "The-Golden-Trio",
+    "firstSeen": 1618817147073,
+    "lastSeen": 1618818185512,
+    "firstSeenTime": "7:25:47 AM",
+    "lastSeenTime": "7:43:05 AM",
+    "onlineDurationMins": 17.307316666666665
+  },
+  "ceyloncentuari@lichess": {
+    "id": "ceyloncentuari",
+    "provider": "lichess",
+    "username": "CeylonCentuari",
+    "firstSeen": 1618817294988,
+    "lastSeen": 1618818233241,
+    "firstSeenTime": "7:28:14 AM",
+    "lastSeenTime": "7:42:07 AM",
+    "onlineDurationMins": 13.882466666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618817322081,
+    "lastSeen": 1618818225636,
+    "firstSeenTime": "7:28:42 AM",
+    "lastSeenTime": "7:43:45 AM",
+    "onlineDurationMins": 15.05925
+  },
+  "chesssakurabot@lichess": {
+    "id": "chesssakurabot",
+    "provider": "lichess",
+    "username": "ChessSakuraBOT",
+    "firstSeen": 1618817363100,
+    "lastSeen": 1618817416969,
+    "firstSeenTime": "7:29:23 AM",
+    "lastSeenTime": "7:30:16 AM",
+    "onlineDurationMins": 0.8978166666666667
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1618817518972,
+    "lastSeen": 1618818050333,
+    "firstSeenTime": "7:31:58 AM",
+    "lastSeenTime": "7:40:50 AM",
+    "onlineDurationMins": 8.856016666666667
+  },
+  "dihein_periyapperuma@lichess": {
+    "id": "dihein_periyapperuma",
+    "provider": "lichess",
+    "username": "Dihein_Periyapperuma",
+    "firstSeen": 1618817533597,
+    "lastSeen": 1618817570095,
+    "firstSeenTime": "7:32:13 AM",
+    "lastSeenTime": "7:32:50 AM",
+    "onlineDurationMins": 0.6083
+  },
+  "account3407@lichess": {
+    "id": "account3407",
+    "provider": "lichess",
+    "username": "account3407",
+    "firstSeen": 1618817570859,
+    "lastSeen": 1618818233711,
+    "firstSeenTime": "7:32:50 AM",
+    "lastSeenTime": "7:42:08 AM",
+    "onlineDurationMins": 9.289483333333333
+  },
+  "798154211241885718@discord": {
+    "id": "798154211241885718",
+    "provider": "discord",
+    "username": "GeorgePapac",
+    "firstSeen": 1618817918151,
+    "lastSeen": 1618817925717,
+    "firstSeenTime": "7:38:38 AM",
+    "lastSeenTime": "7:38:45 AM",
+    "onlineDurationMins": 0.1261
+  },
+  "georgepapac@lichess": {
+    "id": "georgepapac",
+    "provider": "lichess",
+    "username": "GeorgePapac",
+    "firstSeen": 1618817926384,
+    "lastSeen": 1618818088738,
+    "firstSeenTime": "7:38:46 AM",
+    "lastSeenTime": "7:41:28 AM",
+    "onlineDurationMins": 2.7059
+  }
+}
