@@ -1,0 +1,79 @@
+{
+  "msversailles@lichess": {
+    "id": "msversailles",
+    "provider": "lichess",
+    "username": "MsVersailles",
+    "firstSeen": 1618815245247,
+    "lastSeen": 1618817343599,
+    "firstSeenTime": "6:54:05 AM",
+    "lastSeenTime": "7:16:39 AM",
+    "onlineDurationMins": 22.568
+  },
+  "thebestchessbot@lichess": {
+    "id": "thebestchessbot",
+    "provider": "lichess",
+    "username": "thebestchessBOT",
+    "firstSeen": 1618816182599,
+    "lastSeen": 1618817132498,
+    "firstSeenTime": "7:09:42 AM",
+    "lastSeenTime": "7:25:32 AM",
+    "onlineDurationMins": 15.83165
+  },
+  "chess_camps_official@lichess": {
+    "id": "chess_camps_official",
+    "provider": "lichess",
+    "username": "Chess_Camps_Official",
+    "firstSeen": 1618816548388,
+    "lastSeen": 1618817120915,
+    "firstSeenTime": "7:15:48 AM",
+    "lastSeenTime": "7:25:20 AM",
+    "onlineDurationMins": 9.542116666666667
+  },
+  "gamer_bot@lichess": {
+    "id": "gamer_bot",
+    "provider": "lichess",
+    "username": "Gamer_bot",
+    "firstSeen": 1618816764439,
+    "lastSeen": 1618816803883,
+    "firstSeenTime": "7:19:24 AM",
+    "lastSeenTime": "7:20:03 AM",
+    "onlineDurationMins": 0.6574
+  },
+  "the-golden-trio@lichess": {
+    "id": "the-golden-trio",
+    "provider": "lichess",
+    "username": "The-Golden-Trio",
+    "firstSeen": 1618817147073,
+    "lastSeen": 1618817161893,
+    "firstSeenTime": "7:25:47 AM",
+    "lastSeenTime": "7:26:01 AM",
+    "onlineDurationMins": 0.247
+  },
+  "ceyloncentuari@lichess": {
+    "id": "ceyloncentuari",
+    "provider": "lichess",
+    "username": "CeylonCentuari",
+    "firstSeen": 1618817294988,
+    "lastSeen": 1618817304511,
+    "firstSeenTime": "7:28:14 AM",
+    "lastSeenTime": "7:28:24 AM",
+    "onlineDurationMins": 0.15871666666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618817322081,
+    "lastSeen": 1618817322081,
+    "firstSeenTime": "7:28:42 AM",
+    "lastSeenTime": "7:28:42 AM",
+    "onlineDurationMins": 0
+  },
+  "chesssakurabot@lichess": {
+    "id": "chesssakurabot",
+    "provider": "lichess",
+    "username": "ChessSakuraBOT",
+    "firstSeen": 1618817363100,
+    "lastSeen": 1618817406878
+  }
+}
