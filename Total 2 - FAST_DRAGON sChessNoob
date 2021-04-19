@@ -1,0 +1,22 @@
+{
+  "fast_dragon@lichess": {
+    "id": "fast_dragon",
+    "provider": "lichess",
+    "username": "FAST_DRAGON",
+    "firstSeen": 1618809476265,
+    "lastSeen": 1618813113859,
+    "firstSeenTime": "5:17:56 AM",
+    "lastSeenTime": "6:07:58 AM",
+    "onlineDurationMins": 50.03391666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618812995411,
+    "lastSeen": 1618812996114,
+    "firstSeenTime": "6:16:35 AM",
+    "lastSeenTime": "6:16:35 AM",
+    "onlineDurationMins": 0
+  }
+}
