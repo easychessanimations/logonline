@@ -1,0 +1,107 @@
+{
+  "kindapassivebot@lichess": {
+    "id": "kindapassivebot",
+    "provider": "lichess",
+    "username": "KindaPassiveBot",
+    "firstSeen": 1618852286221,
+    "lastSeen": 1618853561255,
+    "firstSeenTime": "5:11:26 PM",
+    "lastSeenTime": "5:18:41 PM",
+    "onlineDurationMins": 7.2518666666666665
+  },
+  "wittenbergadmin@lichess": {
+    "id": "wittenbergadmin",
+    "provider": "lichess",
+    "username": "WittenbergAdmin",
+    "firstSeen": 1618852307799,
+    "lastSeen": 1618853893259,
+    "firstSeenTime": "5:11:47 PM",
+    "lastSeenTime": "5:15:58 PM",
+    "onlineDurationMins": 4.17145
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618852320408,
+    "lastSeen": 1618853820383,
+    "firstSeenTime": "5:12:00 PM",
+    "lastSeenTime": "5:12:00 PM",
+    "onlineDurationMins": 0
+  },
+  "a_true_papasionbot@lichess": {
+    "id": "a_true_papasionbot",
+    "provider": "lichess",
+    "username": "a_true_papasionbot",
+    "firstSeen": 1618852371228,
+    "lastSeen": 1618853300786,
+    "firstSeenTime": "5:12:51 PM",
+    "lastSeenTime": "5:18:35 PM",
+    "onlineDurationMins": 5.73605
+  },
+  "bot234@lichess": {
+    "id": "bot234",
+    "provider": "lichess",
+    "username": "BOT234",
+    "firstSeen": 1618852710462,
+    "lastSeen": 1618854105811,
+    "firstSeenTime": "5:18:30 PM",
+    "lastSeenTime": "5:18:43 PM",
+    "onlineDurationMins": 0.2195
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1618852711260,
+    "lastSeen": 1618853549059,
+    "firstSeenTime": "5:18:31 PM",
+    "lastSeenTime": "5:18:34 PM",
+    "onlineDurationMins": 0.0591
+  },
+  "jerald300@lichess": {
+    "id": "jerald300",
+    "provider": "lichess",
+    "username": "Jerald300",
+    "firstSeen": 1618852726770,
+    "lastSeen": 1618853570256,
+    "firstSeenTime": "5:18:46 PM",
+    "lastSeenTime": "5:18:46 PM",
+    "onlineDurationMins": 0
+  },
+  "makeitaswish21@lichess": {
+    "id": "makeitaswish21",
+    "provider": "lichess",
+    "username": "Makeitaswish21",
+    "firstSeen": 1618852736699,
+    "lastSeen": 1618853519764
+  },
+  "bfdzvfsgaergfds@lichess": {
+    "id": "bfdzvfsgaergfds",
+    "provider": "lichess",
+    "username": "bfdzvfsgaergfds",
+    "firstSeen": 1618852848998,
+    "lastSeen": 1618853699836
+  },
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1618853525310,
+    "lastSeen": 1618854088883
+  },
+  "ronaldweasleybot@lichess": {
+    "id": "ronaldweasleybot",
+    "provider": "lichess",
+    "username": "RonaldWeasleyBot",
+    "firstSeen": 1618854090508,
+    "lastSeen": 1618854100958
+  },
+  "mutantsarechess@lichess": {
+    "id": "mutantsarechess",
+    "provider": "lichess",
+    "username": "MutantsAreChess",
+    "firstSeen": 1618854111870,
+    "lastSeen": 1618854111870
+  }
+}
