@@ -1,0 +1,33 @@
+{
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618819576479,
+    "lastSeen": 1618819576480,
+    "firstSeenTime": "8:06:16 AM",
+    "lastSeenTime": "8:06:16 AM",
+    "onlineDurationMins": 0.000016666666666666667
+  },
+  "pengxiaozhu3@lichess": {
+    "id": "pengxiaozhu3",
+    "provider": "lichess",
+    "username": "pengxiaozhu3",
+    "firstSeen": 1618819639084,
+    "lastSeen": 1618819642263
+  },
+  "msversailles@lichess": {
+    "id": "msversailles",
+    "provider": "lichess",
+    "username": "MsVersailles",
+    "firstSeen": 1618819654329,
+    "lastSeen": 1618819722399
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1618819744385,
+    "lastSeen": 1618819744385
+  }
+}
