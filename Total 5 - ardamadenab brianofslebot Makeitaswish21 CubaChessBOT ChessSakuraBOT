@@ -1,0 +1,49 @@
+{
+  "ardamadenab@lichess": {
+    "id": "ardamadenab",
+    "provider": "lichess",
+    "username": "ardamadenab",
+    "firstSeen": 1618829001590,
+    "lastSeen": 1618835462497,
+    "firstSeenTime": "10:43:21 AM",
+    "lastSeenTime": "12:09:30 PM",
+    "onlineDurationMins": 86.15433333333333
+  },
+  "brianofslebot@lichess": {
+    "id": "brianofslebot",
+    "provider": "lichess",
+    "username": "brianofslebot",
+    "firstSeen": 1618830533203,
+    "lastSeen": 1618835620049,
+    "firstSeenTime": "11:08:53 AM",
+    "lastSeenTime": "12:16:43 PM",
+    "onlineDurationMins": 67.84171666666667
+  },
+  "makeitaswish21@lichess": {
+    "id": "makeitaswish21",
+    "provider": "lichess",
+    "username": "Makeitaswish21",
+    "firstSeen": 1618833571461,
+    "lastSeen": 1618835079826,
+    "firstSeenTime": "11:59:31 AM",
+    "lastSeenTime": "12:13:40 PM",
+    "onlineDurationMins": 14.15795
+  },
+  "cubachessbot@lichess": {
+    "id": "cubachessbot",
+    "provider": "lichess",
+    "username": "CubaChessBOT",
+    "firstSeen": 1618833705325,
+    "lastSeen": 1618835372951,
+    "firstSeenTime": "12:01:45 PM",
+    "lastSeenTime": "12:13:21 PM",
+    "onlineDurationMins": 11.601866666666666
+  },
+  "chesssakurabot@lichess": {
+    "id": "chesssakurabot",
+    "provider": "lichess",
+    "username": "ChessSakuraBOT",
+    "firstSeen": 1618835375331,
+    "lastSeen": 1618835377965
+  }
+}
