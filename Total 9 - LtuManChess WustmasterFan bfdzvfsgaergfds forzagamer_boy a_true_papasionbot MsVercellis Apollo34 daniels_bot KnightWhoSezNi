@@ -1,0 +1,71 @@
+{
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1618903310637,
+    "lastSeen": 1618934089643,
+    "firstSeenTime": "7:21:50 AM",
+    "lastSeenTime": "1:28:03 PM",
+    "onlineDurationMins": 366.2194333333333
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1618922335531,
+    "lastSeen": 1618934402420,
+    "firstSeenTime": "12:38:55 PM",
+    "lastSeenTime": "1:28:57 PM",
+    "onlineDurationMins": 50.03575
+  },
+  "bfdzvfsgaergfds@lichess": {
+    "id": "bfdzvfsgaergfds",
+    "provider": "lichess",
+    "username": "bfdzvfsgaergfds",
+    "firstSeen": 1618931639329,
+    "lastSeen": 1618934405164
+  },
+  "forzagamer_boy@lichess": {
+    "id": "forzagamer_boy",
+    "provider": "lichess",
+    "username": "forzagamer_boy",
+    "firstSeen": 1618932201649,
+    "lastSeen": 1618934334314
+  },
+  "a_true_papasionbot@lichess": {
+    "id": "a_true_papasionbot",
+    "provider": "lichess",
+    "username": "a_true_papasionbot",
+    "firstSeen": 1618932440513,
+    "lastSeen": 1618934445547
+  },
+  "msvercellis@lichess": {
+    "id": "msvercellis",
+    "provider": "lichess",
+    "username": "MsVercellis",
+    "firstSeen": 1618933635585,
+    "lastSeen": 1618933737332
+  },
+  "apollo34@lichess": {
+    "id": "apollo34",
+    "provider": "lichess",
+    "username": "Apollo34",
+    "firstSeen": 1618933714425,
+    "lastSeen": 1618934088514
+  },
+  "daniels_bot@lichess": {
+    "id": "daniels_bot",
+    "provider": "lichess",
+    "username": "daniels_bot",
+    "firstSeen": 1618934422099,
+    "lastSeen": 1618934425488
+  },
+  "knightwhosezni@lichess": {
+    "id": "knightwhosezni",
+    "provider": "lichess",
+    "username": "KnightWhoSezNi",
+    "firstSeen": 1618934481222,
+    "lastSeen": 1618934481222
+  }
+}
