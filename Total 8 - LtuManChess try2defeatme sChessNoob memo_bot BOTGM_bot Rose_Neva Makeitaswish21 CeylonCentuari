@@ -1,0 +1,82 @@
+{
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1618903310637,
+    "lastSeen": 1618918320531,
+    "firstSeenTime": "7:21:50 AM",
+    "lastSeenTime": "11:32:00 AM",
+    "onlineDurationMins": 250.1649
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618912120561,
+    "lastSeen": 1618918552794,
+    "firstSeenTime": "9:48:40 AM",
+    "lastSeenTime": "11:24:52 AM",
+    "onlineDurationMins": 96.1962
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618916837556,
+    "lastSeen": 1618918496395,
+    "firstSeenTime": "11:07:17 AM",
+    "lastSeenTime": "11:34:56 AM",
+    "onlineDurationMins": 27.647316666666665
+  },
+  "memo_bot@lichess": {
+    "id": "memo_bot",
+    "provider": "lichess",
+    "username": "memo_bot",
+    "firstSeen": 1618917881366,
+    "lastSeen": 1618917893287,
+    "firstSeenTime": "11:24:41 AM",
+    "lastSeenTime": "11:24:53 AM",
+    "onlineDurationMins": 0.19868333333333332
+  },
+  "botgm_bot@lichess": {
+    "id": "botgm_bot",
+    "provider": "lichess",
+    "username": "BOTGM_bot",
+    "firstSeen": 1618917894146,
+    "lastSeen": 1618917904848,
+    "firstSeenTime": "11:24:54 AM",
+    "lastSeenTime": "11:25:04 AM",
+    "onlineDurationMins": 0.17836666666666667
+  },
+  "rose_neva@lichess": {
+    "id": "rose_neva",
+    "provider": "lichess",
+    "username": "Rose_Neva",
+    "firstSeen": 1618918016643,
+    "lastSeen": 1618918034205,
+    "firstSeenTime": "11:26:56 AM",
+    "lastSeenTime": "11:27:14 AM",
+    "onlineDurationMins": 0.2927
+  },
+  "makeitaswish21@lichess": {
+    "id": "makeitaswish21",
+    "provider": "lichess",
+    "username": "Makeitaswish21",
+    "firstSeen": 1618918199623,
+    "lastSeen": 1618918208967,
+    "firstSeenTime": "11:29:59 AM",
+    "lastSeenTime": "11:30:08 AM",
+    "onlineDurationMins": 0.15573333333333333
+  },
+  "ceyloncentuari@lichess": {
+    "id": "ceyloncentuari",
+    "provider": "lichess",
+    "username": "CeylonCentuari",
+    "firstSeen": 1618918237725,
+    "lastSeen": 1618918701317,
+    "firstSeenTime": "11:30:37 AM",
+    "lastSeenTime": "11:31:50 AM",
+    "onlineDurationMins": 1.20495
+  }
+}
