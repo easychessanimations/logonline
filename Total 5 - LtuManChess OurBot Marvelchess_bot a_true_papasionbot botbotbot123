@@ -1,0 +1,40 @@
+{
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1618903310637,
+    "lastSeen": 1618908003665,
+    "firstSeenTime": "7:21:50 AM",
+    "lastSeenTime": "7:44:39 AM",
+    "onlineDurationMins": 22.809416666666667
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618907199074,
+    "lastSeen": 1618908002474
+  },
+  "marvelchess_bot@lichess": {
+    "id": "marvelchess_bot",
+    "provider": "lichess",
+    "username": "Marvelchess_bot",
+    "firstSeen": 1618907577824,
+    "lastSeen": 1618907594162
+  },
+  "a_true_papasionbot@lichess": {
+    "id": "a_true_papasionbot",
+    "provider": "lichess",
+    "username": "a_true_papasionbot",
+    "firstSeen": 1618907922879,
+    "lastSeen": 1618908277656
+  },
+  "botbotbot123@lichess": {
+    "id": "botbotbot123",
+    "provider": "lichess",
+    "username": "botbotbot123",
+    "firstSeen": 1618908071482,
+    "lastSeen": 1618908072168
+  }
+}
