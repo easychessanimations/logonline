@@ -1,0 +1,49 @@
+{
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1618903310637,
+    "lastSeen": 1618917603765,
+    "firstSeenTime": "7:21:50 AM",
+    "lastSeenTime": "11:08:03 AM",
+    "onlineDurationMins": 226.22056666666666
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618912120561,
+    "lastSeen": 1618917580019,
+    "firstSeenTime": "9:48:40 AM",
+    "lastSeenTime": "11:13:56 AM",
+    "onlineDurationMins": 85.2575
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618916837556,
+    "lastSeen": 1618917238928,
+    "firstSeenTime": "11:07:17 AM",
+    "lastSeenTime": "11:13:58 AM",
+    "onlineDurationMins": 6.689533333333333
+  },
+  "lets-play_1000@lichess": {
+    "id": "lets-play_1000",
+    "provider": "lichess",
+    "username": "Lets-Play_1000",
+    "firstSeen": 1618916926801,
+    "lastSeen": 1618917497812,
+    "firstSeenTime": "11:08:46 AM",
+    "lastSeenTime": "11:13:58 AM",
+    "onlineDurationMins": 5.1979
+  },
+  "botx29kli76@lichess": {
+    "id": "botx29kli76",
+    "provider": "lichess",
+    "username": "BotX29KLI76",
+    "firstSeen": 1618917679458,
+    "lastSeen": 1618917679458
+  }
+}
