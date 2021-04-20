@@ -1,0 +1,52 @@
+{
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1618903112816,
+    "lastSeen": 1618905595642,
+    "firstSeenTime": "7:18:32 AM",
+    "lastSeenTime": "7:50:55 AM",
+    "onlineDurationMins": 32.37643333333333
+  },
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1618903310637,
+    "lastSeen": 1618906094461,
+    "firstSeenTime": "7:21:50 AM",
+    "lastSeenTime": "7:44:39 AM",
+    "onlineDurationMins": 22.809416666666667
+  },
+  "ceyloncentuari@lichess": {
+    "id": "ceyloncentuari",
+    "provider": "lichess",
+    "username": "CeylonCentuari",
+    "firstSeen": 1618903578792,
+    "lastSeen": 1618906208937,
+    "firstSeenTime": "7:26:18 AM",
+    "lastSeenTime": "7:49:23 AM",
+    "onlineDurationMins": 23.072866666666666
+  },
+  "account3407@lichess": {
+    "id": "account3407",
+    "provider": "lichess",
+    "username": "account3407",
+    "firstSeen": 1618903954818,
+    "lastSeen": 1618905615634,
+    "firstSeenTime": "7:32:34 AM",
+    "lastSeenTime": "7:48:59 AM",
+    "onlineDurationMins": 16.416783333333335
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618904191128,
+    "lastSeen": 1618905699544,
+    "firstSeenTime": "7:36:31 AM",
+    "lastSeenTime": "7:54:50 AM",
+    "onlineDurationMins": 18.324833333333334
+  }
+}
