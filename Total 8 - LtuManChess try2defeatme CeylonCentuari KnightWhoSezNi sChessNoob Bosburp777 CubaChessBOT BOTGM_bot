@@ -1,0 +1,76 @@
+{
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1618903310637,
+    "lastSeen": 1618921683763,
+    "firstSeenTime": "7:21:50 AM",
+    "lastSeenTime": "12:19:00 PM",
+    "onlineDurationMins": 297.16525
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618912120561,
+    "lastSeen": 1618921048450,
+    "firstSeenTime": "9:48:40 AM",
+    "lastSeenTime": "12:17:28 PM",
+    "onlineDurationMins": 148.79815
+  },
+  "ceyloncentuari@lichess": {
+    "id": "ceyloncentuari",
+    "provider": "lichess",
+    "username": "CeylonCentuari",
+    "firstSeen": 1618918237725,
+    "lastSeen": 1618921625480,
+    "firstSeenTime": "11:30:37 AM",
+    "lastSeenTime": "12:27:05 PM",
+    "onlineDurationMins": 56.462583333333335
+  },
+  "knightwhosezni@lichess": {
+    "id": "knightwhosezni",
+    "provider": "lichess",
+    "username": "KnightWhoSezNi",
+    "firstSeen": 1618919540836,
+    "lastSeen": 1618921044432,
+    "firstSeenTime": "11:52:20 AM",
+    "lastSeenTime": "12:17:24 PM",
+    "onlineDurationMins": 25.059933333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618921022403,
+    "lastSeen": 1618921630869,
+    "firstSeenTime": "12:17:02 PM",
+    "lastSeenTime": "12:27:10 PM",
+    "onlineDurationMins": 10.1411
+  },
+  "bosburp777@lichess": {
+    "id": "bosburp777",
+    "provider": "lichess",
+    "username": "Bosburp777",
+    "firstSeen": 1618921272282,
+    "lastSeen": 1618921580973,
+    "firstSeenTime": "12:21:12 PM",
+    "lastSeenTime": "12:26:20 PM",
+    "onlineDurationMins": 5.14485
+  },
+  "cubachessbot@lichess": {
+    "id": "cubachessbot",
+    "provider": "lichess",
+    "username": "CubaChessBOT",
+    "firstSeen": 1618921651860,
+    "lastSeen": 1618921673609
+  },
+  "botgm_bot@lichess": {
+    "id": "botgm_bot",
+    "provider": "lichess",
+    "username": "BOTGM_bot",
+    "firstSeen": 1618921698093,
+    "lastSeen": 1618921698093
+  }
+}
