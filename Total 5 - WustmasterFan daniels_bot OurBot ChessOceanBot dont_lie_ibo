@@ -1,0 +1,37 @@
+{
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1618940339329,
+    "lastSeen": 1618942383160
+  },
+  "daniels_bot@lichess": {
+    "id": "daniels_bot",
+    "provider": "lichess",
+    "username": "daniels_bot",
+    "firstSeen": 1618940602120,
+    "lastSeen": 1618942462019
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618940616295,
+    "lastSeen": 1618942609860
+  },
+  "chessoceanbot@lichess": {
+    "id": "chessoceanbot",
+    "provider": "lichess",
+    "username": "ChessOceanBot",
+    "firstSeen": 1618941043576,
+    "lastSeen": 1618942539413
+  },
+  "dont_lie_ibo@lichess": {
+    "id": "dont_lie_ibo",
+    "provider": "lichess",
+    "username": "dont_lie_ibo",
+    "firstSeen": 1618942336393,
+    "lastSeen": 1618942554237
+  }
+}
