@@ -1,0 +1,40 @@
+{
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1618903310637,
+    "lastSeen": 1618911483712,
+    "firstSeenTime": "7:21:50 AM",
+    "lastSeenTime": "7:44:39 AM",
+    "onlineDurationMins": 22.809416666666667
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618907199074,
+    "lastSeen": 1618911494982
+  },
+  "mystterious_chess@lichess": {
+    "id": "mystterious_chess",
+    "provider": "lichess",
+    "username": "Mystterious_Chess",
+    "firstSeen": 1618909464906,
+    "lastSeen": 1618911488977
+  },
+  "drchessfish@lichess": {
+    "id": "drchessfish",
+    "provider": "lichess",
+    "username": "DrChessFish",
+    "firstSeen": 1618910097624,
+    "lastSeen": 1618911637966
+  },
+  "72801831@github": {
+    "id": "72801831",
+    "provider": "github",
+    "username": "Ajinraj506",
+    "firstSeen": 1618910805154,
+    "lastSeen": 1618910825685
+  }
+}
