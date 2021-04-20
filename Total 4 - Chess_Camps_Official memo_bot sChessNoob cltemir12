@@ -1,0 +1,39 @@
+{
+  "chess_camps_official@lichess": {
+    "id": "chess_camps_official",
+    "provider": "lichess",
+    "username": "Chess_Camps_Official",
+    "firstSeen": 1618902076743,
+    "lastSeen": 1618902979302,
+    "firstSeenTime": "7:01:16 AM",
+    "lastSeenTime": "7:14:29 AM",
+    "onlineDurationMins": 13.218066666666667
+  },
+  "memo_bot@lichess": {
+    "id": "memo_bot",
+    "provider": "lichess",
+    "username": "memo_bot",
+    "firstSeen": 1618902414556,
+    "lastSeen": 1618902429708,
+    "firstSeenTime": "7:06:54 AM",
+    "lastSeenTime": "7:07:09 AM",
+    "onlineDurationMins": 0.25253333333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618902974640,
+    "lastSeen": 1618902974641,
+    "firstSeenTime": "7:16:14 AM",
+    "lastSeenTime": "7:16:14 AM",
+    "onlineDurationMins": 0.000016666666666666667
+  },
+  "cltemir12@lichess": {
+    "id": "cltemir12",
+    "provider": "lichess",
+    "username": "cltemir12",
+    "firstSeen": 1618903087448,
+    "lastSeen": 1618903087448
+  }
+}
