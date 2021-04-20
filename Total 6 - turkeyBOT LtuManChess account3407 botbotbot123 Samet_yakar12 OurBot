@@ -1,0 +1,53 @@
+{
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1618903112816,
+    "lastSeen": 1618907174657,
+    "firstSeenTime": "7:18:32 AM",
+    "lastSeenTime": "7:50:55 AM",
+    "onlineDurationMins": 32.37643333333333
+  },
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1618903310637,
+    "lastSeen": 1618906683802,
+    "firstSeenTime": "7:21:50 AM",
+    "lastSeenTime": "7:44:39 AM",
+    "onlineDurationMins": 22.809416666666667
+  },
+  "account3407@lichess": {
+    "id": "account3407",
+    "provider": "lichess",
+    "username": "account3407",
+    "firstSeen": 1618903954818,
+    "lastSeen": 1618907155979,
+    "firstSeenTime": "7:32:34 AM",
+    "lastSeenTime": "7:48:59 AM",
+    "onlineDurationMins": 16.416783333333335
+  },
+  "botbotbot123@lichess": {
+    "id": "botbotbot123",
+    "provider": "lichess",
+    "username": "botbotbot123",
+    "firstSeen": 1618906873601,
+    "lastSeen": 1618907082595
+  },
+  "samet_yakar12@lichess": {
+    "id": "samet_yakar12",
+    "provider": "lichess",
+    "username": "Samet_yakar12",
+    "firstSeen": 1618906995431,
+    "lastSeen": 1618907082598
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1618907199074,
+    "lastSeen": 1618907199074
+  }
+}
