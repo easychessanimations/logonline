@@ -1,0 +1,57 @@
+{
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618993020351,
+    "lastSeen": 1619006524170,
+    "firstSeenTime": "8:17:00 AM",
+    "lastSeenTime": "11:37:04 AM",
+    "onlineDurationMins": 200.06396666666666
+  },
+  "cubachessbot@lichess": {
+    "id": "cubachessbot",
+    "provider": "lichess",
+    "username": "CubaChessBOT",
+    "firstSeen": 1619004590526,
+    "lastSeen": 1619006554578,
+    "firstSeenTime": "11:29:50 AM",
+    "lastSeenTime": "11:35:34 AM",
+    "onlineDurationMins": 5.7314
+  },
+  "a_true_papasionbot@lichess": {
+    "id": "a_true_papasionbot",
+    "provider": "lichess",
+    "username": "a_true_papasionbot",
+    "firstSeen": 1619005463873,
+    "lastSeen": 1619006733591
+  },
+  "andrewisop@lichess": {
+    "id": "andrewisop",
+    "provider": "lichess",
+    "username": "ANDREWisOP",
+    "firstSeen": 1619005600466,
+    "lastSeen": 1619006265344
+  },
+  "botbotbot123@lichess": {
+    "id": "botbotbot123",
+    "provider": "lichess",
+    "username": "botbotbot123",
+    "firstSeen": 1619005674788,
+    "lastSeen": 1619006297702
+  },
+  "knightwhosezni@lichess": {
+    "id": "knightwhosezni",
+    "provider": "lichess",
+    "username": "KnightWhoSezNi",
+    "firstSeen": 1619006188663,
+    "lastSeen": 1619006198539
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1619006733723,
+    "lastSeen": 1619006733723
+  }
+}
