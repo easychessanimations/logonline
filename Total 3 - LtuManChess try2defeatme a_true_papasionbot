@@ -1,0 +1,32 @@
+{
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1618991691659,
+    "lastSeen": 1619000158682,
+    "firstSeenTime": "7:54:51 AM",
+    "lastSeenTime": "9:54:01 AM",
+    "onlineDurationMins": 119.1698
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618993020351,
+    "lastSeen": 1618999743854,
+    "firstSeenTime": "8:17:00 AM",
+    "lastSeenTime": "9:46:03 AM",
+    "onlineDurationMins": 89.05796666666667
+  },
+  "a_true_papasionbot@lichess": {
+    "id": "a_true_papasionbot",
+    "provider": "lichess",
+    "username": "a_true_papasionbot",
+    "firstSeen": 1618997199677,
+    "lastSeen": 1618999994638,
+    "firstSeenTime": "9:26:39 AM",
+    "lastSeenTime": "9:51:48 AM",
+    "onlineDurationMins": 25.144566666666666
+  }
+}
