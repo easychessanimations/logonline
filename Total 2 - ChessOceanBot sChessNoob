@@ -1,0 +1,19 @@
+{
+  "chessoceanbot@lichess": {
+    "id": "chessoceanbot",
+    "provider": "lichess",
+    "username": "ChessOceanBot",
+    "firstSeen": 1618982433780,
+    "lastSeen": 1618983332410,
+    "firstSeenTime": "5:20:33 AM",
+    "lastSeenTime": "5:20:57 AM",
+    "onlineDurationMins": 0.38816666666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618983698661,
+    "lastSeen": 1618983698661
+  }
+}
