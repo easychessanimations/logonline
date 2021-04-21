@@ -1,0 +1,66 @@
+{
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1618991691659,
+    "lastSeen": 1619001793135,
+    "firstSeenTime": "7:54:51 AM",
+    "lastSeenTime": "10:41:40 AM",
+    "onlineDurationMins": 166.81056666666666
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618993020351,
+    "lastSeen": 1619002447341,
+    "firstSeenTime": "8:17:00 AM",
+    "lastSeenTime": "10:31:03 AM",
+    "onlineDurationMins": 134.05866666666665
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1619000357192,
+    "lastSeen": 1619002189697,
+    "firstSeenTime": "10:19:17 AM",
+    "lastSeenTime": "10:41:19 AM",
+    "onlineDurationMins": 22.03365
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1619000899941,
+    "lastSeen": 1619001703786,
+    "firstSeenTime": "10:28:19 AM",
+    "lastSeenTime": "10:41:43 AM",
+    "onlineDurationMins": 13.397416666666667
+  },
+  "pengxiaozhu3@lichess": {
+    "id": "pengxiaozhu3",
+    "provider": "lichess",
+    "username": "pengxiaozhu3",
+    "firstSeen": 1619001509520,
+    "lastSeen": 1619001760637,
+    "firstSeenTime": "10:38:29 AM",
+    "lastSeenTime": "10:40:35 AM",
+    "onlineDurationMins": 2.1009
+  },
+  "cubachessbot@lichess": {
+    "id": "cubachessbot",
+    "provider": "lichess",
+    "username": "CubaChessBOT",
+    "firstSeen": 1619002234032,
+    "lastSeen": 1619002336411
+  },
+  "andrewisop@lichess": {
+    "id": "andrewisop",
+    "provider": "lichess",
+    "username": "ANDREWisOP",
+    "firstSeen": 1619002500624,
+    "lastSeen": 1619002500624
+  }
+}
