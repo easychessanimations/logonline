@@ -1,0 +1,59 @@
+{
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1618991691659,
+    "lastSeen": 1618995495885,
+    "firstSeenTime": "7:54:51 AM",
+    "lastSeenTime": "8:56:43 AM",
+    "onlineDurationMins": 61.8564
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618993020351,
+    "lastSeen": 1618995309166,
+    "firstSeenTime": "8:17:00 AM",
+    "lastSeenTime": "8:55:09 AM",
+    "onlineDurationMins": 38.14691666666667
+  },
+  "chessoceanbot@lichess": {
+    "id": "chessoceanbot",
+    "provider": "lichess",
+    "username": "ChessOceanBot",
+    "firstSeen": 1618994627736,
+    "lastSeen": 1618995404378,
+    "firstSeenTime": "8:43:47 AM",
+    "lastSeenTime": "8:56:44 AM",
+    "onlineDurationMins": 12.944033333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1618994855060,
+    "lastSeen": 1618995467285,
+    "firstSeenTime": "8:47:35 AM",
+    "lastSeenTime": "8:57:47 AM",
+    "onlineDurationMins": 10.20375
+  },
+  "ibe_2009@lichess": {
+    "id": "ibe_2009",
+    "provider": "lichess",
+    "username": "IBE_2009",
+    "firstSeen": 1618994863260,
+    "lastSeen": 1618995516294,
+    "firstSeenTime": "8:47:43 AM",
+    "lastSeenTime": "8:56:31 AM",
+    "onlineDurationMins": 8.803916666666666
+  },
+  "sumal_bro@lichess": {
+    "id": "sumal_bro",
+    "provider": "lichess",
+    "username": "SUMAL_BRO",
+    "firstSeen": 1618995659244,
+    "lastSeen": 1618995663040
+  }
+}
