@@ -1,0 +1,26 @@
+{
+  "a_true_papasionbot@lichess": {
+    "id": "a_true_papasionbot",
+    "provider": "lichess",
+    "username": "a_true_papasionbot",
+    "firstSeen": 1618989400068,
+    "lastSeen": 1618991841408,
+    "firstSeenTime": "7:16:40 AM",
+    "lastSeenTime": "7:30:18 AM",
+    "onlineDurationMins": 13.64135
+  },
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1618991691659,
+    "lastSeen": 1618991803072
+  },
+  "street_race_1st@lichess": {
+    "id": "street_race_1st",
+    "provider": "lichess",
+    "username": "Street_race_1st",
+    "firstSeen": 1618991850556,
+    "lastSeen": 1618991850556
+  }
+}
