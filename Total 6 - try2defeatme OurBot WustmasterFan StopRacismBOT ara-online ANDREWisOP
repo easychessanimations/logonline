@@ -1,0 +1,47 @@
+{
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618993020351,
+    "lastSeen": 1619013487700,
+    "firstSeenTime": "8:17:00 AM",
+    "lastSeenTime": "11:37:04 AM",
+    "onlineDurationMins": 200.06396666666666
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1619006733723,
+    "lastSeen": 1619013530125
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1619008511142,
+    "lastSeen": 1619013488129
+  },
+  "stopracismbot@lichess": {
+    "id": "stopracismbot",
+    "provider": "lichess",
+    "username": "StopRacismBOT",
+    "firstSeen": 1619011699589,
+    "lastSeen": 1619013250051
+  },
+  "ara-online@lichess": {
+    "id": "ara-online",
+    "provider": "lichess",
+    "username": "ara-online",
+    "firstSeen": 1619012362762,
+    "lastSeen": 1619013465522
+  },
+  "andrewisop@lichess": {
+    "id": "andrewisop",
+    "provider": "lichess",
+    "username": "ANDREWisOP",
+    "firstSeen": 1619013537520,
+    "lastSeen": 1619013537520
+  }
+}
