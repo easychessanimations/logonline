@@ -1,0 +1,59 @@
+{
+  "ltumanchess@lichess": {
+    "id": "ltumanchess",
+    "provider": "lichess",
+    "username": "LtuManChess",
+    "firstSeen": 1618991691659,
+    "lastSeen": 1618999498647,
+    "firstSeenTime": "7:54:51 AM",
+    "lastSeenTime": "9:54:01 AM",
+    "onlineDurationMins": 119.1698
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1618993020351,
+    "lastSeen": 1618999743854,
+    "firstSeenTime": "8:17:00 AM",
+    "lastSeenTime": "9:46:03 AM",
+    "onlineDurationMins": 89.05796666666667
+  },
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1618996555166,
+    "lastSeen": 1618999143582,
+    "firstSeenTime": "9:15:55 AM",
+    "lastSeenTime": "9:53:35 AM",
+    "onlineDurationMins": 37.664833333333334
+  },
+  "a_true_papasionbot@lichess": {
+    "id": "a_true_papasionbot",
+    "provider": "lichess",
+    "username": "a_true_papasionbot",
+    "firstSeen": 1618997199677,
+    "lastSeen": 1618999251660,
+    "firstSeenTime": "9:26:39 AM",
+    "lastSeenTime": "9:51:48 AM",
+    "onlineDurationMins": 25.144566666666666
+  },
+  "superbots@lichess": {
+    "id": "superbots",
+    "provider": "lichess",
+    "username": "superbots",
+    "firstSeen": 1618998370195,
+    "lastSeen": 1618999143489,
+    "firstSeenTime": "9:46:10 AM",
+    "lastSeenTime": "9:53:34 AM",
+    "onlineDurationMins": 7.398433333333333
+  },
+  "poxdet@lichess": {
+    "id": "poxdet",
+    "provider": "lichess",
+    "username": "poxdet",
+    "firstSeen": 1618998876277,
+    "lastSeen": 1618999256279
+  }
+}
