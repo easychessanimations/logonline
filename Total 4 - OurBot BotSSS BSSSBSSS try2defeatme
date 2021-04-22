@@ -1,0 +1,39 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1619069932293,
+    "lastSeen": 1619081564930,
+    "firstSeenTime": "5:38:52 AM",
+    "lastSeenTime": "8:30:44 AM",
+    "onlineDurationMins": 171.87426666666667
+  },
+  "botsss@lichess": {
+    "id": "botsss",
+    "provider": "lichess",
+    "username": "BotSSS",
+    "firstSeen": 1619076523440,
+    "lastSeen": 1619081247611,
+    "firstSeenTime": "7:28:43 AM",
+    "lastSeenTime": "8:35:24 AM",
+    "onlineDurationMins": 66.68891666666667
+  },
+  "bsssbsss@lichess": {
+    "id": "bsssbsss",
+    "provider": "lichess",
+    "username": "BSSSBSSS",
+    "firstSeen": 1619076680823,
+    "lastSeen": 1619081547148,
+    "firstSeenTime": "7:31:20 AM",
+    "lastSeenTime": "8:33:53 AM",
+    "onlineDurationMins": 62.55128333333333
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1619081575083,
+    "lastSeen": 1619081575083
+  }
+}
