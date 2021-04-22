@@ -1,0 +1,53 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1619069932293,
+    "lastSeen": 1619076164889,
+    "firstSeenTime": "5:38:52 AM",
+    "lastSeenTime": "6:57:44 AM",
+    "onlineDurationMins": 78.87568333333333
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1619071936476,
+    "lastSeen": 1619075986154,
+    "firstSeenTime": "6:12:16 AM",
+    "lastSeenTime": "6:58:59 AM",
+    "onlineDurationMins": 46.71105
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1619072412433,
+    "lastSeen": 1619075844626,
+    "firstSeenTime": "6:20:12 AM",
+    "lastSeenTime": "6:54:27 AM",
+    "onlineDurationMins": 34.2442
+  },
+  "mrhamza000@lichess": {
+    "id": "mrhamza000",
+    "provider": "lichess",
+    "username": "MrHamza000",
+    "firstSeen": 1619075342678,
+    "lastSeen": 1619075687547
+  },
+  "harsheelk@lichess": {
+    "id": "harsheelk",
+    "provider": "lichess",
+    "username": "HarsheelK",
+    "firstSeen": 1619075624938,
+    "lastSeen": 1619075638474
+  },
+  "robot_nik@lichess": {
+    "id": "robot_nik",
+    "provider": "lichess",
+    "username": "Robot_Nik",
+    "firstSeen": 1619075971906,
+    "lastSeen": 1619075986790
+  }
+}
