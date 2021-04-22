@@ -1,0 +1,79 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1619069932293,
+    "lastSeen": 1619083605190,
+    "firstSeenTime": "5:38:52 AM",
+    "lastSeenTime": "9:26:45 AM",
+    "onlineDurationMins": 227.88161666666667
+  },
+  "botsss@lichess": {
+    "id": "botsss",
+    "provider": "lichess",
+    "username": "BotSSS",
+    "firstSeen": 1619076523440,
+    "lastSeen": 1619084064106,
+    "firstSeenTime": "7:28:43 AM",
+    "lastSeenTime": "9:32:38 AM",
+    "onlineDurationMins": 123.90978333333334
+  },
+  "bsssbsss@lichess": {
+    "id": "bsssbsss",
+    "provider": "lichess",
+    "username": "BSSSBSSS",
+    "firstSeen": 1619076680823,
+    "lastSeen": 1619083950981,
+    "firstSeenTime": "7:31:20 AM",
+    "lastSeenTime": "9:32:30 AM",
+    "onlineDurationMins": 121.1693
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1619081575083,
+    "lastSeen": 1619083853605,
+    "firstSeenTime": "8:52:55 AM",
+    "lastSeenTime": "9:30:53 AM",
+    "onlineDurationMins": 37.975366666666666
+  },
+  "superbots@lichess": {
+    "id": "superbots",
+    "provider": "lichess",
+    "username": "superbots",
+    "firstSeen": 1619082496388,
+    "lastSeen": 1619084126054,
+    "firstSeenTime": "9:08:16 AM",
+    "lastSeenTime": "9:34:00 AM",
+    "onlineDurationMins": 25.735966666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1619082638747,
+    "lastSeen": 1619084053138,
+    "firstSeenTime": "9:10:38 AM",
+    "lastSeenTime": "9:34:13 AM",
+    "onlineDurationMins": 23.573183333333333
+  },
+  "ufopro@lichess": {
+    "id": "ufopro",
+    "provider": "lichess",
+    "username": "ufopro",
+    "firstSeen": 1619083114151,
+    "lastSeen": 1619083680600,
+    "firstSeenTime": "9:18:34 AM",
+    "lastSeenTime": "9:28:00 AM",
+    "onlineDurationMins": 9.440816666666667
+  },
+  "andrewisop@lichess": {
+    "id": "andrewisop",
+    "provider": "lichess",
+    "username": "ANDREWisOP",
+    "firstSeen": 1619084133843,
+    "lastSeen": 1619084133843
+  }
+}
