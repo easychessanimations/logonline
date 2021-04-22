@@ -1,0 +1,76 @@
+{
+  "botsss@lichess": {
+    "id": "botsss",
+    "provider": "lichess",
+    "username": "BotSSS",
+    "firstSeen": 1619076523440,
+    "lastSeen": 1619086625473,
+    "firstSeenTime": "7:28:43 AM",
+    "lastSeenTime": "10:06:17 AM",
+    "onlineDurationMins": 157.5603
+  },
+  "bsssbsss@lichess": {
+    "id": "bsssbsss",
+    "provider": "lichess",
+    "username": "BSSSBSSS",
+    "firstSeen": 1619076680823,
+    "lastSeen": 1619086347234,
+    "firstSeenTime": "7:31:20 AM",
+    "lastSeenTime": "10:12:27 AM",
+    "onlineDurationMins": 161.10685
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1619081575083,
+    "lastSeen": 1619086377398,
+    "firstSeenTime": "8:52:55 AM",
+    "lastSeenTime": "10:12:57 AM",
+    "onlineDurationMins": 80.03858333333334
+  },
+  "andrewisop@lichess": {
+    "id": "andrewisop",
+    "provider": "lichess",
+    "username": "ANDREWisOP",
+    "firstSeen": 1619084133843,
+    "lastSeen": 1619086118361,
+    "firstSeenTime": "9:35:33 AM",
+    "lastSeenTime": "10:08:38 AM",
+    "onlineDurationMins": 33.0753
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1619086358168,
+    "lastSeen": 1619086358242,
+    "firstSeenTime": "10:12:38 AM",
+    "lastSeenTime": "10:12:38 AM",
+    "onlineDurationMins": 0.0012333333333333332
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1619086549514,
+    "lastSeen": 1619086549514,
+    "firstSeenTime": "10:15:49 AM",
+    "lastSeenTime": "10:15:49 AM",
+    "onlineDurationMins": 0
+  },
+  "the_unbeatable-b0t12@lichess": {
+    "id": "the_unbeatable-b0t12",
+    "provider": "lichess",
+    "username": "The_Unbeatable-B0T12",
+    "firstSeen": 1619086657558,
+    "lastSeen": 1619086683960
+  },
+  "a_true_papasionbot@lichess": {
+    "id": "a_true_papasionbot",
+    "provider": "lichess",
+    "username": "a_true_papasionbot",
+    "firstSeen": 1619086698316,
+    "lastSeen": 1619086698316
+  }
+}
