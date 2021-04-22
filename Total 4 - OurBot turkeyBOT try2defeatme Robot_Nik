@@ -1,0 +1,30 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1619069932293,
+    "lastSeen": 1619071906951
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1619071936476,
+    "lastSeen": 1619072471320
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1619072412433,
+    "lastSeen": 1619072459422
+  },
+  "robot_nik@lichess": {
+    "id": "robot_nik",
+    "provider": "lichess",
+    "username": "Robot_Nik",
+    "firstSeen": 1619072514703,
+    "lastSeen": 1619072514703
+  }
+}
