@@ -1,0 +1,82 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1619069932293,
+    "lastSeen": 1619078864776,
+    "firstSeenTime": "5:38:52 AM",
+    "lastSeenTime": "8:07:44 AM",
+    "onlineDurationMins": 148.87471666666667
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1619072412433,
+    "lastSeen": 1619079050708,
+    "firstSeenTime": "6:20:12 AM",
+    "lastSeenTime": "8:10:50 AM",
+    "onlineDurationMins": 110.63791666666667
+  },
+  "botsss@lichess": {
+    "id": "botsss",
+    "provider": "lichess",
+    "username": "BotSSS",
+    "firstSeen": 1619076523440,
+    "lastSeen": 1619079201281,
+    "firstSeenTime": "7:28:43 AM",
+    "lastSeenTime": "8:09:36 AM",
+    "onlineDurationMins": 40.879616666666664
+  },
+  "bsssbsss@lichess": {
+    "id": "bsssbsss",
+    "provider": "lichess",
+    "username": "BSSSBSSS",
+    "firstSeen": 1619076680823,
+    "lastSeen": 1619078847368,
+    "firstSeenTime": "7:31:20 AM",
+    "lastSeenTime": "8:07:27 AM",
+    "onlineDurationMins": 36.10908333333333
+  },
+  "superbots@lichess": {
+    "id": "superbots",
+    "provider": "lichess",
+    "username": "superbots",
+    "firstSeen": 1619078133081,
+    "lastSeen": 1619079080905,
+    "firstSeenTime": "7:55:33 AM",
+    "lastSeenTime": "8:11:20 AM",
+    "onlineDurationMins": 15.797066666666666
+  },
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1619078133600,
+    "lastSeen": 1619079118259,
+    "firstSeenTime": "7:55:33 AM",
+    "lastSeenTime": "8:11:58 AM",
+    "onlineDurationMins": 16.410983333333334
+  },
+  "eat-eat-and-beat@lichess": {
+    "id": "eat-eat-and-beat",
+    "provider": "lichess",
+    "username": "EAT-EAT-AND-BEAT",
+    "firstSeen": 1619078873941,
+    "lastSeen": 1619078919819,
+    "firstSeenTime": "8:07:53 AM",
+    "lastSeenTime": "8:08:39 AM",
+    "onlineDurationMins": 0.7646333333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1619079132519,
+    "lastSeen": 1619079132519,
+    "firstSeenTime": "8:12:12 AM",
+    "lastSeenTime": "8:12:12 AM",
+    "onlineDurationMins": 0
+  }
+}
