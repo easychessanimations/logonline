@@ -1,0 +1,52 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1619069932293,
+    "lastSeen": 1619080904829,
+    "firstSeenTime": "5:38:52 AM",
+    "lastSeenTime": "8:30:44 AM",
+    "onlineDurationMins": 171.87426666666667
+  },
+  "botsss@lichess": {
+    "id": "botsss",
+    "provider": "lichess",
+    "username": "BotSSS",
+    "firstSeen": 1619076523440,
+    "lastSeen": 1619081247611,
+    "firstSeenTime": "7:28:43 AM",
+    "lastSeenTime": "8:35:24 AM",
+    "onlineDurationMins": 66.68891666666667
+  },
+  "bsssbsss@lichess": {
+    "id": "bsssbsss",
+    "provider": "lichess",
+    "username": "BSSSBSSS",
+    "firstSeen": 1619076680823,
+    "lastSeen": 1619081183829,
+    "firstSeenTime": "7:31:20 AM",
+    "lastSeenTime": "8:33:53 AM",
+    "onlineDurationMins": 62.55128333333333
+  },
+  "superbots@lichess": {
+    "id": "superbots",
+    "provider": "lichess",
+    "username": "superbots",
+    "firstSeen": 1619078133081,
+    "lastSeen": 1619080612318,
+    "firstSeenTime": "7:55:33 AM",
+    "lastSeenTime": "8:33:53 AM",
+    "onlineDurationMins": 38.33515
+  },
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1619078133600,
+    "lastSeen": 1619080622919,
+    "firstSeenTime": "7:55:33 AM",
+    "lastSeenTime": "8:30:25 AM",
+    "onlineDurationMins": 34.87278333333333
+  }
+}
