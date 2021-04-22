@@ -1,0 +1,59 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1619069932293,
+    "lastSeen": 1619074664834,
+    "firstSeenTime": "5:38:52 AM",
+    "lastSeenTime": "6:57:44 AM",
+    "onlineDurationMins": 78.87568333333333
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1619071936476,
+    "lastSeen": 1619074941054,
+    "firstSeenTime": "6:12:16 AM",
+    "lastSeenTime": "6:58:59 AM",
+    "onlineDurationMins": 46.71105
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1619072412433,
+    "lastSeen": 1619074467085,
+    "firstSeenTime": "6:20:12 AM",
+    "lastSeenTime": "6:54:27 AM",
+    "onlineDurationMins": 34.2442
+  },
+  "corrospondence@lichess": {
+    "id": "corrospondence",
+    "provider": "lichess",
+    "username": "corrospondence",
+    "firstSeen": 1619074653372,
+    "lastSeen": 1619074889733,
+    "firstSeenTime": "6:57:33 AM",
+    "lastSeenTime": "6:58:30 AM",
+    "onlineDurationMins": 0.96015
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1619074743694,
+    "lastSeen": 1619074743694,
+    "firstSeenTime": "6:59:03 AM",
+    "lastSeenTime": "6:59:03 AM",
+    "onlineDurationMins": 0
+  },
+  "omerkaraca00@lichess": {
+    "id": "omerkaraca00",
+    "provider": "lichess",
+    "username": "OmerKaraca00",
+    "firstSeen": 1619074955059,
+    "lastSeen": 1619074955059
+  }
+}
