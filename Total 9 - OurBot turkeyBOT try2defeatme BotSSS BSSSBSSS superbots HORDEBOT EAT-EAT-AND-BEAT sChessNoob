@@ -1,0 +1,74 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1619069932293,
+    "lastSeen": 1619078864776,
+    "firstSeenTime": "5:38:52 AM",
+    "lastSeenTime": "6:57:44 AM",
+    "onlineDurationMins": 78.87568333333333
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1619071936476,
+    "lastSeen": 1619078254416,
+    "firstSeenTime": "6:12:16 AM",
+    "lastSeenTime": "6:58:59 AM",
+    "onlineDurationMins": 46.71105
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1619072412433,
+    "lastSeen": 1619079050708,
+    "firstSeenTime": "6:20:12 AM",
+    "lastSeenTime": "6:54:27 AM",
+    "onlineDurationMins": 34.2442
+  },
+  "botsss@lichess": {
+    "id": "botsss",
+    "provider": "lichess",
+    "username": "BotSSS",
+    "firstSeen": 1619076523440,
+    "lastSeen": 1619078976217
+  },
+  "bsssbsss@lichess": {
+    "id": "bsssbsss",
+    "provider": "lichess",
+    "username": "BSSSBSSS",
+    "firstSeen": 1619076680823,
+    "lastSeen": 1619078847368
+  },
+  "superbots@lichess": {
+    "id": "superbots",
+    "provider": "lichess",
+    "username": "superbots",
+    "firstSeen": 1619078133081,
+    "lastSeen": 1619079080905
+  },
+  "hordebot@lichess": {
+    "id": "hordebot",
+    "provider": "lichess",
+    "username": "HORDEBOT",
+    "firstSeen": 1619078133600,
+    "lastSeen": 1619079118259
+  },
+  "eat-eat-and-beat@lichess": {
+    "id": "eat-eat-and-beat",
+    "provider": "lichess",
+    "username": "EAT-EAT-AND-BEAT",
+    "firstSeen": 1619078873941,
+    "lastSeen": 1619078919819
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1619079132519,
+    "lastSeen": 1619079132519
+  }
+}
