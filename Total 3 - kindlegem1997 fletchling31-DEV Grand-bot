@@ -1,0 +1,29 @@
+{
+  "kindlegem1997@lichess": {
+    "id": "kindlegem1997",
+    "provider": "lichess",
+    "username": "kindlegem1997",
+    "firstSeen": 1619242249700,
+    "lastSeen": 1619254557768,
+    "firstSeenTime": "5:30:49 AM",
+    "lastSeenTime": "6:49:52 AM",
+    "onlineDurationMins": 79.04913333333333
+  },
+  "fletchling31-dev@lichess": {
+    "id": "fletchling31-dev",
+    "provider": "lichess",
+    "username": "fletchling31-DEV",
+    "firstSeen": 1619242325534,
+    "lastSeen": 1619254561277,
+    "firstSeenTime": "5:32:05 AM",
+    "lastSeenTime": "6:50:11 AM",
+    "onlineDurationMins": 78.09883333333333
+  },
+  "grand-bot@lichess": {
+    "id": "grand-bot",
+    "provider": "lichess",
+    "username": "Grand-bot",
+    "firstSeen": 1619254332380,
+    "lastSeen": 1619254994539
+  }
+}
