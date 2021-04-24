@@ -1,0 +1,32 @@
+{
+  "bossbotsss@lichess": {
+    "id": "bossbotsss",
+    "provider": "lichess",
+    "username": "BossBOTSSS",
+    "firstSeen": 1619257368592,
+    "lastSeen": 1619259089096,
+    "firstSeenTime": "9:42:48 AM",
+    "lastSeenTime": "10:11:29 AM",
+    "onlineDurationMins": 28.675066666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1619257386454,
+    "lastSeen": 1619259611377,
+    "firstSeenTime": "9:43:06 AM",
+    "lastSeenTime": "10:14:56 AM",
+    "onlineDurationMins": 31.82743333333333
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1619258909157,
+    "lastSeen": 1619258909233,
+    "firstSeenTime": "10:08:29 AM",
+    "lastSeenTime": "10:08:29 AM",
+    "onlineDurationMins": 0.0012666666666666666
+  }
+}
