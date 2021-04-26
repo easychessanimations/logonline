@@ -1,0 +1,23 @@
+{
+  "chessplayer1225@lichess": {
+    "id": "chessplayer1225",
+    "provider": "lichess",
+    "username": "ChessPlayer1225",
+    "firstSeen": 1619430849770,
+    "lastSeen": 1619431554935
+  },
+  "kid_ai@lichess": {
+    "id": "kid_ai",
+    "provider": "lichess",
+    "username": "KID_AI",
+    "firstSeen": 1619431120986,
+    "lastSeen": 1619431781026
+  },
+  "ufopro@lichess": {
+    "id": "ufopro",
+    "provider": "lichess",
+    "username": "ufopro",
+    "firstSeen": 1619432185931,
+    "lastSeen": 1619432185931
+  }
+}
