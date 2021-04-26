@@ -1,0 +1,29 @@
+{
+  "fletchling31-dev@lichess": {
+    "id": "fletchling31-dev",
+    "provider": "lichess",
+    "username": "fletchling31-DEV",
+    "firstSeen": 1619408913309,
+    "lastSeen": 1619409688270,
+    "firstSeenTime": "3:48:33 AM",
+    "lastSeenTime": "4:01:28 AM",
+    "onlineDurationMins": 12.916016666666666
+  },
+  "proinchess1234@lichess": {
+    "id": "proinchess1234",
+    "provider": "lichess",
+    "username": "proinchess1234",
+    "firstSeen": 1619409012007,
+    "lastSeen": 1619409954436,
+    "firstSeenTime": "3:50:12 AM",
+    "lastSeenTime": "4:05:45 AM",
+    "onlineDurationMins": 15.55325
+  },
+  "chessplayer1225@lichess": {
+    "id": "chessplayer1225",
+    "provider": "lichess",
+    "username": "ChessPlayer1225",
+    "firstSeen": 1619409967662,
+    "lastSeen": 1619409967662
+  }
+}
