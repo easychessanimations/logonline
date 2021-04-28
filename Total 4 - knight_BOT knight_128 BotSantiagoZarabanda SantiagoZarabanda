@@ -1,0 +1,30 @@
+{
+  "knight_bot@lichess": {
+    "id": "knight_bot",
+    "provider": "lichess",
+    "username": "knight_BOT",
+    "firstSeen": 1619641243829,
+    "lastSeen": 1619641805294
+  },
+  "knight_128@lichess": {
+    "id": "knight_128",
+    "provider": "lichess",
+    "username": "knight_128",
+    "firstSeen": 1619641806148,
+    "lastSeen": 1619642472818
+  },
+  "botsantiagozarabanda@lichess": {
+    "id": "botsantiagozarabanda",
+    "provider": "lichess",
+    "username": "BotSantiagoZarabanda",
+    "firstSeen": 1619642551804,
+    "lastSeen": 1619642656755
+  },
+  "santiagozarabanda@lichess": {
+    "id": "santiagozarabanda",
+    "provider": "lichess",
+    "username": "SantiagoZarabanda",
+    "firstSeen": 1619642657673,
+    "lastSeen": 1619642657673
+  }
+}
