@@ -1,0 +1,30 @@
+{
+  "knight_bot@lichess": {
+    "id": "knight_bot",
+    "provider": "lichess",
+    "username": "knight_BOT",
+    "firstSeen": 1619708963155,
+    "lastSeen": 1619709048775
+  },
+  "knight_128@lichess": {
+    "id": "knight_128",
+    "provider": "lichess",
+    "username": "knight_128",
+    "firstSeen": 1619709049590,
+    "lastSeen": 1619709715921
+  },
+  "sipsonsamsonbot@lichess": {
+    "id": "sipsonsamsonbot",
+    "provider": "lichess",
+    "username": "SipsonsamsonBOT",
+    "firstSeen": 1619709191297,
+    "lastSeen": 1619709622664
+  },
+  "varient_eagle@lichess": {
+    "id": "varient_eagle",
+    "provider": "lichess",
+    "username": "Varient_Eagle",
+    "firstSeen": 1619709724126,
+    "lastSeen": 1619709724126
+  }
+}
