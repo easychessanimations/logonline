@@ -1,0 +1,29 @@
+{
+  "power8@lichess": {
+    "id": "power8",
+    "provider": "lichess",
+    "username": "Power8",
+    "firstSeen": 1619775481760,
+    "lastSeen": 1619776981590,
+    "firstSeenTime": "9:38:01 AM",
+    "lastSeenTime": "10:03:01 AM",
+    "onlineDurationMins": 24.997166666666665
+  },
+  "felix_antonio_2010@lichess": {
+    "id": "felix_antonio_2010",
+    "provider": "lichess",
+    "username": "Felix_Antonio_2010",
+    "firstSeen": 1619775623073,
+    "lastSeen": 1619777606015,
+    "firstSeenTime": "9:40:23 AM",
+    "lastSeenTime": "10:02:24 AM",
+    "onlineDurationMins": 22.022383333333334
+  },
+  "genemer_bautista@lichess": {
+    "id": "genemer_bautista",
+    "provider": "lichess",
+    "username": "Genemer_Bautista",
+    "firstSeen": 1619777670550,
+    "lastSeen": 1619777670551
+  }
+}
