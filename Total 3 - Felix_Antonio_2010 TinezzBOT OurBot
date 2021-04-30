@@ -1,0 +1,23 @@
+{
+  "felix_antonio_2010@lichess": {
+    "id": "felix_antonio_2010",
+    "provider": "lichess",
+    "username": "Felix_Antonio_2010",
+    "firstSeen": 1619783879534,
+    "lastSeen": 1619784816149
+  },
+  "tinezzbot@lichess": {
+    "id": "tinezzbot",
+    "provider": "lichess",
+    "username": "TinezzBOT",
+    "firstSeen": 1619784020291,
+    "lastSeen": 1619784825166
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1619784249175,
+    "lastSeen": 1619784909134
+  }
+}
