@@ -1,0 +1,42 @@
+{
+  "felix_antonio_2010@lichess": {
+    "id": "felix_antonio_2010",
+    "provider": "lichess",
+    "username": "Felix_Antonio_2010",
+    "firstSeen": 1619775623073,
+    "lastSeen": 1619778566960,
+    "firstSeenTime": "9:40:23 AM",
+    "lastSeenTime": "10:29:26 AM",
+    "onlineDurationMins": 49.06478333333333
+  },
+  "bossbotsss@lichess": {
+    "id": "bossbotsss",
+    "provider": "lichess",
+    "username": "BossBOTSSS",
+    "firstSeen": 1619778232402,
+    "lastSeen": 1619778303131,
+    "firstSeenTime": "10:23:52 AM",
+    "lastSeenTime": "10:25:03 AM",
+    "onlineDurationMins": 1.1788166666666666
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1619778263285,
+    "lastSeen": 1619778581606,
+    "firstSeenTime": "10:24:23 AM",
+    "lastSeenTime": "10:29:41 AM",
+    "onlineDurationMins": 5.30535
+  },
+  "botsss@lichess": {
+    "id": "botsss",
+    "provider": "lichess",
+    "username": "BotSSS",
+    "firstSeen": 1619778529853,
+    "lastSeen": 1619778539113,
+    "firstSeenTime": "10:28:49 AM",
+    "lastSeenTime": "10:28:59 AM",
+    "onlineDurationMins": 0.15433333333333332
+  }
+}
