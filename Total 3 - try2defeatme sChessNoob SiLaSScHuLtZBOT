@@ -1,0 +1,32 @@
+{
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1619865734295,
+    "lastSeen": 1619871022894,
+    "firstSeenTime": "10:42:14 AM",
+    "lastSeenTime": "11:59:19 AM",
+    "onlineDurationMins": 77.0815
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1619869363799,
+    "lastSeen": 1619870641854,
+    "firstSeenTime": "11:42:43 AM",
+    "lastSeenTime": "12:04:01 PM",
+    "onlineDurationMins": 21.300916666666666
+  },
+  "silasschultzbot@lichess": {
+    "id": "silasschultzbot",
+    "provider": "lichess",
+    "username": "SiLaSScHuLtZBOT",
+    "firstSeen": 1619870492496,
+    "lastSeen": 1619870754977,
+    "firstSeenTime": "12:01:32 PM",
+    "lastSeenTime": "12:01:48 PM",
+    "onlineDurationMins": 0.26025
+  }
+}
