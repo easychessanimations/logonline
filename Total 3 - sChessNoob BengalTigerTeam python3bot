@@ -1,0 +1,29 @@
+{
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1619856456730,
+    "lastSeen": 1619857263270,
+    "firstSeenTime": "8:07:36 AM",
+    "lastSeenTime": "8:21:03 AM",
+    "onlineDurationMins": 13.442333333333334
+  },
+  "bengaltigerteam@lichess": {
+    "id": "bengaltigerteam",
+    "provider": "lichess",
+    "username": "BengalTigerTeam",
+    "firstSeen": 1619857184170,
+    "lastSeen": 1619857228569,
+    "firstSeenTime": "8:19:44 AM",
+    "lastSeenTime": "8:20:28 AM",
+    "onlineDurationMins": 0.7399833333333333
+  },
+  "82024286@github": {
+    "id": "82024286",
+    "provider": "github",
+    "username": "python3bot",
+    "firstSeen": 1619857343968,
+    "lastSeen": 1619857354015
+  }
+}
