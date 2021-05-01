@@ -1,0 +1,29 @@
+{
+  "fletchling31-dev@lichess": {
+    "id": "fletchling31-dev",
+    "provider": "lichess",
+    "username": "fletchling31-DEV",
+    "firstSeen": 1619855287764,
+    "lastSeen": 1619856615282,
+    "firstSeenTime": "7:48:07 AM",
+    "lastSeenTime": "8:10:15 AM",
+    "onlineDurationMins": 22.1253
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1619856456730,
+    "lastSeen": 1619856630853,
+    "firstSeenTime": "8:07:36 AM",
+    "lastSeenTime": "8:10:30 AM",
+    "onlineDurationMins": 2.90205
+  },
+  "bengaltigerteam@lichess": {
+    "id": "bengaltigerteam",
+    "provider": "lichess",
+    "username": "BengalTigerTeam",
+    "firstSeen": 1619857184170,
+    "lastSeen": 1619857184170
+  }
+}
