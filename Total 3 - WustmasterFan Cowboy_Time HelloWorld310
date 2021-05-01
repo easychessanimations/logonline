@@ -1,0 +1,29 @@
+{
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1619891177744,
+    "lastSeen": 1619897825589,
+    "firstSeenTime": "5:46:17 PM",
+    "lastSeenTime": "7:15:01 PM",
+    "onlineDurationMins": 88.72781666666667
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1619896707007,
+    "lastSeen": 1619898211883,
+    "firstSeenTime": "7:18:27 PM",
+    "lastSeenTime": "7:19:28 PM",
+    "onlineDurationMins": 1.0290833333333333
+  },
+  "helloworld310@lichess": {
+    "id": "helloworld310",
+    "provider": "lichess",
+    "username": "HelloWorld310",
+    "firstSeen": 1619898225108,
+    "lastSeen": 1619898225108
+  }
+}
