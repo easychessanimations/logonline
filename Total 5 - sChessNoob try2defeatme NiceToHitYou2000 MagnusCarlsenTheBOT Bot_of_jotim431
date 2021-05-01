@@ -1,0 +1,49 @@
+{
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1619872711280,
+    "lastSeen": 1619875059708,
+    "firstSeenTime": "12:38:31 PM",
+    "lastSeenTime": "1:17:39 PM",
+    "onlineDurationMins": 39.14046666666667
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1619874154402,
+    "lastSeen": 1619875234660,
+    "firstSeenTime": "1:02:34 PM",
+    "lastSeenTime": "1:15:43 PM",
+    "onlineDurationMins": 13.1519
+  },
+  "nicetohityou2000@lichess": {
+    "id": "nicetohityou2000",
+    "provider": "lichess",
+    "username": "NiceToHitYou2000",
+    "firstSeen": 1619874752643,
+    "lastSeen": 1619874957666,
+    "firstSeenTime": "1:12:32 PM",
+    "lastSeenTime": "1:15:57 PM",
+    "onlineDurationMins": 3.41705
+  },
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1619875049765,
+    "lastSeen": 1619875166814,
+    "firstSeenTime": "1:17:29 PM",
+    "lastSeenTime": "1:17:38 PM",
+    "onlineDurationMins": 0.1397
+  },
+  "bot_of_jotim431@lichess": {
+    "id": "bot_of_jotim431",
+    "provider": "lichess",
+    "username": "Bot_of_jotim431",
+    "firstSeen": 1619875285774,
+    "lastSeen": 1619875285774
+  }
+}
