@@ -1,0 +1,57 @@
+{
+  "skil_2012@lichess": {
+    "id": "skil_2012",
+    "provider": "lichess",
+    "username": "SKIL_2012",
+    "firstSeen": 1619932550977,
+    "lastSeen": 1619935324256,
+    "firstSeenTime": "5:15:50 AM",
+    "lastSeenTime": "5:28:01 AM",
+    "onlineDurationMins": 12.169266666666667
+  },
+  "leela-chess-bot21@lichess": {
+    "id": "leela-chess-bot21",
+    "provider": "lichess",
+    "username": "Leela-Chess-Bot21",
+    "firstSeen": 1619933557180,
+    "lastSeen": 1619935324893,
+    "firstSeenTime": "5:32:37 AM",
+    "lastSeenTime": "5:32:41 AM",
+    "onlineDurationMins": 0.07043333333333333
+  },
+  "mario_40@lichess": {
+    "id": "mario_40",
+    "provider": "lichess",
+    "username": "Mario_40",
+    "firstSeen": 1619933630791,
+    "lastSeen": 1619935692784
+  },
+  "bot2033@lichess": {
+    "id": "bot2033",
+    "provider": "lichess",
+    "username": "Bot2033",
+    "firstSeen": 1619934392246,
+    "lastSeen": 1619935130383
+  },
+  "veysel1289@lichess": {
+    "id": "veysel1289",
+    "provider": "lichess",
+    "username": "veysel1289",
+    "firstSeen": 1619934761059,
+    "lastSeen": 1619935383917
+  },
+  "veysel21215@lichess": {
+    "id": "veysel21215",
+    "provider": "lichess",
+    "username": "veysel21215",
+    "firstSeen": 1619935393252,
+    "lastSeen": 1619935503469
+  },
+  "ledzeppelin-bot@lichess": {
+    "id": "ledzeppelin-bot",
+    "provider": "lichess",
+    "username": "LedZeppelin-Bot",
+    "firstSeen": 1619935967161,
+    "lastSeen": 1619935967162
+  }
+}
