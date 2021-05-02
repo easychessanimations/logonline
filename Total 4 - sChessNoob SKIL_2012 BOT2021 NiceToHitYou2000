@@ -1,0 +1,42 @@
+{
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1619930422120,
+    "lastSeen": 1619933031854,
+    "firstSeenTime": "4:40:22 AM",
+    "lastSeenTime": "5:23:51 AM",
+    "onlineDurationMins": 43.49556666666667
+  },
+  "skil_2012@lichess": {
+    "id": "skil_2012",
+    "provider": "lichess",
+    "username": "SKIL_2012",
+    "firstSeen": 1619932550977,
+    "lastSeen": 1619933281133,
+    "firstSeenTime": "5:15:50 AM",
+    "lastSeenTime": "5:16:40 AM",
+    "onlineDurationMins": 0.8234833333333333
+  },
+  "bot2021@lichess": {
+    "id": "bot2021",
+    "provider": "lichess",
+    "username": "BOT2021",
+    "firstSeen": 1619932840130,
+    "lastSeen": 1619933106050,
+    "firstSeenTime": "5:20:40 AM",
+    "lastSeenTime": "5:22:38 AM",
+    "onlineDurationMins": 1.9772333333333334
+  },
+  "nicetohityou2000@lichess": {
+    "id": "nicetohityou2000",
+    "provider": "lichess",
+    "username": "NiceToHitYou2000",
+    "firstSeen": 1619932968850,
+    "lastSeen": 1619933332665,
+    "firstSeenTime": "5:22:48 AM",
+    "lastSeenTime": "5:23:00 AM",
+    "onlineDurationMins": 0.18976666666666667
+  }
+}
