@@ -1,0 +1,59 @@
+{
+  "ai69@lichess": {
+    "id": "ai69",
+    "provider": "lichess",
+    "username": "AI69",
+    "firstSeen": 1619954382641,
+    "lastSeen": 1619963158807,
+    "firstSeenTime": "11:19:42 AM",
+    "lastSeenTime": "1:15:58 PM",
+    "onlineDurationMins": 116.26866666666666
+  },
+  "leela-chess-bot21@lichess": {
+    "id": "leela-chess-bot21",
+    "provider": "lichess",
+    "username": "Leela-Chess-Bot21",
+    "firstSeen": 1619954494364,
+    "lastSeen": 1619963349309,
+    "firstSeenTime": "11:21:34 AM",
+    "lastSeenTime": "1:17:43 PM",
+    "onlineDurationMins": 116.14485
+  },
+  "mr_h2005@lichess": {
+    "id": "mr_h2005",
+    "provider": "lichess",
+    "username": "Mr_H2005",
+    "firstSeen": 1619960111824,
+    "lastSeen": 1619962943942,
+    "firstSeenTime": "12:55:11 PM",
+    "lastSeenTime": "1:17:02 PM",
+    "onlineDurationMins": 21.841966666666668
+  },
+  "bosskomodo@lichess": {
+    "id": "bosskomodo",
+    "provider": "lichess",
+    "username": "BossKomodo",
+    "firstSeen": 1619960701785,
+    "lastSeen": 1619962533031,
+    "firstSeenTime": "1:05:01 PM",
+    "lastSeenTime": "1:16:33 PM",
+    "onlineDurationMins": 11.523816666666667
+  },
+  "bot2033@lichess": {
+    "id": "bot2033",
+    "provider": "lichess",
+    "username": "Bot2033",
+    "firstSeen": 1619961073558,
+    "lastSeen": 1619963125751,
+    "firstSeenTime": "1:11:13 PM",
+    "lastSeenTime": "1:17:43 PM",
+    "onlineDurationMins": 6.491816666666667
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1619962259627,
+    "lastSeen": 1619962973642
+  }
+}
