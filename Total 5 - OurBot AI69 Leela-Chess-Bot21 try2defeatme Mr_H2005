@@ -1,0 +1,46 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1619950968220,
+    "lastSeen": 1619960006685,
+    "firstSeenTime": "10:22:48 AM",
+    "lastSeenTime": "11:36:07 AM",
+    "onlineDurationMins": 73.31391666666667
+  },
+  "ai69@lichess": {
+    "id": "ai69",
+    "provider": "lichess",
+    "username": "AI69",
+    "firstSeen": 1619954382641,
+    "lastSeen": 1619960002713,
+    "firstSeenTime": "11:19:42 AM",
+    "lastSeenTime": "11:36:20 AM",
+    "onlineDurationMins": 16.6379
+  },
+  "leela-chess-bot21@lichess": {
+    "id": "leela-chess-bot21",
+    "provider": "lichess",
+    "username": "Leela-Chess-Bot21",
+    "firstSeen": 1619954494364,
+    "lastSeen": 1619960000788,
+    "firstSeenTime": "11:21:34 AM",
+    "lastSeenTime": "11:36:07 AM",
+    "onlineDurationMins": 14.5523
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1619958690751,
+    "lastSeen": 1619959377197
+  },
+  "mr_h2005@lichess": {
+    "id": "mr_h2005",
+    "provider": "lichess",
+    "username": "Mr_H2005",
+    "firstSeen": 1619960111824,
+    "lastSeen": 1619960111824
+  }
+}
