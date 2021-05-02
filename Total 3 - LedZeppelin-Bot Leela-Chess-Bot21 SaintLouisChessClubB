@@ -1,0 +1,23 @@
+{
+  "ledzeppelin-bot@lichess": {
+    "id": "ledzeppelin-bot",
+    "provider": "lichess",
+    "username": "LedZeppelin-Bot",
+    "firstSeen": 1619945137926,
+    "lastSeen": 1619945829618
+  },
+  "leela-chess-bot21@lichess": {
+    "id": "leela-chess-bot21",
+    "provider": "lichess",
+    "username": "Leela-Chess-Bot21",
+    "firstSeen": 1619945792824,
+    "lastSeen": 1619945816204
+  },
+  "saintlouischessclubb@lichess": {
+    "id": "saintlouischessclubb",
+    "provider": "lichess",
+    "username": "SaintLouisChessClubB",
+    "firstSeen": 1619945832015,
+    "lastSeen": 1619945832015
+  }
+}
