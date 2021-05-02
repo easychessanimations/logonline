@@ -1,0 +1,42 @@
+{
+  "ai69@lichess": {
+    "id": "ai69",
+    "provider": "lichess",
+    "username": "AI69",
+    "firstSeen": 1619954382641,
+    "lastSeen": 1619968905409,
+    "firstSeenTime": "11:19:42 AM",
+    "lastSeenTime": "3:02:59 PM",
+    "onlineDurationMins": 223.27318333333332
+  },
+  "leela-chess-bot21@lichess": {
+    "id": "leela-chess-bot21",
+    "provider": "lichess",
+    "username": "Leela-Chess-Bot21",
+    "firstSeen": 1619954494364,
+    "lastSeen": 1619968911594,
+    "firstSeenTime": "11:21:34 AM",
+    "lastSeenTime": "3:08:02 PM",
+    "onlineDurationMins": 226.4606
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1619962259627,
+    "lastSeen": 1619968877951,
+    "firstSeenTime": "1:30:59 PM",
+    "lastSeenTime": "3:08:19 PM",
+    "onlineDurationMins": 97.32648333333333
+  },
+  "botc9c9c9c9c9@lichess": {
+    "id": "botc9c9c9c9c9",
+    "provider": "lichess",
+    "username": "BotC9C9C9C9C9",
+    "firstSeen": 1619967854765,
+    "lastSeen": 1619968896150,
+    "firstSeenTime": "3:04:14 PM",
+    "lastSeenTime": "3:07:10 PM",
+    "onlineDurationMins": 2.931033333333333
+  }
+}
