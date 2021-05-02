@@ -1,0 +1,76 @@
+{
+  "ai69@lichess": {
+    "id": "ai69",
+    "provider": "lichess",
+    "username": "AI69",
+    "firstSeen": 1619954382641,
+    "lastSeen": 1619962198526,
+    "firstSeenTime": "11:19:42 AM",
+    "lastSeenTime": "1:15:58 PM",
+    "onlineDurationMins": 116.26866666666666
+  },
+  "leela-chess-bot21@lichess": {
+    "id": "leela-chess-bot21",
+    "provider": "lichess",
+    "username": "Leela-Chess-Bot21",
+    "firstSeen": 1619954494364,
+    "lastSeen": 1619962525184,
+    "firstSeenTime": "11:21:34 AM",
+    "lastSeenTime": "1:17:43 PM",
+    "onlineDurationMins": 116.14485
+  },
+  "mr_h2005@lichess": {
+    "id": "mr_h2005",
+    "provider": "lichess",
+    "username": "Mr_H2005",
+    "firstSeen": 1619960111824,
+    "lastSeen": 1619962212672,
+    "firstSeenTime": "12:55:11 PM",
+    "lastSeenTime": "1:17:02 PM",
+    "onlineDurationMins": 21.841966666666668
+  },
+  "bosskomodo@lichess": {
+    "id": "bosskomodo",
+    "provider": "lichess",
+    "username": "BossKomodo",
+    "firstSeen": 1619960701785,
+    "lastSeen": 1619962519995,
+    "firstSeenTime": "1:05:01 PM",
+    "lastSeenTime": "1:16:33 PM",
+    "onlineDurationMins": 11.523816666666667
+  },
+  "bot2033@lichess": {
+    "id": "bot2033",
+    "provider": "lichess",
+    "username": "Bot2033",
+    "firstSeen": 1619961073558,
+    "lastSeen": 1619962526568,
+    "firstSeenTime": "1:11:13 PM",
+    "lastSeenTime": "1:17:43 PM",
+    "onlineDurationMins": 6.491816666666667
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1619961476532,
+    "lastSeen": 1619961711471,
+    "firstSeenTime": "1:17:56 PM",
+    "lastSeenTime": "1:18:06 PM",
+    "onlineDurationMins": 0.16258333333333333
+  },
+  "best_mover@lichess": {
+    "id": "best_mover",
+    "provider": "lichess",
+    "username": "best_mover",
+    "firstSeen": 1619961943171,
+    "lastSeen": 1619962374490
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1619962259627,
+    "lastSeen": 1619962490878
+  }
+}
