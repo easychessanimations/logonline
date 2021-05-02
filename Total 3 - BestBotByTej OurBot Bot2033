@@ -1,0 +1,23 @@
+{
+  "bestbotbytej@lichess": {
+    "id": "bestbotbytej",
+    "provider": "lichess",
+    "username": "BestBotByTej",
+    "firstSeen": 1619948895043,
+    "lastSeen": 1619948908087
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1619949170221,
+    "lastSeen": 1619949210924
+  },
+  "bot2033@lichess": {
+    "id": "bot2033",
+    "provider": "lichess",
+    "username": "Bot2033",
+    "firstSeen": 1619949577608,
+    "lastSeen": 1619949577608
+  }
+}
