@@ -1,0 +1,59 @@
+{
+  "ai69@lichess": {
+    "id": "ai69",
+    "provider": "lichess",
+    "username": "AI69",
+    "firstSeen": 1619954382641,
+    "lastSeen": 1619966145405,
+    "firstSeenTime": "11:19:42 AM",
+    "lastSeenTime": "2:24:04 PM",
+    "onlineDurationMins": 184.3714
+  },
+  "leela-chess-bot21@lichess": {
+    "id": "leela-chess-bot21",
+    "provider": "lichess",
+    "username": "Leela-Chess-Bot21",
+    "firstSeen": 1619954494364,
+    "lastSeen": 1619965924248,
+    "firstSeenTime": "11:21:34 AM",
+    "lastSeenTime": "2:25:43 PM",
+    "onlineDurationMins": 184.15453333333335
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1619962259627,
+    "lastSeen": 1619966152057,
+    "firstSeenTime": "1:30:59 PM",
+    "lastSeenTime": "2:24:52 PM",
+    "onlineDurationMins": 53.87605
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1619963584893,
+    "lastSeen": 1619965689727,
+    "firstSeenTime": "1:53:04 PM",
+    "lastSeenTime": "2:28:09 PM",
+    "onlineDurationMins": 35.08056666666667
+  },
+  "saintlouischessclubb@lichess": {
+    "id": "saintlouischessclubb",
+    "provider": "lichess",
+    "username": "SaintLouisChessClubB",
+    "firstSeen": 1619965097926,
+    "lastSeen": 1619965755712,
+    "firstSeenTime": "2:18:17 PM",
+    "lastSeenTime": "2:25:44 PM",
+    "onlineDurationMins": 7.440666666666667
+  },
+  "botc9c9c9c9c9@lichess": {
+    "id": "botc9c9c9c9c9",
+    "provider": "lichess",
+    "username": "BotC9C9C9C9C9",
+    "firstSeen": 1619966217615,
+    "lastSeen": 1619966217615
+  }
+}
