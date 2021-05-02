@@ -1,0 +1,23 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1619950968220,
+    "lastSeen": 1619953673018
+  },
+  "skil_2012@lichess": {
+    "id": "skil_2012",
+    "provider": "lichess",
+    "username": "SKIL_2012",
+    "firstSeen": 1619952639884,
+    "lastSeen": 1619953649149
+  },
+  "ai69420@lichess": {
+    "id": "ai69420",
+    "provider": "lichess",
+    "username": "AI69420",
+    "firstSeen": 1619953726069,
+    "lastSeen": 1619953726069
+  }
+}
