@@ -1,0 +1,44 @@
+{
+  "firebeans@lichess": {
+    "id": "firebeans",
+    "provider": "lichess",
+    "username": "FireBeans",
+    "firstSeen": 1620077628694,
+    "lastSeen": 1620079641693
+  },
+  "friendly_bot@lichess": {
+    "id": "friendly_bot",
+    "provider": "lichess",
+    "username": "Friendly_Bot",
+    "firstSeen": 1620077631470,
+    "lastSeen": 1620079811264
+  },
+  "saurabh_ks_bot@lichess": {
+    "id": "saurabh_ks_bot",
+    "provider": "lichess",
+    "username": "saurabh_ks_BOT",
+    "firstSeen": 1620077882535,
+    "lastSeen": 1620079648404
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1620078105874,
+    "lastSeen": 1620079489670
+  },
+  "antarticanonymous@lichess": {
+    "id": "antarticanonymous",
+    "provider": "lichess",
+    "username": "AntarticAnonymous",
+    "firstSeen": 1620078132851,
+    "lastSeen": 1620079513055
+  },
+  "knight_bot@lichess": {
+    "id": "knight_bot",
+    "provider": "lichess",
+    "username": "knight_BOT",
+    "firstSeen": 1620079171749,
+    "lastSeen": 1620079477034
+  }
+}
