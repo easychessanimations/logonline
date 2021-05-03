@@ -1,0 +1,88 @@
+{
+  "ai69@lichess": {
+    "id": "ai69",
+    "provider": "lichess",
+    "username": "AI69",
+    "firstSeen": 1620018963575,
+    "lastSeen": 1620048534123,
+    "firstSeenTime": "5:16:03 AM",
+    "lastSeenTime": "11:04:35 AM",
+    "onlineDurationMins": 348.52998333333335
+  },
+  "leela-chess-bot21@lichess": {
+    "id": "leela-chess-bot21",
+    "provider": "lichess",
+    "username": "Leela-Chess-Bot21",
+    "firstSeen": 1620028916296,
+    "lastSeen": 1620048821593,
+    "firstSeenTime": "8:01:56 AM",
+    "lastSeenTime": "11:07:33 AM",
+    "onlineDurationMins": 185.61838333333333
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620036822106,
+    "lastSeen": 1620048522429,
+    "firstSeenTime": "10:13:42 AM",
+    "lastSeenTime": "11:05:45 AM",
+    "onlineDurationMins": 52.05575
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1620045531891,
+    "lastSeen": 1620048943358
+  },
+  "saurabh_ks_bot@lichess": {
+    "id": "saurabh_ks_bot",
+    "provider": "lichess",
+    "username": "saurabh_ks_BOT",
+    "firstSeen": 1620046100983,
+    "lastSeen": 1620048574374
+  },
+  "dynamic-hero@lichess": {
+    "id": "dynamic-hero",
+    "provider": "lichess",
+    "username": "Dynamic-Hero",
+    "firstSeen": 1620047144413,
+    "lastSeen": 1620048762317
+  },
+  "sinirsiz123@lichess": {
+    "id": "sinirsiz123",
+    "provider": "lichess",
+    "username": "SINIRSIZ123",
+    "firstSeen": 1620047525505,
+    "lastSeen": 1620048840190
+  },
+  "feuer2@lichess": {
+    "id": "feuer2",
+    "provider": "lichess",
+    "username": "Feuer2",
+    "firstSeen": 1620047704532,
+    "lastSeen": 1620048291296
+  },
+  "sabhevarock-fairy@lichess": {
+    "id": "sabhevarock-fairy",
+    "provider": "lichess",
+    "username": "SABHEvaRock-Fairy",
+    "firstSeen": 1620048076640,
+    "lastSeen": 1620048123307
+  },
+  "bullet_mcqueen@lichess": {
+    "id": "bullet_mcqueen",
+    "provider": "lichess",
+    "username": "Bullet_Mcqueen",
+    "firstSeen": 1620048438135,
+    "lastSeen": 1620048776576
+  },
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1620048565601,
+    "lastSeen": 1620048576906
+  }
+}
