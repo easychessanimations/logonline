@@ -1,0 +1,102 @@
+{
+  "ai69@lichess": {
+    "id": "ai69",
+    "provider": "lichess",
+    "username": "AI69",
+    "firstSeen": 1620018963575,
+    "lastSeen": 1620032870894,
+    "firstSeenTime": "5:16:03 AM",
+    "lastSeenTime": "9:07:50 AM",
+    "onlineDurationMins": 231.78865
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1620022636855,
+    "lastSeen": 1620032955013,
+    "firstSeenTime": "6:17:16 AM",
+    "lastSeenTime": "9:09:15 AM",
+    "onlineDurationMins": 171.9693
+  },
+  "leela-chess-bot21@lichess": {
+    "id": "leela-chess-bot21",
+    "provider": "lichess",
+    "username": "Leela-Chess-Bot21",
+    "firstSeen": 1620028916296,
+    "lastSeen": 1620033553858,
+    "firstSeenTime": "8:01:56 AM",
+    "lastSeenTime": "9:19:13 AM",
+    "onlineDurationMins": 77.2927
+  },
+  "bullet_mcqueen@lichess": {
+    "id": "bullet_mcqueen",
+    "provider": "lichess",
+    "username": "Bullet_Mcqueen",
+    "firstSeen": 1620030239128,
+    "lastSeen": 1620033555478,
+    "firstSeenTime": "8:23:59 AM",
+    "lastSeenTime": "9:19:15 AM",
+    "onlineDurationMins": 55.2725
+  },
+  "speedforspeed100@lichess": {
+    "id": "speedforspeed100",
+    "provider": "lichess",
+    "username": "speedforspeed100",
+    "firstSeen": 1620031719381,
+    "lastSeen": 1620033312811,
+    "firstSeenTime": "8:48:39 AM",
+    "lastSeenTime": "9:15:12 AM",
+    "onlineDurationMins": 26.557166666666667
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620032434671,
+    "lastSeen": 1620033467407,
+    "firstSeenTime": "9:00:34 AM",
+    "lastSeenTime": "9:17:47 AM",
+    "onlineDurationMins": 17.212266666666668
+  },
+  "sonbot@lichess": {
+    "id": "sonbot",
+    "provider": "lichess",
+    "username": "SonBot",
+    "firstSeen": 1620032448713,
+    "lastSeen": 1620033122693,
+    "firstSeenTime": "9:00:48 AM",
+    "lastSeenTime": "9:12:02 AM",
+    "onlineDurationMins": 11.233
+  },
+  "feuer2@lichess": {
+    "id": "feuer2",
+    "provider": "lichess",
+    "username": "Feuer2",
+    "firstSeen": 1620032754456,
+    "lastSeen": 1620032770659,
+    "firstSeenTime": "9:05:54 AM",
+    "lastSeenTime": "9:06:10 AM",
+    "onlineDurationMins": 0.27005
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620033082631,
+    "lastSeen": 1620033593376,
+    "firstSeenTime": "9:11:22 AM",
+    "lastSeenTime": "9:19:22 AM",
+    "onlineDurationMins": 7.995333333333333
+  },
+  "botc9c9c9c9c9@lichess": {
+    "id": "botc9c9c9c9c9",
+    "provider": "lichess",
+    "username": "BotC9C9C9C9C9",
+    "firstSeen": 1620033487000,
+    "lastSeen": 1620033499223,
+    "firstSeenTime": "9:18:07 AM",
+    "lastSeenTime": "9:18:19 AM",
+    "onlineDurationMins": 0.20371666666666666
+  }
+}
