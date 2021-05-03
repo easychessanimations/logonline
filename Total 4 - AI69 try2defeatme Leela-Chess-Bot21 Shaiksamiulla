@@ -1,0 +1,30 @@
+{
+  "ai69@lichess": {
+    "id": "ai69",
+    "provider": "lichess",
+    "username": "AI69",
+    "firstSeen": 1620008205979,
+    "lastSeen": 1620012000989
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620011575759,
+    "lastSeen": 1620012250540
+  },
+  "leela-chess-bot21@lichess": {
+    "id": "leela-chess-bot21",
+    "provider": "lichess",
+    "username": "Leela-Chess-Bot21",
+    "firstSeen": 1620011956842,
+    "lastSeen": 1620012191706
+  },
+  "shaiksamiulla@lichess": {
+    "id": "shaiksamiulla",
+    "provider": "lichess",
+    "username": "Shaiksamiulla",
+    "firstSeen": 1620012295462,
+    "lastSeen": 1620012295462
+  }
+}
