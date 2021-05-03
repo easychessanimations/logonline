@@ -1,0 +1,75 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620036822106,
+    "lastSeen": 1620053200198,
+    "firstSeenTime": "10:13:42 AM",
+    "lastSeenTime": "11:05:45 AM",
+    "onlineDurationMins": 52.05575
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1620045531891,
+    "lastSeen": 1620053084034
+  },
+  "saurabh_ks_bot@lichess": {
+    "id": "saurabh_ks_bot",
+    "provider": "lichess",
+    "username": "saurabh_ks_BOT",
+    "firstSeen": 1620046100983,
+    "lastSeen": 1620052891429
+  },
+  "bullet_mcqueen@lichess": {
+    "id": "bullet_mcqueen",
+    "provider": "lichess",
+    "username": "Bullet_Mcqueen",
+    "firstSeen": 1620048438135,
+    "lastSeen": 1620053073279
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620050451888,
+    "lastSeen": 1620052924822
+  },
+  "mr_marcos_bot2@lichess": {
+    "id": "mr_marcos_bot2",
+    "provider": "lichess",
+    "username": "Mr_Marcos_Bot2",
+    "firstSeen": 1620050559531,
+    "lastSeen": 1620053144551
+  },
+  "ai69@lichess": {
+    "id": "ai69",
+    "provider": "lichess",
+    "username": "AI69",
+    "firstSeen": 1620052750060,
+    "lastSeen": 1620053205927
+  },
+  "anshprince@lichess": {
+    "id": "anshprince",
+    "provider": "lichess",
+    "username": "Anshprince",
+    "firstSeen": 1620052973203,
+    "lastSeen": 1620053258854
+  },
+  "bot_of_jotim431@lichess": {
+    "id": "bot_of_jotim431",
+    "provider": "lichess",
+    "username": "Bot_of_jotim431",
+    "firstSeen": 1620053086568,
+    "lastSeen": 1620053140495
+  },
+  "mr_buttons12@lichess": {
+    "id": "mr_buttons12",
+    "provider": "lichess",
+    "username": "Mr_Buttons12",
+    "firstSeen": 1620053269656,
+    "lastSeen": 1620053269656
+  }
+}
