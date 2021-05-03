@@ -1,0 +1,76 @@
+{
+  "ai69@lichess": {
+    "id": "ai69",
+    "provider": "lichess",
+    "username": "AI69",
+    "firstSeen": 1620018963575,
+    "lastSeen": 1620038979115,
+    "firstSeenTime": "5:16:03 AM",
+    "lastSeenTime": "10:40:10 AM",
+    "onlineDurationMins": 324.1231
+  },
+  "leela-chess-bot21@lichess": {
+    "id": "leela-chess-bot21",
+    "provider": "lichess",
+    "username": "Leela-Chess-Bot21",
+    "firstSeen": 1620028916296,
+    "lastSeen": 1620038742312,
+    "firstSeenTime": "8:01:56 AM",
+    "lastSeenTime": "10:34:45 AM",
+    "onlineDurationMins": 152.81676666666667
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620032434671,
+    "lastSeen": 1620038550209,
+    "firstSeenTime": "9:00:34 AM",
+    "lastSeenTime": "10:39:24 AM",
+    "onlineDurationMins": 98.83718333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620033082631,
+    "lastSeen": 1620038479388,
+    "firstSeenTime": "9:11:22 AM",
+    "lastSeenTime": "10:41:19 AM",
+    "onlineDurationMins": 89.94595
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1620035750854,
+    "lastSeen": 1620038753294,
+    "firstSeenTime": "9:55:50 AM",
+    "lastSeenTime": "10:30:53 AM",
+    "onlineDurationMins": 35.04128333333333
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620036822106,
+    "lastSeen": 1620038677140,
+    "firstSeenTime": "10:13:42 AM",
+    "lastSeenTime": "10:30:45 AM",
+    "onlineDurationMins": 17.058366666666668
+  },
+  "maksklc@lichess": {
+    "id": "maksklc",
+    "provider": "lichess",
+    "username": "maksklc",
+    "firstSeen": 1620038594715,
+    "lastSeen": 1620038694329
+  },
+  "chessbrain_123@lichess": {
+    "id": "chessbrain_123",
+    "provider": "lichess",
+    "username": "chessbrain_123",
+    "firstSeen": 1620039010755,
+    "lastSeen": 1620039010755
+  }
+}
