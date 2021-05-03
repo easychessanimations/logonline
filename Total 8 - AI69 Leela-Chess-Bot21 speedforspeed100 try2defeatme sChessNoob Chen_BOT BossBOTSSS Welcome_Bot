@@ -1,0 +1,79 @@
+{
+  "ai69@lichess": {
+    "id": "ai69",
+    "provider": "lichess",
+    "username": "AI69",
+    "firstSeen": 1620018963575,
+    "lastSeen": 1620036459938,
+    "firstSeenTime": "5:16:03 AM",
+    "lastSeenTime": "10:07:39 AM",
+    "onlineDurationMins": 291.60605
+  },
+  "leela-chess-bot21@lichess": {
+    "id": "leela-chess-bot21",
+    "provider": "lichess",
+    "username": "Leela-Chess-Bot21",
+    "firstSeen": 1620028916296,
+    "lastSeen": 1620036479957,
+    "firstSeenTime": "8:01:56 AM",
+    "lastSeenTime": "10:07:59 AM",
+    "onlineDurationMins": 126.06101666666666
+  },
+  "speedforspeed100@lichess": {
+    "id": "speedforspeed100",
+    "provider": "lichess",
+    "username": "speedforspeed100",
+    "firstSeen": 1620031719381,
+    "lastSeen": 1620035888746,
+    "firstSeenTime": "8:48:39 AM",
+    "lastSeenTime": "9:58:08 AM",
+    "onlineDurationMins": 69.48941666666667
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620032434671,
+    "lastSeen": 1620036481283,
+    "firstSeenTime": "9:00:34 AM",
+    "lastSeenTime": "10:08:01 AM",
+    "onlineDurationMins": 67.44353333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620033082631,
+    "lastSeen": 1620036747485,
+    "firstSeenTime": "9:11:22 AM",
+    "lastSeenTime": "10:12:27 AM",
+    "onlineDurationMins": 61.0809
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1620035750854,
+    "lastSeen": 1620036475618,
+    "firstSeenTime": "9:55:50 AM",
+    "lastSeenTime": "10:07:55 AM",
+    "onlineDurationMins": 12.0794
+  },
+  "bossbotsss@lichess": {
+    "id": "bossbotsss",
+    "provider": "lichess",
+    "username": "BossBOTSSS",
+    "firstSeen": 1620035959334,
+    "lastSeen": 1620036064026,
+    "firstSeenTime": "9:59:19 AM",
+    "lastSeenTime": "10:01:04 AM",
+    "onlineDurationMins": 1.7448666666666666
+  },
+  "welcome_bot@lichess": {
+    "id": "welcome_bot",
+    "provider": "lichess",
+    "username": "Welcome_Bot",
+    "firstSeen": 1620036748680,
+    "lastSeen": 1620036748680
+  }
+}
