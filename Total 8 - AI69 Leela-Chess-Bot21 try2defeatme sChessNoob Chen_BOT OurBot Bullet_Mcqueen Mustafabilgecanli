@@ -1,0 +1,79 @@
+{
+  "ai69@lichess": {
+    "id": "ai69",
+    "provider": "lichess",
+    "username": "AI69",
+    "firstSeen": 1620018963575,
+    "lastSeen": 1620039875374,
+    "firstSeenTime": "5:16:03 AM",
+    "lastSeenTime": "11:04:35 AM",
+    "onlineDurationMins": 348.52998333333335
+  },
+  "leela-chess-bot21@lichess": {
+    "id": "leela-chess-bot21",
+    "provider": "lichess",
+    "username": "Leela-Chess-Bot21",
+    "firstSeen": 1620028916296,
+    "lastSeen": 1620040053399,
+    "firstSeenTime": "8:01:56 AM",
+    "lastSeenTime": "11:05:12 AM",
+    "onlineDurationMins": 183.26301666666666
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620032434671,
+    "lastSeen": 1620039851220,
+    "firstSeenTime": "9:00:34 AM",
+    "lastSeenTime": "11:04:11 AM",
+    "onlineDurationMins": 123.60915
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620033082631,
+    "lastSeen": 1620040031795,
+    "firstSeenTime": "9:11:22 AM",
+    "lastSeenTime": "11:07:11 AM",
+    "onlineDurationMins": 115.8194
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1620035750854,
+    "lastSeen": 1620039952341,
+    "firstSeenTime": "9:55:50 AM",
+    "lastSeenTime": "11:05:52 AM",
+    "onlineDurationMins": 70.02478333333333
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620036822106,
+    "lastSeen": 1620039945451,
+    "firstSeenTime": "10:13:42 AM",
+    "lastSeenTime": "11:05:45 AM",
+    "onlineDurationMins": 52.05575
+  },
+  "bullet_mcqueen@lichess": {
+    "id": "bullet_mcqueen",
+    "provider": "lichess",
+    "username": "Bullet_Mcqueen",
+    "firstSeen": 1620039949451,
+    "lastSeen": 1620039978717,
+    "firstSeenTime": "11:05:49 AM",
+    "lastSeenTime": "11:06:18 AM",
+    "onlineDurationMins": 0.4877666666666667
+  },
+  "mustafabilgecanli@lichess": {
+    "id": "mustafabilgecanli",
+    "provider": "lichess",
+    "username": "Mustafabilgecanli",
+    "firstSeen": 1620040064206,
+    "lastSeen": 1620040064206
+  }
+}
