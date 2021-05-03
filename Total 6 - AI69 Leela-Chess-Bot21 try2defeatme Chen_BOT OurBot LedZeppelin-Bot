@@ -1,0 +1,59 @@
+{
+  "ai69@lichess": {
+    "id": "ai69",
+    "provider": "lichess",
+    "username": "AI69",
+    "firstSeen": 1620018963575,
+    "lastSeen": 1620041618620,
+    "firstSeenTime": "5:16:03 AM",
+    "lastSeenTime": "11:04:35 AM",
+    "onlineDurationMins": 348.52998333333335
+  },
+  "leela-chess-bot21@lichess": {
+    "id": "leela-chess-bot21",
+    "provider": "lichess",
+    "username": "Leela-Chess-Bot21",
+    "firstSeen": 1620028916296,
+    "lastSeen": 1620041808185,
+    "firstSeenTime": "8:01:56 AM",
+    "lastSeenTime": "11:07:33 AM",
+    "onlineDurationMins": 185.61838333333333
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620032434671,
+    "lastSeen": 1620041796064,
+    "firstSeenTime": "9:00:34 AM",
+    "lastSeenTime": "11:04:11 AM",
+    "onlineDurationMins": 123.60915
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1620035750854,
+    "lastSeen": 1620041753355,
+    "firstSeenTime": "9:55:50 AM",
+    "lastSeenTime": "11:05:52 AM",
+    "onlineDurationMins": 70.02478333333333
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620036822106,
+    "lastSeen": 1620041873873,
+    "firstSeenTime": "10:13:42 AM",
+    "lastSeenTime": "11:05:45 AM",
+    "onlineDurationMins": 52.05575
+  },
+  "ledzeppelin-bot@lichess": {
+    "id": "ledzeppelin-bot",
+    "provider": "lichess",
+    "username": "LedZeppelin-Bot",
+    "firstSeen": 1620040782956,
+    "lastSeen": 1620041785357
+  }
+}
