@@ -1,0 +1,82 @@
+{
+  "ai69@lichess": {
+    "id": "ai69",
+    "provider": "lichess",
+    "username": "AI69",
+    "firstSeen": 1620018963575,
+    "lastSeen": 1620034332251,
+    "firstSeenTime": "5:16:03 AM",
+    "lastSeenTime": "9:32:12 AM",
+    "onlineDurationMins": 256.1446
+  },
+  "leela-chess-bot21@lichess": {
+    "id": "leela-chess-bot21",
+    "provider": "lichess",
+    "username": "Leela-Chess-Bot21",
+    "firstSeen": 1620028916296,
+    "lastSeen": 1620034319487,
+    "firstSeenTime": "8:01:56 AM",
+    "lastSeenTime": "9:31:59 AM",
+    "onlineDurationMins": 90.05318333333334
+  },
+  "bullet_mcqueen@lichess": {
+    "id": "bullet_mcqueen",
+    "provider": "lichess",
+    "username": "Bullet_Mcqueen",
+    "firstSeen": 1620030239128,
+    "lastSeen": 1620034330493,
+    "firstSeenTime": "8:23:59 AM",
+    "lastSeenTime": "9:32:10 AM",
+    "onlineDurationMins": 68.18941666666667
+  },
+  "speedforspeed100@lichess": {
+    "id": "speedforspeed100",
+    "provider": "lichess",
+    "username": "speedforspeed100",
+    "firstSeen": 1620031719381,
+    "lastSeen": 1620034033361,
+    "firstSeenTime": "8:48:39 AM",
+    "lastSeenTime": "9:27:13 AM",
+    "onlineDurationMins": 38.56633333333333
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620032434671,
+    "lastSeen": 1620034332798,
+    "firstSeenTime": "9:00:34 AM",
+    "lastSeenTime": "9:32:12 AM",
+    "onlineDurationMins": 31.63545
+  },
+  "sonbot@lichess": {
+    "id": "sonbot",
+    "provider": "lichess",
+    "username": "SonBot",
+    "firstSeen": 1620032448713,
+    "lastSeen": 1620033955213,
+    "firstSeenTime": "9:00:48 AM",
+    "lastSeenTime": "9:25:55 AM",
+    "onlineDurationMins": 25.108333333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620033082631,
+    "lastSeen": 1620034399354,
+    "firstSeenTime": "9:11:22 AM",
+    "lastSeenTime": "9:32:48 AM",
+    "onlineDurationMins": 21.4304
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620033642179,
+    "lastSeen": 1620034302086,
+    "firstSeenTime": "9:20:42 AM",
+    "lastSeenTime": "9:31:42 AM",
+    "onlineDurationMins": 10.99845
+  }
+}
