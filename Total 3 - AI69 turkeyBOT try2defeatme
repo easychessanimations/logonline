@@ -1,0 +1,32 @@
+{
+  "ai69@lichess": {
+    "id": "ai69",
+    "provider": "lichess",
+    "username": "AI69",
+    "firstSeen": 1620018963575,
+    "lastSeen": 1620028893298,
+    "firstSeenTime": "5:16:03 AM",
+    "lastSeenTime": "7:17:28 AM",
+    "onlineDurationMins": 121.41833333333334
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1620022636855,
+    "lastSeen": 1620028467934,
+    "firstSeenTime": "6:17:16 AM",
+    "lastSeenTime": "7:16:58 AM",
+    "onlineDurationMins": 59.69676666666667
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620022716216,
+    "lastSeen": 1620028238548,
+    "firstSeenTime": "6:18:36 AM",
+    "lastSeenTime": "7:17:27 AM",
+    "onlineDurationMins": 58.85946666666667
+  }
+}
