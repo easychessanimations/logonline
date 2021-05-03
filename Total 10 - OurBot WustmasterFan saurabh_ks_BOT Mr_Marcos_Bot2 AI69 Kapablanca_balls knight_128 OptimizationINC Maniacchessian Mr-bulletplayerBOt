@@ -1,0 +1,75 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620036822106,
+    "lastSeen": 1620055177505,
+    "firstSeenTime": "10:13:42 AM",
+    "lastSeenTime": "11:05:45 AM",
+    "onlineDurationMins": 52.05575
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1620045531891,
+    "lastSeen": 1620054985105
+  },
+  "saurabh_ks_bot@lichess": {
+    "id": "saurabh_ks_bot",
+    "provider": "lichess",
+    "username": "saurabh_ks_BOT",
+    "firstSeen": 1620046100983,
+    "lastSeen": 1620055012510
+  },
+  "mr_marcos_bot2@lichess": {
+    "id": "mr_marcos_bot2",
+    "provider": "lichess",
+    "username": "Mr_Marcos_Bot2",
+    "firstSeen": 1620050559531,
+    "lastSeen": 1620055859238
+  },
+  "ai69@lichess": {
+    "id": "ai69",
+    "provider": "lichess",
+    "username": "AI69",
+    "firstSeen": 1620052750060,
+    "lastSeen": 1620055817768
+  },
+  "kapablanca_balls@lichess": {
+    "id": "kapablanca_balls",
+    "provider": "lichess",
+    "username": "Kapablanca_balls",
+    "firstSeen": 1620053341600,
+    "lastSeen": 1620055166726
+  },
+  "knight_128@lichess": {
+    "id": "knight_128",
+    "provider": "lichess",
+    "username": "knight_128",
+    "firstSeen": 1620053956074,
+    "lastSeen": 1620055845427
+  },
+  "optimizationinc@lichess": {
+    "id": "optimizationinc",
+    "provider": "lichess",
+    "username": "OptimizationINC",
+    "firstSeen": 1620054510654,
+    "lastSeen": 1620055387966
+  },
+  "maniacchessian@lichess": {
+    "id": "maniacchessian",
+    "provider": "lichess",
+    "username": "Maniacchessian",
+    "firstSeen": 1620054964286,
+    "lastSeen": 1620055042229
+  },
+  "mr-bulletplayerbot@lichess": {
+    "id": "mr-bulletplayerbot",
+    "provider": "lichess",
+    "username": "Mr-bulletplayerBOt",
+    "firstSeen": 1620055330830,
+    "lastSeen": 1620055810808
+  }
+}
