@@ -1,0 +1,72 @@
+{
+  "ai69@lichess": {
+    "id": "ai69",
+    "provider": "lichess",
+    "username": "AI69",
+    "firstSeen": 1620018963575,
+    "lastSeen": 1620039543475,
+    "firstSeenTime": "5:16:03 AM",
+    "lastSeenTime": "10:52:28 AM",
+    "onlineDurationMins": 336.41926666666666
+  },
+  "leela-chess-bot21@lichess": {
+    "id": "leela-chess-bot21",
+    "provider": "lichess",
+    "username": "Leela-Chess-Bot21",
+    "firstSeen": 1620028916296,
+    "lastSeen": 1620039595435,
+    "firstSeenTime": "8:01:56 AM",
+    "lastSeenTime": "10:45:42 AM",
+    "onlineDurationMins": 163.76693333333333
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620032434671,
+    "lastSeen": 1620039014303,
+    "firstSeenTime": "9:00:34 AM",
+    "lastSeenTime": "10:50:14 AM",
+    "onlineDurationMins": 109.66053333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620033082631,
+    "lastSeen": 1620039233844,
+    "firstSeenTime": "9:11:22 AM",
+    "lastSeenTime": "10:53:53 AM",
+    "onlineDurationMins": 102.52021666666667
+  },
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1620035750854,
+    "lastSeen": 1620039296468,
+    "firstSeenTime": "9:55:50 AM",
+    "lastSeenTime": "10:45:53 AM",
+    "onlineDurationMins": 50.04066666666667
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620036822106,
+    "lastSeen": 1620039285414,
+    "firstSeenTime": "10:13:42 AM",
+    "lastSeenTime": "10:44:37 AM",
+    "onlineDurationMins": 30.917233333333332
+  },
+  "chessbrain_123@lichess": {
+    "id": "chessbrain_123",
+    "provider": "lichess",
+    "username": "chessbrain_123",
+    "firstSeen": 1620039010755,
+    "lastSeen": 1620039023546,
+    "firstSeenTime": "10:50:10 AM",
+    "lastSeenTime": "10:50:23 AM",
+    "onlineDurationMins": 0.21318333333333334
+  }
+}
