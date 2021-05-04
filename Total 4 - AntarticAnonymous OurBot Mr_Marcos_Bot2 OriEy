@@ -1,0 +1,42 @@
+{
+  "antarticanonymous@lichess": {
+    "id": "antarticanonymous",
+    "provider": "lichess",
+    "username": "AntarticAnonymous",
+    "firstSeen": 1620140591184,
+    "lastSeen": 1620152283910,
+    "firstSeenTime": "3:03:11 PM",
+    "lastSeenTime": "6:06:03 PM",
+    "onlineDurationMins": 182.87893333333332
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620144115537,
+    "lastSeen": 1620151960758,
+    "firstSeenTime": "4:01:55 PM",
+    "lastSeenTime": "6:02:16 PM",
+    "onlineDurationMins": 120.3521
+  },
+  "mr_marcos_bot2@lichess": {
+    "id": "mr_marcos_bot2",
+    "provider": "lichess",
+    "username": "Mr_Marcos_Bot2",
+    "firstSeen": 1620150757334,
+    "lastSeen": 1620152489711,
+    "firstSeenTime": "5:52:37 PM",
+    "lastSeenTime": "6:04:36 PM",
+    "onlineDurationMins": 11.98655
+  },
+  "oriey@lichess": {
+    "id": "oriey",
+    "provider": "lichess",
+    "username": "OriEy",
+    "firstSeen": 1620151160936,
+    "lastSeen": 1620152551289,
+    "firstSeenTime": "5:59:20 PM",
+    "lastSeenTime": "6:06:06 PM",
+    "onlineDurationMins": 6.75345
+  }
+}
