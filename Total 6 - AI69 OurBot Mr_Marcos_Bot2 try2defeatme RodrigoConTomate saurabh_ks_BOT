@@ -1,0 +1,59 @@
+{
+  "ai69@lichess": {
+    "id": "ai69",
+    "provider": "lichess",
+    "username": "AI69",
+    "firstSeen": 1620116805403,
+    "lastSeen": 1620134292149,
+    "firstSeenTime": "8:26:45 AM",
+    "lastSeenTime": "1:02:08 PM",
+    "onlineDurationMins": 275.38705
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620132000844,
+    "lastSeen": 1620134508341,
+    "firstSeenTime": "12:40:00 PM",
+    "lastSeenTime": "1:04:07 PM",
+    "onlineDurationMins": 24.107366666666667
+  },
+  "mr_marcos_bot2@lichess": {
+    "id": "mr_marcos_bot2",
+    "provider": "lichess",
+    "username": "Mr_Marcos_Bot2",
+    "firstSeen": 1620132716270,
+    "lastSeen": 1620134446319,
+    "firstSeenTime": "12:51:56 PM",
+    "lastSeenTime": "1:05:24 PM",
+    "onlineDurationMins": 13.465266666666666
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620133245306,
+    "lastSeen": 1620134155435,
+    "firstSeenTime": "1:00:45 PM",
+    "lastSeenTime": "1:02:34 PM",
+    "onlineDurationMins": 1.8242
+  },
+  "rodrigocontomate@lichess": {
+    "id": "rodrigocontomate",
+    "provider": "lichess",
+    "username": "RodrigoConTomate",
+    "firstSeen": 1620133300788,
+    "lastSeen": 1620133989625,
+    "firstSeenTime": "1:01:40 PM",
+    "lastSeenTime": "1:02:35 PM",
+    "onlineDurationMins": 0.9186166666666666
+  },
+  "saurabh_ks_bot@lichess": {
+    "id": "saurabh_ks_bot",
+    "provider": "lichess",
+    "username": "saurabh_ks_BOT",
+    "firstSeen": 1620133715662,
+    "lastSeen": 1620134322103
+  }
+}
