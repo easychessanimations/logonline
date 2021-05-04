@@ -1,0 +1,57 @@
+{
+  "ai69@lichess": {
+    "id": "ai69",
+    "provider": "lichess",
+    "username": "AI69",
+    "firstSeen": 1620116805403,
+    "lastSeen": 1620127481908,
+    "firstSeenTime": "8:26:45 AM",
+    "lastSeenTime": "9:52:16 AM",
+    "onlineDurationMins": 85.51001666666667
+  },
+  "mr-bulletplayerbot@lichess": {
+    "id": "mr-bulletplayerbot",
+    "provider": "lichess",
+    "username": "Mr-bulletplayerBOt",
+    "firstSeen": 1620119300358,
+    "lastSeen": 1620127019597,
+    "firstSeenTime": "9:08:20 AM",
+    "lastSeenTime": "9:48:16 AM",
+    "onlineDurationMins": 39.932316666666665
+  },
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1620125156163,
+    "lastSeen": 1620126694874
+  },
+  "mutantsarechess@lichess": {
+    "id": "mutantsarechess",
+    "provider": "lichess",
+    "username": "MutantsAreChess",
+    "firstSeen": 1620125574002,
+    "lastSeen": 1620127082731
+  },
+  "rodrigocontomate@lichess": {
+    "id": "rodrigocontomate",
+    "provider": "lichess",
+    "username": "RodrigoConTomate",
+    "firstSeen": 1620126282359,
+    "lastSeen": 1620127048129
+  },
+  "cakeer14@lichess": {
+    "id": "cakeer14",
+    "provider": "lichess",
+    "username": "cakeer14",
+    "firstSeen": 1620126330888,
+    "lastSeen": 1620126730164
+  },
+  "botpenguingim1@lichess": {
+    "id": "botpenguingim1",
+    "provider": "lichess",
+    "username": "BotPenguingim1",
+    "firstSeen": 1620126783551,
+    "lastSeen": 1620126987308
+  }
+}
