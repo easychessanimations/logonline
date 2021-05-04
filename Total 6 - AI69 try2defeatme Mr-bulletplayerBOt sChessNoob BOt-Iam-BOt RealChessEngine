@@ -1,0 +1,56 @@
+{
+  "ai69@lichess": {
+    "id": "ai69",
+    "provider": "lichess",
+    "username": "AI69",
+    "firstSeen": 1620116805403,
+    "lastSeen": 1620122595590,
+    "firstSeenTime": "8:26:45 AM",
+    "lastSeenTime": "9:52:16 AM",
+    "onlineDurationMins": 85.51001666666667
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620119240457,
+    "lastSeen": 1620122468490,
+    "firstSeenTime": "9:07:20 AM",
+    "lastSeenTime": "9:43:34 AM",
+    "onlineDurationMins": 36.242266666666666
+  },
+  "mr-bulletplayerbot@lichess": {
+    "id": "mr-bulletplayerbot",
+    "provider": "lichess",
+    "username": "Mr-bulletplayerBOt",
+    "firstSeen": 1620119300358,
+    "lastSeen": 1620122589233,
+    "firstSeenTime": "9:08:20 AM",
+    "lastSeenTime": "9:48:16 AM",
+    "onlineDurationMins": 39.932316666666665
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620119984093,
+    "lastSeen": 1620122069515,
+    "firstSeenTime": "9:19:44 AM",
+    "lastSeenTime": "9:54:29 AM",
+    "onlineDurationMins": 34.75703333333333
+  },
+  "bot-iam-bot@lichess": {
+    "id": "bot-iam-bot",
+    "provider": "lichess",
+    "username": "BOt-Iam-BOt",
+    "firstSeen": 1620122114921,
+    "lastSeen": 1620122782730
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620122814646,
+    "lastSeen": 1620122814646
+  }
+}
