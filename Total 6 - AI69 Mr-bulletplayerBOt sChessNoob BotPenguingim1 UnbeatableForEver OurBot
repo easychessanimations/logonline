@@ -1,0 +1,59 @@
+{
+  "ai69@lichess": {
+    "id": "ai69",
+    "provider": "lichess",
+    "username": "AI69",
+    "firstSeen": 1620116805403,
+    "lastSeen": 1620131921707,
+    "firstSeenTime": "8:26:45 AM",
+    "lastSeenTime": "12:35:08 PM",
+    "onlineDurationMins": 248.38293333333334
+  },
+  "mr-bulletplayerbot@lichess": {
+    "id": "mr-bulletplayerbot",
+    "provider": "lichess",
+    "username": "Mr-bulletplayerBOt",
+    "firstSeen": 1620119300358,
+    "lastSeen": 1620131937619,
+    "firstSeenTime": "9:08:20 AM",
+    "lastSeenTime": "12:34:00 PM",
+    "onlineDurationMins": 205.6648
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620130059310,
+    "lastSeen": 1620131733323,
+    "firstSeenTime": "12:07:39 PM",
+    "lastSeenTime": "12:35:33 PM",
+    "onlineDurationMins": 27.900216666666665
+  },
+  "botpenguingim1@lichess": {
+    "id": "botpenguingim1",
+    "provider": "lichess",
+    "username": "BotPenguingim1",
+    "firstSeen": 1620130154654,
+    "lastSeen": 1620131761217,
+    "firstSeenTime": "12:09:14 PM",
+    "lastSeenTime": "12:35:15 PM",
+    "onlineDurationMins": 26.015916666666666
+  },
+  "unbeatableforever@lichess": {
+    "id": "unbeatableforever",
+    "provider": "lichess",
+    "username": "UnbeatableForEver",
+    "firstSeen": 1620131326402,
+    "lastSeen": 1620131335999,
+    "firstSeenTime": "12:28:46 PM",
+    "lastSeenTime": "12:28:55 PM",
+    "onlineDurationMins": 0.15995
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620132000844,
+    "lastSeen": 1620132000844
+  }
+}
