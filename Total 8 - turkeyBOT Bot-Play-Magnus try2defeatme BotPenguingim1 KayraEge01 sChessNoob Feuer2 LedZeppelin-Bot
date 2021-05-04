@@ -1,0 +1,79 @@
+{
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1620111823444,
+    "lastSeen": 1620115499010,
+    "firstSeenTime": "7:03:43 AM",
+    "lastSeenTime": "8:00:02 AM",
+    "onlineDurationMins": 56.31531666666667
+  },
+  "bot-play-magnus@lichess": {
+    "id": "bot-play-magnus",
+    "provider": "lichess",
+    "username": "Bot-Play-Magnus",
+    "firstSeen": 1620112661455,
+    "lastSeen": 1620115066575,
+    "firstSeenTime": "7:17:41 AM",
+    "lastSeenTime": "7:57:46 AM",
+    "onlineDurationMins": 40.08533333333333
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620113340199,
+    "lastSeen": 1620115503685,
+    "firstSeenTime": "7:29:00 AM",
+    "lastSeenTime": "7:54:06 AM",
+    "onlineDurationMins": 25.106066666666667
+  },
+  "botpenguingim1@lichess": {
+    "id": "botpenguingim1",
+    "provider": "lichess",
+    "username": "BotPenguingim1",
+    "firstSeen": 1620113705807,
+    "lastSeen": 1620115209520,
+    "firstSeenTime": "7:35:05 AM",
+    "lastSeenTime": "8:00:09 AM",
+    "onlineDurationMins": 25.061883333333334
+  },
+  "kayraege01@lichess": {
+    "id": "kayraege01",
+    "provider": "lichess",
+    "username": "KayraEge01",
+    "firstSeen": 1620113714620,
+    "lastSeen": 1620115409495,
+    "firstSeenTime": "7:35:14 AM",
+    "lastSeenTime": "8:00:18 AM",
+    "onlineDurationMins": 25.057383333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620114402872,
+    "lastSeen": 1620115239038,
+    "firstSeenTime": "7:46:42 AM",
+    "lastSeenTime": "8:00:39 AM",
+    "onlineDurationMins": 13.9361
+  },
+  "feuer2@lichess": {
+    "id": "feuer2",
+    "provider": "lichess",
+    "username": "Feuer2",
+    "firstSeen": 1620114856773,
+    "lastSeen": 1620114887950,
+    "firstSeenTime": "7:54:16 AM",
+    "lastSeenTime": "7:54:47 AM",
+    "onlineDurationMins": 0.5196166666666666
+  },
+  "ledzeppelin-bot@lichess": {
+    "id": "ledzeppelin-bot",
+    "provider": "lichess",
+    "username": "LedZeppelin-Bot",
+    "firstSeen": 1620115523702,
+    "lastSeen": 1620115523702
+  }
+}
