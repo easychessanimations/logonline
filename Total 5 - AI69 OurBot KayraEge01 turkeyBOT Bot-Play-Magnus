@@ -1,0 +1,43 @@
+{
+  "ai69@lichess": {
+    "id": "ai69",
+    "provider": "lichess",
+    "username": "AI69",
+    "firstSeen": 1620107199090,
+    "lastSeen": 1620112180113,
+    "firstSeenTime": "5:46:39 AM",
+    "lastSeenTime": "6:51:12 AM",
+    "onlineDurationMins": 64.55445
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620111066566,
+    "lastSeen": 1620112481398,
+    "firstSeenTime": "6:51:06 AM",
+    "lastSeenTime": "6:56:15 AM",
+    "onlineDurationMins": 5.157216666666667
+  },
+  "kayraege01@lichess": {
+    "id": "kayraege01",
+    "provider": "lichess",
+    "username": "KayraEge01",
+    "firstSeen": 1620111758358,
+    "lastSeen": 1620112634054
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1620111823444,
+    "lastSeen": 1620112489463
+  },
+  "bot-play-magnus@lichess": {
+    "id": "bot-play-magnus",
+    "provider": "lichess",
+    "username": "Bot-Play-Magnus",
+    "firstSeen": 1620112661455,
+    "lastSeen": 1620112661455
+  }
+}
