@@ -1,0 +1,36 @@
+{
+  "ai69@lichess": {
+    "id": "ai69",
+    "provider": "lichess",
+    "username": "AI69",
+    "firstSeen": 1620116805403,
+    "lastSeen": 1620129940369,
+    "firstSeenTime": "8:26:45 AM",
+    "lastSeenTime": "9:52:16 AM",
+    "onlineDurationMins": 85.51001666666667
+  },
+  "mr-bulletplayerbot@lichess": {
+    "id": "mr-bulletplayerbot",
+    "provider": "lichess",
+    "username": "Mr-bulletplayerBOt",
+    "firstSeen": 1620119300358,
+    "lastSeen": 1620129911590,
+    "firstSeenTime": "9:08:20 AM",
+    "lastSeenTime": "9:48:16 AM",
+    "onlineDurationMins": 39.932316666666665
+  },
+  "caaker01@lichess": {
+    "id": "caaker01",
+    "provider": "lichess",
+    "username": "caaker01",
+    "firstSeen": 1620128963528,
+    "lastSeen": 1620129888653
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620130059310,
+    "lastSeen": 1620130059310
+  }
+}
