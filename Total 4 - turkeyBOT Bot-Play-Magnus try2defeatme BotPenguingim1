@@ -1,0 +1,30 @@
+{
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1620111823444,
+    "lastSeen": 1620113590985
+  },
+  "bot-play-magnus@lichess": {
+    "id": "bot-play-magnus",
+    "provider": "lichess",
+    "username": "Bot-Play-Magnus",
+    "firstSeen": 1620112661455,
+    "lastSeen": 1620113574981
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620113340199,
+    "lastSeen": 1620113475251
+  },
+  "botpenguingim1@lichess": {
+    "id": "botpenguingim1",
+    "provider": "lichess",
+    "username": "BotPenguingim1",
+    "firstSeen": 1620113705807,
+    "lastSeen": 1620113705807
+  }
+}
