@@ -1,0 +1,30 @@
+{
+  "kayraege01@lichess": {
+    "id": "kayraege01",
+    "provider": "lichess",
+    "username": "KayraEge01",
+    "firstSeen": 1620111758358,
+    "lastSeen": 1620112634054
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1620111823444,
+    "lastSeen": 1620113326017
+  },
+  "bot-play-magnus@lichess": {
+    "id": "bot-play-magnus",
+    "provider": "lichess",
+    "username": "Bot-Play-Magnus",
+    "firstSeen": 1620112661455,
+    "lastSeen": 1620113396660
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620113340199,
+    "lastSeen": 1620113381286
+  }
+}
