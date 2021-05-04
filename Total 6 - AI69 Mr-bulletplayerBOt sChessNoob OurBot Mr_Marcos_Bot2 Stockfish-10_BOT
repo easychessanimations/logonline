@@ -1,0 +1,56 @@
+{
+  "ai69@lichess": {
+    "id": "ai69",
+    "provider": "lichess",
+    "username": "AI69",
+    "firstSeen": 1620116805403,
+    "lastSeen": 1620132574624,
+    "firstSeenTime": "8:26:45 AM",
+    "lastSeenTime": "12:49:34 PM",
+    "onlineDurationMins": 262.82035
+  },
+  "mr-bulletplayerbot@lichess": {
+    "id": "mr-bulletplayerbot",
+    "provider": "lichess",
+    "username": "Mr-bulletplayerBOt",
+    "firstSeen": 1620119300358,
+    "lastSeen": 1620132370086,
+    "firstSeenTime": "9:08:20 AM",
+    "lastSeenTime": "12:46:10 PM",
+    "onlineDurationMins": 217.8288
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620130059310,
+    "lastSeen": 1620132708238,
+    "firstSeenTime": "12:07:39 PM",
+    "lastSeenTime": "12:51:48 PM",
+    "onlineDurationMins": 44.1488
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620132000844,
+    "lastSeen": 1620132313155,
+    "firstSeenTime": "12:40:00 PM",
+    "lastSeenTime": "12:45:13 PM",
+    "onlineDurationMins": 5.205183333333333
+  },
+  "mr_marcos_bot2@lichess": {
+    "id": "mr_marcos_bot2",
+    "provider": "lichess",
+    "username": "Mr_Marcos_Bot2",
+    "firstSeen": 1620132716270,
+    "lastSeen": 1620132760811
+  },
+  "stockfish-10_bot@lichess": {
+    "id": "stockfish-10_bot",
+    "provider": "lichess",
+    "username": "Stockfish-10_BOT",
+    "firstSeen": 1620132790517,
+    "lastSeen": 1620132790518
+  }
+}
