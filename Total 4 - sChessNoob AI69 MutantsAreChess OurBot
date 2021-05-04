@@ -1,0 +1,39 @@
+{
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620107170809,
+    "lastSeen": 1620110546938,
+    "firstSeenTime": "5:46:10 AM",
+    "lastSeenTime": "6:42:26 AM",
+    "onlineDurationMins": 56.268816666666666
+  },
+  "ai69@lichess": {
+    "id": "ai69",
+    "provider": "lichess",
+    "username": "AI69",
+    "firstSeen": 1620107199090,
+    "lastSeen": 1620111065209,
+    "firstSeenTime": "5:46:39 AM",
+    "lastSeenTime": "6:40:46 AM",
+    "onlineDurationMins": 54.11833333333333
+  },
+  "mutantsarechess@lichess": {
+    "id": "mutantsarechess",
+    "provider": "lichess",
+    "username": "MutantsAreChess",
+    "firstSeen": 1620110483385,
+    "lastSeen": 1620110670378,
+    "firstSeenTime": "6:41:23 AM",
+    "lastSeenTime": "6:41:26 AM",
+    "onlineDurationMins": 0.05563333333333333
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620111066566,
+    "lastSeen": 1620111066566
+  }
+}
