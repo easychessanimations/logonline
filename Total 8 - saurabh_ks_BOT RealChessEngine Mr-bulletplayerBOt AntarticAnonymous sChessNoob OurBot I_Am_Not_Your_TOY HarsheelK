@@ -1,0 +1,82 @@
+{
+  "saurabh_ks_bot@lichess": {
+    "id": "saurabh_ks_bot",
+    "provider": "lichess",
+    "username": "saurabh_ks_BOT",
+    "firstSeen": 1620133715662,
+    "lastSeen": 1620144666426,
+    "firstSeenTime": "1:08:35 PM",
+    "lastSeenTime": "4:11:06 PM",
+    "onlineDurationMins": 182.51273333333333
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620137327358,
+    "lastSeen": 1620144685082,
+    "firstSeenTime": "2:08:47 PM",
+    "lastSeenTime": "4:05:30 PM",
+    "onlineDurationMins": 116.7127
+  },
+  "mr-bulletplayerbot@lichess": {
+    "id": "mr-bulletplayerbot",
+    "provider": "lichess",
+    "username": "Mr-bulletplayerBOt",
+    "firstSeen": 1620139509629,
+    "lastSeen": 1620144660114,
+    "firstSeenTime": "2:45:09 PM",
+    "lastSeenTime": "4:11:00 PM",
+    "onlineDurationMins": 85.84141666666666
+  },
+  "antarticanonymous@lichess": {
+    "id": "antarticanonymous",
+    "provider": "lichess",
+    "username": "AntarticAnonymous",
+    "firstSeen": 1620140591184,
+    "lastSeen": 1620144717678,
+    "firstSeenTime": "3:03:11 PM",
+    "lastSeenTime": "4:11:06 PM",
+    "onlineDurationMins": 67.92866666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620142959698,
+    "lastSeen": 1620144671229,
+    "firstSeenTime": "3:42:39 PM",
+    "lastSeenTime": "4:11:11 PM",
+    "onlineDurationMins": 28.525516666666668
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620144115537,
+    "lastSeen": 1620144525359,
+    "firstSeenTime": "4:01:55 PM",
+    "lastSeenTime": "4:08:45 PM",
+    "onlineDurationMins": 6.8303666666666665
+  },
+  "i_am_not_your_toy@lichess": {
+    "id": "i_am_not_your_toy",
+    "provider": "lichess",
+    "username": "I_Am_Not_Your_TOY",
+    "firstSeen": 1620144199551,
+    "lastSeen": 1620144213128,
+    "firstSeenTime": "4:03:19 PM",
+    "lastSeenTime": "4:03:33 PM",
+    "onlineDurationMins": 0.22628333333333334
+  },
+  "harsheelk@lichess": {
+    "id": "harsheelk",
+    "provider": "lichess",
+    "username": "HarsheelK",
+    "firstSeen": 1620144603106,
+    "lastSeen": 1620144610444,
+    "firstSeenTime": "4:10:03 PM",
+    "lastSeenTime": "4:10:10 PM",
+    "onlineDurationMins": 0.1223
+  }
+}
