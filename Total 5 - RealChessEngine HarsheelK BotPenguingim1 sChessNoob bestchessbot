@@ -1,0 +1,49 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620186434278,
+    "lastSeen": 1620192268691,
+    "firstSeenTime": "3:47:14 AM",
+    "lastSeenTime": "5:13:28 AM",
+    "onlineDurationMins": 86.23973333333333
+  },
+  "harsheelk@lichess": {
+    "id": "harsheelk",
+    "provider": "lichess",
+    "username": "HarsheelK",
+    "firstSeen": 1620188658653,
+    "lastSeen": 1620191629051,
+    "firstSeenTime": "4:24:18 AM",
+    "lastSeenTime": "5:13:49 AM",
+    "onlineDurationMins": 49.50663333333333
+  },
+  "botpenguingim1@lichess": {
+    "id": "botpenguingim1",
+    "provider": "lichess",
+    "username": "BotPenguingim1",
+    "firstSeen": 1620190740353,
+    "lastSeen": 1620191588084,
+    "firstSeenTime": "4:59:00 AM",
+    "lastSeenTime": "5:13:08 AM",
+    "onlineDurationMins": 14.12885
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620190952971,
+    "lastSeen": 1620191812607,
+    "firstSeenTime": "5:02:32 AM",
+    "lastSeenTime": "5:16:52 AM",
+    "onlineDurationMins": 14.327266666666667
+  },
+  "bestchessbot@lichess": {
+    "id": "bestchessbot",
+    "provider": "lichess",
+    "username": "bestchessbot",
+    "firstSeen": 1620192271788,
+    "lastSeen": 1620192271788
+  }
+}
