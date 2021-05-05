@@ -1,0 +1,107 @@
+{
+  "bot-scam-1992@lichess": {
+    "id": "bot-scam-1992",
+    "provider": "lichess",
+    "username": "Bot-Scam-1992",
+    "firstSeen": 1620208882596,
+    "lastSeen": 1620217968125,
+    "firstSeenTime": "10:01:22 AM",
+    "lastSeenTime": "12:26:24 PM",
+    "onlineDurationMins": 145.0365
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620209749997,
+    "lastSeen": 1620218583524,
+    "firstSeenTime": "10:15:49 AM",
+    "lastSeenTime": "12:25:44 PM",
+    "onlineDurationMins": 129.91438333333335
+  },
+  "detyhbot@lichess": {
+    "id": "detyhbot",
+    "provider": "lichess",
+    "username": "DETYHBOT",
+    "firstSeen": 1620215464542,
+    "lastSeen": 1620218304759,
+    "firstSeenTime": "11:51:04 AM",
+    "lastSeenTime": "12:28:30 PM",
+    "onlineDurationMins": 37.42915
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620215664486,
+    "lastSeen": 1620218107247,
+    "firstSeenTime": "11:54:24 AM",
+    "lastSeenTime": "12:21:11 PM",
+    "onlineDurationMins": 26.775866666666666
+  },
+  "stockinfish@lichess": {
+    "id": "stockinfish",
+    "provider": "lichess",
+    "username": "StockinFish",
+    "firstSeen": 1620216416796,
+    "lastSeen": 1620218695226,
+    "firstSeenTime": "12:06:56 PM",
+    "lastSeenTime": "12:19:34 PM",
+    "onlineDurationMins": 12.623216666666666
+  },
+  "pogchampersbot@lichess": {
+    "id": "pogchampersbot",
+    "provider": "lichess",
+    "username": "PogchampersBot",
+    "firstSeen": 1620217595807,
+    "lastSeen": 1620217871500,
+    "firstSeenTime": "12:26:35 PM",
+    "lastSeenTime": "12:29:52 PM",
+    "onlineDurationMins": 3.285
+  },
+  "pichu12242121@lichess": {
+    "id": "pichu12242121",
+    "provider": "lichess",
+    "username": "PiChU12242121",
+    "firstSeen": 1620217788290,
+    "lastSeen": 1620218390181,
+    "firstSeenTime": "12:29:48 PM",
+    "lastSeenTime": "12:29:57 PM",
+    "onlineDurationMins": 0.15176666666666666
+  },
+  "shriyansharan@lichess": {
+    "id": "shriyansharan",
+    "provider": "lichess",
+    "username": "Shriyansharan",
+    "firstSeen": 1620217994480,
+    "lastSeen": 1620218251348
+  },
+  "shriyans24_bot@lichess": {
+    "id": "shriyans24_bot",
+    "provider": "lichess",
+    "username": "ShriyanS24_BOT",
+    "firstSeen": 1620218058424,
+    "lastSeen": 1620218632111
+  },
+  "michael_pichu@lichess": {
+    "id": "michael_pichu",
+    "provider": "lichess",
+    "username": "Michael_Pichu",
+    "firstSeen": 1620218400444,
+    "lastSeen": 1620218595088
+  },
+  "pro5to_bot@lichess": {
+    "id": "pro5to_bot",
+    "provider": "lichess",
+    "username": "Pro5to_Bot",
+    "firstSeen": 1620218415088,
+    "lastSeen": 1620218574647
+  },
+  "easygame12345@lichess": {
+    "id": "easygame12345",
+    "provider": "lichess",
+    "username": "EasyGame12345",
+    "firstSeen": 1620218717757,
+    "lastSeen": 1620218717757
+  }
+}
