@@ -1,0 +1,83 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620209749997,
+    "lastSeen": 1620224086355,
+    "firstSeenTime": "10:15:49 AM",
+    "lastSeenTime": "1:20:35 PM",
+    "onlineDurationMins": 184.76205
+  },
+  "mr_marcos_bot2@lichess": {
+    "id": "mr_marcos_bot2",
+    "provider": "lichess",
+    "username": "Mr_Marcos_Bot2",
+    "firstSeen": 1620219153630,
+    "lastSeen": 1620224101779,
+    "firstSeenTime": "12:52:33 PM",
+    "lastSeenTime": "1:28:16 PM",
+    "onlineDurationMins": 35.708466666666666
+  },
+  "saurabh_ks_bot@lichess": {
+    "id": "saurabh_ks_bot",
+    "provider": "lichess",
+    "username": "saurabh_ks_BOT",
+    "firstSeen": 1620219683979,
+    "lastSeen": 1620224187418,
+    "firstSeenTime": "1:01:23 PM",
+    "lastSeenTime": "1:26:25 PM",
+    "onlineDurationMins": 25.033283333333333
+  },
+  "lmaxoronwypo212@lichess": {
+    "id": "lmaxoronwypo212",
+    "provider": "lichess",
+    "username": "lmaxoronwypo212",
+    "firstSeen": 1620220439263,
+    "lastSeen": 1620223759641,
+    "firstSeenTime": "1:13:59 PM",
+    "lastSeenTime": "1:25:19 PM",
+    "onlineDurationMins": 11.343216666666667
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620220700567,
+    "lastSeen": 1620224388483,
+    "firstSeenTime": "1:18:20 PM",
+    "lastSeenTime": "1:23:57 PM",
+    "onlineDurationMins": 5.607283333333333
+  },
+  "vulkedps@lichess": {
+    "id": "vulkedps",
+    "provider": "lichess",
+    "username": "vulkedps",
+    "firstSeen": 1620220852943,
+    "lastSeen": 1620223852886,
+    "firstSeenTime": "1:20:52 PM",
+    "lastSeenTime": "1:28:11 PM",
+    "onlineDurationMins": 7.31615
+  },
+  "shriyans24_bot@lichess": {
+    "id": "shriyans24_bot",
+    "provider": "lichess",
+    "username": "ShriyanS24_BOT",
+    "firstSeen": 1620222945720,
+    "lastSeen": 1620224394632
+  },
+  "adj18fj1kao1@lichess": {
+    "id": "adj18fj1kao1",
+    "provider": "lichess",
+    "username": "adj18fj1kao1",
+    "firstSeen": 1620223062296,
+    "lastSeen": 1620223738425
+  },
+  "shriyansharan_bot@lichess": {
+    "id": "shriyansharan_bot",
+    "provider": "lichess",
+    "username": "shriyansharan_BOT",
+    "firstSeen": 1620223355348,
+    "lastSeen": 1620224097284
+  }
+}
