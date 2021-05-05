@@ -1,0 +1,32 @@
+{
+  "botpenguingim1@lichess": {
+    "id": "botpenguingim1",
+    "provider": "lichess",
+    "username": "BotPenguingim1",
+    "firstSeen": 1620194966879,
+    "lastSeen": 1620198795919,
+    "firstSeenTime": "6:09:26 AM",
+    "lastSeenTime": "6:52:19 AM",
+    "onlineDurationMins": 42.8834
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620196170886,
+    "lastSeen": 1620198448892,
+    "firstSeenTime": "6:29:30 AM",
+    "lastSeenTime": "6:56:15 AM",
+    "onlineDurationMins": 26.745983333333335
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1620197761990,
+    "lastSeen": 1620198795524,
+    "firstSeenTime": "6:56:01 AM",
+    "lastSeenTime": "6:56:11 AM",
+    "onlineDurationMins": 0.15926666666666667
+  }
+}
