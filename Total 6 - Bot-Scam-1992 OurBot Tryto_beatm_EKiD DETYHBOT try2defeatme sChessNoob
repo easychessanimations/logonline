@@ -1,0 +1,50 @@
+{
+  "bot-scam-1992@lichess": {
+    "id": "bot-scam-1992",
+    "provider": "lichess",
+    "username": "Bot-Scam-1992",
+    "firstSeen": 1620208882596,
+    "lastSeen": 1620215869897,
+    "firstSeenTime": "10:01:22 AM",
+    "lastSeenTime": "10:48:35 AM",
+    "onlineDurationMins": 47.2166
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620209749997,
+    "lastSeen": 1620216044787,
+    "firstSeenTime": "10:15:49 AM",
+    "lastSeenTime": "10:50:45 AM",
+    "onlineDurationMins": 34.933366666666664
+  },
+  "tryto_beatm_ekid@lichess": {
+    "id": "tryto_beatm_ekid",
+    "provider": "lichess",
+    "username": "Tryto_beatm_EKiD",
+    "firstSeen": 1620215286188,
+    "lastSeen": 1620216027681
+  },
+  "detyhbot@lichess": {
+    "id": "detyhbot",
+    "provider": "lichess",
+    "username": "DETYHBOT",
+    "firstSeen": 1620215464542,
+    "lastSeen": 1620216308387
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620215664486,
+    "lastSeen": 1620215927454
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620216355789,
+    "lastSeen": 1620216355789
+  }
+}
