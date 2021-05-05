@@ -1,0 +1,76 @@
+{
+  "saurabh_ks_bot@lichess": {
+    "id": "saurabh_ks_bot",
+    "provider": "lichess",
+    "username": "saurabh_ks_BOT",
+    "firstSeen": 1620219683979,
+    "lastSeen": 1620236368034,
+    "firstSeenTime": "1:01:23 PM",
+    "lastSeenTime": "5:25:37 PM",
+    "onlineDurationMins": 264.22118333333333
+  },
+  "antarticanonymous@lichess": {
+    "id": "antarticanonymous",
+    "provider": "lichess",
+    "username": "AntarticAnonymous",
+    "firstSeen": 1620227430454,
+    "lastSeen": 1620236455536,
+    "firstSeenTime": "3:10:30 PM",
+    "lastSeenTime": "5:24:55 PM",
+    "onlineDurationMins": 134.41783333333333
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620227698697,
+    "lastSeen": 1620236420723,
+    "firstSeenTime": "3:14:58 PM",
+    "lastSeenTime": "5:25:50 PM",
+    "onlineDurationMins": 130.8566
+  },
+  "firebeans@lichess": {
+    "id": "firebeans",
+    "provider": "lichess",
+    "username": "FireBeans",
+    "firstSeen": 1620232668504,
+    "lastSeen": 1620236127195,
+    "firstSeenTime": "4:37:48 PM",
+    "lastSeenTime": "5:29:59 PM",
+    "onlineDurationMins": 52.187866666666665
+  },
+  "take_with_check@lichess": {
+    "id": "take_with_check",
+    "provider": "lichess",
+    "username": "Take_With_Check",
+    "firstSeen": 1620235073351,
+    "lastSeen": 1620236767452,
+    "firstSeenTime": "5:17:53 PM",
+    "lastSeenTime": "5:27:58 PM",
+    "onlineDurationMins": 10.093583333333333
+  },
+  "lmaxoronwypo212@lichess": {
+    "id": "lmaxoronwypo212",
+    "provider": "lichess",
+    "username": "lmaxoronwypo212",
+    "firstSeen": 1620235456193,
+    "lastSeen": 1620236180159,
+    "firstSeenTime": "5:24:16 PM",
+    "lastSeenTime": "5:24:19 PM",
+    "onlineDurationMins": 0.05515
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620236701632,
+    "lastSeen": 1620236712112
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620236772922,
+    "lastSeen": 1620236772922
+  }
+}
