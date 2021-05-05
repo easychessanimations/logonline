@@ -1,0 +1,59 @@
+{
+  "bot-scam-1992@lichess": {
+    "id": "bot-scam-1992",
+    "provider": "lichess",
+    "username": "Bot-Scam-1992",
+    "firstSeen": 1620208882596,
+    "lastSeen": 1620217468135,
+    "firstSeenTime": "10:01:22 AM",
+    "lastSeenTime": "12:08:43 PM",
+    "onlineDurationMins": 127.34775
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620209749997,
+    "lastSeen": 1620217544860,
+    "firstSeenTime": "10:15:49 AM",
+    "lastSeenTime": "12:10:42 PM",
+    "onlineDurationMins": 114.88006666666666
+  },
+  "detyhbot@lichess": {
+    "id": "detyhbot",
+    "provider": "lichess",
+    "username": "DETYHBOT",
+    "firstSeen": 1620215464542,
+    "lastSeen": 1620217569205,
+    "firstSeenTime": "11:51:04 AM",
+    "lastSeenTime": "12:10:22 PM",
+    "onlineDurationMins": 19.30435
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620215664486,
+    "lastSeen": 1620217271038,
+    "firstSeenTime": "11:54:24 AM",
+    "lastSeenTime": "12:10:18 PM",
+    "onlineDurationMins": 15.89725
+  },
+  "stockinfish@lichess": {
+    "id": "stockinfish",
+    "provider": "lichess",
+    "username": "StockinFish",
+    "firstSeen": 1620216416796,
+    "lastSeen": 1620217174189,
+    "firstSeenTime": "12:06:56 PM",
+    "lastSeenTime": "12:10:19 PM",
+    "onlineDurationMins": 3.372733333333333
+  },
+  "jerrylego@lichess": {
+    "id": "jerrylego",
+    "provider": "lichess",
+    "username": "JERRYLEGO",
+    "firstSeen": 1620216835874,
+    "lastSeen": 1620216959975
+  }
+}
