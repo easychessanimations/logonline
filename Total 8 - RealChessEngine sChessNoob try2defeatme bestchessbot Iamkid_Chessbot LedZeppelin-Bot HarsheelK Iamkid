@@ -1,0 +1,79 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620196170886,
+    "lastSeen": 1620203648390,
+    "firstSeenTime": "6:29:30 AM",
+    "lastSeenTime": "8:24:17 AM",
+    "onlineDurationMins": 114.7762
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620199371297,
+    "lastSeen": 1620203139709,
+    "firstSeenTime": "7:22:51 AM",
+    "lastSeenTime": "8:25:39 AM",
+    "onlineDurationMins": 62.806866666666664
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620199718667,
+    "lastSeen": 1620203082054,
+    "firstSeenTime": "7:28:38 AM",
+    "lastSeenTime": "8:24:42 AM",
+    "onlineDurationMins": 56.05645
+  },
+  "bestchessbot@lichess": {
+    "id": "bestchessbot",
+    "provider": "lichess",
+    "username": "bestchessbot",
+    "firstSeen": 1620201640093,
+    "lastSeen": 1620203143600,
+    "firstSeenTime": "8:00:40 AM",
+    "lastSeenTime": "8:22:08 AM",
+    "onlineDurationMins": 21.4733
+  },
+  "iamkid_chessbot@lichess": {
+    "id": "iamkid_chessbot",
+    "provider": "lichess",
+    "username": "Iamkid_Chessbot",
+    "firstSeen": 1620202203625,
+    "lastSeen": 1620202936983,
+    "firstSeenTime": "8:10:03 AM",
+    "lastSeenTime": "8:22:16 AM",
+    "onlineDurationMins": 12.222633333333333
+  },
+  "ledzeppelin-bot@lichess": {
+    "id": "ledzeppelin-bot",
+    "provider": "lichess",
+    "username": "LedZeppelin-Bot",
+    "firstSeen": 1620202807451,
+    "lastSeen": 1620202865195,
+    "firstSeenTime": "8:20:07 AM",
+    "lastSeenTime": "8:21:05 AM",
+    "onlineDurationMins": 0.9624
+  },
+  "harsheelk@lichess": {
+    "id": "harsheelk",
+    "provider": "lichess",
+    "username": "HarsheelK",
+    "firstSeen": 1620202902874,
+    "lastSeen": 1620202906763,
+    "firstSeenTime": "8:21:42 AM",
+    "lastSeenTime": "8:21:46 AM",
+    "onlineDurationMins": 0.06481666666666666
+  },
+  "iamkid@lichess": {
+    "id": "iamkid",
+    "provider": "lichess",
+    "username": "Iamkid",
+    "firstSeen": 1620203687333,
+    "lastSeen": 1620203687333
+  }
+}
