@@ -1,0 +1,53 @@
+{
+  "bot-scam-1992@lichess": {
+    "id": "bot-scam-1992",
+    "provider": "lichess",
+    "username": "Bot-Scam-1992",
+    "firstSeen": 1620208882596,
+    "lastSeen": 1620213145756,
+    "firstSeenTime": "10:01:22 AM",
+    "lastSeenTime": "10:48:35 AM",
+    "onlineDurationMins": 47.2166
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620209749997,
+    "lastSeen": 1620213166008,
+    "firstSeenTime": "10:15:49 AM",
+    "lastSeenTime": "10:50:45 AM",
+    "onlineDurationMins": 34.933366666666664
+  },
+  "tinezzbot@lichess": {
+    "id": "tinezzbot",
+    "provider": "lichess",
+    "username": "TinezzBOT",
+    "firstSeen": 1620212065040,
+    "lastSeen": 1620212932134,
+    "firstSeenTime": "10:54:25 AM",
+    "lastSeenTime": "10:56:59 AM",
+    "onlineDurationMins": 2.5787166666666668
+  },
+  "cute-bot@lichess": {
+    "id": "cute-bot",
+    "provider": "lichess",
+    "username": "Cute-Bot",
+    "firstSeen": 1620213062491,
+    "lastSeen": 1620213133974
+  },
+  "peacefulwhale@lichess": {
+    "id": "peacefulwhale",
+    "provider": "lichess",
+    "username": "PeacefulWhale",
+    "firstSeen": 1620213120484,
+    "lastSeen": 1620213137452
+  },
+  "pogchampersbot@lichess": {
+    "id": "pogchampersbot",
+    "provider": "lichess",
+    "username": "PogchampersBot",
+    "firstSeen": 1620213246910,
+    "lastSeen": 1620213246910
+  }
+}
