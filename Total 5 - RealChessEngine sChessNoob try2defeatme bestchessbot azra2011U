@@ -1,0 +1,49 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620196170886,
+    "lastSeen": 1620202000224,
+    "firstSeenTime": "6:29:30 AM",
+    "lastSeenTime": "8:01:46 AM",
+    "onlineDurationMins": 92.26216666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620199371297,
+    "lastSeen": 1620201877279,
+    "firstSeenTime": "7:22:51 AM",
+    "lastSeenTime": "8:04:37 AM",
+    "onlineDurationMins": 41.76636666666667
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620199718667,
+    "lastSeen": 1620201762127,
+    "firstSeenTime": "7:28:38 AM",
+    "lastSeenTime": "8:02:42 AM",
+    "onlineDurationMins": 34.05766666666667
+  },
+  "bestchessbot@lichess": {
+    "id": "bestchessbot",
+    "provider": "lichess",
+    "username": "bestchessbot",
+    "firstSeen": 1620201640093,
+    "lastSeen": 1620201752955,
+    "firstSeenTime": "8:00:40 AM",
+    "lastSeenTime": "8:02:32 AM",
+    "onlineDurationMins": 1.8810333333333333
+  },
+  "azra2011u@lichess": {
+    "id": "azra2011u",
+    "provider": "lichess",
+    "username": "azra2011U",
+    "firstSeen": 1620202026755,
+    "lastSeen": 1620202026755
+  }
+}
