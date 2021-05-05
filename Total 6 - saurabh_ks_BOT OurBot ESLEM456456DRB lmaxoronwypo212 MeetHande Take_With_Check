@@ -1,0 +1,50 @@
+{
+  "saurabh_ks_bot@lichess": {
+    "id": "saurabh_ks_bot",
+    "provider": "lichess",
+    "username": "saurabh_ks_BOT",
+    "firstSeen": 1620219683979,
+    "lastSeen": 1620241848800,
+    "firstSeenTime": "1:01:23 PM",
+    "lastSeenTime": "5:39:28 PM",
+    "onlineDurationMins": 278.06758333333335
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620227698697,
+    "lastSeen": 1620241849633,
+    "firstSeenTime": "3:14:58 PM",
+    "lastSeenTime": "5:40:20 PM",
+    "onlineDurationMins": 145.3671
+  },
+  "eslem456456drb@lichess": {
+    "id": "eslem456456drb",
+    "provider": "lichess",
+    "username": "ESLEM456456DRB",
+    "firstSeen": 1620241119242,
+    "lastSeen": 1620241688867
+  },
+  "lmaxoronwypo212@lichess": {
+    "id": "lmaxoronwypo212",
+    "provider": "lichess",
+    "username": "lmaxoronwypo212",
+    "firstSeen": 1620241156163,
+    "lastSeen": 1620241816323
+  },
+  "meethande@lichess": {
+    "id": "meethande",
+    "provider": "lichess",
+    "username": "MeetHande",
+    "firstSeen": 1620241717543,
+    "lastSeen": 1620241720892
+  },
+  "take_with_check@lichess": {
+    "id": "take_with_check",
+    "provider": "lichess",
+    "username": "Take_With_Check",
+    "firstSeen": 1620242266406,
+    "lastSeen": 1620242266406
+  }
+}
