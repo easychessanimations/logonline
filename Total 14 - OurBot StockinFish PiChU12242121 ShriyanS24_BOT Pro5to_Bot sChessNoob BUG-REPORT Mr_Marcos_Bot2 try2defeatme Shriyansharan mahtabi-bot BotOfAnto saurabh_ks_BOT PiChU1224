@@ -1,0 +1,142 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620209749997,
+    "lastSeen": 1620220132617,
+    "firstSeenTime": "10:15:49 AM",
+    "lastSeenTime": "12:55:15 PM",
+    "onlineDurationMins": 159.4284
+  },
+  "stockinfish@lichess": {
+    "id": "stockinfish",
+    "provider": "lichess",
+    "username": "StockinFish",
+    "firstSeen": 1620216416796,
+    "lastSeen": 1620219822833,
+    "firstSeenTime": "12:06:56 PM",
+    "lastSeenTime": "1:03:42 PM",
+    "onlineDurationMins": 56.76728333333333
+  },
+  "pichu12242121@lichess": {
+    "id": "pichu12242121",
+    "provider": "lichess",
+    "username": "PiChU12242121",
+    "firstSeen": 1620217788290,
+    "lastSeen": 1620219702805,
+    "firstSeenTime": "12:29:48 PM",
+    "lastSeenTime": "1:01:42 PM",
+    "onlineDurationMins": 31.908583333333333
+  },
+  "shriyans24_bot@lichess": {
+    "id": "shriyans24_bot",
+    "provider": "lichess",
+    "username": "ShriyanS24_BOT",
+    "firstSeen": 1620218058424,
+    "lastSeen": 1620219986295,
+    "firstSeenTime": "12:34:18 PM",
+    "lastSeenTime": "1:03:12 PM",
+    "onlineDurationMins": 28.898033333333334
+  },
+  "pro5to_bot@lichess": {
+    "id": "pro5to_bot",
+    "provider": "lichess",
+    "username": "Pro5to_Bot",
+    "firstSeen": 1620218415088,
+    "lastSeen": 1620219501225,
+    "firstSeenTime": "12:40:15 PM",
+    "lastSeenTime": "12:58:21 PM",
+    "onlineDurationMins": 18.102283333333332
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620219019520,
+    "lastSeen": 1620219901900,
+    "firstSeenTime": "12:50:19 PM",
+    "lastSeenTime": "1:05:01 PM",
+    "onlineDurationMins": 14.706333333333333
+  },
+  "bug-report@lichess": {
+    "id": "bug-report",
+    "provider": "lichess",
+    "username": "BUG-REPORT",
+    "firstSeen": 1620219041834,
+    "lastSeen": 1620219823085,
+    "firstSeenTime": "12:50:41 PM",
+    "lastSeenTime": "1:03:43 PM",
+    "onlineDurationMins": 13.02085
+  },
+  "mr_marcos_bot2@lichess": {
+    "id": "mr_marcos_bot2",
+    "provider": "lichess",
+    "username": "Mr_Marcos_Bot2",
+    "firstSeen": 1620219153630,
+    "lastSeen": 1620220000913,
+    "firstSeenTime": "12:52:33 PM",
+    "lastSeenTime": "12:55:15 PM",
+    "onlineDurationMins": 2.7015833333333332
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620219247117,
+    "lastSeen": 1620219967246,
+    "firstSeenTime": "12:54:07 PM",
+    "lastSeenTime": "1:00:07 PM",
+    "onlineDurationMins": 6.00635
+  },
+  "shriyansharan@lichess": {
+    "id": "shriyansharan",
+    "provider": "lichess",
+    "username": "Shriyansharan",
+    "firstSeen": 1620219263675,
+    "lastSeen": 1620220013687,
+    "firstSeenTime": "12:54:23 PM",
+    "lastSeenTime": "1:02:23 PM",
+    "onlineDurationMins": 8.000366666666666
+  },
+  "mahtabi-bot@lichess": {
+    "id": "mahtabi-bot",
+    "provider": "lichess",
+    "username": "mahtabi-bot",
+    "firstSeen": 1620219302877,
+    "lastSeen": 1620220102600,
+    "firstSeenTime": "12:55:02 PM",
+    "lastSeenTime": "1:01:24 PM",
+    "onlineDurationMins": 6.353
+  },
+  "botofanto@lichess": {
+    "id": "botofanto",
+    "provider": "lichess",
+    "username": "BotOfAnto",
+    "firstSeen": 1620219570585,
+    "lastSeen": 1620219721509,
+    "firstSeenTime": "12:59:30 PM",
+    "lastSeenTime": "1:02:01 PM",
+    "onlineDurationMins": 2.5154
+  },
+  "saurabh_ks_bot@lichess": {
+    "id": "saurabh_ks_bot",
+    "provider": "lichess",
+    "username": "saurabh_ks_BOT",
+    "firstSeen": 1620219683979,
+    "lastSeen": 1620219694663,
+    "firstSeenTime": "1:01:23 PM",
+    "lastSeenTime": "1:01:34 PM",
+    "onlineDurationMins": 0.17806666666666668
+  },
+  "pichu1224@lichess": {
+    "id": "pichu1224",
+    "provider": "lichess",
+    "username": "PiChU1224",
+    "firstSeen": 1620219752263,
+    "lastSeen": 1620219791033,
+    "firstSeenTime": "1:02:32 PM",
+    "lastSeenTime": "1:03:11 PM",
+    "onlineDurationMins": 0.6461666666666667
+  }
+}
