@@ -1,0 +1,47 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620227698697,
+    "lastSeen": 1620247668563,
+    "firstSeenTime": "3:14:58 PM",
+    "lastSeenTime": "5:40:20 PM",
+    "onlineDurationMins": 145.3671
+  },
+  "lmaxoronwypo212@lichess": {
+    "id": "lmaxoronwypo212",
+    "provider": "lichess",
+    "username": "lmaxoronwypo212",
+    "firstSeen": 1620241156163,
+    "lastSeen": 1620247459873
+  },
+  "antarticanonymous@lichess": {
+    "id": "antarticanonymous",
+    "provider": "lichess",
+    "username": "AntarticAnonymous",
+    "firstSeen": 1620245761951,
+    "lastSeen": 1620247308771
+  },
+  "racingkingskingsbot@lichess": {
+    "id": "racingkingskingsbot",
+    "provider": "lichess",
+    "username": "RacingKingsKingsBot",
+    "firstSeen": 1620247281044,
+    "lastSeen": 1620247537111
+  },
+  "apollo34@lichess": {
+    "id": "apollo34",
+    "provider": "lichess",
+    "username": "Apollo34",
+    "firstSeen": 1620247568292,
+    "lastSeen": 1620247693829
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1620247723808,
+    "lastSeen": 1620247723808
+  }
+}
