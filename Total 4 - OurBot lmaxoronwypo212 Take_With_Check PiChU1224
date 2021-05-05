@@ -1,0 +1,33 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620227698697,
+    "lastSeen": 1620243916721,
+    "firstSeenTime": "3:14:58 PM",
+    "lastSeenTime": "5:40:20 PM",
+    "onlineDurationMins": 145.3671
+  },
+  "lmaxoronwypo212@lichess": {
+    "id": "lmaxoronwypo212",
+    "provider": "lichess",
+    "username": "lmaxoronwypo212",
+    "firstSeen": 1620241156163,
+    "lastSeen": 1620243796553
+  },
+  "take_with_check@lichess": {
+    "id": "take_with_check",
+    "provider": "lichess",
+    "username": "Take_With_Check",
+    "firstSeen": 1620242266406,
+    "lastSeen": 1620243592562
+  },
+  "pichu1224@lichess": {
+    "id": "pichu1224",
+    "provider": "lichess",
+    "username": "PiChU1224",
+    "firstSeen": 1620244184799,
+    "lastSeen": 1620244184799
+  }
+}
