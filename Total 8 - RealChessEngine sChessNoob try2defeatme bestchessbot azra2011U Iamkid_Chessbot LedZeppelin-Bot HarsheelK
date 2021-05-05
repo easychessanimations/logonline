@@ -1,0 +1,76 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620196170886,
+    "lastSeen": 1620202155820,
+    "firstSeenTime": "6:29:30 AM",
+    "lastSeenTime": "8:09:15 AM",
+    "onlineDurationMins": 99.7489
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620199371297,
+    "lastSeen": 1620202766377,
+    "firstSeenTime": "7:22:51 AM",
+    "lastSeenTime": "8:19:26 AM",
+    "onlineDurationMins": 56.584666666666664
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620199718667,
+    "lastSeen": 1620202722114,
+    "firstSeenTime": "7:28:38 AM",
+    "lastSeenTime": "8:18:42 AM",
+    "onlineDurationMins": 50.05745
+  },
+  "bestchessbot@lichess": {
+    "id": "bestchessbot",
+    "provider": "lichess",
+    "username": "bestchessbot",
+    "firstSeen": 1620201640093,
+    "lastSeen": 1620202763198,
+    "firstSeenTime": "8:00:40 AM",
+    "lastSeenTime": "8:19:23 AM",
+    "onlineDurationMins": 18.718416666666666
+  },
+  "azra2011u@lichess": {
+    "id": "azra2011u",
+    "provider": "lichess",
+    "username": "azra2011U",
+    "firstSeen": 1620202026755,
+    "lastSeen": 1620202110408,
+    "firstSeenTime": "8:07:06 AM",
+    "lastSeenTime": "8:08:30 AM",
+    "onlineDurationMins": 1.3942166666666667
+  },
+  "iamkid_chessbot@lichess": {
+    "id": "iamkid_chessbot",
+    "provider": "lichess",
+    "username": "Iamkid_Chessbot",
+    "firstSeen": 1620202203625,
+    "lastSeen": 1620202227500,
+    "firstSeenTime": "8:10:03 AM",
+    "lastSeenTime": "8:10:27 AM",
+    "onlineDurationMins": 0.39791666666666664
+  },
+  "ledzeppelin-bot@lichess": {
+    "id": "ledzeppelin-bot",
+    "provider": "lichess",
+    "username": "LedZeppelin-Bot",
+    "firstSeen": 1620202807451,
+    "lastSeen": 1620202865195
+  },
+  "harsheelk@lichess": {
+    "id": "harsheelk",
+    "provider": "lichess",
+    "username": "HarsheelK",
+    "firstSeen": 1620202902874,
+    "lastSeen": 1620202902874
+  }
+}
