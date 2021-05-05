@@ -1,0 +1,43 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620196170886,
+    "lastSeen": 1620206740101,
+    "firstSeenTime": "6:29:30 AM",
+    "lastSeenTime": "8:49:08 AM",
+    "onlineDurationMins": 139.6334
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620199718667,
+    "lastSeen": 1620206776753,
+    "firstSeenTime": "7:28:38 AM",
+    "lastSeenTime": "8:43:42 AM",
+    "onlineDurationMins": 75.06025
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620205208237,
+    "lastSeen": 1620207254452
+  },
+  "saicharan2412@lichess": {
+    "id": "saicharan2412",
+    "provider": "lichess",
+    "username": "saicharan2412",
+    "firstSeen": 1620206440987,
+    "lastSeen": 1620206565530
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1620206959924,
+    "lastSeen": 1620206969524
+  }
+}
