@@ -1,0 +1,43 @@
+{
+  "bot-scam-1992@lichess": {
+    "id": "bot-scam-1992",
+    "provider": "lichess",
+    "username": "Bot-Scam-1992",
+    "firstSeen": 1620208882596,
+    "lastSeen": 1620215015484,
+    "firstSeenTime": "10:01:22 AM",
+    "lastSeenTime": "10:48:35 AM",
+    "onlineDurationMins": 47.2166
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620209749997,
+    "lastSeen": 1620215265994,
+    "firstSeenTime": "10:15:49 AM",
+    "lastSeenTime": "10:50:45 AM",
+    "onlineDurationMins": 34.933366666666664
+  },
+  "botpenguingim1@lichess": {
+    "id": "botpenguingim1",
+    "provider": "lichess",
+    "username": "BotPenguingim1",
+    "firstSeen": 1620213334675,
+    "lastSeen": 1620214578614
+  },
+  "pogchampersbot@lichess": {
+    "id": "pogchampersbot",
+    "provider": "lichess",
+    "username": "PogchampersBot",
+    "firstSeen": 1620214918959,
+    "lastSeen": 1620214922332
+  },
+  "tryto_beatm_ekid@lichess": {
+    "id": "tryto_beatm_ekid",
+    "provider": "lichess",
+    "username": "Tryto_beatm_EKiD",
+    "firstSeen": 1620215286188,
+    "lastSeen": 1620215286189
+  }
+}
