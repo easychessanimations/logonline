@@ -1,0 +1,29 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620186434278,
+    "lastSeen": 1620188328758,
+    "firstSeenTime": "3:47:14 AM",
+    "lastSeenTime": "4:10:05 AM",
+    "onlineDurationMins": 22.847716666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620187844793,
+    "lastSeen": 1620187845263,
+    "firstSeenTime": "4:10:44 AM",
+    "lastSeenTime": "4:10:44 AM",
+    "onlineDurationMins": 0
+  },
+  "harsheelk@lichess": {
+    "id": "harsheelk",
+    "provider": "lichess",
+    "username": "HarsheelK",
+    "firstSeen": 1620188658653,
+    "lastSeen": 1620188658653
+  }
+}
