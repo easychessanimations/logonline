@@ -1,0 +1,40 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620227698697,
+    "lastSeen": 1620247005104,
+    "firstSeenTime": "3:14:58 PM",
+    "lastSeenTime": "5:40:20 PM",
+    "onlineDurationMins": 145.3671
+  },
+  "lmaxoronwypo212@lichess": {
+    "id": "lmaxoronwypo212",
+    "provider": "lichess",
+    "username": "lmaxoronwypo212",
+    "firstSeen": 1620241156163,
+    "lastSeen": 1620246799733
+  },
+  "taseenr20q@lichess": {
+    "id": "taseenr20q",
+    "provider": "lichess",
+    "username": "taseenr20q",
+    "firstSeen": 1620245356923,
+    "lastSeen": 1620246233961
+  },
+  "antarticanonymous@lichess": {
+    "id": "antarticanonymous",
+    "provider": "lichess",
+    "username": "AntarticAnonymous",
+    "firstSeen": 1620245761951,
+    "lastSeen": 1620246472369
+  },
+  "yerlucky@lichess": {
+    "id": "yerlucky",
+    "provider": "lichess",
+    "username": "Yerlucky",
+    "firstSeen": 1620246243753,
+    "lastSeen": 1620246319688
+  }
+}
