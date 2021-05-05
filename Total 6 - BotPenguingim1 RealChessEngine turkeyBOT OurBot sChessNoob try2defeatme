@@ -1,0 +1,59 @@
+{
+  "botpenguingim1@lichess": {
+    "id": "botpenguingim1",
+    "provider": "lichess",
+    "username": "BotPenguingim1",
+    "firstSeen": 1620194966879,
+    "lastSeen": 1620199624224,
+    "firstSeenTime": "6:09:26 AM",
+    "lastSeenTime": "7:21:37 AM",
+    "onlineDurationMins": 72.17988333333334
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620196170886,
+    "lastSeen": 1620199200389,
+    "firstSeenTime": "6:29:30 AM",
+    "lastSeenTime": "7:20:00 AM",
+    "onlineDurationMins": 50.49171666666667
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1620197761990,
+    "lastSeen": 1620199379917,
+    "firstSeenTime": "6:56:01 AM",
+    "lastSeenTime": "7:21:16 AM",
+    "onlineDurationMins": 25.234783333333333
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620198997927,
+    "lastSeen": 1620199666256,
+    "firstSeenTime": "7:16:37 AM",
+    "lastSeenTime": "7:17:48 AM",
+    "onlineDurationMins": 1.1696333333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620199371297,
+    "lastSeen": 1620199371297,
+    "firstSeenTime": "7:22:51 AM",
+    "lastSeenTime": "7:22:51 AM",
+    "onlineDurationMins": 0
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620199718667,
+    "lastSeen": 1620199718667
+  }
+}
