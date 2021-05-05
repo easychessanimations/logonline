@@ -1,0 +1,76 @@
+{
+  "saurabh_ks_bot@lichess": {
+    "id": "saurabh_ks_bot",
+    "provider": "lichess",
+    "username": "saurabh_ks_BOT",
+    "firstSeen": 1620219683979,
+    "lastSeen": 1620234867714,
+    "firstSeenTime": "1:01:23 PM",
+    "lastSeenTime": "5:14:27 PM",
+    "onlineDurationMins": 253.06225
+  },
+  "racingkingskingsbot@lichess": {
+    "id": "racingkingskingsbot",
+    "provider": "lichess",
+    "username": "RacingKingsKingsBot",
+    "firstSeen": 1620225920853,
+    "lastSeen": 1620235036527,
+    "firstSeenTime": "2:45:20 PM",
+    "lastSeenTime": "5:15:23 PM",
+    "onlineDurationMins": 150.03945
+  },
+  "antarticanonymous@lichess": {
+    "id": "antarticanonymous",
+    "provider": "lichess",
+    "username": "AntarticAnonymous",
+    "firstSeen": 1620227430454,
+    "lastSeen": 1620234955648,
+    "firstSeenTime": "3:10:30 PM",
+    "lastSeenTime": "5:15:55 PM",
+    "onlineDurationMins": 125.4199
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620227698697,
+    "lastSeen": 1620234826017,
+    "firstSeenTime": "3:14:58 PM",
+    "lastSeenTime": "5:13:46 PM",
+    "onlineDurationMins": 118.78866666666667
+  },
+  "firebeans@lichess": {
+    "id": "firebeans",
+    "provider": "lichess",
+    "username": "FireBeans",
+    "firstSeen": 1620232668504,
+    "lastSeen": 1620234604118,
+    "firstSeenTime": "4:37:48 PM",
+    "lastSeenTime": "5:10:04 PM",
+    "onlineDurationMins": 32.26023333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620234979173,
+    "lastSeen": 1620234979173,
+    "firstSeenTime": "5:16:19 PM",
+    "lastSeenTime": "5:16:19 PM",
+    "onlineDurationMins": 0
+  },
+  "pichu1224@lichess": {
+    "id": "pichu1224",
+    "provider": "lichess",
+    "username": "PiChU1224",
+    "firstSeen": 1620234998448,
+    "lastSeen": 1620235007277
+  },
+  "take_with_check@lichess": {
+    "id": "take_with_check",
+    "provider": "lichess",
+    "username": "Take_With_Check",
+    "firstSeen": 1620235073351,
+    "lastSeen": 1620235073351
+  }
+}
