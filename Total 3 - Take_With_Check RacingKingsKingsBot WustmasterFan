@@ -1,0 +1,23 @@
+{
+  "take_with_check@lichess": {
+    "id": "take_with_check",
+    "provider": "lichess",
+    "username": "Take_With_Check",
+    "firstSeen": 1620252912788,
+    "lastSeen": 1620252952976
+  },
+  "racingkingskingsbot@lichess": {
+    "id": "racingkingskingsbot",
+    "provider": "lichess",
+    "username": "RacingKingsKingsBot",
+    "firstSeen": 1620252968825,
+    "lastSeen": 1620252969095
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1620252969724,
+    "lastSeen": 1620252969724
+  }
+}
