@@ -1,0 +1,37 @@
+{
+  "pogchampersbot@lichess": {
+    "id": "pogchampersbot",
+    "provider": "lichess",
+    "username": "PogchampersBot",
+    "firstSeen": 1620301217669,
+    "lastSeen": 1620304143300
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620301597222,
+    "lastSeen": 1620304303691
+  },
+  "cheesepizza2363@lichess": {
+    "id": "cheesepizza2363",
+    "provider": "lichess",
+    "username": "cheesepizza2363",
+    "firstSeen": 1620303190585,
+    "lastSeen": 1620304329360
+  },
+  "idunnowhatiamdoing@lichess": {
+    "id": "idunnowhatiamdoing",
+    "provider": "lichess",
+    "username": "IdunnoWhatIamdoing",
+    "firstSeen": 1620304089352,
+    "lastSeen": 1620304132555
+  },
+  "apollo34@lichess": {
+    "id": "apollo34",
+    "provider": "lichess",
+    "username": "Apollo34",
+    "firstSeen": 1620304584649,
+    "lastSeen": 1620304584649
+  }
+}
