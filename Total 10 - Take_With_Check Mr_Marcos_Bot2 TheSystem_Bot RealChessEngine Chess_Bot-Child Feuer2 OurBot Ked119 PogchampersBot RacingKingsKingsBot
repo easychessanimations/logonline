@@ -1,0 +1,72 @@
+{
+  "take_with_check@lichess": {
+    "id": "take_with_check",
+    "provider": "lichess",
+    "username": "Take_With_Check",
+    "firstSeen": 1620304721672,
+    "lastSeen": 1620310724407
+  },
+  "mr_marcos_bot2@lichess": {
+    "id": "mr_marcos_bot2",
+    "provider": "lichess",
+    "username": "Mr_Marcos_Bot2",
+    "firstSeen": 1620305289534,
+    "lastSeen": 1620311004747
+  },
+  "thesystem_bot@lichess": {
+    "id": "thesystem_bot",
+    "provider": "lichess",
+    "username": "TheSystem_Bot",
+    "firstSeen": 1620306390594,
+    "lastSeen": 1620310181995
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620307202086,
+    "lastSeen": 1620310688806
+  },
+  "chess_bot-child@lichess": {
+    "id": "chess_bot-child",
+    "provider": "lichess",
+    "username": "Chess_Bot-Child",
+    "firstSeen": 1620307286494,
+    "lastSeen": 1620310290003
+  },
+  "feuer2@lichess": {
+    "id": "feuer2",
+    "provider": "lichess",
+    "username": "Feuer2",
+    "firstSeen": 1620308215972,
+    "lastSeen": 1620310514932
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620308502734,
+    "lastSeen": 1620310731990
+  },
+  "ked119@lichess": {
+    "id": "ked119",
+    "provider": "lichess",
+    "username": "Ked119",
+    "firstSeen": 1620309522331,
+    "lastSeen": 1620310930105
+  },
+  "pogchampersbot@lichess": {
+    "id": "pogchampersbot",
+    "provider": "lichess",
+    "username": "PogchampersBot",
+    "firstSeen": 1620310499604,
+    "lastSeen": 1620310503194
+  },
+  "racingkingskingsbot@lichess": {
+    "id": "racingkingskingsbot",
+    "provider": "lichess",
+    "username": "RacingKingsKingsBot",
+    "firstSeen": 1620311026852,
+    "lastSeen": 1620311026852
+  }
+}
