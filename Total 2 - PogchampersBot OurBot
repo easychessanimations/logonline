@@ -1,0 +1,16 @@
+{
+  "pogchampersbot@lichess": {
+    "id": "pogchampersbot",
+    "provider": "lichess",
+    "username": "PogchampersBot",
+    "firstSeen": 1620301217669,
+    "lastSeen": 1620301335572
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620301597222,
+    "lastSeen": 1620301597222
+  }
+}
