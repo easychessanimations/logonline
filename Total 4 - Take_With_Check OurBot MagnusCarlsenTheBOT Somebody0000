@@ -1,0 +1,30 @@
+{
+  "take_with_check@lichess": {
+    "id": "take_with_check",
+    "provider": "lichess",
+    "username": "Take_With_Check",
+    "firstSeen": 1620304721672,
+    "lastSeen": 1620315700529
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620308502734,
+    "lastSeen": 1620315139179
+  },
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1620313697093,
+    "lastSeen": 1620315706262
+  },
+  "83717916@github": {
+    "id": "83717916",
+    "provider": "github",
+    "username": "Somebody0000",
+    "firstSeen": 1620315139852,
+    "lastSeen": 1620315210916
+  }
+}
