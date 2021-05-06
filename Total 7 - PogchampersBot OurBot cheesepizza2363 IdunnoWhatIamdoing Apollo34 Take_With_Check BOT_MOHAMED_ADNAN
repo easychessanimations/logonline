@@ -1,0 +1,51 @@
+{
+  "pogchampersbot@lichess": {
+    "id": "pogchampersbot",
+    "provider": "lichess",
+    "username": "PogchampersBot",
+    "firstSeen": 1620301217669,
+    "lastSeen": 1620304803759
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620301597222,
+    "lastSeen": 1620304614465
+  },
+  "cheesepizza2363@lichess": {
+    "id": "cheesepizza2363",
+    "provider": "lichess",
+    "username": "cheesepizza2363",
+    "firstSeen": 1620303190585,
+    "lastSeen": 1620304329360
+  },
+  "idunnowhatiamdoing@lichess": {
+    "id": "idunnowhatiamdoing",
+    "provider": "lichess",
+    "username": "IdunnoWhatIamdoing",
+    "firstSeen": 1620304089352,
+    "lastSeen": 1620304132555
+  },
+  "apollo34@lichess": {
+    "id": "apollo34",
+    "provider": "lichess",
+    "username": "Apollo34",
+    "firstSeen": 1620304584649,
+    "lastSeen": 1620304638882
+  },
+  "take_with_check@lichess": {
+    "id": "take_with_check",
+    "provider": "lichess",
+    "username": "Take_With_Check",
+    "firstSeen": 1620304721672,
+    "lastSeen": 1620304730971
+  },
+  "bot_mohamed_adnan@lichess": {
+    "id": "bot_mohamed_adnan",
+    "provider": "lichess",
+    "username": "BOT_MOHAMED_ADNAN",
+    "firstSeen": 1620304826432,
+    "lastSeen": 1620304826432
+  }
+}
