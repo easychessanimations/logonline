@@ -1,0 +1,40 @@
+{
+  "racingkingskingsbot@lichess": {
+    "id": "racingkingskingsbot",
+    "provider": "lichess",
+    "username": "RacingKingsKingsBot",
+    "firstSeen": 1620282478646,
+    "lastSeen": 1620290487591,
+    "firstSeenTime": "6:27:58 AM",
+    "lastSeenTime": "7:31:27 AM",
+    "onlineDurationMins": 63.4858
+  },
+  "pranavramesh8bot@lichess": {
+    "id": "pranavramesh8bot",
+    "provider": "lichess",
+    "username": "PranavRamesh8Bot",
+    "firstSeen": 1620287111537,
+    "lastSeen": 1620290840000
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1620287327670,
+    "lastSeen": 1620290665383
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620287842362,
+    "lastSeen": 1620290392325
+  },
+  "yumuklusucurta001@lichess": {
+    "id": "yumuklusucurta001",
+    "provider": "lichess",
+    "username": "YumukluSucurta001",
+    "firstSeen": 1620289837267,
+    "lastSeen": 1620290612301
+  }
+}
