@@ -1,0 +1,52 @@
+{
+  "take_with_check@lichess": {
+    "id": "take_with_check",
+    "provider": "lichess",
+    "username": "Take_With_Check",
+    "firstSeen": 1620304721672,
+    "lastSeen": 1620327037795,
+    "firstSeenTime": "12:38:41 PM",
+    "lastSeenTime": "6:50:37 PM",
+    "onlineDurationMins": 371.93538333333333
+  },
+  "muneni222@lichess": {
+    "id": "muneni222",
+    "provider": "lichess",
+    "username": "Muneni222",
+    "firstSeen": 1620321046630,
+    "lastSeen": 1620327205313,
+    "firstSeenTime": "5:10:46 PM",
+    "lastSeenTime": "6:53:25 PM",
+    "onlineDurationMins": 102.64471666666667
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620321660575,
+    "lastSeen": 1620326893765,
+    "firstSeenTime": "5:21:00 PM",
+    "lastSeenTime": "6:48:13 PM",
+    "onlineDurationMins": 87.21983333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620324079435,
+    "lastSeen": 1620327325414,
+    "firstSeenTime": "6:01:19 PM",
+    "lastSeenTime": "6:55:25 PM",
+    "onlineDurationMins": 54.09965
+  },
+  "stockfish2628@lichess": {
+    "id": "stockfish2628",
+    "provider": "lichess",
+    "username": "stockfish2628",
+    "firstSeen": 1620327168133,
+    "lastSeen": 1620327351877,
+    "firstSeenTime": "6:52:48 PM",
+    "lastSeenTime": "6:55:22 PM",
+    "onlineDurationMins": 2.564566666666667
+  }
+}
