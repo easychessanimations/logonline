@@ -1,0 +1,69 @@
+{
+  "racingkingskingsbot@lichess": {
+    "id": "racingkingskingsbot",
+    "provider": "lichess",
+    "username": "RacingKingsKingsBot",
+    "firstSeen": 1620282478646,
+    "lastSeen": 1620284787632,
+    "firstSeenTime": "6:27:58 AM",
+    "lastSeenTime": "7:06:27 AM",
+    "onlineDurationMins": 38.4831
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620282954163,
+    "lastSeen": 1620285035879,
+    "firstSeenTime": "6:35:54 AM",
+    "lastSeenTime": "7:10:35 AM",
+    "onlineDurationMins": 34.69526666666667
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620284384874,
+    "lastSeen": 1620284423993,
+    "firstSeenTime": "6:59:44 AM",
+    "lastSeenTime": "7:00:23 AM",
+    "onlineDurationMins": 0.6519833333333334
+  },
+  "ked119@lichess": {
+    "id": "ked119",
+    "provider": "lichess",
+    "username": "Ked119",
+    "firstSeen": 1620284677338,
+    "lastSeen": 1620285105481,
+    "firstSeenTime": "7:04:37 AM",
+    "lastSeenTime": "7:07:40 AM",
+    "onlineDurationMins": 3.0557666666666665
+  },
+  "pogchampersbot@lichess": {
+    "id": "pogchampersbot",
+    "provider": "lichess",
+    "username": "PogchampersBot",
+    "firstSeen": 1620284859562,
+    "lastSeen": 1620284943424,
+    "firstSeenTime": "7:07:39 AM",
+    "lastSeenTime": "7:09:03 AM",
+    "onlineDurationMins": 1.3977
+  },
+  "tinezzbot_v2@lichess": {
+    "id": "tinezzbot_v2",
+    "provider": "lichess",
+    "username": "TinezzBot_v2",
+    "firstSeen": 1620284947689,
+    "lastSeen": 1620284972713,
+    "firstSeenTime": "7:09:07 AM",
+    "lastSeenTime": "7:09:32 AM",
+    "onlineDurationMins": 0.41706666666666664
+  },
+  "thesystem_bot@lichess": {
+    "id": "thesystem_bot",
+    "provider": "lichess",
+    "username": "TheSystem_Bot",
+    "firstSeen": 1620285194960,
+    "lastSeen": 1620285194960
+  }
+}
