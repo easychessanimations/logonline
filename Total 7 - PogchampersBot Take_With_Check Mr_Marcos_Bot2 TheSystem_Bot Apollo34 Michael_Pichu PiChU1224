@@ -1,0 +1,51 @@
+{
+  "pogchampersbot@lichess": {
+    "id": "pogchampersbot",
+    "provider": "lichess",
+    "username": "PogchampersBot",
+    "firstSeen": 1620301217669,
+    "lastSeen": 1620306817686
+  },
+  "take_with_check@lichess": {
+    "id": "take_with_check",
+    "provider": "lichess",
+    "username": "Take_With_Check",
+    "firstSeen": 1620304721672,
+    "lastSeen": 1620307121129
+  },
+  "mr_marcos_bot2@lichess": {
+    "id": "mr_marcos_bot2",
+    "provider": "lichess",
+    "username": "Mr_Marcos_Bot2",
+    "firstSeen": 1620305289534,
+    "lastSeen": 1620306987390
+  },
+  "thesystem_bot@lichess": {
+    "id": "thesystem_bot",
+    "provider": "lichess",
+    "username": "TheSystem_Bot",
+    "firstSeen": 1620306390594,
+    "lastSeen": 1620307069850
+  },
+  "apollo34@lichess": {
+    "id": "apollo34",
+    "provider": "lichess",
+    "username": "Apollo34",
+    "firstSeen": 1620306726937,
+    "lastSeen": 1620307116253
+  },
+  "michael_pichu@lichess": {
+    "id": "michael_pichu",
+    "provider": "lichess",
+    "username": "Michael_Pichu",
+    "firstSeen": 1620306774034,
+    "lastSeen": 1620306818843
+  },
+  "pichu1224@lichess": {
+    "id": "pichu1224",
+    "provider": "lichess",
+    "username": "PiChU1224",
+    "firstSeen": 1620306829479,
+    "lastSeen": 1620307069121
+  }
+}
