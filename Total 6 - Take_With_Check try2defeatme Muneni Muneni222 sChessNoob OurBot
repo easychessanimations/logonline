@@ -1,0 +1,59 @@
+{
+  "take_with_check@lichess": {
+    "id": "take_with_check",
+    "provider": "lichess",
+    "username": "Take_With_Check",
+    "firstSeen": 1620304721672,
+    "lastSeen": 1620321651482,
+    "firstSeenTime": "12:38:41 PM",
+    "lastSeenTime": "5:15:33 PM",
+    "onlineDurationMins": 276.85898333333336
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620317814593,
+    "lastSeen": 1620320855009,
+    "firstSeenTime": "4:16:54 PM",
+    "lastSeenTime": "5:07:35 PM",
+    "onlineDurationMins": 50.6736
+  },
+  "muneni@lichess": {
+    "id": "muneni",
+    "provider": "lichess",
+    "username": "Muneni",
+    "firstSeen": 1620320926947,
+    "lastSeen": 1620320983081,
+    "firstSeenTime": "5:08:46 PM",
+    "lastSeenTime": "5:09:43 PM",
+    "onlineDurationMins": 0.9355666666666667
+  },
+  "muneni222@lichess": {
+    "id": "muneni222",
+    "provider": "lichess",
+    "username": "Muneni222",
+    "firstSeen": 1620321046630,
+    "lastSeen": 1620321057384,
+    "firstSeenTime": "5:10:46 PM",
+    "lastSeenTime": "5:10:57 PM",
+    "onlineDurationMins": 0.17923333333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620321385246,
+    "lastSeen": 1620321385696,
+    "firstSeenTime": "5:16:25 PM",
+    "lastSeenTime": "5:16:25 PM",
+    "onlineDurationMins": 0
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620321660575,
+    "lastSeen": 1620321660575
+  }
+}
