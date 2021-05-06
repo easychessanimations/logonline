@@ -1,0 +1,51 @@
+{
+  "take_with_check@lichess": {
+    "id": "take_with_check",
+    "provider": "lichess",
+    "username": "Take_With_Check",
+    "firstSeen": 1620304721672,
+    "lastSeen": 1620313230560
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620307202086,
+    "lastSeen": 1620313205463
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620308502734,
+    "lastSeen": 1620312901831
+  },
+  "pogchampersbot@lichess": {
+    "id": "pogchampersbot",
+    "provider": "lichess",
+    "username": "PogchampersBot",
+    "firstSeen": 1620310499604,
+    "lastSeen": 1620312809288
+  },
+  "bot-scam-1992@lichess": {
+    "id": "bot-scam-1992",
+    "provider": "lichess",
+    "username": "Bot-Scam-1992",
+    "firstSeen": 1620311843160,
+    "lastSeen": 1620313425907
+  },
+  "tidw_j_by@lichess": {
+    "id": "tidw_j_by",
+    "provider": "lichess",
+    "username": "Tidw_J_BY",
+    "firstSeen": 1620312938154,
+    "lastSeen": 1620312946306
+  },
+  "justanother_bot@lichess": {
+    "id": "justanother_bot",
+    "provider": "lichess",
+    "username": "JustAnother_BOT",
+    "firstSeen": 1620312986469,
+    "lastSeen": 1620313260639
+  }
+}
