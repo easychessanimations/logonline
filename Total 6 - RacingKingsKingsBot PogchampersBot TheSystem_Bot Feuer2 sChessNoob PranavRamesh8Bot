@@ -1,0 +1,59 @@
+{
+  "racingkingskingsbot@lichess": {
+    "id": "racingkingskingsbot",
+    "provider": "lichess",
+    "username": "RacingKingsKingsBot",
+    "firstSeen": 1620282478646,
+    "lastSeen": 1620286979987,
+    "firstSeenTime": "6:27:58 AM",
+    "lastSeenTime": "7:31:27 AM",
+    "onlineDurationMins": 63.4858
+  },
+  "pogchampersbot@lichess": {
+    "id": "pogchampersbot",
+    "provider": "lichess",
+    "username": "PogchampersBot",
+    "firstSeen": 1620284859562,
+    "lastSeen": 1620286984224,
+    "firstSeenTime": "7:07:39 AM",
+    "lastSeenTime": "7:32:03 AM",
+    "onlineDurationMins": 24.40385
+  },
+  "thesystem_bot@lichess": {
+    "id": "thesystem_bot",
+    "provider": "lichess",
+    "username": "TheSystem_Bot",
+    "firstSeen": 1620285194960,
+    "lastSeen": 1620286701983,
+    "firstSeenTime": "7:13:14 AM",
+    "lastSeenTime": "7:24:26 AM",
+    "onlineDurationMins": 11.1993
+  },
+  "feuer2@lichess": {
+    "id": "feuer2",
+    "provider": "lichess",
+    "username": "Feuer2",
+    "firstSeen": 1620285940567,
+    "lastSeen": 1620286674533,
+    "firstSeenTime": "7:25:40 AM",
+    "lastSeenTime": "7:26:03 AM",
+    "onlineDurationMins": 0.37646666666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620286333169,
+    "lastSeen": 1620286333169,
+    "firstSeenTime": "7:32:13 AM",
+    "lastSeenTime": "7:32:13 AM",
+    "onlineDurationMins": 0
+  },
+  "pranavramesh8bot@lichess": {
+    "id": "pranavramesh8bot",
+    "provider": "lichess",
+    "username": "PranavRamesh8Bot",
+    "firstSeen": 1620287111537,
+    "lastSeen": 1620287111537
+  }
+}
