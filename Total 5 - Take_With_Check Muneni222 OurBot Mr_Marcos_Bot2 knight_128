@@ -1,0 +1,49 @@
+{
+  "take_with_check@lichess": {
+    "id": "take_with_check",
+    "provider": "lichess",
+    "username": "Take_With_Check",
+    "firstSeen": 1620304721672,
+    "lastSeen": 1620323764668,
+    "firstSeenTime": "12:38:41 PM",
+    "lastSeenTime": "5:37:33 PM",
+    "onlineDurationMins": 298.85951666666665
+  },
+  "muneni222@lichess": {
+    "id": "muneni222",
+    "provider": "lichess",
+    "username": "Muneni222",
+    "firstSeen": 1620321046630,
+    "lastSeen": 1620323185341,
+    "firstSeenTime": "5:10:46 PM",
+    "lastSeenTime": "5:35:50 PM",
+    "onlineDurationMins": 25.05995
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620321660575,
+    "lastSeen": 1620323203862,
+    "firstSeenTime": "5:21:00 PM",
+    "lastSeenTime": "5:35:44 PM",
+    "onlineDurationMins": 14.7248
+  },
+  "mr_marcos_bot2@lichess": {
+    "id": "mr_marcos_bot2",
+    "provider": "lichess",
+    "username": "Mr_Marcos_Bot2",
+    "firstSeen": 1620321703424,
+    "lastSeen": 1620323384981,
+    "firstSeenTime": "5:21:43 PM",
+    "lastSeenTime": "5:35:19 PM",
+    "onlineDurationMins": 13.606933333333334
+  },
+  "knight_128@lichess": {
+    "id": "knight_128",
+    "provider": "lichess",
+    "username": "knight_128",
+    "firstSeen": 1620323795341,
+    "lastSeen": 1620323795341
+  }
+}
