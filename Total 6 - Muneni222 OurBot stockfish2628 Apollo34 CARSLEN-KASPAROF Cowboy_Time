@@ -1,0 +1,53 @@
+{
+  "muneni222@lichess": {
+    "id": "muneni222",
+    "provider": "lichess",
+    "username": "Muneni222",
+    "firstSeen": 1620321046630,
+    "lastSeen": 1620328585382,
+    "firstSeenTime": "5:10:46 PM",
+    "lastSeenTime": "6:53:25 PM",
+    "onlineDurationMins": 102.64471666666667
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620321660575,
+    "lastSeen": 1620328295741,
+    "firstSeenTime": "5:21:00 PM",
+    "lastSeenTime": "6:57:27 PM",
+    "onlineDurationMins": 96.45685
+  },
+  "stockfish2628@lichess": {
+    "id": "stockfish2628",
+    "provider": "lichess",
+    "username": "stockfish2628",
+    "firstSeen": 1620327168133,
+    "lastSeen": 1620328454213,
+    "firstSeenTime": "6:52:48 PM",
+    "lastSeenTime": "6:59:22 PM",
+    "onlineDurationMins": 6.57275
+  },
+  "apollo34@lichess": {
+    "id": "apollo34",
+    "provider": "lichess",
+    "username": "Apollo34",
+    "firstSeen": 1620327854674,
+    "lastSeen": 1620328276813
+  },
+  "carslen-kasparof@lichess": {
+    "id": "carslen-kasparof",
+    "provider": "lichess",
+    "username": "CARSLEN-KASPAROF",
+    "firstSeen": 1620327917151,
+    "lastSeen": 1620328683796
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1620328210439,
+    "lastSeen": 1620328244927
+  }
+}
