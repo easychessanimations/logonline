@@ -1,0 +1,58 @@
+{
+  "pogchampersbot@lichess": {
+    "id": "pogchampersbot",
+    "provider": "lichess",
+    "username": "PogchampersBot",
+    "firstSeen": 1620301217669,
+    "lastSeen": 1620307473347
+  },
+  "take_with_check@lichess": {
+    "id": "take_with_check",
+    "provider": "lichess",
+    "username": "Take_With_Check",
+    "firstSeen": 1620304721672,
+    "lastSeen": 1620307724424
+  },
+  "mr_marcos_bot2@lichess": {
+    "id": "mr_marcos_bot2",
+    "provider": "lichess",
+    "username": "Mr_Marcos_Bot2",
+    "firstSeen": 1620305289534,
+    "lastSeen": 1620307629759
+  },
+  "thesystem_bot@lichess": {
+    "id": "thesystem_bot",
+    "provider": "lichess",
+    "username": "TheSystem_Bot",
+    "firstSeen": 1620306390594,
+    "lastSeen": 1620307684369
+  },
+  "apollo34@lichess": {
+    "id": "apollo34",
+    "provider": "lichess",
+    "username": "Apollo34",
+    "firstSeen": 1620306726937,
+    "lastSeen": 1620307116253
+  },
+  "pichu1224@lichess": {
+    "id": "pichu1224",
+    "provider": "lichess",
+    "username": "PiChU1224",
+    "firstSeen": 1620306829479,
+    "lastSeen": 1620307177218
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620307202086,
+    "lastSeen": 1620307211781
+  },
+  "chess_bot-child@lichess": {
+    "id": "chess_bot-child",
+    "provider": "lichess",
+    "username": "Chess_Bot-Child",
+    "firstSeen": 1620307286494,
+    "lastSeen": 1620307684365
+  }
+}
