@@ -1,0 +1,46 @@
+{
+  "racingkingskingsbot@lichess": {
+    "id": "racingkingskingsbot",
+    "provider": "lichess",
+    "username": "RacingKingsKingsBot",
+    "firstSeen": 1620282478646,
+    "lastSeen": 1620285627671,
+    "firstSeenTime": "6:27:58 AM",
+    "lastSeenTime": "7:06:27 AM",
+    "onlineDurationMins": 38.4831
+  },
+  "ked119@lichess": {
+    "id": "ked119",
+    "provider": "lichess",
+    "username": "Ked119",
+    "firstSeen": 1620284677338,
+    "lastSeen": 1620285847131,
+    "firstSeenTime": "7:04:37 AM",
+    "lastSeenTime": "7:07:40 AM",
+    "onlineDurationMins": 3.0557666666666665
+  },
+  "pogchampersbot@lichess": {
+    "id": "pogchampersbot",
+    "provider": "lichess",
+    "username": "PogchampersBot",
+    "firstSeen": 1620284859562,
+    "lastSeen": 1620285733065,
+    "firstSeenTime": "7:07:39 AM",
+    "lastSeenTime": "7:09:03 AM",
+    "onlineDurationMins": 1.3977
+  },
+  "thesystem_bot@lichess": {
+    "id": "thesystem_bot",
+    "provider": "lichess",
+    "username": "TheSystem_Bot",
+    "firstSeen": 1620285194960,
+    "lastSeen": 1620285866918
+  },
+  "feuer2@lichess": {
+    "id": "feuer2",
+    "provider": "lichess",
+    "username": "Feuer2",
+    "firstSeen": 1620285940567,
+    "lastSeen": 1620285940567
+  }
+}
