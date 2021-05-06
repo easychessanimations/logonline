@@ -1,0 +1,60 @@
+{
+  "racingkingskingsbot@lichess": {
+    "id": "racingkingskingsbot",
+    "provider": "lichess",
+    "username": "RacingKingsKingsBot",
+    "firstSeen": 1620282478646,
+    "lastSeen": 1620289107732,
+    "firstSeenTime": "6:27:58 AM",
+    "lastSeenTime": "7:31:27 AM",
+    "onlineDurationMins": 63.4858
+  },
+  "pogchampersbot@lichess": {
+    "id": "pogchampersbot",
+    "provider": "lichess",
+    "username": "PogchampersBot",
+    "firstSeen": 1620284859562,
+    "lastSeen": 1620289218484,
+    "firstSeenTime": "7:07:39 AM",
+    "lastSeenTime": "7:32:03 AM",
+    "onlineDurationMins": 24.40385
+  },
+  "thesystem_bot@lichess": {
+    "id": "thesystem_bot",
+    "provider": "lichess",
+    "username": "TheSystem_Bot",
+    "firstSeen": 1620285194960,
+    "lastSeen": 1620288652096,
+    "firstSeenTime": "7:13:14 AM",
+    "lastSeenTime": "7:24:26 AM",
+    "onlineDurationMins": 11.1993
+  },
+  "pranavramesh8bot@lichess": {
+    "id": "pranavramesh8bot",
+    "provider": "lichess",
+    "username": "PranavRamesh8Bot",
+    "firstSeen": 1620287111537,
+    "lastSeen": 1620289284210
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1620287327670,
+    "lastSeen": 1620289200489
+  },
+  "bot-scam-1992@lichess": {
+    "id": "bot-scam-1992",
+    "provider": "lichess",
+    "username": "Bot-Scam-1992",
+    "firstSeen": 1620287492146,
+    "lastSeen": 1620288918875
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620287842362,
+    "lastSeen": 1620289246283
+  }
+}
