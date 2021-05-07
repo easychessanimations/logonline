@@ -1,0 +1,44 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620367621882,
+    "lastSeen": 1620381384963
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620368807619,
+    "lastSeen": 1620381414596
+  },
+  "altuganadolu005@lichess": {
+    "id": "altuganadolu005",
+    "provider": "lichess",
+    "username": "altuganadolu005",
+    "firstSeen": 1620380013566,
+    "lastSeen": 1620381382803
+  },
+  "bestchessbot@lichess": {
+    "id": "bestchessbot",
+    "provider": "lichess",
+    "username": "bestchessbot",
+    "firstSeen": 1620380050086,
+    "lastSeen": 1620381220175
+  },
+  "lsg10@lichess": {
+    "id": "lsg10",
+    "provider": "lichess",
+    "username": "LSG10",
+    "firstSeen": 1620381243830,
+    "lastSeen": 1620381270080
+  },
+  "pogchampersbot@lichess": {
+    "id": "pogchampersbot",
+    "provider": "lichess",
+    "username": "PogchampersBot",
+    "firstSeen": 1620381565821,
+    "lastSeen": 1620381565821
+  }
+}
