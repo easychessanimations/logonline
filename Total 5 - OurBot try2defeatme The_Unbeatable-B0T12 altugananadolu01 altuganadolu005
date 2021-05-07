@@ -1,0 +1,37 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620367621882,
+    "lastSeen": 1620384671721
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620368807619,
+    "lastSeen": 1620384834532
+  },
+  "the_unbeatable-b0t12@lichess": {
+    "id": "the_unbeatable-b0t12",
+    "provider": "lichess",
+    "username": "The_Unbeatable-B0T12",
+    "firstSeen": 1620383309038,
+    "lastSeen": 1620384754685
+  },
+  "altugananadolu01@lichess": {
+    "id": "altugananadolu01",
+    "provider": "lichess",
+    "username": "altugananadolu01",
+    "firstSeen": 1620384301243,
+    "lastSeen": 1620384390293
+  },
+  "altuganadolu005@lichess": {
+    "id": "altuganadolu005",
+    "provider": "lichess",
+    "username": "altuganadolu005",
+    "firstSeen": 1620384390983,
+    "lastSeen": 1620384497033
+  }
+}
