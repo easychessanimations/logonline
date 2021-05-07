@@ -1,0 +1,58 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620367621882,
+    "lastSeen": 1620380004988
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620368807619,
+    "lastSeen": 1620379973111
+  },
+  "zeynepervabott@lichess": {
+    "id": "zeynepervabott",
+    "provider": "lichess",
+    "username": "zeynepervabott",
+    "firstSeen": 1620376588683,
+    "lastSeen": 1620379285645
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1620378180683,
+    "lastSeen": 1620379684671
+  },
+  "altugananadolu01@lichess": {
+    "id": "altugananadolu01",
+    "provider": "lichess",
+    "username": "altugananadolu01",
+    "firstSeen": 1620378847892,
+    "lastSeen": 1620379275381
+  },
+  "altugananadolu451@lichess": {
+    "id": "altugananadolu451",
+    "provider": "lichess",
+    "username": "altugananadolu451",
+    "firstSeen": 1620379276075,
+    "lastSeen": 1620380012867
+  },
+  "bot-iam-bot@lichess": {
+    "id": "bot-iam-bot",
+    "provider": "lichess",
+    "username": "BOt-Iam-BOt",
+    "firstSeen": 1620379602938,
+    "lastSeen": 1620379714692
+  },
+  "altuganadolu005@lichess": {
+    "id": "altuganadolu005",
+    "provider": "lichess",
+    "username": "altuganadolu005",
+    "firstSeen": 1620380013566,
+    "lastSeen": 1620380013566
+  }
+}
