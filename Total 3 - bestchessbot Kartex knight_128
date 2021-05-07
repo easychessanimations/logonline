@@ -1,0 +1,23 @@
+{
+  "bestchessbot@lichess": {
+    "id": "bestchessbot",
+    "provider": "lichess",
+    "username": "bestchessbot",
+    "firstSeen": 1620350853013,
+    "lastSeen": 1620351535782
+  },
+  "kartex@lichess": {
+    "id": "kartex",
+    "provider": "lichess",
+    "username": "Kartex",
+    "firstSeen": 1620351434033,
+    "lastSeen": 1620351514209
+  },
+  "knight_128@lichess": {
+    "id": "knight_128",
+    "provider": "lichess",
+    "username": "knight_128",
+    "firstSeen": 1620351556109,
+    "lastSeen": 1620351556109
+  }
+}
