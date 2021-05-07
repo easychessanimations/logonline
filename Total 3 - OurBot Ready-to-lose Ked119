@@ -1,0 +1,23 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620367621882,
+    "lastSeen": 1620367734638
+  },
+  "ready-to-lose@lichess": {
+    "id": "ready-to-lose",
+    "provider": "lichess",
+    "username": "Ready-to-lose",
+    "firstSeen": 1620367742265,
+    "lastSeen": 1620367804145
+  },
+  "ked119@lichess": {
+    "id": "ked119",
+    "provider": "lichess",
+    "username": "Ked119",
+    "firstSeen": 1620367978935,
+    "lastSeen": 1620368231450
+  }
+}
