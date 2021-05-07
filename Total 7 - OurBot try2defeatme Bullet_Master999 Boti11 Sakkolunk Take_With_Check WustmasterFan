@@ -1,0 +1,63 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620388762097,
+    "lastSeen": 1620391765450,
+    "firstSeenTime": "11:59:22 AM",
+    "lastSeenTime": "12:39:51 PM",
+    "onlineDurationMins": 40.49786666666667
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620388791191,
+    "lastSeen": 1620392206831,
+    "firstSeenTime": "11:59:51 AM",
+    "lastSeenTime": "12:35:52 PM",
+    "onlineDurationMins": 36.020516666666666
+  },
+  "bullet_master999@lichess": {
+    "id": "bullet_master999",
+    "provider": "lichess",
+    "username": "Bullet_Master999",
+    "firstSeen": 1620389834175,
+    "lastSeen": 1620391494567,
+    "firstSeenTime": "12:17:14 PM",
+    "lastSeenTime": "12:33:30 PM",
+    "onlineDurationMins": 16.276966666666667
+  },
+  "boti11@lichess": {
+    "id": "boti11",
+    "provider": "lichess",
+    "username": "Boti11",
+    "firstSeen": 1620391181096,
+    "lastSeen": 1620391396758,
+    "firstSeenTime": "12:39:41 PM",
+    "lastSeenTime": "12:39:41 PM",
+    "onlineDurationMins": 0
+  },
+  "sakkolunk@lichess": {
+    "id": "sakkolunk",
+    "provider": "lichess",
+    "username": "Sakkolunk",
+    "firstSeen": 1620391397547,
+    "lastSeen": 1620391491885
+  },
+  "take_with_check@lichess": {
+    "id": "take_with_check",
+    "provider": "lichess",
+    "username": "Take_With_Check",
+    "firstSeen": 1620391664773,
+    "lastSeen": 1620391676784
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1620391976534,
+    "lastSeen": 1620391986412
+  }
+}
