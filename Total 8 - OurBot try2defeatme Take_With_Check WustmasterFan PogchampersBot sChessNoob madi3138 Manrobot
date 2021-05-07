@@ -1,0 +1,76 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620388762097,
+    "lastSeen": 1620393385557,
+    "firstSeenTime": "11:59:22 AM",
+    "lastSeenTime": "1:03:14 PM",
+    "onlineDurationMins": 63.8666
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620388791191,
+    "lastSeen": 1620393600079,
+    "firstSeenTime": "11:59:51 AM",
+    "lastSeenTime": "1:07:09 PM",
+    "onlineDurationMins": 67.30011666666667
+  },
+  "take_with_check@lichess": {
+    "id": "take_with_check",
+    "provider": "lichess",
+    "username": "Take_With_Check",
+    "firstSeen": 1620391664773,
+    "lastSeen": 1620393645018,
+    "firstSeenTime": "12:47:44 PM",
+    "lastSeenTime": "1:07:19 PM",
+    "onlineDurationMins": 19.586733333333335
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1620391976534,
+    "lastSeen": 1620393479885,
+    "firstSeenTime": "12:52:56 PM",
+    "lastSeenTime": "1:04:03 PM",
+    "onlineDurationMins": 11.112783333333333
+  },
+  "pogchampersbot@lichess": {
+    "id": "pogchampersbot",
+    "provider": "lichess",
+    "username": "PogchampersBot",
+    "firstSeen": 1620392734007,
+    "lastSeen": 1620393342464,
+    "firstSeenTime": "1:05:34 PM",
+    "lastSeenTime": "1:05:48 PM",
+    "onlineDurationMins": 0.2375
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620392861776,
+    "lastSeen": 1620392861776,
+    "firstSeenTime": "1:07:41 PM",
+    "lastSeenTime": "1:07:41 PM",
+    "onlineDurationMins": 0
+  },
+  "madi3138@lichess": {
+    "id": "madi3138",
+    "provider": "lichess",
+    "username": "madi3138",
+    "firstSeen": 1620393514166,
+    "lastSeen": 1620393648791
+  },
+  "manrobot@lichess": {
+    "id": "manrobot",
+    "provider": "lichess",
+    "username": "Manrobot",
+    "firstSeen": 1620393649098,
+    "lastSeen": 1620393649098
+  }
+}
