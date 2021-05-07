@@ -1,0 +1,36 @@
+{
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620364816619,
+    "lastSeen": 1620366611801,
+    "firstSeenTime": "5:20:16 AM",
+    "lastSeenTime": "5:50:11 AM",
+    "onlineDurationMins": 29.9197
+  },
+  "feuer2@lichess": {
+    "id": "feuer2",
+    "provider": "lichess",
+    "username": "Feuer2",
+    "firstSeen": 1620366397389,
+    "lastSeen": 1620366407705,
+    "firstSeenTime": "5:46:37 AM",
+    "lastSeenTime": "5:46:47 AM",
+    "onlineDurationMins": 0.17193333333333333
+  },
+  "pogchampersbot@lichess": {
+    "id": "pogchampersbot",
+    "provider": "lichess",
+    "username": "PogchampersBot",
+    "firstSeen": 1620366630905,
+    "lastSeen": 1620366641893
+  },
+  "ked119@lichess": {
+    "id": "ked119",
+    "provider": "lichess",
+    "username": "Ked119",
+    "firstSeen": 1620366705944,
+    "lastSeen": 1620366705944
+  }
+}
