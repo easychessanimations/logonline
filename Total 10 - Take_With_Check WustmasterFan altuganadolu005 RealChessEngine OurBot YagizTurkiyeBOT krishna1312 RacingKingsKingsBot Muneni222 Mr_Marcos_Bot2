@@ -1,0 +1,87 @@
+{
+  "take_with_check@lichess": {
+    "id": "take_with_check",
+    "provider": "lichess",
+    "username": "Take_With_Check",
+    "firstSeen": 1620400862283,
+    "lastSeen": 1620405245504,
+    "firstSeenTime": "3:21:02 PM",
+    "lastSeenTime": "3:43:02 PM",
+    "onlineDurationMins": 22.003966666666667
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1620400867607,
+    "lastSeen": 1620405488473,
+    "firstSeenTime": "3:21:07 PM",
+    "lastSeenTime": "3:33:07 PM",
+    "onlineDurationMins": 11.999183333333333
+  },
+  "altuganadolu005@lichess": {
+    "id": "altuganadolu005",
+    "provider": "lichess",
+    "username": "altuganadolu005",
+    "firstSeen": 1620400893048,
+    "lastSeen": 1620405215244,
+    "firstSeenTime": "3:21:33 PM",
+    "lastSeenTime": "3:40:32 PM",
+    "onlineDurationMins": 18.99755
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620400899670,
+    "lastSeen": 1620405447307,
+    "firstSeenTime": "3:21:39 PM",
+    "lastSeenTime": "3:40:59 PM",
+    "onlineDurationMins": 19.323833333333333
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620401033828,
+    "lastSeen": 1620405530638,
+    "firstSeenTime": "3:23:53 PM",
+    "lastSeenTime": "3:41:46 PM",
+    "onlineDurationMins": 17.8851
+  },
+  "yagizturkiyebot@lichess": {
+    "id": "yagizturkiyebot",
+    "provider": "lichess",
+    "username": "YagizTurkiyeBOT",
+    "firstSeen": 1620403458974,
+    "lastSeen": 1620404991365
+  },
+  "krishna1312@lichess": {
+    "id": "krishna1312",
+    "provider": "lichess",
+    "username": "krishna1312",
+    "firstSeen": 1620403645745,
+    "lastSeen": 1620405343753
+  },
+  "racingkingskingsbot@lichess": {
+    "id": "racingkingskingsbot",
+    "provider": "lichess",
+    "username": "RacingKingsKingsBot",
+    "firstSeen": 1620404377000,
+    "lastSeen": 1620405265839
+  },
+  "muneni222@lichess": {
+    "id": "muneni222",
+    "provider": "lichess",
+    "username": "Muneni222",
+    "firstSeen": 1620404437333,
+    "lastSeen": 1620405549723
+  },
+  "mr_marcos_bot2@lichess": {
+    "id": "mr_marcos_bot2",
+    "provider": "lichess",
+    "username": "Mr_Marcos_Bot2",
+    "firstSeen": 1620405595557,
+    "lastSeen": 1620405595557
+  }
+}
