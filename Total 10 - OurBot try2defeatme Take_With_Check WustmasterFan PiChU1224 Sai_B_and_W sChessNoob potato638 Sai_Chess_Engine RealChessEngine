@@ -1,0 +1,96 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620388762097,
+    "lastSeen": 1620396176805,
+    "firstSeenTime": "11:59:22 AM",
+    "lastSeenTime": "1:51:56 PM",
+    "onlineDurationMins": 112.58105
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620388791191,
+    "lastSeen": 1620396224588,
+    "firstSeenTime": "11:59:51 AM",
+    "lastSeenTime": "1:55:18 PM",
+    "onlineDurationMins": 115.45733333333334
+  },
+  "take_with_check@lichess": {
+    "id": "take_with_check",
+    "provider": "lichess",
+    "username": "Take_With_Check",
+    "firstSeen": 1620391664773,
+    "lastSeen": 1620396202655,
+    "firstSeenTime": "12:47:44 PM",
+    "lastSeenTime": "1:57:05 PM",
+    "onlineDurationMins": 69.34798333333333
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1620391976534,
+    "lastSeen": 1620396190972,
+    "firstSeenTime": "12:52:56 PM",
+    "lastSeenTime": "1:52:07 PM",
+    "onlineDurationMins": 59.182316666666665
+  },
+  "pichu1224@lichess": {
+    "id": "pichu1224",
+    "provider": "lichess",
+    "username": "PiChU1224",
+    "firstSeen": 1620394604034,
+    "lastSeen": 1620395888886,
+    "firstSeenTime": "1:36:44 PM",
+    "lastSeenTime": "1:56:43 PM",
+    "onlineDurationMins": 19.998366666666666
+  },
+  "sai_b_and_w@lichess": {
+    "id": "sai_b_and_w",
+    "provider": "lichess",
+    "username": "Sai_B_and_W",
+    "firstSeen": 1620394659015,
+    "lastSeen": 1620395788343,
+    "firstSeenTime": "1:37:39 PM",
+    "lastSeenTime": "1:56:28 PM",
+    "onlineDurationMins": 18.822133333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620395125450,
+    "lastSeen": 1620395836556,
+    "firstSeenTime": "1:45:25 PM",
+    "lastSeenTime": "1:57:16 PM",
+    "onlineDurationMins": 11.851766666666666
+  },
+  "potato638@lichess": {
+    "id": "potato638",
+    "provider": "lichess",
+    "username": "potato638",
+    "firstSeen": 1620395313954,
+    "lastSeen": 1620395796373,
+    "firstSeenTime": "1:48:33 PM",
+    "lastSeenTime": "1:56:36 PM",
+    "onlineDurationMins": 8.040316666666667
+  },
+  "sai_chess_engine@lichess": {
+    "id": "sai_chess_engine",
+    "provider": "lichess",
+    "username": "Sai_Chess_Engine",
+    "firstSeen": 1620395995354,
+    "lastSeen": 1620396217026
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620396160642,
+    "lastSeen": 1620396162469
+  }
+}
