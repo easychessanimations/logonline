@@ -1,0 +1,44 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620367621882,
+    "lastSeen": 1620382525211
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620368807619,
+    "lastSeen": 1620382730759
+  },
+  "bestchessbot@lichess": {
+    "id": "bestchessbot",
+    "provider": "lichess",
+    "username": "bestchessbot",
+    "firstSeen": 1620380050086,
+    "lastSeen": 1620382731747
+  },
+  "pogchampersbot@lichess": {
+    "id": "pogchampersbot",
+    "provider": "lichess",
+    "username": "PogchampersBot",
+    "firstSeen": 1620381565821,
+    "lastSeen": 1620382233072
+  },
+  "chessnature-bot@lichess": {
+    "id": "chessnature-bot",
+    "provider": "lichess",
+    "username": "ChessNature-BOT",
+    "firstSeen": 1620381758467,
+    "lastSeen": 1620382789921
+  },
+  "feuer2@lichess": {
+    "id": "feuer2",
+    "provider": "lichess",
+    "username": "Feuer2",
+    "firstSeen": 1620382036655,
+    "lastSeen": 1620382036965
+  }
+}
