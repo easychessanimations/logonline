@@ -1,0 +1,30 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620367621882,
+    "lastSeen": 1620368424692
+  },
+  "ked119@lichess": {
+    "id": "ked119",
+    "provider": "lichess",
+    "username": "Ked119",
+    "firstSeen": 1620367978935,
+    "lastSeen": 1620368407841
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1620368669920,
+    "lastSeen": 1620368679421
+  },
+  "pogchampersbot@lichess": {
+    "id": "pogchampersbot",
+    "provider": "lichess",
+    "username": "PogchampersBot",
+    "firstSeen": 1620368705005,
+    "lastSeen": 1620368705005
+  }
+}
