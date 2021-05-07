@@ -1,0 +1,44 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620367621882,
+    "lastSeen": 1620378141724
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620368807619,
+    "lastSeen": 1620377810686
+  },
+  "zeynepervabott@lichess": {
+    "id": "zeynepervabott",
+    "provider": "lichess",
+    "username": "zeynepervabott",
+    "firstSeen": 1620376588683,
+    "lastSeen": 1620378238770
+  },
+  "yahyabaneen19219@lichess": {
+    "id": "yahyabaneen19219",
+    "provider": "lichess",
+    "username": "YahyaBaneen19219",
+    "firstSeen": 1620377424201,
+    "lastSeen": 1620377529634
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1620378180683,
+    "lastSeen": 1620378240270
+  },
+  "chess_bot-child@lichess": {
+    "id": "chess_bot-child",
+    "provider": "lichess",
+    "username": "Chess_Bot-Child",
+    "firstSeen": 1620378286723,
+    "lastSeen": 1620378286723
+  }
+}
