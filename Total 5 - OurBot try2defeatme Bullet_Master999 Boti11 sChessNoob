@@ -1,0 +1,37 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620388762097,
+    "lastSeen": 1620391191969
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620388791191,
+    "lastSeen": 1620390952422
+  },
+  "bullet_master999@lichess": {
+    "id": "bullet_master999",
+    "provider": "lichess",
+    "username": "Bullet_Master999",
+    "firstSeen": 1620389834175,
+    "lastSeen": 1620390810793
+  },
+  "boti11@lichess": {
+    "id": "boti11",
+    "provider": "lichess",
+    "username": "Boti11",
+    "firstSeen": 1620391181096,
+    "lastSeen": 1620391181096
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620391255716,
+    "lastSeen": 1620391255716
+  }
+}
