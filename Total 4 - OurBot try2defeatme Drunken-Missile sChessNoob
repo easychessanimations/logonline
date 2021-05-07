@@ -1,0 +1,42 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620367621882,
+    "lastSeen": 1620386111833,
+    "firstSeenTime": "6:07:01 AM",
+    "lastSeenTime": "11:01:25 AM",
+    "onlineDurationMins": 294.3854166666667
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620368807619,
+    "lastSeen": 1620385490881,
+    "firstSeenTime": "6:26:47 AM",
+    "lastSeenTime": "11:04:50 AM",
+    "onlineDurationMins": 278.0543666666667
+  },
+  "drunken-missile@lichess": {
+    "id": "drunken-missile",
+    "provider": "lichess",
+    "username": "Drunken-Missile",
+    "firstSeen": 1620385235677,
+    "lastSeen": 1620385495495,
+    "firstSeenTime": "11:00:35 AM",
+    "lastSeenTime": "11:04:55 AM",
+    "onlineDurationMins": 4.3303
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620385902116,
+    "lastSeen": 1620385902780,
+    "firstSeenTime": "11:11:42 AM",
+    "lastSeenTime": "11:11:42 AM",
+    "onlineDurationMins": 0
+  }
+}
