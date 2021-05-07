@@ -1,0 +1,65 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620367621882,
+    "lastSeen": 1620378621690
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620368807619,
+    "lastSeen": 1620379014357
+  },
+  "zeynepervabott@lichess": {
+    "id": "zeynepervabott",
+    "provider": "lichess",
+    "username": "zeynepervabott",
+    "firstSeen": 1620376588683,
+    "lastSeen": 1620378628615
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1620378180683,
+    "lastSeen": 1620378968200
+  },
+  "chess_bot-child@lichess": {
+    "id": "chess_bot-child",
+    "provider": "lichess",
+    "username": "Chess_Bot-Child",
+    "firstSeen": 1620378286723,
+    "lastSeen": 1620378296192
+  },
+  "altugananadolu01@lichess": {
+    "id": "altugananadolu01",
+    "provider": "lichess",
+    "username": "altugananadolu01",
+    "firstSeen": 1620378847892,
+    "lastSeen": 1620379058216
+  },
+  "mustafa_enes@lichess": {
+    "id": "mustafa_enes",
+    "provider": "lichess",
+    "username": "MusTafa_EneS",
+    "firstSeen": 1620379027495,
+    "lastSeen": 1620379084789
+  },
+  "strangea20@lichess": {
+    "id": "strangea20",
+    "provider": "lichess",
+    "username": "STrangeA20",
+    "firstSeen": 1620379085504,
+    "lastSeen": 1620379091313
+  },
+  "hi333zzz@lichess": {
+    "id": "hi333zzz",
+    "provider": "lichess",
+    "username": "HI333zzz",
+    "firstSeen": 1620379091719,
+    "lastSeen": 1620379091719
+  }
+}
