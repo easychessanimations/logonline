@@ -1,0 +1,63 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620388762097,
+    "lastSeen": 1620394045322,
+    "firstSeenTime": "11:59:22 AM",
+    "lastSeenTime": "1:03:14 PM",
+    "onlineDurationMins": 63.8666
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620388791191,
+    "lastSeen": 1620394562813,
+    "firstSeenTime": "11:59:51 AM",
+    "lastSeenTime": "1:07:09 PM",
+    "onlineDurationMins": 67.30011666666667
+  },
+  "take_with_check@lichess": {
+    "id": "take_with_check",
+    "provider": "lichess",
+    "username": "Take_With_Check",
+    "firstSeen": 1620391664773,
+    "lastSeen": 1620394445658,
+    "firstSeenTime": "12:47:44 PM",
+    "lastSeenTime": "1:07:19 PM",
+    "onlineDurationMins": 19.586733333333335
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1620391976534,
+    "lastSeen": 1620394030621,
+    "firstSeenTime": "12:52:56 PM",
+    "lastSeenTime": "1:04:03 PM",
+    "onlineDurationMins": 11.112783333333333
+  },
+  "madi3138@lichess": {
+    "id": "madi3138",
+    "provider": "lichess",
+    "username": "madi3138",
+    "firstSeen": 1620393514166,
+    "lastSeen": 1620393710693
+  },
+  "sumal_bro@lichess": {
+    "id": "sumal_bro",
+    "provider": "lichess",
+    "username": "SUMAL_BRO",
+    "firstSeen": 1620393925433,
+    "lastSeen": 1620394384694
+  },
+  "winforlose@lichess": {
+    "id": "winforlose",
+    "provider": "lichess",
+    "username": "winforlose",
+    "firstSeen": 1620394345121,
+    "lastSeen": 1620394397037
+  }
+}
