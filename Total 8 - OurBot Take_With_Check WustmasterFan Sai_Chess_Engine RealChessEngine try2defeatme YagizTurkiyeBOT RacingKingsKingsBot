@@ -1,0 +1,76 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620388762097,
+    "lastSeen": 1620398696835,
+    "firstSeenTime": "11:59:22 AM",
+    "lastSeenTime": "2:26:57 PM",
+    "onlineDurationMins": 147.58196666666666
+  },
+  "take_with_check@lichess": {
+    "id": "take_with_check",
+    "provider": "lichess",
+    "username": "Take_With_Check",
+    "firstSeen": 1620391664773,
+    "lastSeen": 1620398592655,
+    "firstSeenTime": "12:47:44 PM",
+    "lastSeenTime": "2:29:52 PM",
+    "onlineDurationMins": 102.12808333333334
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1620391976534,
+    "lastSeen": 1620398291033,
+    "firstSeenTime": "12:52:56 PM",
+    "lastSeenTime": "2:33:00 PM",
+    "onlineDurationMins": 100.06105
+  },
+  "sai_chess_engine@lichess": {
+    "id": "sai_chess_engine",
+    "provider": "lichess",
+    "username": "Sai_Chess_Engine",
+    "firstSeen": 1620395995354,
+    "lastSeen": 1620398869219,
+    "firstSeenTime": "1:59:55 PM",
+    "lastSeenTime": "2:33:20 PM",
+    "onlineDurationMins": 33.4182
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620396160642,
+    "lastSeen": 1620398323266,
+    "firstSeenTime": "2:02:40 PM",
+    "lastSeenTime": "2:32:53 PM",
+    "onlineDurationMins": 30.22055
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620397993899,
+    "lastSeen": 1620398917878,
+    "firstSeenTime": "2:33:13 PM",
+    "lastSeenTime": "2:33:20 PM",
+    "onlineDurationMins": 0.10926666666666666
+  },
+  "yagizturkiyebot@lichess": {
+    "id": "yagizturkiyebot",
+    "provider": "lichess",
+    "username": "YagizTurkiyeBOT",
+    "firstSeen": 1620398415798,
+    "lastSeen": 1620398423509
+  },
+  "racingkingskingsbot@lichess": {
+    "id": "racingkingskingsbot",
+    "provider": "lichess",
+    "username": "RacingKingsKingsBot",
+    "firstSeen": 1620398424357,
+    "lastSeen": 1620398593644
+  }
+}
