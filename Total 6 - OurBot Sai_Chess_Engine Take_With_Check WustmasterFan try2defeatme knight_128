@@ -1,0 +1,44 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620400073882,
+    "lastSeen": 1620400098754
+  },
+  "sai_chess_engine@lichess": {
+    "id": "sai_chess_engine",
+    "provider": "lichess",
+    "username": "Sai_Chess_Engine",
+    "firstSeen": 1620400075573,
+    "lastSeen": 1620400076323
+  },
+  "take_with_check@lichess": {
+    "id": "take_with_check",
+    "provider": "lichess",
+    "username": "Take_With_Check",
+    "firstSeen": 1620400082333,
+    "lastSeen": 1620400082333
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1620400087492,
+    "lastSeen": 1620400087492
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620400100239,
+    "lastSeen": 1620400100239
+  },
+  "knight_128@lichess": {
+    "id": "knight_128",
+    "provider": "lichess",
+    "username": "knight_128",
+    "firstSeen": 1620400110862,
+    "lastSeen": 1620400110862
+  }
+}
