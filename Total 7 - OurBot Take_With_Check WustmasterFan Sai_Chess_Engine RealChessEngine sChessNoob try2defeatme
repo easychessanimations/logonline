@@ -1,0 +1,69 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620388762097,
+    "lastSeen": 1620397617015,
+    "firstSeenTime": "11:59:22 AM",
+    "lastSeenTime": "2:26:57 PM",
+    "onlineDurationMins": 147.58196666666666
+  },
+  "take_with_check@lichess": {
+    "id": "take_with_check",
+    "provider": "lichess",
+    "username": "Take_With_Check",
+    "firstSeen": 1620391664773,
+    "lastSeen": 1620397792458,
+    "firstSeenTime": "12:47:44 PM",
+    "lastSeenTime": "2:29:52 PM",
+    "onlineDurationMins": 102.12808333333334
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1620391976534,
+    "lastSeen": 1620397980197,
+    "firstSeenTime": "12:52:56 PM",
+    "lastSeenTime": "2:27:07 PM",
+    "onlineDurationMins": 94.18195
+  },
+  "sai_chess_engine@lichess": {
+    "id": "sai_chess_engine",
+    "provider": "lichess",
+    "username": "Sai_Chess_Engine",
+    "firstSeen": 1620395995354,
+    "lastSeen": 1620397976475,
+    "firstSeenTime": "1:59:55 PM",
+    "lastSeenTime": "2:29:41 PM",
+    "onlineDurationMins": 29.769366666666667
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620396160642,
+    "lastSeen": 1620397973875,
+    "firstSeenTime": "2:02:40 PM",
+    "lastSeenTime": "2:27:43 PM",
+    "onlineDurationMins": 25.042883333333332
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620397480586,
+    "lastSeen": 1620397795199,
+    "firstSeenTime": "2:24:40 PM",
+    "lastSeenTime": "2:29:55 PM",
+    "onlineDurationMins": 5.24355
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620397993899,
+    "lastSeen": 1620397993899
+  }
+}
