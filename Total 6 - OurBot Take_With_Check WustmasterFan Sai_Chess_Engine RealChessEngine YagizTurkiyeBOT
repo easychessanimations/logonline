@@ -1,0 +1,53 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620388762097,
+    "lastSeen": 1620397090794,
+    "firstSeenTime": "11:59:22 AM",
+    "lastSeenTime": "1:51:56 PM",
+    "onlineDurationMins": 112.58105
+  },
+  "take_with_check@lichess": {
+    "id": "take_with_check",
+    "provider": "lichess",
+    "username": "Take_With_Check",
+    "firstSeen": 1620391664773,
+    "lastSeen": 1620397142260,
+    "firstSeenTime": "12:47:44 PM",
+    "lastSeenTime": "1:57:05 PM",
+    "onlineDurationMins": 69.34798333333333
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1620391976534,
+    "lastSeen": 1620396972751,
+    "firstSeenTime": "12:52:56 PM",
+    "lastSeenTime": "1:52:07 PM",
+    "onlineDurationMins": 59.182316666666665
+  },
+  "sai_chess_engine@lichess": {
+    "id": "sai_chess_engine",
+    "provider": "lichess",
+    "username": "Sai_Chess_Engine",
+    "firstSeen": 1620395995354,
+    "lastSeen": 1620397107401
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620396160642,
+    "lastSeen": 1620397003041
+  },
+  "yagizturkiyebot@lichess": {
+    "id": "yagizturkiyebot",
+    "provider": "lichess",
+    "username": "YagizTurkiyeBOT",
+    "firstSeen": 1620396926762,
+    "lastSeen": 1620396959806
+  }
+}
