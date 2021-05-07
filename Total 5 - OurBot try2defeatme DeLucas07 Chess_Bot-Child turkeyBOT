@@ -1,0 +1,37 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620367621882,
+    "lastSeen": 1620371124815
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620368807619,
+    "lastSeen": 1620370790650
+  },
+  "delucas07@lichess": {
+    "id": "delucas07",
+    "provider": "lichess",
+    "username": "DeLucas07",
+    "firstSeen": 1620369579021,
+    "lastSeen": 1620370851779
+  },
+  "chess_bot-child@lichess": {
+    "id": "chess_bot-child",
+    "provider": "lichess",
+    "username": "Chess_Bot-Child",
+    "firstSeen": 1620370820440,
+    "lastSeen": 1620371174083
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1620371197520,
+    "lastSeen": 1620371197520
+  }
+}
