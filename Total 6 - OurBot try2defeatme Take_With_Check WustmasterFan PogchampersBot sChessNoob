@@ -1,0 +1,50 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620388762097,
+    "lastSeen": 1620392594093,
+    "firstSeenTime": "11:59:22 AM",
+    "lastSeenTime": "12:39:51 PM",
+    "onlineDurationMins": 40.49786666666667
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620388791191,
+    "lastSeen": 1620392829198,
+    "firstSeenTime": "11:59:51 AM",
+    "lastSeenTime": "12:35:52 PM",
+    "onlineDurationMins": 36.020516666666666
+  },
+  "take_with_check@lichess": {
+    "id": "take_with_check",
+    "provider": "lichess",
+    "username": "Take_With_Check",
+    "firstSeen": 1620391664773,
+    "lastSeen": 1620392839977
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1620391976534,
+    "lastSeen": 1620392643301
+  },
+  "pogchampersbot@lichess": {
+    "id": "pogchampersbot",
+    "provider": "lichess",
+    "username": "PogchampersBot",
+    "firstSeen": 1620392734007,
+    "lastSeen": 1620392748257
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620392861776,
+    "lastSeen": 1620392861776
+  }
+}
