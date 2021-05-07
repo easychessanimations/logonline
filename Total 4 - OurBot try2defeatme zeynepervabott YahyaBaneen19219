@@ -1,0 +1,30 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620367621882,
+    "lastSeen": 1620377299913
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620368807619,
+    "lastSeen": 1620377034210
+  },
+  "zeynepervabott@lichess": {
+    "id": "zeynepervabott",
+    "provider": "lichess",
+    "username": "zeynepervabott",
+    "firstSeen": 1620376588683,
+    "lastSeen": 1620377308543
+  },
+  "yahyabaneen19219@lichess": {
+    "id": "yahyabaneen19219",
+    "provider": "lichess",
+    "username": "YahyaBaneen19219",
+    "firstSeen": 1620377424201,
+    "lastSeen": 1620377424201
+  }
+}
