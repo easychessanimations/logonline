@@ -1,0 +1,37 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620456650984,
+    "lastSeen": 1620459411000
+  },
+  "lolchessbot497@lichess": {
+    "id": "lolchessbot497",
+    "provider": "lichess",
+    "username": "lolchessbot497",
+    "firstSeen": 1620457553543,
+    "lastSeen": 1620459181143
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620458221752,
+    "lastSeen": 1620459264471
+  },
+  "normalblitzbot0@lichess": {
+    "id": "normalblitzbot0",
+    "provider": "lichess",
+    "username": "normalblitzbot0",
+    "firstSeen": 1620458450304,
+    "lastSeen": 1620459155509
+  },
+  "altuganadolu005@lichess": {
+    "id": "altuganadolu005",
+    "provider": "lichess",
+    "username": "altuganadolu005",
+    "firstSeen": 1620458582643,
+    "lastSeen": 1620458860339
+  }
+}
