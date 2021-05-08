@@ -3,30 +3,30 @@
     "id": "ourbot",
     "provider": "lichess",
     "username": "OurBot",
-    "firstSeen": 1620367621882,
-    "lastSeen": 1620386171758,
-    "firstSeenTime": "6:07:01 AM",
-    "lastSeenTime": "11:01:25 AM",
-    "onlineDurationMins": 294.3854166666667
+    "firstSeen": 1620463226859,
+    "lastSeen": 1620467409325,
+    "firstSeenTime": "8:40:26 AM",
+    "lastSeenTime": "9:50:09 AM",
+    "onlineDurationMins": 69.70776666666667
   },
   "try2defeatme@lichess": {
     "id": "try2defeatme",
     "provider": "lichess",
     "username": "try2defeatme",
-    "firstSeen": 1620368807619,
-    "lastSeen": 1620386150789,
-    "firstSeenTime": "6:26:47 AM",
-    "lastSeenTime": "11:04:50 AM",
-    "onlineDurationMins": 278.0543666666667
+    "firstSeen": 1620466553751,
+    "lastSeen": 1620467739067,
+    "firstSeenTime": "9:35:53 AM",
+    "lastSeenTime": "9:52:14 AM",
+    "onlineDurationMins": 16.351966666666666
   },
   "schessnoob@lichess": {
     "id": "schessnoob",
     "provider": "lichess",
     "username": "sChessNoob",
-    "firstSeen": 1620385902116,
-    "lastSeen": 1620385902780,
-    "firstSeenTime": "11:11:42 AM",
-    "lastSeenTime": "11:11:42 AM",
+    "firstSeen": 1620467571917,
+    "lastSeen": 1620467571917,
+    "firstSeenTime": "9:52:51 AM",
+    "lastSeenTime": "9:52:51 AM",
     "onlineDurationMins": 0
   }
 }
