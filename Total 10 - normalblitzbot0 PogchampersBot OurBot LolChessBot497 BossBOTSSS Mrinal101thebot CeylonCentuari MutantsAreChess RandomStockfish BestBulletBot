@@ -1,0 +1,78 @@
+{
+  "normalblitzbot0@lichess": {
+    "id": "normalblitzbot0",
+    "provider": "lichess",
+    "username": "normalblitzbot0",
+    "firstSeen": 1620475661348,
+    "lastSeen": 1620493828493,
+    "firstSeenTime": "12:07:41 PM",
+    "lastSeenTime": "3:12:28 PM",
+    "onlineDurationMins": 184.79408333333333
+  },
+  "pogchampersbot@lichess": {
+    "id": "pogchampersbot",
+    "provider": "lichess",
+    "username": "PogchampersBot",
+    "firstSeen": 1620485053245,
+    "lastSeen": 1620494105422,
+    "firstSeenTime": "2:44:13 PM",
+    "lastSeenTime": "3:09:16 PM",
+    "onlineDurationMins": 25.050083333333333
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620490490045,
+    "lastSeen": 1620494010411
+  },
+  "lolchessbot497@lichess": {
+    "id": "lolchessbot497",
+    "provider": "lichess",
+    "username": "LolChessBot497",
+    "firstSeen": 1620491141780,
+    "lastSeen": 1620493841708
+  },
+  "bossbotsss@lichess": {
+    "id": "bossbotsss",
+    "provider": "lichess",
+    "username": "BossBOTSSS",
+    "firstSeen": 1620491641148,
+    "lastSeen": 1620494333250
+  },
+  "mrinal101thebot@lichess": {
+    "id": "mrinal101thebot",
+    "provider": "lichess",
+    "username": "Mrinal101thebot",
+    "firstSeen": 1620493148956,
+    "lastSeen": 1620494400601
+  },
+  "ceyloncentuari@lichess": {
+    "id": "ceyloncentuari",
+    "provider": "lichess",
+    "username": "CeylonCentuari",
+    "firstSeen": 1620493402130,
+    "lastSeen": 1620493664208
+  },
+  "mutantsarechess@lichess": {
+    "id": "mutantsarechess",
+    "provider": "lichess",
+    "username": "MutantsAreChess",
+    "firstSeen": 1620493434817,
+    "lastSeen": 1620493759064
+  },
+  "randomstockfish@lichess": {
+    "id": "randomstockfish",
+    "provider": "lichess",
+    "username": "RandomStockfish",
+    "firstSeen": 1620493486536,
+    "lastSeen": 1620494373078
+  },
+  "bestbulletbot@lichess": {
+    "id": "bestbulletbot",
+    "provider": "lichess",
+    "username": "BestBulletBot",
+    "firstSeen": 1620493759663,
+    "lastSeen": 1620494105235
+  }
+}
