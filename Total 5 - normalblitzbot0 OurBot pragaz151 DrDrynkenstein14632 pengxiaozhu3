@@ -1,0 +1,40 @@
+{
+  "normalblitzbot0@lichess": {
+    "id": "normalblitzbot0",
+    "provider": "lichess",
+    "username": "normalblitzbot0",
+    "firstSeen": 1620458450304,
+    "lastSeen": 1620464968019,
+    "firstSeenTime": "7:20:50 AM",
+    "lastSeenTime": "8:16:33 AM",
+    "onlineDurationMins": 55.71815
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620463226859,
+    "lastSeen": 1620465171014
+  },
+  "pragaz151@lichess": {
+    "id": "pragaz151",
+    "provider": "lichess",
+    "username": "pragaz151",
+    "firstSeen": 1620464590341,
+    "lastSeen": 1620464625710
+  },
+  "drdrynkenstein14632@lichess": {
+    "id": "drdrynkenstein14632",
+    "provider": "lichess",
+    "username": "DrDrynkenstein14632",
+    "firstSeen": 1620464647962,
+    "lastSeen": 1620464657393
+  },
+  "pengxiaozhu3@lichess": {
+    "id": "pengxiaozhu3",
+    "provider": "lichess",
+    "username": "pengxiaozhu3",
+    "firstSeen": 1620465194005,
+    "lastSeen": 1620465194005
+  }
+}
