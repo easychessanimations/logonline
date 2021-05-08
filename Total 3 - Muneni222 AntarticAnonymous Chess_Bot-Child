@@ -4,20 +4,29 @@
     "provider": "lichess",
     "username": "Muneni222",
     "firstSeen": 1620434485768,
-    "lastSeen": 1620437607749
+    "lastSeen": 1620439587754,
+    "firstSeenTime": "12:41:25 AM",
+    "lastSeenTime": "1:44:27 AM",
+    "onlineDurationMins": 63.0341
   },
   "antarticanonymous@lichess": {
     "id": "antarticanonymous",
     "provider": "lichess",
     "username": "AntarticAnonymous",
     "firstSeen": 1620436355772,
-    "lastSeen": 1620437898219
+    "lastSeen": 1620439897918,
+    "firstSeenTime": "1:12:35 AM",
+    "lastSeenTime": "1:47:43 AM",
+    "onlineDurationMins": 35.127266666666664
   },
   "chess_bot-child@lichess": {
     "id": "chess_bot-child",
     "provider": "lichess",
     "username": "Chess_Bot-Child",
     "firstSeen": 1620436400681,
-    "lastSeen": 1620437904604
+    "lastSeen": 1620439799971,
+    "firstSeenTime": "1:13:20 AM",
+    "lastSeenTime": "1:47:23 AM",
+    "onlineDurationMins": 34.05141666666667
   }
 }
