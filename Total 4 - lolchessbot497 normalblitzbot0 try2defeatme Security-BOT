@@ -1,0 +1,36 @@
+{
+  "lolchessbot497@lichess": {
+    "id": "lolchessbot497",
+    "provider": "lichess",
+    "username": "lolchessbot497",
+    "firstSeen": 1620457553543,
+    "lastSeen": 1620462967792,
+    "firstSeenTime": "7:05:53 AM",
+    "lastSeenTime": "8:16:05 AM",
+    "onlineDurationMins": 70.19663333333334
+  },
+  "normalblitzbot0@lichess": {
+    "id": "normalblitzbot0",
+    "provider": "lichess",
+    "username": "normalblitzbot0",
+    "firstSeen": 1620458450304,
+    "lastSeen": 1620462513675,
+    "firstSeenTime": "7:20:50 AM",
+    "lastSeenTime": "8:16:33 AM",
+    "onlineDurationMins": 55.71815
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620462285989,
+    "lastSeen": 1620462297095
+  },
+  "security-bot@lichess": {
+    "id": "security-bot",
+    "provider": "lichess",
+    "username": "Security-BOT",
+    "firstSeen": 1620462374036,
+    "lastSeen": 1620462515006
+  }
+}
