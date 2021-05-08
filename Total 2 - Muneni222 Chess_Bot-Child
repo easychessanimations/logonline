@@ -1,0 +1,22 @@
+{
+  "muneni222@lichess": {
+    "id": "muneni222",
+    "provider": "lichess",
+    "username": "Muneni222",
+    "firstSeen": 1620434485768,
+    "lastSeen": 1620444207753,
+    "firstSeenTime": "12:41:25 AM",
+    "lastSeenTime": "3:12:27 AM",
+    "onlineDurationMins": 151.03203333333335
+  },
+  "chess_bot-child@lichess": {
+    "id": "chess_bot-child",
+    "provider": "lichess",
+    "username": "Chess_Bot-Child",
+    "firstSeen": 1620436400681,
+    "lastSeen": 1620444002214,
+    "firstSeenTime": "1:13:20 AM",
+    "lastSeenTime": "3:11:12 AM",
+    "onlineDurationMins": 117.857
+  }
+}
