@@ -1,0 +1,66 @@
+{
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620466553751,
+    "lastSeen": 1620488490557,
+    "firstSeenTime": "9:35:53 AM",
+    "lastSeenTime": "3:12:34 PM",
+    "onlineDurationMins": 336.67225
+  },
+  "normalblitzbot0@lichess": {
+    "id": "normalblitzbot0",
+    "provider": "lichess",
+    "username": "normalblitzbot0",
+    "firstSeen": 1620475661348,
+    "lastSeen": 1620488853504,
+    "firstSeenTime": "12:07:41 PM",
+    "lastSeenTime": "3:12:28 PM",
+    "onlineDurationMins": 184.79408333333333
+  },
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1620479230738,
+    "lastSeen": 1620488257224,
+    "firstSeenTime": "1:07:10 PM",
+    "lastSeenTime": "3:12:37 PM",
+    "onlineDurationMins": 125.44271666666667
+  },
+  "xx_knightmare_xx@lichess": {
+    "id": "xx_knightmare_xx",
+    "provider": "lichess",
+    "username": "xx_knightmare_xx",
+    "firstSeen": 1620484528459,
+    "lastSeen": 1620489031153,
+    "firstSeenTime": "2:35:28 PM",
+    "lastSeenTime": "3:12:42 PM",
+    "onlineDurationMins": 37.2374
+  },
+  "pogchampersbot@lichess": {
+    "id": "pogchampersbot",
+    "provider": "lichess",
+    "username": "PogchampersBot",
+    "firstSeen": 1620485053245,
+    "lastSeen": 1620488556193,
+    "firstSeenTime": "2:44:13 PM",
+    "lastSeenTime": "3:09:16 PM",
+    "onlineDurationMins": 25.050083333333333
+  },
+  "apollo34@lichess": {
+    "id": "apollo34",
+    "provider": "lichess",
+    "username": "Apollo34",
+    "firstSeen": 1620487940646,
+    "lastSeen": 1620488808830
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620488184085,
+    "lastSeen": 1620488851243
+  }
+}
