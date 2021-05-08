@@ -1,0 +1,30 @@
+{
+  "mega_striking_power@lichess": {
+    "id": "mega_striking_power",
+    "provider": "lichess",
+    "username": "MEGA_Striking_Power",
+    "firstSeen": 1620500427799,
+    "lastSeen": 1620505480542
+  },
+  "pogchampersbot@lichess": {
+    "id": "pogchampersbot",
+    "provider": "lichess",
+    "username": "PogchampersBot",
+    "firstSeen": 1620501244602,
+    "lastSeen": 1620506104523
+  },
+  "lolchessbot497@lichess": {
+    "id": "lolchessbot497",
+    "provider": "lichess",
+    "username": "LolChessBot497",
+    "firstSeen": 1620502792317,
+    "lastSeen": 1620505796043
+  },
+  "firebeans@lichess": {
+    "id": "firebeans",
+    "provider": "lichess",
+    "username": "FireBeans",
+    "firstSeen": 1620503354420,
+    "lastSeen": 1620506338949
+  }
+}
