@@ -1,0 +1,16 @@
+{
+  "mutantsarechess@lichess": {
+    "id": "mutantsarechess",
+    "provider": "lichess",
+    "username": "MutantsAreChess",
+    "firstSeen": 1620454263926,
+    "lastSeen": 1620455192854
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620455325787,
+    "lastSeen": 1620455325787
+  }
+}
