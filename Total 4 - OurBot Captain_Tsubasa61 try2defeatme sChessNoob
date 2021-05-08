@@ -1,0 +1,30 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620463226859,
+    "lastSeen": 1620467409325
+  },
+  "captain_tsubasa61@lichess": {
+    "id": "captain_tsubasa61",
+    "provider": "lichess",
+    "username": "Captain_Tsubasa61",
+    "firstSeen": 1620466414332,
+    "lastSeen": 1620466754853
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620466553751,
+    "lastSeen": 1620467534869
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620467571917,
+    "lastSeen": 1620467571917
+  }
+}
