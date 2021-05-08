@@ -1,0 +1,61 @@
+{
+  "pogchampersbot@lichess": {
+    "id": "pogchampersbot",
+    "provider": "lichess",
+    "username": "PogchampersBot",
+    "firstSeen": 1620485053245,
+    "lastSeen": 1620494528471,
+    "firstSeenTime": "2:44:13 PM",
+    "lastSeenTime": "3:09:16 PM",
+    "onlineDurationMins": 25.050083333333333
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620490490045,
+    "lastSeen": 1620494513487
+  },
+  "lolchessbot497@lichess": {
+    "id": "lolchessbot497",
+    "provider": "lichess",
+    "username": "LolChessBot497",
+    "firstSeen": 1620491141780,
+    "lastSeen": 1620494663696
+  },
+  "bossbotsss@lichess": {
+    "id": "bossbotsss",
+    "provider": "lichess",
+    "username": "BossBOTSSS",
+    "firstSeen": 1620491641148,
+    "lastSeen": 1620494642253
+  },
+  "mrinal101thebot@lichess": {
+    "id": "mrinal101thebot",
+    "provider": "lichess",
+    "username": "Mrinal101thebot",
+    "firstSeen": 1620493148956,
+    "lastSeen": 1620494651843
+  },
+  "randomstockfish@lichess": {
+    "id": "randomstockfish",
+    "provider": "lichess",
+    "username": "RandomStockfish",
+    "firstSeen": 1620493486536,
+    "lastSeen": 1620494710063
+  },
+  "bestbulletbot@lichess": {
+    "id": "bestbulletbot",
+    "provider": "lichess",
+    "username": "BestBulletBot",
+    "firstSeen": 1620493759663,
+    "lastSeen": 1620494732376
+  },
+  "xx_knightmare_xx@lichess": {
+    "id": "xx_knightmare_xx",
+    "provider": "lichess",
+    "username": "xx_knightmare_xx",
+    "firstSeen": 1620494459097,
+    "lastSeen": 1620494721542
+  }
+}
