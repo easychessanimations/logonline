@@ -1,0 +1,42 @@
+{
+  "bababot789@lichess": {
+    "id": "bababot789",
+    "provider": "lichess",
+    "username": "bababot789",
+    "firstSeen": 1620557739335,
+    "lastSeen": 1620565828596,
+    "firstSeenTime": "10:55:39 AM",
+    "lastSeenTime": "12:48:35 PM",
+    "onlineDurationMins": 112.93798333333334
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620562437399,
+    "lastSeen": 1620565875739,
+    "firstSeenTime": "12:13:57 PM",
+    "lastSeenTime": "12:46:00 PM",
+    "onlineDurationMins": 32.059783333333336
+  },
+  "bot_yusuf_678@lichess": {
+    "id": "bot_yusuf_678",
+    "provider": "lichess",
+    "username": "BOT_Yusuf_678",
+    "firstSeen": 1620563377033,
+    "lastSeen": 1620565305399,
+    "firstSeenTime": "12:29:37 PM",
+    "lastSeenTime": "12:55:02 PM",
+    "onlineDurationMins": 25.432233333333333
+  },
+  "feuer2@lichess": {
+    "id": "feuer2",
+    "provider": "lichess",
+    "username": "Feuer2",
+    "firstSeen": 1620564454009,
+    "lastSeen": 1620565099469,
+    "firstSeenTime": "12:47:34 PM",
+    "lastSeenTime": "12:47:34 PM",
+    "onlineDurationMins": 0.0019666666666666665
+  }
+}
