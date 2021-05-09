@@ -1,0 +1,29 @@
+{
+  "bababot789@lichess": {
+    "id": "bababot789",
+    "provider": "lichess",
+    "username": "bababot789",
+    "firstSeen": 1620557739335,
+    "lastSeen": 1620565828596,
+    "firstSeenTime": "10:55:39 AM",
+    "lastSeenTime": "12:48:35 PM",
+    "onlineDurationMins": 112.93798333333334
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620562437399,
+    "lastSeen": 1620565876041,
+    "firstSeenTime": "12:13:57 PM",
+    "lastSeenTime": "12:46:00 PM",
+    "onlineDurationMins": 32.059783333333336
+  },
+  "the_unbeatable-b0t12@lichess": {
+    "id": "the_unbeatable-b0t12",
+    "provider": "lichess",
+    "username": "The_Unbeatable-B0T12",
+    "firstSeen": 1620566065524,
+    "lastSeen": 1620566238613
+  }
+}
