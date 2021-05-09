@@ -1,0 +1,59 @@
+{
+  "rock_you@lichess": {
+    "id": "rock_you",
+    "provider": "lichess",
+    "username": "rock_you",
+    "firstSeen": 1620540206715,
+    "lastSeen": 1620541954437,
+    "firstSeenTime": "6:03:26 AM",
+    "lastSeenTime": "6:32:34 AM",
+    "onlineDurationMins": 29.1287
+  },
+  "johan_jinesh@lichess": {
+    "id": "johan_jinesh",
+    "provider": "lichess",
+    "username": "Johan_Jinesh",
+    "firstSeen": 1620540244375,
+    "lastSeen": 1620542328618,
+    "firstSeenTime": "6:04:04 AM",
+    "lastSeenTime": "6:38:48 AM",
+    "onlineDurationMins": 34.737383333333334
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620540299017,
+    "lastSeen": 1620541798986,
+    "firstSeenTime": "6:04:59 AM",
+    "lastSeenTime": "6:29:58 AM",
+    "onlineDurationMins": 24.999483333333334
+  },
+  "pogchampersbot@lichess": {
+    "id": "pogchampersbot",
+    "provider": "lichess",
+    "username": "PogchampersBot",
+    "firstSeen": 1620540726679,
+    "lastSeen": 1620542242789,
+    "firstSeenTime": "6:12:06 AM",
+    "lastSeenTime": "6:37:22 AM",
+    "onlineDurationMins": 25.2685
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620540734310,
+    "lastSeen": 1620542392698,
+    "firstSeenTime": "6:12:14 AM",
+    "lastSeenTime": "6:39:52 AM",
+    "onlineDurationMins": 27.6398
+  },
+  "normalblitzbot0@lichess": {
+    "id": "normalblitzbot0",
+    "provider": "lichess",
+    "username": "normalblitzbot0",
+    "firstSeen": 1620542489829,
+    "lastSeen": 1620542489829
+  }
+}
