@@ -1,0 +1,82 @@
+{
+  "normalblitzbot0@lichess": {
+    "id": "normalblitzbot0",
+    "provider": "lichess",
+    "username": "normalblitzbot0",
+    "firstSeen": 1620553696572,
+    "lastSeen": 1620563544377,
+    "firstSeenTime": "9:48:16 AM",
+    "lastSeenTime": "12:32:24 PM",
+    "onlineDurationMins": 164.13008333333335
+  },
+  "bababot789@lichess": {
+    "id": "bababot789",
+    "provider": "lichess",
+    "username": "bababot789",
+    "firstSeen": 1620557739335,
+    "lastSeen": 1620563852410,
+    "firstSeenTime": "10:55:39 AM",
+    "lastSeenTime": "12:37:32 PM",
+    "onlineDurationMins": 101.88458333333334
+  },
+  "orekk_enes@lichess": {
+    "id": "orekk_enes",
+    "provider": "lichess",
+    "username": "orekk_enes",
+    "firstSeen": 1620561769592,
+    "lastSeen": 1620563846718,
+    "firstSeenTime": "12:02:49 PM",
+    "lastSeenTime": "12:37:26 PM",
+    "onlineDurationMins": 34.618766666666666
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620562437399,
+    "lastSeen": 1620563742906,
+    "firstSeenTime": "12:13:57 PM",
+    "lastSeenTime": "12:35:42 PM",
+    "onlineDurationMins": 21.75845
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620563019019,
+    "lastSeen": 1620563996411,
+    "firstSeenTime": "12:23:39 PM",
+    "lastSeenTime": "12:39:56 PM",
+    "onlineDurationMins": 16.289866666666665
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620563353692,
+    "lastSeen": 1620564050861,
+    "firstSeenTime": "12:29:13 PM",
+    "lastSeenTime": "12:29:16 PM",
+    "onlineDurationMins": 0.053316666666666665
+  },
+  "bot_yusuf_678@lichess": {
+    "id": "bot_yusuf_678",
+    "provider": "lichess",
+    "username": "BOT_Yusuf_678",
+    "firstSeen": 1620563377033,
+    "lastSeen": 1620564135176,
+    "firstSeenTime": "12:29:37 PM",
+    "lastSeenTime": "12:31:24 PM",
+    "onlineDurationMins": 1.7937666666666667
+  },
+  "keremcura9@lichess": {
+    "id": "keremcura9",
+    "provider": "lichess",
+    "username": "keremcura9",
+    "firstSeen": 1620563725747,
+    "lastSeen": 1620563958955,
+    "firstSeenTime": "12:35:25 PM",
+    "lastSeenTime": "12:39:18 PM",
+    "onlineDurationMins": 3.8868
+  }
+}
