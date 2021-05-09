@@ -1,0 +1,33 @@
+{
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1620571285986,
+    "lastSeen": 1620588481892,
+    "firstSeenTime": "2:41:25 PM",
+    "lastSeenTime": "4:08:57 PM",
+    "onlineDurationMins": 87.52416666666667
+  },
+  "kevbot_sf@lichess": {
+    "id": "kevbot_sf",
+    "provider": "lichess",
+    "username": "KevBot_SF",
+    "firstSeen": 1620579888232,
+    "lastSeen": 1620588827282
+  },
+  "wittenbergadmin@lichess": {
+    "id": "wittenbergadmin",
+    "provider": "lichess",
+    "username": "WittenbergAdmin",
+    "firstSeen": 1620587188693,
+    "lastSeen": 1620588561219
+  },
+  "premedith@lichess": {
+    "id": "premedith",
+    "provider": "lichess",
+    "username": "Premedith",
+    "firstSeen": 1620588851484,
+    "lastSeen": 1620589161965
+  }
+}
