@@ -1,0 +1,32 @@
+{
+  "bababot789@lichess": {
+    "id": "bababot789",
+    "provider": "lichess",
+    "username": "bababot789",
+    "firstSeen": 1620557739335,
+    "lastSeen": 1620574768105,
+    "firstSeenTime": "10:55:39 AM",
+    "lastSeenTime": "3:06:31 PM",
+    "onlineDurationMins": 250.86785
+  },
+  "kevbot_sf@lichess": {
+    "id": "kevbot_sf",
+    "provider": "lichess",
+    "username": "KevBot_SF",
+    "firstSeen": 1620569921300,
+    "lastSeen": 1620574439611,
+    "firstSeenTime": "2:18:41 PM",
+    "lastSeenTime": "3:08:45 PM",
+    "onlineDurationMins": 50.07756666666667
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1620571285986,
+    "lastSeen": 1620574560679,
+    "firstSeenTime": "2:41:25 PM",
+    "lastSeenTime": "3:06:43 PM",
+    "onlineDurationMins": 25.287116666666666
+  }
+}
