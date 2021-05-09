@@ -1,0 +1,30 @@
+{
+  "mega_striking_power@lichess": {
+    "id": "mega_striking_power",
+    "provider": "lichess",
+    "username": "MEGA_Striking_Power",
+    "firstSeen": 1620532105810,
+    "lastSeen": 1620535216152
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620532207926,
+    "lastSeen": 1620535508059
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1620534285291,
+    "lastSeen": 1620535593671
+  },
+  "xx_knightmare_xx@lichess": {
+    "id": "xx_knightmare_xx",
+    "provider": "lichess",
+    "username": "xX_knightmare_Xx",
+    "firstSeen": 1620535738451,
+    "lastSeen": 1620535738451
+  }
+}
