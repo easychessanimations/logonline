@@ -1,0 +1,32 @@
+{
+  "rock_you@lichess": {
+    "id": "rock_you",
+    "provider": "lichess",
+    "username": "rock_you",
+    "firstSeen": 1620540206715,
+    "lastSeen": 1620543967343,
+    "firstSeenTime": "6:03:26 AM",
+    "lastSeenTime": "6:43:26 AM",
+    "onlineDurationMins": 39.99176666666666
+  },
+  "johan_jinesh@lichess": {
+    "id": "johan_jinesh",
+    "provider": "lichess",
+    "username": "Johan_Jinesh",
+    "firstSeen": 1620540244375,
+    "lastSeen": 1620543699533,
+    "firstSeenTime": "6:04:04 AM",
+    "lastSeenTime": "6:45:11 AM",
+    "onlineDurationMins": 41.1188
+  },
+  "normalblitzbot0@lichess": {
+    "id": "normalblitzbot0",
+    "provider": "lichess",
+    "username": "normalblitzbot0",
+    "firstSeen": 1620542489829,
+    "lastSeen": 1620543934702,
+    "firstSeenTime": "6:41:29 AM",
+    "lastSeenTime": "6:45:44 AM",
+    "onlineDurationMins": 4.237183333333333
+  }
+}
