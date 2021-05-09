@@ -1,0 +1,46 @@
+{
+  "rock_you@lichess": {
+    "id": "rock_you",
+    "provider": "lichess",
+    "username": "rock_you",
+    "firstSeen": 1620540206715,
+    "lastSeen": 1620546248606,
+    "firstSeenTime": "6:03:26 AM",
+    "lastSeenTime": "6:43:26 AM",
+    "onlineDurationMins": 39.99176666666666
+  },
+  "johan_jinesh@lichess": {
+    "id": "johan_jinesh",
+    "provider": "lichess",
+    "username": "Johan_Jinesh",
+    "firstSeen": 1620540244375,
+    "lastSeen": 1620545765507,
+    "firstSeenTime": "6:04:04 AM",
+    "lastSeenTime": "6:45:11 AM",
+    "onlineDurationMins": 41.1188
+  },
+  "normalblitzbot0@lichess": {
+    "id": "normalblitzbot0",
+    "provider": "lichess",
+    "username": "normalblitzbot0",
+    "firstSeen": 1620542489829,
+    "lastSeen": 1620546026246,
+    "firstSeenTime": "6:41:29 AM",
+    "lastSeenTime": "6:45:44 AM",
+    "onlineDurationMins": 4.237183333333333
+  },
+  "bot-scam-1992@lichess": {
+    "id": "bot-scam-1992",
+    "provider": "lichess",
+    "username": "Bot-Scam-1992",
+    "firstSeen": 1620543976266,
+    "lastSeen": 1620546040790
+  },
+  "mutantsarechess@lichess": {
+    "id": "mutantsarechess",
+    "provider": "lichess",
+    "username": "MutantsAreChess",
+    "firstSeen": 1620546259570,
+    "lastSeen": 1620546259570
+  }
+}
