@@ -1,0 +1,33 @@
+{
+  "bababot789@lichess": {
+    "id": "bababot789",
+    "provider": "lichess",
+    "username": "bababot789",
+    "firstSeen": 1620557739335,
+    "lastSeen": 1620571467996,
+    "firstSeenTime": "10:55:39 AM",
+    "lastSeenTime": "12:48:35 PM",
+    "onlineDurationMins": 112.93798333333334
+  },
+  "kevbot_sf@lichess": {
+    "id": "kevbot_sf",
+    "provider": "lichess",
+    "username": "KevBot_SF",
+    "firstSeen": 1620569921300,
+    "lastSeen": 1620571856146
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620571272828,
+    "lastSeen": 1620571561533
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1620571285986,
+    "lastSeen": 1620571310070
+  }
+}
