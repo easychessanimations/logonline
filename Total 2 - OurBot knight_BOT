@@ -1,0 +1,19 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620666614801,
+    "lastSeen": 1620672021489,
+    "firstSeenTime": "5:10:14 PM",
+    "lastSeenTime": "6:18:04 PM",
+    "onlineDurationMins": 67.83241666666666
+  },
+  "knight_bot@lichess": {
+    "id": "knight_bot",
+    "provider": "lichess",
+    "username": "knight_BOT",
+    "firstSeen": 1620671089340,
+    "lastSeen": 1620671731424
+  }
+}
