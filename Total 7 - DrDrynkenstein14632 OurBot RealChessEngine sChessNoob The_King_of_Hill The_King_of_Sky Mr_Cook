@@ -1,0 +1,69 @@
+{
+  "drdrynkenstein14632@lichess": {
+    "id": "drdrynkenstein14632",
+    "provider": "lichess",
+    "username": "DrDrynkenstein14632",
+    "firstSeen": 1620645142794,
+    "lastSeen": 1620654269064,
+    "firstSeenTime": "11:12:22 AM",
+    "lastSeenTime": "1:32:29 PM",
+    "onlineDurationMins": 140.10435
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620649963581,
+    "lastSeen": 1620654001666,
+    "firstSeenTime": "12:32:43 PM",
+    "lastSeenTime": "1:30:23 PM",
+    "onlineDurationMins": 57.66793333333333
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620651082614,
+    "lastSeen": 1620654298746,
+    "firstSeenTime": "12:51:22 PM",
+    "lastSeenTime": "1:33:02 PM",
+    "onlineDurationMins": 41.659333333333336
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620652917347,
+    "lastSeen": 1620653639366,
+    "firstSeenTime": "1:21:57 PM",
+    "lastSeenTime": "1:33:59 PM",
+    "onlineDurationMins": 12.03365
+  },
+  "the_king_of_hill@lichess": {
+    "id": "the_king_of_hill",
+    "provider": "lichess",
+    "username": "The_King_of_Hill",
+    "firstSeen": 1620653490493,
+    "lastSeen": 1620653632948,
+    "firstSeenTime": "1:31:30 PM",
+    "lastSeenTime": "1:33:52 PM",
+    "onlineDurationMins": 2.37425
+  },
+  "the_king_of_sky@lichess": {
+    "id": "the_king_of_sky",
+    "provider": "lichess",
+    "username": "The_King_of_Sky",
+    "firstSeen": 1620653633647,
+    "lastSeen": 1620654378114,
+    "firstSeenTime": "1:33:53 PM",
+    "lastSeenTime": "1:33:58 PM",
+    "onlineDurationMins": 0.07733333333333334
+  },
+  "mr_cook@lichess": {
+    "id": "mr_cook",
+    "provider": "lichess",
+    "username": "Mr_Cook",
+    "firstSeen": 1620654378895,
+    "lastSeen": 1620654378895
+  }
+}
