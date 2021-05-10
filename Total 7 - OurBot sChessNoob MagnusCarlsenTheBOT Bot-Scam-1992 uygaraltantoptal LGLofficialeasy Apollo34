@@ -1,0 +1,69 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620649963581,
+    "lastSeen": 1620658247745,
+    "firstSeenTime": "12:32:43 PM",
+    "lastSeenTime": "2:50:47 PM",
+    "onlineDurationMins": 138.0694
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620657297868,
+    "lastSeen": 1620658596181,
+    "firstSeenTime": "2:34:57 PM",
+    "lastSeenTime": "2:56:36 PM",
+    "onlineDurationMins": 21.63855
+  },
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1620657363521,
+    "lastSeen": 1620657988910,
+    "firstSeenTime": "2:36:03 PM",
+    "lastSeenTime": "2:46:28 PM",
+    "onlineDurationMins": 10.42315
+  },
+  "bot-scam-1992@lichess": {
+    "id": "bot-scam-1992",
+    "provider": "lichess",
+    "username": "Bot-Scam-1992",
+    "firstSeen": 1620657653434,
+    "lastSeen": 1620658320582,
+    "firstSeenTime": "2:40:53 PM",
+    "lastSeenTime": "2:52:00 PM",
+    "onlineDurationMins": 11.119133333333334
+  },
+  "uygaraltantoptal@lichess": {
+    "id": "uygaraltantoptal",
+    "provider": "lichess",
+    "username": "uygaraltantoptal",
+    "firstSeen": 1620658122779,
+    "lastSeen": 1620658160078,
+    "firstSeenTime": "2:48:42 PM",
+    "lastSeenTime": "2:49:20 PM",
+    "onlineDurationMins": 0.62165
+  },
+  "lglofficialeasy@lichess": {
+    "id": "lglofficialeasy",
+    "provider": "lichess",
+    "username": "LGLofficialeasy",
+    "firstSeen": 1620658202789,
+    "lastSeen": 1620658211284,
+    "firstSeenTime": "2:50:02 PM",
+    "lastSeenTime": "2:50:11 PM",
+    "onlineDurationMins": 0.14158333333333334
+  },
+  "apollo34@lichess": {
+    "id": "apollo34",
+    "provider": "lichess",
+    "username": "Apollo34",
+    "firstSeen": 1620658760102,
+    "lastSeen": 1620658760102
+  }
+}
