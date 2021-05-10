@@ -1,0 +1,26 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620649963581,
+    "lastSeen": 1620661223340,
+    "firstSeenTime": "12:32:43 PM",
+    "lastSeenTime": "2:50:47 PM",
+    "onlineDurationMins": 138.0694
+  },
+  "knightwhosezni@lichess": {
+    "id": "knightwhosezni",
+    "provider": "lichess",
+    "username": "KnightWhoSezNi",
+    "firstSeen": 1620659921507,
+    "lastSeen": 1620661424365
+  },
+  "tazo-tush@lichess": {
+    "id": "tazo-tush",
+    "provider": "lichess",
+    "username": "tazo-tush",
+    "firstSeen": 1620660550867,
+    "lastSeen": 1620660722009
+  }
+}
