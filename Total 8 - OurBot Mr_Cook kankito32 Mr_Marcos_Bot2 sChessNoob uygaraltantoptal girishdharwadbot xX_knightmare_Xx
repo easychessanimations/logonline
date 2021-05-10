@@ -1,0 +1,73 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620649963581,
+    "lastSeen": 1620656423727,
+    "firstSeenTime": "12:32:43 PM",
+    "lastSeenTime": "2:03:19 PM",
+    "onlineDurationMins": 90.60543333333334
+  },
+  "mr_cook@lichess": {
+    "id": "mr_cook",
+    "provider": "lichess",
+    "username": "Mr_Cook",
+    "firstSeen": 1620654378895,
+    "lastSeen": 1620656278360,
+    "firstSeenTime": "1:46:18 PM",
+    "lastSeenTime": "2:08:39 PM",
+    "onlineDurationMins": 22.3431
+  },
+  "kankito32@lichess": {
+    "id": "kankito32",
+    "provider": "lichess",
+    "username": "kankito32",
+    "firstSeen": 1620654502631,
+    "lastSeen": 1620656007439,
+    "firstSeenTime": "1:48:22 PM",
+    "lastSeenTime": "2:08:42 PM",
+    "onlineDurationMins": 20.326433333333334
+  },
+  "mr_marcos_bot2@lichess": {
+    "id": "mr_marcos_bot2",
+    "provider": "lichess",
+    "username": "Mr_Marcos_Bot2",
+    "firstSeen": 1620654925161,
+    "lastSeen": 1620656433259,
+    "firstSeenTime": "1:55:25 PM",
+    "lastSeenTime": "2:07:43 PM",
+    "onlineDurationMins": 12.300466666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620655151951,
+    "lastSeen": 1620655886188,
+    "firstSeenTime": "1:59:11 PM",
+    "lastSeenTime": "2:11:26 PM",
+    "onlineDurationMins": 12.237283333333334
+  },
+  "uygaraltantoptal@lichess": {
+    "id": "uygaraltantoptal",
+    "provider": "lichess",
+    "username": "uygaraltantoptal",
+    "firstSeen": 1620656052352,
+    "lastSeen": 1620656054296
+  },
+  "girishdharwadbot@lichess": {
+    "id": "girishdharwadbot",
+    "provider": "lichess",
+    "username": "girishdharwadbot",
+    "firstSeen": 1620656188131,
+    "lastSeen": 1620656264095
+  },
+  "xx_knightmare_xx@lichess": {
+    "id": "xx_knightmare_xx",
+    "provider": "lichess",
+    "username": "xX_knightmare_Xx",
+    "firstSeen": 1620656584131,
+    "lastSeen": 1620656584131
+  }
+}
