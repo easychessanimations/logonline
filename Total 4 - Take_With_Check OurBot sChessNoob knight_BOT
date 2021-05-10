@@ -1,0 +1,39 @@
+{
+  "take_with_check@lichess": {
+    "id": "take_with_check",
+    "provider": "lichess",
+    "username": "Take_With_Check",
+    "firstSeen": 1620664438328,
+    "lastSeen": 1620670450706,
+    "firstSeenTime": "4:33:58 PM",
+    "lastSeenTime": "6:14:10 PM",
+    "onlineDurationMins": 100.2063
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620666614801,
+    "lastSeen": 1620670684746,
+    "firstSeenTime": "5:10:14 PM",
+    "lastSeenTime": "6:18:04 PM",
+    "onlineDurationMins": 67.83241666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620670573273,
+    "lastSeen": 1620670850233,
+    "firstSeenTime": "6:16:13 PM",
+    "lastSeenTime": "6:20:50 PM",
+    "onlineDurationMins": 4.616
+  },
+  "knight_bot@lichess": {
+    "id": "knight_bot",
+    "provider": "lichess",
+    "username": "knight_BOT",
+    "firstSeen": 1620671089340,
+    "lastSeen": 1620671089340
+  }
+}
