@@ -1,0 +1,16 @@
+{
+  "take_with_check@lichess": {
+    "id": "take_with_check",
+    "provider": "lichess",
+    "username": "Take_With_Check",
+    "firstSeen": 1620664438328,
+    "lastSeen": 1620668940569
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620666614801,
+    "lastSeen": 1620668724583
+  }
+}
