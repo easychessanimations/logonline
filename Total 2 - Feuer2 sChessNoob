@@ -1,0 +1,22 @@
+{
+  "feuer2@lichess": {
+    "id": "feuer2",
+    "provider": "lichess",
+    "username": "Feuer2",
+    "firstSeen": 1620630982678,
+    "lastSeen": 1620631173960,
+    "firstSeenTime": "7:16:22 AM",
+    "lastSeenTime": "7:16:26 AM",
+    "onlineDurationMins": 0.05895
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620631102730,
+    "lastSeen": 1620631103335,
+    "firstSeenTime": "7:18:22 AM",
+    "lastSeenTime": "7:18:22 AM",
+    "onlineDurationMins": 0
+  }
+}
