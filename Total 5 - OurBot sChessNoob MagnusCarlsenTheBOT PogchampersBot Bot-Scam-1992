@@ -1,0 +1,43 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620649963581,
+    "lastSeen": 1620657484962,
+    "firstSeenTime": "12:32:43 PM",
+    "lastSeenTime": "2:28:55 PM",
+    "onlineDurationMins": 116.2031
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620657297868,
+    "lastSeen": 1620657297868,
+    "firstSeenTime": "2:34:57 PM",
+    "lastSeenTime": "2:34:57 PM",
+    "onlineDurationMins": 0
+  },
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1620657363521,
+    "lastSeen": 1620657985720
+  },
+  "pogchampersbot@lichess": {
+    "id": "pogchampersbot",
+    "provider": "lichess",
+    "username": "PogchampersBot",
+    "firstSeen": 1620657641813,
+    "lastSeen": 1620657652481
+  },
+  "bot-scam-1992@lichess": {
+    "id": "bot-scam-1992",
+    "provider": "lichess",
+    "username": "Bot-Scam-1992",
+    "firstSeen": 1620657653434,
+    "lastSeen": 1620657710694
+  }
+}
