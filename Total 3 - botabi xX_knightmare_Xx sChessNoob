@@ -1,0 +1,32 @@
+{
+  "botabi@lichess": {
+    "id": "botabi",
+    "provider": "lichess",
+    "username": "botabi",
+    "firstSeen": 1620675970985,
+    "lastSeen": 1620676116073,
+    "firstSeenTime": "7:46:10 PM",
+    "lastSeenTime": "7:48:36 PM",
+    "onlineDurationMins": 2.4181333333333335
+  },
+  "xx_knightmare_xx@lichess": {
+    "id": "xx_knightmare_xx",
+    "provider": "lichess",
+    "username": "xX_knightmare_Xx",
+    "firstSeen": 1620676319557,
+    "lastSeen": 1620676323715,
+    "firstSeenTime": "7:51:59 PM",
+    "lastSeenTime": "7:52:03 PM",
+    "onlineDurationMins": 0.0693
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620676425536,
+    "lastSeen": 1620676425536,
+    "firstSeenTime": "7:53:45 PM",
+    "lastSeenTime": "7:53:45 PM",
+    "onlineDurationMins": 0
+  }
+}
