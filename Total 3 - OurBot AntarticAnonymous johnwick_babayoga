@@ -1,0 +1,26 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620666614801,
+    "lastSeen": 1620674121218,
+    "firstSeenTime": "5:10:14 PM",
+    "lastSeenTime": "7:02:21 PM",
+    "onlineDurationMins": 112.10631666666667
+  },
+  "antarticanonymous@lichess": {
+    "id": "antarticanonymous",
+    "provider": "lichess",
+    "username": "AntarticAnonymous",
+    "firstSeen": 1620674469321,
+    "lastSeen": 1620674480896
+  },
+  "johnwick_babayoga@lichess": {
+    "id": "johnwick_babayoga",
+    "provider": "lichess",
+    "username": "johnwick_babayoga",
+    "firstSeen": 1620674719917,
+    "lastSeen": 1620674719917
+  }
+}
