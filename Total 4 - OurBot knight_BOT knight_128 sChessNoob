@@ -1,0 +1,33 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620666614801,
+    "lastSeen": 1620672024723,
+    "firstSeenTime": "5:10:14 PM",
+    "lastSeenTime": "6:18:04 PM",
+    "onlineDurationMins": 67.83241666666666
+  },
+  "knight_bot@lichess": {
+    "id": "knight_bot",
+    "provider": "lichess",
+    "username": "knight_BOT",
+    "firstSeen": 1620671089340,
+    "lastSeen": 1620672272749
+  },
+  "knight_128@lichess": {
+    "id": "knight_128",
+    "provider": "lichess",
+    "username": "knight_128",
+    "firstSeen": 1620672273665,
+    "lastSeen": 1620672310673
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620672604469,
+    "lastSeen": 1620672604469
+  }
+}
