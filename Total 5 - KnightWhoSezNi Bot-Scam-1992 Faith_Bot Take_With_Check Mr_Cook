@@ -1,0 +1,37 @@
+{
+  "knightwhosezni@lichess": {
+    "id": "knightwhosezni",
+    "provider": "lichess",
+    "username": "KnightWhoSezNi",
+    "firstSeen": 1620663476207,
+    "lastSeen": 1620664460050
+  },
+  "bot-scam-1992@lichess": {
+    "id": "bot-scam-1992",
+    "provider": "lichess",
+    "username": "Bot-Scam-1992",
+    "firstSeen": 1620663565416,
+    "lastSeen": 1620664409261
+  },
+  "faith_bot@lichess": {
+    "id": "faith_bot",
+    "provider": "lichess",
+    "username": "Faith_Bot",
+    "firstSeen": 1620663903941,
+    "lastSeen": 1620664426653
+  },
+  "take_with_check@lichess": {
+    "id": "take_with_check",
+    "provider": "lichess",
+    "username": "Take_With_Check",
+    "firstSeen": 1620664438328,
+    "lastSeen": 1620664592206
+  },
+  "mr_cook@lichess": {
+    "id": "mr_cook",
+    "provider": "lichess",
+    "username": "Mr_Cook",
+    "firstSeen": 1620664551547,
+    "lastSeen": 1620664575001
+  }
+}
