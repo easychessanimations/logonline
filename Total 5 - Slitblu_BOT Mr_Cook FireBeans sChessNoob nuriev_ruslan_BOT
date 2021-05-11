@@ -1,0 +1,49 @@
+{
+  "slitblu_bot@lichess": {
+    "id": "slitblu_bot",
+    "provider": "lichess",
+    "username": "Slitblu_BOT",
+    "firstSeen": 1620746952929,
+    "lastSeen": 1620756916138,
+    "firstSeenTime": "3:29:12 PM",
+    "lastSeenTime": "6:03:12 PM",
+    "onlineDurationMins": 153.99785
+  },
+  "mr_cook@lichess": {
+    "id": "mr_cook",
+    "provider": "lichess",
+    "username": "Mr_Cook",
+    "firstSeen": 1620748213352,
+    "lastSeen": 1620757234510,
+    "firstSeenTime": "3:50:13 PM",
+    "lastSeenTime": "6:03:34 PM",
+    "onlineDurationMins": 133.35628333333332
+  },
+  "firebeans@lichess": {
+    "id": "firebeans",
+    "provider": "lichess",
+    "username": "FireBeans",
+    "firstSeen": 1620755373911,
+    "lastSeen": 1620757358958,
+    "firstSeenTime": "5:49:33 PM",
+    "lastSeenTime": "6:03:37 PM",
+    "onlineDurationMins": 14.056383333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620756647853,
+    "lastSeen": 1620756787349,
+    "firstSeenTime": "6:10:47 PM",
+    "lastSeenTime": "6:13:07 PM",
+    "onlineDurationMins": 2.3249333333333335
+  },
+  "nuriev_ruslan_bot@lichess": {
+    "id": "nuriev_ruslan_bot",
+    "provider": "lichess",
+    "username": "nuriev_ruslan_BOT",
+    "firstSeen": 1620757371229,
+    "lastSeen": 1620757371229
+  }
+}
