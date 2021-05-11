@@ -1,0 +1,40 @@
+{
+  "slitblu_bot@lichess": {
+    "id": "slitblu_bot",
+    "provider": "lichess",
+    "username": "Slitblu_BOT",
+    "firstSeen": 1620727427119,
+    "lastSeen": 1620740535925,
+    "firstSeenTime": "10:03:47 AM",
+    "lastSeenTime": "11:46:15 AM",
+    "onlineDurationMins": 102.47896666666666
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620735480570,
+    "lastSeen": 1620740515461
+  },
+  "bababot789@lichess": {
+    "id": "bababot789",
+    "provider": "lichess",
+    "username": "bababot789",
+    "firstSeen": 1620737509419,
+    "lastSeen": 1620740225896
+  },
+  "winner4forever@lichess": {
+    "id": "winner4forever",
+    "provider": "lichess",
+    "username": "Winner4FOREver",
+    "firstSeen": 1620739290243,
+    "lastSeen": 1620740379988
+  },
+  "botlaringucu@lichess": {
+    "id": "botlaringucu",
+    "provider": "lichess",
+    "username": "botlaringucu",
+    "firstSeen": 1620740682723,
+    "lastSeen": 1620740682723
+  }
+}
