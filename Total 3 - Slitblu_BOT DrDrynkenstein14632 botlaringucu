@@ -1,0 +1,29 @@
+{
+  "slitblu_bot@lichess": {
+    "id": "slitblu_bot",
+    "provider": "lichess",
+    "username": "Slitblu_BOT",
+    "firstSeen": 1620722655045,
+    "lastSeen": 1620725213805,
+    "firstSeenTime": "8:44:15 AM",
+    "lastSeenTime": "9:09:17 AM",
+    "onlineDurationMins": 25.038866666666667
+  },
+  "drdrynkenstein14632@lichess": {
+    "id": "drdrynkenstein14632",
+    "provider": "lichess",
+    "username": "DrDrynkenstein14632",
+    "firstSeen": 1620722859785,
+    "lastSeen": 1620724616605,
+    "firstSeenTime": "8:47:39 AM",
+    "lastSeenTime": "9:14:40 AM",
+    "onlineDurationMins": 27.005033333333333
+  },
+  "botlaringucu@lichess": {
+    "id": "botlaringucu",
+    "provider": "lichess",
+    "username": "botlaringucu",
+    "firstSeen": 1620724993187,
+    "lastSeen": 1620725391417
+  }
+}
