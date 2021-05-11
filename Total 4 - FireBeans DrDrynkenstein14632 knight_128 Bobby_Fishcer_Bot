@@ -1,0 +1,36 @@
+{
+  "firebeans@lichess": {
+    "id": "firebeans",
+    "provider": "lichess",
+    "username": "FireBeans",
+    "firstSeen": 1620755373911,
+    "lastSeen": 1620768157482,
+    "firstSeenTime": "5:49:33 PM",
+    "lastSeenTime": "6:26:37 PM",
+    "onlineDurationMins": 37.05925
+  },
+  "drdrynkenstein14632@lichess": {
+    "id": "drdrynkenstein14632",
+    "provider": "lichess",
+    "username": "DrDrynkenstein14632",
+    "firstSeen": 1620757383820,
+    "lastSeen": 1620767857675,
+    "firstSeenTime": "6:23:03 PM",
+    "lastSeenTime": "6:23:55 PM",
+    "onlineDurationMins": 0.86795
+  },
+  "knight_128@lichess": {
+    "id": "knight_128",
+    "provider": "lichess",
+    "username": "knight_128",
+    "firstSeen": 1620767391693,
+    "lastSeen": 1620768015695
+  },
+  "bobby_fishcer_bot@lichess": {
+    "id": "bobby_fishcer_bot",
+    "provider": "lichess",
+    "username": "Bobby_Fishcer_Bot",
+    "firstSeen": 1620767487028,
+    "lastSeen": 1620768138594
+  }
+}
