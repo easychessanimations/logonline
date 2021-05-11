@@ -1,0 +1,39 @@
+{
+  "botlaringucu@lichess": {
+    "id": "botlaringucu",
+    "provider": "lichess",
+    "username": "botlaringucu",
+    "firstSeen": 1620724993187,
+    "lastSeen": 1620735645666,
+    "firstSeenTime": "9:23:13 AM",
+    "lastSeenTime": "11:45:45 AM",
+    "onlineDurationMins": 142.54086666666666
+  },
+  "slitblu_bot@lichess": {
+    "id": "slitblu_bot",
+    "provider": "lichess",
+    "username": "Slitblu_BOT",
+    "firstSeen": 1620727427119,
+    "lastSeen": 1620735555980,
+    "firstSeenTime": "10:03:47 AM",
+    "lastSeenTime": "11:46:15 AM",
+    "onlineDurationMins": 102.47896666666666
+  },
+  "nuriev_ruslan_bot@lichess": {
+    "id": "nuriev_ruslan_bot",
+    "provider": "lichess",
+    "username": "nuriev_ruslan_BOT",
+    "firstSeen": 1620731067477,
+    "lastSeen": 1620735185371,
+    "firstSeenTime": "11:04:27 AM",
+    "lastSeenTime": "11:42:31 AM",
+    "onlineDurationMins": 38.069
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620735480570,
+    "lastSeen": 1620735675229
+  }
+}
