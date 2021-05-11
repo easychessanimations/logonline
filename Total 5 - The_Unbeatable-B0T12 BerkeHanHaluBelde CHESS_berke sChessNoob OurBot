@@ -1,0 +1,49 @@
+{
+  "the_unbeatable-b0t12@lichess": {
+    "id": "the_unbeatable-b0t12",
+    "provider": "lichess",
+    "username": "The_Unbeatable-B0T12",
+    "firstSeen": 1620709441397,
+    "lastSeen": 1620710307035,
+    "firstSeenTime": "5:04:01 AM",
+    "lastSeenTime": "5:15:27 AM",
+    "onlineDurationMins": 11.432066666666667
+  },
+  "berkehanhalubelde@lichess": {
+    "id": "berkehanhalubelde",
+    "provider": "lichess",
+    "username": "BerkeHanHaluBelde",
+    "firstSeen": 1620709568934,
+    "lastSeen": 1620709775010,
+    "firstSeenTime": "5:06:08 AM",
+    "lastSeenTime": "5:09:35 AM",
+    "onlineDurationMins": 3.4346
+  },
+  "chess_berke@lichess": {
+    "id": "chess_berke",
+    "provider": "lichess",
+    "username": "CHESS_berke",
+    "firstSeen": 1620709775666,
+    "lastSeen": 1620709784509,
+    "firstSeenTime": "5:09:35 AM",
+    "lastSeenTime": "5:09:44 AM",
+    "onlineDurationMins": 0.14738333333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620710264440,
+    "lastSeen": 1620710264440,
+    "firstSeenTime": "5:17:44 AM",
+    "lastSeenTime": "5:17:44 AM",
+    "onlineDurationMins": 0
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620710355764,
+    "lastSeen": 1620710355764
+  }
+}
