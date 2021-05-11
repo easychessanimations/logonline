@@ -1,0 +1,52 @@
+{
+  "the_unbeatable-b0t12@lichess": {
+    "id": "the_unbeatable-b0t12",
+    "provider": "lichess",
+    "username": "The_Unbeatable-B0T12",
+    "firstSeen": 1620709441397,
+    "lastSeen": 1620711239637,
+    "firstSeenTime": "5:04:01 AM",
+    "lastSeenTime": "5:33:59 AM",
+    "onlineDurationMins": 29.970666666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620710264440,
+    "lastSeen": 1620711743709,
+    "firstSeenTime": "5:17:44 AM",
+    "lastSeenTime": "5:42:23 AM",
+    "onlineDurationMins": 24.654483333333335
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620710355764,
+    "lastSeen": 1620711001611,
+    "firstSeenTime": "5:19:15 AM",
+    "lastSeenTime": "5:30:01 AM",
+    "onlineDurationMins": 10.764116666666666
+  },
+  "the-golden-trio@lichess": {
+    "id": "the-golden-trio",
+    "provider": "lichess",
+    "username": "The-Golden-Trio",
+    "firstSeen": 1620711047715,
+    "lastSeen": 1620711617112,
+    "firstSeenTime": "5:30:47 AM",
+    "lastSeenTime": "5:40:17 AM",
+    "onlineDurationMins": 9.48995
+  },
+  "dreampsb@lichess": {
+    "id": "dreampsb",
+    "provider": "lichess",
+    "username": "DreamPSB",
+    "firstSeen": 1620711349918,
+    "lastSeen": 1620711772584,
+    "firstSeenTime": "5:35:49 AM",
+    "lastSeenTime": "5:42:22 AM",
+    "onlineDurationMins": 6.545066666666667
+  }
+}
