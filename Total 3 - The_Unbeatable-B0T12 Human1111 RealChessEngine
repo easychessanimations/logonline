@@ -1,0 +1,26 @@
+{
+  "the_unbeatable-b0t12@lichess": {
+    "id": "the_unbeatable-b0t12",
+    "provider": "lichess",
+    "username": "The_Unbeatable-B0T12",
+    "firstSeen": 1620709441397,
+    "lastSeen": 1620715218790,
+    "firstSeenTime": "5:04:01 AM",
+    "lastSeenTime": "5:44:14 AM",
+    "onlineDurationMins": 40.2244
+  },
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1620714574071,
+    "lastSeen": 1620715429224
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620715632324,
+    "lastSeen": 1620715632324
+  }
+}
