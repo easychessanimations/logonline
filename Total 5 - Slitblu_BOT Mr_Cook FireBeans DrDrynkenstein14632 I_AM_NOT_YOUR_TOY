@@ -1,0 +1,49 @@
+{
+  "slitblu_bot@lichess": {
+    "id": "slitblu_bot",
+    "provider": "lichess",
+    "username": "Slitblu_BOT",
+    "firstSeen": 1620746952929,
+    "lastSeen": 1620761532858,
+    "firstSeenTime": "3:29:12 PM",
+    "lastSeenTime": "6:26:12 PM",
+    "onlineDurationMins": 176.99883333333332
+  },
+  "mr_cook@lichess": {
+    "id": "mr_cook",
+    "provider": "lichess",
+    "username": "Mr_Cook",
+    "firstSeen": 1620748213352,
+    "lastSeen": 1620761558081,
+    "firstSeenTime": "3:50:13 PM",
+    "lastSeenTime": "6:26:37 PM",
+    "onlineDurationMins": 156.40598333333332
+  },
+  "firebeans@lichess": {
+    "id": "firebeans",
+    "provider": "lichess",
+    "username": "FireBeans",
+    "firstSeen": 1620755373911,
+    "lastSeen": 1620761557429,
+    "firstSeenTime": "5:49:33 PM",
+    "lastSeenTime": "6:26:37 PM",
+    "onlineDurationMins": 37.05925
+  },
+  "drdrynkenstein14632@lichess": {
+    "id": "drdrynkenstein14632",
+    "provider": "lichess",
+    "username": "DrDrynkenstein14632",
+    "firstSeen": 1620757383820,
+    "lastSeen": 1620761681700,
+    "firstSeenTime": "6:23:03 PM",
+    "lastSeenTime": "6:23:55 PM",
+    "onlineDurationMins": 0.86795
+  },
+  "i_am_not_your_toy@lichess": {
+    "id": "i_am_not_your_toy",
+    "provider": "lichess",
+    "username": "I_AM_NOT_YOUR_TOY",
+    "firstSeen": 1620761408023,
+    "lastSeen": 1620761526868
+  }
+}
