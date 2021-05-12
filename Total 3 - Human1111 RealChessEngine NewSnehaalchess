@@ -1,0 +1,26 @@
+{
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1620793705040,
+    "lastSeen": 1620799367608,
+    "firstSeenTime": "4:28:25 AM",
+    "lastSeenTime": "5:14:03 AM",
+    "onlineDurationMins": 45.6427
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620799030100,
+    "lastSeen": 1620799044094
+  },
+  "newsnehaalchess@lichess": {
+    "id": "newsnehaalchess",
+    "provider": "lichess",
+    "username": "NewSnehaalchess",
+    "firstSeen": 1620799368102,
+    "lastSeen": 1620799368102
+  }
+}
