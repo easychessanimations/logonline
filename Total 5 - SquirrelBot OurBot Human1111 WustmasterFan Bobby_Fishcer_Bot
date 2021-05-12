@@ -1,0 +1,40 @@
+{
+  "squirrelbot@lichess": {
+    "id": "squirrelbot",
+    "provider": "lichess",
+    "username": "SquirrelBot",
+    "firstSeen": 1620824151525,
+    "lastSeen": 1620833948881,
+    "firstSeenTime": "12:55:51 PM",
+    "lastSeenTime": "1:36:54 PM",
+    "onlineDurationMins": 41.04135
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620830552647,
+    "lastSeen": 1620833631021
+  },
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1620832428436,
+    "lastSeen": 1620833533052
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1620832975178,
+    "lastSeen": 1620833593261
+  },
+  "bobby_fishcer_bot@lichess": {
+    "id": "bobby_fishcer_bot",
+    "provider": "lichess",
+    "username": "Bobby_Fishcer_Bot",
+    "firstSeen": 1620833949011,
+    "lastSeen": 1620833949011
+  }
+}
