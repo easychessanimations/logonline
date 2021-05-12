@@ -1,0 +1,19 @@
+{
+  "squirrelbot@lichess": {
+    "id": "squirrelbot",
+    "provider": "lichess",
+    "username": "SquirrelBot",
+    "firstSeen": 1620824151525,
+    "lastSeen": 1620830774484,
+    "firstSeenTime": "12:55:51 PM",
+    "lastSeenTime": "1:36:54 PM",
+    "onlineDurationMins": 41.04135
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620830552647,
+    "lastSeen": 1620830571801
+  }
+}
