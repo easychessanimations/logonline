@@ -1,0 +1,51 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620835131059,
+    "lastSeen": 1620843474556
+  },
+  "bobby_fishcer_bot@lichess": {
+    "id": "bobby_fishcer_bot",
+    "provider": "lichess",
+    "username": "Bobby_Fishcer_Bot",
+    "firstSeen": 1620839304869,
+    "lastSeen": 1620843505921
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620840288192,
+    "lastSeen": 1620843471026
+  },
+  "no-varants-no@lichess": {
+    "id": "no-varants-no",
+    "provider": "lichess",
+    "username": "No-Varants-No",
+    "firstSeen": 1620840333423,
+    "lastSeen": 1620843461213
+  },
+  "dragon_breath_1000@lichess": {
+    "id": "dragon_breath_1000",
+    "provider": "lichess",
+    "username": "DRAGON_BREATH_1000",
+    "firstSeen": 1620840461967,
+    "lastSeen": 1620843492149
+  },
+  "tal_andgeramond_slit@lichess": {
+    "id": "tal_andgeramond_slit",
+    "provider": "lichess",
+    "username": "tal_andGeramond_slit",
+    "firstSeen": 1620841312953,
+    "lastSeen": 1620843480990
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1620843529556,
+    "lastSeen": 1620843529556
+  }
+}
