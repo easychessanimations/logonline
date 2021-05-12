@@ -1,0 +1,36 @@
+{
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1620813592524,
+    "lastSeen": 1620818983723,
+    "firstSeenTime": "9:59:52 AM",
+    "lastSeenTime": "10:24:45 AM",
+    "onlineDurationMins": 24.87565
+  },
+  "bot-scam-1992@lichess": {
+    "id": "bot-scam-1992",
+    "provider": "lichess",
+    "username": "Bot-Scam-1992",
+    "firstSeen": 1620814160451,
+    "lastSeen": 1620819090984,
+    "firstSeenTime": "10:09:20 AM",
+    "lastSeenTime": "10:22:30 AM",
+    "onlineDurationMins": 13.17465
+  },
+  "drdrynkenstein14632@lichess": {
+    "id": "drdrynkenstein14632",
+    "provider": "lichess",
+    "username": "DrDrynkenstein14632",
+    "firstSeen": 1620816514895,
+    "lastSeen": 1620818779761
+  },
+  "masterjas@lichess": {
+    "id": "masterjas",
+    "provider": "lichess",
+    "username": "Masterjas",
+    "firstSeen": 1620819177372,
+    "lastSeen": 1620819177372
+  }
+}
