@@ -1,0 +1,23 @@
+{
+  "newsnehaalchess@lichess": {
+    "id": "newsnehaalchess",
+    "provider": "lichess",
+    "username": "NewSnehaalchess",
+    "firstSeen": 1620799368102,
+    "lastSeen": 1620802895248
+  },
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1620802417126,
+    "lastSeen": 1620803089781
+  },
+  "stockfish-10_bot@lichess": {
+    "id": "stockfish-10_bot",
+    "provider": "lichess",
+    "username": "Stockfish-10_BOT",
+    "firstSeen": 1620803273122,
+    "lastSeen": 1620803273122
+  }
+}
