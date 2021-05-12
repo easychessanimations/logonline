@@ -1,0 +1,42 @@
+{
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1620813592524,
+    "lastSeen": 1620815085063,
+    "firstSeenTime": "9:59:52 AM",
+    "lastSeenTime": "10:24:45 AM",
+    "onlineDurationMins": 24.87565
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620814081587,
+    "lastSeen": 1620815414258,
+    "firstSeenTime": "10:08:01 AM",
+    "lastSeenTime": "10:30:14 AM",
+    "onlineDurationMins": 22.211183333333334
+  },
+  "bot-scam-1992@lichess": {
+    "id": "bot-scam-1992",
+    "provider": "lichess",
+    "username": "Bot-Scam-1992",
+    "firstSeen": 1620814160451,
+    "lastSeen": 1620814950930,
+    "firstSeenTime": "10:09:20 AM",
+    "lastSeenTime": "10:22:30 AM",
+    "onlineDurationMins": 13.17465
+  },
+  "cheesmaster01@lichess": {
+    "id": "cheesmaster01",
+    "provider": "lichess",
+    "username": "CheesMaster01",
+    "firstSeen": 1620814836481,
+    "lastSeen": 1620815053229,
+    "firstSeenTime": "10:20:36 AM",
+    "lastSeenTime": "10:24:13 AM",
+    "onlineDurationMins": 3.6124666666666667
+  }
+}
