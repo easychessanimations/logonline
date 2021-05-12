@@ -1,0 +1,29 @@
+{
+  "drdrynkenstein14632@lichess": {
+    "id": "drdrynkenstein14632",
+    "provider": "lichess",
+    "username": "DrDrynkenstein14632",
+    "firstSeen": 1620816514895,
+    "lastSeen": 1620824920074,
+    "firstSeenTime": "10:48:34 AM",
+    "lastSeenTime": "12:53:36 PM",
+    "onlineDurationMins": 125.03203333333333
+  },
+  "squirrelbot@lichess": {
+    "id": "squirrelbot",
+    "provider": "lichess",
+    "username": "SquirrelBot",
+    "firstSeen": 1620824151525,
+    "lastSeen": 1620824828464,
+    "firstSeenTime": "12:55:51 PM",
+    "lastSeenTime": "12:56:03 PM",
+    "onlineDurationMins": 0.19501666666666667
+  },
+  "bot-scam-1992@lichess": {
+    "id": "bot-scam-1992",
+    "provider": "lichess",
+    "username": "Bot-Scam-1992",
+    "firstSeen": 1620824667214,
+    "lastSeen": 1620824670816
+  }
+}
