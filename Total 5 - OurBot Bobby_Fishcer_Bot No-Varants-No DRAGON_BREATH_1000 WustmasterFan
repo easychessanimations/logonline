@@ -1,0 +1,37 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620835131059,
+    "lastSeen": 1620845757321
+  },
+  "bobby_fishcer_bot@lichess": {
+    "id": "bobby_fishcer_bot",
+    "provider": "lichess",
+    "username": "Bobby_Fishcer_Bot",
+    "firstSeen": 1620839304869,
+    "lastSeen": 1620845791865
+  },
+  "no-varants-no@lichess": {
+    "id": "no-varants-no",
+    "provider": "lichess",
+    "username": "No-Varants-No",
+    "firstSeen": 1620840333423,
+    "lastSeen": 1620845497720
+  },
+  "dragon_breath_1000@lichess": {
+    "id": "dragon_breath_1000",
+    "provider": "lichess",
+    "username": "DRAGON_BREATH_1000",
+    "firstSeen": 1620840461967,
+    "lastSeen": 1620845531190
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1620843529556,
+    "lastSeen": 1620845513887
+  }
+}
