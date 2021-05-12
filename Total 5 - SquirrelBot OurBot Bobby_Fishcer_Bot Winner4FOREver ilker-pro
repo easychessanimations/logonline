@@ -1,0 +1,43 @@
+{
+  "squirrelbot@lichess": {
+    "id": "squirrelbot",
+    "provider": "lichess",
+    "username": "SquirrelBot",
+    "firstSeen": 1620824151525,
+    "lastSeen": 1620829042532,
+    "firstSeenTime": "12:55:51 PM",
+    "lastSeenTime": "1:36:54 PM",
+    "onlineDurationMins": 41.04135
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620826064707,
+    "lastSeen": 1620828414283,
+    "firstSeenTime": "1:27:44 PM",
+    "lastSeenTime": "1:31:00 PM",
+    "onlineDurationMins": 3.2551666666666668
+  },
+  "bobby_fishcer_bot@lichess": {
+    "id": "bobby_fishcer_bot",
+    "provider": "lichess",
+    "username": "Bobby_Fishcer_Bot",
+    "firstSeen": 1620826711432,
+    "lastSeen": 1620828304131
+  },
+  "winner4forever@lichess": {
+    "id": "winner4forever",
+    "provider": "lichess",
+    "username": "Winner4FOREver",
+    "firstSeen": 1620827508193,
+    "lastSeen": 1620829105149
+  },
+  "ilker-pro@lichess": {
+    "id": "ilker-pro",
+    "provider": "lichess",
+    "username": "ilker-pro",
+    "firstSeen": 1620829072008,
+    "lastSeen": 1620829081988
+  }
+}
