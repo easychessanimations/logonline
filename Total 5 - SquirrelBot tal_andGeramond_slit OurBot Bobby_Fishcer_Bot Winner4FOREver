@@ -1,0 +1,46 @@
+{
+  "squirrelbot@lichess": {
+    "id": "squirrelbot",
+    "provider": "lichess",
+    "username": "SquirrelBot",
+    "firstSeen": 1620824151525,
+    "lastSeen": 1620827515178,
+    "firstSeenTime": "12:55:51 PM",
+    "lastSeenTime": "1:36:54 PM",
+    "onlineDurationMins": 41.04135
+  },
+  "tal_andgeramond_slit@lichess": {
+    "id": "tal_andgeramond_slit",
+    "provider": "lichess",
+    "username": "tal_andGeramond_slit",
+    "firstSeen": 1620825871478,
+    "lastSeen": 1620827418676,
+    "firstSeenTime": "1:24:31 PM",
+    "lastSeenTime": "1:25:31 PM",
+    "onlineDurationMins": 1.0077833333333333
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620826064707,
+    "lastSeen": 1620827572586,
+    "firstSeenTime": "1:27:44 PM",
+    "lastSeenTime": "1:31:00 PM",
+    "onlineDurationMins": 3.2551666666666668
+  },
+  "bobby_fishcer_bot@lichess": {
+    "id": "bobby_fishcer_bot",
+    "provider": "lichess",
+    "username": "Bobby_Fishcer_Bot",
+    "firstSeen": 1620826711432,
+    "lastSeen": 1620827438207
+  },
+  "winner4forever@lichess": {
+    "id": "winner4forever",
+    "provider": "lichess",
+    "username": "Winner4FOREver",
+    "firstSeen": 1620827508193,
+    "lastSeen": 1620827520080
+  }
+}
