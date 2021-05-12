@@ -1,0 +1,59 @@
+{
+  "squirrelbot@lichess": {
+    "id": "squirrelbot",
+    "provider": "lichess",
+    "username": "SquirrelBot",
+    "firstSeen": 1620824151525,
+    "lastSeen": 1620826766557,
+    "firstSeenTime": "12:55:51 PM",
+    "lastSeenTime": "1:36:54 PM",
+    "onlineDurationMins": 41.04135
+  },
+  "bot-scam-1992@lichess": {
+    "id": "bot-scam-1992",
+    "provider": "lichess",
+    "username": "Bot-Scam-1992",
+    "firstSeen": 1620824667214,
+    "lastSeen": 1620826167247,
+    "firstSeenTime": "1:04:27 PM",
+    "lastSeenTime": "1:29:27 PM",
+    "onlineDurationMins": 25.00055
+  },
+  "tal_andgeramond_slit@lichess": {
+    "id": "tal_andgeramond_slit",
+    "provider": "lichess",
+    "username": "tal_andGeramond_slit",
+    "firstSeen": 1620825871478,
+    "lastSeen": 1620826701926,
+    "firstSeenTime": "1:24:31 PM",
+    "lastSeenTime": "1:25:31 PM",
+    "onlineDurationMins": 1.0077833333333333
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620826064707,
+    "lastSeen": 1620826734175,
+    "firstSeenTime": "1:27:44 PM",
+    "lastSeenTime": "1:31:00 PM",
+    "onlineDurationMins": 3.2551666666666668
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620826651856,
+    "lastSeen": 1620826690051,
+    "firstSeenTime": "1:37:31 PM",
+    "lastSeenTime": "1:38:10 PM",
+    "onlineDurationMins": 0.6365833333333333
+  },
+  "bobby_fishcer_bot@lichess": {
+    "id": "bobby_fishcer_bot",
+    "provider": "lichess",
+    "username": "Bobby_Fishcer_Bot",
+    "firstSeen": 1620826711432,
+    "lastSeen": 1620826756226
+  }
+}
