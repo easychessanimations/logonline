@@ -1,0 +1,33 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620892389024,
+    "lastSeen": 1620893892174,
+    "firstSeenTime": "7:53:09 AM",
+    "lastSeenTime": "7:59:01 AM",
+    "onlineDurationMins": 5.870516666666667
+  },
+  "newsnehaalchess@lichess": {
+    "id": "newsnehaalchess",
+    "provider": "lichess",
+    "username": "NewSnehaalchess",
+    "firstSeen": 1620893623211,
+    "lastSeen": 1620894465058
+  },
+  "imanqayyum_champion@lichess": {
+    "id": "imanqayyum_champion",
+    "provider": "lichess",
+    "username": "ImanQayyum_Champion",
+    "firstSeen": 1620894212303,
+    "lastSeen": 1620894228277
+  },
+  "feuer2@lichess": {
+    "id": "feuer2",
+    "provider": "lichess",
+    "username": "Feuer2",
+    "firstSeen": 1620894591059,
+    "lastSeen": 1620894591059
+  }
+}
