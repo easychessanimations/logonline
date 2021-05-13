@@ -1,0 +1,19 @@
+{
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1620904223473,
+    "lastSeen": 1620909586236,
+    "firstSeenTime": "11:10:23 AM",
+    "lastSeenTime": "12:07:35 PM",
+    "onlineDurationMins": 57.19305
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620909619265,
+    "lastSeen": 1620909619265
+  }
+}
