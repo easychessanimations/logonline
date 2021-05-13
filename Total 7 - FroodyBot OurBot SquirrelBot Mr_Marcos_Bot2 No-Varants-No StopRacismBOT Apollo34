@@ -1,0 +1,66 @@
+{
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1620904223473,
+    "lastSeen": 1620917022704,
+    "firstSeenTime": "11:10:23 AM",
+    "lastSeenTime": "2:14:31 PM",
+    "onlineDurationMins": 184.13828333333333
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620909619265,
+    "lastSeen": 1620917146380,
+    "firstSeenTime": "12:40:19 PM",
+    "lastSeenTime": "2:10:49 PM",
+    "onlineDurationMins": 90.50676666666666
+  },
+  "squirrelbot@lichess": {
+    "id": "squirrelbot",
+    "provider": "lichess",
+    "username": "SquirrelBot",
+    "firstSeen": 1620910810254,
+    "lastSeen": 1620917078045,
+    "firstSeenTime": "1:00:10 PM",
+    "lastSeenTime": "2:11:23 PM",
+    "onlineDurationMins": 71.22063333333334
+  },
+  "mr_marcos_bot2@lichess": {
+    "id": "mr_marcos_bot2",
+    "provider": "lichess",
+    "username": "Mr_Marcos_Bot2",
+    "firstSeen": 1620912567239,
+    "lastSeen": 1620916628959,
+    "firstSeenTime": "1:29:27 PM",
+    "lastSeenTime": "2:16:18 PM",
+    "onlineDurationMins": 46.84925
+  },
+  "no-varants-no@lichess": {
+    "id": "no-varants-no",
+    "provider": "lichess",
+    "username": "No-Varants-No",
+    "firstSeen": 1620914844753,
+    "lastSeen": 1620916940822,
+    "firstSeenTime": "2:07:24 PM",
+    "lastSeenTime": "2:19:08 PM",
+    "onlineDurationMins": 11.722783333333334
+  },
+  "stopracismbot@lichess": {
+    "id": "stopracismbot",
+    "provider": "lichess",
+    "username": "StopRacismBOT",
+    "firstSeen": 1620916729578,
+    "lastSeen": 1620916741996
+  },
+  "apollo34@lichess": {
+    "id": "apollo34",
+    "provider": "lichess",
+    "username": "Apollo34",
+    "firstSeen": 1620916924911,
+    "lastSeen": 1620916935894
+  }
+}
