@@ -1,0 +1,54 @@
+{
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1620904223473,
+    "lastSeen": 1620914315678,
+    "firstSeenTime": "11:10:23 AM",
+    "lastSeenTime": "12:07:35 PM",
+    "onlineDurationMins": 57.19305
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620909619265,
+    "lastSeen": 1620914269688
+  },
+  "squirrelbot@lichess": {
+    "id": "squirrelbot",
+    "provider": "lichess",
+    "username": "SquirrelBot",
+    "firstSeen": 1620910810254,
+    "lastSeen": 1620914297955
+  },
+  "bobby_fishcer_bot@lichess": {
+    "id": "bobby_fishcer_bot",
+    "provider": "lichess",
+    "username": "Bobby_Fishcer_Bot",
+    "firstSeen": 1620911088215,
+    "lastSeen": 1620914346313
+  },
+  "mr_marcos_bot2@lichess": {
+    "id": "mr_marcos_bot2",
+    "provider": "lichess",
+    "username": "Mr_Marcos_Bot2",
+    "firstSeen": 1620912567239,
+    "lastSeen": 1620914336610
+  },
+  "only_experiments@lichess": {
+    "id": "only_experiments",
+    "provider": "lichess",
+    "username": "ONLY_EXPERIMENTS",
+    "firstSeen": 1620914343526,
+    "lastSeen": 1620914370530
+  },
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1620914371407,
+    "lastSeen": 1620914371407
+  }
+}
