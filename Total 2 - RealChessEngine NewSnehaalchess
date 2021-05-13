@@ -1,0 +1,19 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620892389024,
+    "lastSeen": 1620893788289,
+    "firstSeenTime": "7:53:09 AM",
+    "lastSeenTime": "7:59:01 AM",
+    "onlineDurationMins": 5.870516666666667
+  },
+  "newsnehaalchess@lichess": {
+    "id": "newsnehaalchess",
+    "provider": "lichess",
+    "username": "NewSnehaalchess",
+    "firstSeen": 1620893623211,
+    "lastSeen": 1620893661709
+  }
+}
