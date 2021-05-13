@@ -1,0 +1,30 @@
+{
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1620904223473,
+    "lastSeen": 1620905339461
+  },
+  "iamkid_chessbot@lichess": {
+    "id": "iamkid_chessbot",
+    "provider": "lichess",
+    "username": "Iamkid_Chessbot",
+    "firstSeen": 1620904505274,
+    "lastSeen": 1620904677788
+  },
+  "l0rd123123123@lichess": {
+    "id": "l0rd123123123",
+    "provider": "lichess",
+    "username": "L0RD123123123",
+    "firstSeen": 1620904816842,
+    "lastSeen": 1620904826117
+  },
+  "feuer2@lichess": {
+    "id": "feuer2",
+    "provider": "lichess",
+    "username": "Feuer2",
+    "firstSeen": 1620905343067,
+    "lastSeen": 1620905343067
+  }
+}
