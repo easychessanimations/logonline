@@ -1,0 +1,29 @@
+{
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1620924834917,
+    "lastSeen": 1620940197615,
+    "firstSeenTime": "4:53:54 PM",
+    "lastSeenTime": "7:07:57 PM",
+    "onlineDurationMins": 134.05126666666666
+  },
+  "no-varants-no@lichess": {
+    "id": "no-varants-no",
+    "provider": "lichess",
+    "username": "No-Varants-No",
+    "firstSeen": 1620926158970,
+    "lastSeen": 1620940232219,
+    "firstSeenTime": "5:15:58 PM",
+    "lastSeenTime": "7:10:10 PM",
+    "onlineDurationMins": 114.18728333333334
+  },
+  "richatd20212@lichess": {
+    "id": "richatd20212",
+    "provider": "lichess",
+    "username": "Richatd20212",
+    "firstSeen": 1620939906505,
+    "lastSeen": 1620939910880
+  }
+}
