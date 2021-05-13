@@ -1,0 +1,103 @@
+{
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1620904223473,
+    "lastSeen": 1620914611791,
+    "firstSeenTime": "11:10:23 AM",
+    "lastSeenTime": "2:03:31 PM",
+    "onlineDurationMins": 173.13863333333333
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620909619265,
+    "lastSeen": 1620915049671,
+    "firstSeenTime": "12:40:19 PM",
+    "lastSeenTime": "1:57:49 PM",
+    "onlineDurationMins": 77.50705
+  },
+  "squirrelbot@lichess": {
+    "id": "squirrelbot",
+    "provider": "lichess",
+    "username": "SquirrelBot",
+    "firstSeen": 1620910810254,
+    "lastSeen": 1620915083492,
+    "firstSeenTime": "1:00:10 PM",
+    "lastSeenTime": "2:03:00 PM",
+    "onlineDurationMins": 62.842616666666665
+  },
+  "bobby_fishcer_bot@lichess": {
+    "id": "bobby_fishcer_bot",
+    "provider": "lichess",
+    "username": "Bobby_Fishcer_Bot",
+    "firstSeen": 1620911088215,
+    "lastSeen": 1620914779395,
+    "firstSeenTime": "1:04:48 PM",
+    "lastSeenTime": "2:03:12 PM",
+    "onlineDurationMins": 58.4106
+  },
+  "mr_marcos_bot2@lichess": {
+    "id": "mr_marcos_bot2",
+    "provider": "lichess",
+    "username": "Mr_Marcos_Bot2",
+    "firstSeen": 1620912567239,
+    "lastSeen": 1620914782814,
+    "firstSeenTime": "1:29:27 PM",
+    "lastSeenTime": "1:58:56 PM",
+    "onlineDurationMins": 29.489516666666667
+  },
+  "only_experiments@lichess": {
+    "id": "only_experiments",
+    "provider": "lichess",
+    "username": "ONLY_EXPERIMENTS",
+    "firstSeen": 1620914343526,
+    "lastSeen": 1620914370530,
+    "firstSeenTime": "1:59:03 PM",
+    "lastSeenTime": "1:59:30 PM",
+    "onlineDurationMins": 0.45006666666666667
+  },
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1620914371407,
+    "lastSeen": 1620915126308,
+    "firstSeenTime": "1:59:31 PM",
+    "lastSeenTime": "2:01:58 PM",
+    "onlineDurationMins": 2.45405
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620914486610,
+    "lastSeen": 1620914612240,
+    "firstSeenTime": "2:01:26 PM",
+    "lastSeenTime": "2:03:32 PM",
+    "onlineDurationMins": 2.0938333333333334
+  },
+  "no-varants-no@lichess": {
+    "id": "no-varants-no",
+    "provider": "lichess",
+    "username": "No-Varants-No",
+    "firstSeen": 1620914844753,
+    "lastSeen": 1620914871028
+  },
+  "nearseasfan@lichess": {
+    "id": "nearseasfan",
+    "provider": "lichess",
+    "username": "NearseasFan",
+    "firstSeen": 1620915157304,
+    "lastSeen": 1620915170738
+  },
+  "newsnehaalchess@lichess": {
+    "id": "newsnehaalchess",
+    "provider": "lichess",
+    "username": "NewSnehaalchess",
+    "firstSeen": 1620915231172,
+    "lastSeen": 1620915231172
+  }
+}
