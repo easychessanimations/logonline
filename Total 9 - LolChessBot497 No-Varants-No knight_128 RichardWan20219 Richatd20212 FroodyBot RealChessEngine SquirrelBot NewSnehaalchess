@@ -1,0 +1,65 @@
+{
+  "lolchessbot497@lichess": {
+    "id": "lolchessbot497",
+    "provider": "lichess",
+    "username": "LolChessBot497",
+    "firstSeen": 1620921405962,
+    "lastSeen": 1620922376772
+  },
+  "no-varants-no@lichess": {
+    "id": "no-varants-no",
+    "provider": "lichess",
+    "username": "No-Varants-No",
+    "firstSeen": 1620921441197,
+    "lastSeen": 1620922355560
+  },
+  "knight_128@lichess": {
+    "id": "knight_128",
+    "provider": "lichess",
+    "username": "knight_128",
+    "firstSeen": 1620921558699,
+    "lastSeen": 1620922066368
+  },
+  "richardwan20219@lichess": {
+    "id": "richardwan20219",
+    "provider": "lichess",
+    "username": "RichardWan20219",
+    "firstSeen": 1620921684698,
+    "lastSeen": 1620922090493
+  },
+  "richatd20212@lichess": {
+    "id": "richatd20212",
+    "provider": "lichess",
+    "username": "Richatd20212",
+    "firstSeen": 1620922091361,
+    "lastSeen": 1620922165072
+  },
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1620922349807,
+    "lastSeen": 1620922400594
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620922351349,
+    "lastSeen": 1620922355158
+  },
+  "squirrelbot@lichess": {
+    "id": "squirrelbot",
+    "provider": "lichess",
+    "username": "SquirrelBot",
+    "firstSeen": 1620922428453,
+    "lastSeen": 1620922441858
+  },
+  "newsnehaalchess@lichess": {
+    "id": "newsnehaalchess",
+    "provider": "lichess",
+    "username": "NewSnehaalchess",
+    "firstSeen": 1620922465159,
+    "lastSeen": 1620922465159
+  }
+}
