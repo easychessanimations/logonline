@@ -1,0 +1,29 @@
+{
+  "newsnehaalchess@lichess": {
+    "id": "newsnehaalchess",
+    "provider": "lichess",
+    "username": "NewSnehaalchess",
+    "firstSeen": 1620891164940,
+    "lastSeen": 1620892034579,
+    "firstSeenTime": "7:32:44 AM",
+    "lastSeenTime": "7:47:14 AM",
+    "onlineDurationMins": 14.493983333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620891583053,
+    "lastSeen": 1620892085537,
+    "firstSeenTime": "7:39:43 AM",
+    "lastSeenTime": "7:48:05 AM",
+    "onlineDurationMins": 8.36865
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620892389024,
+    "lastSeen": 1620892389024
+  }
+}
