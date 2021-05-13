@@ -1,0 +1,40 @@
+{
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1620904223473,
+    "lastSeen": 1620911005089,
+    "firstSeenTime": "11:10:23 AM",
+    "lastSeenTime": "12:07:35 PM",
+    "onlineDurationMins": 57.19305
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1620909619265,
+    "lastSeen": 1620910969733
+  },
+  "squirrel_09@lichess": {
+    "id": "squirrel_09",
+    "provider": "lichess",
+    "username": "Squirrel_09",
+    "firstSeen": 1620910778727,
+    "lastSeen": 1620910809392
+  },
+  "squirrelbot@lichess": {
+    "id": "squirrelbot",
+    "provider": "lichess",
+    "username": "SquirrelBot",
+    "firstSeen": 1620910810254,
+    "lastSeen": 1620910992094
+  },
+  "bobby_fishcer_bot@lichess": {
+    "id": "bobby_fishcer_bot",
+    "provider": "lichess",
+    "username": "Bobby_Fishcer_Bot",
+    "firstSeen": 1620911088215,
+    "lastSeen": 1620911088215
+  }
+}
