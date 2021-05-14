@@ -1,0 +1,39 @@
+{
+  "daniels_bot@lichess": {
+    "id": "daniels_bot",
+    "provider": "lichess",
+    "username": "daniels_bot",
+    "firstSeen": 1621011024834,
+    "lastSeen": 1621017864869,
+    "firstSeenTime": "4:50:24 PM",
+    "lastSeenTime": "6:10:24 PM",
+    "onlineDurationMins": 79.99991666666666
+  },
+  "no-varants-no@lichess": {
+    "id": "no-varants-no",
+    "provider": "lichess",
+    "username": "No-Varants-No",
+    "firstSeen": 1621012090110,
+    "lastSeen": 1621018111729,
+    "firstSeenTime": "5:08:10 PM",
+    "lastSeenTime": "6:17:27 PM",
+    "onlineDurationMins": 69.29375
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1621016224951,
+    "lastSeen": 1621017897209,
+    "firstSeenTime": "6:17:04 PM",
+    "lastSeenTime": "6:17:21 PM",
+    "onlineDurationMins": 0.27735
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621016819141,
+    "lastSeen": 1621018046617
+  }
+}
