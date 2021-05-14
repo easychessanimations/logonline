@@ -1,0 +1,62 @@
+{
+  "no-varants-no@lichess": {
+    "id": "no-varants-no",
+    "provider": "lichess",
+    "username": "No-Varants-No",
+    "firstSeen": 1620999961933,
+    "lastSeen": 1621008387669,
+    "firstSeenTime": "1:46:01 PM",
+    "lastSeenTime": "3:53:30 PM",
+    "onlineDurationMins": 127.48131666666667
+  },
+  "daniels_bot@lichess": {
+    "id": "daniels_bot",
+    "provider": "lichess",
+    "username": "daniels_bot",
+    "firstSeen": 1621000581808,
+    "lastSeen": 1621008388300,
+    "firstSeenTime": "1:56:21 PM",
+    "lastSeenTime": "3:53:28 PM",
+    "onlineDurationMins": 117.10715
+  },
+  "mr-bulletplayerbot@lichess": {
+    "id": "mr-bulletplayerbot",
+    "provider": "lichess",
+    "username": "Mr-bulletplayerBOt",
+    "firstSeen": 1621002911894,
+    "lastSeen": 1621008374719,
+    "firstSeenTime": "2:35:11 PM",
+    "lastSeenTime": "3:53:08 PM",
+    "onlineDurationMins": 77.93896666666667
+  },
+  "slitblu_bot@lichess": {
+    "id": "slitblu_bot",
+    "provider": "lichess",
+    "username": "Slitblu_BOT",
+    "firstSeen": 1621005690419,
+    "lastSeen": 1621008706009,
+    "firstSeenTime": "3:21:30 PM",
+    "lastSeenTime": "3:53:49 PM",
+    "onlineDurationMins": 32.3137
+  },
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1621005939751,
+    "lastSeen": 1621008611726,
+    "firstSeenTime": "3:25:39 PM",
+    "lastSeenTime": "3:52:58 PM",
+    "onlineDurationMins": 27.3176
+  },
+  "kuhusbot@lichess": {
+    "id": "kuhusbot",
+    "provider": "lichess",
+    "username": "KuhusBOT",
+    "firstSeen": 1621007697537,
+    "lastSeen": 1621008382146,
+    "firstSeenTime": "3:54:57 PM",
+    "lastSeenTime": "3:55:04 PM",
+    "onlineDurationMins": 0.124
+  }
+}
