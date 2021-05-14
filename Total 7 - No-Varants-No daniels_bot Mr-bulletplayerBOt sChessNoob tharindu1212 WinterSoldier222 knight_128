@@ -1,0 +1,63 @@
+{
+  "no-varants-no@lichess": {
+    "id": "no-varants-no",
+    "provider": "lichess",
+    "username": "No-Varants-No",
+    "firstSeen": 1620999961933,
+    "lastSeen": 1621004665340,
+    "firstSeenTime": "1:46:01 PM",
+    "lastSeenTime": "2:49:31 PM",
+    "onlineDurationMins": 63.488
+  },
+  "daniels_bot@lichess": {
+    "id": "daniels_bot",
+    "provider": "lichess",
+    "username": "daniels_bot",
+    "firstSeen": 1621000581808,
+    "lastSeen": 1621004724968,
+    "firstSeenTime": "1:56:21 PM",
+    "lastSeenTime": "2:46:23 PM",
+    "onlineDurationMins": 50.033633333333334
+  },
+  "mr-bulletplayerbot@lichess": {
+    "id": "mr-bulletplayerbot",
+    "provider": "lichess",
+    "username": "Mr-bulletplayerBOt",
+    "firstSeen": 1621002911894,
+    "lastSeen": 1621004425067,
+    "firstSeenTime": "2:35:11 PM",
+    "lastSeenTime": "2:49:08 PM",
+    "onlineDurationMins": 13.9482
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1621003385594,
+    "lastSeen": 1621003977003,
+    "firstSeenTime": "2:43:05 PM",
+    "lastSeenTime": "2:52:57 PM",
+    "onlineDurationMins": 9.856816666666667
+  },
+  "tharindu1212@lichess": {
+    "id": "tharindu1212",
+    "provider": "lichess",
+    "username": "tharindu1212",
+    "firstSeen": 1621004333883,
+    "lastSeen": 1621004778350
+  },
+  "wintersoldier222@lichess": {
+    "id": "wintersoldier222",
+    "provider": "lichess",
+    "username": "WinterSoldier222",
+    "firstSeen": 1621004609784,
+    "lastSeen": 1621004612495
+  },
+  "knight_128@lichess": {
+    "id": "knight_128",
+    "provider": "lichess",
+    "username": "knight_128",
+    "firstSeen": 1621004847090,
+    "lastSeen": 1621004847090
+  }
+}
