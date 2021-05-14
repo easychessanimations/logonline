@@ -1,0 +1,39 @@
+{
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620987178205,
+    "lastSeen": 1620988970315,
+    "firstSeenTime": "10:12:58 AM",
+    "lastSeenTime": "10:42:50 AM",
+    "onlineDurationMins": 29.8685
+  },
+  "lightofgod00@lichess": {
+    "id": "lightofgod00",
+    "provider": "lichess",
+    "username": "LightOfGod00",
+    "firstSeen": 1620988876782,
+    "lastSeen": 1620988893987,
+    "firstSeenTime": "10:41:16 AM",
+    "lastSeenTime": "10:41:33 AM",
+    "onlineDurationMins": 0.28675
+  },
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1620988889452,
+    "lastSeen": 1620989027796,
+    "firstSeenTime": "10:41:29 AM",
+    "lastSeenTime": "10:42:29 AM",
+    "onlineDurationMins": 1.0008666666666666
+  },
+  "chess_ni_boss@lichess": {
+    "id": "chess_ni_boss",
+    "provider": "lichess",
+    "username": "Chess_ni_BOSS",
+    "firstSeen": 1620989191113,
+    "lastSeen": 1620989191113
+  }
+}
