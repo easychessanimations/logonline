@@ -1,0 +1,44 @@
+{
+  "mr_marcos_bot2@lichess": {
+    "id": "mr_marcos_bot2",
+    "provider": "lichess",
+    "username": "Mr_Marcos_Bot2",
+    "firstSeen": 1620997987651,
+    "lastSeen": 1621002667971
+  },
+  "squirrelbot@lichess": {
+    "id": "squirrelbot",
+    "provider": "lichess",
+    "username": "SquirrelBot",
+    "firstSeen": 1620999591778,
+    "lastSeen": 1621003151727
+  },
+  "no-varants-no@lichess": {
+    "id": "no-varants-no",
+    "provider": "lichess",
+    "username": "No-Varants-No",
+    "firstSeen": 1620999961933,
+    "lastSeen": 1621003119135
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1621000125407,
+    "lastSeen": 1621002772536
+  },
+  "daniels_bot@lichess": {
+    "id": "daniels_bot",
+    "provider": "lichess",
+    "username": "daniels_bot",
+    "firstSeen": 1621000581808,
+    "lastSeen": 1621002688183
+  },
+  "mr-bulletplayerbot@lichess": {
+    "id": "mr-bulletplayerbot",
+    "provider": "lichess",
+    "username": "Mr-bulletplayerBOt",
+    "firstSeen": 1621002911894,
+    "lastSeen": 1621002933073
+  }
+}
