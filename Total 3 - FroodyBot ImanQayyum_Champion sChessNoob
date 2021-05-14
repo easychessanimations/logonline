@@ -1,0 +1,32 @@
+{
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1620948735750,
+    "lastSeen": 1620967274886,
+    "firstSeenTime": "11:32:15 PM",
+    "lastSeenTime": "4:41:14 AM",
+    "onlineDurationMins": 308.9856
+  },
+  "imanqayyum_champion@lichess": {
+    "id": "imanqayyum_champion",
+    "provider": "lichess",
+    "username": "ImanQayyum_Champion",
+    "firstSeen": 1620966540433,
+    "lastSeen": 1620967410474,
+    "firstSeenTime": "4:29:00 AM",
+    "lastSeenTime": "4:43:30 AM",
+    "onlineDurationMins": 14.500683333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620967433745,
+    "lastSeen": 1620967433745,
+    "firstSeenTime": "4:43:53 AM",
+    "lastSeenTime": "4:43:53 AM",
+    "onlineDurationMins": 0
+  }
+}
