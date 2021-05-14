@@ -1,0 +1,52 @@
+{
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1620948735750,
+    "lastSeen": 1620965958705,
+    "firstSeenTime": "11:32:15 PM",
+    "lastSeenTime": "4:19:18 AM",
+    "onlineDurationMins": 287.04925
+  },
+  "chess_ni_boss@lichess": {
+    "id": "chess_ni_boss",
+    "provider": "lichess",
+    "username": "Chess_ni_BOSS",
+    "firstSeen": 1620962180875,
+    "lastSeen": 1620966417022,
+    "firstSeenTime": "3:16:20 AM",
+    "lastSeenTime": "4:24:31 AM",
+    "onlineDurationMins": 68.18021666666667
+  },
+  "keertana2019@lichess": {
+    "id": "keertana2019",
+    "provider": "lichess",
+    "username": "Keertana2019",
+    "firstSeen": 1620965535187,
+    "lastSeen": 1620965586589,
+    "firstSeenTime": "4:12:15 AM",
+    "lastSeenTime": "4:13:06 AM",
+    "onlineDurationMins": 0.8567
+  },
+  "alc_official@lichess": {
+    "id": "alc_official",
+    "provider": "lichess",
+    "username": "ALC_OFFICIAL",
+    "firstSeen": 1620966119823,
+    "lastSeen": 1620966130378,
+    "firstSeenTime": "4:21:59 AM",
+    "lastSeenTime": "4:22:10 AM",
+    "onlineDurationMins": 0.17591666666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1620966312160,
+    "lastSeen": 1620966312534,
+    "firstSeenTime": "4:25:12 AM",
+    "lastSeenTime": "4:25:12 AM",
+    "onlineDurationMins": 0
+  }
+}
