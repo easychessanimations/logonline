@@ -1,0 +1,33 @@
+{
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1620974707469,
+    "lastSeen": 1620981574415,
+    "firstSeenTime": "6:45:07 AM",
+    "lastSeenTime": "7:43:55 AM",
+    "onlineDurationMins": 58.80368333333333
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1620979755949,
+    "lastSeen": 1620982142157
+  },
+  "anonymouschessteam@lichess": {
+    "id": "anonymouschessteam",
+    "provider": "lichess",
+    "username": "AnonymousChessTeam",
+    "firstSeen": 1620980485855,
+    "lastSeen": 1620981581106
+  },
+  "emireymentopel@lichess": {
+    "id": "emireymentopel",
+    "provider": "lichess",
+    "username": "emireymentopel",
+    "firstSeen": 1620982274862,
+    "lastSeen": 1620982274862
+  }
+}
