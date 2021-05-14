@@ -1,0 +1,59 @@
+{
+  "daniels_bot@lichess": {
+    "id": "daniels_bot",
+    "provider": "lichess",
+    "username": "daniels_bot",
+    "firstSeen": 1621011024834,
+    "lastSeen": 1621015824829,
+    "firstSeenTime": "4:50:24 PM",
+    "lastSeenTime": "5:59:28 PM",
+    "onlineDurationMins": 69.05691666666667
+  },
+  "no-varants-no@lichess": {
+    "id": "no-varants-no",
+    "provider": "lichess",
+    "username": "No-Varants-No",
+    "firstSeen": 1621012090110,
+    "lastSeen": 1621015853384,
+    "firstSeenTime": "5:08:10 PM",
+    "lastSeenTime": "5:58:31 PM",
+    "onlineDurationMins": 50.36078333333333
+  },
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1621014131237,
+    "lastSeen": 1621015816577,
+    "firstSeenTime": "5:42:11 PM",
+    "lastSeenTime": "5:59:19 PM",
+    "onlineDurationMins": 17.143533333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1621014890883,
+    "lastSeen": 1621015524201,
+    "firstSeenTime": "5:54:50 PM",
+    "lastSeenTime": "6:05:24 PM",
+    "onlineDurationMins": 10.5553
+  },
+  "matemaker84502@lichess": {
+    "id": "matemaker84502",
+    "provider": "lichess",
+    "username": "Matemaker84502",
+    "firstSeen": 1621015457840,
+    "lastSeen": 1621015676041,
+    "firstSeenTime": "6:04:17 PM",
+    "lastSeenTime": "6:04:26 PM",
+    "onlineDurationMins": 0.14881666666666668
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1621016224951,
+    "lastSeen": 1621016224951
+  }
+}
