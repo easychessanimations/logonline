@@ -1,0 +1,44 @@
+{
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1621010744923,
+    "lastSeen": 1621011289490
+  },
+  "daniels_bot@lichess": {
+    "id": "daniels_bot",
+    "provider": "lichess",
+    "username": "daniels_bot",
+    "firstSeen": 1621011024834,
+    "lastSeen": 1621011084757
+  },
+  "slitblu_bot@lichess": {
+    "id": "slitblu_bot",
+    "provider": "lichess",
+    "username": "Slitblu_BOT",
+    "firstSeen": 1621011045977,
+    "lastSeen": 1621011049261
+  },
+  "squirrelbot@lichess": {
+    "id": "squirrelbot",
+    "provider": "lichess",
+    "username": "SquirrelBot",
+    "firstSeen": 1621011235721,
+    "lastSeen": 1621011408309
+  },
+  "chessmaster3987@lichess": {
+    "id": "chessmaster3987",
+    "provider": "lichess",
+    "username": "chessmaster3987",
+    "firstSeen": 1621011272439,
+    "lastSeen": 1621011443757
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1621011459250,
+    "lastSeen": 1621011459250
+  }
+}
