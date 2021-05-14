@@ -1,0 +1,29 @@
+{
+  "daniels_bot@lichess": {
+    "id": "daniels_bot",
+    "provider": "lichess",
+    "username": "daniels_bot",
+    "firstSeen": 1621011024834,
+    "lastSeen": 1621021828266,
+    "firstSeenTime": "4:50:24 PM",
+    "lastSeenTime": "6:10:24 PM",
+    "onlineDurationMins": 79.99991666666666
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1621016224951,
+    "lastSeen": 1621022228953,
+    "firstSeenTime": "6:17:04 PM",
+    "lastSeenTime": "6:17:21 PM",
+    "onlineDurationMins": 0.27735
+  },
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1621022310730,
+    "lastSeen": 1621022310730
+  }
+}
