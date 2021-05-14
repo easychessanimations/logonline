@@ -1,0 +1,80 @@
+{
+  "no-varants-no@lichess": {
+    "id": "no-varants-no",
+    "provider": "lichess",
+    "username": "No-Varants-No",
+    "firstSeen": 1620999961933,
+    "lastSeen": 1621006587695,
+    "firstSeenTime": "1:46:01 PM",
+    "lastSeenTime": "3:14:30 PM",
+    "onlineDurationMins": 88.48146666666666
+  },
+  "daniels_bot@lichess": {
+    "id": "daniels_bot",
+    "provider": "lichess",
+    "username": "daniels_bot",
+    "firstSeen": 1621000581808,
+    "lastSeen": 1621006708189,
+    "firstSeenTime": "1:56:21 PM",
+    "lastSeenTime": "3:16:28 PM",
+    "onlineDurationMins": 80.10663333333333
+  },
+  "mr-bulletplayerbot@lichess": {
+    "id": "mr-bulletplayerbot",
+    "provider": "lichess",
+    "username": "Mr-bulletplayerBOt",
+    "firstSeen": 1621002911894,
+    "lastSeen": 1621006568974,
+    "firstSeenTime": "2:35:11 PM",
+    "lastSeenTime": "3:14:29 PM",
+    "onlineDurationMins": 39.294716666666666
+  },
+  "knight_128@lichess": {
+    "id": "knight_128",
+    "provider": "lichess",
+    "username": "knight_128",
+    "firstSeen": 1621004847090,
+    "lastSeen": 1621006615544,
+    "firstSeenTime": "3:07:27 PM",
+    "lastSeenTime": "3:08:12 PM",
+    "onlineDurationMins": 0.76485
+  },
+  "rancazzobot@lichess": {
+    "id": "rancazzobot",
+    "provider": "lichess",
+    "username": "RancazzoBot",
+    "firstSeen": 1621005258348,
+    "lastSeen": 1621005907506,
+    "firstSeenTime": "3:14:18 PM",
+    "lastSeenTime": "3:18:41 PM",
+    "onlineDurationMins": 4.381183333333333
+  },
+  "slitblu_bot@lichess": {
+    "id": "slitblu_bot",
+    "provider": "lichess",
+    "username": "Slitblu_BOT",
+    "firstSeen": 1621005690419,
+    "lastSeen": 1621006609288
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621005721150,
+    "lastSeen": 1621006777090
+  },
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1621005939751,
+    "lastSeen": 1621006618965
+  },
+  "newsnehaalchess@lichess": {
+    "id": "newsnehaalchess",
+    "provider": "lichess",
+    "username": "NewSnehaalchess",
+    "firstSeen": 1621006778039,
+    "lastSeen": 1621006778039
+  }
+}
