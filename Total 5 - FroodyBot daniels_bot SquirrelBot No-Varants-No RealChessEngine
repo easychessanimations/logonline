@@ -1,0 +1,46 @@
+{
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1621010744923,
+    "lastSeen": 1621012979017,
+    "firstSeenTime": "4:45:44 PM",
+    "lastSeenTime": "4:54:49 PM",
+    "onlineDurationMins": 9.076116666666667
+  },
+  "daniels_bot@lichess": {
+    "id": "daniels_bot",
+    "provider": "lichess",
+    "username": "daniels_bot",
+    "firstSeen": 1621011024834,
+    "lastSeen": 1621013008208,
+    "firstSeenTime": "4:50:24 PM",
+    "lastSeenTime": "4:51:24 PM",
+    "onlineDurationMins": 0.9987166666666667
+  },
+  "squirrelbot@lichess": {
+    "id": "squirrelbot",
+    "provider": "lichess",
+    "username": "SquirrelBot",
+    "firstSeen": 1621011235721,
+    "lastSeen": 1621012801685,
+    "firstSeenTime": "4:53:55 PM",
+    "lastSeenTime": "5:00:12 PM",
+    "onlineDurationMins": 6.280466666666666
+  },
+  "no-varants-no@lichess": {
+    "id": "no-varants-no",
+    "provider": "lichess",
+    "username": "No-Varants-No",
+    "firstSeen": 1621012090110,
+    "lastSeen": 1621013373227
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621012801001,
+    "lastSeen": 1621012813097
+  }
+}
