@@ -1,0 +1,40 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621057747944,
+    "lastSeen": 1621072162752,
+    "firstSeenTime": "5:49:07 AM",
+    "lastSeenTime": "8:11:21 AM",
+    "onlineDurationMins": 142.22393333333332
+  },
+  "slitblu_bot@lichess": {
+    "id": "slitblu_bot",
+    "provider": "lichess",
+    "username": "Slitblu_BOT",
+    "firstSeen": 1621068855002,
+    "lastSeen": 1621071868191
+  },
+  "bilel15@lichess": {
+    "id": "bilel15",
+    "provider": "lichess",
+    "username": "bilel15",
+    "firstSeen": 1621070996906,
+    "lastSeen": 1621072162046
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1621071390674,
+    "lastSeen": 1621072156039
+  },
+  "yolo_eldiablo15@lichess": {
+    "id": "yolo_eldiablo15",
+    "provider": "lichess",
+    "username": "yolo_eldiablo15",
+    "firstSeen": 1621072162768,
+    "lastSeen": 1621072162768
+  }
+}
