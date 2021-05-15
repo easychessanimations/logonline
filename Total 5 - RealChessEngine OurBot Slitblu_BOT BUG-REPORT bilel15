@@ -1,0 +1,40 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621057747944,
+    "lastSeen": 1621070953223,
+    "firstSeenTime": "5:49:07 AM",
+    "lastSeenTime": "8:11:21 AM",
+    "onlineDurationMins": 142.22393333333332
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1621067765787,
+    "lastSeen": 1621070378416
+  },
+  "slitblu_bot@lichess": {
+    "id": "slitblu_bot",
+    "provider": "lichess",
+    "username": "Slitblu_BOT",
+    "firstSeen": 1621068855002,
+    "lastSeen": 1621070921156
+  },
+  "bug-report@lichess": {
+    "id": "bug-report",
+    "provider": "lichess",
+    "username": "BUG-REPORT",
+    "firstSeen": 1621070436603,
+    "lastSeen": 1621070711651
+  },
+  "bilel15@lichess": {
+    "id": "bilel15",
+    "provider": "lichess",
+    "username": "bilel15",
+    "firstSeen": 1621070996906,
+    "lastSeen": 1621070996906
+  }
+}
