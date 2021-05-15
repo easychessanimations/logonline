@@ -1,0 +1,26 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621057747944,
+    "lastSeen": 1621068247746,
+    "firstSeenTime": "5:49:07 AM",
+    "lastSeenTime": "8:11:21 AM",
+    "onlineDurationMins": 142.22393333333332
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1621067765787,
+    "lastSeen": 1621068398428
+  },
+  "slitblu_bot@lichess": {
+    "id": "slitblu_bot",
+    "provider": "lichess",
+    "username": "Slitblu_BOT",
+    "firstSeen": 1621068855002,
+    "lastSeen": 1621068855002
+  }
+}
