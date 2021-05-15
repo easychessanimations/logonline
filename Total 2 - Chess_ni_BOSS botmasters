@@ -1,0 +1,19 @@
+{
+  "chess_ni_boss@lichess": {
+    "id": "chess_ni_boss",
+    "provider": "lichess",
+    "username": "Chess_ni_BOSS",
+    "firstSeen": 1621048411101,
+    "lastSeen": 1621053878061,
+    "firstSeenTime": "3:13:31 AM",
+    "lastSeenTime": "4:26:37 AM",
+    "onlineDurationMins": 73.10393333333333
+  },
+  "botmasters@lichess": {
+    "id": "botmasters",
+    "provider": "lichess",
+    "username": "botmasters",
+    "firstSeen": 1621052918385,
+    "lastSeen": 1621054116298
+  }
+}
