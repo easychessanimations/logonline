@@ -1,0 +1,36 @@
+{
+  "slitblu_bot@lichess": {
+    "id": "slitblu_bot",
+    "provider": "lichess",
+    "username": "Slitblu_BOT",
+    "firstSeen": 1621068855002,
+    "lastSeen": 1621080884522,
+    "firstSeenTime": "8:54:15 AM",
+    "lastSeenTime": "11:13:44 AM",
+    "onlineDurationMins": 139.48906666666667
+  },
+  "yolo_eldiablo15@lichess": {
+    "id": "yolo_eldiablo15",
+    "provider": "lichess",
+    "username": "yolo_eldiablo15",
+    "firstSeen": 1621072162768,
+    "lastSeen": 1621081475876,
+    "firstSeenTime": "9:49:22 AM",
+    "lastSeenTime": "11:23:11 AM",
+    "onlineDurationMins": 93.81166666666667
+  },
+  "anonymouschessteam@lichess": {
+    "id": "anonymouschessteam",
+    "provider": "lichess",
+    "username": "AnonymousChessTeam",
+    "firstSeen": 1621080599099,
+    "lastSeen": 1621080730137
+  },
+  "londonlion9@lichess": {
+    "id": "londonlion9",
+    "provider": "lichess",
+    "username": "Londonlion9",
+    "firstSeen": 1621080661250,
+    "lastSeen": 1621081420368
+  }
+}
