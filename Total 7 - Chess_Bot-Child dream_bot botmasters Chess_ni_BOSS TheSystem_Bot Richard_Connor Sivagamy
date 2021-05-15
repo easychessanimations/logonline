@@ -1,0 +1,63 @@
+{
+  "chess_bot-child@lichess": {
+    "id": "chess_bot-child",
+    "provider": "lichess",
+    "username": "Chess_Bot-Child",
+    "firstSeen": 1621043655543,
+    "lastSeen": 1621049579160,
+    "firstSeenTime": "1:54:15 AM",
+    "lastSeenTime": "3:12:57 AM",
+    "onlineDurationMins": 78.70216666666667
+  },
+  "dream_bot@lichess": {
+    "id": "dream_bot",
+    "provider": "lichess",
+    "username": "dream_bot",
+    "firstSeen": 1621045011099,
+    "lastSeen": 1621049490106,
+    "firstSeenTime": "2:16:51 AM",
+    "lastSeenTime": "3:13:30 AM",
+    "onlineDurationMins": 56.65116666666667
+  },
+  "botmasters@lichess": {
+    "id": "botmasters",
+    "provider": "lichess",
+    "username": "botmasters",
+    "firstSeen": 1621045492191,
+    "lastSeen": 1621049261168,
+    "firstSeenTime": "2:24:52 AM",
+    "lastSeenTime": "3:08:11 AM",
+    "onlineDurationMins": 43.31875
+  },
+  "chess_ni_boss@lichess": {
+    "id": "chess_ni_boss",
+    "provider": "lichess",
+    "username": "Chess_ni_BOSS",
+    "firstSeen": 1621048411101,
+    "lastSeen": 1621049599571,
+    "firstSeenTime": "3:13:31 AM",
+    "lastSeenTime": "3:13:45 AM",
+    "onlineDurationMins": 0.24085
+  },
+  "thesystem_bot@lichess": {
+    "id": "thesystem_bot",
+    "provider": "lichess",
+    "username": "TheSystem_Bot",
+    "firstSeen": 1621048692537,
+    "lastSeen": 1621049579194
+  },
+  "richard_connor@lichess": {
+    "id": "richard_connor",
+    "provider": "lichess",
+    "username": "Richard_Connor",
+    "firstSeen": 1621049131385,
+    "lastSeen": 1621049214901
+  },
+  "sivagamy@lichess": {
+    "id": "sivagamy",
+    "provider": "lichess",
+    "username": "Sivagamy",
+    "firstSeen": 1621049138253,
+    "lastSeen": 1621049158239
+  }
+}
