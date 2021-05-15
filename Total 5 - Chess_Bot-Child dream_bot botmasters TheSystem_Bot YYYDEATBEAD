@@ -1,0 +1,49 @@
+{
+  "chess_bot-child@lichess": {
+    "id": "chess_bot-child",
+    "provider": "lichess",
+    "username": "Chess_Bot-Child",
+    "firstSeen": 1621043655543,
+    "lastSeen": 1621047609131,
+    "firstSeenTime": "1:54:15 AM",
+    "lastSeenTime": "2:44:00 AM",
+    "onlineDurationMins": 49.757133333333336
+  },
+  "dream_bot@lichess": {
+    "id": "dream_bot",
+    "provider": "lichess",
+    "username": "dream_bot",
+    "firstSeen": 1621045011099,
+    "lastSeen": 1621047227642,
+    "firstSeenTime": "2:16:51 AM",
+    "lastSeenTime": "2:43:52 AM",
+    "onlineDurationMins": 27.018416666666667
+  },
+  "botmasters@lichess": {
+    "id": "botmasters",
+    "provider": "lichess",
+    "username": "botmasters",
+    "firstSeen": 1621045492191,
+    "lastSeen": 1621047498069,
+    "firstSeenTime": "2:24:52 AM",
+    "lastSeenTime": "2:43:55 AM",
+    "onlineDurationMins": 19.052633333333333
+  },
+  "thesystem_bot@lichess": {
+    "id": "thesystem_bot",
+    "provider": "lichess",
+    "username": "TheSystem_Bot",
+    "firstSeen": 1621046594979,
+    "lastSeen": 1621047503671,
+    "firstSeenTime": "2:43:14 AM",
+    "lastSeenTime": "2:43:41 AM",
+    "onlineDurationMins": 0.44981666666666664
+  },
+  "yyydeatbead@lichess": {
+    "id": "yyydeatbead",
+    "provider": "lichess",
+    "username": "YYYDEATBEAD",
+    "firstSeen": 1621047504520,
+    "lastSeen": 1621047613324
+  }
+}
