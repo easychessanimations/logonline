@@ -1,0 +1,62 @@
+{
+  "slitblu_bot@lichess": {
+    "id": "slitblu_bot",
+    "provider": "lichess",
+    "username": "Slitblu_BOT",
+    "firstSeen": 1621068855002,
+    "lastSeen": 1621077944568,
+    "firstSeenTime": "8:54:15 AM",
+    "lastSeenTime": "11:13:44 AM",
+    "onlineDurationMins": 139.48906666666667
+  },
+  "yolo_eldiablo15@lichess": {
+    "id": "yolo_eldiablo15",
+    "provider": "lichess",
+    "username": "yolo_eldiablo15",
+    "firstSeen": 1621072162768,
+    "lastSeen": 1621077997512,
+    "firstSeenTime": "9:49:22 AM",
+    "lastSeenTime": "11:23:11 AM",
+    "onlineDurationMins": 93.81166666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1621073158687,
+    "lastSeen": 1621077815555,
+    "firstSeenTime": "10:05:58 AM",
+    "lastSeenTime": "11:23:35 AM",
+    "onlineDurationMins": 77.61446666666667
+  },
+  "the-golden-trio@lichess": {
+    "id": "the-golden-trio",
+    "provider": "lichess",
+    "username": "The-Golden-Trio",
+    "firstSeen": 1621076189315,
+    "lastSeen": 1621077704528,
+    "firstSeenTime": "10:56:29 AM",
+    "lastSeenTime": "11:21:44 AM",
+    "onlineDurationMins": 25.25355
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621076441969,
+    "lastSeen": 1621078154417,
+    "firstSeenTime": "11:00:41 AM",
+    "lastSeenTime": "11:13:48 AM",
+    "onlineDurationMins": 13.105966666666667
+  },
+  "fast_dragon@lichess": {
+    "id": "fast_dragon",
+    "provider": "lichess",
+    "username": "FAST_DRAGON",
+    "firstSeen": 1621077626655,
+    "lastSeen": 1621077907396,
+    "firstSeenTime": "11:20:26 AM",
+    "lastSeenTime": "11:22:19 AM",
+    "onlineDurationMins": 1.88155
+  }
+}
