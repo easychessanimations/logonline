@@ -1,0 +1,23 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621057747944,
+    "lastSeen": 1621062860363
+  },
+  "chess_ni_boss@lichess": {
+    "id": "chess_ni_boss",
+    "provider": "lichess",
+    "username": "Chess_ni_BOSS",
+    "firstSeen": 1621061356197,
+    "lastSeen": 1621062817581
+  },
+  "botmasters@lichess": {
+    "id": "botmasters",
+    "provider": "lichess",
+    "username": "botmasters",
+    "firstSeen": 1621062977202,
+    "lastSeen": 1621062977202
+  }
+}
