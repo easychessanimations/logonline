@@ -1,0 +1,79 @@
+{
+  "slitblu_bot@lichess": {
+    "id": "slitblu_bot",
+    "provider": "lichess",
+    "username": "Slitblu_BOT",
+    "firstSeen": 1621068855002,
+    "lastSeen": 1621076564504,
+    "firstSeenTime": "8:54:15 AM",
+    "lastSeenTime": "11:02:44 AM",
+    "onlineDurationMins": 128.4917
+  },
+  "yolo_eldiablo15@lichess": {
+    "id": "yolo_eldiablo15",
+    "provider": "lichess",
+    "username": "yolo_eldiablo15",
+    "firstSeen": 1621072162768,
+    "lastSeen": 1621076860301,
+    "firstSeenTime": "9:49:22 AM",
+    "lastSeenTime": "11:03:26 AM",
+    "onlineDurationMins": 74.0703
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1621073158687,
+    "lastSeen": 1621076646684,
+    "firstSeenTime": "10:05:58 AM",
+    "lastSeenTime": "11:04:06 AM",
+    "onlineDurationMins": 58.13328333333333
+  },
+  "the-golden-trio@lichess": {
+    "id": "the-golden-trio",
+    "provider": "lichess",
+    "username": "The-Golden-Trio",
+    "firstSeen": 1621076189315,
+    "lastSeen": 1621076857949,
+    "firstSeenTime": "10:56:29 AM",
+    "lastSeenTime": "10:58:00 AM",
+    "onlineDurationMins": 1.5208666666666666
+  },
+  "caglax@lichess": {
+    "id": "caglax",
+    "provider": "lichess",
+    "username": "caglax",
+    "firstSeen": 1621076196647,
+    "lastSeen": 1621076398545,
+    "firstSeenTime": "10:56:36 AM",
+    "lastSeenTime": "10:59:58 AM",
+    "onlineDurationMins": 3.3649666666666667
+  },
+  "gamermaxpro@lichess": {
+    "id": "gamermaxpro",
+    "provider": "lichess",
+    "username": "gamermaxpro",
+    "firstSeen": 1621076399301,
+    "lastSeen": 1621076479315,
+    "firstSeenTime": "10:59:59 AM",
+    "lastSeenTime": "11:01:19 AM",
+    "onlineDurationMins": 1.3335666666666666
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621076441969,
+    "lastSeen": 1621076473084,
+    "firstSeenTime": "11:00:41 AM",
+    "lastSeenTime": "11:01:13 AM",
+    "onlineDurationMins": 0.5185833333333333
+  },
+  "nathanpro555@lichess": {
+    "id": "nathanpro555",
+    "provider": "lichess",
+    "username": "nathanpro555",
+    "firstSeen": 1621076860767,
+    "lastSeen": 1621076860767
+  }
+}
