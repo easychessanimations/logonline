@@ -1,0 +1,22 @@
+{
+  "the-golden-trio@lichess": {
+    "id": "the-golden-trio",
+    "provider": "lichess",
+    "username": "The-Golden-Trio",
+    "firstSeen": 1621166951828,
+    "lastSeen": 1621166968029,
+    "firstSeenTime": "12:09:11 PM",
+    "lastSeenTime": "12:09:28 PM",
+    "onlineDurationMins": 0.2700166666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1621167182706,
+    "lastSeen": 1621167182706,
+    "firstSeenTime": "12:13:02 PM",
+    "lastSeenTime": "12:13:02 PM",
+    "onlineDurationMins": 0
+  }
+}
