@@ -1,0 +1,22 @@
+{
+  "chess_bot-child@lichess": {
+    "id": "chess_bot-child",
+    "provider": "lichess",
+    "username": "Chess_Bot-Child",
+    "firstSeen": 1621132472103,
+    "lastSeen": 1621138165521,
+    "firstSeenTime": "2:34:32 AM",
+    "lastSeenTime": "3:45:46 AM",
+    "onlineDurationMins": 71.24205
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621136732094,
+    "lastSeen": 1621138271169,
+    "firstSeenTime": "3:45:32 AM",
+    "lastSeenTime": "3:45:50 AM",
+    "onlineDurationMins": 0.31171666666666664
+  }
+}
