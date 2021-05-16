@@ -1,0 +1,23 @@
+{
+  "attacking_dragon@lichess": {
+    "id": "attacking_dragon",
+    "provider": "lichess",
+    "username": "Attacking_Dragon",
+    "firstSeen": 1621169778649,
+    "lastSeen": 1621169955627
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621169810367,
+    "lastSeen": 1621170209899
+  },
+  "wowaccount64@lichess": {
+    "id": "wowaccount64",
+    "provider": "lichess",
+    "username": "WowAccount64",
+    "firstSeen": 1621170520811,
+    "lastSeen": 1621170520811
+  }
+}
