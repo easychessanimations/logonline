@@ -1,0 +1,32 @@
+{
+  "triplebot123@lichess": {
+    "id": "triplebot123",
+    "provider": "lichess",
+    "username": "TripleBOT123",
+    "firstSeen": 1621163588606,
+    "lastSeen": 1621163632981,
+    "firstSeenTime": "11:13:08 AM",
+    "lastSeenTime": "11:13:52 AM",
+    "onlineDurationMins": 0.7395833333333334
+  },
+  "zakhele2005@lichess": {
+    "id": "zakhele2005",
+    "provider": "lichess",
+    "username": "Zakhele2005",
+    "firstSeen": 1621164360643,
+    "lastSeen": 1621164377091,
+    "firstSeenTime": "11:26:00 AM",
+    "lastSeenTime": "11:26:17 AM",
+    "onlineDurationMins": 0.27413333333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1621164466012,
+    "lastSeen": 1621164466380,
+    "firstSeenTime": "11:27:46 AM",
+    "lastSeenTime": "11:27:46 AM",
+    "onlineDurationMins": 0
+  }
+}
