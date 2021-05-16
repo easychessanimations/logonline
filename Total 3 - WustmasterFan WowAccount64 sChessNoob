@@ -1,0 +1,32 @@
+{
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1621172209164,
+    "lastSeen": 1621182829113,
+    "firstSeenTime": "1:36:49 PM",
+    "lastSeenTime": "4:28:53 PM",
+    "onlineDurationMins": 172.06763333333333
+  },
+  "wowaccount64@lichess": {
+    "id": "wowaccount64",
+    "provider": "lichess",
+    "username": "WowAccount64",
+    "firstSeen": 1621175552227,
+    "lastSeen": 1621183048601,
+    "firstSeenTime": "2:32:32 PM",
+    "lastSeenTime": "4:29:32 PM",
+    "onlineDurationMins": 117.0123
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1621182607020,
+    "lastSeen": 1621182607020,
+    "firstSeenTime": "4:30:07 PM",
+    "lastSeenTime": "4:30:07 PM",
+    "onlineDurationMins": 0
+  }
+}
