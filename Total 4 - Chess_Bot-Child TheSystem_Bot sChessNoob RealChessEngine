@@ -1,0 +1,39 @@
+{
+  "chess_bot-child@lichess": {
+    "id": "chess_bot-child",
+    "provider": "lichess",
+    "username": "Chess_Bot-Child",
+    "firstSeen": 1621132472103,
+    "lastSeen": 1621136746626,
+    "firstSeenTime": "2:34:32 AM",
+    "lastSeenTime": "3:28:55 AM",
+    "onlineDurationMins": 54.382466666666666
+  },
+  "thesystem_bot@lichess": {
+    "id": "thesystem_bot",
+    "provider": "lichess",
+    "username": "TheSystem_Bot",
+    "firstSeen": 1621132503185,
+    "lastSeen": 1621136732897,
+    "firstSeenTime": "2:35:03 AM",
+    "lastSeenTime": "3:37:02 AM",
+    "onlineDurationMins": 61.98328333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1621136309820,
+    "lastSeen": 1621136309821,
+    "firstSeenTime": "3:38:29 AM",
+    "lastSeenTime": "3:38:29 AM",
+    "onlineDurationMins": 0.000016666666666666667
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621136732094,
+    "lastSeen": 1621136750797
+  }
+}
