@@ -1,0 +1,19 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621136732094,
+    "lastSeen": 1621146052915,
+    "firstSeenTime": "3:45:32 AM",
+    "lastSeenTime": "3:45:50 AM",
+    "onlineDurationMins": 0.31171666666666664
+  },
+  "wish-you-all@lichess": {
+    "id": "wish-you-all",
+    "provider": "lichess",
+    "username": "Wish-You-All",
+    "firstSeen": 1621145378259,
+    "lastSeen": 1621146166191
+  }
+}
