@@ -1,0 +1,46 @@
+{
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1621172209164,
+    "lastSeen": 1621181328969,
+    "firstSeenTime": "1:36:49 PM",
+    "lastSeenTime": "3:54:04 PM",
+    "onlineDurationMins": 137.25366666666667
+  },
+  "wowaccount64@lichess": {
+    "id": "wowaccount64",
+    "provider": "lichess",
+    "username": "WowAccount64",
+    "firstSeen": 1621175552227,
+    "lastSeen": 1621181726587,
+    "firstSeenTime": "2:32:32 PM",
+    "lastSeenTime": "4:04:32 PM",
+    "onlineDurationMins": 92.01178333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1621181073610,
+    "lastSeen": 1621181074124,
+    "firstSeenTime": "4:04:33 PM",
+    "lastSeenTime": "4:04:33 PM",
+    "onlineDurationMins": 0
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621181216009,
+    "lastSeen": 1621181730153
+  },
+  "i_am_best@lichess": {
+    "id": "i_am_best",
+    "provider": "lichess",
+    "username": "I_am_best",
+    "firstSeen": 1621181790199,
+    "lastSeen": 1621181790199
+  }
+}
