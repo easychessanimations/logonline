@@ -3,14 +3,20 @@
     "id": "realchessengine",
     "provider": "lichess",
     "username": "RealChessEngine",
-    "firstSeen": 1621057747944,
-    "lastSeen": 1621061038833
+    "firstSeen": 1621136732094,
+    "lastSeen": 1621148813098,
+    "firstSeenTime": "3:45:32 AM",
+    "lastSeenTime": "6:34:01 AM",
+    "onlineDurationMins": 168.49055
   },
   "chess_ni_boss@lichess": {
     "id": "chess_ni_boss",
     "provider": "lichess",
     "username": "Chess_ni_BOSS",
-    "firstSeen": 1621061356197,
-    "lastSeen": 1621061356197
+    "firstSeen": 1621146643310,
+    "lastSeen": 1621148884475,
+    "firstSeenTime": "6:30:43 AM",
+    "lastSeenTime": "6:33:28 AM",
+    "onlineDurationMins": 2.7522333333333333
   }
 }
