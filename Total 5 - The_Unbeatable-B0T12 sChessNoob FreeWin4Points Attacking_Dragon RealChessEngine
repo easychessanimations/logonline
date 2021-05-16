@@ -1,0 +1,43 @@
+{
+  "the_unbeatable-b0t12@lichess": {
+    "id": "the_unbeatable-b0t12",
+    "provider": "lichess",
+    "username": "The_Unbeatable-B0T12",
+    "firstSeen": 1621167455772,
+    "lastSeen": 1621168988385,
+    "firstSeenTime": "12:17:35 PM",
+    "lastSeenTime": "12:37:05 PM",
+    "onlineDurationMins": 19.496383333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1621168952189,
+    "lastSeen": 1621168952189,
+    "firstSeenTime": "12:42:32 PM",
+    "lastSeenTime": "12:42:32 PM",
+    "onlineDurationMins": 0
+  },
+  "freewin4points@lichess": {
+    "id": "freewin4points",
+    "provider": "lichess",
+    "username": "FreeWin4Points",
+    "firstSeen": 1621169362064,
+    "lastSeen": 1621169382190
+  },
+  "attacking_dragon@lichess": {
+    "id": "attacking_dragon",
+    "provider": "lichess",
+    "username": "Attacking_Dragon",
+    "firstSeen": 1621169778649,
+    "lastSeen": 1621169788104
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621169810367,
+    "lastSeen": 1621169810367
+  }
+}
