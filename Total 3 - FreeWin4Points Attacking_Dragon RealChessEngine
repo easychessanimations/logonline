@@ -1,0 +1,23 @@
+{
+  "freewin4points@lichess": {
+    "id": "freewin4points",
+    "provider": "lichess",
+    "username": "FreeWin4Points",
+    "firstSeen": 1621169362064,
+    "lastSeen": 1621169382190
+  },
+  "attacking_dragon@lichess": {
+    "id": "attacking_dragon",
+    "provider": "lichess",
+    "username": "Attacking_Dragon",
+    "firstSeen": 1621169778649,
+    "lastSeen": 1621169889003
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621169810367,
+    "lastSeen": 1621169835760
+  }
+}
