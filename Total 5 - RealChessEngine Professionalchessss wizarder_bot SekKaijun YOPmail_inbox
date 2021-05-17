@@ -1,0 +1,43 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621232091659,
+    "lastSeen": 1621243672788,
+    "firstSeenTime": "6:14:51 AM",
+    "lastSeenTime": "9:04:53 AM",
+    "onlineDurationMins": 170.02641666666668
+  },
+  "professionalchessss@lichess": {
+    "id": "professionalchessss",
+    "provider": "lichess",
+    "username": "Professionalchessss",
+    "firstSeen": 1621238778475,
+    "lastSeen": 1621243682819,
+    "firstSeenTime": "8:06:18 AM",
+    "lastSeenTime": "9:05:02 AM",
+    "onlineDurationMins": 58.74028333333333
+  },
+  "wizarder_bot@lichess": {
+    "id": "wizarder_bot",
+    "provider": "lichess",
+    "username": "wizarder_bot",
+    "firstSeen": 1621243247875,
+    "lastSeen": 1621243454239
+  },
+  "sekkaijun@lichess": {
+    "id": "sekkaijun",
+    "provider": "lichess",
+    "username": "SekKaijun",
+    "firstSeen": 1621243457226,
+    "lastSeen": 1621244115323
+  },
+  "yopmail_inbox@lichess": {
+    "id": "yopmail_inbox",
+    "provider": "lichess",
+    "username": "YOPmail_inbox",
+    "firstSeen": 1621243464297,
+    "lastSeen": 1621243684787
+  }
+}
