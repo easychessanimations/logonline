@@ -1,0 +1,33 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621223171519,
+    "lastSeen": 1621230464053,
+    "firstSeenTime": "3:46:11 AM",
+    "lastSeenTime": "5:12:57 AM",
+    "onlineDurationMins": 86.77351666666667
+  },
+  "parthvisharma@lichess": {
+    "id": "parthvisharma",
+    "provider": "lichess",
+    "username": "ParthviSharma",
+    "firstSeen": 1621229119798,
+    "lastSeen": 1621230430542
+  },
+  "pepejabekhepe@lichess": {
+    "id": "pepejabekhepe",
+    "provider": "lichess",
+    "username": "pepejabekhepe",
+    "firstSeen": 1621230212711,
+    "lastSeen": 1621230284904
+  },
+  "bestchessbot@lichess": {
+    "id": "bestchessbot",
+    "provider": "lichess",
+    "username": "bestchessbot",
+    "firstSeen": 1621230501817,
+    "lastSeen": 1621230501817
+  }
+}
