@@ -1,0 +1,49 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621223171519,
+    "lastSeen": 1621224952142,
+    "firstSeenTime": "3:46:11 AM",
+    "lastSeenTime": "4:01:30 AM",
+    "onlineDurationMins": 15.32245
+  },
+  "the-golden-trio@lichess": {
+    "id": "the-golden-trio",
+    "provider": "lichess",
+    "username": "The-Golden-Trio",
+    "firstSeen": 1621223837745,
+    "lastSeen": 1621224508404,
+    "firstSeenTime": "3:57:17 AM",
+    "lastSeenTime": "4:08:28 AM",
+    "onlineDurationMins": 11.17765
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1621224105953,
+    "lastSeen": 1621224757282,
+    "firstSeenTime": "4:01:45 AM",
+    "lastSeenTime": "4:12:37 AM",
+    "onlineDurationMins": 10.855483333333334
+  },
+  "cash-sponsorof15usd@lichess": {
+    "id": "cash-sponsorof15usd",
+    "provider": "lichess",
+    "username": "cash-sponsorof15usd",
+    "firstSeen": 1621224667164,
+    "lastSeen": 1621225005338,
+    "firstSeenTime": "4:11:07 AM",
+    "lastSeenTime": "4:11:11 AM",
+    "onlineDurationMins": 0.07851666666666667
+  },
+  "pepejabekhepe@lichess": {
+    "id": "pepejabekhepe",
+    "provider": "lichess",
+    "username": "pepejabekhepe",
+    "firstSeen": 1621225006360,
+    "lastSeen": 1621225006360
+  }
+}
