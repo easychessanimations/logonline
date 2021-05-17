@@ -1,0 +1,30 @@
+{
+  "no-varants-no@lichess": {
+    "id": "no-varants-no",
+    "provider": "lichess",
+    "username": "No-Varants-No",
+    "firstSeen": 1621263622642,
+    "lastSeen": 1621265657355
+  },
+  "wowaccount64@lichess": {
+    "id": "wowaccount64",
+    "provider": "lichess",
+    "username": "WowAccount64",
+    "firstSeen": 1621263822104,
+    "lastSeen": 1621265314195
+  },
+  "knight_bot@lichess": {
+    "id": "knight_bot",
+    "provider": "lichess",
+    "username": "knight_BOT",
+    "firstSeen": 1621264893192,
+    "lastSeen": 1621265559259
+  },
+  "bug-report@lichess": {
+    "id": "bug-report",
+    "provider": "lichess",
+    "username": "BUG-REPORT",
+    "firstSeen": 1621265112881,
+    "lastSeen": 1621265362872
+  }
+}
