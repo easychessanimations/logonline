@@ -1,0 +1,32 @@
+{
+  "wowaccount64@lichess": {
+    "id": "wowaccount64",
+    "provider": "lichess",
+    "username": "WowAccount64",
+    "firstSeen": 1621261595688,
+    "lastSeen": 1621262555591,
+    "firstSeenTime": "2:26:35 PM",
+    "lastSeenTime": "2:31:47 PM",
+    "onlineDurationMins": 5.20215
+  },
+  "pepejabekhepe@lichess": {
+    "id": "pepejabekhepe",
+    "provider": "lichess",
+    "username": "pepejabekhepe",
+    "firstSeen": 1621261609326,
+    "lastSeen": 1621262677879,
+    "firstSeenTime": "2:26:49 PM",
+    "lastSeenTime": "2:32:10 PM",
+    "onlineDurationMins": 5.355716666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1621261915147,
+    "lastSeen": 1621261931075,
+    "firstSeenTime": "2:31:55 PM",
+    "lastSeenTime": "2:32:11 PM",
+    "onlineDurationMins": 0.2654666666666667
+  }
+}
