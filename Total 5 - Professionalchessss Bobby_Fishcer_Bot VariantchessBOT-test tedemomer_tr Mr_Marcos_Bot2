@@ -1,0 +1,40 @@
+{
+  "professionalchessss@lichess": {
+    "id": "professionalchessss",
+    "provider": "lichess",
+    "username": "Professionalchessss",
+    "firstSeen": 1621238778475,
+    "lastSeen": 1621255562900,
+    "firstSeenTime": "8:06:18 AM",
+    "lastSeenTime": "12:23:02 PM",
+    "onlineDurationMins": 256.74066666666664
+  },
+  "bobby_fishcer_bot@lichess": {
+    "id": "bobby_fishcer_bot",
+    "provider": "lichess",
+    "username": "Bobby_Fishcer_Bot",
+    "firstSeen": 1621254392824,
+    "lastSeen": 1621255873809
+  },
+  "variantchessbot-test@lichess": {
+    "id": "variantchessbot-test",
+    "provider": "lichess",
+    "username": "VariantchessBOT-test",
+    "firstSeen": 1621254577242,
+    "lastSeen": 1621255243013
+  },
+  "tedemomer_tr@lichess": {
+    "id": "tedemomer_tr",
+    "provider": "lichess",
+    "username": "tedemomer_tr",
+    "firstSeen": 1621254585673,
+    "lastSeen": 1621255120168
+  },
+  "mr_marcos_bot2@lichess": {
+    "id": "mr_marcos_bot2",
+    "provider": "lichess",
+    "username": "Mr_Marcos_Bot2",
+    "firstSeen": 1621255806488,
+    "lastSeen": 1621255834692
+  }
+}
