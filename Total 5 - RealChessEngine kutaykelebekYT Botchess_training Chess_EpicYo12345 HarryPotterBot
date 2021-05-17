@@ -1,0 +1,37 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621232091659,
+    "lastSeen": 1621236204018
+  },
+  "kutaykelebekyt@lichess": {
+    "id": "kutaykelebekyt",
+    "provider": "lichess",
+    "username": "kutaykelebekYT",
+    "firstSeen": 1621234054517,
+    "lastSeen": 1621235796412
+  },
+  "botchess_training@lichess": {
+    "id": "botchess_training",
+    "provider": "lichess",
+    "username": "Botchess_training",
+    "firstSeen": 1621235567143,
+    "lastSeen": 1621235609640
+  },
+  "chess_epicyo12345@lichess": {
+    "id": "chess_epicyo12345",
+    "provider": "lichess",
+    "username": "Chess_EpicYo12345",
+    "firstSeen": 1621235610497,
+    "lastSeen": 1621236256943
+  },
+  "harrypotterbot@lichess": {
+    "id": "harrypotterbot",
+    "provider": "lichess",
+    "username": "HarryPotterBot",
+    "firstSeen": 1621236088407,
+    "lastSeen": 1621236150267
+  }
+}
