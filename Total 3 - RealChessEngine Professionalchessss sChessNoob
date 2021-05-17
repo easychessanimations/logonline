@@ -1,0 +1,32 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621232091659,
+    "lastSeen": 1621245039992,
+    "firstSeenTime": "6:14:51 AM",
+    "lastSeenTime": "9:50:39 AM",
+    "onlineDurationMins": 215.80555
+  },
+  "professionalchessss@lichess": {
+    "id": "professionalchessss",
+    "provider": "lichess",
+    "username": "Professionalchessss",
+    "firstSeen": 1621238778475,
+    "lastSeen": 1621245059420,
+    "firstSeenTime": "8:06:18 AM",
+    "lastSeenTime": "9:50:59 AM",
+    "onlineDurationMins": 104.68241666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1621245137188,
+    "lastSeen": 1621245441733,
+    "firstSeenTime": "9:52:17 AM",
+    "lastSeenTime": "9:57:21 AM",
+    "onlineDurationMins": 5.07575
+  }
+}
