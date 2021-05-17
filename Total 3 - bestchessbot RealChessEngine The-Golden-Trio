@@ -1,0 +1,26 @@
+{
+  "bestchessbot@lichess": {
+    "id": "bestchessbot",
+    "provider": "lichess",
+    "username": "bestchessbot",
+    "firstSeen": 1621218860799,
+    "lastSeen": 1621223608379,
+    "firstSeenTime": "2:34:20 AM",
+    "lastSeenTime": "2:45:28 AM",
+    "onlineDurationMins": 11.132183333333334
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621223171519,
+    "lastSeen": 1621223460577
+  },
+  "the-golden-trio@lichess": {
+    "id": "the-golden-trio",
+    "provider": "lichess",
+    "username": "The-Golden-Trio",
+    "firstSeen": 1621223837745,
+    "lastSeen": 1621223837746
+  }
+}
