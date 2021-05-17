@@ -1,0 +1,23 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621232091659,
+    "lastSeen": 1621233351893
+  },
+  "botchess_training@lichess": {
+    "id": "botchess_training",
+    "provider": "lichess",
+    "username": "Botchess_training",
+    "firstSeen": 1621232107541,
+    "lastSeen": 1621233227040
+  },
+  "parthvi12345@lichess": {
+    "id": "parthvi12345",
+    "provider": "lichess",
+    "username": "Parthvi12345",
+    "firstSeen": 1621233745919,
+    "lastSeen": 1621233766099
+  }
+}
