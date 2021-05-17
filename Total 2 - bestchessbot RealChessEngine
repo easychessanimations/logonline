@@ -3,14 +3,17 @@
     "id": "bestchessbot",
     "provider": "lichess",
     "username": "bestchessbot",
-    "firstSeen": 1620181051191,
-    "lastSeen": 1620186428377
+    "firstSeen": 1621218860799,
+    "lastSeen": 1621223608379,
+    "firstSeenTime": "2:34:20 AM",
+    "lastSeenTime": "2:45:28 AM",
+    "onlineDurationMins": 11.132183333333334
   },
   "realchessengine@lichess": {
     "id": "realchessengine",
     "provider": "lichess",
     "username": "RealChessEngine",
-    "firstSeen": 1620186434278,
-    "lastSeen": 1620186434278
+    "firstSeen": 1621223171519,
+    "lastSeen": 1621223460577
   }
 }
