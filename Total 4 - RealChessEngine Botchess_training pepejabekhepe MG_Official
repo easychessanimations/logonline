@@ -1,0 +1,30 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621232091659,
+    "lastSeen": 1621232955890
+  },
+  "botchess_training@lichess": {
+    "id": "botchess_training",
+    "provider": "lichess",
+    "username": "Botchess_training",
+    "firstSeen": 1621232107541,
+    "lastSeen": 1621233151856
+  },
+  "pepejabekhepe@lichess": {
+    "id": "pepejabekhepe",
+    "provider": "lichess",
+    "username": "pepejabekhepe",
+    "firstSeen": 1621232195906,
+    "lastSeen": 1621233031664
+  },
+  "mg_official@lichess": {
+    "id": "mg_official",
+    "provider": "lichess",
+    "username": "MG_Official",
+    "firstSeen": 1621232363501,
+    "lastSeen": 1621232388431
+  }
+}
