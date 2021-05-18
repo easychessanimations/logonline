@@ -1,0 +1,43 @@
+{
+  "chess_ni_boss@lichess": {
+    "id": "chess_ni_boss",
+    "provider": "lichess",
+    "username": "Chess_ni_BOSS",
+    "firstSeen": 1621320055668,
+    "lastSeen": 1621324874124,
+    "firstSeenTime": "6:40:55 AM",
+    "lastSeenTime": "7:00:54 AM",
+    "onlineDurationMins": 19.986166666666666
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1621320937966,
+    "lastSeen": 1621324361315,
+    "firstSeenTime": "6:55:37 AM",
+    "lastSeenTime": "6:59:29 AM",
+    "onlineDurationMins": 3.8526166666666666
+  },
+  "dragonbot@lichess": {
+    "id": "dragonbot",
+    "provider": "lichess",
+    "username": "DragonBOT",
+    "firstSeen": 1621323711771,
+    "lastSeen": 1621324742982
+  },
+  "wowaccount64@lichess": {
+    "id": "wowaccount64",
+    "provider": "lichess",
+    "username": "WowAccount64",
+    "firstSeen": 1621324162675,
+    "lastSeen": 1621324669974
+  },
+  "tudorca@lichess": {
+    "id": "tudorca",
+    "provider": "lichess",
+    "username": "tudorca",
+    "firstSeen": 1621324899833,
+    "lastSeen": 1621324899833
+  }
+}
