@@ -1,0 +1,79 @@
+{
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1621340390158,
+    "lastSeen": 1621347808943,
+    "firstSeenTime": "12:19:50 PM",
+    "lastSeenTime": "2:12:34 PM",
+    "onlineDurationMins": 112.73368333333333
+  },
+  "bobby_fishcer_bot@lichess": {
+    "id": "bobby_fishcer_bot",
+    "provider": "lichess",
+    "username": "Bobby_Fishcer_Bot",
+    "firstSeen": 1621341546208,
+    "lastSeen": 1621347547811,
+    "firstSeenTime": "12:39:06 PM",
+    "lastSeenTime": "2:19:07 PM",
+    "onlineDurationMins": 100.02671666666667
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1621341563488,
+    "lastSeen": 1621347568683,
+    "firstSeenTime": "12:39:23 PM",
+    "lastSeenTime": "2:19:28 PM",
+    "onlineDurationMins": 100.08658333333334
+  },
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1621342893807,
+    "lastSeen": 1621347313834,
+    "firstSeenTime": "1:01:33 PM",
+    "lastSeenTime": "2:15:13 PM",
+    "onlineDurationMins": 73.66711666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1621345016715,
+    "lastSeen": 1621347585439,
+    "firstSeenTime": "1:36:56 PM",
+    "lastSeenTime": "2:19:45 PM",
+    "onlineDurationMins": 42.81206666666667
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621345999293,
+    "lastSeen": 1621347503608,
+    "firstSeenTime": "1:53:19 PM",
+    "lastSeenTime": "2:18:23 PM",
+    "onlineDurationMins": 25.071916666666667
+  },
+  "botchess_training@lichess": {
+    "id": "botchess_training",
+    "provider": "lichess",
+    "username": "Botchess_training",
+    "firstSeen": 1621346956912,
+    "lastSeen": 1621347680186,
+    "firstSeenTime": "2:09:16 PM",
+    "lastSeenTime": "2:18:15 PM",
+    "onlineDurationMins": 8.97215
+  },
+  "wowaccount64@lichess": {
+    "id": "wowaccount64",
+    "provider": "lichess",
+    "username": "WowAccount64",
+    "firstSeen": 1621347765806,
+    "lastSeen": 1621347765838
+  }
+}
