@@ -1,0 +1,23 @@
+{
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1621360683613,
+    "lastSeen": 1621366027897
+  },
+  "funebot@lichess": {
+    "id": "funebot",
+    "provider": "lichess",
+    "username": "FuneBot",
+    "firstSeen": 1621363566175,
+    "lastSeen": 1621366138345
+  },
+  "squirrelbot@lichess": {
+    "id": "squirrelbot",
+    "provider": "lichess",
+    "username": "SquirrelBot",
+    "firstSeen": 1621366283118,
+    "lastSeen": 1621366283118
+  }
+}
