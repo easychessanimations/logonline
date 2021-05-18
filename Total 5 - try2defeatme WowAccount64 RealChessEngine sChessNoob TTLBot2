@@ -1,0 +1,49 @@
+{
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1621320937966,
+    "lastSeen": 1621329941637,
+    "firstSeenTime": "6:55:37 AM",
+    "lastSeenTime": "9:11:45 AM",
+    "onlineDurationMins": 136.13296666666668
+  },
+  "wowaccount64@lichess": {
+    "id": "wowaccount64",
+    "provider": "lichess",
+    "username": "WowAccount64",
+    "firstSeen": 1621324162675,
+    "lastSeen": 1621329911128,
+    "firstSeenTime": "7:49:22 AM",
+    "lastSeenTime": "9:14:35 AM",
+    "onlineDurationMins": 85.20573333333333
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621325952302,
+    "lastSeen": 1621329576152,
+    "firstSeenTime": "8:19:12 AM",
+    "lastSeenTime": "9:12:32 AM",
+    "onlineDurationMins": 53.33688333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1621328565258,
+    "lastSeen": 1621329409246,
+    "firstSeenTime": "9:02:45 AM",
+    "lastSeenTime": "9:16:49 AM",
+    "onlineDurationMins": 14.066466666666667
+  },
+  "ttlbot2@lichess": {
+    "id": "ttlbot2",
+    "provider": "lichess",
+    "username": "TTLBot2",
+    "firstSeen": 1621330078162,
+    "lastSeen": 1621330078162
+  }
+}
