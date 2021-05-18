@@ -1,0 +1,40 @@
+{
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1621320937966,
+    "lastSeen": 1621325805443,
+    "firstSeenTime": "6:55:37 AM",
+    "lastSeenTime": "6:59:29 AM",
+    "onlineDurationMins": 3.8526166666666666
+  },
+  "dragonbot@lichess": {
+    "id": "dragonbot",
+    "provider": "lichess",
+    "username": "DragonBOT",
+    "firstSeen": 1621323711771,
+    "lastSeen": 1621325570049
+  },
+  "wowaccount64@lichess": {
+    "id": "wowaccount64",
+    "provider": "lichess",
+    "username": "WowAccount64",
+    "firstSeen": 1621324162675,
+    "lastSeen": 1621326087457
+  },
+  "tudorca@lichess": {
+    "id": "tudorca",
+    "provider": "lichess",
+    "username": "tudorca",
+    "firstSeen": 1621324899833,
+    "lastSeen": 1621325453184
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621325952302,
+    "lastSeen": 1621326160164
+  }
+}
