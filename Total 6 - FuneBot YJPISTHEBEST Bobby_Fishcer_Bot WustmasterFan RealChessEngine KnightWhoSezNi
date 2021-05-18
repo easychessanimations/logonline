@@ -1,0 +1,44 @@
+{
+  "funebot@lichess": {
+    "id": "funebot",
+    "provider": "lichess",
+    "username": "FuneBot",
+    "firstSeen": 1621360399486,
+    "lastSeen": 1621361473668
+  },
+  "yjpisthebest@lichess": {
+    "id": "yjpisthebest",
+    "provider": "lichess",
+    "username": "YJPISTHEBEST",
+    "firstSeen": 1621360611842,
+    "lastSeen": 1621361335737
+  },
+  "bobby_fishcer_bot@lichess": {
+    "id": "bobby_fishcer_bot",
+    "provider": "lichess",
+    "username": "Bobby_Fishcer_Bot",
+    "firstSeen": 1621360626871,
+    "lastSeen": 1621360630750
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1621360683613,
+    "lastSeen": 1621361347940
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621360894902,
+    "lastSeen": 1621361168025
+  },
+  "knightwhosezni@lichess": {
+    "id": "knightwhosezni",
+    "provider": "lichess",
+    "username": "KnightWhoSezNi",
+    "firstSeen": 1621361474332,
+    "lastSeen": 1621361474332
+  }
+}
