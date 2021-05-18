@@ -1,0 +1,59 @@
+{
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1621320937966,
+    "lastSeen": 1621335581412,
+    "firstSeenTime": "6:55:37 AM",
+    "lastSeenTime": "10:48:41 AM",
+    "onlineDurationMins": 233.0577
+  },
+  "wowaccount64@lichess": {
+    "id": "wowaccount64",
+    "provider": "lichess",
+    "username": "WowAccount64",
+    "firstSeen": 1621324162675,
+    "lastSeen": 1621335578710,
+    "firstSeenTime": "7:49:22 AM",
+    "lastSeenTime": "10:48:33 AM",
+    "onlineDurationMins": 179.1728
+  },
+  "aedsuper@lichess": {
+    "id": "aedsuper",
+    "provider": "lichess",
+    "username": "Aedsuper",
+    "firstSeen": 1621333199667,
+    "lastSeen": 1621335405372,
+    "firstSeenTime": "10:19:59 AM",
+    "lastSeenTime": "10:56:45 AM",
+    "onlineDurationMins": 36.76175
+  },
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1621334800683,
+    "lastSeen": 1621335550061,
+    "firstSeenTime": "10:46:40 AM",
+    "lastSeenTime": "10:59:10 AM",
+    "onlineDurationMins": 12.489633333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1621335566402,
+    "lastSeen": 1621335566402,
+    "firstSeenTime": "10:59:26 AM",
+    "lastSeenTime": "10:59:26 AM",
+    "onlineDurationMins": 0
+  },
+  "blackdef@lichess": {
+    "id": "blackdef",
+    "provider": "lichess",
+    "username": "Blackdef",
+    "firstSeen": 1621335902568,
+    "lastSeen": 1621335902568
+  }
+}
