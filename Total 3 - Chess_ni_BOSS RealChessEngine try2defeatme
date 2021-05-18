@@ -4,20 +4,29 @@
     "provider": "lichess",
     "username": "Chess_ni_BOSS",
     "firstSeen": 1621320055668,
-    "lastSeen": 1621320883742
+    "lastSeen": 1621322106634,
+    "firstSeenTime": "6:40:55 AM",
+    "lastSeenTime": "7:00:54 AM",
+    "onlineDurationMins": 19.986166666666666
   },
   "realchessengine@lichess": {
     "id": "realchessengine",
     "provider": "lichess",
     "username": "RealChessEngine",
     "firstSeen": 1621320296246,
-    "lastSeen": 1621320800846
+    "lastSeen": 1621322171140,
+    "firstSeenTime": "6:44:56 AM",
+    "lastSeenTime": "6:53:20 AM",
+    "onlineDurationMins": 8.41
   },
   "try2defeatme@lichess": {
     "id": "try2defeatme",
     "provider": "lichess",
     "username": "try2defeatme",
     "firstSeen": 1621320937966,
-    "lastSeen": 1621320937966
+    "lastSeen": 1621321604825,
+    "firstSeenTime": "6:55:37 AM",
+    "lastSeenTime": "6:59:29 AM",
+    "onlineDurationMins": 3.8526166666666666
   }
 }
