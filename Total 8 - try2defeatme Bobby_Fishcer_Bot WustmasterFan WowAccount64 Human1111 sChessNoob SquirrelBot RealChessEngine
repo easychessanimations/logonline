@@ -1,0 +1,79 @@
+{
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1621340390158,
+    "lastSeen": 1621345776787,
+    "firstSeenTime": "12:19:50 PM",
+    "lastSeenTime": "1:49:36 PM",
+    "onlineDurationMins": 89.77715
+  },
+  "bobby_fishcer_bot@lichess": {
+    "id": "bobby_fishcer_bot",
+    "provider": "lichess",
+    "username": "Bobby_Fishcer_Bot",
+    "firstSeen": 1621341546208,
+    "lastSeen": 1621345924647,
+    "firstSeenTime": "12:39:06 PM",
+    "lastSeenTime": "1:48:36 PM",
+    "onlineDurationMins": 69.50645
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1621341563488,
+    "lastSeen": 1621345746088,
+    "firstSeenTime": "12:39:23 PM",
+    "lastSeenTime": "1:49:06 PM",
+    "onlineDurationMins": 69.71
+  },
+  "wowaccount64@lichess": {
+    "id": "wowaccount64",
+    "provider": "lichess",
+    "username": "WowAccount64",
+    "firstSeen": 1621341817904,
+    "lastSeen": 1621345865903,
+    "firstSeenTime": "12:43:37 PM",
+    "lastSeenTime": "1:49:35 PM",
+    "onlineDurationMins": 65.95276666666666
+  },
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1621342893807,
+    "lastSeen": 1621345822430,
+    "firstSeenTime": "1:01:33 PM",
+    "lastSeenTime": "1:50:22 PM",
+    "onlineDurationMins": 48.810383333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1621345016715,
+    "lastSeen": 1621345857394,
+    "firstSeenTime": "1:36:56 PM",
+    "lastSeenTime": "1:50:57 PM",
+    "onlineDurationMins": 14.011316666666668
+  },
+  "squirrelbot@lichess": {
+    "id": "squirrelbot",
+    "provider": "lichess",
+    "username": "SquirrelBot",
+    "firstSeen": 1621345081322,
+    "lastSeen": 1621345753856,
+    "firstSeenTime": "1:38:01 PM",
+    "lastSeenTime": "1:49:13 PM",
+    "onlineDurationMins": 11.2089
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621345999293,
+    "lastSeen": 1621345999293
+  }
+}
