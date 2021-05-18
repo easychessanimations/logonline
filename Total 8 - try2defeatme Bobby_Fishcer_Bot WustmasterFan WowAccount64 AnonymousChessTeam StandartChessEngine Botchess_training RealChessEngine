@@ -1,0 +1,67 @@
+{
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1621340390158,
+    "lastSeen": 1621348472834,
+    "firstSeenTime": "12:19:50 PM",
+    "lastSeenTime": "2:12:34 PM",
+    "onlineDurationMins": 112.73368333333333
+  },
+  "bobby_fishcer_bot@lichess": {
+    "id": "bobby_fishcer_bot",
+    "provider": "lichess",
+    "username": "Bobby_Fishcer_Bot",
+    "firstSeen": 1621341546208,
+    "lastSeen": 1621348476444,
+    "firstSeenTime": "12:39:06 PM",
+    "lastSeenTime": "2:19:07 PM",
+    "onlineDurationMins": 100.02671666666667
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1621341563488,
+    "lastSeen": 1621348507979,
+    "firstSeenTime": "12:39:23 PM",
+    "lastSeenTime": "2:19:28 PM",
+    "onlineDurationMins": 100.08658333333334
+  },
+  "wowaccount64@lichess": {
+    "id": "wowaccount64",
+    "provider": "lichess",
+    "username": "WowAccount64",
+    "firstSeen": 1621347765806,
+    "lastSeen": 1621348491415
+  },
+  "anonymouschessteam@lichess": {
+    "id": "anonymouschessteam",
+    "provider": "lichess",
+    "username": "AnonymousChessTeam",
+    "firstSeen": 1621348575654,
+    "lastSeen": 1621348580221
+  },
+  "standartchessengine@lichess": {
+    "id": "standartchessengine",
+    "provider": "lichess",
+    "username": "StandartChessEngine",
+    "firstSeen": 1621348597698,
+    "lastSeen": 1621348798011
+  },
+  "botchess_training@lichess": {
+    "id": "botchess_training",
+    "provider": "lichess",
+    "username": "Botchess_training",
+    "firstSeen": 1621348692917,
+    "lastSeen": 1621348785848
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621348824286,
+    "lastSeen": 1621348824286
+  }
+}
