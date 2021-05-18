@@ -1,0 +1,29 @@
+{
+  "chess_ni_boss@lichess": {
+    "id": "chess_ni_boss",
+    "provider": "lichess",
+    "username": "Chess_ni_BOSS",
+    "firstSeen": 1621320055668,
+    "lastSeen": 1621323554150,
+    "firstSeenTime": "6:40:55 AM",
+    "lastSeenTime": "7:00:54 AM",
+    "onlineDurationMins": 19.986166666666666
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1621320937966,
+    "lastSeen": 1621323644868,
+    "firstSeenTime": "6:55:37 AM",
+    "lastSeenTime": "6:59:29 AM",
+    "onlineDurationMins": 3.8526166666666666
+  },
+  "dragonbot@lichess": {
+    "id": "dragonbot",
+    "provider": "lichess",
+    "username": "DragonBOT",
+    "firstSeen": 1621323711771,
+    "lastSeen": 1621323711771
+  }
+}
