@@ -4,43 +4,49 @@
     "provider": "lichess",
     "username": "try2defeatme",
     "firstSeen": 1621320937966,
-    "lastSeen": 1621328507994,
+    "lastSeen": 1621331141982,
     "firstSeenTime": "6:55:37 AM",
-    "lastSeenTime": "8:38:41 AM",
-    "onlineDurationMins": 103.057
+    "lastSeenTime": "9:45:41 AM",
+    "onlineDurationMins": 170.06693333333334
   },
   "wowaccount64@lichess": {
     "id": "wowaccount64",
     "provider": "lichess",
     "username": "WowAccount64",
     "firstSeen": 1621324162675,
-    "lastSeen": 1621328476795,
+    "lastSeen": 1621331300194,
     "firstSeenTime": "7:49:22 AM",
-    "lastSeenTime": "8:41:29 AM",
-    "onlineDurationMins": 52.11038333333333
+    "lastSeenTime": "9:44:37 AM",
+    "onlineDurationMins": 115.24063333333334
   },
   "realchessengine@lichess": {
     "id": "realchessengine",
     "provider": "lichess",
     "username": "RealChessEngine",
     "firstSeen": 1621325952302,
-    "lastSeen": 1621328257274,
+    "lastSeen": 1621330893344,
     "firstSeenTime": "8:19:12 AM",
-    "lastSeenTime": "8:33:36 AM",
-    "onlineDurationMins": 14.395583333333333
+    "lastSeenTime": "9:41:33 AM",
+    "onlineDurationMins": 82.3507
   },
   "dragonbot@lichess": {
     "id": "dragonbot",
     "provider": "lichess",
     "username": "DragonBOT",
-    "firstSeen": 1621328077499,
-    "lastSeen": 1621328079359
+    "firstSeen": 1621330931528,
+    "lastSeen": 1621331201623,
+    "firstSeenTime": "9:42:11 AM",
+    "lastSeenTime": "9:46:41 AM",
+    "onlineDurationMins": 4.5015833333333335
   },
   "schessnoob@lichess": {
     "id": "schessnoob",
     "provider": "lichess",
     "username": "sChessNoob",
-    "firstSeen": 1621328565258,
-    "lastSeen": 1621328565258
+    "firstSeen": 1621331227273,
+    "lastSeen": 1621331227798,
+    "firstSeenTime": "9:47:07 AM",
+    "lastSeenTime": "9:47:07 AM",
+    "onlineDurationMins": 0
   }
 }
