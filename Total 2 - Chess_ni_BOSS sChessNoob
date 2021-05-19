@@ -3,14 +3,20 @@
     "id": "chess_ni_boss",
     "provider": "lichess",
     "username": "Chess_ni_BOSS",
-    "firstSeen": 1620894925363,
-    "lastSeen": 1620896211956
+    "firstSeen": 1621404352954,
+    "lastSeen": 1621407356214,
+    "firstSeenTime": "6:05:52 AM",
+    "lastSeenTime": "6:39:23 AM",
+    "onlineDurationMins": 33.5155
   },
   "schessnoob@lichess": {
     "id": "schessnoob",
     "provider": "lichess",
     "username": "sChessNoob",
-    "firstSeen": 1620896216751,
-    "lastSeen": 1620896216751
+    "firstSeen": 1621406504612,
+    "lastSeen": 1621406504612,
+    "firstSeenTime": "6:41:44 AM",
+    "lastSeenTime": "6:41:44 AM",
+    "onlineDurationMins": 0
   }
 }
