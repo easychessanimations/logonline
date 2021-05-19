@@ -1,0 +1,16 @@
+{
+  "attacking_dragon@lichess": {
+    "id": "attacking_dragon",
+    "provider": "lichess",
+    "username": "Attacking_Dragon",
+    "firstSeen": 1621417186171,
+    "lastSeen": 1621417396408
+  },
+  "grand-bot@lichess": {
+    "id": "grand-bot",
+    "provider": "lichess",
+    "username": "Grand-bot",
+    "firstSeen": 1621417296234,
+    "lastSeen": 1621417307682
+  }
+}
