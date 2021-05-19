@@ -1,0 +1,49 @@
+{
+  "the-golden-trio@lichess": {
+    "id": "the-golden-trio",
+    "provider": "lichess",
+    "username": "The-Golden-Trio",
+    "firstSeen": 1621422887779,
+    "lastSeen": 1621426009661,
+    "firstSeenTime": "11:14:47 AM",
+    "lastSeenTime": "11:54:08 AM",
+    "onlineDurationMins": 39.34271666666667
+  },
+  "abood_alkayyali_02@lichess": {
+    "id": "abood_alkayyali_02",
+    "provider": "lichess",
+    "username": "abood_alkayyali_02",
+    "firstSeen": 1621422948357,
+    "lastSeen": 1621425966308,
+    "firstSeenTime": "11:15:48 AM",
+    "lastSeenTime": "11:58:41 AM",
+    "onlineDurationMins": 42.89345
+  },
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1621423031088,
+    "lastSeen": 1621426033406,
+    "firstSeenTime": "11:17:11 AM",
+    "lastSeenTime": "11:54:13 AM",
+    "onlineDurationMins": 37.04515
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1621425608743,
+    "lastSeen": 1621425608743,
+    "firstSeenTime": "12:00:08 PM",
+    "lastSeenTime": "12:00:08 PM",
+    "onlineDurationMins": 0
+  },
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1621426022840,
+    "lastSeen": 1621426094881
+  }
+}
