@@ -1,0 +1,26 @@
+{
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1621428176430,
+    "lastSeen": 1621430164311,
+    "firstSeenTime": "12:42:56 PM",
+    "lastSeenTime": "12:43:38 PM",
+    "onlineDurationMins": 0.6934166666666667
+  },
+  "knightwhosezni@lichess": {
+    "id": "knightwhosezni",
+    "provider": "lichess",
+    "username": "KnightWhoSezNi",
+    "firstSeen": 1621429355601,
+    "lastSeen": 1621430078119
+  },
+  "harrypotterbot@lichess": {
+    "id": "harrypotterbot",
+    "provider": "lichess",
+    "username": "HarryPotterBot",
+    "firstSeen": 1621429932849,
+    "lastSeen": 1621429974994
+  }
+}
