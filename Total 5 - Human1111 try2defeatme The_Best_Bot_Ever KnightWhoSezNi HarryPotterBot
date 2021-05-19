@@ -1,0 +1,43 @@
+{
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1621426420202,
+    "lastSeen": 1621429750800,
+    "firstSeenTime": "12:13:40 PM",
+    "lastSeenTime": "12:41:45 PM",
+    "onlineDurationMins": 28.081933333333332
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1621428176430,
+    "lastSeen": 1621430164311,
+    "firstSeenTime": "12:42:56 PM",
+    "lastSeenTime": "12:43:38 PM",
+    "onlineDurationMins": 0.6934166666666667
+  },
+  "the_best_bot_ever@lichess": {
+    "id": "the_best_bot_ever",
+    "provider": "lichess",
+    "username": "The_Best_Bot_Ever",
+    "firstSeen": 1621428554457,
+    "lastSeen": 1621429600162
+  },
+  "knightwhosezni@lichess": {
+    "id": "knightwhosezni",
+    "provider": "lichess",
+    "username": "KnightWhoSezNi",
+    "firstSeen": 1621429355601,
+    "lastSeen": 1621430078119
+  },
+  "harrypotterbot@lichess": {
+    "id": "harrypotterbot",
+    "provider": "lichess",
+    "username": "HarryPotterBot",
+    "firstSeen": 1621429932849,
+    "lastSeen": 1621429974994
+  }
+}
