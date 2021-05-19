@@ -1,0 +1,16 @@
+{
+  "ian_bishop@lichess": {
+    "id": "ian_bishop",
+    "provider": "lichess",
+    "username": "Ian_Bishop",
+    "firstSeen": 1621399758752,
+    "lastSeen": 1621402148696
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621402406779,
+    "lastSeen": 1621402406779
+  }
+}
