@@ -1,0 +1,23 @@
+{
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1621514874839,
+    "lastSeen": 1621518611006
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621517406478,
+    "lastSeen": 1621518080964
+  },
+  "bobby_fishcer_bot@lichess": {
+    "id": "bobby_fishcer_bot",
+    "provider": "lichess",
+    "username": "Bobby_Fishcer_Bot",
+    "firstSeen": 1621518187720,
+    "lastSeen": 1621518209426
+  }
+}
