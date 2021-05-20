@@ -1,0 +1,60 @@
+{
+  "kayraege01@lichess": {
+    "id": "kayraege01",
+    "provider": "lichess",
+    "username": "KayraEge01",
+    "firstSeen": 1621503643115,
+    "lastSeen": 1621505146800,
+    "firstSeenTime": "9:40:43 AM",
+    "lastSeenTime": "9:41:00 AM",
+    "onlineDurationMins": 0.297
+  },
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1621503760473,
+    "lastSeen": 1621505207938,
+    "firstSeenTime": "9:42:40 AM",
+    "lastSeenTime": "9:43:01 AM",
+    "onlineDurationMins": 0.3541
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1621503854993,
+    "lastSeen": 1621505359692,
+    "firstSeenTime": "9:44:14 AM",
+    "lastSeenTime": "9:44:38 AM",
+    "onlineDurationMins": 0.39225
+  },
+  "abood_alkayyali_02@lichess": {
+    "id": "abood_alkayyali_02",
+    "provider": "lichess",
+    "username": "abood_alkayyali_02",
+    "firstSeen": 1621504469081,
+    "lastSeen": 1621505196980
+  },
+  "harrypotterbot@lichess": {
+    "id": "harrypotterbot",
+    "provider": "lichess",
+    "username": "HarryPotterBot",
+    "firstSeen": 1621504947024,
+    "lastSeen": 1621505261651
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621504971550,
+    "lastSeen": 1621505090769
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1621505586697,
+    "lastSeen": 1621505586697
+  }
+}
