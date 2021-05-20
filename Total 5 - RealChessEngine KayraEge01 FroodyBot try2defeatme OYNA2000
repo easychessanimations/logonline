@@ -1,0 +1,37 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621495742400,
+    "lastSeen": 1621503636510
+  },
+  "kayraege01@lichess": {
+    "id": "kayraege01",
+    "provider": "lichess",
+    "username": "KayraEge01",
+    "firstSeen": 1621503643115,
+    "lastSeen": 1621503660935
+  },
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1621503760473,
+    "lastSeen": 1621503781719
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1621503854993,
+    "lastSeen": 1621503878528
+  },
+  "oyna2000@lichess": {
+    "id": "oyna2000",
+    "provider": "lichess",
+    "username": "OYNA2000",
+    "firstSeen": 1621504004896,
+    "lastSeen": 1621504004896
+  }
+}
