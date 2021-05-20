@@ -1,0 +1,51 @@
+{
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1621491621112,
+    "lastSeen": 1621495059015
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621492970029,
+    "lastSeen": 1621494658324
+  },
+  "dragonbot@lichess": {
+    "id": "dragonbot",
+    "provider": "lichess",
+    "username": "DragonBOT",
+    "firstSeen": 1621493038756,
+    "lastSeen": 1621495029137
+  },
+  "chessan81@lichess": {
+    "id": "chessan81",
+    "provider": "lichess",
+    "username": "chessan81",
+    "firstSeen": 1621493801885,
+    "lastSeen": 1621495112245
+  },
+  "huhgko@lichess": {
+    "id": "huhgko",
+    "provider": "lichess",
+    "username": "huhgko",
+    "firstSeen": 1621494957851,
+    "lastSeen": 1621495124493
+  },
+  "your_bot@lichess": {
+    "id": "your_bot",
+    "provider": "lichess",
+    "username": "YOUR_BOT",
+    "firstSeen": 1621495016779,
+    "lastSeen": 1621495099131
+  },
+  "microsoftwindows_bot@lichess": {
+    "id": "microsoftwindows_bot",
+    "provider": "lichess",
+    "username": "MicrosoftWindows_bot",
+    "firstSeen": 1621495125233,
+    "lastSeen": 1621495125233
+  }
+}
