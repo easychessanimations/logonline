@@ -1,0 +1,46 @@
+{
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1621503760473,
+    "lastSeen": 1621507438647,
+    "firstSeenTime": "9:42:40 AM",
+    "lastSeenTime": "10:18:44 AM",
+    "onlineDurationMins": 36.0651
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1621503854993,
+    "lastSeen": 1621507454464,
+    "firstSeenTime": "9:44:14 AM",
+    "lastSeenTime": "10:20:14 AM",
+    "onlineDurationMins": 35.991216666666666
+  },
+  "kaana2012@lichess": {
+    "id": "kaana2012",
+    "provider": "lichess",
+    "username": "KaAnA2012",
+    "firstSeen": 1621505625338,
+    "lastSeen": 1621507724855,
+    "firstSeenTime": "10:13:45 AM",
+    "lastSeenTime": "10:25:00 AM",
+    "onlineDurationMins": 11.257983333333334
+  },
+  "iyibirlaf@lichess": {
+    "id": "iyibirlaf",
+    "provider": "lichess",
+    "username": "iyibirlaf",
+    "firstSeen": 1621507764543,
+    "lastSeen": 1621507774181
+  },
+  "kayraege01@lichess": {
+    "id": "kayraege01",
+    "provider": "lichess",
+    "username": "KayraEge01",
+    "firstSeen": 1621507820791,
+    "lastSeen": 1621507820791
+  }
+}
