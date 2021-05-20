@@ -1,0 +1,57 @@
+{
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1621503760473,
+    "lastSeen": 1621508883722,
+    "firstSeenTime": "9:42:40 AM",
+    "lastSeenTime": "10:18:44 AM",
+    "onlineDurationMins": 36.0651
+  },
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1621503854993,
+    "lastSeen": 1621508830912,
+    "firstSeenTime": "9:44:14 AM",
+    "lastSeenTime": "10:20:14 AM",
+    "onlineDurationMins": 35.991216666666666
+  },
+  "kayraege01@lichess": {
+    "id": "kayraege01",
+    "provider": "lichess",
+    "username": "KayraEge01",
+    "firstSeen": 1621507820791,
+    "lastSeen": 1621508496784
+  },
+  "gnanada@lichess": {
+    "id": "gnanada",
+    "provider": "lichess",
+    "username": "Gnanada",
+    "firstSeen": 1621507952126,
+    "lastSeen": 1621508479195
+  },
+  "mixrobot@lichess": {
+    "id": "mixrobot",
+    "provider": "lichess",
+    "username": "Mixrobot",
+    "firstSeen": 1621509164942,
+    "lastSeen": 1621509184715
+  },
+  "turtle555@lichess": {
+    "id": "turtle555",
+    "provider": "lichess",
+    "username": "turtle555",
+    "firstSeen": 1621509185538,
+    "lastSeen": 1621509264466
+  },
+  "asdasda0616@lichess": {
+    "id": "asdasda0616",
+    "provider": "lichess",
+    "username": "asdasda0616",
+    "firstSeen": 1621509279565,
+    "lastSeen": 1621509279565
+  }
+}
