@@ -1,0 +1,26 @@
+{
+  "chess_ni_boss@lichess": {
+    "id": "chess_ni_boss",
+    "provider": "lichess",
+    "username": "Chess_ni_BOSS",
+    "firstSeen": 1621479969045,
+    "lastSeen": 1621482232127,
+    "firstSeenTime": "3:06:09 AM",
+    "lastSeenTime": "3:11:12 AM",
+    "onlineDurationMins": 5.049266666666667
+  },
+  "fantactic@lichess": {
+    "id": "fantactic",
+    "provider": "lichess",
+    "username": "Fantactic",
+    "firstSeen": 1621481263986,
+    "lastSeen": 1621481877410
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1621482350683,
+    "lastSeen": 1621482350683
+  }
+}
