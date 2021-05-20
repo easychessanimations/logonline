@@ -1,0 +1,49 @@
+{
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1621528820122,
+    "lastSeen": 1621532546493,
+    "firstSeenTime": "4:40:20 PM",
+    "lastSeenTime": "5:30:21 PM",
+    "onlineDurationMins": 50.02138333333333
+  },
+  "mr_marcos_bot2@lichess": {
+    "id": "mr_marcos_bot2",
+    "provider": "lichess",
+    "username": "Mr_Marcos_Bot2",
+    "firstSeen": 1621530688410,
+    "lastSeen": 1621532405271,
+    "firstSeenTime": "5:11:28 PM",
+    "lastSeenTime": "5:34:40 PM",
+    "onlineDurationMins": 23.201266666666665
+  },
+  "asdasda06@lichess": {
+    "id": "asdasda06",
+    "provider": "lichess",
+    "username": "asdasda06",
+    "firstSeen": 1621530810292,
+    "lastSeen": 1621531988452,
+    "firstSeenTime": "5:13:30 PM",
+    "lastSeenTime": "5:33:08 PM",
+    "onlineDurationMins": 19.636
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1621531842478,
+    "lastSeen": 1621532308119,
+    "firstSeenTime": "5:30:42 PM",
+    "lastSeenTime": "5:38:28 PM",
+    "onlineDurationMins": 7.760683333333334
+  },
+  "botbird029@lichess": {
+    "id": "botbird029",
+    "provider": "lichess",
+    "username": "Botbird029",
+    "firstSeen": 1621532575098,
+    "lastSeen": 1621532575098
+  }
+}
