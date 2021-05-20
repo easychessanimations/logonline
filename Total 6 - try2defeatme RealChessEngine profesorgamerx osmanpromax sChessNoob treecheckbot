@@ -1,0 +1,59 @@
+{
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1621514874839,
+    "lastSeen": 1621519271062,
+    "firstSeenTime": "12:47:54 PM",
+    "lastSeenTime": "1:54:11 PM",
+    "onlineDurationMins": 66.27231666666667
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621517406478,
+    "lastSeen": 1621519144837,
+    "firstSeenTime": "1:30:06 PM",
+    "lastSeenTime": "1:55:14 PM",
+    "onlineDurationMins": 25.129566666666665
+  },
+  "profesorgamerx@lichess": {
+    "id": "profesorgamerx",
+    "provider": "lichess",
+    "username": "profesorgamerx",
+    "firstSeen": 1621518877554,
+    "lastSeen": 1621518965486,
+    "firstSeenTime": "1:54:37 PM",
+    "lastSeenTime": "1:56:05 PM",
+    "onlineDurationMins": 1.4655333333333334
+  },
+  "osmanpromax@lichess": {
+    "id": "osmanpromax",
+    "provider": "lichess",
+    "username": "osmanpromax",
+    "firstSeen": 1621518966208,
+    "lastSeen": 1621519291720,
+    "firstSeenTime": "1:56:06 PM",
+    "lastSeenTime": "1:57:11 PM",
+    "onlineDurationMins": 1.0905333333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1621519125348,
+    "lastSeen": 1621519126063,
+    "firstSeenTime": "1:58:45 PM",
+    "lastSeenTime": "1:58:45 PM",
+    "onlineDurationMins": 0
+  },
+  "treecheckbot@lichess": {
+    "id": "treecheckbot",
+    "provider": "lichess",
+    "username": "treecheckbot",
+    "firstSeen": 1621519292574,
+    "lastSeen": 1621519292574
+  }
+}
