@@ -1,0 +1,26 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621517406478,
+    "lastSeen": 1621519669154,
+    "firstSeenTime": "1:30:06 PM",
+    "lastSeenTime": "1:55:14 PM",
+    "onlineDurationMins": 25.129566666666665
+  },
+  "treecheckbot@lichess": {
+    "id": "treecheckbot",
+    "provider": "lichess",
+    "username": "treecheckbot",
+    "firstSeen": 1621519292574,
+    "lastSeen": 1621519724119
+  },
+  "pablobot@lichess": {
+    "id": "pablobot",
+    "provider": "lichess",
+    "username": "pablobot",
+    "firstSeen": 1621519733241,
+    "lastSeen": 1621519741762
+  }
+}
