@@ -1,0 +1,53 @@
+{
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1621528820122,
+    "lastSeen": 1621533948835,
+    "firstSeenTime": "4:40:20 PM",
+    "lastSeenTime": "5:42:26 PM",
+    "onlineDurationMins": 62.106183333333334
+  },
+  "mr_marcos_bot2@lichess": {
+    "id": "mr_marcos_bot2",
+    "provider": "lichess",
+    "username": "Mr_Marcos_Bot2",
+    "firstSeen": 1621530688410,
+    "lastSeen": 1621533893627,
+    "firstSeenTime": "5:11:28 PM",
+    "lastSeenTime": "5:51:14 PM",
+    "onlineDurationMins": 39.761516666666665
+  },
+  "take_with_check@lichess": {
+    "id": "take_with_check",
+    "provider": "lichess",
+    "username": "Take_With_Check",
+    "firstSeen": 1621532998359,
+    "lastSeen": 1621533933946,
+    "firstSeenTime": "5:49:58 PM",
+    "lastSeenTime": "5:51:13 PM",
+    "onlineDurationMins": 1.25555
+  },
+  "mnenadic@lichess": {
+    "id": "mnenadic",
+    "provider": "lichess",
+    "username": "mnenadic",
+    "firstSeen": 1621533452029,
+    "lastSeen": 1621533465921
+  },
+  "asdasda06@lichess": {
+    "id": "asdasda06",
+    "provider": "lichess",
+    "username": "asdasda06",
+    "firstSeen": 1621533630025,
+    "lastSeen": 1621533821521
+  },
+  "fantactic@lichess": {
+    "id": "fantactic",
+    "provider": "lichess",
+    "username": "Fantactic",
+    "firstSeen": 1621533927926,
+    "lastSeen": 1621533983651
+  }
+}
