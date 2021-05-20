@@ -1,0 +1,30 @@
+{
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1621491621112,
+    "lastSeen": 1621493127229
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621492970029,
+    "lastSeen": 1621493755213
+  },
+  "dragonbot@lichess": {
+    "id": "dragonbot",
+    "provider": "lichess",
+    "username": "DragonBOT",
+    "firstSeen": 1621493038756,
+    "lastSeen": 1621493785487
+  },
+  "chessan81@lichess": {
+    "id": "chessan81",
+    "provider": "lichess",
+    "username": "chessan81",
+    "firstSeen": 1621493801885,
+    "lastSeen": 1621493801885
+  }
+}
