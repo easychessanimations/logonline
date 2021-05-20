@@ -1,0 +1,44 @@
+{
+  "dragonbot@lichess": {
+    "id": "dragonbot",
+    "provider": "lichess",
+    "username": "DragonBOT",
+    "firstSeen": 1621493038756,
+    "lastSeen": 1621495981366
+  },
+  "chessan81@lichess": {
+    "id": "chessan81",
+    "provider": "lichess",
+    "username": "chessan81",
+    "firstSeen": 1621493801885,
+    "lastSeen": 1621496069126
+  },
+  "your_bot@lichess": {
+    "id": "your_bot",
+    "provider": "lichess",
+    "username": "YOUR_BOT",
+    "firstSeen": 1621495016779,
+    "lastSeen": 1621495917263
+  },
+  "microsoftwindows_bot@lichess": {
+    "id": "microsoftwindows_bot",
+    "provider": "lichess",
+    "username": "MicrosoftWindows_bot",
+    "firstSeen": 1621495125233,
+    "lastSeen": 1621495245257
+  },
+  "mixrobot@lichess": {
+    "id": "mixrobot",
+    "provider": "lichess",
+    "username": "Mixrobot",
+    "firstSeen": 1621495456353,
+    "lastSeen": 1621495489141
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621495742400,
+    "lastSeen": 1621495749516
+  }
+}
