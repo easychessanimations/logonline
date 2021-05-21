@@ -1,0 +1,32 @@
+{
+  "try2defeatme@lichess": {
+    "id": "try2defeatme",
+    "provider": "lichess",
+    "username": "try2defeatme",
+    "firstSeen": 1621581264242,
+    "lastSeen": 1621593387894,
+    "firstSeenTime": "7:14:24 AM",
+    "lastSeenTime": "10:13:27 AM",
+    "onlineDurationMins": 179.06061666666668
+  },
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1621589173834,
+    "lastSeen": 1621593675682,
+    "firstSeenTime": "9:26:13 AM",
+    "lastSeenTime": "10:16:15 AM",
+    "onlineDurationMins": 50.03086666666667
+  },
+  "genemer_bautista@lichess": {
+    "id": "genemer_bautista",
+    "provider": "lichess",
+    "username": "Genemer_Bautista",
+    "firstSeen": 1621591978534,
+    "lastSeen": 1621593384456,
+    "firstSeenTime": "10:12:58 AM",
+    "lastSeenTime": "10:13:02 AM",
+    "onlineDurationMins": 0.06683333333333333
+  }
+}
