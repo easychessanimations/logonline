@@ -1,0 +1,30 @@
+{
+  "knight_bot@lichess": {
+    "id": "knight_bot",
+    "provider": "lichess",
+    "username": "knight_BOT",
+    "firstSeen": 1621698830520,
+    "lastSeen": 1621702436747
+  },
+  "ahmet_connor@lichess": {
+    "id": "ahmet_connor",
+    "provider": "lichess",
+    "username": "Ahmet_Connor",
+    "firstSeen": 1621699585819,
+    "lastSeen": 1621702422787
+  },
+  "richard_connor@lichess": {
+    "id": "richard_connor",
+    "provider": "lichess",
+    "username": "Richard_Connor",
+    "firstSeen": 1621700700697,
+    "lastSeen": 1621702564525
+  },
+  "humanbot_lv1929@lichess": {
+    "id": "humanbot_lv1929",
+    "provider": "lichess",
+    "username": "Humanbot_lv1929",
+    "firstSeen": 1621701768298,
+    "lastSeen": 1621702594162
+  }
+}
