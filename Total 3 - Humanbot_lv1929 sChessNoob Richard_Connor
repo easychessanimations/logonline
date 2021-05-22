@@ -1,0 +1,29 @@
+{
+  "humanbot_lv1929@lichess": {
+    "id": "humanbot_lv1929",
+    "provider": "lichess",
+    "username": "Humanbot_lv1929",
+    "firstSeen": 1621701768298,
+    "lastSeen": 1621705549336,
+    "firstSeenTime": "4:42:48 PM",
+    "lastSeenTime": "5:35:33 PM",
+    "onlineDurationMins": 52.76166666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1621705111051,
+    "lastSeen": 1621705111828,
+    "firstSeenTime": "5:38:31 PM",
+    "lastSeenTime": "5:38:31 PM",
+    "onlineDurationMins": 0
+  },
+  "richard_connor@lichess": {
+    "id": "richard_connor",
+    "provider": "lichess",
+    "username": "Richard_Connor",
+    "firstSeen": 1621705359617,
+    "lastSeen": 1621705371759
+  }
+}
