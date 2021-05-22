@@ -1,0 +1,29 @@
+{
+  "superfin999_model3@lichess": {
+    "id": "superfin999_model3",
+    "provider": "lichess",
+    "username": "SuperFin999_Model3",
+    "firstSeen": 1621690551349,
+    "lastSeen": 1621693873398,
+    "firstSeenTime": "1:35:51 PM",
+    "lastSeenTime": "2:23:30 PM",
+    "onlineDurationMins": 47.659016666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1621692807183,
+    "lastSeen": 1621693504389,
+    "firstSeenTime": "2:13:27 PM",
+    "lastSeenTime": "2:25:04 PM",
+    "onlineDurationMins": 11.6201
+  },
+  "studentbot@lichess": {
+    "id": "studentbot",
+    "provider": "lichess",
+    "username": "StudentBot",
+    "firstSeen": 1621694069081,
+    "lastSeen": 1621694069081
+  }
+}
