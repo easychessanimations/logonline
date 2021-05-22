@@ -1,0 +1,23 @@
+{
+  "thebrilliantbot@lichess": {
+    "id": "thebrilliantbot",
+    "provider": "lichess",
+    "username": "TheBrilliantBot",
+    "firstSeen": 1621685127826,
+    "lastSeen": 1621685846248
+  },
+  "dragonbot@lichess": {
+    "id": "dragonbot",
+    "provider": "lichess",
+    "username": "DragonBOT",
+    "firstSeen": 1621685575035,
+    "lastSeen": 1621685602539
+  },
+  "disgusting_warrior@lichess": {
+    "id": "disgusting_warrior",
+    "provider": "lichess",
+    "username": "Disgusting_Warrior",
+    "firstSeen": 1621686263223,
+    "lastSeen": 1621686263223
+  }
+}
