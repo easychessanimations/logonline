@@ -1,0 +1,39 @@
+{
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1621783920987,
+    "lastSeen": 1621792590284,
+    "firstSeenTime": "3:32:00 PM",
+    "lastSeenTime": "5:45:27 PM",
+    "onlineDurationMins": 133.4473
+  },
+  "mrtagir@lichess": {
+    "id": "mrtagir",
+    "provider": "lichess",
+    "username": "MrTagir",
+    "firstSeen": 1621786872316,
+    "lastSeen": 1621792584552,
+    "firstSeenTime": "4:21:12 PM",
+    "lastSeenTime": "5:45:28 PM",
+    "onlineDurationMins": 84.2656
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1621786895681,
+    "lastSeen": 1621792594177,
+    "firstSeenTime": "4:21:35 PM",
+    "lastSeenTime": "5:48:49 PM",
+    "onlineDurationMins": 87.22615
+  },
+  "yawhehe_45@lichess": {
+    "id": "yawhehe_45",
+    "provider": "lichess",
+    "username": "Yawhehe_45",
+    "firstSeen": 1621792759060,
+    "lastSeen": 1621793111924
+  }
+}
