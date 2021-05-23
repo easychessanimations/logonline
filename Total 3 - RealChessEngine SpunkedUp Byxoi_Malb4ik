@@ -1,0 +1,26 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621742081893,
+    "lastSeen": 1621762335857,
+    "firstSeenTime": "3:54:41 AM",
+    "lastSeenTime": "7:22:15 AM",
+    "onlineDurationMins": 207.55995
+  },
+  "spunkedup@lichess": {
+    "id": "spunkedup",
+    "provider": "lichess",
+    "username": "SpunkedUp",
+    "firstSeen": 1621760488467,
+    "lastSeen": 1621762627075
+  },
+  "651080132752310294@discord": {
+    "id": "651080132752310294",
+    "provider": "discord",
+    "username": "Byxoi_Malb4ik",
+    "firstSeen": 1621761177685,
+    "lastSeen": 1621761963468
+  }
+}
