@@ -1,0 +1,23 @@
+{
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1621813047807,
+    "lastSeen": 1621813047807
+  },
+  "kevbot_sf@lichess": {
+    "id": "kevbot_sf",
+    "provider": "lichess",
+    "username": "KevBot_SF",
+    "firstSeen": 1621813229057,
+    "lastSeen": 1621813307031
+  },
+  "chessbot1863@lichess": {
+    "id": "chessbot1863",
+    "provider": "lichess",
+    "username": "chessbot1863",
+    "firstSeen": 1621813388198,
+    "lastSeen": 1621813388198
+  }
+}
