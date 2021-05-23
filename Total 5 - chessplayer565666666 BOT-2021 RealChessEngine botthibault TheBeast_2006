@@ -1,0 +1,43 @@
+{
+  "chessplayer565666666@lichess": {
+    "id": "chessplayer565666666",
+    "provider": "lichess",
+    "username": "chessplayer565666666",
+    "firstSeen": 1621779293844,
+    "lastSeen": 1621781205897,
+    "firstSeenTime": "2:14:53 PM",
+    "lastSeenTime": "2:16:36 PM",
+    "onlineDurationMins": 1.70545
+  },
+  "bot-2021@lichess": {
+    "id": "bot-2021",
+    "provider": "lichess",
+    "username": "BOT-2021",
+    "firstSeen": 1621779332500,
+    "lastSeen": 1621781290557,
+    "firstSeenTime": "2:15:32 PM",
+    "lastSeenTime": "2:15:47 PM",
+    "onlineDurationMins": 0.24395
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621780081748,
+    "lastSeen": 1621780766753
+  },
+  "botthibault@lichess": {
+    "id": "botthibault",
+    "provider": "lichess",
+    "username": "botthibault",
+    "firstSeen": 1621780549035,
+    "lastSeen": 1621781266263
+  },
+  "thebeast_2006@lichess": {
+    "id": "thebeast_2006",
+    "provider": "lichess",
+    "username": "TheBeast_2006",
+    "firstSeen": 1621781294137,
+    "lastSeen": 1621781294137
+  }
+}
