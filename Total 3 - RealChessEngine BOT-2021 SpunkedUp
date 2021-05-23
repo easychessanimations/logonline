@@ -1,0 +1,26 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621742081893,
+    "lastSeen": 1621763801177,
+    "firstSeenTime": "3:54:41 AM",
+    "lastSeenTime": "9:43:16 AM",
+    "onlineDurationMins": 348.5715666666667
+  },
+  "bot-2021@lichess": {
+    "id": "bot-2021",
+    "provider": "lichess",
+    "username": "BOT-2021",
+    "firstSeen": 1621763952385,
+    "lastSeen": 1621763965028
+  },
+  "spunkedup@lichess": {
+    "id": "spunkedup",
+    "provider": "lichess",
+    "username": "SpunkedUp",
+    "firstSeen": 1621764530842,
+    "lastSeen": 1621764530842
+  }
+}
