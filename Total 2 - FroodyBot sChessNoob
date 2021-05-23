@@ -3,14 +3,20 @@
     "id": "froodybot",
     "provider": "lichess",
     "username": "FroodyBot",
-    "firstSeen": 1620904223473,
-    "lastSeen": 1620906207908
+    "firstSeen": 1621783920987,
+    "lastSeen": 1621793841234,
+    "firstSeenTime": "3:32:00 PM",
+    "lastSeenTime": "6:07:21 PM",
+    "onlineDurationMins": 155.34986666666666
   },
   "schessnoob@lichess": {
     "id": "schessnoob",
     "provider": "lichess",
     "username": "sChessNoob",
-    "firstSeen": 1620906671448,
-    "lastSeen": 1620906671448
+    "firstSeen": 1621793818208,
+    "lastSeen": 1621793818208,
+    "firstSeenTime": "6:16:58 PM",
+    "lastSeenTime": "6:16:58 PM",
+    "onlineDurationMins": 0
   }
 }
