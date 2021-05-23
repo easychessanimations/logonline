@@ -1,0 +1,39 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621742081893,
+    "lastSeen": 1621758012407,
+    "firstSeenTime": "3:54:41 AM",
+    "lastSeenTime": "7:22:15 AM",
+    "onlineDurationMins": 207.55995
+  },
+  "richard_connor@lichess": {
+    "id": "richard_connor",
+    "provider": "lichess",
+    "username": "Richard_Connor",
+    "firstSeen": 1621752557217,
+    "lastSeen": 1621757358520,
+    "firstSeenTime": "6:49:17 AM",
+    "lastSeenTime": "7:32:00 AM",
+    "onlineDurationMins": 42.71935
+  },
+  "chessemkabot@lichess": {
+    "id": "chessemkabot",
+    "provider": "lichess",
+    "username": "chessemkabot",
+    "firstSeen": 1621754035132,
+    "lastSeen": 1621757514708,
+    "firstSeenTime": "7:13:55 AM",
+    "lastSeenTime": "7:25:55 AM",
+    "onlineDurationMins": 11.999366666666667
+  },
+  "aanyachessindia@lichess": {
+    "id": "aanyachessindia",
+    "provider": "lichess",
+    "username": "Aanyachessindia",
+    "firstSeen": 1621756917320,
+    "lastSeen": 1621757528546
+  }
+}
