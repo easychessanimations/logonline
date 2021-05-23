@@ -1,0 +1,36 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621742081893,
+    "lastSeen": 1621752555738,
+    "firstSeenTime": "3:54:41 AM",
+    "lastSeenTime": "5:41:37 AM",
+    "onlineDurationMins": 106.92153333333333
+  },
+  "chessplayer565666666@lichess": {
+    "id": "chessplayer565666666",
+    "provider": "lichess",
+    "username": "chessplayer565666666",
+    "firstSeen": 1621744960016,
+    "lastSeen": 1621752503840,
+    "firstSeenTime": "4:42:40 AM",
+    "lastSeenTime": "5:37:26 AM",
+    "onlineDurationMins": 54.77995
+  },
+  "spunkedup@lichess": {
+    "id": "spunkedup",
+    "provider": "lichess",
+    "username": "SpunkedUp",
+    "firstSeen": 1621752406250,
+    "lastSeen": 1621752693265
+  },
+  "richard_connor@lichess": {
+    "id": "richard_connor",
+    "provider": "lichess",
+    "username": "Richard_Connor",
+    "firstSeen": 1621752557217,
+    "lastSeen": 1621752600073
+  }
+}
