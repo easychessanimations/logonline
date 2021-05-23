@@ -1,0 +1,19 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621742081893,
+    "lastSeen": 1621762335857,
+    "firstSeenTime": "3:54:41 AM",
+    "lastSeenTime": "7:22:15 AM",
+    "onlineDurationMins": 207.55995
+  },
+  "spunkedup@lichess": {
+    "id": "spunkedup",
+    "provider": "lichess",
+    "username": "SpunkedUp",
+    "firstSeen": 1621760488467,
+    "lastSeen": 1621762883644
+  }
+}
