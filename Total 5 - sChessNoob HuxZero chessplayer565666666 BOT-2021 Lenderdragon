@@ -1,0 +1,49 @@
+{
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1621778485363,
+    "lastSeen": 1621779560970,
+    "firstSeenTime": "2:01:25 PM",
+    "lastSeenTime": "2:19:20 PM",
+    "onlineDurationMins": 17.926783333333333
+  },
+  "huxzero@lichess": {
+    "id": "huxzero",
+    "provider": "lichess",
+    "username": "HuxZero",
+    "firstSeen": 1621779258664,
+    "lastSeen": 1621779727833,
+    "firstSeenTime": "2:14:18 PM",
+    "lastSeenTime": "2:15:47 PM",
+    "onlineDurationMins": 1.4873833333333333
+  },
+  "chessplayer565666666@lichess": {
+    "id": "chessplayer565666666",
+    "provider": "lichess",
+    "username": "chessplayer565666666",
+    "firstSeen": 1621779293844,
+    "lastSeen": 1621779797364,
+    "firstSeenTime": "2:14:53 PM",
+    "lastSeenTime": "2:16:36 PM",
+    "onlineDurationMins": 1.70545
+  },
+  "bot-2021@lichess": {
+    "id": "bot-2021",
+    "provider": "lichess",
+    "username": "BOT-2021",
+    "firstSeen": 1621779332500,
+    "lastSeen": 1621779347137,
+    "firstSeenTime": "2:15:32 PM",
+    "lastSeenTime": "2:15:47 PM",
+    "onlineDurationMins": 0.24395
+  },
+  "lenderdragon@lichess": {
+    "id": "lenderdragon",
+    "provider": "lichess",
+    "username": "Lenderdragon",
+    "firstSeen": 1621779886036,
+    "lastSeen": 1621779886037
+  }
+}
