@@ -1,0 +1,37 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621864760650,
+    "lastSeen": 1621867173109
+  },
+  "drmeowmeow@lichess": {
+    "id": "drmeowmeow",
+    "provider": "lichess",
+    "username": "DrMeowMeow",
+    "firstSeen": 1621864764677,
+    "lastSeen": 1621867378850
+  },
+  "mr_marcos_bot2@lichess": {
+    "id": "mr_marcos_bot2",
+    "provider": "lichess",
+    "username": "Mr_Marcos_Bot2",
+    "firstSeen": 1621865813346,
+    "lastSeen": 1621867901606
+  },
+  "thechessplayer776@lichess": {
+    "id": "thechessplayer776",
+    "provider": "lichess",
+    "username": "thechessplayer776",
+    "firstSeen": 1621867537170,
+    "lastSeen": 1621867707619
+  },
+  "bma_official@lichess": {
+    "id": "bma_official",
+    "provider": "lichess",
+    "username": "BMA_Official",
+    "firstSeen": 1621867910821,
+    "lastSeen": 1621867910821
+  }
+}
