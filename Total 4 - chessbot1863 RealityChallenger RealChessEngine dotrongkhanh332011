@@ -1,0 +1,36 @@
+{
+  "chessbot1863@lichess": {
+    "id": "chessbot1863",
+    "provider": "lichess",
+    "username": "chessbot1863",
+    "firstSeen": 1621825386983,
+    "lastSeen": 1621830495520,
+    "firstSeenTime": "3:03:06 AM",
+    "lastSeenTime": "4:13:04 AM",
+    "onlineDurationMins": 69.95126666666667
+  },
+  "realitychallenger@lichess": {
+    "id": "realitychallenger",
+    "provider": "lichess",
+    "username": "RealityChallenger",
+    "firstSeen": 1621828805922,
+    "lastSeen": 1621830205360,
+    "firstSeenTime": "4:00:05 AM",
+    "lastSeenTime": "4:11:55 AM",
+    "onlineDurationMins": 11.8346
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621829920956,
+    "lastSeen": 1621830555388
+  },
+  "dotrongkhanh332011@lichess": {
+    "id": "dotrongkhanh332011",
+    "provider": "lichess",
+    "username": "dotrongkhanh332011",
+    "firstSeen": 1621830514257,
+    "lastSeen": 1621830568810
+  }
+}
