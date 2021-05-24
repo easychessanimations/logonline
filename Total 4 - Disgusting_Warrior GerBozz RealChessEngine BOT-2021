@@ -1,0 +1,30 @@
+{
+  "disgusting_warrior@lichess": {
+    "id": "disgusting_warrior",
+    "provider": "lichess",
+    "username": "Disgusting_Warrior",
+    "firstSeen": 1621844094370,
+    "lastSeen": 1621844125780
+  },
+  "gerbozz@lichess": {
+    "id": "gerbozz",
+    "provider": "lichess",
+    "username": "GerBozz",
+    "firstSeen": 1621844177008,
+    "lastSeen": 1621844205715
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621844375771,
+    "lastSeen": 1621844714528
+  },
+  "bot-2021@lichess": {
+    "id": "bot-2021",
+    "provider": "lichess",
+    "username": "BOT-2021",
+    "firstSeen": 1621844755154,
+    "lastSeen": 1621844755154
+  }
+}
