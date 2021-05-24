@@ -1,0 +1,39 @@
+{
+  "ytofsbrianlebot@lichess": {
+    "id": "ytofsbrianlebot",
+    "provider": "lichess",
+    "username": "ytofsbrianlebot",
+    "firstSeen": 1621845195806,
+    "lastSeen": 1621847767045,
+    "firstSeenTime": "8:33:15 AM",
+    "lastSeenTime": "8:44:15 AM",
+    "onlineDurationMins": 10.996433333333334
+  },
+  "thebrilliantbot2010@lichess": {
+    "id": "thebrilliantbot2010",
+    "provider": "lichess",
+    "username": "TheBrilliantBot2010",
+    "firstSeen": 1621845435504,
+    "lastSeen": 1621847592628,
+    "firstSeenTime": "8:37:15 AM",
+    "lastSeenTime": "8:52:17 AM",
+    "onlineDurationMins": 15.039316666666666
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1621845820126,
+    "lastSeen": 1621847593757,
+    "firstSeenTime": "8:43:40 AM",
+    "lastSeenTime": "8:50:52 AM",
+    "onlineDurationMins": 7.198016666666667
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621847117246,
+    "lastSeen": 1621847772456
+  }
+}
