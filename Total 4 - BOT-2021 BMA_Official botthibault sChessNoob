@@ -1,0 +1,42 @@
+{
+  "bot-2021@lichess": {
+    "id": "bot-2021",
+    "provider": "lichess",
+    "username": "BOT-2021",
+    "firstSeen": 1621848735267,
+    "lastSeen": 1621855755319,
+    "firstSeenTime": "9:32:15 AM",
+    "lastSeenTime": "11:29:15 AM",
+    "onlineDurationMins": 117.00086666666667
+  },
+  "bma_official@lichess": {
+    "id": "bma_official",
+    "provider": "lichess",
+    "username": "BMA_Official",
+    "firstSeen": 1621854693781,
+    "lastSeen": 1621856264541,
+    "firstSeenTime": "11:11:33 AM",
+    "lastSeenTime": "11:28:51 AM",
+    "onlineDurationMins": 17.288516666666666
+  },
+  "botthibault@lichess": {
+    "id": "botthibault",
+    "provider": "lichess",
+    "username": "botthibault",
+    "firstSeen": 1621854876679,
+    "lastSeen": 1621856177904,
+    "firstSeenTime": "11:14:36 AM",
+    "lastSeenTime": "11:25:21 AM",
+    "onlineDurationMins": 10.74945
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1621855249090,
+    "lastSeen": 1621856405239,
+    "firstSeenTime": "11:20:49 AM",
+    "lastSeenTime": "11:31:54 AM",
+    "onlineDurationMins": 11.0933
+  }
+}
