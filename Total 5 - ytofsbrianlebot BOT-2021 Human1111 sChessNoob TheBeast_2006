@@ -1,0 +1,49 @@
+{
+  "ytofsbrianlebot@lichess": {
+    "id": "ytofsbrianlebot",
+    "provider": "lichess",
+    "username": "ytofsbrianlebot",
+    "firstSeen": 1621848438654,
+    "lastSeen": 1621851862544,
+    "firstSeenTime": "9:27:18 AM",
+    "lastSeenTime": "10:11:22 AM",
+    "onlineDurationMins": 44.06086666666667
+  },
+  "bot-2021@lichess": {
+    "id": "bot-2021",
+    "provider": "lichess",
+    "username": "BOT-2021",
+    "firstSeen": 1621848735267,
+    "lastSeen": 1621851375165,
+    "firstSeenTime": "9:32:15 AM",
+    "lastSeenTime": "10:16:15 AM",
+    "onlineDurationMins": 43.9983
+  },
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1621850653855,
+    "lastSeen": 1621851422876,
+    "firstSeenTime": "10:04:13 AM",
+    "lastSeenTime": "10:17:02 AM",
+    "onlineDurationMins": 12.817016666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1621851573558,
+    "lastSeen": 1621851573558,
+    "firstSeenTime": "10:19:33 AM",
+    "lastSeenTime": "10:19:33 AM",
+    "onlineDurationMins": 0
+  },
+  "thebeast_2006@lichess": {
+    "id": "thebeast_2006",
+    "provider": "lichess",
+    "username": "TheBeast_2006",
+    "firstSeen": 1621852066111,
+    "lastSeen": 1621852066111
+  }
+}
