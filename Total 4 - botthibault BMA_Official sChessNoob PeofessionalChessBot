@@ -1,0 +1,39 @@
+{
+  "botthibault@lichess": {
+    "id": "botthibault",
+    "provider": "lichess",
+    "username": "botthibault",
+    "firstSeen": 1621854876679,
+    "lastSeen": 1621858515994,
+    "firstSeenTime": "11:14:36 AM",
+    "lastSeenTime": "12:03:17 PM",
+    "onlineDurationMins": 48.68785
+  },
+  "bma_official@lichess": {
+    "id": "bma_official",
+    "provider": "lichess",
+    "username": "BMA_Official",
+    "firstSeen": 1621857768182,
+    "lastSeen": 1621857967463,
+    "firstSeenTime": "12:02:48 PM",
+    "lastSeenTime": "12:06:07 PM",
+    "onlineDurationMins": 3.32135
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1621858159040,
+    "lastSeen": 1621858159040,
+    "firstSeenTime": "12:09:19 PM",
+    "lastSeenTime": "12:09:19 PM",
+    "onlineDurationMins": 0
+  },
+  "peofessionalchessbot@lichess": {
+    "id": "peofessionalchessbot",
+    "provider": "lichess",
+    "username": "PeofessionalChessBot",
+    "firstSeen": 1621858659752,
+    "lastSeen": 1621858659752
+  }
+}
