@@ -1,0 +1,22 @@
+{
+  "chessbot1863@lichess": {
+    "id": "chessbot1863",
+    "provider": "lichess",
+    "username": "chessbot1863",
+    "firstSeen": 1621825386983,
+    "lastSeen": 1621832877536,
+    "firstSeenTime": "3:03:06 AM",
+    "lastSeenTime": "4:37:30 AM",
+    "onlineDurationMins": 94.3916
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1621829920956,
+    "lastSeen": 1621832055828,
+    "firstSeenTime": "4:18:40 AM",
+    "lastSeenTime": "4:43:45 AM",
+    "onlineDurationMins": 25.082666666666668
+  }
+}
