@@ -1,0 +1,26 @@
+{
+  "chessbot1863@lichess": {
+    "id": "chessbot1863",
+    "provider": "lichess",
+    "username": "chessbot1863",
+    "firstSeen": 1621825386983,
+    "lastSeen": 1621829584059,
+    "firstSeenTime": "3:03:06 AM",
+    "lastSeenTime": "3:10:42 AM",
+    "onlineDurationMins": 7.588133333333333
+  },
+  "realitychallenger@lichess": {
+    "id": "realitychallenger",
+    "provider": "lichess",
+    "username": "RealityChallenger",
+    "firstSeen": 1621828805922,
+    "lastSeen": 1621829515998
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1621829668705,
+    "lastSeen": 1621829668705
+  }
+}
