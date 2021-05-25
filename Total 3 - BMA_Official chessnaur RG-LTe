@@ -1,0 +1,23 @@
+{
+  "bma_official@lichess": {
+    "id": "bma_official",
+    "provider": "lichess",
+    "username": "BMA_Official",
+    "firstSeen": 1621921819071,
+    "lastSeen": 1621922005017
+  },
+  "chessnaur@lichess": {
+    "id": "chessnaur",
+    "provider": "lichess",
+    "username": "chessnaur",
+    "firstSeen": 1621921888479,
+    "lastSeen": 1621922003644
+  },
+  "rg-lte@lichess": {
+    "id": "rg-lte",
+    "provider": "lichess",
+    "username": "RG-LTe",
+    "firstSeen": 1621922005082,
+    "lastSeen": 1621922005082
+  }
+}
