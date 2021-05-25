@@ -1,0 +1,23 @@
+{
+  "evolving_master@lichess": {
+    "id": "evolving_master",
+    "provider": "lichess",
+    "username": "Evolving_Master",
+    "firstSeen": 1621934112113,
+    "lastSeen": 1621934132054
+  },
+  "bma_official@lichess": {
+    "id": "bma_official",
+    "provider": "lichess",
+    "username": "BMA_Official",
+    "firstSeen": 1621934251846,
+    "lastSeen": 1621934266231
+  },
+  "rg-lte@lichess": {
+    "id": "rg-lte",
+    "provider": "lichess",
+    "username": "RG-LTe",
+    "firstSeen": 1621934270126,
+    "lastSeen": 1621934270126
+  }
+}
