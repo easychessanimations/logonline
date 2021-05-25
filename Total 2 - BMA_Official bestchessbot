@@ -1,0 +1,16 @@
+{
+  "bma_official@lichess": {
+    "id": "bma_official",
+    "provider": "lichess",
+    "username": "BMA_Official",
+    "firstSeen": 1621907828442,
+    "lastSeen": 1621910831650
+  },
+  "bestchessbot@lichess": {
+    "id": "bestchessbot",
+    "provider": "lichess",
+    "username": "bestchessbot",
+    "firstSeen": 1621910917485,
+    "lastSeen": 1621910917486
+  }
+}
