@@ -1,0 +1,29 @@
+{
+  "bma_official@lichess": {
+    "id": "bma_official",
+    "provider": "lichess",
+    "username": "BMA_Official",
+    "firstSeen": 1622029218607,
+    "lastSeen": 1622035913636,
+    "firstSeenTime": "11:40:18 AM",
+    "lastSeenTime": "1:31:53 PM",
+    "onlineDurationMins": 111.58381666666666
+  },
+  "ice_chess@lichess": {
+    "id": "ice_chess",
+    "provider": "lichess",
+    "username": "Ice_Chess",
+    "firstSeen": 1622035782477,
+    "lastSeen": 1622035877652,
+    "firstSeenTime": "1:29:42 PM",
+    "lastSeenTime": "1:31:17 PM",
+    "onlineDurationMins": 1.58625
+  },
+  "firewboom@lichess": {
+    "id": "firewboom",
+    "provider": "lichess",
+    "username": "Firewboom",
+    "firstSeen": 1622036585650,
+    "lastSeen": 1622036585650
+  }
+}
