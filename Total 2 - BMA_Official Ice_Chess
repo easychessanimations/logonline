@@ -1,0 +1,19 @@
+{
+  "bma_official@lichess": {
+    "id": "bma_official",
+    "provider": "lichess",
+    "username": "BMA_Official",
+    "firstSeen": 1622029218607,
+    "lastSeen": 1622035775989,
+    "firstSeenTime": "11:40:18 AM",
+    "lastSeenTime": "1:02:36 PM",
+    "onlineDurationMins": 82.293
+  },
+  "ice_chess@lichess": {
+    "id": "ice_chess",
+    "provider": "lichess",
+    "username": "Ice_Chess",
+    "firstSeen": 1622035782477,
+    "lastSeen": 1622035782477
+  }
+}
