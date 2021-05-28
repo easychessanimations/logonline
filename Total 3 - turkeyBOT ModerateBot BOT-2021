@@ -4,26 +4,26 @@
     "provider": "lichess",
     "username": "turkeyBOT",
     "firstSeen": 1622181971096,
-    "lastSeen": 1622186322681,
+    "lastSeen": 1622192370556,
     "firstSeenTime": "6:06:11 AM",
-    "lastSeenTime": "7:06:27 AM",
-    "onlineDurationMins": 60.26553333333333
+    "lastSeenTime": "8:25:27 AM",
+    "onlineDurationMins": 139.27006666666668
   },
   "moderatebot@lichess": {
     "id": "moderatebot",
     "provider": "lichess",
     "username": "ModerateBot",
-    "firstSeen": 1622182379884,
-    "lastSeen": 1622186384335,
-    "firstSeenTime": "6:12:59 AM",
-    "lastSeenTime": "7:08:48 AM",
-    "onlineDurationMins": 55.80845
+    "firstSeen": 1622188749385,
+    "lastSeen": 1622192084025,
+    "firstSeenTime": "7:59:09 AM",
+    "lastSeenTime": "8:24:12 AM",
+    "onlineDurationMins": 25.055683333333334
   },
   "bot-2021@lichess": {
     "id": "bot-2021",
     "provider": "lichess",
     "username": "BOT-2021",
-    "firstSeen": 1622186739098,
-    "lastSeen": 1622186739098
+    "firstSeen": 1622192743206,
+    "lastSeen": 1622192743206
   }
 }
