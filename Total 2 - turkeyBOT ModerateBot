@@ -4,13 +4,19 @@
     "provider": "lichess",
     "username": "turkeyBOT",
     "firstSeen": 1622181971096,
-    "lastSeen": 1622182124943
+    "lastSeen": 1622190993663,
+    "firstSeenTime": "6:06:11 AM",
+    "lastSeenTime": "8:25:27 AM",
+    "onlineDurationMins": 139.27006666666668
   },
   "moderatebot@lichess": {
     "id": "moderatebot",
     "provider": "lichess",
     "username": "ModerateBot",
-    "firstSeen": 1622182379884,
-    "lastSeen": 1622182379884
+    "firstSeen": 1622188749385,
+    "lastSeen": 1622190764126,
+    "firstSeenTime": "7:59:09 AM",
+    "lastSeenTime": "8:24:12 AM",
+    "onlineDurationMins": 25.055683333333334
   }
 }
