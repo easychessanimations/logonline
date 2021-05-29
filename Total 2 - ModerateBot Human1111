@@ -1,0 +1,16 @@
+{
+  "moderatebot@lichess": {
+    "id": "moderatebot",
+    "provider": "lichess",
+    "username": "ModerateBot",
+    "firstSeen": 1622288335139,
+    "lastSeen": 1622289634811
+  },
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1622289766333,
+    "lastSeen": 1622289766333
+  }
+}
