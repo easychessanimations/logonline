@@ -1,0 +1,19 @@
+{
+  "superjerobot@lichess": {
+    "id": "superjerobot",
+    "provider": "lichess",
+    "username": "SuperJeroBot",
+    "firstSeen": 1622304545732,
+    "lastSeen": 1622306497173,
+    "firstSeenTime": "4:09:05 PM",
+    "lastSeenTime": "4:12:12 PM",
+    "onlineDurationMins": 3.1048
+  },
+  "charles_magnussen@lichess": {
+    "id": "charles_magnussen",
+    "provider": "lichess",
+    "username": "Charles_Magnussen",
+    "firstSeen": 1622305954718,
+    "lastSeen": 1622306201467
+  }
+}
