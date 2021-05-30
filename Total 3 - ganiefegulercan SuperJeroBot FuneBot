@@ -1,0 +1,23 @@
+{
+  "ganiefegulercan@lichess": {
+    "id": "ganiefegulercan",
+    "provider": "lichess",
+    "username": "ganiefegulercan",
+    "firstSeen": 1622385632801,
+    "lastSeen": 1622387051749
+  },
+  "superjerobot@lichess": {
+    "id": "superjerobot",
+    "provider": "lichess",
+    "username": "SuperJeroBot",
+    "firstSeen": 1622386361622,
+    "lastSeen": 1622387068399
+  },
+  "funebot@lichess": {
+    "id": "funebot",
+    "provider": "lichess",
+    "username": "FuneBot",
+    "firstSeen": 1622387140016,
+    "lastSeen": 1622387140016
+  }
+}
