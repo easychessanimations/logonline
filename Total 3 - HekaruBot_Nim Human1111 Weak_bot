@@ -1,0 +1,23 @@
+{
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1622393534083,
+    "lastSeen": 1622394443254
+  },
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1622394479739,
+    "lastSeen": 1622394499895
+  },
+  "weak_bot@lichess": {
+    "id": "weak_bot",
+    "provider": "lichess",
+    "username": "Weak_bot",
+    "firstSeen": 1622394501519,
+    "lastSeen": 1622394501519
+  }
+}
