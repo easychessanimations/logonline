@@ -1,0 +1,19 @@
+{
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1622473411579,
+    "lastSeen": 1622473641903,
+    "firstSeenTime": "3:03:31 PM",
+    "lastSeenTime": "3:07:21 PM",
+    "onlineDurationMins": 3.8387333333333333
+  },
+  "teamleaderbot@lichess": {
+    "id": "teamleaderbot",
+    "provider": "lichess",
+    "username": "Teamleaderbot",
+    "firstSeen": 1622474017336,
+    "lastSeen": 1622474017336
+  }
+}
