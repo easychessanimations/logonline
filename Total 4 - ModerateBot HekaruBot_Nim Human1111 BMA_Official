@@ -1,0 +1,36 @@
+{
+  "moderatebot@lichess": {
+    "id": "moderatebot",
+    "provider": "lichess",
+    "username": "ModerateBot",
+    "firstSeen": 1622445199393,
+    "lastSeen": 1622459384421,
+    "firstSeenTime": "7:13:19 AM",
+    "lastSeenTime": "10:13:44 AM",
+    "onlineDurationMins": 180.42015
+  },
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1622445748577,
+    "lastSeen": 1622459130763,
+    "firstSeenTime": "7:22:28 AM",
+    "lastSeenTime": "10:14:21 AM",
+    "onlineDurationMins": 171.8895
+  },
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1622458270125,
+    "lastSeen": 1622458777151
+  },
+  "bma_official@lichess": {
+    "id": "bma_official",
+    "provider": "lichess",
+    "username": "BMA_Official",
+    "firstSeen": 1622458740457,
+    "lastSeen": 1622459018470
+  }
+}
