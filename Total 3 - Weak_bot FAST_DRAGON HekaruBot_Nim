@@ -1,0 +1,23 @@
+{
+  "weak_bot@lichess": {
+    "id": "weak_bot",
+    "provider": "lichess",
+    "username": "Weak_bot",
+    "firstSeen": 1622438617034,
+    "lastSeen": 1622439564386
+  },
+  "fast_dragon@lichess": {
+    "id": "fast_dragon",
+    "provider": "lichess",
+    "username": "FAST_DRAGON",
+    "firstSeen": 1622438738891,
+    "lastSeen": 1622439067174
+  },
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1622439933349,
+    "lastSeen": 1622439933350
+  }
+}
