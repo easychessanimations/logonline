@@ -1,0 +1,30 @@
+{
+  "adam873858@lichess": {
+    "id": "adam873858",
+    "provider": "lichess",
+    "username": "adam873858",
+    "firstSeen": 1622461523018,
+    "lastSeen": 1622466025356
+  },
+  "moderatebot@lichess": {
+    "id": "moderatebot",
+    "provider": "lichess",
+    "username": "ModerateBot",
+    "firstSeen": 1622465487922,
+    "lastSeen": 1622466112961
+  },
+  "criptelbot@lichess": {
+    "id": "criptelbot",
+    "provider": "lichess",
+    "username": "CriptelBot",
+    "firstSeen": 1622465544043,
+    "lastSeen": 1622466113170
+  },
+  "teamleaderbot@lichess": {
+    "id": "teamleaderbot",
+    "provider": "lichess",
+    "username": "Teamleaderbot",
+    "firstSeen": 1622466125279,
+    "lastSeen": 1622466125279
+  }
+}
