@@ -1,0 +1,36 @@
+{
+  "moderatebot@lichess": {
+    "id": "moderatebot",
+    "provider": "lichess",
+    "username": "ModerateBot",
+    "firstSeen": 1622445199393,
+    "lastSeen": 1622454705473,
+    "firstSeenTime": "7:13:19 AM",
+    "lastSeenTime": "9:29:46 AM",
+    "onlineDurationMins": 136.44381666666666
+  },
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1622445748577,
+    "lastSeen": 1622454738924,
+    "firstSeenTime": "7:22:28 AM",
+    "lastSeenTime": "9:33:27 AM",
+    "onlineDurationMins": 130.98396666666667
+  },
+  "anoim_warrior137@lichess": {
+    "id": "anoim_warrior137",
+    "provider": "lichess",
+    "username": "Anoim_Warrior137",
+    "firstSeen": 1622454460447,
+    "lastSeen": 1622455028099
+  },
+  "gmchessmap@lichess": {
+    "id": "gmchessmap",
+    "provider": "lichess",
+    "username": "gmchessmap",
+    "firstSeen": 1622455037310,
+    "lastSeen": 1622455037310
+  }
+}
