@@ -1,0 +1,30 @@
+{
+  "bma_official@lichess": {
+    "id": "bma_official",
+    "provider": "lichess",
+    "username": "BMA_Official",
+    "firstSeen": 1622458740457,
+    "lastSeen": 1622460845934
+  },
+  "universal_chess@lichess": {
+    "id": "universal_chess",
+    "provider": "lichess",
+    "username": "universal_chess",
+    "firstSeen": 1622460372043,
+    "lastSeen": 1622460389830
+  },
+  "jack-sparrow13@lichess": {
+    "id": "jack-sparrow13",
+    "provider": "lichess",
+    "username": "Jack-Sparrow13",
+    "firstSeen": 1622460460518,
+    "lastSeen": 1622460480850
+  },
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1622460503910,
+    "lastSeen": 1622460507989
+  }
+}
