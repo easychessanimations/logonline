@@ -1,0 +1,33 @@
+{
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1622473411579,
+    "lastSeen": 1622476758573,
+    "firstSeenTime": "3:03:31 PM",
+    "lastSeenTime": "3:17:18 PM",
+    "onlineDurationMins": 13.776483333333333
+  },
+  "rezdarservan@lichess": {
+    "id": "rezdarservan",
+    "provider": "lichess",
+    "username": "REZDARSERVAN",
+    "firstSeen": 1622476053162,
+    "lastSeen": 1622476755971
+  },
+  "blazerflame123@lichess": {
+    "id": "blazerflame123",
+    "provider": "lichess",
+    "username": "BlazerFlame123",
+    "firstSeen": 1622476076184,
+    "lastSeen": 1622476787219
+  },
+  "superjerobot@lichess": {
+    "id": "superjerobot",
+    "provider": "lichess",
+    "username": "SuperJeroBot",
+    "firstSeen": 1622476798272,
+    "lastSeen": 1622476798272
+  }
+}
