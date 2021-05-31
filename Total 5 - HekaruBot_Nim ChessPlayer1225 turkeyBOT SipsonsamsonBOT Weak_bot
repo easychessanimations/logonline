@@ -1,0 +1,37 @@
+{
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1622439933349,
+    "lastSeen": 1622442423543
+  },
+  "chessplayer1225@lichess": {
+    "id": "chessplayer1225",
+    "provider": "lichess",
+    "username": "ChessPlayer1225",
+    "firstSeen": 1622441771278,
+    "lastSeen": 1622442298831
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1622441806625,
+    "lastSeen": 1622442010985
+  },
+  "sipsonsamsonbot@lichess": {
+    "id": "sipsonsamsonbot",
+    "provider": "lichess",
+    "username": "SipsonsamsonBOT",
+    "firstSeen": 1622441849294,
+    "lastSeen": 1622442155093
+  },
+  "weak_bot@lichess": {
+    "id": "weak_bot",
+    "provider": "lichess",
+    "username": "Weak_bot",
+    "firstSeen": 1622442542402,
+    "lastSeen": 1622442542402
+  }
+}
