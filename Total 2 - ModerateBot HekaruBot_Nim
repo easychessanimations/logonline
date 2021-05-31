@@ -1,0 +1,22 @@
+{
+  "moderatebot@lichess": {
+    "id": "moderatebot",
+    "provider": "lichess",
+    "username": "ModerateBot",
+    "firstSeen": 1622445199393,
+    "lastSeen": 1622452724649,
+    "firstSeenTime": "7:13:19 AM",
+    "lastSeenTime": "8:43:44 AM",
+    "onlineDurationMins": 90.42121666666667
+  },
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1622445748577,
+    "lastSeen": 1622452410481,
+    "firstSeenTime": "7:22:28 AM",
+    "lastSeenTime": "8:46:33 AM",
+    "onlineDurationMins": 84.0853
+  }
+}
