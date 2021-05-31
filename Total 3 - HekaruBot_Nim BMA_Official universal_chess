@@ -1,0 +1,26 @@
+{
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1622445748577,
+    "lastSeen": 1622459851862,
+    "firstSeenTime": "7:22:28 AM",
+    "lastSeenTime": "10:14:21 AM",
+    "onlineDurationMins": 171.8895
+  },
+  "bma_official@lichess": {
+    "id": "bma_official",
+    "provider": "lichess",
+    "username": "BMA_Official",
+    "firstSeen": 1622458740457,
+    "lastSeen": 1622460089281
+  },
+  "universal_chess@lichess": {
+    "id": "universal_chess",
+    "provider": "lichess",
+    "username": "universal_chess",
+    "firstSeen": 1622460372043,
+    "lastSeen": 1622460372043
+  }
+}
