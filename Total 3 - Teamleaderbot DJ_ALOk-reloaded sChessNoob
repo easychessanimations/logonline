@@ -1,0 +1,23 @@
+{
+  "teamleaderbot@lichess": {
+    "id": "teamleaderbot",
+    "provider": "lichess",
+    "username": "Teamleaderbot",
+    "firstSeen": 1622523278561,
+    "lastSeen": 1622525980398
+  },
+  "dj_alok-reloaded@lichess": {
+    "id": "dj_alok-reloaded",
+    "provider": "lichess",
+    "username": "DJ_ALOk-reloaded",
+    "firstSeen": 1622525443812,
+    "lastSeen": 1622525840818
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1622526037435,
+    "lastSeen": 1622526037435
+  }
+}
