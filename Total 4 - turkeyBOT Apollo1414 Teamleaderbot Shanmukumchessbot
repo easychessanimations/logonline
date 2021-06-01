@@ -1,0 +1,30 @@
+{
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1622532952608,
+    "lastSeen": 1622533864295
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1622532969086,
+    "lastSeen": 1622533577001
+  },
+  "teamleaderbot@lichess": {
+    "id": "teamleaderbot",
+    "provider": "lichess",
+    "username": "Teamleaderbot",
+    "firstSeen": 1622533500651,
+    "lastSeen": 1622534132694
+  },
+  "shanmukumchessbot@lichess": {
+    "id": "shanmukumchessbot",
+    "provider": "lichess",
+    "username": "Shanmukumchessbot",
+    "firstSeen": 1622533615051,
+    "lastSeen": 1622533965895
+  }
+}
