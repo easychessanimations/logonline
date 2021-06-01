@@ -1,0 +1,39 @@
+{
+  "teamleaderbot@lichess": {
+    "id": "teamleaderbot",
+    "provider": "lichess",
+    "username": "Teamleaderbot",
+    "firstSeen": 1622523278561,
+    "lastSeen": 1622526197353,
+    "firstSeenTime": "4:54:38 AM",
+    "lastSeenTime": "5:39:40 AM",
+    "onlineDurationMins": 45.03061666666667
+  },
+  "dj_alok-reloaded@lichess": {
+    "id": "dj_alok-reloaded",
+    "provider": "lichess",
+    "username": "DJ_ALOk-reloaded",
+    "firstSeen": 1622525443812,
+    "lastSeen": 1622526128432,
+    "firstSeenTime": "5:30:43 AM",
+    "lastSeenTime": "5:37:20 AM",
+    "onlineDurationMins": 6.616766666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1622526037435,
+    "lastSeen": 1622526075526,
+    "firstSeenTime": "5:40:37 AM",
+    "lastSeenTime": "5:41:15 AM",
+    "onlineDurationMins": 0.63485
+  },
+  "i_am_a_rated_player@lichess": {
+    "id": "i_am_a_rated_player",
+    "provider": "lichess",
+    "username": "I_AM_A_RATED_PLAYER",
+    "firstSeen": 1622526592904,
+    "lastSeen": 1622526592904
+  }
+}
