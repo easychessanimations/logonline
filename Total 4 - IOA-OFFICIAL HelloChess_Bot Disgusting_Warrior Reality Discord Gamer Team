@@ -1,0 +1,30 @@
+{
+  "ioa-official@lichess": {
+    "id": "ioa-official",
+    "provider": "lichess",
+    "username": "IOA-OFFICIAL",
+    "firstSeen": 1622517469066,
+    "lastSeen": 1622520694009
+  },
+  "hellochess_bot@lichess": {
+    "id": "hellochess_bot",
+    "provider": "lichess",
+    "username": "HelloChess_Bot",
+    "firstSeen": 1622520321997,
+    "lastSeen": 1622521027486
+  },
+  "disgusting_warrior@lichess": {
+    "id": "disgusting_warrior",
+    "provider": "lichess",
+    "username": "Disgusting_Warrior",
+    "firstSeen": 1622520904271,
+    "lastSeen": 1622520944119
+  },
+  "817557448599797790@discord": {
+    "id": "817557448599797790",
+    "provider": "discord",
+    "username": "Reality Discord Gamer Team",
+    "firstSeen": 1622521075284,
+    "lastSeen": 1622521075284
+  }
+}
