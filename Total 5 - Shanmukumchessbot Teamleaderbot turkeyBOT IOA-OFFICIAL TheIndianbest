@@ -1,0 +1,46 @@
+{
+  "shanmukumchessbot@lichess": {
+    "id": "shanmukumchessbot",
+    "provider": "lichess",
+    "username": "Shanmukumchessbot",
+    "firstSeen": 1622527186925,
+    "lastSeen": 1622528816609,
+    "firstSeenTime": "5:59:46 AM",
+    "lastSeenTime": "6:00:49 AM",
+    "onlineDurationMins": 1.0498
+  },
+  "teamleaderbot@lichess": {
+    "id": "teamleaderbot",
+    "provider": "lichess",
+    "username": "Teamleaderbot",
+    "firstSeen": 1622527829043,
+    "lastSeen": 1622528645600,
+    "firstSeenTime": "6:10:29 AM",
+    "lastSeenTime": "6:11:56 AM",
+    "onlineDurationMins": 1.4592333333333334
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1622527918626,
+    "lastSeen": 1622528591410,
+    "firstSeenTime": "6:11:58 AM",
+    "lastSeenTime": "6:12:58 AM",
+    "onlineDurationMins": 1.0034833333333333
+  },
+  "ioa-official@lichess": {
+    "id": "ioa-official",
+    "provider": "lichess",
+    "username": "IOA-OFFICIAL",
+    "firstSeen": 1622528115559,
+    "lastSeen": 1622528801949
+  },
+  "theindianbest@lichess": {
+    "id": "theindianbest",
+    "provider": "lichess",
+    "username": "TheIndianbest",
+    "firstSeen": 1622528790970,
+    "lastSeen": 1622528815358
+  }
+}
