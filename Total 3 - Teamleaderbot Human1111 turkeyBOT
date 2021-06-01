@@ -1,0 +1,26 @@
+{
+  "teamleaderbot@lichess": {
+    "id": "teamleaderbot",
+    "provider": "lichess",
+    "username": "Teamleaderbot",
+    "firstSeen": 1622527829043,
+    "lastSeen": 1622532073200,
+    "firstSeenTime": "6:10:29 AM",
+    "lastSeenTime": "6:11:56 AM",
+    "onlineDurationMins": 1.4592333333333334
+  },
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1622532810259,
+    "lastSeen": 1622532951321
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1622532952608,
+    "lastSeen": 1622532952608
+  }
+}
