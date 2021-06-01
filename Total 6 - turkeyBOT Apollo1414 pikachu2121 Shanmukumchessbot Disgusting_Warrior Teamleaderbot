@@ -1,0 +1,44 @@
+{
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1622532952608,
+    "lastSeen": 1622538132185
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1622532969086,
+    "lastSeen": 1622537728623
+  },
+  "pikachu2121@lichess": {
+    "id": "pikachu2121",
+    "provider": "lichess",
+    "username": "pikachu2121",
+    "firstSeen": 1622537266766,
+    "lastSeen": 1622537569295
+  },
+  "shanmukumchessbot@lichess": {
+    "id": "shanmukumchessbot",
+    "provider": "lichess",
+    "username": "Shanmukumchessbot",
+    "firstSeen": 1622537943585,
+    "lastSeen": 1622538017745
+  },
+  "disgusting_warrior@lichess": {
+    "id": "disgusting_warrior",
+    "provider": "lichess",
+    "username": "Disgusting_Warrior",
+    "firstSeen": 1622538041902,
+    "lastSeen": 1622538144377
+  },
+  "teamleaderbot@lichess": {
+    "id": "teamleaderbot",
+    "provider": "lichess",
+    "username": "Teamleaderbot",
+    "firstSeen": 1622538253402,
+    "lastSeen": 1622538253402
+  }
+}
