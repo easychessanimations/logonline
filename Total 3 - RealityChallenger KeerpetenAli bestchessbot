@@ -1,0 +1,23 @@
+{
+  "realitychallenger@lichess": {
+    "id": "realitychallenger",
+    "provider": "lichess",
+    "username": "RealityChallenger",
+    "firstSeen": 1622592846428,
+    "lastSeen": 1622595549406
+  },
+  "keerpetenali@lichess": {
+    "id": "keerpetenali",
+    "provider": "lichess",
+    "username": "KeerpetenAli",
+    "firstSeen": 1622595175071,
+    "lastSeen": 1622595787429
+  },
+  "bestchessbot@lichess": {
+    "id": "bestchessbot",
+    "provider": "lichess",
+    "username": "bestchessbot",
+    "firstSeen": 1622595288036,
+    "lastSeen": 1622595506672
+  }
+}
