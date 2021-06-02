@@ -1,0 +1,44 @@
+{
+  "botsbetterthanhumans@lichess": {
+    "id": "botsbetterthanhumans",
+    "provider": "lichess",
+    "username": "BotsBetterThanHumans",
+    "firstSeen": 1622634825430,
+    "lastSeen": 1622635048973
+  },
+  "realitychallenger@lichess": {
+    "id": "realitychallenger",
+    "provider": "lichess",
+    "username": "RealityChallenger",
+    "firstSeen": 1622634849836,
+    "lastSeen": 1622635093378
+  },
+  "botlaringucu@lichess": {
+    "id": "botlaringucu",
+    "provider": "lichess",
+    "username": "botlaringucu",
+    "firstSeen": 1622634885018,
+    "lastSeen": 1622635206262
+  },
+  "goldoneryplankbotu_1@lichess": {
+    "id": "goldoneryplankbotu_1",
+    "provider": "lichess",
+    "username": "goldoneryplankbotu_1",
+    "firstSeen": 1622634892746,
+    "lastSeen": 1622635206557
+  },
+  "bot_efsane@lichess": {
+    "id": "bot_efsane",
+    "provider": "lichess",
+    "username": "BOT_EFSANE",
+    "firstSeen": 1622635029004,
+    "lastSeen": 1622635143044
+  },
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1622635272615,
+    "lastSeen": 1622635272615
+  }
+}
