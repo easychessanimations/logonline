@@ -1,0 +1,32 @@
+{
+  "realitychallenger@lichess": {
+    "id": "realitychallenger",
+    "provider": "lichess",
+    "username": "RealityChallenger",
+    "firstSeen": 1622627769846,
+    "lastSeen": 1622633769820,
+    "firstSeenTime": "9:56:09 AM",
+    "lastSeenTime": "11:29:09 AM",
+    "onlineDurationMins": 92.99915
+  },
+  "rezdarservan@lichess": {
+    "id": "rezdarservan",
+    "provider": "lichess",
+    "username": "REZDARSERVAN",
+    "firstSeen": 1622629602026,
+    "lastSeen": 1622633574437,
+    "firstSeenTime": "10:26:42 AM",
+    "lastSeenTime": "11:21:50 AM",
+    "onlineDurationMins": 55.1448
+  },
+  "botsbetterthanhumans@lichess": {
+    "id": "botsbetterthanhumans",
+    "provider": "lichess",
+    "username": "BotsBetterThanHumans",
+    "firstSeen": 1622633322131,
+    "lastSeen": 1622634385482,
+    "firstSeenTime": "11:28:42 AM",
+    "lastSeenTime": "11:29:09 AM",
+    "onlineDurationMins": 0.4568333333333333
+  }
+}
