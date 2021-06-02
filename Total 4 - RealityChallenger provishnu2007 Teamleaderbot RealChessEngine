@@ -1,0 +1,30 @@
+{
+  "realitychallenger@lichess": {
+    "id": "realitychallenger",
+    "provider": "lichess",
+    "username": "RealityChallenger",
+    "firstSeen": 1622592846428,
+    "lastSeen": 1622606349190
+  },
+  "provishnu2007@lichess": {
+    "id": "provishnu2007",
+    "provider": "lichess",
+    "username": "provishnu2007",
+    "firstSeen": 1622605426439,
+    "lastSeen": 1622606399905
+  },
+  "teamleaderbot@lichess": {
+    "id": "teamleaderbot",
+    "provider": "lichess",
+    "username": "Teamleaderbot",
+    "firstSeen": 1622605869210,
+    "lastSeen": 1622605988971
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1622606811583,
+    "lastSeen": 1622606811583
+  }
+}
