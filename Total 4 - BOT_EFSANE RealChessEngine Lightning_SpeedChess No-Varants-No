@@ -1,0 +1,33 @@
+{
+  "bot_efsane@lichess": {
+    "id": "bot_efsane",
+    "provider": "lichess",
+    "username": "BOT_EFSANE",
+    "firstSeen": 1622640800563,
+    "lastSeen": 1622642302360,
+    "firstSeenTime": "1:33:20 PM",
+    "lastSeenTime": "1:37:37 PM",
+    "onlineDurationMins": 4.27445
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1622641528507,
+    "lastSeen": 1622642712515
+  },
+  "lightning_speedchess@lichess": {
+    "id": "lightning_speedchess",
+    "provider": "lichess",
+    "username": "Lightning_SpeedChess",
+    "firstSeen": 1622642708225,
+    "lastSeen": 1622642774887
+  },
+  "no-varants-no@lichess": {
+    "id": "no-varants-no",
+    "provider": "lichess",
+    "username": "No-Varants-No",
+    "firstSeen": 1622642882998,
+    "lastSeen": 1622642882998
+  }
+}
