@@ -1,0 +1,69 @@
+{
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1622617242598,
+    "lastSeen": 1622625802170,
+    "firstSeenTime": "7:00:42 AM",
+    "lastSeenTime": "9:23:22 AM",
+    "onlineDurationMins": 142.65953333333334
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1622621423862,
+    "lastSeen": 1622626128546,
+    "firstSeenTime": "8:10:23 AM",
+    "lastSeenTime": "9:23:20 AM",
+    "onlineDurationMins": 72.93866666666666
+  },
+  "realitychallenger@lichess": {
+    "id": "realitychallenger",
+    "provider": "lichess",
+    "username": "RealityChallenger",
+    "firstSeen": 1622622489608,
+    "lastSeen": 1622625849622,
+    "firstSeenTime": "8:28:09 AM",
+    "lastSeenTime": "9:24:09 AM",
+    "onlineDurationMins": 56.000233333333334
+  },
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1622622958164,
+    "lastSeen": 1622625966853,
+    "firstSeenTime": "8:35:58 AM",
+    "lastSeenTime": "9:26:06 AM",
+    "onlineDurationMins": 50.144816666666664
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1622623518527,
+    "lastSeen": 1622626108330,
+    "firstSeenTime": "8:45:18 AM",
+    "lastSeenTime": "9:28:28 AM",
+    "onlineDurationMins": 43.163383333333336
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1622624986859,
+    "lastSeen": 1622625772252,
+    "firstSeenTime": "9:09:46 AM",
+    "lastSeenTime": "9:22:52 AM",
+    "onlineDurationMins": 13.089883333333333
+  },
+  "teamleaderbot@lichess": {
+    "id": "teamleaderbot",
+    "provider": "lichess",
+    "username": "Teamleaderbot",
+    "firstSeen": 1622626221416,
+    "lastSeen": 1622626221417
+  }
+}
