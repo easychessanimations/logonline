@@ -1,0 +1,68 @@
+{
+  "bot_efsane@lichess": {
+    "id": "bot_efsane",
+    "provider": "lichess",
+    "username": "BOT_EFSANE",
+    "firstSeen": 1622640800563,
+    "lastSeen": 1622648988669,
+    "firstSeenTime": "1:33:20 PM",
+    "lastSeenTime": "1:37:37 PM",
+    "onlineDurationMins": 4.27445
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1622646863467,
+    "lastSeen": 1622648366962
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1622646939698,
+    "lastSeen": 1622648441924
+  },
+  "bot-2564@lichess": {
+    "id": "bot-2564",
+    "provider": "lichess",
+    "username": "Bot-2564",
+    "firstSeen": 1622648185365,
+    "lastSeen": 1622648972038
+  },
+  "ksjellybeanchess@lichess": {
+    "id": "ksjellybeanchess",
+    "provider": "lichess",
+    "username": "KSJellyBeanChess",
+    "firstSeen": 1622648318367,
+    "lastSeen": 1622648535412
+  },
+  "ceyloncentuari@lichess": {
+    "id": "ceyloncentuari",
+    "provider": "lichess",
+    "username": "CeylonCentuari",
+    "firstSeen": 1622648366421,
+    "lastSeen": 1622649092366
+  },
+  "chesspiececrusher@lichess": {
+    "id": "chesspiececrusher",
+    "provider": "lichess",
+    "username": "Chesspiececrusher",
+    "firstSeen": 1622648401785,
+    "lastSeen": 1622649234698
+  },
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1622648536712,
+    "lastSeen": 1622648554727
+  },
+  "veetriyan@lichess": {
+    "id": "veetriyan",
+    "provider": "lichess",
+    "username": "Veetriyan",
+    "firstSeen": 1622648844315,
+    "lastSeen": 1622649215372
+  }
+}
