@@ -1,0 +1,33 @@
+{
+  "realitychallenger@lichess": {
+    "id": "realitychallenger",
+    "provider": "lichess",
+    "username": "RealityChallenger",
+    "firstSeen": 1622592846428,
+    "lastSeen": 1622616912651,
+    "firstSeenTime": "12:14:06 AM",
+    "lastSeenTime": "6:17:09 AM",
+    "onlineDurationMins": 363.04931666666664
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1622616863450,
+    "lastSeen": 1622617165925
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1622617242598,
+    "lastSeen": 1622617253380
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1622617308922,
+    "lastSeen": 1622617308922
+  }
+}
