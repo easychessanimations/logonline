@@ -1,0 +1,79 @@
+{
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1622617242598,
+    "lastSeen": 1622623230121,
+    "firstSeenTime": "7:00:42 AM",
+    "lastSeenTime": "8:40:30 AM",
+    "onlineDurationMins": 99.79205
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1622621423862,
+    "lastSeen": 1622623219579,
+    "firstSeenTime": "8:10:23 AM",
+    "lastSeenTime": "8:40:19 AM",
+    "onlineDurationMins": 29.928616666666667
+  },
+  "realitychallenger@lichess": {
+    "id": "realitychallenger",
+    "provider": "lichess",
+    "username": "RealityChallenger",
+    "firstSeen": 1622622489608,
+    "lastSeen": 1622623213187,
+    "firstSeenTime": "8:28:09 AM",
+    "lastSeenTime": "8:40:13 AM",
+    "onlineDurationMins": 12.05965
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1622622515675,
+    "lastSeen": 1622623187677,
+    "firstSeenTime": "8:28:35 AM",
+    "lastSeenTime": "8:39:47 AM",
+    "onlineDurationMins": 11.200033333333334
+  },
+  "alexam@lichess": {
+    "id": "alexam",
+    "provider": "lichess",
+    "username": "AlexAM",
+    "firstSeen": 1622622804061,
+    "lastSeen": 1622622814831,
+    "firstSeenTime": "8:33:24 AM",
+    "lastSeenTime": "8:33:34 AM",
+    "onlineDurationMins": 0.1795
+  },
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1622622958164,
+    "lastSeen": 1622623014933,
+    "firstSeenTime": "8:35:58 AM",
+    "lastSeenTime": "8:36:54 AM",
+    "onlineDurationMins": 0.94615
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1622623518527,
+    "lastSeen": 1622623579556,
+    "firstSeenTime": "8:45:18 AM",
+    "lastSeenTime": "8:46:19 AM",
+    "onlineDurationMins": 1.01715
+  },
+  "fgiod@lichess": {
+    "id": "fgiod",
+    "provider": "lichess",
+    "username": "fgiod",
+    "firstSeen": 1622623620000,
+    "lastSeen": 1622623620001
+  }
+}
