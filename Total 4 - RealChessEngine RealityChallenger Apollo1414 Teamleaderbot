@@ -1,0 +1,39 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1622621423862,
+    "lastSeen": 1622626431465,
+    "firstSeenTime": "8:10:23 AM",
+    "lastSeenTime": "9:23:20 AM",
+    "onlineDurationMins": 72.93866666666666
+  },
+  "realitychallenger@lichess": {
+    "id": "realitychallenger",
+    "provider": "lichess",
+    "username": "RealityChallenger",
+    "firstSeen": 1622622489608,
+    "lastSeen": 1622626453187,
+    "firstSeenTime": "8:28:09 AM",
+    "lastSeenTime": "9:24:09 AM",
+    "onlineDurationMins": 56.000233333333334
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1622624986859,
+    "lastSeen": 1622627021575,
+    "firstSeenTime": "9:09:46 AM",
+    "lastSeenTime": "9:22:52 AM",
+    "onlineDurationMins": 13.089883333333333
+  },
+  "teamleaderbot@lichess": {
+    "id": "teamleaderbot",
+    "provider": "lichess",
+    "username": "Teamleaderbot",
+    "firstSeen": 1622626221416,
+    "lastSeen": 1622626412839
+  }
+}
