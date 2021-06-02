@@ -1,0 +1,54 @@
+{
+  "bot_efsane@lichess": {
+    "id": "bot_efsane",
+    "provider": "lichess",
+    "username": "BOT_EFSANE",
+    "firstSeen": 1622640800563,
+    "lastSeen": 1622643802601,
+    "firstSeenTime": "1:33:20 PM",
+    "lastSeenTime": "1:37:37 PM",
+    "onlineDurationMins": 4.27445
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1622641528507,
+    "lastSeen": 1622643525008
+  },
+  "no-varants-no@lichess": {
+    "id": "no-varants-no",
+    "provider": "lichess",
+    "username": "No-Varants-No",
+    "firstSeen": 1622642882998,
+    "lastSeen": 1622643669612
+  },
+  "alidenizkartal287@lichess": {
+    "id": "alidenizkartal287",
+    "provider": "lichess",
+    "username": "Alidenizkartal287",
+    "firstSeen": 1622643097166,
+    "lastSeen": 1622643486567
+  },
+  "beray_ahmet@lichess": {
+    "id": "beray_ahmet",
+    "provider": "lichess",
+    "username": "beray_ahmet",
+    "firstSeen": 1622643159988,
+    "lastSeen": 1622643317255
+  },
+  "mrt23@lichess": {
+    "id": "mrt23",
+    "provider": "lichess",
+    "username": "MRT23",
+    "firstSeen": 1622643435895,
+    "lastSeen": 1622644092881
+  },
+  "danielchessbolk@lichess": {
+    "id": "danielchessbolk",
+    "provider": "lichess",
+    "username": "DanielchessBolk",
+    "firstSeen": 1622643816147,
+    "lastSeen": 1622643832984
+  }
+}
