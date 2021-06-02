@@ -1,0 +1,33 @@
+{
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1622551772231,
+    "lastSeen": 1622594842681,
+    "firstSeenTime": "12:49:32 PM",
+    "lastSeenTime": "6:42:20 PM",
+    "onlineDurationMins": 352.80921666666666
+  },
+  "realitychallenger@lichess": {
+    "id": "realitychallenger",
+    "provider": "lichess",
+    "username": "RealityChallenger",
+    "firstSeen": 1622592846428,
+    "lastSeen": 1622594832829
+  },
+  "keerpetenali@lichess": {
+    "id": "keerpetenali",
+    "provider": "lichess",
+    "username": "KeerpetenAli",
+    "firstSeen": 1622595175071,
+    "lastSeen": 1622595283095
+  },
+  "bestchessbot@lichess": {
+    "id": "bestchessbot",
+    "provider": "lichess",
+    "username": "bestchessbot",
+    "firstSeen": 1622595288036,
+    "lastSeen": 1622595288036
+  }
+}
