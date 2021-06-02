@@ -1,0 +1,47 @@
+{
+  "bot_efsane@lichess": {
+    "id": "bot_efsane",
+    "provider": "lichess",
+    "username": "BOT_EFSANE",
+    "firstSeen": 1622640800563,
+    "lastSeen": 1622646925931,
+    "firstSeenTime": "1:33:20 PM",
+    "lastSeenTime": "1:37:37 PM",
+    "onlineDurationMins": 4.27445
+  },
+  "no-varants-no@lichess": {
+    "id": "no-varants-no",
+    "provider": "lichess",
+    "username": "No-Varants-No",
+    "firstSeen": 1622642882998,
+    "lastSeen": 1622646756188
+  },
+  "superjerobot@lichess": {
+    "id": "superjerobot",
+    "provider": "lichess",
+    "username": "SuperJeroBot",
+    "firstSeen": 1622644685898,
+    "lastSeen": 1622646626799
+  },
+  "knightwhosezni@lichess": {
+    "id": "knightwhosezni",
+    "provider": "lichess",
+    "username": "KnightWhoSezNi",
+    "firstSeen": 1622645871387,
+    "lastSeen": 1622646756929
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1622646863467,
+    "lastSeen": 1622646877478
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1622646939698,
+    "lastSeen": 1622646939698
+  }
+}
