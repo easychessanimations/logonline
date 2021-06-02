@@ -1,0 +1,42 @@
+{
+  "botsbetterthanhumans@lichess": {
+    "id": "botsbetterthanhumans",
+    "provider": "lichess",
+    "username": "BotsBetterThanHumans",
+    "firstSeen": 1622634825430,
+    "lastSeen": 1622637089176,
+    "firstSeenTime": "11:53:45 AM",
+    "lastSeenTime": "12:08:28 PM",
+    "onlineDurationMins": 14.725916666666667
+  },
+  "goldoneryplankbotu_1@lichess": {
+    "id": "goldoneryplankbotu_1",
+    "provider": "lichess",
+    "username": "goldoneryplankbotu_1",
+    "firstSeen": 1622634892746,
+    "lastSeen": 1622637104133,
+    "firstSeenTime": "11:54:52 AM",
+    "lastSeenTime": "12:08:47 PM",
+    "onlineDurationMins": 13.911383333333333
+  },
+  "bot_efsane@lichess": {
+    "id": "bot_efsane",
+    "provider": "lichess",
+    "username": "BOT_EFSANE",
+    "firstSeen": 1622635029004,
+    "lastSeen": 1622636880502,
+    "firstSeenTime": "11:57:09 AM",
+    "lastSeenTime": "12:14:19 PM",
+    "onlineDurationMins": 17.177983333333334
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1622635699842,
+    "lastSeen": 1622636828866,
+    "firstSeenTime": "12:08:19 PM",
+    "lastSeenTime": "12:16:27 PM",
+    "onlineDurationMins": 8.121966666666667
+  }
+}
