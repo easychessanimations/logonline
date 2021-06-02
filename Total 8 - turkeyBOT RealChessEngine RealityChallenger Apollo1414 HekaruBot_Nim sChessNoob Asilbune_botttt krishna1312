@@ -1,0 +1,79 @@
+{
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1622617242598,
+    "lastSeen": 1622624823046,
+    "firstSeenTime": "7:00:42 AM",
+    "lastSeenTime": "8:51:56 AM",
+    "onlineDurationMins": 111.22473333333333
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1622621423862,
+    "lastSeen": 1622624628787,
+    "firstSeenTime": "8:10:23 AM",
+    "lastSeenTime": "8:51:20 AM",
+    "onlineDurationMins": 40.94481666666667
+  },
+  "realitychallenger@lichess": {
+    "id": "realitychallenger",
+    "provider": "lichess",
+    "username": "RealityChallenger",
+    "firstSeen": 1622622489608,
+    "lastSeen": 1622624349607,
+    "firstSeenTime": "8:28:09 AM",
+    "lastSeenTime": "8:51:13 AM",
+    "onlineDurationMins": 23.071266666666666
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1622622515675,
+    "lastSeen": 1622624019866,
+    "firstSeenTime": "8:28:35 AM",
+    "lastSeenTime": "8:53:39 AM",
+    "onlineDurationMins": 25.06985
+  },
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1622622958164,
+    "lastSeen": 1622624878422,
+    "firstSeenTime": "8:35:58 AM",
+    "lastSeenTime": "8:50:07 AM",
+    "onlineDurationMins": 14.1497
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1622623518527,
+    "lastSeen": 1622624196457,
+    "firstSeenTime": "8:45:18 AM",
+    "lastSeenTime": "8:56:36 AM",
+    "onlineDurationMins": 11.298833333333333
+  },
+  "asilbune_botttt@lichess": {
+    "id": "asilbune_botttt",
+    "provider": "lichess",
+    "username": "Asilbune_botttt",
+    "firstSeen": 1622623739958,
+    "lastSeen": 1622624622681,
+    "firstSeenTime": "8:48:59 AM",
+    "lastSeenTime": "8:55:25 AM",
+    "onlineDurationMins": 6.4238
+  },
+  "krishna1312@lichess": {
+    "id": "krishna1312",
+    "provider": "lichess",
+    "username": "krishna1312",
+    "firstSeen": 1622624916039,
+    "lastSeen": 1622624916039
+  }
+}
