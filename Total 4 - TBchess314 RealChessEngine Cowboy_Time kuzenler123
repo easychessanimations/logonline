@@ -4,27 +4,36 @@
     "provider": "lichess",
     "username": "TBchess314",
     "firstSeen": 1622682835761,
-    "lastSeen": 1622699336826
+    "lastSeen": 1622702337844,
+    "firstSeenTime": "1:13:55 AM",
+    "lastSeenTime": "6:22:56 AM",
+    "onlineDurationMins": 309.01931666666667
   },
   "realchessengine@lichess": {
     "id": "realchessengine",
     "provider": "lichess",
     "username": "RealChessEngine",
     "firstSeen": 1622693682456,
-    "lastSeen": 1622699382425
+    "lastSeen": 1622702383318,
+    "firstSeenTime": "4:14:42 AM",
+    "lastSeenTime": "6:27:12 AM",
+    "onlineDurationMins": 132.4933
   },
   "cowboy_time@lichess": {
     "id": "cowboy_time",
     "provider": "lichess",
     "username": "Cowboy_Time",
     "firstSeen": 1622699343365,
-    "lastSeen": 1622699384027
+    "lastSeen": 1622702476389,
+    "firstSeenTime": "5:49:03 AM",
+    "lastSeenTime": "6:25:58 AM",
+    "onlineDurationMins": 36.918533333333336
   },
   "kuzenler123@lichess": {
     "id": "kuzenler123",
     "provider": "lichess",
     "username": "kuzenler123",
-    "firstSeen": 1622699394099,
-    "lastSeen": 1622699394099
+    "firstSeen": 1622702565092,
+    "lastSeen": 1622702565093
   }
 }
