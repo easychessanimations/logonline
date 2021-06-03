@@ -1,0 +1,62 @@
+{
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1622721144309,
+    "lastSeen": 1622726319630,
+    "firstSeenTime": "11:52:24 AM",
+    "lastSeenTime": "1:07:38 PM",
+    "onlineDurationMins": 75.23761666666667
+  },
+  "botsbetterthanhumans@lichess": {
+    "id": "botsbetterthanhumans",
+    "provider": "lichess",
+    "username": "BotsBetterThanHumans",
+    "firstSeen": 1622721262503,
+    "lastSeen": 1622726242594,
+    "firstSeenTime": "11:54:22 AM",
+    "lastSeenTime": "1:05:22 PM",
+    "onlineDurationMins": 71.00028333333333
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1622723602294,
+    "lastSeen": 1622725669457,
+    "firstSeenTime": "12:33:22 PM",
+    "lastSeenTime": "1:07:49 PM",
+    "onlineDurationMins": 34.45271666666667
+  },
+  "rayking311@lichess": {
+    "id": "rayking311",
+    "provider": "lichess",
+    "username": "rayking311",
+    "firstSeen": 1622724994738,
+    "lastSeen": 1622725917450,
+    "firstSeenTime": "12:56:34 PM",
+    "lastSeenTime": "1:11:57 PM",
+    "onlineDurationMins": 15.378533333333333
+  },
+  "mrt23@lichess": {
+    "id": "mrt23",
+    "provider": "lichess",
+    "username": "MRT23",
+    "firstSeen": 1622725314920,
+    "lastSeen": 1622726225314,
+    "firstSeenTime": "1:01:54 PM",
+    "lastSeenTime": "1:11:56 PM",
+    "onlineDurationMins": 10.03205
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1622725551626,
+    "lastSeen": 1622725954312,
+    "firstSeenTime": "1:05:51 PM",
+    "lastSeenTime": "1:12:34 PM",
+    "onlineDurationMins": 6.711433333333333
+  }
+}
