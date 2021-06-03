@@ -1,0 +1,54 @@
+{
+  "tbchess314@lichess": {
+    "id": "tbchess314",
+    "provider": "lichess",
+    "username": "TBchess314",
+    "firstSeen": 1622682835761,
+    "lastSeen": 1622717696670,
+    "firstSeenTime": "1:13:55 AM",
+    "lastSeenTime": "9:24:01 AM",
+    "onlineDurationMins": 490.09113333333335
+  },
+  "botsbetterthanhumans@lichess": {
+    "id": "botsbetterthanhumans",
+    "provider": "lichess",
+    "username": "BotsBetterThanHumans",
+    "firstSeen": 1622712982440,
+    "lastSeen": 1622717662487
+  },
+  "dfali1234@lichess": {
+    "id": "dfali1234",
+    "provider": "lichess",
+    "username": "dfali1234",
+    "firstSeen": 1622717332927,
+    "lastSeen": 1622717851156
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1622717425038,
+    "lastSeen": 1622717577627
+  },
+  "pengxiaozhu3@lichess": {
+    "id": "pengxiaozhu3",
+    "provider": "lichess",
+    "username": "pengxiaozhu3",
+    "firstSeen": 1622717457669,
+    "lastSeen": 1622717546496
+  },
+  "mrt23@lichess": {
+    "id": "mrt23",
+    "provider": "lichess",
+    "username": "MRT23",
+    "firstSeen": 1622717639615,
+    "lastSeen": 1622717857607
+  },
+  "teamleaderbot@lichess": {
+    "id": "teamleaderbot",
+    "provider": "lichess",
+    "username": "Teamleaderbot",
+    "firstSeen": 1622717857696,
+    "lastSeen": 1622717857696
+  }
+}
