@@ -1,0 +1,39 @@
+{
+  "tbchess314@lichess": {
+    "id": "tbchess314",
+    "provider": "lichess",
+    "username": "TBchess314",
+    "firstSeen": 1622682835761,
+    "lastSeen": 1622713020209,
+    "firstSeenTime": "1:13:55 AM",
+    "lastSeenTime": "9:24:01 AM",
+    "onlineDurationMins": 490.09113333333335
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1622693682456,
+    "lastSeen": 1622713032302,
+    "firstSeenTime": "4:14:42 AM",
+    "lastSeenTime": "9:23:50 AM",
+    "onlineDurationMins": 309.1385333333333
+  },
+  "mrt23@lichess": {
+    "id": "mrt23",
+    "provider": "lichess",
+    "username": "MRT23",
+    "firstSeen": 1622711289003,
+    "lastSeen": 1622712885346,
+    "firstSeenTime": "9:08:09 AM",
+    "lastSeenTime": "9:24:54 AM",
+    "onlineDurationMins": 16.76171666666667
+  },
+  "botsbetterthanhumans@lichess": {
+    "id": "botsbetterthanhumans",
+    "provider": "lichess",
+    "username": "BotsBetterThanHumans",
+    "firstSeen": 1622712982440,
+    "lastSeen": 1622712986008
+  }
+}
