@@ -1,0 +1,92 @@
+{
+  "tbchess314@lichess": {
+    "id": "tbchess314",
+    "provider": "lichess",
+    "username": "TBchess314",
+    "firstSeen": 1622682835761,
+    "lastSeen": 1622705637047,
+    "firstSeenTime": "1:13:55 AM",
+    "lastSeenTime": "7:28:57 AM",
+    "onlineDurationMins": 375.0278
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1622693682456,
+    "lastSeen": 1622705628331,
+    "firstSeenTime": "4:14:42 AM",
+    "lastSeenTime": "7:29:43 AM",
+    "onlineDurationMins": 195.02106666666666
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1622699343365,
+    "lastSeen": 1622705658113,
+    "firstSeenTime": "5:49:03 AM",
+    "lastSeenTime": "7:31:09 AM",
+    "onlineDurationMins": 102.09576666666666
+  },
+  "turkeybot@lichess": {
+    "id": "turkeybot",
+    "provider": "lichess",
+    "username": "turkeyBOT",
+    "firstSeen": 1622703656279,
+    "lastSeen": 1622705661300,
+    "firstSeenTime": "7:00:56 AM",
+    "lastSeenTime": "7:32:28 AM",
+    "onlineDurationMins": 31.53248333333333
+  },
+  "kuzenler123@lichess": {
+    "id": "kuzenler123",
+    "provider": "lichess",
+    "username": "kuzenler123",
+    "firstSeen": 1622703823139,
+    "lastSeen": 1622705134577,
+    "firstSeenTime": "7:03:43 AM",
+    "lastSeenTime": "7:25:34 AM",
+    "onlineDurationMins": 21.8573
+  },
+  "dfali1234@lichess": {
+    "id": "dfali1234",
+    "provider": "lichess",
+    "username": "dfali1234",
+    "firstSeen": 1622704000900,
+    "lastSeen": 1622704930628,
+    "firstSeenTime": "7:06:40 AM",
+    "lastSeenTime": "7:22:10 AM",
+    "onlineDurationMins": 15.495466666666667
+  },
+  "cltemir12@lichess": {
+    "id": "cltemir12",
+    "provider": "lichess",
+    "username": "cltemir12",
+    "firstSeen": 1622704102009,
+    "lastSeen": 1622704868681,
+    "firstSeenTime": "7:08:22 AM",
+    "lastSeenTime": "7:21:08 AM",
+    "onlineDurationMins": 12.777866666666666
+  },
+  "ateskutay55@lichess": {
+    "id": "ateskutay55",
+    "provider": "lichess",
+    "username": "AtesKutay55",
+    "firstSeen": 1622704730012,
+    "lastSeen": 1622704822323,
+    "firstSeenTime": "7:18:50 AM",
+    "lastSeenTime": "7:20:22 AM",
+    "onlineDurationMins": 1.5385166666666668
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1622705597513,
+    "lastSeen": 1622705597513,
+    "firstSeenTime": "7:33:17 AM",
+    "lastSeenTime": "7:33:17 AM",
+    "onlineDurationMins": 0
+  }
+}
