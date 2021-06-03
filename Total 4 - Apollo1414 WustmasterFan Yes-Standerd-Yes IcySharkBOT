@@ -1,0 +1,36 @@
+{
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1622721144309,
+    "lastSeen": 1622746012259,
+    "firstSeenTime": "11:52:24 AM",
+    "lastSeenTime": "4:41:50 PM",
+    "onlineDurationMins": 289.4429
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1622729384046,
+    "lastSeen": 1622746244776,
+    "firstSeenTime": "2:09:44 PM",
+    "lastSeenTime": "4:40:43 PM",
+    "onlineDurationMins": 150.98335
+  },
+  "yes-standerd-yes@lichess": {
+    "id": "yes-standerd-yes",
+    "provider": "lichess",
+    "username": "Yes-Standerd-Yes",
+    "firstSeen": 1622743264935,
+    "lastSeen": 1622746267356
+  },
+  "icysharkbot@lichess": {
+    "id": "icysharkbot",
+    "provider": "lichess",
+    "username": "IcySharkBOT",
+    "firstSeen": 1622744613902,
+    "lastSeen": 1622746188100
+  }
+}
