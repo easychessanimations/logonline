@@ -1,0 +1,37 @@
+{
+  "botsbetterthanhumans@lichess": {
+    "id": "botsbetterthanhumans",
+    "provider": "lichess",
+    "username": "BotsBetterThanHumans",
+    "firstSeen": 1622783659914,
+    "lastSeen": 1622789179960
+  },
+  "juan_medina_16@lichess": {
+    "id": "juan_medina_16",
+    "provider": "lichess",
+    "username": "juan_medina_16",
+    "firstSeen": 1622785418899,
+    "lastSeen": 1622788834269
+  },
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1622787038957,
+    "lastSeen": 1622788783133
+  },
+  "chesshyperdragon@lichess": {
+    "id": "chesshyperdragon",
+    "provider": "lichess",
+    "username": "ChessHyperDragon",
+    "firstSeen": 1622787128130,
+    "lastSeen": 1622789186637
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1622789215051,
+    "lastSeen": 1622789215051
+  }
+}
