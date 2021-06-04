@@ -1,0 +1,36 @@
+{
+  "no-varants-no@lichess": {
+    "id": "no-varants-no",
+    "provider": "lichess",
+    "username": "No-Varants-No",
+    "firstSeen": 1622815427470,
+    "lastSeen": 1622825934886,
+    "firstSeenTime": "2:03:47 PM",
+    "lastSeenTime": "3:50:51 PM",
+    "onlineDurationMins": 107.07301666666666
+  },
+  "firebeans@lichess": {
+    "id": "firebeans",
+    "provider": "lichess",
+    "username": "FireBeans",
+    "firstSeen": 1622820842760,
+    "lastSeen": 1622825552210,
+    "firstSeenTime": "3:34:02 PM",
+    "lastSeenTime": "3:48:41 PM",
+    "onlineDurationMins": 14.642733333333334
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1622822918212,
+    "lastSeen": 1622825564256
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1622822935839,
+    "lastSeen": 1622825565379
+  }
+}
