@@ -1,0 +1,43 @@
+{
+  "botsbetterthanhumans@lichess": {
+    "id": "botsbetterthanhumans",
+    "provider": "lichess",
+    "username": "BotsBetterThanHumans",
+    "firstSeen": 1622887802814,
+    "lastSeen": 1622892316820,
+    "firstSeenTime": "10:10:02 AM",
+    "lastSeenTime": "10:38:16 AM",
+    "onlineDurationMins": 28.23325
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1622887870456,
+    "lastSeen": 1622892372435,
+    "firstSeenTime": "10:11:10 AM",
+    "lastSeenTime": "10:36:33 AM",
+    "onlineDurationMins": 25.386733333333332
+  },
+  "ioa-official@lichess": {
+    "id": "ioa-official",
+    "provider": "lichess",
+    "username": "IOA-OFFICIAL",
+    "firstSeen": 1622890054901,
+    "lastSeen": 1622892272124
+  },
+  "the_great5000@lichess": {
+    "id": "the_great5000",
+    "provider": "lichess",
+    "username": "The_GREAT5000",
+    "firstSeen": 1622892054215,
+    "lastSeen": 1622892088858
+  },
+  "osmax@lichess": {
+    "id": "osmax",
+    "provider": "lichess",
+    "username": "osmax",
+    "firstSeen": 1622892501047,
+    "lastSeen": 1622892501048
+  }
+}
