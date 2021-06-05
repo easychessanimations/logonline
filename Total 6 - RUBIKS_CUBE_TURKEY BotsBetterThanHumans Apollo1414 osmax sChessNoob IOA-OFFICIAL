@@ -1,0 +1,59 @@
+{
+  "rubiks_cube_turkey@lichess": {
+    "id": "rubiks_cube_turkey",
+    "provider": "lichess",
+    "username": "RUBIKS_CUBE_TURKEY",
+    "firstSeen": 1622887782937,
+    "lastSeen": 1622889618669,
+    "firstSeenTime": "10:09:42 AM",
+    "lastSeenTime": "10:36:28 AM",
+    "onlineDurationMins": 26.751266666666666
+  },
+  "botsbetterthanhumans@lichess": {
+    "id": "botsbetterthanhumans",
+    "provider": "lichess",
+    "username": "BotsBetterThanHumans",
+    "firstSeen": 1622887802814,
+    "lastSeen": 1622889496809,
+    "firstSeenTime": "10:10:02 AM",
+    "lastSeenTime": "10:38:16 AM",
+    "onlineDurationMins": 28.23325
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1622887870456,
+    "lastSeen": 1622889393660,
+    "firstSeenTime": "10:11:10 AM",
+    "lastSeenTime": "10:36:33 AM",
+    "onlineDurationMins": 25.386733333333332
+  },
+  "osmax@lichess": {
+    "id": "osmax",
+    "provider": "lichess",
+    "username": "osmax",
+    "firstSeen": 1622889207369,
+    "lastSeen": 1622889341617,
+    "firstSeenTime": "10:33:27 AM",
+    "lastSeenTime": "10:35:41 AM",
+    "onlineDurationMins": 2.2374666666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1622889358736,
+    "lastSeen": 1622889498344,
+    "firstSeenTime": "10:35:58 AM",
+    "lastSeenTime": "10:38:18 AM",
+    "onlineDurationMins": 2.3268
+  },
+  "ioa-official@lichess": {
+    "id": "ioa-official",
+    "provider": "lichess",
+    "username": "IOA-OFFICIAL",
+    "firstSeen": 1622890054901,
+    "lastSeen": 1622890054901
+  }
+}
