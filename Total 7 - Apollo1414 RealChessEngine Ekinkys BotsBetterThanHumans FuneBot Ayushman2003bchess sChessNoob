@@ -1,0 +1,60 @@
+{
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1622887870456,
+    "lastSeen": 1622905151777,
+    "firstSeenTime": "10:11:10 AM",
+    "lastSeenTime": "2:37:09 PM",
+    "onlineDurationMins": 265.99135
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1622901944534,
+    "lastSeen": 1622905314488,
+    "firstSeenTime": "2:05:44 PM",
+    "lastSeenTime": "2:43:05 PM",
+    "onlineDurationMins": 37.34395
+  },
+  "ekinkys@lichess": {
+    "id": "ekinkys",
+    "provider": "lichess",
+    "username": "Ekinkys",
+    "firstSeen": 1622903270506,
+    "lastSeen": 1622905319237,
+    "firstSeenTime": "2:27:50 PM",
+    "lastSeenTime": "2:43:52 PM",
+    "onlineDurationMins": 16.027233333333335
+  },
+  "botsbetterthanhumans@lichess": {
+    "id": "botsbetterthanhumans",
+    "provider": "lichess",
+    "username": "BotsBetterThanHumans",
+    "firstSeen": 1622904875602,
+    "lastSeen": 1622905700498
+  },
+  "funebot@lichess": {
+    "id": "funebot",
+    "provider": "lichess",
+    "username": "FuneBot",
+    "firstSeen": 1622905123915,
+    "lastSeen": 1622905135531
+  },
+  "ayushman2003bchess@lichess": {
+    "id": "ayushman2003bchess",
+    "provider": "lichess",
+    "username": "Ayushman2003bchess",
+    "firstSeen": 1622905356819,
+    "lastSeen": 1622905371829
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1622905871584,
+    "lastSeen": 1622905871584
+  }
+}
