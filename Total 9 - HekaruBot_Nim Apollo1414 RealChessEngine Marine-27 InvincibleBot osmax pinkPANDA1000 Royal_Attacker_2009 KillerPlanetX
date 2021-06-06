@@ -1,0 +1,65 @@
+{
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1622979919922,
+    "lastSeen": 1622986748193
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1622980073955,
+    "lastSeen": 1622986722892
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1622984606035,
+    "lastSeen": 1622986798108
+  },
+  "marine-27@lichess": {
+    "id": "marine-27",
+    "provider": "lichess",
+    "username": "Marine-27",
+    "firstSeen": 1622985000934,
+    "lastSeen": 1622986654492
+  },
+  "invinciblebot@lichess": {
+    "id": "invinciblebot",
+    "provider": "lichess",
+    "username": "InvincibleBot",
+    "firstSeen": 1622985923296,
+    "lastSeen": 1622987037351
+  },
+  "osmax@lichess": {
+    "id": "osmax",
+    "provider": "lichess",
+    "username": "osmax",
+    "firstSeen": 1622986057026,
+    "lastSeen": 1622986799678
+  },
+  "pinkpanda1000@lichess": {
+    "id": "pinkpanda1000",
+    "provider": "lichess",
+    "username": "pinkPANDA1000",
+    "firstSeen": 1622986509389,
+    "lastSeen": 1622986513304
+  },
+  "royal_attacker_2009@lichess": {
+    "id": "royal_attacker_2009",
+    "provider": "lichess",
+    "username": "Royal_Attacker_2009",
+    "firstSeen": 1622986698218,
+    "lastSeen": 1622986922389
+  },
+  "killerplanetx@lichess": {
+    "id": "killerplanetx",
+    "provider": "lichess",
+    "username": "KillerPlanetX",
+    "firstSeen": 1622987090365,
+    "lastSeen": 1622987090365
+  }
+}
