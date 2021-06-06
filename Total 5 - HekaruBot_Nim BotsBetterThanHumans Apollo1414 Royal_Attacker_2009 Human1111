@@ -1,0 +1,37 @@
+{
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1622979919922,
+    "lastSeen": 1622980803610
+  },
+  "botsbetterthanhumans@lichess": {
+    "id": "botsbetterthanhumans",
+    "provider": "lichess",
+    "username": "BotsBetterThanHumans",
+    "firstSeen": 1622979970251,
+    "lastSeen": 1622980816923
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1622980073955,
+    "lastSeen": 1622980798259
+  },
+  "royal_attacker_2009@lichess": {
+    "id": "royal_attacker_2009",
+    "provider": "lichess",
+    "username": "Royal_Attacker_2009",
+    "firstSeen": 1622980674119,
+    "lastSeen": 1622980935709
+  },
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1622981244108,
+    "lastSeen": 1622981244108
+  }
+}
