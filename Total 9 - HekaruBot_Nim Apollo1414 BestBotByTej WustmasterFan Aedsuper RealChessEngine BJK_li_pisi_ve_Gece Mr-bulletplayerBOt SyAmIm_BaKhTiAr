@@ -1,0 +1,77 @@
+{
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1622979919922,
+    "lastSeen": 1622990522884,
+    "firstSeenTime": "11:45:19 AM",
+    "lastSeenTime": "1:39:08 PM",
+    "onlineDurationMins": 113.80451666666667
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1622980073955,
+    "lastSeen": 1622990609485,
+    "firstSeenTime": "11:47:53 AM",
+    "lastSeenTime": "1:38:42 PM",
+    "onlineDurationMins": 110.81561666666667
+  },
+  "bestbotbytej@lichess": {
+    "id": "bestbotbytej",
+    "provider": "lichess",
+    "username": "BestBotByTej",
+    "firstSeen": 1622987171969,
+    "lastSeen": 1622990051666,
+    "firstSeenTime": "1:46:11 PM",
+    "lastSeenTime": "1:46:30 PM",
+    "onlineDurationMins": 0.3055833333333333
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1622987242108,
+    "lastSeen": 1622990541334,
+    "firstSeenTime": "1:47:22 PM",
+    "lastSeenTime": "1:47:29 PM",
+    "onlineDurationMins": 0.11643333333333333
+  },
+  "aedsuper@lichess": {
+    "id": "aedsuper",
+    "provider": "lichess",
+    "username": "Aedsuper",
+    "firstSeen": 1622987438507,
+    "lastSeen": 1622990542354
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1622989644787,
+    "lastSeen": 1622990454635
+  },
+  "bjk_li_pisi_ve_gece@lichess": {
+    "id": "bjk_li_pisi_ve_gece",
+    "provider": "lichess",
+    "username": "BJK_li_pisi_ve_Gece",
+    "firstSeen": 1622990045780,
+    "lastSeen": 1622990047957
+  },
+  "mr-bulletplayerbot@lichess": {
+    "id": "mr-bulletplayerbot",
+    "provider": "lichess",
+    "username": "Mr-bulletplayerBOt",
+    "firstSeen": 1622990202727,
+    "lastSeen": 1622990727583
+  },
+  "syamim_bakhtiar@lichess": {
+    "id": "syamim_bakhtiar",
+    "provider": "lichess",
+    "username": "SyAmIm_BaKhTiAr",
+    "firstSeen": 1622990578759,
+    "lastSeen": 1622990752761
+  }
+}
