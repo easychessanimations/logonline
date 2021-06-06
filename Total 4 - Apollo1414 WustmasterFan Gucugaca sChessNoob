@@ -1,0 +1,42 @@
+{
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1622980073955,
+    "lastSeen": 1622999947595,
+    "firstSeenTime": "11:47:53 AM",
+    "lastSeenTime": "5:13:33 PM",
+    "onlineDurationMins": 325.6555
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1622987242108,
+    "lastSeen": 1623000349862,
+    "firstSeenTime": "1:47:22 PM",
+    "lastSeenTime": "5:08:20 PM",
+    "onlineDurationMins": 200.97975
+  },
+  "gucugaca@lichess": {
+    "id": "gucugaca",
+    "provider": "lichess",
+    "username": "Gucugaca",
+    "firstSeen": 1622996872650,
+    "lastSeen": 1623000412629,
+    "firstSeenTime": "4:27:52 PM",
+    "lastSeenTime": "5:12:59 PM",
+    "onlineDurationMins": 45.1121
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1622999550422,
+    "lastSeen": 1622999706734,
+    "firstSeenTime": "5:12:30 PM",
+    "lastSeenTime": "5:15:06 PM",
+    "onlineDurationMins": 2.6052
+  }
+}
