@@ -1,0 +1,32 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1622951350386,
+    "lastSeen": 1622967993947,
+    "firstSeenTime": "3:49:10 AM",
+    "lastSeenTime": "8:25:36 AM",
+    "onlineDurationMins": 276.43365
+  },
+  "royal_attacker_2009@lichess": {
+    "id": "royal_attacker_2009",
+    "provider": "lichess",
+    "username": "Royal_Attacker_2009",
+    "firstSeen": 1622967407797,
+    "lastSeen": 1622967568916,
+    "firstSeenTime": "8:16:47 AM",
+    "lastSeenTime": "8:19:28 AM",
+    "onlineDurationMins": 2.6853166666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1622967832693,
+    "lastSeen": 1622967962128,
+    "firstSeenTime": "8:23:52 AM",
+    "lastSeenTime": "8:26:02 AM",
+    "onlineDurationMins": 2.15725
+  }
+}
