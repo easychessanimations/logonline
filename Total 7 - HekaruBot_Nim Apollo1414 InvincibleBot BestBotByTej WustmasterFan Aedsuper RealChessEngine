@@ -1,0 +1,66 @@
+{
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1622979919922,
+    "lastSeen": 1622988047165,
+    "firstSeenTime": "11:45:19 AM",
+    "lastSeenTime": "1:39:08 PM",
+    "onlineDurationMins": 113.80451666666667
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1622980073955,
+    "lastSeen": 1622988085330,
+    "firstSeenTime": "11:47:53 AM",
+    "lastSeenTime": "1:38:42 PM",
+    "onlineDurationMins": 110.81561666666667
+  },
+  "invinciblebot@lichess": {
+    "id": "invinciblebot",
+    "provider": "lichess",
+    "username": "InvincibleBot",
+    "firstSeen": 1622985923296,
+    "lastSeen": 1622988499832,
+    "firstSeenTime": "1:25:23 PM",
+    "lastSeenTime": "1:45:26 PM",
+    "onlineDurationMins": 20.0491
+  },
+  "bestbotbytej@lichess": {
+    "id": "bestbotbytej",
+    "provider": "lichess",
+    "username": "BestBotByTej",
+    "firstSeen": 1622987171969,
+    "lastSeen": 1622988290960,
+    "firstSeenTime": "1:46:11 PM",
+    "lastSeenTime": "1:46:30 PM",
+    "onlineDurationMins": 0.3055833333333333
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1622987242108,
+    "lastSeen": 1622987960395,
+    "firstSeenTime": "1:47:22 PM",
+    "lastSeenTime": "1:47:29 PM",
+    "onlineDurationMins": 0.11643333333333333
+  },
+  "aedsuper@lichess": {
+    "id": "aedsuper",
+    "provider": "lichess",
+    "username": "Aedsuper",
+    "firstSeen": 1622987438507,
+    "lastSeen": 1622988445735
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1622987964409,
+    "lastSeen": 1622988299275
+  }
+}
