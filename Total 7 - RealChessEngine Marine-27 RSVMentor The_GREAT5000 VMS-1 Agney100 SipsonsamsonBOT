@@ -1,0 +1,60 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623036909584,
+    "lastSeen": 1623061104930,
+    "firstSeenTime": "3:35:09 AM",
+    "lastSeenTime": "9:53:28 AM",
+    "onlineDurationMins": 378.31311666666664
+  },
+  "marine-27@lichess": {
+    "id": "marine-27",
+    "provider": "lichess",
+    "username": "Marine-27",
+    "firstSeen": 1623056990628,
+    "lastSeen": 1623061712555,
+    "firstSeenTime": "9:09:50 AM",
+    "lastSeenTime": "9:53:15 AM",
+    "onlineDurationMins": 43.42021666666667
+  },
+  "rsvmentor@lichess": {
+    "id": "rsvmentor",
+    "provider": "lichess",
+    "username": "RSVMentor",
+    "firstSeen": 1623059531573,
+    "lastSeen": 1623061835609,
+    "firstSeenTime": "9:52:11 AM",
+    "lastSeenTime": "9:52:21 AM",
+    "onlineDurationMins": 0.17166666666666666
+  },
+  "the_great5000@lichess": {
+    "id": "the_great5000",
+    "provider": "lichess",
+    "username": "The_GREAT5000",
+    "firstSeen": 1623059963880,
+    "lastSeen": 1623061654667
+  },
+  "vms-1@lichess": {
+    "id": "vms-1",
+    "provider": "lichess",
+    "username": "VMS-1",
+    "firstSeen": 1623060673340,
+    "lastSeen": 1623061437681
+  },
+  "agney100@lichess": {
+    "id": "agney100",
+    "provider": "lichess",
+    "username": "Agney100",
+    "firstSeen": 1623061360826,
+    "lastSeen": 1623061506961
+  },
+  "sipsonsamsonbot@lichess": {
+    "id": "sipsonsamsonbot",
+    "provider": "lichess",
+    "username": "SipsonsamsonBOT",
+    "firstSeen": 1623061400511,
+    "lastSeen": 1623061400511
+  }
+}
