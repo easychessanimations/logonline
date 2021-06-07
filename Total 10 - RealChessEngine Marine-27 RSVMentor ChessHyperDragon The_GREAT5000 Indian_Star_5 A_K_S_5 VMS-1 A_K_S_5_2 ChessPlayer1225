@@ -1,0 +1,81 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623036909584,
+    "lastSeen": 1623061104930,
+    "firstSeenTime": "3:35:09 AM",
+    "lastSeenTime": "9:53:28 AM",
+    "onlineDurationMins": 378.31311666666664
+  },
+  "marine-27@lichess": {
+    "id": "marine-27",
+    "provider": "lichess",
+    "username": "Marine-27",
+    "firstSeen": 1623056990628,
+    "lastSeen": 1623061245450,
+    "firstSeenTime": "9:09:50 AM",
+    "lastSeenTime": "9:53:15 AM",
+    "onlineDurationMins": 43.42021666666667
+  },
+  "rsvmentor@lichess": {
+    "id": "rsvmentor",
+    "provider": "lichess",
+    "username": "RSVMentor",
+    "firstSeen": 1623059531573,
+    "lastSeen": 1623061104018,
+    "firstSeenTime": "9:52:11 AM",
+    "lastSeenTime": "9:52:21 AM",
+    "onlineDurationMins": 0.17166666666666666
+  },
+  "chesshyperdragon@lichess": {
+    "id": "chesshyperdragon",
+    "provider": "lichess",
+    "username": "ChessHyperDragon",
+    "firstSeen": 1623059785618,
+    "lastSeen": 1623060877894
+  },
+  "the_great5000@lichess": {
+    "id": "the_great5000",
+    "provider": "lichess",
+    "username": "The_GREAT5000",
+    "firstSeen": 1623059963880,
+    "lastSeen": 1623060813856
+  },
+  "indian_star_5@lichess": {
+    "id": "indian_star_5",
+    "provider": "lichess",
+    "username": "Indian_Star_5",
+    "firstSeen": 1623060489726,
+    "lastSeen": 1623060500436
+  },
+  "a_k_s_5@lichess": {
+    "id": "a_k_s_5",
+    "provider": "lichess",
+    "username": "A_K_S_5",
+    "firstSeen": 1623060502323,
+    "lastSeen": 1623060587274
+  },
+  "vms-1@lichess": {
+    "id": "vms-1",
+    "provider": "lichess",
+    "username": "VMS-1",
+    "firstSeen": 1623060673340,
+    "lastSeen": 1623061233089
+  },
+  "a_k_s_5_2@lichess": {
+    "id": "a_k_s_5_2",
+    "provider": "lichess",
+    "username": "A_K_S_5_2",
+    "firstSeen": 1623060732663,
+    "lastSeen": 1623060766687
+  },
+  "chessplayer1225@lichess": {
+    "id": "chessplayer1225",
+    "provider": "lichess",
+    "username": "ChessPlayer1225",
+    "firstSeen": 1623060891255,
+    "lastSeen": 1623060903547
+  }
+}
