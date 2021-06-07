@@ -1,0 +1,30 @@
+{
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1623032585543,
+    "lastSeen": 1623037078499
+  },
+  "bestbotbytej@lichess": {
+    "id": "bestbotbytej",
+    "provider": "lichess",
+    "username": "BestBotByTej",
+    "firstSeen": 1623033917416,
+    "lastSeen": 1623037283278
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623036909584,
+    "lastSeen": 1623037197061
+  },
+  "marine-27@lichess": {
+    "id": "marine-27",
+    "provider": "lichess",
+    "username": "Marine-27",
+    "firstSeen": 1623037308222,
+    "lastSeen": 1623037308222
+  }
+}
