@@ -1,0 +1,44 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623036909584,
+    "lastSeen": 1623046595955
+  },
+  "rsvmentor@lichess": {
+    "id": "rsvmentor",
+    "provider": "lichess",
+    "username": "RSVMentor",
+    "firstSeen": 1623043698710,
+    "lastSeen": 1623046409354
+  },
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1623043793696,
+    "lastSeen": 1623046677233
+  },
+  "bestbotbytej@lichess": {
+    "id": "bestbotbytej",
+    "provider": "lichess",
+    "username": "BestBotByTej",
+    "firstSeen": 1623044335696,
+    "lastSeen": 1623046761995
+  },
+  "megachess-bot@lichess": {
+    "id": "megachess-bot",
+    "provider": "lichess",
+    "username": "MegaChess-BOT",
+    "firstSeen": 1623046252309,
+    "lastSeen": 1623046648027
+  },
+  "marine-27@lichess": {
+    "id": "marine-27",
+    "provider": "lichess",
+    "username": "Marine-27",
+    "firstSeen": 1623046334016,
+    "lastSeen": 1623046781312
+  }
+}
