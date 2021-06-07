@@ -1,0 +1,37 @@
+{
+  "rubiks_cube_turkey@lichess": {
+    "id": "rubiks_cube_turkey",
+    "provider": "lichess",
+    "username": "RUBIKS_CUBE_TURKEY",
+    "firstSeen": 1623067430299,
+    "lastSeen": 1623072317527
+  },
+  "bestbotbytej@lichess": {
+    "id": "bestbotbytej",
+    "provider": "lichess",
+    "username": "BestBotByTej",
+    "firstSeen": 1623069591033,
+    "lastSeen": 1623072287130
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1623070498331,
+    "lastSeen": 1623071823699
+  },
+  "rsvmentor@lichess": {
+    "id": "rsvmentor",
+    "provider": "lichess",
+    "username": "RSVMentor",
+    "firstSeen": 1623070911441,
+    "lastSeen": 1623072238658
+  },
+  "c_bot@lichess": {
+    "id": "c_bot",
+    "provider": "lichess",
+    "username": "C_Bot",
+    "firstSeen": 1623072396396,
+    "lastSeen": 1623072396396
+  }
+}
