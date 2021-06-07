@@ -1,0 +1,82 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623036909584,
+    "lastSeen": 1623056496754,
+    "firstSeenTime": "3:35:09 AM",
+    "lastSeenTime": "9:00:16 AM",
+    "onlineDurationMins": 325.10706666666664
+  },
+  "rsvmentor@lichess": {
+    "id": "rsvmentor",
+    "provider": "lichess",
+    "username": "RSVMentor",
+    "firstSeen": 1623043698710,
+    "lastSeen": 1623056557746,
+    "firstSeenTime": "5:28:18 AM",
+    "lastSeenTime": "9:01:15 AM",
+    "onlineDurationMins": 212.94881666666666
+  },
+  "ateskutay111213@lichess": {
+    "id": "ateskutay111213",
+    "provider": "lichess",
+    "username": "AtesKutay111213",
+    "firstSeen": 1623049217046,
+    "lastSeen": 1623056247517,
+    "firstSeenTime": "7:00:17 AM",
+    "lastSeenTime": "8:57:27 AM",
+    "onlineDurationMins": 117.17451666666666
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1623051937268,
+    "lastSeen": 1623055964379,
+    "firstSeenTime": "7:45:37 AM",
+    "lastSeenTime": "8:52:44 AM",
+    "onlineDurationMins": 67.11851666666666
+  },
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1623053224681,
+    "lastSeen": 1623056230011,
+    "firstSeenTime": "8:07:04 AM",
+    "lastSeenTime": "8:57:10 AM",
+    "onlineDurationMins": 50.08883333333333
+  },
+  "dfali1234@lichess": {
+    "id": "dfali1234",
+    "provider": "lichess",
+    "username": "dfali1234",
+    "firstSeen": 1623054119047,
+    "lastSeen": 1623056420991,
+    "firstSeenTime": "8:21:59 AM",
+    "lastSeenTime": "9:00:20 AM",
+    "onlineDurationMins": 38.36573333333333
+  },
+  "rubiks_cube_turkey@lichess": {
+    "id": "rubiks_cube_turkey",
+    "provider": "lichess",
+    "username": "RUBIKS_CUBE_TURKEY",
+    "firstSeen": 1623055884105,
+    "lastSeen": 1623056024489,
+    "firstSeenTime": "8:51:24 AM",
+    "lastSeenTime": "8:53:44 AM",
+    "onlineDurationMins": 2.339733333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1623056484292,
+    "lastSeen": 1623056484857,
+    "firstSeenTime": "9:01:24 AM",
+    "lastSeenTime": "9:01:24 AM",
+    "onlineDurationMins": 0
+  }
+}
