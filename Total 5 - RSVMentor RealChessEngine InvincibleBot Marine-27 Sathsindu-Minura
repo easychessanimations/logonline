@@ -1,0 +1,46 @@
+{
+  "rsvmentor@lichess": {
+    "id": "rsvmentor",
+    "provider": "lichess",
+    "username": "RSVMentor",
+    "firstSeen": 1623132321522,
+    "lastSeen": 1623134651093,
+    "firstSeenTime": "6:05:21 AM",
+    "lastSeenTime": "6:20:04 AM",
+    "onlineDurationMins": 14.712333333333333
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623132791332,
+    "lastSeen": 1623134744020,
+    "firstSeenTime": "6:13:11 AM",
+    "lastSeenTime": "6:26:39 AM",
+    "onlineDurationMins": 13.4691
+  },
+  "invinciblebot@lichess": {
+    "id": "invinciblebot",
+    "provider": "lichess",
+    "username": "InvincibleBot",
+    "firstSeen": 1623133384731,
+    "lastSeen": 1623134669486,
+    "firstSeenTime": "6:23:04 AM",
+    "lastSeenTime": "6:27:11 AM",
+    "onlineDurationMins": 4.105333333333333
+  },
+  "marine-27@lichess": {
+    "id": "marine-27",
+    "provider": "lichess",
+    "username": "Marine-27",
+    "firstSeen": 1623134093833,
+    "lastSeen": 1623134646491
+  },
+  "sathsindu-minura@lichess": {
+    "id": "sathsindu-minura",
+    "provider": "lichess",
+    "username": "Sathsindu-Minura",
+    "firstSeen": 1623134243449,
+    "lastSeen": 1623134655369
+  }
+}
