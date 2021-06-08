@@ -4,33 +4,36 @@
     "provider": "lichess",
     "username": "RSVMentor",
     "firstSeen": 1623132321522,
-    "lastSeen": 1623140734725,
+    "lastSeen": 1623141838738,
     "firstSeenTime": "6:05:21 AM",
-    "lastSeenTime": "6:20:04 AM",
-    "onlineDurationMins": 14.712333333333333
+    "lastSeenTime": "8:25:34 AM",
+    "onlineDurationMins": 140.22005
   },
   "realchessengine@lichess": {
     "id": "realchessengine",
     "provider": "lichess",
     "username": "RealChessEngine",
     "firstSeen": 1623132791332,
-    "lastSeen": 1623140485435,
+    "lastSeen": 1623141880441,
     "firstSeenTime": "6:13:11 AM",
-    "lastSeenTime": "6:26:39 AM",
-    "onlineDurationMins": 13.4691
+    "lastSeenTime": "8:21:25 AM",
+    "onlineDurationMins": 128.23505
   },
   "apollo1414@lichess": {
     "id": "apollo1414",
     "provider": "lichess",
     "username": "Apollo1414",
     "firstSeen": 1623137754914,
-    "lastSeen": 1623140466033
+    "lastSeen": 1623142257782,
+    "firstSeenTime": "7:35:54 AM",
+    "lastSeenTime": "8:25:56 AM",
+    "onlineDurationMins": 50.032183333333336
   },
   "rubiks_cube_turkey@lichess": {
     "id": "rubiks_cube_turkey",
     "provider": "lichess",
     "username": "RUBIKS_CUBE_TURKEY",
-    "firstSeen": 1623139215127,
-    "lastSeen": 1623140723830
+    "firstSeen": 1623141982283,
+    "lastSeen": 1623141998635
   }
 }
