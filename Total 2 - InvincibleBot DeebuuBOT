@@ -1,0 +1,16 @@
+{
+  "invinciblebot@lichess": {
+    "id": "invinciblebot",
+    "provider": "lichess",
+    "username": "InvincibleBot",
+    "firstSeen": 1623161435348,
+    "lastSeen": 1623161435615
+  },
+  "deebuubot@lichess": {
+    "id": "deebuubot",
+    "provider": "lichess",
+    "username": "DeebuuBOT",
+    "firstSeen": 1623161435903,
+    "lastSeen": 1623161435903
+  }
+}
