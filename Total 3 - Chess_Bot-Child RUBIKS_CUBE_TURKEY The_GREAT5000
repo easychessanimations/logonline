@@ -1,0 +1,23 @@
+{
+  "chess_bot-child@lichess": {
+    "id": "chess_bot-child",
+    "provider": "lichess",
+    "username": "Chess_Bot-Child",
+    "firstSeen": 1623127794078,
+    "lastSeen": 1623131337207
+  },
+  "rubiks_cube_turkey@lichess": {
+    "id": "rubiks_cube_turkey",
+    "provider": "lichess",
+    "username": "RUBIKS_CUBE_TURKEY",
+    "firstSeen": 1623129670350,
+    "lastSeen": 1623131590254
+  },
+  "the_great5000@lichess": {
+    "id": "the_great5000",
+    "provider": "lichess",
+    "username": "The_GREAT5000",
+    "firstSeen": 1623131087422,
+    "lastSeen": 1623131779704
+  }
+}
