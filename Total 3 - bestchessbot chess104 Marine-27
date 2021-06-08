@@ -1,0 +1,23 @@
+{
+  "bestchessbot@lichess": {
+    "id": "bestchessbot",
+    "provider": "lichess",
+    "username": "bestchessbot",
+    "firstSeen": 1623120087044,
+    "lastSeen": 1623122034686
+  },
+  "chess104@lichess": {
+    "id": "chess104",
+    "provider": "lichess",
+    "username": "chess104",
+    "firstSeen": 1623121269464,
+    "lastSeen": 1623122181477
+  },
+  "marine-27@lichess": {
+    "id": "marine-27",
+    "provider": "lichess",
+    "username": "Marine-27",
+    "firstSeen": 1623122563769,
+    "lastSeen": 1623122563769
+  }
+}
