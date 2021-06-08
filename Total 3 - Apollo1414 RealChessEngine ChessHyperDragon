@@ -1,0 +1,26 @@
+{
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1623137754914,
+    "lastSeen": 1623144500468,
+    "firstSeenTime": "7:35:54 AM",
+    "lastSeenTime": "8:25:56 AM",
+    "onlineDurationMins": 50.032183333333336
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623144027478,
+    "lastSeen": 1623144953124
+  },
+  "chesshyperdragon@lichess": {
+    "id": "chesshyperdragon",
+    "provider": "lichess",
+    "username": "ChessHyperDragon",
+    "firstSeen": 1623144557085,
+    "lastSeen": 1623144571456
+  }
+}
