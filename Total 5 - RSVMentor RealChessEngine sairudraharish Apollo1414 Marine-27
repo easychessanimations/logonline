@@ -1,0 +1,43 @@
+{
+  "rsvmentor@lichess": {
+    "id": "rsvmentor",
+    "provider": "lichess",
+    "username": "RSVMentor",
+    "firstSeen": 1623132321522,
+    "lastSeen": 1623138586102,
+    "firstSeenTime": "6:05:21 AM",
+    "lastSeenTime": "6:20:04 AM",
+    "onlineDurationMins": 14.712333333333333
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623132791332,
+    "lastSeen": 1623138501869,
+    "firstSeenTime": "6:13:11 AM",
+    "lastSeenTime": "6:26:39 AM",
+    "onlineDurationMins": 13.4691
+  },
+  "sairudraharish@lichess": {
+    "id": "sairudraharish",
+    "provider": "lichess",
+    "username": "sairudraharish",
+    "firstSeen": 1623137720042,
+    "lastSeen": 1623138054115
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1623137754914,
+    "lastSeen": 1623138422831
+  },
+  "marine-27@lichess": {
+    "id": "marine-27",
+    "provider": "lichess",
+    "username": "Marine-27",
+    "firstSeen": 1623138384199,
+    "lastSeen": 1623138396910
+  }
+}
