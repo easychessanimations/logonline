@@ -1,0 +1,23 @@
+{
+  "icysharkbot@lichess": {
+    "id": "icysharkbot",
+    "provider": "lichess",
+    "username": "IcySharkBOT",
+    "firstSeen": 1623115376488,
+    "lastSeen": 1623120081133
+  },
+  "invinciblebot@lichess": {
+    "id": "invinciblebot",
+    "provider": "lichess",
+    "username": "InvincibleBot",
+    "firstSeen": 1623119769576,
+    "lastSeen": 1623120038665
+  },
+  "bestchessbot@lichess": {
+    "id": "bestchessbot",
+    "provider": "lichess",
+    "username": "bestchessbot",
+    "firstSeen": 1623120087044,
+    "lastSeen": 1623120087044
+  }
+}
