@@ -1,0 +1,30 @@
+{
+  "rsvmentor@lichess": {
+    "id": "rsvmentor",
+    "provider": "lichess",
+    "username": "RSVMentor",
+    "firstSeen": 1623127030295,
+    "lastSeen": 1623130251490
+  },
+  "chess_bot-child@lichess": {
+    "id": "chess_bot-child",
+    "provider": "lichess",
+    "username": "Chess_Bot-Child",
+    "firstSeen": 1623127794078,
+    "lastSeen": 1623130362038
+  },
+  "rubiks_cube_turkey@lichess": {
+    "id": "rubiks_cube_turkey",
+    "provider": "lichess",
+    "username": "RUBIKS_CUBE_TURKEY",
+    "firstSeen": 1623129670350,
+    "lastSeen": 1623130118299
+  },
+  "anirudha1234@lichess": {
+    "id": "anirudha1234",
+    "provider": "lichess",
+    "username": "Anirudha1234",
+    "firstSeen": 1623130435710,
+    "lastSeen": 1623130435710
+  }
+}
