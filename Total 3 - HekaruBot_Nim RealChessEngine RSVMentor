@@ -1,0 +1,23 @@
+{
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1623207765199,
+    "lastSeen": 1623211757825
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623210690248,
+    "lastSeen": 1623211944026
+  },
+  "rsvmentor@lichess": {
+    "id": "rsvmentor",
+    "provider": "lichess",
+    "username": "RSVMentor",
+    "firstSeen": 1623211958543,
+    "lastSeen": 1623211958544
+  }
+}
