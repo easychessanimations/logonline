@@ -3,14 +3,20 @@
     "id": "apollo1414",
     "provider": "lichess",
     "username": "Apollo1414",
-    "firstSeen": 1622972602117,
-    "lastSeen": 1622977483062
+    "firstSeen": 1623229310505,
+    "lastSeen": 1623232807532,
+    "firstSeenTime": "9:01:50 AM",
+    "lastSeenTime": "9:37:02 AM",
+    "onlineDurationMins": 35.204366666666665
   },
   "hekarubot_nim@lichess": {
     "id": "hekarubot_nim",
     "provider": "lichess",
     "username": "HekaruBot_Nim",
-    "firstSeen": 1622974635490,
-    "lastSeen": 1622977640062
+    "firstSeen": 1623229779083,
+    "lastSeen": 1623233100582,
+    "firstSeenTime": "9:09:39 AM",
+    "lastSeenTime": "9:43:50 AM",
+    "onlineDurationMins": 34.18761666666666
   }
 }
