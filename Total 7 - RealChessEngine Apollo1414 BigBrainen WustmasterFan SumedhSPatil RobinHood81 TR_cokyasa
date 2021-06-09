@@ -1,0 +1,57 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623242391620,
+    "lastSeen": 1623252914481,
+    "firstSeenTime": "12:39:51 PM",
+    "lastSeenTime": "2:20:14 PM",
+    "onlineDurationMins": 100.37691666666667
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1623248818915,
+    "lastSeen": 1623253320939,
+    "firstSeenTime": "2:26:58 PM",
+    "lastSeenTime": "2:26:58 PM",
+    "onlineDurationMins": 0
+  },
+  "bigbrainen@lichess": {
+    "id": "bigbrainen",
+    "provider": "lichess",
+    "username": "BigBrainen",
+    "firstSeen": 1623251201595,
+    "lastSeen": 1623253024689
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1623252208632,
+    "lastSeen": 1623252935340
+  },
+  "sumedhspatil@lichess": {
+    "id": "sumedhspatil",
+    "provider": "lichess",
+    "username": "SumedhSPatil",
+    "firstSeen": 1623252553843,
+    "lastSeen": 1623253294386
+  },
+  "robinhood81@lichess": {
+    "id": "robinhood81",
+    "provider": "lichess",
+    "username": "RobinHood81",
+    "firstSeen": 1623252889809,
+    "lastSeen": 1623252977415
+  },
+  "tr_cokyasa@lichess": {
+    "id": "tr_cokyasa",
+    "provider": "lichess",
+    "username": "TR_cokyasa",
+    "firstSeen": 1623252906872,
+    "lastSeen": 1623253574534
+  }
+}
