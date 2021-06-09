@@ -1,0 +1,49 @@
+{
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1623207765199,
+    "lastSeen": 1623216422806,
+    "firstSeenTime": "3:02:45 AM",
+    "lastSeenTime": "5:16:00 AM",
+    "onlineDurationMins": 133.25081666666668
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623215706341,
+    "lastSeen": 1623216439202,
+    "firstSeenTime": "5:15:06 AM",
+    "lastSeenTime": "5:22:54 AM",
+    "onlineDurationMins": 7.797516666666667
+  },
+  "killerk1ng@lichess": {
+    "id": "killerk1ng",
+    "provider": "lichess",
+    "username": "KillerK1nG",
+    "firstSeen": 1623216087582,
+    "lastSeen": 1623216355085,
+    "firstSeenTime": "5:21:27 AM",
+    "lastSeenTime": "5:22:58 AM",
+    "onlineDurationMins": 1.5123166666666668
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1623216193765,
+    "lastSeen": 1623216193765,
+    "firstSeenTime": "5:23:13 AM",
+    "lastSeenTime": "5:23:13 AM",
+    "onlineDurationMins": 0
+  },
+  "avijit_youtuber@lichess": {
+    "id": "avijit_youtuber",
+    "provider": "lichess",
+    "username": "Avijit_youtuber",
+    "firstSeen": 1623216477248,
+    "lastSeen": 1623216477248
+  }
+}
