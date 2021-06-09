@@ -4,13 +4,16 @@
     "provider": "lichess",
     "username": "HekaruBot_Nim",
     "firstSeen": 1623207765199,
-    "lastSeen": 1623210425773
+    "lastSeen": 1623215279415,
+    "firstSeenTime": "3:02:45 AM",
+    "lastSeenTime": "4:53:59 AM",
+    "onlineDurationMins": 111.23835
   },
   "realchessengine@lichess": {
     "id": "realchessengine",
     "provider": "lichess",
     "username": "RealChessEngine",
-    "firstSeen": 1623210690248,
-    "lastSeen": 1623210690248
+    "firstSeen": 1623215706341,
+    "lastSeen": 1623215706341
   }
 }
