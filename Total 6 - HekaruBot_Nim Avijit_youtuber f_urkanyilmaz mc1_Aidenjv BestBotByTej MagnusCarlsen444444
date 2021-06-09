@@ -1,0 +1,50 @@
+{
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1623207765199,
+    "lastSeen": 1623220563403,
+    "firstSeenTime": "3:02:45 AM",
+    "lastSeenTime": "5:50:04 AM",
+    "onlineDurationMins": 167.32591666666667
+  },
+  "avijit_youtuber@lichess": {
+    "id": "avijit_youtuber",
+    "provider": "lichess",
+    "username": "Avijit_youtuber",
+    "firstSeen": 1623216477248,
+    "lastSeen": 1623221099577,
+    "firstSeenTime": "5:27:57 AM",
+    "lastSeenTime": "5:50:04 AM",
+    "onlineDurationMins": 22.12705
+  },
+  "f_urkanyilmaz@lichess": {
+    "id": "f_urkanyilmaz",
+    "provider": "lichess",
+    "username": "f_urkanyilmaz",
+    "firstSeen": 1623219906913,
+    "lastSeen": 1623220800420
+  },
+  "mc1_aidenjv@lichess": {
+    "id": "mc1_aidenjv",
+    "provider": "lichess",
+    "username": "mc1_Aidenjv",
+    "firstSeen": 1623220037075,
+    "lastSeen": 1623220508544
+  },
+  "bestbotbytej@lichess": {
+    "id": "bestbotbytej",
+    "provider": "lichess",
+    "username": "BestBotByTej",
+    "firstSeen": 1623220263752,
+    "lastSeen": 1623220781952
+  },
+  "magnuscarlsen444444@lichess": {
+    "id": "magnuscarlsen444444",
+    "provider": "lichess",
+    "username": "MagnusCarlsen444444",
+    "firstSeen": 1623220754148,
+    "lastSeen": 1623220923360
+  }
+}
