@@ -1,0 +1,33 @@
+{
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1623207765199,
+    "lastSeen": 1623215760248,
+    "firstSeenTime": "3:02:45 AM",
+    "lastSeenTime": "4:53:59 AM",
+    "onlineDurationMins": 111.23835
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623215706341,
+    "lastSeen": 1623216174192
+  },
+  "killerk1ng@lichess": {
+    "id": "killerk1ng",
+    "provider": "lichess",
+    "username": "KillerK1nG",
+    "firstSeen": 1623216087582,
+    "lastSeen": 1623216178321
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1623216193765,
+    "lastSeen": 1623216193765
+  }
+}
