@@ -1,0 +1,70 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623242391620,
+    "lastSeen": 1623251117893,
+    "firstSeenTime": "12:39:51 PM",
+    "lastSeenTime": "2:20:14 PM",
+    "onlineDurationMins": 100.37691666666667
+  },
+  "antarticanonymous@lichess": {
+    "id": "antarticanonymous",
+    "provider": "lichess",
+    "username": "AntarticAnonymous",
+    "firstSeen": 1623244613338,
+    "lastSeen": 1623251114700,
+    "firstSeenTime": "1:16:53 PM",
+    "lastSeenTime": "2:31:56 PM",
+    "onlineDurationMins": 75.04555
+  },
+  "rubiks_cube_turkey@lichess": {
+    "id": "rubiks_cube_turkey",
+    "provider": "lichess",
+    "username": "RUBIKS_CUBE_TURKEY",
+    "firstSeen": 1623247364557,
+    "lastSeen": 1623251101269,
+    "firstSeenTime": "2:02:44 PM",
+    "lastSeenTime": "2:31:24 PM",
+    "onlineDurationMins": 28.662516666666665
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1623248818915,
+    "lastSeen": 1623251109642,
+    "firstSeenTime": "2:26:58 PM",
+    "lastSeenTime": "2:26:58 PM",
+    "onlineDurationMins": 0
+  },
+  "prabashwara_y@lichess": {
+    "id": "prabashwara_y",
+    "provider": "lichess",
+    "username": "Prabashwara_y",
+    "firstSeen": 1623249317173,
+    "lastSeen": 1623250670364
+  },
+  "sumedhspatil@lichess": {
+    "id": "sumedhspatil",
+    "provider": "lichess",
+    "username": "SumedhSPatil",
+    "firstSeen": 1623250093554,
+    "lastSeen": 1623250779483
+  },
+  "mordinate_solve@lichess": {
+    "id": "mordinate_solve",
+    "provider": "lichess",
+    "username": "Mordinate_solve",
+    "firstSeen": 1623250962746,
+    "lastSeen": 1623251056190
+  },
+  "bigbrainen@lichess": {
+    "id": "bigbrainen",
+    "provider": "lichess",
+    "username": "BigBrainen",
+    "firstSeen": 1623251201595,
+    "lastSeen": 1623251201595
+  }
+}
