@@ -1,0 +1,29 @@
+{
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1623229310505,
+    "lastSeen": 1623234129485,
+    "firstSeenTime": "9:01:50 AM",
+    "lastSeenTime": "10:11:08 AM",
+    "onlineDurationMins": 69.30201666666666
+  },
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1623229779083,
+    "lastSeen": 1623233759814,
+    "firstSeenTime": "9:09:39 AM",
+    "lastSeenTime": "10:05:07 AM",
+    "onlineDurationMins": 55.47795
+  },
+  "magnuscarlsen444444@lichess": {
+    "id": "magnuscarlsen444444",
+    "provider": "lichess",
+    "username": "MagnusCarlsen444444",
+    "firstSeen": 1623234447196,
+    "lastSeen": 1623234623471
+  }
+}
