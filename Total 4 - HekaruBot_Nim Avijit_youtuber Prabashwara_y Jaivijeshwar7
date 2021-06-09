@@ -1,0 +1,36 @@
+{
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1623207765199,
+    "lastSeen": 1623225779417,
+    "firstSeenTime": "3:02:45 AM",
+    "lastSeenTime": "5:50:04 AM",
+    "onlineDurationMins": 167.32591666666667
+  },
+  "avijit_youtuber@lichess": {
+    "id": "avijit_youtuber",
+    "provider": "lichess",
+    "username": "Avijit_youtuber",
+    "firstSeen": 1623216477248,
+    "lastSeen": 1623226124317,
+    "firstSeenTime": "5:27:57 AM",
+    "lastSeenTime": "5:50:04 AM",
+    "onlineDurationMins": 22.12705
+  },
+  "prabashwara_y@lichess": {
+    "id": "prabashwara_y",
+    "provider": "lichess",
+    "username": "Prabashwara_y",
+    "firstSeen": 1623225599983,
+    "lastSeen": 1623226341768
+  },
+  "jaivijeshwar7@lichess": {
+    "id": "jaivijeshwar7",
+    "provider": "lichess",
+    "username": "Jaivijeshwar7",
+    "firstSeen": 1623225754237,
+    "lastSeen": 1623225792124
+  }
+}
