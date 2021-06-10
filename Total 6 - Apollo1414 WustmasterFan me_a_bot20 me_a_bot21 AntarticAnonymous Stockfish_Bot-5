@@ -1,0 +1,47 @@
+{
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1623334219160,
+    "lastSeen": 1623342882456,
+    "firstSeenTime": "2:10:19 PM",
+    "lastSeenTime": "2:32:20 PM",
+    "onlineDurationMins": 22.028183333333335
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1623338587283,
+    "lastSeen": 1623343091863
+  },
+  "me_a_bot20@lichess": {
+    "id": "me_a_bot20",
+    "provider": "lichess",
+    "username": "me_a_bot20",
+    "firstSeen": 1623340301514,
+    "lastSeen": 1623342993106
+  },
+  "me_a_bot21@lichess": {
+    "id": "me_a_bot21",
+    "provider": "lichess",
+    "username": "me_a_bot21",
+    "firstSeen": 1623340956588,
+    "lastSeen": 1623343147088
+  },
+  "antarticanonymous@lichess": {
+    "id": "antarticanonymous",
+    "provider": "lichess",
+    "username": "AntarticAnonymous",
+    "firstSeen": 1623342021384,
+    "lastSeen": 1623343264524
+  },
+  "stockfish_bot-5@lichess": {
+    "id": "stockfish_bot-5",
+    "provider": "lichess",
+    "username": "Stockfish_Bot-5",
+    "firstSeen": 1623343361883,
+    "lastSeen": 1623343361883
+  }
+}
