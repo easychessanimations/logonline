@@ -1,0 +1,56 @@
+{
+  "bigbrainen@lichess": {
+    "id": "bigbrainen",
+    "provider": "lichess",
+    "username": "BigBrainen",
+    "firstSeen": 1623343891635,
+    "lastSeen": 1623351845649,
+    "firstSeenTime": "4:51:31 PM",
+    "lastSeenTime": "6:49:33 PM",
+    "onlineDurationMins": 118.03866666666667
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1623348611539,
+    "lastSeen": 1623351621842,
+    "firstSeenTime": "6:10:11 PM",
+    "lastSeenTime": "6:44:31 PM",
+    "onlineDurationMins": 34.32875
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1623349294444,
+    "lastSeen": 1623351370891,
+    "firstSeenTime": "6:21:34 PM",
+    "lastSeenTime": "6:44:37 PM",
+    "onlineDurationMins": 23.059216666666668
+  },
+  "yjpisthebest@lichess": {
+    "id": "yjpisthebest",
+    "provider": "lichess",
+    "username": "YJPISTHEBEST",
+    "firstSeen": 1623349880340,
+    "lastSeen": 1623351384242,
+    "firstSeenTime": "6:31:20 PM",
+    "lastSeenTime": "6:44:33 PM",
+    "onlineDurationMins": 13.218816666666667
+  },
+  "yes-standerd-yes@lichess": {
+    "id": "yes-standerd-yes",
+    "provider": "lichess",
+    "username": "Yes-Standerd-Yes",
+    "firstSeen": 1623351127507,
+    "lastSeen": 1623351848387
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1623351912161,
+    "lastSeen": 1623351912161
+  }
+}
