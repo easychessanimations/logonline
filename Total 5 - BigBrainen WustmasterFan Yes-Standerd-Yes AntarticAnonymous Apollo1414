@@ -1,0 +1,46 @@
+{
+  "bigbrainen@lichess": {
+    "id": "bigbrainen",
+    "provider": "lichess",
+    "username": "BigBrainen",
+    "firstSeen": 1623343891635,
+    "lastSeen": 1623352820963,
+    "firstSeenTime": "4:51:31 PM",
+    "lastSeenTime": "7:04:05 PM",
+    "onlineDurationMins": 132.5669
+  },
+  "wustmasterfan@lichess": {
+    "id": "wustmasterfan",
+    "provider": "lichess",
+    "username": "WustmasterFan",
+    "firstSeen": 1623348611539,
+    "lastSeen": 1623352941819,
+    "firstSeenTime": "6:10:11 PM",
+    "lastSeenTime": "7:00:21 PM",
+    "onlineDurationMins": 50.17171666666667
+  },
+  "yes-standerd-yes@lichess": {
+    "id": "yes-standerd-yes",
+    "provider": "lichess",
+    "username": "Yes-Standerd-Yes",
+    "firstSeen": 1623351127507,
+    "lastSeen": 1623352799597,
+    "firstSeenTime": "6:52:07 PM",
+    "lastSeenTime": "7:04:08 PM",
+    "onlineDurationMins": 12.014666666666667
+  },
+  "antarticanonymous@lichess": {
+    "id": "antarticanonymous",
+    "provider": "lichess",
+    "username": "AntarticAnonymous",
+    "firstSeen": 1623352048802,
+    "lastSeen": 1623352088908
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1623352301234,
+    "lastSeen": 1623352871222
+  }
+}
