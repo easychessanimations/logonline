@@ -1,0 +1,26 @@
+{
+  "sandiluchess_b@lichess": {
+    "id": "sandiluchess_b",
+    "provider": "lichess",
+    "username": "SandiluChess_B",
+    "firstSeen": 1623386910921,
+    "lastSeen": 1623401471981,
+    "firstSeenTime": "4:48:30 AM",
+    "lastSeenTime": "7:31:18 AM",
+    "onlineDurationMins": 162.8
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1623399045474,
+    "lastSeen": 1623401038928
+  },
+  "sai-2010@lichess": {
+    "id": "sai-2010",
+    "provider": "lichess",
+    "username": "SAI-2010",
+    "firstSeen": 1623399526733,
+    "lastSeen": 1623401028196
+  }
+}
