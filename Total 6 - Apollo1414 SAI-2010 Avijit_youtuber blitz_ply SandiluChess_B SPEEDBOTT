@@ -1,0 +1,47 @@
+{
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1623402047254,
+    "lastSeen": 1623411048829,
+    "firstSeenTime": "9:00:47 AM",
+    "lastSeenTime": "9:40:14 AM",
+    "onlineDurationMins": 39.45615
+  },
+  "sai-2010@lichess": {
+    "id": "sai-2010",
+    "provider": "lichess",
+    "username": "SAI-2010",
+    "firstSeen": 1623406077349,
+    "lastSeen": 1623410561502
+  },
+  "avijit_youtuber@lichess": {
+    "id": "avijit_youtuber",
+    "provider": "lichess",
+    "username": "Avijit_youtuber",
+    "firstSeen": 1623407714001,
+    "lastSeen": 1623410840683
+  },
+  "blitz_ply@lichess": {
+    "id": "blitz_ply",
+    "provider": "lichess",
+    "username": "blitz_ply",
+    "firstSeen": 1623408521947,
+    "lastSeen": 1623411278614
+  },
+  "sandiluchess_b@lichess": {
+    "id": "sandiluchess_b",
+    "provider": "lichess",
+    "username": "SandiluChess_B",
+    "firstSeen": 1623409393682,
+    "lastSeen": 1623411057800
+  },
+  "speedbott@lichess": {
+    "id": "speedbott",
+    "provider": "lichess",
+    "username": "SPEEDBOTT",
+    "firstSeen": 1623411279521,
+    "lastSeen": 1623411279521
+  }
+}
