@@ -1,0 +1,42 @@
+{
+  "sandiluchess_b@lichess": {
+    "id": "sandiluchess_b",
+    "provider": "lichess",
+    "username": "SandiluChess_B",
+    "firstSeen": 1623381757293,
+    "lastSeen": 1623385401262,
+    "firstSeenTime": "3:22:37 AM",
+    "lastSeenTime": "4:21:42 AM",
+    "onlineDurationMins": 59.07945
+  },
+  "bluewhale3000@lichess": {
+    "id": "bluewhale3000",
+    "provider": "lichess",
+    "username": "bluewhale3000",
+    "firstSeen": 1623383007774,
+    "lastSeen": 1623386025501,
+    "firstSeenTime": "3:43:27 AM",
+    "lastSeenTime": "4:19:57 AM",
+    "onlineDurationMins": 36.500033333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1623385151514,
+    "lastSeen": 1623385303572,
+    "firstSeenTime": "4:19:11 AM",
+    "lastSeenTime": "4:21:43 AM",
+    "onlineDurationMins": 2.5343
+  },
+  "avijit_youtuber@lichess": {
+    "id": "avijit_youtuber",
+    "provider": "lichess",
+    "username": "Avijit_youtuber",
+    "firstSeen": 1623385264492,
+    "lastSeen": 1623385886014,
+    "firstSeenTime": "4:21:04 AM",
+    "lastSeenTime": "4:21:30 AM",
+    "onlineDurationMins": 0.42933333333333334
+  }
+}
