@@ -1,0 +1,36 @@
+{
+  "sandiluchess_b@lichess": {
+    "id": "sandiluchess_b",
+    "provider": "lichess",
+    "username": "SandiluChess_B",
+    "firstSeen": 1623386910921,
+    "lastSeen": 1623393739978,
+    "firstSeenTime": "4:48:30 AM",
+    "lastSeenTime": "5:19:00 AM",
+    "onlineDurationMins": 30.497333333333334
+  },
+  "sai-2010@lichess": {
+    "id": "sai-2010",
+    "provider": "lichess",
+    "username": "SAI-2010",
+    "firstSeen": 1623387451728,
+    "lastSeen": 1623393454735,
+    "firstSeenTime": "4:57:31 AM",
+    "lastSeenTime": "5:09:31 AM",
+    "onlineDurationMins": 11.9905
+  },
+  "chess_shaunak@lichess": {
+    "id": "chess_shaunak",
+    "provider": "lichess",
+    "username": "Chess_Shaunak",
+    "firstSeen": 1623393515294,
+    "lastSeen": 1623393543637
+  },
+  "me_a_bot21@lichess": {
+    "id": "me_a_bot21",
+    "provider": "lichess",
+    "username": "me_a_bot21",
+    "firstSeen": 1623393747488,
+    "lastSeen": 1623393747488
+  }
+}
