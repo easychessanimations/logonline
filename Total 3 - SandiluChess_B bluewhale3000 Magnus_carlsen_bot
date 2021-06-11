@@ -1,0 +1,23 @@
+{
+  "sandiluchess_b@lichess": {
+    "id": "sandiluchess_b",
+    "provider": "lichess",
+    "username": "SandiluChess_B",
+    "firstSeen": 1623381757293,
+    "lastSeen": 1623384864653
+  },
+  "bluewhale3000@lichess": {
+    "id": "bluewhale3000",
+    "provider": "lichess",
+    "username": "bluewhale3000",
+    "firstSeen": 1623383007774,
+    "lastSeen": 1623384530073
+  },
+  "magnus_carlsen_bot@lichess": {
+    "id": "magnus_carlsen_bot",
+    "provider": "lichess",
+    "username": "Magnus_carlsen_bot",
+    "firstSeen": 1623384960362,
+    "lastSeen": 1623384960362
+  }
+}
