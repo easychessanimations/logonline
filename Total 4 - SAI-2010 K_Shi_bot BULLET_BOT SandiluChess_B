@@ -1,0 +1,33 @@
+{
+  "sai-2010@lichess": {
+    "id": "sai-2010",
+    "provider": "lichess",
+    "username": "SAI-2010",
+    "firstSeen": 1623468204769,
+    "lastSeen": 1623475668371,
+    "firstSeenTime": "3:23:24 AM",
+    "lastSeenTime": "3:58:28 AM",
+    "onlineDurationMins": 35.05598333333333
+  },
+  "k_shi_bot@lichess": {
+    "id": "k_shi_bot",
+    "provider": "lichess",
+    "username": "K_Shi_bot",
+    "firstSeen": 1623472842570,
+    "lastSeen": 1623475443366
+  },
+  "bullet_bot@lichess": {
+    "id": "bullet_bot",
+    "provider": "lichess",
+    "username": "BULLET_BOT",
+    "firstSeen": 1623474659216,
+    "lastSeen": 1623475465813
+  },
+  "sandiluchess_b@lichess": {
+    "id": "sandiluchess_b",
+    "provider": "lichess",
+    "username": "SandiluChess_B",
+    "firstSeen": 1623475760320,
+    "lastSeen": 1623475760320
+  }
+}
