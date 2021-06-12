@@ -1,0 +1,23 @@
+{
+  "netchesshelper@lichess": {
+    "id": "netchesshelper",
+    "provider": "lichess",
+    "username": "NetChessHelper",
+    "firstSeen": 1623454664737,
+    "lastSeen": 1623461863589
+  },
+  "capturebotxx@lichess": {
+    "id": "capturebotxx",
+    "provider": "lichess",
+    "username": "CaptureBotXX",
+    "firstSeen": 1623458799408,
+    "lastSeen": 1623461272892
+  },
+  "chess_bot-child@lichess": {
+    "id": "chess_bot-child",
+    "provider": "lichess",
+    "username": "Chess_Bot-Child",
+    "firstSeen": 1623461273796,
+    "lastSeen": 1623461300766
+  }
+}
