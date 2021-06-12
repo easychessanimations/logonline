@@ -1,0 +1,30 @@
+{
+  "sai-2010@lichess": {
+    "id": "sai-2010",
+    "provider": "lichess",
+    "username": "SAI-2010",
+    "firstSeen": 1623479229247,
+    "lastSeen": 1623480733483
+  },
+  "thestrongest_bot@lichess": {
+    "id": "thestrongest_bot",
+    "provider": "lichess",
+    "username": "THESTRONGEST_BOT",
+    "firstSeen": 1623479825071,
+    "lastSeen": 1623481005889
+  },
+  "bullet_bot@lichess": {
+    "id": "bullet_bot",
+    "provider": "lichess",
+    "username": "BULLET_BOT",
+    "firstSeen": 1623481026558,
+    "lastSeen": 1623481049229
+  },
+  "killer_bot2021@lichess": {
+    "id": "killer_bot2021",
+    "provider": "lichess",
+    "username": "KILLER_BOT2021",
+    "firstSeen": 1623481050114,
+    "lastSeen": 1623481050114
+  }
+}
