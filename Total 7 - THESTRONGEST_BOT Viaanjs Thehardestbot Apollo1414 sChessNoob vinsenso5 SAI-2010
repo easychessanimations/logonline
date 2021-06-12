@@ -1,0 +1,66 @@
+{
+  "thestrongest_bot@lichess": {
+    "id": "thestrongest_bot",
+    "provider": "lichess",
+    "username": "THESTRONGEST_BOT",
+    "firstSeen": 1623479825071,
+    "lastSeen": 1623491090720,
+    "firstSeenTime": "6:37:05 AM",
+    "lastSeenTime": "9:36:06 AM",
+    "onlineDurationMins": 179.0275
+  },
+  "viaanjs@lichess": {
+    "id": "viaanjs",
+    "provider": "lichess",
+    "username": "Viaanjs",
+    "firstSeen": 1623485469225,
+    "lastSeen": 1623491226191,
+    "firstSeenTime": "8:11:09 AM",
+    "lastSeenTime": "9:30:15 AM",
+    "onlineDurationMins": 79.09921666666666
+  },
+  "thehardestbot@lichess": {
+    "id": "thehardestbot",
+    "provider": "lichess",
+    "username": "Thehardestbot",
+    "firstSeen": 1623486982100,
+    "lastSeen": 1623491235385,
+    "firstSeenTime": "8:36:22 AM",
+    "lastSeenTime": "9:30:19 AM",
+    "onlineDurationMins": 53.95766666666667
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1623488479130,
+    "lastSeen": 1623491075070,
+    "firstSeenTime": "9:01:19 AM",
+    "lastSeenTime": "9:33:24 AM",
+    "onlineDurationMins": 32.091683333333336
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1623489901809,
+    "lastSeen": 1623490566931,
+    "firstSeenTime": "9:25:01 AM",
+    "lastSeenTime": "9:36:06 AM",
+    "onlineDurationMins": 11.085366666666667
+  },
+  "vinsenso5@lichess": {
+    "id": "vinsenso5",
+    "provider": "lichess",
+    "username": "vinsenso5",
+    "firstSeen": 1623490942457,
+    "lastSeen": 1623490997760
+  },
+  "sai-2010@lichess": {
+    "id": "sai-2010",
+    "provider": "lichess",
+    "username": "SAI-2010",
+    "firstSeen": 1623491408667,
+    "lastSeen": 1623491408667
+  }
+}
