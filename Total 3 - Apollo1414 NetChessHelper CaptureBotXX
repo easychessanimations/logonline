@@ -1,0 +1,26 @@
+{
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1623416937336,
+    "lastSeen": 1623459501339,
+    "firstSeenTime": "1:08:57 PM",
+    "lastSeenTime": "3:11:21 PM",
+    "onlineDurationMins": 122.39703333333334
+  },
+  "netchesshelper@lichess": {
+    "id": "netchesshelper",
+    "provider": "lichess",
+    "username": "NetChessHelper",
+    "firstSeen": 1623454664737,
+    "lastSeen": 1623459467920
+  },
+  "capturebotxx@lichess": {
+    "id": "capturebotxx",
+    "provider": "lichess",
+    "username": "CaptureBotXX",
+    "firstSeen": 1623458799408,
+    "lastSeen": 1623459492587
+  }
+}
