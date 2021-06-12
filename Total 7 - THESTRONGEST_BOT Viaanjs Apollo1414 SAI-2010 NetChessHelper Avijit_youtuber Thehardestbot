@@ -1,0 +1,63 @@
+{
+  "thestrongest_bot@lichess": {
+    "id": "thestrongest_bot",
+    "provider": "lichess",
+    "username": "THESTRONGEST_BOT",
+    "firstSeen": 1623479825071,
+    "lastSeen": 1623502742874,
+    "firstSeenTime": "6:37:05 AM",
+    "lastSeenTime": "10:44:42 AM",
+    "onlineDurationMins": 247.61728333333335
+  },
+  "viaanjs@lichess": {
+    "id": "viaanjs",
+    "provider": "lichess",
+    "username": "Viaanjs",
+    "firstSeen": 1623485469225,
+    "lastSeen": 1623502339001,
+    "firstSeenTime": "8:11:09 AM",
+    "lastSeenTime": "10:49:19 AM",
+    "onlineDurationMins": 158.16808333333333
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1623488479130,
+    "lastSeen": 1623502303051,
+    "firstSeenTime": "9:01:19 AM",
+    "lastSeenTime": "10:41:21 AM",
+    "onlineDurationMins": 100.04746666666666
+  },
+  "sai-2010@lichess": {
+    "id": "sai-2010",
+    "provider": "lichess",
+    "username": "SAI-2010",
+    "firstSeen": 1623491408667,
+    "lastSeen": 1623502788826,
+    "firstSeenTime": "9:50:08 AM",
+    "lastSeenTime": "10:44:12 AM",
+    "onlineDurationMins": 54.0557
+  },
+  "netchesshelper@lichess": {
+    "id": "netchesshelper",
+    "provider": "lichess",
+    "username": "NetChessHelper",
+    "firstSeen": 1623500585898,
+    "lastSeen": 1623502742719
+  },
+  "avijit_youtuber@lichess": {
+    "id": "avijit_youtuber",
+    "provider": "lichess",
+    "username": "Avijit_youtuber",
+    "firstSeen": 1623502393347,
+    "lastSeen": 1623502419729
+  },
+  "thehardestbot@lichess": {
+    "id": "thehardestbot",
+    "provider": "lichess",
+    "username": "Thehardestbot",
+    "firstSeen": 1623502791056,
+    "lastSeen": 1623502791056
+  }
+}
