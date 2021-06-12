@@ -1,0 +1,63 @@
+{
+  "thestrongest_bot@lichess": {
+    "id": "thestrongest_bot",
+    "provider": "lichess",
+    "username": "THESTRONGEST_BOT",
+    "firstSeen": 1623479825071,
+    "lastSeen": 1623498743917,
+    "firstSeenTime": "6:37:05 AM",
+    "lastSeenTime": "10:44:42 AM",
+    "onlineDurationMins": 247.61728333333335
+  },
+  "viaanjs@lichess": {
+    "id": "viaanjs",
+    "provider": "lichess",
+    "username": "Viaanjs",
+    "firstSeen": 1623485469225,
+    "lastSeen": 1623498735402,
+    "firstSeenTime": "8:11:09 AM",
+    "lastSeenTime": "10:49:19 AM",
+    "onlineDurationMins": 158.16808333333333
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1623488479130,
+    "lastSeen": 1623498323199,
+    "firstSeenTime": "9:01:19 AM",
+    "lastSeenTime": "10:41:21 AM",
+    "onlineDurationMins": 100.04746666666666
+  },
+  "sai-2010@lichess": {
+    "id": "sai-2010",
+    "provider": "lichess",
+    "username": "SAI-2010",
+    "firstSeen": 1623491408667,
+    "lastSeen": 1623498765163,
+    "firstSeenTime": "9:50:08 AM",
+    "lastSeenTime": "10:44:12 AM",
+    "onlineDurationMins": 54.0557
+  },
+  "vinsenso5@lichess": {
+    "id": "vinsenso5",
+    "provider": "lichess",
+    "username": "vinsenso5",
+    "firstSeen": 1623495405799,
+    "lastSeen": 1623498590975
+  },
+  "netchesshelper@lichess": {
+    "id": "netchesshelper",
+    "provider": "lichess",
+    "username": "NetChessHelper",
+    "firstSeen": 1623497166856,
+    "lastSeen": 1623498745371
+  },
+  "spidersg@lichess": {
+    "id": "spidersg",
+    "provider": "lichess",
+    "username": "spidersg",
+    "firstSeen": 1623498787387,
+    "lastSeen": 1623498787387
+  }
+}
