@@ -1,0 +1,44 @@
+{
+  "thestrongest_bot@lichess": {
+    "id": "thestrongest_bot",
+    "provider": "lichess",
+    "username": "THESTRONGEST_BOT",
+    "firstSeen": 1623506371605,
+    "lastSeen": 1623510754389
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1623506486017,
+    "lastSeen": 1623510695050
+  },
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1623507830713,
+    "lastSeen": 1623510697118
+  },
+  "netchesshelper@lichess": {
+    "id": "netchesshelper",
+    "provider": "lichess",
+    "username": "NetChessHelper",
+    "firstSeen": 1623509697995,
+    "lastSeen": 1623510945392
+  },
+  "moose00@lichess": {
+    "id": "moose00",
+    "provider": "lichess",
+    "username": "moose00",
+    "firstSeen": 1623509804622,
+    "lastSeen": 1623510289132
+  },
+  "bigbrainen@lichess": {
+    "id": "bigbrainen",
+    "provider": "lichess",
+    "username": "BigBrainen",
+    "firstSeen": 1623509912977,
+    "lastSeen": 1623510853408
+  }
+}
