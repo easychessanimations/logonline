@@ -1,0 +1,22 @@
+{
+  "killer_bot2021@lichess": {
+    "id": "killer_bot2021",
+    "provider": "lichess",
+    "username": "KILLER_BOT2021",
+    "firstSeen": 1623465130326,
+    "lastSeen": 1623466025028,
+    "firstSeenTime": "2:32:10 AM",
+    "lastSeenTime": "2:37:29 AM",
+    "onlineDurationMins": 5.314016666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1623465559679,
+    "lastSeen": 1623465560515,
+    "firstSeenTime": "2:39:19 AM",
+    "lastSeenTime": "2:39:19 AM",
+    "onlineDurationMins": 0
+  }
+}
