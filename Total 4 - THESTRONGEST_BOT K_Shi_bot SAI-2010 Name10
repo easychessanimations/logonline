@@ -1,0 +1,30 @@
+{
+  "thestrongest_bot@lichess": {
+    "id": "thestrongest_bot",
+    "provider": "lichess",
+    "username": "THESTRONGEST_BOT",
+    "firstSeen": 1623479825071,
+    "lastSeen": 1623484075491
+  },
+  "k_shi_bot@lichess": {
+    "id": "k_shi_bot",
+    "provider": "lichess",
+    "username": "K_Shi_bot",
+    "firstSeen": 1623481856941,
+    "lastSeen": 1623484048568
+  },
+  "sai-2010@lichess": {
+    "id": "sai-2010",
+    "provider": "lichess",
+    "username": "SAI-2010",
+    "firstSeen": 1623482665072,
+    "lastSeen": 1623484277301
+  },
+  "name10@lichess": {
+    "id": "name10",
+    "provider": "lichess",
+    "username": "Name10",
+    "firstSeen": 1623484287637,
+    "lastSeen": 1623484300140
+  }
+}
