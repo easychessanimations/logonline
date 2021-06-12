@@ -1,0 +1,49 @@
+{
+  "thestrongest_bot@lichess": {
+    "id": "thestrongest_bot",
+    "provider": "lichess",
+    "username": "THESTRONGEST_BOT",
+    "firstSeen": 1623479825071,
+    "lastSeen": 1623500095280,
+    "firstSeenTime": "6:37:05 AM",
+    "lastSeenTime": "10:44:42 AM",
+    "onlineDurationMins": 247.61728333333335
+  },
+  "viaanjs@lichess": {
+    "id": "viaanjs",
+    "provider": "lichess",
+    "username": "Viaanjs",
+    "firstSeen": 1623485469225,
+    "lastSeen": 1623499698830,
+    "firstSeenTime": "8:11:09 AM",
+    "lastSeenTime": "10:49:19 AM",
+    "onlineDurationMins": 158.16808333333333
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1623488479130,
+    "lastSeen": 1623499651189,
+    "firstSeenTime": "9:01:19 AM",
+    "lastSeenTime": "10:41:21 AM",
+    "onlineDurationMins": 100.04746666666666
+  },
+  "sai-2010@lichess": {
+    "id": "sai-2010",
+    "provider": "lichess",
+    "username": "SAI-2010",
+    "firstSeen": 1623491408667,
+    "lastSeen": 1623500145062,
+    "firstSeenTime": "9:50:08 AM",
+    "lastSeenTime": "10:44:12 AM",
+    "onlineDurationMins": 54.0557
+  },
+  "killer_bot2021@lichess": {
+    "id": "killer_bot2021",
+    "provider": "lichess",
+    "username": "KILLER_BOT2021",
+    "firstSeen": 1623499680112,
+    "lastSeen": 1623500038552
+  }
+}
