@@ -1,0 +1,44 @@
+{
+  "thestrongest_bot@lichess": {
+    "id": "thestrongest_bot",
+    "provider": "lichess",
+    "username": "THESTRONGEST_BOT",
+    "firstSeen": 1623479825071,
+    "lastSeen": 1623481224232
+  },
+  "bullet_bot@lichess": {
+    "id": "bullet_bot",
+    "provider": "lichess",
+    "username": "BULLET_BOT",
+    "firstSeen": 1623481026558,
+    "lastSeen": 1623481049229
+  },
+  "killer_bot2021@lichess": {
+    "id": "killer_bot2021",
+    "provider": "lichess",
+    "username": "KILLER_BOT2021",
+    "firstSeen": 1623481050114,
+    "lastSeen": 1623481405731
+  },
+  "bma_official@lichess": {
+    "id": "bma_official",
+    "provider": "lichess",
+    "username": "BMA_Official",
+    "firstSeen": 1623481835918,
+    "lastSeen": 1623481847348
+  },
+  "k_shi_bot@lichess": {
+    "id": "k_shi_bot",
+    "provider": "lichess",
+    "username": "K_Shi_bot",
+    "firstSeen": 1623481856941,
+    "lastSeen": 1623481916096
+  },
+  "mradul57@lichess": {
+    "id": "mradul57",
+    "provider": "lichess",
+    "username": "Mradul57",
+    "firstSeen": 1623481918226,
+    "lastSeen": 1623481918226
+  }
+}
