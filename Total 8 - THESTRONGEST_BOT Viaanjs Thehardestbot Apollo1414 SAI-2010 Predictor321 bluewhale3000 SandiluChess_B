@@ -1,0 +1,76 @@
+{
+  "thestrongest_bot@lichess": {
+    "id": "thestrongest_bot",
+    "provider": "lichess",
+    "username": "THESTRONGEST_BOT",
+    "firstSeen": 1623479825071,
+    "lastSeen": 1623493739902,
+    "firstSeenTime": "6:37:05 AM",
+    "lastSeenTime": "10:11:41 AM",
+    "onlineDurationMins": 214.6049
+  },
+  "viaanjs@lichess": {
+    "id": "viaanjs",
+    "provider": "lichess",
+    "username": "Viaanjs",
+    "firstSeen": 1623485469225,
+    "lastSeen": 1623493519037,
+    "firstSeenTime": "8:11:09 AM",
+    "lastSeenTime": "10:12:06 AM",
+    "onlineDurationMins": 120.94986666666667
+  },
+  "thehardestbot@lichess": {
+    "id": "thehardestbot",
+    "provider": "lichess",
+    "username": "Thehardestbot",
+    "firstSeen": 1623486982100,
+    "lastSeen": 1623493688255,
+    "firstSeenTime": "8:36:22 AM",
+    "lastSeenTime": "10:12:15 AM",
+    "onlineDurationMins": 95.89328333333333
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1623488479130,
+    "lastSeen": 1623493732606,
+    "firstSeenTime": "9:01:19 AM",
+    "lastSeenTime": "10:06:42 AM",
+    "onlineDurationMins": 65.38561666666666
+  },
+  "sai-2010@lichess": {
+    "id": "sai-2010",
+    "provider": "lichess",
+    "username": "SAI-2010",
+    "firstSeen": 1623491408667,
+    "lastSeen": 1623493309701,
+    "firstSeenTime": "9:50:08 AM",
+    "lastSeenTime": "10:09:49 AM",
+    "onlineDurationMins": 19.6795
+  },
+  "predictor321@lichess": {
+    "id": "predictor321",
+    "provider": "lichess",
+    "username": "Predictor321",
+    "firstSeen": 1623492626055,
+    "lastSeen": 1623493524104,
+    "firstSeenTime": "10:10:26 AM",
+    "lastSeenTime": "10:10:40 AM",
+    "onlineDurationMins": 0.2467
+  },
+  "bluewhale3000@lichess": {
+    "id": "bluewhale3000",
+    "provider": "lichess",
+    "username": "bluewhale3000",
+    "firstSeen": 1623493541849,
+    "lastSeen": 1623493856354
+  },
+  "sandiluchess_b@lichess": {
+    "id": "sandiluchess_b",
+    "provider": "lichess",
+    "username": "SandiluChess_B",
+    "firstSeen": 1623493877919,
+    "lastSeen": 1623493877919
+  }
+}
