@@ -1,0 +1,30 @@
+{
+  "lishogi2@lichess": {
+    "id": "lishogi2",
+    "provider": "lichess",
+    "username": "Lishogi2",
+    "firstSeen": 1623570476835,
+    "lastSeen": 1623570671588
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1623570808026,
+    "lastSeen": 1623571475837
+  },
+  "k_shi_bot@lichess": {
+    "id": "k_shi_bot",
+    "provider": "lichess",
+    "username": "K_Shi_bot",
+    "firstSeen": 1623571092826,
+    "lastSeen": 1623571490534
+  },
+  "appliedchessengine@lichess": {
+    "id": "appliedchessengine",
+    "provider": "lichess",
+    "username": "AppliedChessEngine",
+    "firstSeen": 1623571115136,
+    "lastSeen": 1623571251187
+  }
+}
