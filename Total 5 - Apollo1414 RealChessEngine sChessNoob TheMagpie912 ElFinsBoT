@@ -1,0 +1,49 @@
+{
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1623570808026,
+    "lastSeen": 1623575397497,
+    "firstSeenTime": "7:53:28 AM",
+    "lastSeenTime": "9:09:57 AM",
+    "onlineDurationMins": 76.49118333333334
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623571979307,
+    "lastSeen": 1623575514221,
+    "firstSeenTime": "8:12:59 AM",
+    "lastSeenTime": "9:09:53 AM",
+    "onlineDurationMins": 56.89811666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1623575053567,
+    "lastSeen": 1623575398766,
+    "firstSeenTime": "9:04:13 AM",
+    "lastSeenTime": "9:09:58 AM",
+    "onlineDurationMins": 5.753316666666667
+  },
+  "themagpie912@lichess": {
+    "id": "themagpie912",
+    "provider": "lichess",
+    "username": "TheMagpie912",
+    "firstSeen": 1623575316826,
+    "lastSeen": 1623575332798,
+    "firstSeenTime": "9:08:36 AM",
+    "lastSeenTime": "9:08:52 AM",
+    "onlineDurationMins": 0.2662
+  },
+  "elfinsbot@lichess": {
+    "id": "elfinsbot",
+    "provider": "lichess",
+    "username": "ElFinsBoT",
+    "firstSeen": 1623575796243,
+    "lastSeen": 1623575796243
+  }
+}
