@@ -1,0 +1,49 @@
+{
+  "evolving_master@lichess": {
+    "id": "evolving_master",
+    "provider": "lichess",
+    "username": "Evolving_Master",
+    "firstSeen": 1623595005678,
+    "lastSeen": 1623595886741,
+    "firstSeenTime": "2:36:45 PM",
+    "lastSeenTime": "2:44:08 PM",
+    "onlineDurationMins": 7.388533333333333
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1623595257695,
+    "lastSeen": 1623595920904,
+    "firstSeenTime": "2:40:57 PM",
+    "lastSeenTime": "2:40:57 PM",
+    "onlineDurationMins": 0
+  },
+  "sai-2010@lichess": {
+    "id": "sai-2010",
+    "provider": "lichess",
+    "username": "SAI-2010",
+    "firstSeen": 1623595498297,
+    "lastSeen": 1623596166947,
+    "firstSeenTime": "2:44:58 PM",
+    "lastSeenTime": "2:45:39 PM",
+    "onlineDurationMins": 0.6907666666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1623595756458,
+    "lastSeen": 1623595756458,
+    "firstSeenTime": "2:49:16 PM",
+    "lastSeenTime": "2:49:16 PM",
+    "onlineDurationMins": 0
+  },
+  "the_great5000@lichess": {
+    "id": "the_great5000",
+    "provider": "lichess",
+    "username": "The_GREAT5000",
+    "firstSeen": 1623596275911,
+    "lastSeen": 1623596275911
+  }
+}
