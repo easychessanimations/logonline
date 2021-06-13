@@ -1,0 +1,43 @@
+{
+  "thehardestbot@lichess": {
+    "id": "thehardestbot",
+    "provider": "lichess",
+    "username": "Thehardestbot",
+    "firstSeen": 1623562947614,
+    "lastSeen": 1623568295014,
+    "firstSeenTime": "5:42:27 AM",
+    "lastSeenTime": "6:59:11 AM",
+    "onlineDurationMins": 76.73256666666667
+  },
+  "themagpie912@lichess": {
+    "id": "themagpie912",
+    "provider": "lichess",
+    "username": "TheMagpie912",
+    "firstSeen": 1623564084916,
+    "lastSeen": 1623568683488,
+    "firstSeenTime": "6:01:24 AM",
+    "lastSeenTime": "6:50:00 AM",
+    "onlineDurationMins": 48.5876
+  },
+  "thestrongest_bot@lichess": {
+    "id": "thestrongest_bot",
+    "provider": "lichess",
+    "username": "THESTRONGEST_BOT",
+    "firstSeen": 1623568184415,
+    "lastSeen": 1623568675308
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623568238479,
+    "lastSeen": 1623568325447
+  },
+  "853529119190548490@discord": {
+    "id": "853529119190548490",
+    "provider": "discord",
+    "username": "Lishogi2",
+    "firstSeen": 1623568700811,
+    "lastSeen": 1623568700811
+  }
+}
