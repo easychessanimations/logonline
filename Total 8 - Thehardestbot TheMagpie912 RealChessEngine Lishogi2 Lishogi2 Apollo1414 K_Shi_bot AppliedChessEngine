@@ -1,0 +1,64 @@
+{
+  "thehardestbot@lichess": {
+    "id": "thehardestbot",
+    "provider": "lichess",
+    "username": "Thehardestbot",
+    "firstSeen": 1623562947614,
+    "lastSeen": 1623570509861,
+    "firstSeenTime": "5:42:27 AM",
+    "lastSeenTime": "6:59:11 AM",
+    "onlineDurationMins": 76.73256666666667
+  },
+  "themagpie912@lichess": {
+    "id": "themagpie912",
+    "provider": "lichess",
+    "username": "TheMagpie912",
+    "firstSeen": 1623564084916,
+    "lastSeen": 1623570437370,
+    "firstSeenTime": "6:01:24 AM",
+    "lastSeenTime": "6:50:00 AM",
+    "onlineDurationMins": 48.5876
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623568238479,
+    "lastSeen": 1623570647237
+  },
+  "85820953@github": {
+    "id": "85820953",
+    "provider": "github",
+    "username": "Lishogi2",
+    "firstSeen": 1623569397591,
+    "lastSeen": 1623570300579
+  },
+  "lishogi2@lichess": {
+    "id": "lishogi2",
+    "provider": "lichess",
+    "username": "Lishogi2",
+    "firstSeen": 1623570476835,
+    "lastSeen": 1623570671588
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1623570808026,
+    "lastSeen": 1623570816676
+  },
+  "k_shi_bot@lichess": {
+    "id": "k_shi_bot",
+    "provider": "lichess",
+    "username": "K_Shi_bot",
+    "firstSeen": 1623571092826,
+    "lastSeen": 1623571104222
+  },
+  "appliedchessengine@lichess": {
+    "id": "appliedchessengine",
+    "provider": "lichess",
+    "username": "AppliedChessEngine",
+    "firstSeen": 1623571115136,
+    "lastSeen": 1623571115136
+  }
+}
