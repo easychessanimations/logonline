@@ -1,0 +1,30 @@
+{
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1623570808026,
+    "lastSeen": 1623572080265
+  },
+  "k_shi_bot@lichess": {
+    "id": "k_shi_bot",
+    "provider": "lichess",
+    "username": "K_Shi_bot",
+    "firstSeen": 1623571092826,
+    "lastSeen": 1623572141515
+  },
+  "ultraeasybot@lichess": {
+    "id": "ultraeasybot",
+    "provider": "lichess",
+    "username": "UltraEasyBOT",
+    "firstSeen": 1623571557202,
+    "lastSeen": 1623571979829
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623571979307,
+    "lastSeen": 1623572005922
+  }
+}
