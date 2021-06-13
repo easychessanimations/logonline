@@ -1,0 +1,33 @@
+{
+  "thehardestbot@lichess": {
+    "id": "thehardestbot",
+    "provider": "lichess",
+    "username": "Thehardestbot",
+    "firstSeen": 1623562947614,
+    "lastSeen": 1623565230772,
+    "firstSeenTime": "5:42:27 AM",
+    "lastSeenTime": "5:43:13 AM",
+    "onlineDurationMins": 0.7573166666666666
+  },
+  "themagpie912@lichess": {
+    "id": "themagpie912",
+    "provider": "lichess",
+    "username": "TheMagpie912",
+    "firstSeen": 1623564084916,
+    "lastSeen": 1623565187631
+  },
+  "stutee202589@lichess": {
+    "id": "stutee202589",
+    "provider": "lichess",
+    "username": "stutee202589",
+    "firstSeen": 1623564790118,
+    "lastSeen": 1623564799757
+  },
+  "85016247@github": {
+    "id": "85016247",
+    "provider": "github",
+    "username": "lichessdev",
+    "firstSeen": 1623565263658,
+    "lastSeen": 1623565263658
+  }
+}
