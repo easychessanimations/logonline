@@ -1,0 +1,59 @@
+{
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1623570808026,
+    "lastSeen": 1623593317246,
+    "firstSeenTime": "7:53:28 AM",
+    "lastSeenTime": "2:08:37 PM",
+    "onlineDurationMins": 375.15366666666665
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623588247059,
+    "lastSeen": 1623593580207,
+    "firstSeenTime": "12:44:07 PM",
+    "lastSeenTime": "2:06:59 PM",
+    "onlineDurationMins": 82.88063333333334
+  },
+  "xxbotxx@lichess": {
+    "id": "xxbotxx",
+    "provider": "lichess",
+    "username": "xXbotXx",
+    "firstSeen": 1623591088839,
+    "lastSeen": 1623593258298,
+    "firstSeenTime": "1:31:28 PM",
+    "lastSeenTime": "2:07:38 PM",
+    "onlineDurationMins": 36.15765
+  },
+  "bluewhale3000@lichess": {
+    "id": "bluewhale3000",
+    "provider": "lichess",
+    "username": "bluewhale3000",
+    "firstSeen": 1623592843937,
+    "lastSeen": 1623593035213,
+    "firstSeenTime": "2:00:43 PM",
+    "lastSeenTime": "2:03:55 PM",
+    "onlineDurationMins": 3.1879333333333335
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1623593157108,
+    "lastSeen": 1623593356327,
+    "firstSeenTime": "2:05:57 PM",
+    "lastSeenTime": "2:09:16 PM",
+    "onlineDurationMins": 3.320316666666667
+  },
+  "anonymous-bot@lichess": {
+    "id": "anonymous-bot",
+    "provider": "lichess",
+    "username": "AnOnYmOuS-BoT",
+    "firstSeen": 1623593651089,
+    "lastSeen": 1623593651089
+  }
+}
