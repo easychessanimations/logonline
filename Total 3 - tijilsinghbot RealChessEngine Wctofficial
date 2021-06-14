@@ -1,0 +1,23 @@
+{
+  "tijilsinghbot@lichess": {
+    "id": "tijilsinghbot",
+    "provider": "lichess",
+    "username": "tijilsinghbot",
+    "firstSeen": 1623673564166,
+    "lastSeen": 1623684397680
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623679705423,
+    "lastSeen": 1623683631676
+  },
+  "wctofficial@lichess": {
+    "id": "wctofficial",
+    "provider": "lichess",
+    "username": "Wctofficial",
+    "firstSeen": 1623683622671,
+    "lastSeen": 1623684211541
+  }
+}
