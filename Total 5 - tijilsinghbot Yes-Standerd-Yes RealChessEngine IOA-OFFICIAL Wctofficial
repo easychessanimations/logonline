@@ -1,0 +1,37 @@
+{
+  "tijilsinghbot@lichess": {
+    "id": "tijilsinghbot",
+    "provider": "lichess",
+    "username": "tijilsinghbot",
+    "firstSeen": 1623673564166,
+    "lastSeen": 1623683563037
+  },
+  "yes-standerd-yes@lichess": {
+    "id": "yes-standerd-yes",
+    "provider": "lichess",
+    "username": "Yes-Standerd-Yes",
+    "firstSeen": 1623677112665,
+    "lastSeen": 1623682993008
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623679705423,
+    "lastSeen": 1623683130102
+  },
+  "ioa-official@lichess": {
+    "id": "ioa-official",
+    "provider": "lichess",
+    "username": "IOA-OFFICIAL",
+    "firstSeen": 1623683294647,
+    "lastSeen": 1623683484378
+  },
+  "wctofficial@lichess": {
+    "id": "wctofficial",
+    "provider": "lichess",
+    "username": "Wctofficial",
+    "firstSeen": 1623683622671,
+    "lastSeen": 1623683622671
+  }
+}
