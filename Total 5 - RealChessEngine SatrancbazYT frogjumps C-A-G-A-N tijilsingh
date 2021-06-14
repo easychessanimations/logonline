@@ -1,0 +1,40 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623647395588,
+    "lastSeen": 1623651952461,
+    "firstSeenTime": "5:09:55 AM",
+    "lastSeenTime": "5:16:07 AM",
+    "onlineDurationMins": 6.20225
+  },
+  "satrancbazyt@lichess": {
+    "id": "satrancbazyt",
+    "provider": "lichess",
+    "username": "SatrancbazYT",
+    "firstSeen": 1623650308836,
+    "lastSeen": 1623652412450
+  },
+  "frogjumps@lichess": {
+    "id": "frogjumps",
+    "provider": "lichess",
+    "username": "frogjumps",
+    "firstSeen": 1623650318603,
+    "lastSeen": 1623652172896
+  },
+  "c-a-g-a-n@lichess": {
+    "id": "c-a-g-a-n",
+    "provider": "lichess",
+    "username": "C-A-G-A-N",
+    "firstSeen": 1623651508344,
+    "lastSeen": 1623651518287
+  },
+  "tijilsingh@lichess": {
+    "id": "tijilsingh",
+    "provider": "lichess",
+    "username": "tijilsingh",
+    "firstSeen": 1623652361620,
+    "lastSeen": 1623652373730
+  }
+}
