@@ -4,13 +4,19 @@
     "provider": "lichess",
     "username": "RealChessEngine",
     "firstSeen": 1623647395588,
-    "lastSeen": 1623647421147
+    "lastSeen": 1623648764602,
+    "firstSeenTime": "5:09:55 AM",
+    "lastSeenTime": "5:16:07 AM",
+    "onlineDurationMins": 6.20225
   },
   "sai-2010@lichess": {
     "id": "sai-2010",
     "provider": "lichess",
     "username": "SAI-2010",
     "firstSeen": 1623647591253,
-    "lastSeen": 1623647591253
+    "lastSeen": 1623648255862,
+    "firstSeenTime": "5:13:11 AM",
+    "lastSeenTime": "5:14:03 AM",
+    "onlineDurationMins": 0.8748333333333334
   }
 }
