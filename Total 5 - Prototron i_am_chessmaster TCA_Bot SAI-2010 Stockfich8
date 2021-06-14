@@ -1,0 +1,37 @@
+{
+  "prototron@lichess": {
+    "id": "prototron",
+    "provider": "lichess",
+    "username": "Prototron",
+    "firstSeen": 1623633898694,
+    "lastSeen": 1623636980643
+  },
+  "i_am_chessmaster@lichess": {
+    "id": "i_am_chessmaster",
+    "provider": "lichess",
+    "username": "i_am_chessmaster",
+    "firstSeen": 1623634190044,
+    "lastSeen": 1623636948794
+  },
+  "tca_bot@lichess": {
+    "id": "tca_bot",
+    "provider": "lichess",
+    "username": "TCA_Bot",
+    "firstSeen": 1623634616600,
+    "lastSeen": 1623636790863
+  },
+  "sai-2010@lichess": {
+    "id": "sai-2010",
+    "provider": "lichess",
+    "username": "SAI-2010",
+    "firstSeen": 1623636051675,
+    "lastSeen": 1623636795754
+  },
+  "stockfich8@lichess": {
+    "id": "stockfich8",
+    "provider": "lichess",
+    "username": "Stockfich8",
+    "firstSeen": 1623637121659,
+    "lastSeen": 1623637121659
+  }
+}
