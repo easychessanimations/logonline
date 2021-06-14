@@ -1,0 +1,26 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623647395588,
+    "lastSeen": 1623648906635,
+    "firstSeenTime": "5:09:55 AM",
+    "lastSeenTime": "5:16:07 AM",
+    "onlineDurationMins": 6.20225
+  },
+  "bot_of_jotim431@lichess": {
+    "id": "bot_of_jotim431",
+    "provider": "lichess",
+    "username": "Bot_of_jotim431",
+    "firstSeen": 1623649104152,
+    "lastSeen": 1623649197532
+  },
+  "sai-2010@lichess": {
+    "id": "sai-2010",
+    "provider": "lichess",
+    "username": "SAI-2010",
+    "firstSeen": 1623649253372,
+    "lastSeen": 1623649253372
+  }
+}
