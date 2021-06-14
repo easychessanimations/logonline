@@ -1,0 +1,33 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623647395588,
+    "lastSeen": 1623653267933,
+    "firstSeenTime": "5:09:55 AM",
+    "lastSeenTime": "5:16:07 AM",
+    "onlineDurationMins": 6.20225
+  },
+  "tijilsinghbot@lichess": {
+    "id": "tijilsinghbot",
+    "provider": "lichess",
+    "username": "tijilsinghbot",
+    "firstSeen": 1623652422856,
+    "lastSeen": 1623653273179
+  },
+  "sandiluchess_b@lichess": {
+    "id": "sandiluchess_b",
+    "provider": "lichess",
+    "username": "SandiluChess_B",
+    "firstSeen": 1623652447964,
+    "lastSeen": 1623652630740
+  },
+  "asiacicin123456@lichess": {
+    "id": "asiacicin123456",
+    "provider": "lichess",
+    "username": "asiacicin123456",
+    "firstSeen": 1623652798696,
+    "lastSeen": 1623652807467
+  }
+}
