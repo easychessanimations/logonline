@@ -1,0 +1,61 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623647395588,
+    "lastSeen": 1623650406377,
+    "firstSeenTime": "5:09:55 AM",
+    "lastSeenTime": "5:16:07 AM",
+    "onlineDurationMins": 6.20225
+  },
+  "bigbrainen@lichess": {
+    "id": "bigbrainen",
+    "provider": "lichess",
+    "username": "BigBrainen",
+    "firstSeen": 1623649646248,
+    "lastSeen": 1623650776988
+  },
+  "dragon_vs_superman@lichess": {
+    "id": "dragon_vs_superman",
+    "provider": "lichess",
+    "username": "Dragon_vs_superman",
+    "firstSeen": 1623650111734,
+    "lastSeen": 1623650683910
+  },
+  "januda-pabasara-ksca@lichess": {
+    "id": "januda-pabasara-ksca",
+    "provider": "lichess",
+    "username": "Januda-Pabasara-KSCA",
+    "firstSeen": 1623650206589,
+    "lastSeen": 1623650226345
+  },
+  "satrancbazyt@lichess": {
+    "id": "satrancbazyt",
+    "provider": "lichess",
+    "username": "SatrancbazYT",
+    "firstSeen": 1623650308836,
+    "lastSeen": 1623650886142
+  },
+  "frogjumps@lichess": {
+    "id": "frogjumps",
+    "provider": "lichess",
+    "username": "frogjumps",
+    "firstSeen": 1623650318603,
+    "lastSeen": 1623650943180
+  },
+  "sandiluchess_b@lichess": {
+    "id": "sandiluchess_b",
+    "provider": "lichess",
+    "username": "SandiluChess_B",
+    "firstSeen": 1623650383389,
+    "lastSeen": 1623650763047
+  },
+  "blitzstar_2008@lichess": {
+    "id": "blitzstar_2008",
+    "provider": "lichess",
+    "username": "blitzstar_2008",
+    "firstSeen": 1623650684778,
+    "lastSeen": 1623650954623
+  }
+}
