@@ -1,0 +1,47 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623647395588,
+    "lastSeen": 1623651107985,
+    "firstSeenTime": "5:09:55 AM",
+    "lastSeenTime": "5:16:07 AM",
+    "onlineDurationMins": 6.20225
+  },
+  "bigbrainen@lichess": {
+    "id": "bigbrainen",
+    "provider": "lichess",
+    "username": "BigBrainen",
+    "firstSeen": 1623649646248,
+    "lastSeen": 1623651469379
+  },
+  "satrancbazyt@lichess": {
+    "id": "satrancbazyt",
+    "provider": "lichess",
+    "username": "SatrancbazYT",
+    "firstSeen": 1623650308836,
+    "lastSeen": 1623651752397
+  },
+  "frogjumps@lichess": {
+    "id": "frogjumps",
+    "provider": "lichess",
+    "username": "frogjumps",
+    "firstSeen": 1623650318603,
+    "lastSeen": 1623651501440
+  },
+  "blitzstar_2008@lichess": {
+    "id": "blitzstar_2008",
+    "provider": "lichess",
+    "username": "blitzstar_2008",
+    "firstSeen": 1623650684778,
+    "lastSeen": 1623651515603
+  },
+  "c-a-g-a-n@lichess": {
+    "id": "c-a-g-a-n",
+    "provider": "lichess",
+    "username": "C-A-G-A-N",
+    "firstSeen": 1623651508344,
+    "lastSeen": 1623651518287
+  }
+}
