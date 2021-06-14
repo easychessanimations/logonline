@@ -1,0 +1,39 @@
+{
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1623697027767,
+    "lastSeen": 1623698896669,
+    "firstSeenTime": "6:57:07 PM",
+    "lastSeenTime": "7:28:16 PM",
+    "onlineDurationMins": 31.148366666666668
+  },
+  "bigbrainen@lichess": {
+    "id": "bigbrainen",
+    "provider": "lichess",
+    "username": "BigBrainen",
+    "firstSeen": 1623699259740,
+    "lastSeen": 1623699344672,
+    "firstSeenTime": "7:34:19 PM",
+    "lastSeenTime": "7:35:44 PM",
+    "onlineDurationMins": 1.4155333333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1623699344925,
+    "lastSeen": 1623699344926,
+    "firstSeenTime": "7:35:44 PM",
+    "lastSeenTime": "7:35:44 PM",
+    "onlineDurationMins": 0.000016666666666666667
+  },
+  "ornicarlila@lichess": {
+    "id": "ornicarlila",
+    "provider": "lichess",
+    "username": "OrnicarLila",
+    "firstSeen": 1623699450895,
+    "lastSeen": 1623699450895
+  }
+}
