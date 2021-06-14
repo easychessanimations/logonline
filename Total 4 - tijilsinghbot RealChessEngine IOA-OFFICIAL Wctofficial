@@ -1,0 +1,30 @@
+{
+  "tijilsinghbot@lichess": {
+    "id": "tijilsinghbot",
+    "provider": "lichess",
+    "username": "tijilsinghbot",
+    "firstSeen": 1623673564166,
+    "lastSeen": 1623683871589
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623679705423,
+    "lastSeen": 1623683631676
+  },
+  "ioa-official@lichess": {
+    "id": "ioa-official",
+    "provider": "lichess",
+    "username": "IOA-OFFICIAL",
+    "firstSeen": 1623683294647,
+    "lastSeen": 1623683484378
+  },
+  "wctofficial@lichess": {
+    "id": "wctofficial",
+    "provider": "lichess",
+    "username": "Wctofficial",
+    "firstSeen": 1623683622671,
+    "lastSeen": 1623683905652
+  }
+}
