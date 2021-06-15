@@ -1,0 +1,29 @@
+{
+  "checkmater_bot@lichess": {
+    "id": "checkmater_bot",
+    "provider": "lichess",
+    "username": "checkmater_bot",
+    "firstSeen": 1623763588591,
+    "lastSeen": 1623776091797,
+    "firstSeenTime": "1:26:28 PM",
+    "lastSeenTime": "4:47:48 PM",
+    "onlineDurationMins": 201.3248
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1623775807999,
+    "lastSeen": 1623775807999,
+    "firstSeenTime": "4:50:07 PM",
+    "lastSeenTime": "4:50:07 PM",
+    "onlineDurationMins": 0
+  },
+  "ryanc1010@lichess": {
+    "id": "ryanc1010",
+    "provider": "lichess",
+    "username": "RyanC1010",
+    "firstSeen": 1623776461629,
+    "lastSeen": 1623776461629
+  }
+}
