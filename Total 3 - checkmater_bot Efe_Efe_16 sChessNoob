@@ -1,0 +1,32 @@
+{
+  "checkmater_bot@lichess": {
+    "id": "checkmater_bot",
+    "provider": "lichess",
+    "username": "checkmater_bot",
+    "firstSeen": 1623763588591,
+    "lastSeen": 1623777168288,
+    "firstSeenTime": "1:26:28 PM",
+    "lastSeenTime": "5:12:48 PM",
+    "onlineDurationMins": 226.32828333333333
+  },
+  "efe_efe_16@lichess": {
+    "id": "efe_efe_16",
+    "provider": "lichess",
+    "username": "Efe_Efe_16",
+    "firstSeen": 1623776550701,
+    "lastSeen": 1623776893704,
+    "firstSeenTime": "5:02:30 PM",
+    "lastSeenTime": "5:08:13 PM",
+    "onlineDurationMins": 5.716716666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1623777245908,
+    "lastSeen": 1623777245908,
+    "firstSeenTime": "5:14:05 PM",
+    "lastSeenTime": "5:14:05 PM",
+    "onlineDurationMins": 0
+  }
+}
