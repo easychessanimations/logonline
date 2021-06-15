@@ -1,0 +1,33 @@
+{
+  "bbao23-chess@lichess": {
+    "id": "bbao23-chess",
+    "provider": "lichess",
+    "username": "Bbao23-chess",
+    "firstSeen": 1623749469108,
+    "lastSeen": 1623753736394,
+    "firstSeenTime": "9:31:09 AM",
+    "lastSeenTime": "9:31:20 AM",
+    "onlineDurationMins": 0.19235
+  },
+  "mryenilmez@lichess": {
+    "id": "mryenilmez",
+    "provider": "lichess",
+    "username": "MRyenilmez",
+    "firstSeen": 1623752835920,
+    "lastSeen": 1623753066072
+  },
+  "netchesshelper@lichess": {
+    "id": "netchesshelper",
+    "provider": "lichess",
+    "username": "NetChessHelper",
+    "firstSeen": 1623753093202,
+    "lastSeen": 1623753097536
+  },
+  "tijilsinghbot@lichess": {
+    "id": "tijilsinghbot",
+    "provider": "lichess",
+    "username": "tijilsinghbot",
+    "firstSeen": 1623753280288,
+    "lastSeen": 1623753284220
+  }
+}
