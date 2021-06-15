@@ -1,0 +1,66 @@
+{
+  "tavishsinghbot@lichess": {
+    "id": "tavishsinghbot",
+    "provider": "lichess",
+    "username": "tavishsinghbot",
+    "firstSeen": 1623756874365,
+    "lastSeen": 1623771720265,
+    "firstSeenTime": "11:34:34 AM",
+    "lastSeenTime": "3:19:17 PM",
+    "onlineDurationMins": 224.72513333333333
+  },
+  "tijilsinghbot@lichess": {
+    "id": "tijilsinghbot",
+    "provider": "lichess",
+    "username": "tijilsinghbot",
+    "firstSeen": 1623757096683,
+    "lastSeen": 1623771720412,
+    "firstSeenTime": "11:38:16 AM",
+    "lastSeenTime": "3:19:17 PM",
+    "onlineDurationMins": 221.01763333333332
+  },
+  "manchesster007@lichess": {
+    "id": "manchesster007",
+    "provider": "lichess",
+    "username": "Manchesster007",
+    "firstSeen": 1623761331617,
+    "lastSeen": 1623771648123,
+    "firstSeenTime": "12:48:51 PM",
+    "lastSeenTime": "3:19:47 PM",
+    "onlineDurationMins": 150.93958333333333
+  },
+  "checkmater_bot@lichess": {
+    "id": "checkmater_bot",
+    "provider": "lichess",
+    "username": "checkmater_bot",
+    "firstSeen": 1623763588591,
+    "lastSeen": 1623771460424,
+    "firstSeenTime": "1:26:28 PM",
+    "lastSeenTime": "3:24:51 PM",
+    "onlineDurationMins": 118.38308333333333
+  },
+  "bigbrainen@lichess": {
+    "id": "bigbrainen",
+    "provider": "lichess",
+    "username": "BigBrainen",
+    "firstSeen": 1623769989101,
+    "lastSeen": 1623770899212,
+    "firstSeenTime": "3:13:09 PM",
+    "lastSeenTime": "3:17:53 PM",
+    "onlineDurationMins": 4.7387
+  },
+  "bbao23-chess@lichess": {
+    "id": "bbao23-chess",
+    "provider": "lichess",
+    "username": "Bbao23-chess",
+    "firstSeen": 1623771396359,
+    "lastSeen": 1623771433678
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1623771729586,
+    "lastSeen": 1623771729586
+  }
+}
