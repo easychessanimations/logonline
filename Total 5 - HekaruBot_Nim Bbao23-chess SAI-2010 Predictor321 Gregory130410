@@ -1,0 +1,43 @@
+{
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1623747440856,
+    "lastSeen": 1623749857998,
+    "firstSeenTime": "8:57:20 AM",
+    "lastSeenTime": "9:25:50 AM",
+    "onlineDurationMins": 28.493683333333333
+  },
+  "bbao23-chess@lichess": {
+    "id": "bbao23-chess",
+    "provider": "lichess",
+    "username": "Bbao23-chess",
+    "firstSeen": 1623749469108,
+    "lastSeen": 1623750192846,
+    "firstSeenTime": "9:31:09 AM",
+    "lastSeenTime": "9:31:20 AM",
+    "onlineDurationMins": 0.19235
+  },
+  "sai-2010@lichess": {
+    "id": "sai-2010",
+    "provider": "lichess",
+    "username": "SAI-2010",
+    "firstSeen": 1623749509187,
+    "lastSeen": 1623750176706
+  },
+  "predictor321@lichess": {
+    "id": "predictor321",
+    "provider": "lichess",
+    "username": "Predictor321",
+    "firstSeen": 1623749620877,
+    "lastSeen": 1623749980194
+  },
+  "gregory130410@lichess": {
+    "id": "gregory130410",
+    "provider": "lichess",
+    "username": "Gregory130410",
+    "firstSeen": 1623750525374,
+    "lastSeen": 1623750525374
+  }
+}
