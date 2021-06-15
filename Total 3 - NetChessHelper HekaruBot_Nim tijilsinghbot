@@ -1,0 +1,26 @@
+{
+  "netchesshelper@lichess": {
+    "id": "netchesshelper",
+    "provider": "lichess",
+    "username": "NetChessHelper",
+    "firstSeen": 1623746236715,
+    "lastSeen": 1623748526616,
+    "firstSeenTime": "8:37:16 AM",
+    "lastSeenTime": "8:37:54 AM",
+    "onlineDurationMins": 0.6272666666666666
+  },
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1623747440856,
+    "lastSeen": 1623748533639
+  },
+  "tijilsinghbot@lichess": {
+    "id": "tijilsinghbot",
+    "provider": "lichess",
+    "username": "tijilsinghbot",
+    "firstSeen": 1623747765217,
+    "lastSeen": 1623748920916
+  }
+}
