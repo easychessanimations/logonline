@@ -1,0 +1,26 @@
+{
+  "checkmater_bot@lichess": {
+    "id": "checkmater_bot",
+    "provider": "lichess",
+    "username": "checkmater_bot",
+    "firstSeen": 1623763588591,
+    "lastSeen": 1623778851643,
+    "firstSeenTime": "1:26:28 PM",
+    "lastSeenTime": "5:12:48 PM",
+    "onlineDurationMins": 226.32828333333333
+  },
+  "destruyotuapertura@lichess": {
+    "id": "destruyotuapertura",
+    "provider": "lichess",
+    "username": "DESTRUYOTUAPERTURA",
+    "firstSeen": 1623779298142,
+    "lastSeen": 1623779307764
+  },
+  "bigbrainen@lichess": {
+    "id": "bigbrainen",
+    "provider": "lichess",
+    "username": "BigBrainen",
+    "firstSeen": 1623779326216,
+    "lastSeen": 1623779326216
+  }
+}
