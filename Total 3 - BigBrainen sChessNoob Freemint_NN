@@ -1,0 +1,29 @@
+{
+  "bigbrainen@lichess": {
+    "id": "bigbrainen",
+    "provider": "lichess",
+    "username": "BigBrainen",
+    "firstSeen": 1623779326216,
+    "lastSeen": 1623780764980,
+    "firstSeenTime": "5:48:46 PM",
+    "lastSeenTime": "6:04:16 PM",
+    "onlineDurationMins": 15.499
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1623779809579,
+    "lastSeen": 1623780360358,
+    "firstSeenTime": "5:56:49 PM",
+    "lastSeenTime": "6:06:00 PM",
+    "onlineDurationMins": 9.17965
+  },
+  "freemint_nn@lichess": {
+    "id": "freemint_nn",
+    "provider": "lichess",
+    "username": "Freemint_NN",
+    "firstSeen": 1623781004703,
+    "lastSeen": 1623781004704
+  }
+}
