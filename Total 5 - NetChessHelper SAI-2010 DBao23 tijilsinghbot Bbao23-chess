@@ -1,0 +1,37 @@
+{
+  "netchesshelper@lichess": {
+    "id": "netchesshelper",
+    "provider": "lichess",
+    "username": "NetChessHelper",
+    "firstSeen": 1623738951694,
+    "lastSeen": 1623741799334
+  },
+  "sai-2010@lichess": {
+    "id": "sai-2010",
+    "provider": "lichess",
+    "username": "SAI-2010",
+    "firstSeen": 1623739913365,
+    "lastSeen": 1623741846566
+  },
+  "dbao23@lichess": {
+    "id": "dbao23",
+    "provider": "lichess",
+    "username": "DBao23",
+    "firstSeen": 1623741090505,
+    "lastSeen": 1623742264104
+  },
+  "tijilsinghbot@lichess": {
+    "id": "tijilsinghbot",
+    "provider": "lichess",
+    "username": "tijilsinghbot",
+    "firstSeen": 1623742124146,
+    "lastSeen": 1623742263201
+  },
+  "bbao23-chess@lichess": {
+    "id": "bbao23-chess",
+    "provider": "lichess",
+    "username": "Bbao23-chess",
+    "firstSeen": 1623742265293,
+    "lastSeen": 1623742265293
+  }
+}
