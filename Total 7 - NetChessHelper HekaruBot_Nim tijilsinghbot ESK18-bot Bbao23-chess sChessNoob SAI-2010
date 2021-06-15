@@ -1,0 +1,69 @@
+{
+  "netchesshelper@lichess": {
+    "id": "netchesshelper",
+    "provider": "lichess",
+    "username": "NetChessHelper",
+    "firstSeen": 1623746236715,
+    "lastSeen": 1623749169542,
+    "firstSeenTime": "8:37:16 AM",
+    "lastSeenTime": "9:26:09 AM",
+    "onlineDurationMins": 48.88045
+  },
+  "hekarubot_nim@lichess": {
+    "id": "hekarubot_nim",
+    "provider": "lichess",
+    "username": "HekaruBot_Nim",
+    "firstSeen": 1623747440856,
+    "lastSeen": 1623749150477,
+    "firstSeenTime": "8:57:20 AM",
+    "lastSeenTime": "9:25:50 AM",
+    "onlineDurationMins": 28.493683333333333
+  },
+  "tijilsinghbot@lichess": {
+    "id": "tijilsinghbot",
+    "provider": "lichess",
+    "username": "tijilsinghbot",
+    "firstSeen": 1623747765217,
+    "lastSeen": 1623748920916,
+    "firstSeenTime": "9:02:45 AM",
+    "lastSeenTime": "9:22:00 AM",
+    "onlineDurationMins": 19.26165
+  },
+  "esk18-bot@lichess": {
+    "id": "esk18-bot",
+    "provider": "lichess",
+    "username": "ESK18-bot",
+    "firstSeen": 1623748976208,
+    "lastSeen": 1623749340596,
+    "firstSeenTime": "9:22:56 AM",
+    "lastSeenTime": "9:29:00 AM",
+    "onlineDurationMins": 6.073133333333334
+  },
+  "bbao23-chess@lichess": {
+    "id": "bbao23-chess",
+    "provider": "lichess",
+    "username": "Bbao23-chess",
+    "firstSeen": 1623749469108,
+    "lastSeen": 1623749480649,
+    "firstSeenTime": "9:31:09 AM",
+    "lastSeenTime": "9:31:20 AM",
+    "onlineDurationMins": 0.19235
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1623749487313,
+    "lastSeen": 1623749487313,
+    "firstSeenTime": "9:31:27 AM",
+    "lastSeenTime": "9:31:27 AM",
+    "onlineDurationMins": 0
+  },
+  "sai-2010@lichess": {
+    "id": "sai-2010",
+    "provider": "lichess",
+    "username": "SAI-2010",
+    "firstSeen": 1623749509187,
+    "lastSeen": 1623749509187
+  }
+}
