@@ -1,0 +1,44 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623738433773,
+    "lastSeen": 1623739596178
+  },
+  "bot566@lichess": {
+    "id": "bot566",
+    "provider": "lichess",
+    "username": "BOT566",
+    "firstSeen": 1623738738842,
+    "lastSeen": 1623739349627
+  },
+  "netchesshelper@lichess": {
+    "id": "netchesshelper",
+    "provider": "lichess",
+    "username": "NetChessHelper",
+    "firstSeen": 1623738951694,
+    "lastSeen": 1623740157651
+  },
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1623739392087,
+    "lastSeen": 1623739431406
+  },
+  "sai-2010@lichess": {
+    "id": "sai-2010",
+    "provider": "lichess",
+    "username": "SAI-2010",
+    "firstSeen": 1623739913365,
+    "lastSeen": 1623739929151
+  },
+  "botmystery10293@lichess": {
+    "id": "botmystery10293",
+    "provider": "lichess",
+    "username": "BOTMystery10293",
+    "firstSeen": 1623740009170,
+    "lastSeen": 1623740018457
+  }
+}
