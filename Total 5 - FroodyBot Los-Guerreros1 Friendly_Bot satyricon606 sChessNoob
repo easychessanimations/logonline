@@ -1,0 +1,37 @@
+{
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1623853972259,
+    "lastSeen": 1623859649873
+  },
+  "los-guerreros1@lichess": {
+    "id": "los-guerreros1",
+    "provider": "lichess",
+    "username": "Los-Guerreros1",
+    "firstSeen": 1623858150343,
+    "lastSeen": 1623859671376
+  },
+  "friendly_bot@lichess": {
+    "id": "friendly_bot",
+    "provider": "lichess",
+    "username": "Friendly_Bot",
+    "firstSeen": 1623858575586,
+    "lastSeen": 1623859625666
+  },
+  "satyricon606@lichess": {
+    "id": "satyricon606",
+    "provider": "lichess",
+    "username": "satyricon606",
+    "firstSeen": 1623858757531,
+    "lastSeen": 1623858928815
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1623859673734,
+    "lastSeen": 1623859673734
+  }
+}
