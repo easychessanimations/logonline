@@ -1,0 +1,51 @@
+{
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1623853972259,
+    "lastSeen": 1623858670339
+  },
+  "kchessk-youtubebot@lichess": {
+    "id": "kchessk-youtubebot",
+    "provider": "lichess",
+    "username": "KchessK-YoutubeBot",
+    "firstSeen": 1623857724753,
+    "lastSeen": 1623858114745
+  },
+  "los-guerreros1@lichess": {
+    "id": "los-guerreros1",
+    "provider": "lichess",
+    "username": "Los-Guerreros1",
+    "firstSeen": 1623858150343,
+    "lastSeen": 1623858835018
+  },
+  "pepejabekhepe@lichess": {
+    "id": "pepejabekhepe",
+    "provider": "lichess",
+    "username": "pepejabekhepe",
+    "firstSeen": 1623858328160,
+    "lastSeen": 1623858424961
+  },
+  "friendly_bot@lichess": {
+    "id": "friendly_bot",
+    "provider": "lichess",
+    "username": "Friendly_Bot",
+    "firstSeen": 1623858575586,
+    "lastSeen": 1623858750856
+  },
+  "hamzaxhakoni@lichess": {
+    "id": "hamzaxhakoni",
+    "provider": "lichess",
+    "username": "hamzaxhakoni",
+    "firstSeen": 1623858654956,
+    "lastSeen": 1623858739888
+  },
+  "satyricon606@lichess": {
+    "id": "satyricon606",
+    "provider": "lichess",
+    "username": "satyricon606",
+    "firstSeen": 1623858757531,
+    "lastSeen": 1623858854048
+  }
+}
