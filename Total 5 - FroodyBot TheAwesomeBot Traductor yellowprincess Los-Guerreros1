@@ -1,0 +1,40 @@
+{
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1623853972259,
+    "lastSeen": 1623883349830,
+    "firstSeenTime": "2:32:52 PM",
+    "lastSeenTime": "5:54:37 PM",
+    "onlineDurationMins": 201.74993333333333
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1623873658781,
+    "lastSeen": 1623882856054
+  },
+  "traductor@lichess": {
+    "id": "traductor",
+    "provider": "lichess",
+    "username": "Traductor",
+    "firstSeen": 1623877279567,
+    "lastSeen": 1623883403934
+  },
+  "yellowprincess@lichess": {
+    "id": "yellowprincess",
+    "provider": "lichess",
+    "username": "yellowprincess",
+    "firstSeen": 1623879989923,
+    "lastSeen": 1623883354946
+  },
+  "los-guerreros1@lichess": {
+    "id": "los-guerreros1",
+    "provider": "lichess",
+    "username": "Los-Guerreros1",
+    "firstSeen": 1623883034069,
+    "lastSeen": 1623883096138
+  }
+}
