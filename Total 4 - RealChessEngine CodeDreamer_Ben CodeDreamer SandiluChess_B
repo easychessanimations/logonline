@@ -1,0 +1,30 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623820442185,
+    "lastSeen": 1623822516549
+  },
+  "codedreamer_ben@lichess": {
+    "id": "codedreamer_ben",
+    "provider": "lichess",
+    "username": "CodeDreamer_Ben",
+    "firstSeen": 1623821630850,
+    "lastSeen": 1623822275469
+  },
+  "codedreamer@lichess": {
+    "id": "codedreamer",
+    "provider": "lichess",
+    "username": "CodeDreamer",
+    "firstSeen": 1623822284233,
+    "lastSeen": 1623822382204
+  },
+  "sandiluchess_b@lichess": {
+    "id": "sandiluchess_b",
+    "provider": "lichess",
+    "username": "SandiluChess_B",
+    "firstSeen": 1623823126630,
+    "lastSeen": 1623823142682
+  }
+}
