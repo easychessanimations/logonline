@@ -1,0 +1,37 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623820442185,
+    "lastSeen": 1623827243654
+  },
+  "themagpie912@lichess": {
+    "id": "themagpie912",
+    "provider": "lichess",
+    "username": "TheMagpie912",
+    "firstSeen": 1623824380420,
+    "lastSeen": 1623827462393
+  },
+  "rodeobot@lichess": {
+    "id": "rodeobot",
+    "provider": "lichess",
+    "username": "RodeoBot",
+    "firstSeen": 1623826915808,
+    "lastSeen": 1623827425090
+  },
+  "realchesswizard@lichess": {
+    "id": "realchesswizard",
+    "provider": "lichess",
+    "username": "RealChessWizard",
+    "firstSeen": 1623827254579,
+    "lastSeen": 1623827426851
+  },
+  "predictor321@lichess": {
+    "id": "predictor321",
+    "provider": "lichess",
+    "username": "Predictor321",
+    "firstSeen": 1623827263657,
+    "lastSeen": 1623827459711
+  }
+}
