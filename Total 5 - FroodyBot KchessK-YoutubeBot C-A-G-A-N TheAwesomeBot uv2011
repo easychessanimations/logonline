@@ -1,0 +1,43 @@
+{
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1623853972259,
+    "lastSeen": 1623873927027,
+    "firstSeenTime": "2:32:52 PM",
+    "lastSeenTime": "5:54:37 PM",
+    "onlineDurationMins": 201.74993333333333
+  },
+  "kchessk-youtubebot@lichess": {
+    "id": "kchessk-youtubebot",
+    "provider": "lichess",
+    "username": "KchessK-YoutubeBot",
+    "firstSeen": 1623860807901,
+    "lastSeen": 1623874489314,
+    "firstSeenTime": "4:26:47 PM",
+    "lastSeenTime": "5:54:38 PM",
+    "onlineDurationMins": 87.83676666666666
+  },
+  "c-a-g-a-n@lichess": {
+    "id": "c-a-g-a-n",
+    "provider": "lichess",
+    "username": "C-A-G-A-N",
+    "firstSeen": 1623871588078,
+    "lastSeen": 1623874434559
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1623873658781,
+    "lastSeen": 1623874318075
+  },
+  "uv2011@lichess": {
+    "id": "uv2011",
+    "provider": "lichess",
+    "username": "uv2011",
+    "firstSeen": 1623874647648,
+    "lastSeen": 1623874647648
+  }
+}
