@@ -1,0 +1,44 @@
+{
+  "los-guerreros1@lichess": {
+    "id": "los-guerreros1",
+    "provider": "lichess",
+    "username": "Los-Guerreros1",
+    "firstSeen": 1623852037867,
+    "lastSeen": 1623857102252
+  },
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1623853972259,
+    "lastSeen": 1623857886798
+  },
+  "augusto_torres@lichess": {
+    "id": "augusto_torres",
+    "provider": "lichess",
+    "username": "Augusto_Torres",
+    "firstSeen": 1623856437888,
+    "lastSeen": 1623857943043
+  },
+  "maiarandommoverbot@lichess": {
+    "id": "maiarandommoverbot",
+    "provider": "lichess",
+    "username": "maiarandommoverbot",
+    "firstSeen": 1623857390278,
+    "lastSeen": 1623857701858
+  },
+  "kchessk-youtubebot@lichess": {
+    "id": "kchessk-youtubebot",
+    "provider": "lichess",
+    "username": "KchessK-YoutubeBot",
+    "firstSeen": 1623857724753,
+    "lastSeen": 1623857931308
+  },
+  "sub_bot@lichess": {
+    "id": "sub_bot",
+    "provider": "lichess",
+    "username": "Sub_Bot",
+    "firstSeen": 1623857760846,
+    "lastSeen": 1623857937810
+  }
+}
