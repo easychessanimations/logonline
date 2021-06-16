@@ -1,0 +1,106 @@
+{
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1623853972259,
+    "lastSeen": 1623860734703,
+    "firstSeenTime": "2:32:52 PM",
+    "lastSeenTime": "4:22:49 PM",
+    "onlineDurationMins": 109.95266666666667
+  },
+  "los-guerreros1@lichess": {
+    "id": "los-guerreros1",
+    "provider": "lichess",
+    "username": "Los-Guerreros1",
+    "firstSeen": 1623858150343,
+    "lastSeen": 1623860709851,
+    "firstSeenTime": "3:42:30 PM",
+    "lastSeenTime": "4:22:48 PM",
+    "onlineDurationMins": 40.3044
+  },
+  "friendly_bot@lichess": {
+    "id": "friendly_bot",
+    "provider": "lichess",
+    "username": "Friendly_Bot",
+    "firstSeen": 1623858575586,
+    "lastSeen": 1623860753471,
+    "firstSeenTime": "3:49:35 PM",
+    "lastSeenTime": "4:21:50 PM",
+    "onlineDurationMins": 32.24395
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1623859673734,
+    "lastSeen": 1623860576081,
+    "firstSeenTime": "4:07:53 PM",
+    "lastSeenTime": "4:22:56 PM",
+    "onlineDurationMins": 15.039116666666667
+  },
+  "superbot1750@lichess": {
+    "id": "superbot1750",
+    "provider": "lichess",
+    "username": "SuperBot1750",
+    "firstSeen": 1623860260760,
+    "lastSeen": 1623860265725,
+    "firstSeenTime": "4:17:40 PM",
+    "lastSeenTime": "4:17:45 PM",
+    "onlineDurationMins": 0.08275
+  },
+  "mrlegendbot@lichess": {
+    "id": "mrlegendbot",
+    "provider": "lichess",
+    "username": "MrLegendBot",
+    "firstSeen": 1623860266672,
+    "lastSeen": 1623860677785,
+    "firstSeenTime": "4:17:46 PM",
+    "lastSeenTime": "4:22:41 PM",
+    "onlineDurationMins": 4.912166666666667
+  },
+  "augusto_torres@lichess": {
+    "id": "augusto_torres",
+    "provider": "lichess",
+    "username": "Augusto_Torres",
+    "firstSeen": 1623860361919,
+    "lastSeen": 1623860361919,
+    "firstSeenTime": "4:19:21 PM",
+    "lastSeenTime": "4:19:21 PM",
+    "onlineDurationMins": 0
+  },
+  "vamos_caballerosbot3@lichess": {
+    "id": "vamos_caballerosbot3",
+    "provider": "lichess",
+    "username": "vamos_caballerosbot3",
+    "firstSeen": 1623860362800,
+    "lastSeen": 1623860645200,
+    "firstSeenTime": "4:19:22 PM",
+    "lastSeenTime": "4:20:05 PM",
+    "onlineDurationMins": 0.7149166666666666
+  },
+  "tijilsinghbot@lichess": {
+    "id": "tijilsinghbot",
+    "provider": "lichess",
+    "username": "tijilsinghbot",
+    "firstSeen": 1623860471103,
+    "lastSeen": 1623860471103,
+    "firstSeenTime": "4:21:11 PM",
+    "lastSeenTime": "4:21:11 PM",
+    "onlineDurationMins": 0
+  },
+  "yellowprincess@lichess": {
+    "id": "yellowprincess",
+    "provider": "lichess",
+    "username": "yellowprincess",
+    "firstSeen": 1623860780684,
+    "lastSeen": 1623860790138
+  },
+  "kchessk-youtubebot@lichess": {
+    "id": "kchessk-youtubebot",
+    "provider": "lichess",
+    "username": "KchessK-YoutubeBot",
+    "firstSeen": 1623860807901,
+    "lastSeen": 1623860807901
+  }
+}
