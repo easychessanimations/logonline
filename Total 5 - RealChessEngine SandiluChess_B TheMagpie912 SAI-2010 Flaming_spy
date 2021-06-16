@@ -1,0 +1,37 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623820442185,
+    "lastSeen": 1623825926542
+  },
+  "sandiluchess_b@lichess": {
+    "id": "sandiluchess_b",
+    "provider": "lichess",
+    "username": "SandiluChess_B",
+    "firstSeen": 1623823126630,
+    "lastSeen": 1623826245025
+  },
+  "themagpie912@lichess": {
+    "id": "themagpie912",
+    "provider": "lichess",
+    "username": "TheMagpie912",
+    "firstSeen": 1623824380420,
+    "lastSeen": 1623826239374
+  },
+  "sai-2010@lichess": {
+    "id": "sai-2010",
+    "provider": "lichess",
+    "username": "SAI-2010",
+    "firstSeen": 1623825930382,
+    "lastSeen": 1623826034706
+  },
+  "flaming_spy@lichess": {
+    "id": "flaming_spy",
+    "provider": "lichess",
+    "username": "Flaming_spy",
+    "firstSeen": 1623826314224,
+    "lastSeen": 1623826314224
+  }
+}
