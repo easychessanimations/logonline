@@ -1,0 +1,56 @@
+{
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1623853972259,
+    "lastSeen": 1623867571338,
+    "firstSeenTime": "2:32:52 PM",
+    "lastSeenTime": "5:54:37 PM",
+    "onlineDurationMins": 201.74993333333333
+  },
+  "yellowprincess@lichess": {
+    "id": "yellowprincess",
+    "provider": "lichess",
+    "username": "yellowprincess",
+    "firstSeen": 1623860780684,
+    "lastSeen": 1623867227011,
+    "firstSeenTime": "4:26:20 PM",
+    "lastSeenTime": "5:57:49 PM",
+    "onlineDurationMins": 91.47328333333333
+  },
+  "kchessk-youtubebot@lichess": {
+    "id": "kchessk-youtubebot",
+    "provider": "lichess",
+    "username": "KchessK-YoutubeBot",
+    "firstSeen": 1623860807901,
+    "lastSeen": 1623867533759,
+    "firstSeenTime": "4:26:47 PM",
+    "lastSeenTime": "5:54:38 PM",
+    "onlineDurationMins": 87.83676666666666
+  },
+  "bigbrainen@lichess": {
+    "id": "bigbrainen",
+    "provider": "lichess",
+    "username": "BigBrainen",
+    "firstSeen": 1623863101984,
+    "lastSeen": 1623867760585,
+    "firstSeenTime": "5:05:01 PM",
+    "lastSeenTime": "5:57:10 PM",
+    "onlineDurationMins": 52.13523333333333
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1623867308965,
+    "lastSeen": 1623867420541
+  },
+  "mrlegendbot@lichess": {
+    "id": "mrlegendbot",
+    "provider": "lichess",
+    "username": "MrLegendBot",
+    "firstSeen": 1623868036675,
+    "lastSeen": 1623868036675
+  }
+}
