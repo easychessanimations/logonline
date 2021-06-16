@@ -1,0 +1,51 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623820442185,
+    "lastSeen": 1623827243654
+  },
+  "sandiluchess_b@lichess": {
+    "id": "sandiluchess_b",
+    "provider": "lichess",
+    "username": "SandiluChess_B",
+    "firstSeen": 1623823126630,
+    "lastSeen": 1623826601946
+  },
+  "themagpie912@lichess": {
+    "id": "themagpie912",
+    "provider": "lichess",
+    "username": "TheMagpie912",
+    "firstSeen": 1623824380420,
+    "lastSeen": 1623827137206
+  },
+  "sai-2010@lichess": {
+    "id": "sai-2010",
+    "provider": "lichess",
+    "username": "SAI-2010",
+    "firstSeen": 1623825930382,
+    "lastSeen": 1623826607423
+  },
+  "rodeobot@lichess": {
+    "id": "rodeobot",
+    "provider": "lichess",
+    "username": "RodeoBot",
+    "firstSeen": 1623826915808,
+    "lastSeen": 1623827237013
+  },
+  "realchesswizard@lichess": {
+    "id": "realchesswizard",
+    "provider": "lichess",
+    "username": "RealChessWizard",
+    "firstSeen": 1623827254579,
+    "lastSeen": 1623827263346
+  },
+  "predictor321@lichess": {
+    "id": "predictor321",
+    "provider": "lichess",
+    "username": "Predictor321",
+    "firstSeen": 1623827263657,
+    "lastSeen": 1623827263657
+  }
+}
