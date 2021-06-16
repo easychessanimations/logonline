@@ -1,0 +1,101 @@
+{
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1623853972259,
+    "lastSeen": 1623864670021,
+    "firstSeenTime": "2:32:52 PM",
+    "lastSeenTime": "5:06:11 PM",
+    "onlineDurationMins": 153.32205
+  },
+  "los-guerreros1@lichess": {
+    "id": "los-guerreros1",
+    "provider": "lichess",
+    "username": "Los-Guerreros1",
+    "firstSeen": 1623858150343,
+    "lastSeen": 1623864918308,
+    "firstSeenTime": "3:42:30 PM",
+    "lastSeenTime": "5:07:24 PM",
+    "onlineDurationMins": 84.89846666666666
+  },
+  "yellowprincess@lichess": {
+    "id": "yellowprincess",
+    "provider": "lichess",
+    "username": "yellowprincess",
+    "firstSeen": 1623860780684,
+    "lastSeen": 1623864541811,
+    "firstSeenTime": "4:26:20 PM",
+    "lastSeenTime": "5:07:33 PM",
+    "onlineDurationMins": 41.21508333333333
+  },
+  "kchessk-youtubebot@lichess": {
+    "id": "kchessk-youtubebot",
+    "provider": "lichess",
+    "username": "KchessK-YoutubeBot",
+    "firstSeen": 1623860807901,
+    "lastSeen": 1623864533924,
+    "firstSeenTime": "4:26:47 PM",
+    "lastSeenTime": "5:00:53 PM",
+    "onlineDurationMins": 34.10111666666667
+  },
+  "bigbrainen@lichess": {
+    "id": "bigbrainen",
+    "provider": "lichess",
+    "username": "BigBrainen",
+    "firstSeen": 1623863101984,
+    "lastSeen": 1623865199500,
+    "firstSeenTime": "5:05:01 PM",
+    "lastSeenTime": "5:10:08 PM",
+    "onlineDurationMins": 5.109266666666667
+  },
+  "yes-standerd-yes@lichess": {
+    "id": "yes-standerd-yes",
+    "provider": "lichess",
+    "username": "Yes-Standerd-Yes",
+    "firstSeen": 1623863962032,
+    "lastSeen": 1623864409257
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1623864214945,
+    "lastSeen": 1623864943640
+  },
+  "no-varants-no@lichess": {
+    "id": "no-varants-no",
+    "provider": "lichess",
+    "username": "No-Varants-No",
+    "firstSeen": 1623864414485,
+    "lastSeen": 1623865209614
+  },
+  "magnuscarlsen444444@lichess": {
+    "id": "magnuscarlsen444444",
+    "provider": "lichess",
+    "username": "MagnusCarlsen444444",
+    "firstSeen": 1623864639746,
+    "lastSeen": 1623864660230
+  },
+  "randomatomicche@lichess": {
+    "id": "randomatomicche",
+    "provider": "lichess",
+    "username": "RandomAtomicche",
+    "firstSeen": 1623864681178,
+    "lastSeen": 1623864902522
+  },
+  "santchess08@lichess": {
+    "id": "santchess08",
+    "provider": "lichess",
+    "username": "SantChess08",
+    "firstSeen": 1623864851674,
+    "lastSeen": 1623864994363
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1623865234824,
+    "lastSeen": 1623865234824
+  }
+}
