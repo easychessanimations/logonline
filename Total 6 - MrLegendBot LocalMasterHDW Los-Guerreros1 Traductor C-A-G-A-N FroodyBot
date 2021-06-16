@@ -1,0 +1,44 @@
+{
+  "mrlegendbot@lichess": {
+    "id": "mrlegendbot",
+    "provider": "lichess",
+    "username": "MrLegendBot",
+    "firstSeen": 1623848237906,
+    "lastSeen": 1623855514703
+  },
+  "localmasterhdw@lichess": {
+    "id": "localmasterhdw",
+    "provider": "lichess",
+    "username": "LocalMasterHDW",
+    "firstSeen": 1623851501909,
+    "lastSeen": 1623855029910
+  },
+  "los-guerreros1@lichess": {
+    "id": "los-guerreros1",
+    "provider": "lichess",
+    "username": "Los-Guerreros1",
+    "firstSeen": 1623852037867,
+    "lastSeen": 1623855534165
+  },
+  "traductor@lichess": {
+    "id": "traductor",
+    "provider": "lichess",
+    "username": "Traductor",
+    "firstSeen": 1623852915040,
+    "lastSeen": 1623855521502
+  },
+  "c-a-g-a-n@lichess": {
+    "id": "c-a-g-a-n",
+    "provider": "lichess",
+    "username": "C-A-G-A-N",
+    "firstSeen": 1623853895358,
+    "lastSeen": 1623854771304
+  },
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1623853972259,
+    "lastSeen": 1623854944017
+  }
+}
