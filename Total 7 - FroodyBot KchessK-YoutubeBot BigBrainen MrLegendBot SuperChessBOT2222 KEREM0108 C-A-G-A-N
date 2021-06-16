@@ -1,0 +1,60 @@
+{
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1623853972259,
+    "lastSeen": 1623871047127,
+    "firstSeenTime": "2:32:52 PM",
+    "lastSeenTime": "5:54:37 PM",
+    "onlineDurationMins": 201.74993333333333
+  },
+  "kchessk-youtubebot@lichess": {
+    "id": "kchessk-youtubebot",
+    "provider": "lichess",
+    "username": "KchessK-YoutubeBot",
+    "firstSeen": 1623860807901,
+    "lastSeen": 1623871489414,
+    "firstSeenTime": "4:26:47 PM",
+    "lastSeenTime": "5:54:38 PM",
+    "onlineDurationMins": 87.83676666666666
+  },
+  "bigbrainen@lichess": {
+    "id": "bigbrainen",
+    "provider": "lichess",
+    "username": "BigBrainen",
+    "firstSeen": 1623863101984,
+    "lastSeen": 1623871417958,
+    "firstSeenTime": "5:05:01 PM",
+    "lastSeenTime": "5:57:10 PM",
+    "onlineDurationMins": 52.13523333333333
+  },
+  "mrlegendbot@lichess": {
+    "id": "mrlegendbot",
+    "provider": "lichess",
+    "username": "MrLegendBot",
+    "firstSeen": 1623868036675,
+    "lastSeen": 1623871418113
+  },
+  "superchessbot2222@lichess": {
+    "id": "superchessbot2222",
+    "provider": "lichess",
+    "username": "SuperChessBOT2222",
+    "firstSeen": 1623870883140,
+    "lastSeen": 1623871354023
+  },
+  "kerem0108@lichess": {
+    "id": "kerem0108",
+    "provider": "lichess",
+    "username": "KEREM0108",
+    "firstSeen": 1623871210057,
+    "lastSeen": 1623871219741
+  },
+  "c-a-g-a-n@lichess": {
+    "id": "c-a-g-a-n",
+    "provider": "lichess",
+    "username": "C-A-G-A-N",
+    "firstSeen": 1623871588078,
+    "lastSeen": 1623871588078
+  }
+}
