@@ -1,0 +1,23 @@
+{
+  "administracionbot@lichess": {
+    "id": "administracionbot",
+    "provider": "lichess",
+    "username": "Administracionbot",
+    "firstSeen": 1623932304642,
+    "lastSeen": 1623935342068
+  },
+  "chess_bot_82@lichess": {
+    "id": "chess_bot_82",
+    "provider": "lichess",
+    "username": "Chess_bot_82",
+    "firstSeen": 1623935401863,
+    "lastSeen": 1623936160719
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623935609961,
+    "lastSeen": 1623935693614
+  }
+}
