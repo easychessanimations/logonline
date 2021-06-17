@@ -1,0 +1,30 @@
+{
+  "administracionbot@lichess": {
+    "id": "administracionbot",
+    "provider": "lichess",
+    "username": "Administracionbot",
+    "firstSeen": 1623932304642,
+    "lastSeen": 1623935342068
+  },
+  "bunny_2021@lichess": {
+    "id": "bunny_2021",
+    "provider": "lichess",
+    "username": "bunny_2021",
+    "firstSeen": 1623934857315,
+    "lastSeen": 1623935180975
+  },
+  "chess_bot_82@lichess": {
+    "id": "chess_bot_82",
+    "provider": "lichess",
+    "username": "Chess_bot_82",
+    "firstSeen": 1623935401863,
+    "lastSeen": 1623935527694
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623935609961,
+    "lastSeen": 1623935609961
+  }
+}
