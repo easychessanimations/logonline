@@ -1,0 +1,30 @@
+{
+  "mrlegendbot@lichess": {
+    "id": "mrlegendbot",
+    "provider": "lichess",
+    "username": "MrLegendBot",
+    "firstSeen": 1623926368255,
+    "lastSeen": 1623931955719
+  },
+  "lightspeedcomet@lichess": {
+    "id": "lightspeedcomet",
+    "provider": "lichess",
+    "username": "LightSpeedComet",
+    "firstSeen": 1623930696764,
+    "lastSeen": 1623932032825
+  },
+  "profesorcheckmatebot@lichess": {
+    "id": "profesorcheckmatebot",
+    "provider": "lichess",
+    "username": "ProfesorCheckMateBot",
+    "firstSeen": 1623931393740,
+    "lastSeen": 1623931715135
+  },
+  "yug_kamal@lichess": {
+    "id": "yug_kamal",
+    "provider": "lichess",
+    "username": "Yug_kamal",
+    "firstSeen": 1623931956236,
+    "lastSeen": 1623932026557
+  }
+}
