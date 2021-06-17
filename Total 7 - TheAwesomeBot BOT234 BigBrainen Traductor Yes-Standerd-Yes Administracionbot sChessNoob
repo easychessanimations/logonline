@@ -1,0 +1,51 @@
+{
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1623945524882,
+    "lastSeen": 1623952018770
+  },
+  "bot234@lichess": {
+    "id": "bot234",
+    "provider": "lichess",
+    "username": "BOT234",
+    "firstSeen": 1623947904736,
+    "lastSeen": 1623952515869
+  },
+  "bigbrainen@lichess": {
+    "id": "bigbrainen",
+    "provider": "lichess",
+    "username": "BigBrainen",
+    "firstSeen": 1623951061172,
+    "lastSeen": 1623952457288
+  },
+  "traductor@lichess": {
+    "id": "traductor",
+    "provider": "lichess",
+    "username": "Traductor",
+    "firstSeen": 1623951529220,
+    "lastSeen": 1623952459643
+  },
+  "yes-standerd-yes@lichess": {
+    "id": "yes-standerd-yes",
+    "provider": "lichess",
+    "username": "Yes-Standerd-Yes",
+    "firstSeen": 1623951778335,
+    "lastSeen": 1623952439402
+  },
+  "administracionbot@lichess": {
+    "id": "administracionbot",
+    "provider": "lichess",
+    "username": "Administracionbot",
+    "firstSeen": 1623951789314,
+    "lastSeen": 1623952455608
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1623952522640,
+    "lastSeen": 1623952522641
+  }
+}
