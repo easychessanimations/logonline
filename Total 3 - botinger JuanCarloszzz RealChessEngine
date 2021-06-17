@@ -1,0 +1,23 @@
+{
+  "botinger@lichess": {
+    "id": "botinger",
+    "provider": "lichess",
+    "username": "botinger",
+    "firstSeen": 1623940393209,
+    "lastSeen": 1623940580447
+  },
+  "juancarloszzz@lichess": {
+    "id": "juancarloszzz",
+    "provider": "lichess",
+    "username": "JuanCarloszzz",
+    "firstSeen": 1623940830651,
+    "lastSeen": 1623940870679
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1623941168813,
+    "lastSeen": 1623941168813
+  }
+}
