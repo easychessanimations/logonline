@@ -1,0 +1,33 @@
+{
+  "bot234@lichess": {
+    "id": "bot234",
+    "provider": "lichess",
+    "username": "BOT234",
+    "firstSeen": 1623947904736,
+    "lastSeen": 1623969538631,
+    "firstSeenTime": "4:38:24 PM",
+    "lastSeenTime": "6:13:10 PM",
+    "onlineDurationMins": 94.76676666666667
+  },
+  "erisxxb@lichess": {
+    "id": "erisxxb",
+    "provider": "lichess",
+    "username": "ErisXXB",
+    "firstSeen": 1623960782793,
+    "lastSeen": 1623970078038
+  },
+  "administracionbot@lichess": {
+    "id": "administracionbot",
+    "provider": "lichess",
+    "username": "Administracionbot",
+    "firstSeen": 1623966731414,
+    "lastSeen": 1623969599245
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1623967149592,
+    "lastSeen": 1623969872510
+  }
+}
