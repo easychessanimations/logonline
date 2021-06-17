@@ -1,0 +1,52 @@
+{
+  "bot234@lichess": {
+    "id": "bot234",
+    "provider": "lichess",
+    "username": "BOT234",
+    "firstSeen": 1623947904736,
+    "lastSeen": 1623953359872,
+    "firstSeenTime": "4:38:24 PM",
+    "lastSeenTime": "5:55:15 PM",
+    "onlineDurationMins": 76.85221666666666
+  },
+  "bigbrainen@lichess": {
+    "id": "bigbrainen",
+    "provider": "lichess",
+    "username": "BigBrainen",
+    "firstSeen": 1623951061172,
+    "lastSeen": 1623953342924,
+    "firstSeenTime": "5:31:01 PM",
+    "lastSeenTime": "5:54:17 PM",
+    "onlineDurationMins": 23.2686
+  },
+  "traductor@lichess": {
+    "id": "traductor",
+    "provider": "lichess",
+    "username": "Traductor",
+    "firstSeen": 1623951529220,
+    "lastSeen": 1623953262865,
+    "firstSeenTime": "5:38:49 PM",
+    "lastSeenTime": "5:54:19 PM",
+    "onlineDurationMins": 15.50705
+  },
+  "yes-standerd-yes@lichess": {
+    "id": "yes-standerd-yes",
+    "provider": "lichess",
+    "username": "Yes-Standerd-Yes",
+    "firstSeen": 1623951778335,
+    "lastSeen": 1623953281000,
+    "firstSeenTime": "5:42:58 PM",
+    "lastSeenTime": "5:53:59 PM",
+    "onlineDurationMins": 11.017783333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1623952522640,
+    "lastSeen": 1623952523113,
+    "firstSeenTime": "5:55:22 PM",
+    "lastSeenTime": "5:55:22 PM",
+    "onlineDurationMins": 0.000016666666666666667
+  }
+}
