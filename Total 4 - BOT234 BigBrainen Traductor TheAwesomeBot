@@ -1,0 +1,39 @@
+{
+  "bot234@lichess": {
+    "id": "bot234",
+    "provider": "lichess",
+    "username": "BOT234",
+    "firstSeen": 1623947904736,
+    "lastSeen": 1623954414685,
+    "firstSeenTime": "4:38:24 PM",
+    "lastSeenTime": "6:13:10 PM",
+    "onlineDurationMins": 94.76676666666667
+  },
+  "bigbrainen@lichess": {
+    "id": "bigbrainen",
+    "provider": "lichess",
+    "username": "BigBrainen",
+    "firstSeen": 1623951061172,
+    "lastSeen": 1623954550422,
+    "firstSeenTime": "5:31:01 PM",
+    "lastSeenTime": "6:09:02 PM",
+    "onlineDurationMins": 38.0292
+  },
+  "traductor@lichess": {
+    "id": "traductor",
+    "provider": "lichess",
+    "username": "Traductor",
+    "firstSeen": 1623951529220,
+    "lastSeen": 1623954631472,
+    "firstSeenTime": "5:38:49 PM",
+    "lastSeenTime": "6:07:42 PM",
+    "onlineDurationMins": 28.894083333333334
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1623954093993,
+    "lastSeen": 1623954093994
+  }
+}
