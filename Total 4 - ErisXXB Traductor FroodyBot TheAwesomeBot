@@ -1,0 +1,33 @@
+{
+  "erisxxb@lichess": {
+    "id": "erisxxb",
+    "provider": "lichess",
+    "username": "ErisXXB",
+    "firstSeen": 1624047766060,
+    "lastSeen": 1624059224506,
+    "firstSeenTime": "8:22:46 PM",
+    "lastSeenTime": "8:33:39 PM",
+    "onlineDurationMins": 10.894416666666666
+  },
+  "traductor@lichess": {
+    "id": "traductor",
+    "provider": "lichess",
+    "username": "Traductor",
+    "firstSeen": 1624053577610,
+    "lastSeen": 1624059020712
+  },
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1624058036347,
+    "lastSeen": 1624058696363
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1624059286073,
+    "lastSeen": 1624059286073
+  }
+}
