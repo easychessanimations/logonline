@@ -1,0 +1,26 @@
+{
+  "proustagm@lichess": {
+    "id": "proustagm",
+    "provider": "lichess",
+    "username": "proustagm",
+    "firstSeen": 1624022612898,
+    "lastSeen": 1624025280819,
+    "firstSeenTime": "1:23:32 PM",
+    "lastSeenTime": "1:23:38 PM",
+    "onlineDurationMins": 0.08633333333333333
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1624023725685,
+    "lastSeen": 1624024383263
+  },
+  "bigbrainen@lichess": {
+    "id": "bigbrainen",
+    "provider": "lichess",
+    "username": "BigBrainen",
+    "firstSeen": 1624025030909,
+    "lastSeen": 1624025030909
+  }
+}
