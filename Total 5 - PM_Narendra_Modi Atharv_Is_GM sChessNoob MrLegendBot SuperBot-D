@@ -1,0 +1,46 @@
+{
+  "pm_narendra_modi@lichess": {
+    "id": "pm_narendra_modi",
+    "provider": "lichess",
+    "username": "PM_Narendra_Modi",
+    "firstSeen": 1623987675122,
+    "lastSeen": 1624003586653,
+    "firstSeenTime": "3:41:15 AM",
+    "lastSeenTime": "8:06:26 AM",
+    "onlineDurationMins": 265.19218333333333
+  },
+  "atharv_is_gm@lichess": {
+    "id": "atharv_is_gm",
+    "provider": "lichess",
+    "username": "Atharv_Is_GM",
+    "firstSeen": 1624000573224,
+    "lastSeen": 1624003573258,
+    "firstSeenTime": "7:16:13 AM",
+    "lastSeenTime": "8:06:13 AM",
+    "onlineDurationMins": 50.000566666666664
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1624003637687,
+    "lastSeen": 1624003638048,
+    "firstSeenTime": "8:07:17 AM",
+    "lastSeenTime": "8:07:17 AM",
+    "onlineDurationMins": 0
+  },
+  "mrlegendbot@lichess": {
+    "id": "mrlegendbot",
+    "provider": "lichess",
+    "username": "MrLegendBot",
+    "firstSeen": 1624003744111,
+    "lastSeen": 1624004035552
+  },
+  "superbot-d@lichess": {
+    "id": "superbot-d",
+    "provider": "lichess",
+    "username": "SuperBot-D",
+    "firstSeen": 1624004038059,
+    "lastSeen": 1624004038059
+  }
+}
