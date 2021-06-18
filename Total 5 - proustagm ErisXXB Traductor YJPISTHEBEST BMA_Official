@@ -1,0 +1,52 @@
+{
+  "proustagm@lichess": {
+    "id": "proustagm",
+    "provider": "lichess",
+    "username": "proustagm",
+    "firstSeen": 1624022612898,
+    "lastSeen": 1624031547548,
+    "firstSeenTime": "1:23:32 PM",
+    "lastSeenTime": "3:50:31 PM",
+    "onlineDurationMins": 146.96956666666668
+  },
+  "erisxxb@lichess": {
+    "id": "erisxxb",
+    "provider": "lichess",
+    "username": "ErisXXB",
+    "firstSeen": 1624027195808,
+    "lastSeen": 1624032289355,
+    "firstSeenTime": "2:39:55 PM",
+    "lastSeenTime": "3:50:00 PM",
+    "onlineDurationMins": 70.08071666666666
+  },
+  "traductor@lichess": {
+    "id": "traductor",
+    "provider": "lichess",
+    "username": "Traductor",
+    "firstSeen": 1624030753410,
+    "lastSeen": 1624032399270,
+    "firstSeenTime": "3:39:13 PM",
+    "lastSeenTime": "3:40:14 PM",
+    "onlineDurationMins": 1.0183666666666666
+  },
+  "yjpisthebest@lichess": {
+    "id": "yjpisthebest",
+    "provider": "lichess",
+    "username": "YJPISTHEBEST",
+    "firstSeen": 1624030822438,
+    "lastSeen": 1624032325146,
+    "firstSeenTime": "3:40:22 PM",
+    "lastSeenTime": "3:49:20 PM",
+    "onlineDurationMins": 8.971166666666667
+  },
+  "bma_official@lichess": {
+    "id": "bma_official",
+    "provider": "lichess",
+    "username": "BMA_Official",
+    "firstSeen": 1624030968929,
+    "lastSeen": 1624032322148,
+    "firstSeenTime": "3:42:48 PM",
+    "lastSeenTime": "3:50:04 PM",
+    "onlineDurationMins": 7.267433333333333
+  }
+}
