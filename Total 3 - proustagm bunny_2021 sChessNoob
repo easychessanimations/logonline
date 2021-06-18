@@ -1,0 +1,32 @@
+{
+  "proustagm@lichess": {
+    "id": "proustagm",
+    "provider": "lichess",
+    "username": "proustagm",
+    "firstSeen": 1624014570204,
+    "lastSeen": 1624017741352,
+    "firstSeenTime": "11:09:30 AM",
+    "lastSeenTime": "11:58:40 AM",
+    "onlineDurationMins": 49.16748333333334
+  },
+  "bunny_2021@lichess": {
+    "id": "bunny_2021",
+    "provider": "lichess",
+    "username": "bunny_2021",
+    "firstSeen": 1624017092174,
+    "lastSeen": 1624017759817,
+    "firstSeenTime": "11:51:32 AM",
+    "lastSeenTime": "11:56:28 AM",
+    "onlineDurationMins": 4.9378166666666665
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1624017730180,
+    "lastSeen": 1624017730653,
+    "firstSeenTime": "12:02:10 PM",
+    "lastSeenTime": "12:02:10 PM",
+    "onlineDurationMins": 0
+  }
+}
