@@ -1,0 +1,60 @@
+{
+  "erisxxb@lichess": {
+    "id": "erisxxb",
+    "provider": "lichess",
+    "username": "ErisXXB",
+    "firstSeen": 1624027195808,
+    "lastSeen": 1624043491347,
+    "firstSeenTime": "2:39:55 PM",
+    "lastSeenTime": "6:38:45 PM",
+    "onlineDurationMins": 238.8348
+  },
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1624041054176,
+    "lastSeen": 1624043536569,
+    "firstSeenTime": "6:30:54 PM",
+    "lastSeenTime": "6:42:59 PM",
+    "onlineDurationMins": 12.0886
+  },
+  "proustagm@lichess": {
+    "id": "proustagm",
+    "provider": "lichess",
+    "username": "proustagm",
+    "firstSeen": 1624041070833,
+    "lastSeen": 1624043376758,
+    "firstSeenTime": "6:31:10 PM",
+    "lastSeenTime": "6:44:04 PM",
+    "onlineDurationMins": 12.900883333333333
+  },
+  "harumscarum@lichess": {
+    "id": "harumscarum",
+    "provider": "lichess",
+    "username": "Harumscarum",
+    "firstSeen": 1624042520346,
+    "lastSeen": 1624042649047
+  },
+  "administracionbot@lichess": {
+    "id": "administracionbot",
+    "provider": "lichess",
+    "username": "Administracionbot",
+    "firstSeen": 1624043424209,
+    "lastSeen": 1624043471818
+  },
+  "robotitodiego@lichess": {
+    "id": "robotitodiego",
+    "provider": "lichess",
+    "username": "RobotitoDiego",
+    "firstSeen": 1624043508838,
+    "lastSeen": 1624043525752
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1624043538409,
+    "lastSeen": 1624043538409
+  }
+}
