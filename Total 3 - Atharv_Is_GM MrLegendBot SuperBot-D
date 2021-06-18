@@ -1,0 +1,26 @@
+{
+  "atharv_is_gm@lichess": {
+    "id": "atharv_is_gm",
+    "provider": "lichess",
+    "username": "Atharv_Is_GM",
+    "firstSeen": 1624000573224,
+    "lastSeen": 1624004053501,
+    "firstSeenTime": "7:16:13 AM",
+    "lastSeenTime": "8:06:13 AM",
+    "onlineDurationMins": 50.000566666666664
+  },
+  "mrlegendbot@lichess": {
+    "id": "mrlegendbot",
+    "provider": "lichess",
+    "username": "MrLegendBot",
+    "firstSeen": 1624003744111,
+    "lastSeen": 1624004543187
+  },
+  "superbot-d@lichess": {
+    "id": "superbot-d",
+    "provider": "lichess",
+    "username": "SuperBot-D",
+    "firstSeen": 1624004038059,
+    "lastSeen": 1624004212071
+  }
+}
