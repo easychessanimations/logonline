@@ -1,0 +1,56 @@
+{
+  "proustagm@lichess": {
+    "id": "proustagm",
+    "provider": "lichess",
+    "username": "proustagm",
+    "firstSeen": 1624022612898,
+    "lastSeen": 1624029149835,
+    "firstSeenTime": "1:23:32 PM",
+    "lastSeenTime": "3:01:16 PM",
+    "onlineDurationMins": 97.72233333333334
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1624025457877,
+    "lastSeen": 1624028803751,
+    "firstSeenTime": "2:10:57 PM",
+    "lastSeenTime": "2:54:47 PM",
+    "onlineDurationMins": 43.824283333333334
+  },
+  "erisxxb@lichess": {
+    "id": "erisxxb",
+    "provider": "lichess",
+    "username": "ErisXXB",
+    "firstSeen": 1624027195808,
+    "lastSeen": 1624029262564,
+    "firstSeenTime": "2:39:55 PM",
+    "lastSeenTime": "2:55:11 PM",
+    "onlineDurationMins": 15.254216666666666
+  },
+  "administracionbot@lichess": {
+    "id": "administracionbot",
+    "provider": "lichess",
+    "username": "Administracionbot",
+    "firstSeen": 1624028095114,
+    "lastSeen": 1624029392594,
+    "firstSeenTime": "2:54:55 PM",
+    "lastSeenTime": "3:00:41 PM",
+    "onlineDurationMins": 5.774116666666667
+  },
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1624028744624,
+    "lastSeen": 1624029396431
+  },
+  "86110864@github": {
+    "id": "86110864",
+    "provider": "github",
+    "username": "ErisXXB",
+    "firstSeen": 1624028933767,
+    "lastSeen": 1624029025508
+  }
+}
