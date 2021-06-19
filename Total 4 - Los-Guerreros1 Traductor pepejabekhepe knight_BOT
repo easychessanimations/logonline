@@ -1,0 +1,33 @@
+{
+  "los-guerreros1@lichess": {
+    "id": "los-guerreros1",
+    "provider": "lichess",
+    "username": "Los-Guerreros1",
+    "firstSeen": 1624110162181,
+    "lastSeen": 1624117219561,
+    "firstSeenTime": "1:42:42 PM",
+    "lastSeenTime": "3:01:57 PM",
+    "onlineDurationMins": 79.26148333333333
+  },
+  "traductor@lichess": {
+    "id": "traductor",
+    "provider": "lichess",
+    "username": "Traductor",
+    "firstSeen": 1624116132694,
+    "lastSeen": 1624117254643
+  },
+  "pepejabekhepe@lichess": {
+    "id": "pepejabekhepe",
+    "provider": "lichess",
+    "username": "pepejabekhepe",
+    "firstSeen": 1624116678726,
+    "lastSeen": 1624116684716
+  },
+  "knight_bot@lichess": {
+    "id": "knight_bot",
+    "provider": "lichess",
+    "username": "knight_BOT",
+    "firstSeen": 1624117105958,
+    "lastSeen": 1624117312771
+  }
+}
