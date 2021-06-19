@@ -1,0 +1,29 @@
+{
+  "proustagm@lichess": {
+    "id": "proustagm",
+    "provider": "lichess",
+    "username": "proustagm",
+    "firstSeen": 1624083127145,
+    "lastSeen": 1624089580701,
+    "firstSeenTime": "6:12:07 AM",
+    "lastSeenTime": "7:45:59 AM",
+    "onlineDurationMins": 93.87655
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1624086997911,
+    "lastSeen": 1624089168638,
+    "firstSeenTime": "7:16:37 AM",
+    "lastSeenTime": "7:44:19 AM",
+    "onlineDurationMins": 27.686616666666666
+  },
+  "marine-27@lichess": {
+    "id": "marine-27",
+    "provider": "lichess",
+    "username": "Marine-27",
+    "firstSeen": 1624089404485,
+    "lastSeen": 1624089515598
+  }
+}
