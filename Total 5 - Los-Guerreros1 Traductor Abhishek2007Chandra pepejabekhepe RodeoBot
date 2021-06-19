@@ -1,0 +1,40 @@
+{
+  "los-guerreros1@lichess": {
+    "id": "los-guerreros1",
+    "provider": "lichess",
+    "username": "Los-Guerreros1",
+    "firstSeen": 1624110162181,
+    "lastSeen": 1624118539934,
+    "firstSeenTime": "1:42:42 PM",
+    "lastSeenTime": "3:01:57 PM",
+    "onlineDurationMins": 79.26148333333333
+  },
+  "traductor@lichess": {
+    "id": "traductor",
+    "provider": "lichess",
+    "username": "Traductor",
+    "firstSeen": 1624116132694,
+    "lastSeen": 1624118608323
+  },
+  "abhishek2007chandra@lichess": {
+    "id": "abhishek2007chandra",
+    "provider": "lichess",
+    "username": "Abhishek2007Chandra",
+    "firstSeen": 1624117535073,
+    "lastSeen": 1624118576463
+  },
+  "pepejabekhepe@lichess": {
+    "id": "pepejabekhepe",
+    "provider": "lichess",
+    "username": "pepejabekhepe",
+    "firstSeen": 1624118413521,
+    "lastSeen": 1624118476820
+  },
+  "rodeobot@lichess": {
+    "id": "rodeobot",
+    "provider": "lichess",
+    "username": "RodeoBot",
+    "firstSeen": 1624118784945,
+    "lastSeen": 1624118784945
+  }
+}
