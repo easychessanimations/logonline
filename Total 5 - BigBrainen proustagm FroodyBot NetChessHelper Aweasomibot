@@ -1,0 +1,37 @@
+{
+  "bigbrainen@lichess": {
+    "id": "bigbrainen",
+    "provider": "lichess",
+    "username": "BigBrainen",
+    "firstSeen": 1624082335320,
+    "lastSeen": 1624083988376
+  },
+  "proustagm@lichess": {
+    "id": "proustagm",
+    "provider": "lichess",
+    "username": "proustagm",
+    "firstSeen": 1624083127145,
+    "lastSeen": 1624083884846
+  },
+  "froodybot@lichess": {
+    "id": "froodybot",
+    "provider": "lichess",
+    "username": "FroodyBot",
+    "firstSeen": 1624083979164,
+    "lastSeen": 1624083982361
+  },
+  "netchesshelper@lichess": {
+    "id": "netchesshelper",
+    "provider": "lichess",
+    "username": "NetChessHelper",
+    "firstSeen": 1624084000830,
+    "lastSeen": 1624084004792
+  },
+  "aweasomibot@lichess": {
+    "id": "aweasomibot",
+    "provider": "lichess",
+    "username": "Aweasomibot",
+    "firstSeen": 1624084123855,
+    "lastSeen": 1624084123855
+  }
+}
