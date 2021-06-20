@@ -1,0 +1,57 @@
+{
+  "bot_antichess_atomik@lichess": {
+    "id": "bot_antichess_atomik",
+    "provider": "lichess",
+    "username": "BOT_antichess_atomik",
+    "firstSeen": 1624206972075,
+    "lastSeen": 1624210085707,
+    "firstSeenTime": "4:36:12 PM",
+    "lastSeenTime": "5:00:39 PM",
+    "onlineDurationMins": 24.4624
+  },
+  "warriorengine256@lichess": {
+    "id": "warriorengine256",
+    "provider": "lichess",
+    "username": "WarriorEngine256",
+    "firstSeen": 1624208675738,
+    "lastSeen": 1624210312572,
+    "firstSeenTime": "5:04:35 PM",
+    "lastSeenTime": "5:04:44 PM",
+    "onlineDurationMins": 0.14636666666666667
+  },
+  "stckfshwhatever256@lichess": {
+    "id": "stckfshwhatever256",
+    "provider": "lichess",
+    "username": "Stckfshwhatever256",
+    "firstSeen": 1624209543910,
+    "lastSeen": 1624210312545
+  },
+  "bigbrainen@lichess": {
+    "id": "bigbrainen",
+    "provider": "lichess",
+    "username": "BigBrainen",
+    "firstSeen": 1624209777966,
+    "lastSeen": 1624210403058
+  },
+  "arsy_master1@lichess": {
+    "id": "arsy_master1",
+    "provider": "lichess",
+    "username": "Arsy_Master1",
+    "firstSeen": 1624209966538,
+    "lastSeen": 1624210092708
+  },
+  "chess_king-1@lichess": {
+    "id": "chess_king-1",
+    "provider": "lichess",
+    "username": "chess_King-1",
+    "firstSeen": 1624210076866,
+    "lastSeen": 1624210177632
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1624210613569,
+    "lastSeen": 1624210613569
+  }
+}
