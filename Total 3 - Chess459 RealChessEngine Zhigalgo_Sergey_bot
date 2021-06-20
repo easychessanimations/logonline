@@ -1,0 +1,32 @@
+{
+  "chess459@lichess": {
+    "id": "chess459",
+    "provider": "lichess",
+    "username": "Chess459",
+    "firstSeen": 1624166558384,
+    "lastSeen": 1624171060974,
+    "firstSeenTime": "5:22:38 AM",
+    "lastSeenTime": "6:18:44 AM",
+    "onlineDurationMins": 56.10966666666667
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1624167917167,
+    "lastSeen": 1624170932727,
+    "firstSeenTime": "5:45:17 AM",
+    "lastSeenTime": "6:18:41 AM",
+    "onlineDurationMins": 33.41283333333333
+  },
+  "zhigalgo_sergey_bot@lichess": {
+    "id": "zhigalgo_sergey_bot",
+    "provider": "lichess",
+    "username": "Zhigalgo_Sergey_bot",
+    "firstSeen": 1624169756159,
+    "lastSeen": 1624170424222,
+    "firstSeenTime": "6:15:56 AM",
+    "lastSeenTime": "6:16:06 AM",
+    "onlineDurationMins": 0.17701666666666666
+  }
+}
