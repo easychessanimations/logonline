@@ -1,0 +1,62 @@
+{
+  "windy-zeus@lichess": {
+    "id": "windy-zeus",
+    "provider": "lichess",
+    "username": "WINDY-ZEUS",
+    "firstSeen": 1624179019434,
+    "lastSeen": 1624206067569,
+    "firstSeenTime": "8:50:19 AM",
+    "lastSeenTime": "4:21:07 PM",
+    "onlineDurationMins": 450.80225
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1624204134707,
+    "lastSeen": 1624206518706,
+    "firstSeenTime": "3:48:54 PM",
+    "lastSeenTime": "4:28:38 PM",
+    "onlineDurationMins": 39.73331666666667
+  },
+  "riga_wizard@lichess": {
+    "id": "riga_wizard",
+    "provider": "lichess",
+    "username": "Riga_Wizard",
+    "firstSeen": 1624204148157,
+    "lastSeen": 1624206432013,
+    "firstSeenTime": "3:49:08 PM",
+    "lastSeenTime": "4:27:12 PM",
+    "onlineDurationMins": 38.06426666666667
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1624204741291,
+    "lastSeen": 1624206192288,
+    "firstSeenTime": "3:59:01 PM",
+    "lastSeenTime": "4:23:12 PM",
+    "onlineDurationMins": 24.183283333333332
+  },
+  "ioa-official@lichess": {
+    "id": "ioa-official",
+    "provider": "lichess",
+    "username": "IOA-OFFICIAL",
+    "firstSeen": 1624206165790,
+    "lastSeen": 1624206176145,
+    "firstSeenTime": "4:22:45 PM",
+    "lastSeenTime": "4:22:56 PM",
+    "onlineDurationMins": 0.17258333333333334
+  },
+  "mrlegendbot@lichess": {
+    "id": "mrlegendbot",
+    "provider": "lichess",
+    "username": "MrLegendBot",
+    "firstSeen": 1624206376609,
+    "lastSeen": 1624206453782,
+    "firstSeenTime": "4:26:16 PM",
+    "lastSeenTime": "4:27:33 PM",
+    "onlineDurationMins": 1.2862166666666666
+  }
+}
