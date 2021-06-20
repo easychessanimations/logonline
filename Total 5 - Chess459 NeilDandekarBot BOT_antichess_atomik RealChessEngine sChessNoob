@@ -1,0 +1,40 @@
+{
+  "chess459@lichess": {
+    "id": "chess459",
+    "provider": "lichess",
+    "username": "Chess459",
+    "firstSeen": 1624166558384,
+    "lastSeen": 1624177848628,
+    "firstSeenTime": "5:22:38 AM",
+    "lastSeenTime": "6:51:48 AM",
+    "onlineDurationMins": 89.16526666666667
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1624174230163,
+    "lastSeen": 1624178148511
+  },
+  "bot_antichess_atomik@lichess": {
+    "id": "bot_antichess_atomik",
+    "provider": "lichess",
+    "username": "BOT_antichess_atomik",
+    "firstSeen": 1624175066376,
+    "lastSeen": 1624178226591
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1624177463308,
+    "lastSeen": 1624178152916
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1624178467152,
+    "lastSeen": 1624178467152
+  }
+}
