@@ -1,0 +1,47 @@
+{
+  "windy-zeus@lichess": {
+    "id": "windy-zeus",
+    "provider": "lichess",
+    "username": "WINDY-ZEUS",
+    "firstSeen": 1624179019434,
+    "lastSeen": 1624201871250,
+    "firstSeenTime": "8:50:19 AM",
+    "lastSeenTime": "12:12:06 PM",
+    "onlineDurationMins": 201.77611666666667
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1624199018180,
+    "lastSeen": 1624201211879
+  },
+  "chess-ab-school01@lichess": {
+    "id": "chess-ab-school01",
+    "provider": "lichess",
+    "username": "CHESS-AB-SCHOOL01",
+    "firstSeen": 1624199971855,
+    "lastSeen": 1624202087818
+  },
+  "chess_king-1@lichess": {
+    "id": "chess_king-1",
+    "provider": "lichess",
+    "username": "chess_King-1",
+    "firstSeen": 1624200441975,
+    "lastSeen": 1624201946320
+  },
+  "yellowprincess@lichess": {
+    "id": "yellowprincess",
+    "provider": "lichess",
+    "username": "yellowprincess",
+    "firstSeen": 1624201852424,
+    "lastSeen": 1624201860942
+  },
+  "bot_antichess_atomik@lichess": {
+    "id": "bot_antichess_atomik",
+    "provider": "lichess",
+    "username": "BOT_antichess_atomik",
+    "firstSeen": 1624201889012,
+    "lastSeen": 1624201889012
+  }
+}
