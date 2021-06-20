@@ -1,0 +1,79 @@
+{
+  "windy-zeus@lichess": {
+    "id": "windy-zeus",
+    "provider": "lichess",
+    "username": "WINDY-ZEUS",
+    "firstSeen": 1624179019434,
+    "lastSeen": 1624207207622,
+    "firstSeenTime": "8:50:19 AM",
+    "lastSeenTime": "4:40:07 PM",
+    "onlineDurationMins": 469.80313333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1624204134707,
+    "lastSeen": 1624207322756,
+    "firstSeenTime": "3:48:54 PM",
+    "lastSeenTime": "4:42:02 PM",
+    "onlineDurationMins": 53.13415
+  },
+  "riga_wizard@lichess": {
+    "id": "riga_wizard",
+    "provider": "lichess",
+    "username": "Riga_Wizard",
+    "firstSeen": 1624204148157,
+    "lastSeen": 1624207300041,
+    "firstSeenTime": "3:49:08 PM",
+    "lastSeenTime": "4:41:40 PM",
+    "onlineDurationMins": 52.5314
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1624204741291,
+    "lastSeen": 1624206968576,
+    "firstSeenTime": "3:59:01 PM",
+    "lastSeenTime": "4:36:08 PM",
+    "onlineDurationMins": 37.12141666666667
+  },
+  "ioa-official@lichess": {
+    "id": "ioa-official",
+    "provider": "lichess",
+    "username": "IOA-OFFICIAL",
+    "firstSeen": 1624206165790,
+    "lastSeen": 1624206565833,
+    "firstSeenTime": "4:22:45 PM",
+    "lastSeenTime": "4:29:25 PM",
+    "onlineDurationMins": 6.667383333333333
+  },
+  "mrlegendbot@lichess": {
+    "id": "mrlegendbot",
+    "provider": "lichess",
+    "username": "MrLegendBot",
+    "firstSeen": 1624206376609,
+    "lastSeen": 1624207310822,
+    "firstSeenTime": "4:26:16 PM",
+    "lastSeenTime": "4:41:50 PM",
+    "onlineDurationMins": 15.570216666666667
+  },
+  "bot_antichess_atomik@lichess": {
+    "id": "bot_antichess_atomik",
+    "provider": "lichess",
+    "username": "BOT_antichess_atomik",
+    "firstSeen": 1624206972075,
+    "lastSeen": 1624207094251,
+    "firstSeenTime": "4:36:12 PM",
+    "lastSeenTime": "4:38:14 PM",
+    "onlineDurationMins": 2.0362666666666667
+  },
+  "emre-bora-m2-4c@lichess": {
+    "id": "emre-bora-m2-4c",
+    "provider": "lichess",
+    "username": "emre-bora-m2-4c",
+    "firstSeen": 1624207326453,
+    "lastSeen": 1624207326453
+  }
+}
