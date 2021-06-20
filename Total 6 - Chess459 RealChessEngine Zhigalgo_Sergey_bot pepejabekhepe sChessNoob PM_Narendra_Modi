@@ -1,0 +1,59 @@
+{
+  "chess459@lichess": {
+    "id": "chess459",
+    "provider": "lichess",
+    "username": "Chess459",
+    "firstSeen": 1624166558384,
+    "lastSeen": 1624171908300,
+    "firstSeenTime": "5:22:38 AM",
+    "lastSeenTime": "6:40:45 AM",
+    "onlineDurationMins": 78.11048333333333
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1624167917167,
+    "lastSeen": 1624171961807,
+    "firstSeenTime": "5:45:17 AM",
+    "lastSeenTime": "6:40:45 AM",
+    "onlineDurationMins": 55.4745
+  },
+  "zhigalgo_sergey_bot@lichess": {
+    "id": "zhigalgo_sergey_bot",
+    "provider": "lichess",
+    "username": "Zhigalgo_Sergey_bot",
+    "firstSeen": 1624169756159,
+    "lastSeen": 1624171353641,
+    "firstSeenTime": "6:15:56 AM",
+    "lastSeenTime": "6:42:33 AM",
+    "onlineDurationMins": 26.6247
+  },
+  "pepejabekhepe@lichess": {
+    "id": "pepejabekhepe",
+    "provider": "lichess",
+    "username": "pepejabekhepe",
+    "firstSeen": 1624171354557,
+    "lastSeen": 1624171914730,
+    "firstSeenTime": "6:42:34 AM",
+    "lastSeenTime": "6:43:11 AM",
+    "onlineDurationMins": 0.6200166666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1624171486476,
+    "lastSeen": 1624171486476,
+    "firstSeenTime": "6:44:46 AM",
+    "lastSeenTime": "6:44:46 AM",
+    "onlineDurationMins": 0
+  },
+  "pm_narendra_modi@lichess": {
+    "id": "pm_narendra_modi",
+    "provider": "lichess",
+    "username": "PM_Narendra_Modi",
+    "firstSeen": 1624172102112,
+    "lastSeen": 1624172102112
+  }
+}
