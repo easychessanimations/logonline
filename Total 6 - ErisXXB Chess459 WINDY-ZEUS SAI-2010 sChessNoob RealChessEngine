@@ -1,0 +1,59 @@
+{
+  "erisxxb@lichess": {
+    "id": "erisxxb",
+    "provider": "lichess",
+    "username": "ErisXXB",
+    "firstSeen": 1624166058884,
+    "lastSeen": 1624167063780,
+    "firstSeenTime": "5:14:18 AM",
+    "lastSeenTime": "5:31:03 AM",
+    "onlineDurationMins": 16.748266666666666
+  },
+  "chess459@lichess": {
+    "id": "chess459",
+    "provider": "lichess",
+    "username": "Chess459",
+    "firstSeen": 1624166558384,
+    "lastSeen": 1624167284555,
+    "firstSeenTime": "5:22:38 AM",
+    "lastSeenTime": "5:29:12 AM",
+    "onlineDurationMins": 6.569183333333333
+  },
+  "windy-zeus@lichess": {
+    "id": "windy-zeus",
+    "provider": "lichess",
+    "username": "WINDY-ZEUS",
+    "firstSeen": 1624166619863,
+    "lastSeen": 1624167910383,
+    "firstSeenTime": "5:23:39 AM",
+    "lastSeenTime": "5:24:07 AM",
+    "onlineDurationMins": 0.45575
+  },
+  "sai-2010@lichess": {
+    "id": "sai-2010",
+    "provider": "lichess",
+    "username": "SAI-2010",
+    "firstSeen": 1624166985163,
+    "lastSeen": 1624167392971,
+    "firstSeenTime": "5:29:45 AM",
+    "lastSeenTime": "5:30:11 AM",
+    "onlineDurationMins": 0.43753333333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1624167020991,
+    "lastSeen": 1624167066940,
+    "firstSeenTime": "5:30:20 AM",
+    "lastSeenTime": "5:31:06 AM",
+    "onlineDurationMins": 0.7658166666666667
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1624167917167,
+    "lastSeen": 1624167917167
+  }
+}
