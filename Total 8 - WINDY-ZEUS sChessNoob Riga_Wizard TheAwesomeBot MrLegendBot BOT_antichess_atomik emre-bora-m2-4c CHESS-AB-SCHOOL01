@@ -1,0 +1,79 @@
+{
+  "windy-zeus@lichess": {
+    "id": "windy-zeus",
+    "provider": "lichess",
+    "username": "WINDY-ZEUS",
+    "firstSeen": 1624179019434,
+    "lastSeen": 1624207887992,
+    "firstSeenTime": "8:50:19 AM",
+    "lastSeenTime": "4:51:27 PM",
+    "onlineDurationMins": 481.1426333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1624204134707,
+    "lastSeen": 1624207973794,
+    "firstSeenTime": "3:48:54 PM",
+    "lastSeenTime": "4:52:53 PM",
+    "onlineDurationMins": 63.98478333333333
+  },
+  "riga_wizard@lichess": {
+    "id": "riga_wizard",
+    "provider": "lichess",
+    "username": "Riga_Wizard",
+    "firstSeen": 1624204148157,
+    "lastSeen": 1624207393486,
+    "firstSeenTime": "3:49:08 PM",
+    "lastSeenTime": "4:43:13 PM",
+    "onlineDurationMins": 54.088816666666666
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1624204741291,
+    "lastSeen": 1624207521929,
+    "firstSeenTime": "3:59:01 PM",
+    "lastSeenTime": "4:45:21 PM",
+    "onlineDurationMins": 46.34396666666667
+  },
+  "mrlegendbot@lichess": {
+    "id": "mrlegendbot",
+    "provider": "lichess",
+    "username": "MrLegendBot",
+    "firstSeen": 1624206376609,
+    "lastSeen": 1624207366624,
+    "firstSeenTime": "4:26:16 PM",
+    "lastSeenTime": "4:42:46 PM",
+    "onlineDurationMins": 16.50025
+  },
+  "bot_antichess_atomik@lichess": {
+    "id": "bot_antichess_atomik",
+    "provider": "lichess",
+    "username": "BOT_antichess_atomik",
+    "firstSeen": 1624206972075,
+    "lastSeen": 1624207778955,
+    "firstSeenTime": "4:36:12 PM",
+    "lastSeenTime": "4:49:38 PM",
+    "onlineDurationMins": 13.448
+  },
+  "emre-bora-m2-4c@lichess": {
+    "id": "emre-bora-m2-4c",
+    "provider": "lichess",
+    "username": "emre-bora-m2-4c",
+    "firstSeen": 1624207326453,
+    "lastSeen": 1624207369076,
+    "firstSeenTime": "4:42:06 PM",
+    "lastSeenTime": "4:42:49 PM",
+    "onlineDurationMins": 0.7103833333333334
+  },
+  "chess-ab-school01@lichess": {
+    "id": "chess-ab-school01",
+    "provider": "lichess",
+    "username": "CHESS-AB-SCHOOL01",
+    "firstSeen": 1624207986051,
+    "lastSeen": 1624207986051
+  }
+}
