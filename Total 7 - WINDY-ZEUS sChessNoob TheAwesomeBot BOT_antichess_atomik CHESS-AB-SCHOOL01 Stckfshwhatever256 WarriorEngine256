@@ -1,0 +1,69 @@
+{
+  "windy-zeus@lichess": {
+    "id": "windy-zeus",
+    "provider": "lichess",
+    "username": "WINDY-ZEUS",
+    "firstSeen": 1624179019434,
+    "lastSeen": 1624207887992,
+    "firstSeenTime": "8:50:19 AM",
+    "lastSeenTime": "4:51:27 PM",
+    "onlineDurationMins": 481.1426333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1624204134707,
+    "lastSeen": 1624208655863,
+    "firstSeenTime": "3:48:54 PM",
+    "lastSeenTime": "5:04:15 PM",
+    "onlineDurationMins": 75.3526
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1624204741291,
+    "lastSeen": 1624208466153,
+    "firstSeenTime": "3:59:01 PM",
+    "lastSeenTime": "5:01:06 PM",
+    "onlineDurationMins": 62.08103333333333
+  },
+  "bot_antichess_atomik@lichess": {
+    "id": "bot_antichess_atomik",
+    "provider": "lichess",
+    "username": "BOT_antichess_atomik",
+    "firstSeen": 1624206972075,
+    "lastSeen": 1624208439819,
+    "firstSeenTime": "4:36:12 PM",
+    "lastSeenTime": "5:00:39 PM",
+    "onlineDurationMins": 24.4624
+  },
+  "chess-ab-school01@lichess": {
+    "id": "chess-ab-school01",
+    "provider": "lichess",
+    "username": "CHESS-AB-SCHOOL01",
+    "firstSeen": 1624207986051,
+    "lastSeen": 1624208529636,
+    "firstSeenTime": "4:53:06 PM",
+    "lastSeenTime": "5:02:09 PM",
+    "onlineDurationMins": 9.05975
+  },
+  "stckfshwhatever256@lichess": {
+    "id": "stckfshwhatever256",
+    "provider": "lichess",
+    "username": "Stckfshwhatever256",
+    "firstSeen": 1624208134266,
+    "lastSeen": 1624208163511,
+    "firstSeenTime": "4:55:34 PM",
+    "lastSeenTime": "4:56:03 PM",
+    "onlineDurationMins": 0.48741666666666666
+  },
+  "warriorengine256@lichess": {
+    "id": "warriorengine256",
+    "provider": "lichess",
+    "username": "WarriorEngine256",
+    "firstSeen": 1624208675738,
+    "lastSeen": 1624208675738
+  }
+}
