@@ -1,0 +1,40 @@
+{
+  "windy-zeus@lichess": {
+    "id": "windy-zeus",
+    "provider": "lichess",
+    "username": "WINDY-ZEUS",
+    "firstSeen": 1624179019434,
+    "lastSeen": 1624201151614,
+    "firstSeenTime": "8:50:19 AM",
+    "lastSeenTime": "12:12:06 PM",
+    "onlineDurationMins": 201.77611666666667
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1624199018180,
+    "lastSeen": 1624201211879
+  },
+  "chess-ab-school01@lichess": {
+    "id": "chess-ab-school01",
+    "provider": "lichess",
+    "username": "CHESS-AB-SCHOOL01",
+    "firstSeen": 1624199971855,
+    "lastSeen": 1624201235881
+  },
+  "chess_king-1@lichess": {
+    "id": "chess_king-1",
+    "provider": "lichess",
+    "username": "chess_King-1",
+    "firstSeen": 1624200441975,
+    "lastSeen": 1624201272731
+  },
+  "sanithu_hci@lichess": {
+    "id": "sanithu_hci",
+    "provider": "lichess",
+    "username": "Sanithu_HCI",
+    "firstSeen": 1624201086576,
+    "lastSeen": 1624201103611
+  }
+}
