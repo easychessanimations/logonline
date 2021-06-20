@@ -1,0 +1,50 @@
+{
+  "windy-zeus@lichess": {
+    "id": "windy-zeus",
+    "provider": "lichess",
+    "username": "WINDY-ZEUS",
+    "firstSeen": 1624179019434,
+    "lastSeen": 1624194551288,
+    "firstSeenTime": "8:50:19 AM",
+    "lastSeenTime": "12:12:06 PM",
+    "onlineDurationMins": 201.77611666666667
+  },
+  "bot_antichess_atomik@lichess": {
+    "id": "bot_antichess_atomik",
+    "provider": "lichess",
+    "username": "BOT_antichess_atomik",
+    "firstSeen": 1624188558781,
+    "lastSeen": 1624194802129,
+    "firstSeenTime": "11:29:18 AM",
+    "lastSeenTime": "12:15:22 PM",
+    "onlineDurationMins": 46.054766666666666
+  },
+  "c-a-g-a-n@lichess": {
+    "id": "c-a-g-a-n",
+    "provider": "lichess",
+    "username": "C-A-G-A-N",
+    "firstSeen": 1624193419855,
+    "lastSeen": 1624194282076
+  },
+  "drduckyou@lichess": {
+    "id": "drduckyou",
+    "provider": "lichess",
+    "username": "DrDuckYou",
+    "firstSeen": 1624194069654,
+    "lastSeen": 1624194692611
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1624194785249,
+    "lastSeen": 1624194786298
+  },
+  "axcv123@lichess": {
+    "id": "axcv123",
+    "provider": "lichess",
+    "username": "axcv123",
+    "firstSeen": 1624195054250,
+    "lastSeen": 1624195054250
+  }
+}
