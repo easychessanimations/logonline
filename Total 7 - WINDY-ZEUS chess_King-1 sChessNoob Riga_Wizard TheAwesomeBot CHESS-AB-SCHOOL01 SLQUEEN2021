@@ -1,0 +1,72 @@
+{
+  "windy-zeus@lichess": {
+    "id": "windy-zeus",
+    "provider": "lichess",
+    "username": "WINDY-ZEUS",
+    "firstSeen": 1624179019434,
+    "lastSeen": 1624205230527,
+    "firstSeenTime": "8:50:19 AM",
+    "lastSeenTime": "4:07:10 PM",
+    "onlineDurationMins": 436.85155
+  },
+  "chess_king-1@lichess": {
+    "id": "chess_king-1",
+    "provider": "lichess",
+    "username": "chess_King-1",
+    "firstSeen": 1624200441975,
+    "lastSeen": 1624204672180,
+    "firstSeenTime": "2:47:21 PM",
+    "lastSeenTime": "3:57:52 PM",
+    "onlineDurationMins": 70.50341666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1624204134707,
+    "lastSeen": 1624205464661,
+    "firstSeenTime": "3:48:54 PM",
+    "lastSeenTime": "4:11:04 PM",
+    "onlineDurationMins": 22.1659
+  },
+  "riga_wizard@lichess": {
+    "id": "riga_wizard",
+    "provider": "lichess",
+    "username": "Riga_Wizard",
+    "firstSeen": 1624204148157,
+    "lastSeen": 1624205342424,
+    "firstSeenTime": "3:49:08 PM",
+    "lastSeenTime": "4:09:02 PM",
+    "onlineDurationMins": 19.90445
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1624204741291,
+    "lastSeen": 1624205483394,
+    "firstSeenTime": "3:59:01 PM",
+    "lastSeenTime": "3:59:04 PM",
+    "onlineDurationMins": 0.056716666666666665
+  },
+  "chess-ab-school01@lichess": {
+    "id": "chess-ab-school01",
+    "provider": "lichess",
+    "username": "CHESS-AB-SCHOOL01",
+    "firstSeen": 1624204826142,
+    "lastSeen": 1624205257093,
+    "firstSeenTime": "4:00:26 PM",
+    "lastSeenTime": "4:07:37 PM",
+    "onlineDurationMins": 7.182516666666666
+  },
+  "slqueen2021@lichess": {
+    "id": "slqueen2021",
+    "provider": "lichess",
+    "username": "SLQUEEN2021",
+    "firstSeen": 1624204947963,
+    "lastSeen": 1624204975971,
+    "firstSeenTime": "4:02:27 PM",
+    "lastSeenTime": "4:02:55 PM",
+    "onlineDurationMins": 0.4668
+  }
+}
