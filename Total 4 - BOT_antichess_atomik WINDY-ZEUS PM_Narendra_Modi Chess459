@@ -1,0 +1,33 @@
+{
+  "bot_antichess_atomik@lichess": {
+    "id": "bot_antichess_atomik",
+    "provider": "lichess",
+    "username": "BOT_antichess_atomik",
+    "firstSeen": 1624175066376,
+    "lastSeen": 1624180747183,
+    "firstSeenTime": "7:44:26 AM",
+    "lastSeenTime": "8:37:06 AM",
+    "onlineDurationMins": 52.67025
+  },
+  "windy-zeus@lichess": {
+    "id": "windy-zeus",
+    "provider": "lichess",
+    "username": "WINDY-ZEUS",
+    "firstSeen": 1624179019434,
+    "lastSeen": 1624181047584
+  },
+  "pm_narendra_modi@lichess": {
+    "id": "pm_narendra_modi",
+    "provider": "lichess",
+    "username": "PM_Narendra_Modi",
+    "firstSeen": 1624180099790,
+    "lastSeen": 1624180988052
+  },
+  "chess459@lichess": {
+    "id": "chess459",
+    "provider": "lichess",
+    "username": "Chess459",
+    "firstSeen": 1624180419011,
+    "lastSeen": 1624180422602
+  }
+}
