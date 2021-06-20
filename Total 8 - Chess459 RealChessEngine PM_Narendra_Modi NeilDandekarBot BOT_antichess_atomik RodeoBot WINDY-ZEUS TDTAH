@@ -1,0 +1,67 @@
+{
+  "chess459@lichess": {
+    "id": "chess459",
+    "provider": "lichess",
+    "username": "Chess459",
+    "firstSeen": 1624166558384,
+    "lastSeen": 1624175774401,
+    "firstSeenTime": "5:22:38 AM",
+    "lastSeenTime": "6:51:48 AM",
+    "onlineDurationMins": 89.16526666666667
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1624167917167,
+    "lastSeen": 1624175774267,
+    "firstSeenTime": "5:45:17 AM",
+    "lastSeenTime": "6:55:36 AM",
+    "onlineDurationMins": 70.3304
+  },
+  "pm_narendra_modi@lichess": {
+    "id": "pm_narendra_modi",
+    "provider": "lichess",
+    "username": "PM_Narendra_Modi",
+    "firstSeen": 1624172102112,
+    "lastSeen": 1624175774601,
+    "firstSeenTime": "6:55:02 AM",
+    "lastSeenTime": "6:55:23 AM",
+    "onlineDurationMins": 0.36106666666666665
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1624174230163,
+    "lastSeen": 1624175779681
+  },
+  "bot_antichess_atomik@lichess": {
+    "id": "bot_antichess_atomik",
+    "provider": "lichess",
+    "username": "BOT_antichess_atomik",
+    "firstSeen": 1624175066376,
+    "lastSeen": 1624175092171
+  },
+  "rodeobot@lichess": {
+    "id": "rodeobot",
+    "provider": "lichess",
+    "username": "RodeoBot",
+    "firstSeen": 1624175066669,
+    "lastSeen": 1624175797618
+  },
+  "windy-zeus@lichess": {
+    "id": "windy-zeus",
+    "provider": "lichess",
+    "username": "WINDY-ZEUS",
+    "firstSeen": 1624175101218,
+    "lastSeen": 1624175129803
+  },
+  "tdtah@lichess": {
+    "id": "tdtah",
+    "provider": "lichess",
+    "username": "TDTAH",
+    "firstSeen": 1624175324230,
+    "lastSeen": 1624175587029
+  }
+}
