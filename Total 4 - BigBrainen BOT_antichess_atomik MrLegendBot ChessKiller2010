@@ -1,0 +1,30 @@
+{
+  "bigbrainen@lichess": {
+    "id": "bigbrainen",
+    "provider": "lichess",
+    "username": "BigBrainen",
+    "firstSeen": 1624209777966,
+    "lastSeen": 1624214397650
+  },
+  "bot_antichess_atomik@lichess": {
+    "id": "bot_antichess_atomik",
+    "provider": "lichess",
+    "username": "BOT_antichess_atomik",
+    "firstSeen": 1624212719647,
+    "lastSeen": 1624214432099
+  },
+  "mrlegendbot@lichess": {
+    "id": "mrlegendbot",
+    "provider": "lichess",
+    "username": "MrLegendBot",
+    "firstSeen": 1624213913194,
+    "lastSeen": 1624213966390
+  },
+  "chesskiller2010@lichess": {
+    "id": "chesskiller2010",
+    "provider": "lichess",
+    "username": "ChessKiller2010",
+    "firstSeen": 1624214438608,
+    "lastSeen": 1624214438608
+  }
+}
