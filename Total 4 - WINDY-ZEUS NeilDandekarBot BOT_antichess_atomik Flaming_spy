@@ -1,0 +1,39 @@
+{
+  "windy-zeus@lichess": {
+    "id": "windy-zeus",
+    "provider": "lichess",
+    "username": "WINDY-ZEUS",
+    "firstSeen": 1624179019434,
+    "lastSeen": 1624192523172,
+    "firstSeenTime": "8:50:19 AM",
+    "lastSeenTime": "12:12:06 PM",
+    "onlineDurationMins": 201.77611666666667
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1624186614066,
+    "lastSeen": 1624193006271,
+    "firstSeenTime": "10:56:54 AM",
+    "lastSeenTime": "12:18:46 PM",
+    "onlineDurationMins": 81.87025
+  },
+  "bot_antichess_atomik@lichess": {
+    "id": "bot_antichess_atomik",
+    "provider": "lichess",
+    "username": "BOT_antichess_atomik",
+    "firstSeen": 1624188558781,
+    "lastSeen": 1624192642267,
+    "firstSeenTime": "11:29:18 AM",
+    "lastSeenTime": "12:15:22 PM",
+    "onlineDurationMins": 46.054766666666666
+  },
+  "flaming_spy@lichess": {
+    "id": "flaming_spy",
+    "provider": "lichess",
+    "username": "Flaming_spy",
+    "firstSeen": 1624191807161,
+    "lastSeen": 1624192537824
+  }
+}
