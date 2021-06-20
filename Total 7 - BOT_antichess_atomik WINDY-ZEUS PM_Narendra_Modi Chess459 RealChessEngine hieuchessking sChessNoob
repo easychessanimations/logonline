@@ -1,0 +1,54 @@
+{
+  "bot_antichess_atomik@lichess": {
+    "id": "bot_antichess_atomik",
+    "provider": "lichess",
+    "username": "BOT_antichess_atomik",
+    "firstSeen": 1624175066376,
+    "lastSeen": 1624182063653,
+    "firstSeenTime": "7:44:26 AM",
+    "lastSeenTime": "8:37:06 AM",
+    "onlineDurationMins": 52.67025
+  },
+  "windy-zeus@lichess": {
+    "id": "windy-zeus",
+    "provider": "lichess",
+    "username": "WINDY-ZEUS",
+    "firstSeen": 1624179019434,
+    "lastSeen": 1624182025593
+  },
+  "pm_narendra_modi@lichess": {
+    "id": "pm_narendra_modi",
+    "provider": "lichess",
+    "username": "PM_Narendra_Modi",
+    "firstSeen": 1624180099790,
+    "lastSeen": 1624181901678
+  },
+  "chess459@lichess": {
+    "id": "chess459",
+    "provider": "lichess",
+    "username": "Chess459",
+    "firstSeen": 1624180419011,
+    "lastSeen": 1624181689509
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1624181178612,
+    "lastSeen": 1624181268209
+  },
+  "hieuchessking@lichess": {
+    "id": "hieuchessking",
+    "provider": "lichess",
+    "username": "hieuchessking",
+    "firstSeen": 1624181522600,
+    "lastSeen": 1624181548275
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1624182065500,
+    "lastSeen": 1624182065500
+  }
+}
