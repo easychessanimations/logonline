@@ -1,0 +1,37 @@
+{
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1624245732109,
+    "lastSeen": 1624253261515
+  },
+  "pm_narendra_modi@lichess": {
+    "id": "pm_narendra_modi",
+    "provider": "lichess",
+    "username": "PM_Narendra_Modi",
+    "firstSeen": 1624245941540,
+    "lastSeen": 1624253549205
+  },
+  "rodeobot@lichess": {
+    "id": "rodeobot",
+    "provider": "lichess",
+    "username": "RodeoBot",
+    "firstSeen": 1624247823934,
+    "lastSeen": 1624253415507
+  },
+  "bigbrainen@lichess": {
+    "id": "bigbrainen",
+    "provider": "lichess",
+    "username": "BigBrainen",
+    "firstSeen": 1624253539250,
+    "lastSeen": 1624253547680
+  },
+  "codedreamer@lichess": {
+    "id": "codedreamer",
+    "provider": "lichess",
+    "username": "CodeDreamer",
+    "firstSeen": 1624253586176,
+    "lastSeen": 1624253586176
+  }
+}
