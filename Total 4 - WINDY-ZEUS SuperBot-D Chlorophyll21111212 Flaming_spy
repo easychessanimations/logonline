@@ -1,0 +1,33 @@
+{
+  "windy-zeus@lichess": {
+    "id": "windy-zeus",
+    "provider": "lichess",
+    "username": "WINDY-ZEUS",
+    "firstSeen": 1624268276567,
+    "lastSeen": 1624280576566,
+    "firstSeenTime": "9:37:56 AM",
+    "lastSeenTime": "10:49:56 AM",
+    "onlineDurationMins": 72.00198333333333
+  },
+  "superbot-d@lichess": {
+    "id": "superbot-d",
+    "provider": "lichess",
+    "username": "SuperBot-D",
+    "firstSeen": 1624276955010,
+    "lastSeen": 1624280068435
+  },
+  "chlorophyll21111212@lichess": {
+    "id": "chlorophyll21111212",
+    "provider": "lichess",
+    "username": "Chlorophyll21111212",
+    "firstSeen": 1624279843441,
+    "lastSeen": 1624280664916
+  },
+  "flaming_spy@lichess": {
+    "id": "flaming_spy",
+    "provider": "lichess",
+    "username": "Flaming_spy",
+    "firstSeen": 1624280658122,
+    "lastSeen": 1624280719290
+  }
+}
