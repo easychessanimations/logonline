@@ -1,0 +1,47 @@
+{
+  "bot_quytoc@lichess": {
+    "id": "bot_quytoc",
+    "provider": "lichess",
+    "username": "Bot_QuyToc",
+    "firstSeen": 1624260299273,
+    "lastSeen": 1624266525688,
+    "firstSeenTime": "7:24:59 AM",
+    "lastSeenTime": "8:23:08 AM",
+    "onlineDurationMins": 58.15611666666667
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1624265677601,
+    "lastSeen": 1624266256086
+  },
+  "oappp@lichess": {
+    "id": "oappp",
+    "provider": "lichess",
+    "username": "oappp",
+    "firstSeen": 1624266637940,
+    "lastSeen": 1624266700051
+  },
+  "bot_hai2k9@lichess": {
+    "id": "bot_hai2k9",
+    "provider": "lichess",
+    "username": "Bot_Hai2k9",
+    "firstSeen": 1624266717258,
+    "lastSeen": 1624266740610
+  },
+  "pm_narendra_modi@lichess": {
+    "id": "pm_narendra_modi",
+    "provider": "lichess",
+    "username": "PM_Narendra_Modi",
+    "firstSeen": 1624266782282,
+    "lastSeen": 1624266807125
+  },
+  "chess-ab-school01@lichess": {
+    "id": "chess-ab-school01",
+    "provider": "lichess",
+    "username": "CHESS-AB-SCHOOL01",
+    "firstSeen": 1624266911910,
+    "lastSeen": 1624266911910
+  }
+}
