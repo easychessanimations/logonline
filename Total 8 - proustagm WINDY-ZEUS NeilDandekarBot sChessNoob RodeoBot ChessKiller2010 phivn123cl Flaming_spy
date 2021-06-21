@@ -1,0 +1,82 @@
+{
+  "proustagm@lichess": {
+    "id": "proustagm",
+    "provider": "lichess",
+    "username": "proustagm",
+    "firstSeen": 1624266978903,
+    "lastSeen": 1624271398944,
+    "firstSeenTime": "9:16:18 AM",
+    "lastSeenTime": "10:18:08 AM",
+    "onlineDurationMins": 61.82958333333333
+  },
+  "windy-zeus@lichess": {
+    "id": "windy-zeus",
+    "provider": "lichess",
+    "username": "WINDY-ZEUS",
+    "firstSeen": 1624268276567,
+    "lastSeen": 1624271546650,
+    "firstSeenTime": "9:37:56 AM",
+    "lastSeenTime": "10:24:28 AM",
+    "onlineDurationMins": 46.52401666666667
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1624270296861,
+    "lastSeen": 1624271340780,
+    "firstSeenTime": "10:11:36 AM",
+    "lastSeenTime": "10:11:46 AM",
+    "onlineDurationMins": 0.15441666666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1624270411878,
+    "lastSeen": 1624271172466,
+    "firstSeenTime": "10:13:31 AM",
+    "lastSeenTime": "10:26:12 AM",
+    "onlineDurationMins": 12.676466666666666
+  },
+  "rodeobot@lichess": {
+    "id": "rodeobot",
+    "provider": "lichess",
+    "username": "RodeoBot",
+    "firstSeen": 1624270550813,
+    "lastSeen": 1624271640962,
+    "firstSeenTime": "10:15:50 AM",
+    "lastSeenTime": "10:26:10 AM",
+    "onlineDurationMins": 10.3334
+  },
+  "chesskiller2010@lichess": {
+    "id": "chesskiller2010",
+    "provider": "lichess",
+    "username": "ChessKiller2010",
+    "firstSeen": 1624270637001,
+    "lastSeen": 1624271816338,
+    "firstSeenTime": "10:17:17 AM",
+    "lastSeenTime": "10:25:44 AM",
+    "onlineDurationMins": 8.460133333333333
+  },
+  "phivn123cl@lichess": {
+    "id": "phivn123cl",
+    "provider": "lichess",
+    "username": "phivn123cl",
+    "firstSeen": 1624270919502,
+    "lastSeen": 1624271310228,
+    "firstSeenTime": "10:21:59 AM",
+    "lastSeenTime": "10:26:09 AM",
+    "onlineDurationMins": 4.159066666666667
+  },
+  "flaming_spy@lichess": {
+    "id": "flaming_spy",
+    "provider": "lichess",
+    "username": "Flaming_spy",
+    "firstSeen": 1624270935232,
+    "lastSeen": 1624270941521,
+    "firstSeenTime": "10:22:15 AM",
+    "lastSeenTime": "10:22:21 AM",
+    "onlineDurationMins": 0.10481666666666667
+  }
+}
