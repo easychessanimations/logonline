@@ -1,0 +1,44 @@
+{
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1624245732109,
+    "lastSeen": 1624254191371
+  },
+  "bigbrainen@lichess": {
+    "id": "bigbrainen",
+    "provider": "lichess",
+    "username": "BigBrainen",
+    "firstSeen": 1624253539250,
+    "lastSeen": 1624254320302
+  },
+  "codedreamer@lichess": {
+    "id": "codedreamer",
+    "provider": "lichess",
+    "username": "CodeDreamer",
+    "firstSeen": 1624253586176,
+    "lastSeen": 1624254101810
+  },
+  "phanmanhtan@lichess": {
+    "id": "phanmanhtan",
+    "provider": "lichess",
+    "username": "phanmanhtan",
+    "firstSeen": 1624253807482,
+    "lastSeen": 1624254972873
+  },
+  "mordinate_solve@lichess": {
+    "id": "mordinate_solve",
+    "provider": "lichess",
+    "username": "Mordinate_solve",
+    "firstSeen": 1624254508398,
+    "lastSeen": 1624254527374
+  },
+  "chess-ab-school01@lichess": {
+    "id": "chess-ab-school01",
+    "provider": "lichess",
+    "username": "CHESS-AB-SCHOOL01",
+    "firstSeen": 1624254550847,
+    "lastSeen": 1624254967018
+  }
+}
