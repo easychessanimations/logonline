@@ -1,0 +1,33 @@
+{
+  "bot_quytoc@lichess": {
+    "id": "bot_quytoc",
+    "provider": "lichess",
+    "username": "Bot_QuyToc",
+    "firstSeen": 1624260299273,
+    "lastSeen": 1624265445260,
+    "firstSeenTime": "7:24:59 AM",
+    "lastSeenTime": "8:23:08 AM",
+    "onlineDurationMins": 58.15611666666667
+  },
+  "tdtah@lichess": {
+    "id": "tdtah",
+    "provider": "lichess",
+    "username": "TDTAH",
+    "firstSeen": 1624264382054,
+    "lastSeen": 1624265611559
+  },
+  "mysterious_magician@lichess": {
+    "id": "mysterious_magician",
+    "provider": "lichess",
+    "username": "Mysterious_MagiciaN",
+    "firstSeen": 1624265594638,
+    "lastSeen": 1624265640169
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1624265677601,
+    "lastSeen": 1624265677601
+  }
+}
