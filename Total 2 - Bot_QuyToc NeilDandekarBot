@@ -1,0 +1,19 @@
+{
+  "bot_quytoc@lichess": {
+    "id": "bot_quytoc",
+    "provider": "lichess",
+    "username": "Bot_QuyToc",
+    "firstSeen": 1624260299273,
+    "lastSeen": 1624266525688,
+    "firstSeenTime": "7:24:59 AM",
+    "lastSeenTime": "8:23:08 AM",
+    "onlineDurationMins": 58.15611666666667
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1624265677601,
+    "lastSeen": 1624266256086
+  }
+}
