@@ -1,0 +1,50 @@
+{
+  "windy-zeus@lichess": {
+    "id": "windy-zeus",
+    "provider": "lichess",
+    "username": "WINDY-ZEUS",
+    "firstSeen": 1624268276567,
+    "lastSeen": 1624277456578,
+    "firstSeenTime": "9:37:56 AM",
+    "lastSeenTime": "10:49:56 AM",
+    "onlineDurationMins": 72.00198333333333
+  },
+  "proustagm@lichess": {
+    "id": "proustagm",
+    "provider": "lichess",
+    "username": "proustagm",
+    "firstSeen": 1624272318858,
+    "lastSeen": 1624277397081,
+    "firstSeenTime": "10:45:18 AM",
+    "lastSeenTime": "10:52:15 AM",
+    "onlineDurationMins": 6.9503
+  },
+  "superbot-d@lichess": {
+    "id": "superbot-d",
+    "provider": "lichess",
+    "username": "SuperBot-D",
+    "firstSeen": 1624276955010,
+    "lastSeen": 1624276981808
+  },
+  "atharv_is_gm@lichess": {
+    "id": "atharv_is_gm",
+    "provider": "lichess",
+    "username": "Atharv_Is_GM",
+    "firstSeen": 1624277088904,
+    "lastSeen": 1624277404665
+  },
+  "chlorophyll212112212@lichess": {
+    "id": "chlorophyll212112212",
+    "provider": "lichess",
+    "username": "Chlorophyll212112212",
+    "firstSeen": 1624277180905,
+    "lastSeen": 1624277482324
+  },
+  "illegal_no-2@lichess": {
+    "id": "illegal_no-2",
+    "provider": "lichess",
+    "username": "Illegal_no-2",
+    "firstSeen": 1624277196326,
+    "lastSeen": 1624277470203
+  }
+}
