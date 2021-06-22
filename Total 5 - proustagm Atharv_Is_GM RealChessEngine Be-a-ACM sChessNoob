@@ -1,0 +1,40 @@
+{
+  "proustagm@lichess": {
+    "id": "proustagm",
+    "provider": "lichess",
+    "username": "proustagm",
+    "firstSeen": 1624352401663,
+    "lastSeen": 1624357611154,
+    "firstSeenTime": "9:00:01 AM",
+    "lastSeenTime": "9:00:12 AM",
+    "onlineDurationMins": 0.18888333333333332
+  },
+  "atharv_is_gm@lichess": {
+    "id": "atharv_is_gm",
+    "provider": "lichess",
+    "username": "Atharv_Is_GM",
+    "firstSeen": 1624353051115,
+    "lastSeen": 1624357570570
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1624356880481,
+    "lastSeen": 1624357373453
+  },
+  "be-a-acm@lichess": {
+    "id": "be-a-acm",
+    "provider": "lichess",
+    "username": "Be-a-ACM",
+    "firstSeen": 1624357170682,
+    "lastSeen": 1624357202457
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1624357624233,
+    "lastSeen": 1624357624234
+  }
+}
