@@ -1,0 +1,16 @@
+{
+  "bot_quytoc@lichess": {
+    "id": "bot_quytoc",
+    "provider": "lichess",
+    "username": "Bot_QuyToc",
+    "firstSeen": 1624323982968,
+    "lastSeen": 1624325985992
+  },
+  "bestchessbot@lichess": {
+    "id": "bestchessbot",
+    "provider": "lichess",
+    "username": "bestchessbot",
+    "firstSeen": 1624326404617,
+    "lastSeen": 1624326404617
+  }
+}
