@@ -1,0 +1,39 @@
+{
+  "proustagm@lichess": {
+    "id": "proustagm",
+    "provider": "lichess",
+    "username": "proustagm",
+    "firstSeen": 1624352401663,
+    "lastSeen": 1624359140274,
+    "firstSeenTime": "9:00:01 AM",
+    "lastSeenTime": "10:37:21 AM",
+    "onlineDurationMins": 97.32925
+  },
+  "atharv_is_gm@lichess": {
+    "id": "atharv_is_gm",
+    "provider": "lichess",
+    "username": "Atharv_Is_GM",
+    "firstSeen": 1624353051115,
+    "lastSeen": 1624359164964,
+    "firstSeenTime": "9:10:51 AM",
+    "lastSeenTime": "10:51:03 AM",
+    "onlineDurationMins": 100.20415
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1624357624233,
+    "lastSeen": 1624359089603,
+    "firstSeenTime": "10:27:04 AM",
+    "lastSeenTime": "10:51:29 AM",
+    "onlineDurationMins": 24.422833333333333
+  },
+  "ioa-official@lichess": {
+    "id": "ioa-official",
+    "provider": "lichess",
+    "username": "IOA-OFFICIAL",
+    "firstSeen": 1624359223581,
+    "lastSeen": 1624359252373
+  }
+}
