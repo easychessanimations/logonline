@@ -1,0 +1,56 @@
+{
+  "proustagm@lichess": {
+    "id": "proustagm",
+    "provider": "lichess",
+    "username": "proustagm",
+    "firstSeen": 1624352401663,
+    "lastSeen": 1624358241418,
+    "firstSeenTime": "9:00:01 AM",
+    "lastSeenTime": "10:37:21 AM",
+    "onlineDurationMins": 97.32925
+  },
+  "atharv_is_gm@lichess": {
+    "id": "atharv_is_gm",
+    "provider": "lichess",
+    "username": "Atharv_Is_GM",
+    "firstSeen": 1624353051115,
+    "lastSeen": 1624358444370,
+    "firstSeenTime": "9:10:51 AM",
+    "lastSeenTime": "10:31:47 AM",
+    "onlineDurationMins": 80.94595
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1624357624233,
+    "lastSeen": 1624358267743,
+    "firstSeenTime": "10:27:04 AM",
+    "lastSeenTime": "10:37:47 AM",
+    "onlineDurationMins": 10.725166666666667
+  },
+  "whitefangboy@lichess": {
+    "id": "whitefangboy",
+    "provider": "lichess",
+    "username": "WhiteFangBoy",
+    "firstSeen": 1624357723524,
+    "lastSeen": 1624358186596,
+    "firstSeenTime": "10:28:43 AM",
+    "lastSeenTime": "10:36:26 AM",
+    "onlineDurationMins": 7.717866666666667
+  },
+  "pm_narendra_modi@lichess": {
+    "id": "pm_narendra_modi",
+    "provider": "lichess",
+    "username": "PM_Narendra_Modi",
+    "firstSeen": 1624358286368,
+    "lastSeen": 1624358480394
+  },
+  "chessplayer_manas@lichess": {
+    "id": "chessplayer_manas",
+    "provider": "lichess",
+    "username": "ChessPlayer_Manas",
+    "firstSeen": 1624358629783,
+    "lastSeen": 1624358629783
+  }
+}
