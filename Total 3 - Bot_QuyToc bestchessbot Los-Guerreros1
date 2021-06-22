@@ -1,0 +1,23 @@
+{
+  "bot_quytoc@lichess": {
+    "id": "bot_quytoc",
+    "provider": "lichess",
+    "username": "Bot_QuyToc",
+    "firstSeen": 1624323982968,
+    "lastSeen": 1624327002697
+  },
+  "bestchessbot@lichess": {
+    "id": "bestchessbot",
+    "provider": "lichess",
+    "username": "bestchessbot",
+    "firstSeen": 1624326404617,
+    "lastSeen": 1624326509519
+  },
+  "los-guerreros1@lichess": {
+    "id": "los-guerreros1",
+    "provider": "lichess",
+    "username": "Los-Guerreros1",
+    "firstSeen": 1624327102546,
+    "lastSeen": 1624327102546
+  }
+}
