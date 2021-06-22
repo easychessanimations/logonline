@@ -1,0 +1,49 @@
+{
+  "proustagm@lichess": {
+    "id": "proustagm",
+    "provider": "lichess",
+    "username": "proustagm",
+    "firstSeen": 1624352401663,
+    "lastSeen": 1624357611154,
+    "firstSeenTime": "9:00:01 AM",
+    "lastSeenTime": "10:26:51 AM",
+    "onlineDurationMins": 86.82485
+  },
+  "atharv_is_gm@lichess": {
+    "id": "atharv_is_gm",
+    "provider": "lichess",
+    "username": "Atharv_Is_GM",
+    "firstSeen": 1624353051115,
+    "lastSeen": 1624357907872,
+    "firstSeenTime": "9:10:51 AM",
+    "lastSeenTime": "10:26:10 AM",
+    "onlineDurationMins": 75.32425
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1624356880481,
+    "lastSeen": 1624357373453,
+    "firstSeenTime": "10:14:40 AM",
+    "lastSeenTime": "10:22:53 AM",
+    "onlineDurationMins": 8.2162
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1624357624233,
+    "lastSeen": 1624357624694,
+    "firstSeenTime": "10:27:04 AM",
+    "lastSeenTime": "10:27:04 AM",
+    "onlineDurationMins": 0.000016666666666666667
+  },
+  "whitefangboy@lichess": {
+    "id": "whitefangboy",
+    "provider": "lichess",
+    "username": "WhiteFangBoy",
+    "firstSeen": 1624357723524,
+    "lastSeen": 1624358126825
+  }
+}
