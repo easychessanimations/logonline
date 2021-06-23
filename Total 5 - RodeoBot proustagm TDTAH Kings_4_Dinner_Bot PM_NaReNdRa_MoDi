@@ -1,0 +1,40 @@
+{
+  "rodeobot@lichess": {
+    "id": "rodeobot",
+    "provider": "lichess",
+    "username": "RodeoBot",
+    "firstSeen": 1624423257617,
+    "lastSeen": 1624433762756,
+    "firstSeenTime": "4:40:57 AM",
+    "lastSeenTime": "6:14:04 AM",
+    "onlineDurationMins": 93.12166666666667
+  },
+  "proustagm@lichess": {
+    "id": "proustagm",
+    "provider": "lichess",
+    "username": "proustagm",
+    "firstSeen": 1624428931727,
+    "lastSeen": 1624433703728
+  },
+  "tdtah@lichess": {
+    "id": "tdtah",
+    "provider": "lichess",
+    "username": "TDTAH",
+    "firstSeen": 1624429689766,
+    "lastSeen": 1624433468537
+  },
+  "kings_4_dinner_bot@lichess": {
+    "id": "kings_4_dinner_bot",
+    "provider": "lichess",
+    "username": "Kings_4_Dinner_Bot",
+    "firstSeen": 1624429931039,
+    "lastSeen": 1624433792370
+  },
+  "pm_narendra_modi@lichess": {
+    "id": "pm_narendra_modi",
+    "provider": "lichess",
+    "username": "PM_NaReNdRa_MoDi",
+    "firstSeen": 1624431264629,
+    "lastSeen": 1624433487429
+  }
+}
