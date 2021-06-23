@@ -1,0 +1,91 @@
+{
+  "rodeobot@lichess": {
+    "id": "rodeobot",
+    "provider": "lichess",
+    "username": "RodeoBot",
+    "firstSeen": 1624423257617,
+    "lastSeen": 1624431811861,
+    "firstSeenTime": "4:40:57 AM",
+    "lastSeenTime": "6:14:04 AM",
+    "onlineDurationMins": 93.12166666666667
+  },
+  "atharv_is_gm@lichess": {
+    "id": "atharv_is_gm",
+    "provider": "lichess",
+    "username": "Atharv_Is_GM",
+    "firstSeen": 1624426908984,
+    "lastSeen": 1624431039283,
+    "firstSeenTime": "5:41:48 AM",
+    "lastSeenTime": "6:04:42 AM",
+    "onlineDurationMins": 22.8917
+  },
+  "chlorophyll21111212@lichess": {
+    "id": "chlorophyll21111212",
+    "provider": "lichess",
+    "username": "Chlorophyll21111212",
+    "firstSeen": 1624427809519,
+    "lastSeen": 1624431779972,
+    "firstSeenTime": "5:56:49 AM",
+    "lastSeenTime": "6:14:09 AM",
+    "onlineDurationMins": 17.333466666666666
+  },
+  "chess_bot-child@lichess": {
+    "id": "chess_bot-child",
+    "provider": "lichess",
+    "username": "Chess_Bot-Child",
+    "firstSeen": 1624428491078,
+    "lastSeen": 1624431479019,
+    "firstSeenTime": "6:08:11 AM",
+    "lastSeenTime": "6:14:14 AM",
+    "onlineDurationMins": 6.052766666666667
+  },
+  "proustagm@lichess": {
+    "id": "proustagm",
+    "provider": "lichess",
+    "username": "proustagm",
+    "firstSeen": 1624428931727,
+    "lastSeen": 1624431319787
+  },
+  "tdtah@lichess": {
+    "id": "tdtah",
+    "provider": "lichess",
+    "username": "TDTAH",
+    "firstSeen": 1624429689766,
+    "lastSeen": 1624431804218
+  },
+  "kings_4_dinner_bot@lichess": {
+    "id": "kings_4_dinner_bot",
+    "provider": "lichess",
+    "username": "Kings_4_Dinner_Bot",
+    "firstSeen": 1624429931039,
+    "lastSeen": 1624431897551
+  },
+  "pm_narendra_modi@lichess": {
+    "id": "pm_narendra_modi",
+    "provider": "lichess",
+    "username": "PM_NaReNdRa_MoDi",
+    "firstSeen": 1624431264629,
+    "lastSeen": 1624431852934
+  },
+  "forward_1@lichess": {
+    "id": "forward_1",
+    "provider": "lichess",
+    "username": "FORWARD_1",
+    "firstSeen": 1624431334878,
+    "lastSeen": 1624431852759
+  },
+  "bigbrainen@lichess": {
+    "id": "bigbrainen",
+    "provider": "lichess",
+    "username": "BigBrainen",
+    "firstSeen": 1624431863437,
+    "lastSeen": 1624431874515
+  },
+  "amansma@lichess": {
+    "id": "amansma",
+    "provider": "lichess",
+    "username": "amansma",
+    "firstSeen": 1624431903709,
+    "lastSeen": 1624431903709
+  }
+}
