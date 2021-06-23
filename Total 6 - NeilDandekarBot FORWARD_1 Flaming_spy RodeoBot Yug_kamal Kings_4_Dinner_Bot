@@ -1,0 +1,44 @@
+{
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1624417946016,
+    "lastSeen": 1624424138835
+  },
+  "forward_1@lichess": {
+    "id": "forward_1",
+    "provider": "lichess",
+    "username": "FORWARD_1",
+    "firstSeen": 1624421948996,
+    "lastSeen": 1624424123463
+  },
+  "flaming_spy@lichess": {
+    "id": "flaming_spy",
+    "provider": "lichess",
+    "username": "Flaming_spy",
+    "firstSeen": 1624422945679,
+    "lastSeen": 1624423840291
+  },
+  "rodeobot@lichess": {
+    "id": "rodeobot",
+    "provider": "lichess",
+    "username": "RodeoBot",
+    "firstSeen": 1624423257617,
+    "lastSeen": 1624424105006
+  },
+  "yug_kamal@lichess": {
+    "id": "yug_kamal",
+    "provider": "lichess",
+    "username": "Yug_kamal",
+    "firstSeen": 1624423386025,
+    "lastSeen": 1624423758855
+  },
+  "kings_4_dinner_bot@lichess": {
+    "id": "kings_4_dinner_bot",
+    "provider": "lichess",
+    "username": "Kings_4_Dinner_Bot",
+    "firstSeen": 1624424641987,
+    "lastSeen": 1624424641987
+  }
+}
