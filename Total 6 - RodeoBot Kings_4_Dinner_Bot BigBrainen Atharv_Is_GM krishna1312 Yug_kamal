@@ -1,0 +1,44 @@
+{
+  "rodeobot@lichess": {
+    "id": "rodeobot",
+    "provider": "lichess",
+    "username": "RodeoBot",
+    "firstSeen": 1624423257617,
+    "lastSeen": 1624427586465
+  },
+  "kings_4_dinner_bot@lichess": {
+    "id": "kings_4_dinner_bot",
+    "provider": "lichess",
+    "username": "Kings_4_Dinner_Bot",
+    "firstSeen": 1624424641987,
+    "lastSeen": 1624427711755
+  },
+  "bigbrainen@lichess": {
+    "id": "bigbrainen",
+    "provider": "lichess",
+    "username": "BigBrainen",
+    "firstSeen": 1624426560967,
+    "lastSeen": 1624427332826
+  },
+  "atharv_is_gm@lichess": {
+    "id": "atharv_is_gm",
+    "provider": "lichess",
+    "username": "Atharv_Is_GM",
+    "firstSeen": 1624426908984,
+    "lastSeen": 1624427622480
+  },
+  "krishna1312@lichess": {
+    "id": "krishna1312",
+    "provider": "lichess",
+    "username": "krishna1312",
+    "firstSeen": 1624427172940,
+    "lastSeen": 1624427195548
+  },
+  "yug_kamal@lichess": {
+    "id": "yug_kamal",
+    "provider": "lichess",
+    "username": "Yug_kamal",
+    "firstSeen": 1624427366715,
+    "lastSeen": 1624427371501
+  }
+}
