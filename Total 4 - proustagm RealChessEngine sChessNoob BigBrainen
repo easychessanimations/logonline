@@ -1,0 +1,39 @@
+{
+  "proustagm@lichess": {
+    "id": "proustagm",
+    "provider": "lichess",
+    "username": "proustagm",
+    "firstSeen": 1624428931727,
+    "lastSeen": 1624449465397,
+    "firstSeenTime": "6:15:31 AM",
+    "lastSeenTime": "11:57:45 AM",
+    "onlineDurationMins": 342.2278333333333
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1624447289050,
+    "lastSeen": 1624450099391,
+    "firstSeenTime": "11:21:29 AM",
+    "lastSeenTime": "11:58:12 AM",
+    "onlineDurationMins": 36.72456666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1624449620368,
+    "lastSeen": 1624449620368,
+    "firstSeenTime": "12:00:20 PM",
+    "lastSeenTime": "12:00:20 PM",
+    "onlineDurationMins": 0
+  },
+  "bigbrainen@lichess": {
+    "id": "bigbrainen",
+    "provider": "lichess",
+    "username": "BigBrainen",
+    "firstSeen": 1624450157761,
+    "lastSeen": 1624450157761
+  }
+}
