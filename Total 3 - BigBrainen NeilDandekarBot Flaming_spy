@@ -1,0 +1,23 @@
+{
+  "bigbrainen@lichess": {
+    "id": "bigbrainen",
+    "provider": "lichess",
+    "username": "BigBrainen",
+    "firstSeen": 1624405373053,
+    "lastSeen": 1624419052946
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1624417946016,
+    "lastSeen": 1624419133559
+  },
+  "flaming_spy@lichess": {
+    "id": "flaming_spy",
+    "provider": "lichess",
+    "username": "Flaming_spy",
+    "firstSeen": 1624419156706,
+    "lastSeen": 1624419156706
+  }
+}
