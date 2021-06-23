@@ -1,0 +1,58 @@
+{
+  "bigbrainen@lichess": {
+    "id": "bigbrainen",
+    "provider": "lichess",
+    "username": "BigBrainen",
+    "firstSeen": 1624405373053,
+    "lastSeen": 1624423370211
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1624417946016,
+    "lastSeen": 1624423358782
+  },
+  "bestchessbot@lichess": {
+    "id": "bestchessbot",
+    "provider": "lichess",
+    "username": "bestchessbot",
+    "firstSeen": 1624420770599,
+    "lastSeen": 1624422820703
+  },
+  "me_a_bot21@lichess": {
+    "id": "me_a_bot21",
+    "provider": "lichess",
+    "username": "Me_a_Bot21",
+    "firstSeen": 1624421194990,
+    "lastSeen": 1624423360980
+  },
+  "forward_1@lichess": {
+    "id": "forward_1",
+    "provider": "lichess",
+    "username": "FORWARD_1",
+    "firstSeen": 1624421948996,
+    "lastSeen": 1624423607931
+  },
+  "flaming_spy@lichess": {
+    "id": "flaming_spy",
+    "provider": "lichess",
+    "username": "Flaming_spy",
+    "firstSeen": 1624422945679,
+    "lastSeen": 1624422956129
+  },
+  "rodeobot@lichess": {
+    "id": "rodeobot",
+    "provider": "lichess",
+    "username": "RodeoBot",
+    "firstSeen": 1624423257617,
+    "lastSeen": 1624423299708
+  },
+  "yug_kamal@lichess": {
+    "id": "yug_kamal",
+    "provider": "lichess",
+    "username": "Yug_kamal",
+    "firstSeen": 1624423386025,
+    "lastSeen": 1624423434174
+  }
+}
