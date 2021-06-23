@@ -1,0 +1,58 @@
+{
+  "rodeobot@lichess": {
+    "id": "rodeobot",
+    "provider": "lichess",
+    "username": "RodeoBot",
+    "firstSeen": 1624423257617,
+    "lastSeen": 1624428242754
+  },
+  "kings_4_dinner_bot@lichess": {
+    "id": "kings_4_dinner_bot",
+    "provider": "lichess",
+    "username": "Kings_4_Dinner_Bot",
+    "firstSeen": 1624424641987,
+    "lastSeen": 1624428010092
+  },
+  "atharv_is_gm@lichess": {
+    "id": "atharv_is_gm",
+    "provider": "lichess",
+    "username": "Atharv_Is_GM",
+    "firstSeen": 1624426908984,
+    "lastSeen": 1624428282486
+  },
+  "yug_kamal@lichess": {
+    "id": "yug_kamal",
+    "provider": "lichess",
+    "username": "Yug_kamal",
+    "firstSeen": 1624427366715,
+    "lastSeen": 1624427996136
+  },
+  "chlorophyll21111212@lichess": {
+    "id": "chlorophyll21111212",
+    "provider": "lichess",
+    "username": "Chlorophyll21111212",
+    "firstSeen": 1624427809519,
+    "lastSeen": 1624428415047
+  },
+  "flaming_spy@lichess": {
+    "id": "flaming_spy",
+    "provider": "lichess",
+    "username": "Flaming_spy",
+    "firstSeen": 1624428017933,
+    "lastSeen": 1624428265792
+  },
+  "chess_bot-child@lichess": {
+    "id": "chess_bot-child",
+    "provider": "lichess",
+    "username": "Chess_Bot-Child",
+    "firstSeen": 1624428491078,
+    "lastSeen": 1624428512141
+  },
+  "pepejabekhepe@lichess": {
+    "id": "pepejabekhepe",
+    "provider": "lichess",
+    "username": "pepejabekhepe",
+    "firstSeen": 1624428597915,
+    "lastSeen": 1624428597915
+  }
+}
