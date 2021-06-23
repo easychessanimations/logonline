@@ -1,0 +1,30 @@
+{
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1624417946016,
+    "lastSeen": 1624424855344
+  },
+  "rodeobot@lichess": {
+    "id": "rodeobot",
+    "provider": "lichess",
+    "username": "RodeoBot",
+    "firstSeen": 1624423257617,
+    "lastSeen": 1624424825675
+  },
+  "kings_4_dinner_bot@lichess": {
+    "id": "kings_4_dinner_bot",
+    "provider": "lichess",
+    "username": "Kings_4_Dinner_Bot",
+    "firstSeen": 1624424641987,
+    "lastSeen": 1624425192690
+  },
+  "avijitchesslogin@lichess": {
+    "id": "avijitchesslogin",
+    "provider": "lichess",
+    "username": "Avijitchesslogin",
+    "firstSeen": 1624424853044,
+    "lastSeen": 1624424858472
+  }
+}
