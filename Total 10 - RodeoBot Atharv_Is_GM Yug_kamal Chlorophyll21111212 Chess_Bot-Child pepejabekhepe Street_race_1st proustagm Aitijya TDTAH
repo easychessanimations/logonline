@@ -1,0 +1,93 @@
+{
+  "rodeobot@lichess": {
+    "id": "rodeobot",
+    "provider": "lichess",
+    "username": "RodeoBot",
+    "firstSeen": 1624423257617,
+    "lastSeen": 1624429814053,
+    "firstSeenTime": "4:40:57 AM",
+    "lastSeenTime": "6:14:04 AM",
+    "onlineDurationMins": 93.12166666666667
+  },
+  "atharv_is_gm@lichess": {
+    "id": "atharv_is_gm",
+    "provider": "lichess",
+    "username": "Atharv_Is_GM",
+    "firstSeen": 1624426908984,
+    "lastSeen": 1624429603113,
+    "firstSeenTime": "5:41:48 AM",
+    "lastSeenTime": "6:04:42 AM",
+    "onlineDurationMins": 22.8917
+  },
+  "yug_kamal@lichess": {
+    "id": "yug_kamal",
+    "provider": "lichess",
+    "username": "Yug_kamal",
+    "firstSeen": 1624427366715,
+    "lastSeen": 1624429329837,
+    "firstSeenTime": "5:49:26 AM",
+    "lastSeenTime": "6:14:28 AM",
+    "onlineDurationMins": 25.035066666666665
+  },
+  "chlorophyll21111212@lichess": {
+    "id": "chlorophyll21111212",
+    "provider": "lichess",
+    "username": "Chlorophyll21111212",
+    "firstSeen": 1624427809519,
+    "lastSeen": 1624429556237,
+    "firstSeenTime": "5:56:49 AM",
+    "lastSeenTime": "6:14:09 AM",
+    "onlineDurationMins": 17.333466666666666
+  },
+  "chess_bot-child@lichess": {
+    "id": "chess_bot-child",
+    "provider": "lichess",
+    "username": "Chess_Bot-Child",
+    "firstSeen": 1624428491078,
+    "lastSeen": 1624429524061,
+    "firstSeenTime": "6:08:11 AM",
+    "lastSeenTime": "6:14:14 AM",
+    "onlineDurationMins": 6.052766666666667
+  },
+  "pepejabekhepe@lichess": {
+    "id": "pepejabekhepe",
+    "provider": "lichess",
+    "username": "pepejabekhepe",
+    "firstSeen": 1624428597915,
+    "lastSeen": 1624429020620,
+    "firstSeenTime": "6:09:57 AM",
+    "lastSeenTime": "6:14:21 AM",
+    "onlineDurationMins": 4.391666666666667
+  },
+  "street_race_1st@lichess": {
+    "id": "street_race_1st",
+    "provider": "lichess",
+    "username": "Street_race_1st",
+    "firstSeen": 1624428621156,
+    "lastSeen": 1624429048311,
+    "firstSeenTime": "6:10:21 AM",
+    "lastSeenTime": "6:14:18 AM",
+    "onlineDurationMins": 3.9515333333333333
+  },
+  "proustagm@lichess": {
+    "id": "proustagm",
+    "provider": "lichess",
+    "username": "proustagm",
+    "firstSeen": 1624428931727,
+    "lastSeen": 1624429669540
+  },
+  "aitijya@lichess": {
+    "id": "aitijya",
+    "provider": "lichess",
+    "username": "Aitijya",
+    "firstSeen": 1624429604838,
+    "lastSeen": 1624429695040
+  },
+  "tdtah@lichess": {
+    "id": "tdtah",
+    "provider": "lichess",
+    "username": "TDTAH",
+    "firstSeen": 1624429689766,
+    "lastSeen": 1624429711931
+  }
+}
