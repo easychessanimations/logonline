@@ -1,0 +1,30 @@
+{
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1624534349681,
+    "lastSeen": 1624535673050
+  },
+  "wearysyrupbot@lichess": {
+    "id": "wearysyrupbot",
+    "provider": "lichess",
+    "username": "WearySyrupBOT",
+    "firstSeen": 1624534619265,
+    "lastSeen": 1624536160771
+  },
+  "bot_antichess_atomik@lichess": {
+    "id": "bot_antichess_atomik",
+    "provider": "lichess",
+    "username": "BOT_antichess_atomik",
+    "firstSeen": 1624534684329,
+    "lastSeen": 1624536186721
+  },
+  "bot_variants@lichess": {
+    "id": "bot_variants",
+    "provider": "lichess",
+    "username": "bot_variants",
+    "firstSeen": 1624536242105,
+    "lastSeen": 1624536242105
+  }
+}
