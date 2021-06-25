@@ -1,0 +1,51 @@
+{
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1624591306757,
+    "lastSeen": 1624594309566
+  },
+  "rodeobot@lichess": {
+    "id": "rodeobot",
+    "provider": "lichess",
+    "username": "RodeoBot",
+    "firstSeen": 1624592549975,
+    "lastSeen": 1624594121929
+  },
+  "albacadabra@lichess": {
+    "id": "albacadabra",
+    "provider": "lichess",
+    "username": "albacadabra",
+    "firstSeen": 1624592602382,
+    "lastSeen": 1624594112779
+  },
+  "chess-uaredeadqueen@lichess": {
+    "id": "chess-uaredeadqueen",
+    "provider": "lichess",
+    "username": "chess-uaredeadqueen",
+    "firstSeen": 1624592607688,
+    "lastSeen": 1624593966110
+  },
+  "tdtah@lichess": {
+    "id": "tdtah",
+    "provider": "lichess",
+    "username": "TDTAH",
+    "firstSeen": 1624593620352,
+    "lastSeen": 1624593804919
+  },
+  "kings_4_dinner_bot@lichess": {
+    "id": "kings_4_dinner_bot",
+    "provider": "lichess",
+    "username": "Kings_4_Dinner_Bot",
+    "firstSeen": 1624593633798,
+    "lastSeen": 1624594301922
+  },
+  "kookie_bts@lichess": {
+    "id": "kookie_bts",
+    "provider": "lichess",
+    "username": "Kookie_BTS",
+    "firstSeen": 1624593764322,
+    "lastSeen": 1624593779403
+  }
+}
