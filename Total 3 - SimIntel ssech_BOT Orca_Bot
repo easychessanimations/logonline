@@ -1,0 +1,23 @@
+{
+  "simintel@lichess": {
+    "id": "simintel",
+    "provider": "lichess",
+    "username": "SimIntel",
+    "firstSeen": 1624802953846,
+    "lastSeen": 1624805703702
+  },
+  "ssech_bot@lichess": {
+    "id": "ssech_bot",
+    "provider": "lichess",
+    "username": "ssech_BOT",
+    "firstSeen": 1624803849176,
+    "lastSeen": 1624805697176
+  },
+  "orca_bot@lichess": {
+    "id": "orca_bot",
+    "provider": "lichess",
+    "username": "Orca_Bot",
+    "firstSeen": 1624805014459,
+    "lastSeen": 1624805793470
+  }
+}
