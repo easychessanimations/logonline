@@ -1,0 +1,33 @@
+{
+  "orca_bot@lichess": {
+    "id": "orca_bot",
+    "provider": "lichess",
+    "username": "Orca_Bot",
+    "firstSeen": 1624790458922,
+    "lastSeen": 1624797015978,
+    "firstSeenTime": "10:40:58 AM",
+    "lastSeenTime": "11:56:48 AM",
+    "onlineDurationMins": 75.82405
+  },
+  "kidaccounthere1200pv@lichess": {
+    "id": "kidaccounthere1200pv",
+    "provider": "lichess",
+    "username": "Kidaccounthere1200pv",
+    "firstSeen": 1624797371370,
+    "lastSeen": 1624797463172
+  },
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1624797464247,
+    "lastSeen": 1624797579300
+  },
+  "oppswhattoforum@lichess": {
+    "id": "oppswhattoforum",
+    "provider": "lichess",
+    "username": "Oppswhattoforum",
+    "firstSeen": 1624797580272,
+    "lastSeen": 1624797580272
+  }
+}
