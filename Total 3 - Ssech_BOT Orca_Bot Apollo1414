@@ -1,0 +1,23 @@
+{
+  "ssech_bot@lichess": {
+    "id": "ssech_bot",
+    "provider": "lichess",
+    "username": "Ssech_BOT",
+    "firstSeen": 1624887420477,
+    "lastSeen": 1624888932144
+  },
+  "orca_bot@lichess": {
+    "id": "orca_bot",
+    "provider": "lichess",
+    "username": "Orca_Bot",
+    "firstSeen": 1624887711419,
+    "lastSeen": 1624889213210
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1624889247399,
+    "lastSeen": 1624889247399
+  }
+}
