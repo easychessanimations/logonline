@@ -4,13 +4,16 @@
     "provider": "lichess",
     "username": "ssech_BOT",
     "firstSeen": 1624853979576,
-    "lastSeen": 1624858297385
+    "lastSeen": 1624861107647,
+    "firstSeenTime": "4:19:39 AM",
+    "lastSeenTime": "5:37:47 AM",
+    "onlineDurationMins": 78.12741666666666
   },
   "orca_bot@lichess": {
     "id": "orca_bot",
     "provider": "lichess",
     "username": "Orca_Bot",
-    "firstSeen": 1624858350237,
-    "lastSeen": 1624858350237
+    "firstSeen": 1624861360807,
+    "lastSeen": 1624861360807
   }
 }
