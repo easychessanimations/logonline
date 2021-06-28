@@ -1,0 +1,33 @@
+{
+  "ssech_bot@lichess": {
+    "id": "ssech_bot",
+    "provider": "lichess",
+    "username": "ssech_BOT",
+    "firstSeen": 1624853979576,
+    "lastSeen": 1624864811027,
+    "firstSeenTime": "4:19:39 AM",
+    "lastSeenTime": "5:37:47 AM",
+    "onlineDurationMins": 78.12741666666666
+  },
+  "simintel@lichess": {
+    "id": "simintel",
+    "provider": "lichess",
+    "username": "SimIntel",
+    "firstSeen": 1624863228397,
+    "lastSeen": 1624865251179
+  },
+  "ditchess@lichess": {
+    "id": "ditchess",
+    "provider": "lichess",
+    "username": "Ditchess",
+    "firstSeen": 1624864778338,
+    "lastSeen": 1624864796726
+  },
+  "orca_bot@lichess": {
+    "id": "orca_bot",
+    "provider": "lichess",
+    "username": "Orca_Bot",
+    "firstSeen": 1624865449002,
+    "lastSeen": 1624865449002
+  }
+}
