@@ -1,0 +1,62 @@
+{
+  "r-o-b-o-t@lichess": {
+    "id": "r-o-b-o-t",
+    "provider": "lichess",
+    "username": "R-O-B-O-T",
+    "firstSeen": 1625120472619,
+    "lastSeen": 1625126708475,
+    "firstSeenTime": "6:21:12 AM",
+    "lastSeenTime": "8:05:08 AM",
+    "onlineDurationMins": 103.93093333333333
+  },
+  "albacadabra@lichess": {
+    "id": "albacadabra",
+    "provider": "lichess",
+    "username": "albacadabra",
+    "firstSeen": 1625122408010,
+    "lastSeen": 1625126613596,
+    "firstSeenTime": "6:53:28 AM",
+    "lastSeenTime": "8:03:33 AM",
+    "onlineDurationMins": 70.0931
+  },
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1625124185367,
+    "lastSeen": 1625126593772,
+    "firstSeenTime": "7:23:05 AM",
+    "lastSeenTime": "8:03:13 AM",
+    "onlineDurationMins": 40.14008333333334
+  },
+  "kyle_0111@lichess": {
+    "id": "kyle_0111",
+    "provider": "lichess",
+    "username": "Kyle_0111",
+    "firstSeen": 1625125282065,
+    "lastSeen": 1625126772797,
+    "firstSeenTime": "7:41:22 AM",
+    "lastSeenTime": "8:06:12 AM",
+    "onlineDurationMins": 24.845533333333332
+  },
+  "siberkingcr7@lichess": {
+    "id": "siberkingcr7",
+    "provider": "lichess",
+    "username": "SiberKingCR7",
+    "firstSeen": 1625125951021,
+    "lastSeen": 1625126633456,
+    "firstSeenTime": "7:52:31 AM",
+    "lastSeenTime": "8:03:53 AM",
+    "onlineDurationMins": 11.373916666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1625126835700,
+    "lastSeen": 1625126835700,
+    "firstSeenTime": "8:07:15 AM",
+    "lastSeenTime": "8:07:15 AM",
+    "onlineDurationMins": 0
+  }
+}
