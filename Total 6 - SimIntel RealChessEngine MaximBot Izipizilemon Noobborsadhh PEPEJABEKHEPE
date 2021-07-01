@@ -1,0 +1,44 @@
+{
+  "simintel@lichess": {
+    "id": "simintel",
+    "provider": "lichess",
+    "username": "SimIntel",
+    "firstSeen": 1625147172752,
+    "lastSeen": 1625154612532
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1625151939418,
+    "lastSeen": 1625154656781
+  },
+  "maximbot@lichess": {
+    "id": "maximbot",
+    "provider": "lichess",
+    "username": "MaximBot",
+    "firstSeen": 1625153048484,
+    "lastSeen": 1625154599276
+  },
+  "izipizilemon@lichess": {
+    "id": "izipizilemon",
+    "provider": "lichess",
+    "username": "Izipizilemon",
+    "firstSeen": 1625153927799,
+    "lastSeen": 1625154397521
+  },
+  "noobborsadhh@lichess": {
+    "id": "noobborsadhh",
+    "provider": "lichess",
+    "username": "Noobborsadhh",
+    "firstSeen": 1625154404902,
+    "lastSeen": 1625154729645
+  },
+  "pepejabekhepe@lichess": {
+    "id": "pepejabekhepe",
+    "provider": "lichess",
+    "username": "PEPEJABEKHEPE",
+    "firstSeen": 1625154601478,
+    "lastSeen": 1625154614077
+  }
+}
