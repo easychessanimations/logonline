@@ -1,0 +1,23 @@
+{
+  "simintel@lichess": {
+    "id": "simintel",
+    "provider": "lichess",
+    "username": "SimIntel",
+    "firstSeen": 1625147172752,
+    "lastSeen": 1625155933145
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1625151939418,
+    "lastSeen": 1625155978192
+  },
+  "pepejabekhepe@lichess": {
+    "id": "pepejabekhepe",
+    "provider": "lichess",
+    "username": "PEPEJABEKHEPE",
+    "firstSeen": 1625154601478,
+    "lastSeen": 1625156135330
+  }
+}
