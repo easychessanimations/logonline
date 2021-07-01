@@ -1,0 +1,26 @@
+{
+  "albacadabra@lichess": {
+    "id": "albacadabra",
+    "provider": "lichess",
+    "username": "albacadabra",
+    "firstSeen": 1625143554351,
+    "lastSeen": 1625147192170,
+    "firstSeenTime": "12:45:54 PM",
+    "lastSeenTime": "12:48:29 PM",
+    "onlineDurationMins": 2.5881666666666665
+  },
+  "simintel@lichess": {
+    "id": "simintel",
+    "provider": "lichess",
+    "username": "SimIntel",
+    "firstSeen": 1625147172752,
+    "lastSeen": 1625147492703
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1625147580055,
+    "lastSeen": 1625147580055
+  }
+}
