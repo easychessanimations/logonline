@@ -1,0 +1,42 @@
+{
+  "simintel@lichess": {
+    "id": "simintel",
+    "provider": "lichess",
+    "username": "SimIntel",
+    "firstSeen": 1625141480246,
+    "lastSeen": 1625144492981,
+    "firstSeenTime": "12:11:20 PM",
+    "lastSeenTime": "12:44:13 PM",
+    "onlineDurationMins": 32.87971666666667
+  },
+  "kyle_0111@lichess": {
+    "id": "kyle_0111",
+    "provider": "lichess",
+    "username": "Kyle_0111",
+    "firstSeen": 1625142102583,
+    "lastSeen": 1625144185932,
+    "firstSeenTime": "12:21:42 PM",
+    "lastSeenTime": "12:47:22 PM",
+    "onlineDurationMins": 25.66095
+  },
+  "themagpie912@lichess": {
+    "id": "themagpie912",
+    "provider": "lichess",
+    "username": "TheMagpie912",
+    "firstSeen": 1625142475648,
+    "lastSeen": 1625144683141,
+    "firstSeenTime": "12:27:55 PM",
+    "lastSeenTime": "12:48:09 PM",
+    "onlineDurationMins": 20.22365
+  },
+  "albacadabra@lichess": {
+    "id": "albacadabra",
+    "provider": "lichess",
+    "username": "albacadabra",
+    "firstSeen": 1625143554351,
+    "lastSeen": 1625144195211,
+    "firstSeenTime": "12:45:54 PM",
+    "lastSeenTime": "12:48:29 PM",
+    "onlineDurationMins": 2.5881666666666665
+  }
+}
