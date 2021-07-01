@@ -1,0 +1,30 @@
+{
+  "r-o-b-o-t@lichess": {
+    "id": "r-o-b-o-t",
+    "provider": "lichess",
+    "username": "R-O-B-O-T",
+    "firstSeen": 1625103087934,
+    "lastSeen": 1625114060479
+  },
+  "kyle_0111@lichess": {
+    "id": "kyle_0111",
+    "provider": "lichess",
+    "username": "Kyle_0111",
+    "firstSeen": 1625106094072,
+    "lastSeen": 1625114108745
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1625109770271,
+    "lastSeen": 1625114056116
+  },
+  "superchessbot2563@lichess": {
+    "id": "superchessbot2563",
+    "provider": "lichess",
+    "username": "SuperChessBot2563",
+    "firstSeen": 1625113201645,
+    "lastSeen": 1625114093083
+  }
+}
