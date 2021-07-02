@@ -1,0 +1,53 @@
+{
+  "albacadabra@lichess": {
+    "id": "albacadabra",
+    "provider": "lichess",
+    "username": "albacadabra",
+    "firstSeen": 1625189424751,
+    "lastSeen": 1625203724753,
+    "firstSeenTime": "1:30:24 AM",
+    "lastSeenTime": "4:54:10 AM",
+    "onlineDurationMins": 203.75416666666666
+  },
+  "prochessplayerbot25@lichess": {
+    "id": "prochessplayerbot25",
+    "provider": "lichess",
+    "username": "ProChessPlayerBot25",
+    "firstSeen": 1625200926765,
+    "lastSeen": 1625203749533,
+    "firstSeenTime": "4:42:06 AM",
+    "lastSeenTime": "4:53:15 AM",
+    "onlineDurationMins": 11.1478
+  },
+  "pepejabekhepe@lichess": {
+    "id": "pepejabekhepe",
+    "provider": "lichess",
+    "username": "PEPEJABEKHEPE",
+    "firstSeen": 1625201426862,
+    "lastSeen": 1625203729873,
+    "firstSeenTime": "4:50:26 AM",
+    "lastSeenTime": "4:50:39 AM",
+    "onlineDurationMins": 0.2175
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1625202131036,
+    "lastSeen": 1625203408908
+  },
+  "sandalu1234@lichess": {
+    "id": "sandalu1234",
+    "provider": "lichess",
+    "username": "SaNdAlU1234",
+    "firstSeen": 1625202536061,
+    "lastSeen": 1625203561528
+  },
+  "k_shi_bot@lichess": {
+    "id": "k_shi_bot",
+    "provider": "lichess",
+    "username": "K_Shi_Bot",
+    "firstSeen": 1625203460651,
+    "lastSeen": 1625203464151
+  }
+}
