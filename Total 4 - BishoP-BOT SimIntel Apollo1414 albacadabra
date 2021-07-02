@@ -1,0 +1,33 @@
+{
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1625228414610,
+    "lastSeen": 1625233620261,
+    "firstSeenTime": "12:20:14 PM",
+    "lastSeenTime": "12:52:29 PM",
+    "onlineDurationMins": 32.24491666666667
+  },
+  "simintel@lichess": {
+    "id": "simintel",
+    "provider": "lichess",
+    "username": "SimIntel",
+    "firstSeen": 1625232896691,
+    "lastSeen": 1625233697369
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1625233501251,
+    "lastSeen": 1625233684417
+  },
+  "albacadabra@lichess": {
+    "id": "albacadabra",
+    "provider": "lichess",
+    "username": "albacadabra",
+    "firstSeen": 1625234113294,
+    "lastSeen": 1625234113294
+  }
+}
