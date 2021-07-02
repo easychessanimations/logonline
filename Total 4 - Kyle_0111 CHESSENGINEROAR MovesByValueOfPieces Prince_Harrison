@@ -1,0 +1,33 @@
+{
+  "kyle_0111@lichess": {
+    "id": "kyle_0111",
+    "provider": "lichess",
+    "username": "Kyle_0111",
+    "firstSeen": 1625204235070,
+    "lastSeen": 1625216186442,
+    "firstSeenTime": "5:37:15 AM",
+    "lastSeenTime": "7:35:23 AM",
+    "onlineDurationMins": 118.13421666666666
+  },
+  "chessengineroar@lichess": {
+    "id": "chessengineroar",
+    "provider": "lichess",
+    "username": "CHESSENGINEROAR",
+    "firstSeen": 1625214373278,
+    "lastSeen": 1625216495053
+  },
+  "movesbyvalueofpieces@lichess": {
+    "id": "movesbyvalueofpieces",
+    "provider": "lichess",
+    "username": "MovesByValueOfPieces",
+    "firstSeen": 1625215536026,
+    "lastSeen": 1625215697099
+  },
+  "prince_harrison@lichess": {
+    "id": "prince_harrison",
+    "provider": "lichess",
+    "username": "Prince_Harrison",
+    "firstSeen": 1625215567944,
+    "lastSeen": 1625215638682
+  }
+}
