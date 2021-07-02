@@ -3,17 +3,20 @@
     "id": "bishop-bot",
     "provider": "lichess",
     "username": "BishoP-BOT",
-    "firstSeen": 1625240677966,
-    "lastSeen": 1625244424106,
-    "firstSeenTime": "3:44:37 PM",
-    "lastSeenTime": "4:11:26 PM",
-    "onlineDurationMins": 26.8104
+    "firstSeen": 1625246728531,
+    "lastSeen": 1625247996878,
+    "firstSeenTime": "5:25:28 PM",
+    "lastSeenTime": "5:32:16 PM",
+    "onlineDurationMins": 6.795733333333334
   },
   "maximbot@lichess": {
     "id": "maximbot",
     "provider": "lichess",
     "username": "MaximBot",
-    "firstSeen": 1625244490765,
-    "lastSeen": 1625244490765
+    "firstSeen": 1625247309076,
+    "lastSeen": 1625247974064,
+    "firstSeenTime": "5:35:09 PM",
+    "lastSeenTime": "5:35:18 PM",
+    "onlineDurationMins": 0.15706666666666666
   }
 }
