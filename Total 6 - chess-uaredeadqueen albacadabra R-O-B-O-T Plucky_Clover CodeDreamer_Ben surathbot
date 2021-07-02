@@ -1,0 +1,44 @@
+{
+  "chess-uaredeadqueen@lichess": {
+    "id": "chess-uaredeadqueen",
+    "provider": "lichess",
+    "username": "chess-uaredeadqueen",
+    "firstSeen": 1625189423988,
+    "lastSeen": 1625196007898
+  },
+  "albacadabra@lichess": {
+    "id": "albacadabra",
+    "provider": "lichess",
+    "username": "albacadabra",
+    "firstSeen": 1625189424751,
+    "lastSeen": 1625196055450
+  },
+  "r-o-b-o-t@lichess": {
+    "id": "r-o-b-o-t",
+    "provider": "lichess",
+    "username": "R-O-B-O-T",
+    "firstSeen": 1625192629665,
+    "lastSeen": 1625196059368
+  },
+  "plucky_clover@lichess": {
+    "id": "plucky_clover",
+    "provider": "lichess",
+    "username": "Plucky_Clover",
+    "firstSeen": 1625195104187,
+    "lastSeen": 1625195708611
+  },
+  "859974694560333824@discord": {
+    "id": "859974694560333824",
+    "provider": "discord",
+    "username": "CodeDreamer_Ben",
+    "firstSeen": 1625195228347,
+    "lastSeen": 1625195245699
+  },
+  "surathbot@lichess": {
+    "id": "surathbot",
+    "provider": "lichess",
+    "username": "surathbot",
+    "firstSeen": 1625196061476,
+    "lastSeen": 1625196061476
+  }
+}
