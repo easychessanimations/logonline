@@ -1,0 +1,37 @@
+{
+  "mironbundesliga@lichess": {
+    "id": "mironbundesliga",
+    "provider": "lichess",
+    "username": "MironBundesliga",
+    "firstSeen": 1625246180488,
+    "lastSeen": 1625247130597
+  },
+  "steaknknives@lichess": {
+    "id": "steaknknives",
+    "provider": "lichess",
+    "username": "SteaknKnives",
+    "firstSeen": 1625246721231,
+    "lastSeen": 1625246830491
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1625246728531,
+    "lastSeen": 1625247136275
+  },
+  "maximbot@lichess": {
+    "id": "maximbot",
+    "provider": "lichess",
+    "username": "MaximBot",
+    "firstSeen": 1625247309076,
+    "lastSeen": 1625247318500
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1625247537966,
+    "lastSeen": 1625247537966
+  }
+}
