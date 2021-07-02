@@ -1,0 +1,62 @@
+{
+  "chess-uaredeadqueen@lichess": {
+    "id": "chess-uaredeadqueen",
+    "provider": "lichess",
+    "username": "chess-uaredeadqueen",
+    "firstSeen": 1625189423988,
+    "lastSeen": 1625201742097,
+    "firstSeenTime": "1:30:23 AM",
+    "lastSeenTime": "4:54:10 AM",
+    "onlineDurationMins": 203.76795
+  },
+  "albacadabra@lichess": {
+    "id": "albacadabra",
+    "provider": "lichess",
+    "username": "albacadabra",
+    "firstSeen": 1625189424751,
+    "lastSeen": 1625202031434,
+    "firstSeenTime": "1:30:24 AM",
+    "lastSeenTime": "4:54:10 AM",
+    "onlineDurationMins": 203.75416666666666
+  },
+  "r-o-b-o-t@lichess": {
+    "id": "r-o-b-o-t",
+    "provider": "lichess",
+    "username": "R-O-B-O-T",
+    "firstSeen": 1625199839926,
+    "lastSeen": 1625202081060,
+    "firstSeenTime": "4:23:59 AM",
+    "lastSeenTime": "4:49:08 AM",
+    "onlineDurationMins": 25.136033333333334
+  },
+  "prochessplayerbot25@lichess": {
+    "id": "prochessplayerbot25",
+    "provider": "lichess",
+    "username": "ProChessPlayerBot25",
+    "firstSeen": 1625200926765,
+    "lastSeen": 1625202039158,
+    "firstSeenTime": "4:42:06 AM",
+    "lastSeenTime": "4:53:15 AM",
+    "onlineDurationMins": 11.1478
+  },
+  "pepejabekhepe@lichess": {
+    "id": "pepejabekhepe",
+    "provider": "lichess",
+    "username": "PEPEJABEKHEPE",
+    "firstSeen": 1625201426862,
+    "lastSeen": 1625202070691,
+    "firstSeenTime": "4:50:26 AM",
+    "lastSeenTime": "4:50:39 AM",
+    "onlineDurationMins": 0.2175
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1625201676031,
+    "lastSeen": 1625201676667,
+    "firstSeenTime": "4:54:36 AM",
+    "lastSeenTime": "4:54:36 AM",
+    "onlineDurationMins": 0
+  }
+}
