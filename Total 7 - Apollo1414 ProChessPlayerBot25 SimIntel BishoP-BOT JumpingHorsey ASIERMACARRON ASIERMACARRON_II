@@ -1,0 +1,63 @@
+{
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1625222955245,
+    "lastSeen": 1625232001210,
+    "firstSeenTime": "10:49:15 AM",
+    "lastSeenTime": "12:49:04 PM",
+    "onlineDurationMins": 119.81831666666666
+  },
+  "prochessplayerbot25@lichess": {
+    "id": "prochessplayerbot25",
+    "provider": "lichess",
+    "username": "ProChessPlayerBot25",
+    "firstSeen": 1625224392925,
+    "lastSeen": 1625231881478,
+    "firstSeenTime": "11:13:12 AM",
+    "lastSeenTime": "12:53:24 PM",
+    "onlineDurationMins": 100.19293333333333
+  },
+  "simintel@lichess": {
+    "id": "simintel",
+    "provider": "lichess",
+    "username": "SimIntel",
+    "firstSeen": 1625227513874,
+    "lastSeen": 1625231893803,
+    "firstSeenTime": "12:05:13 PM",
+    "lastSeenTime": "12:44:56 PM",
+    "onlineDurationMins": 39.71856666666667
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1625228414610,
+    "lastSeen": 1625232458891,
+    "firstSeenTime": "12:20:14 PM",
+    "lastSeenTime": "12:52:29 PM",
+    "onlineDurationMins": 32.24491666666667
+  },
+  "jumpinghorsey@lichess": {
+    "id": "jumpinghorsey",
+    "provider": "lichess",
+    "username": "JumpingHorsey",
+    "firstSeen": 1625230901042,
+    "lastSeen": 1625232437639
+  },
+  "asiermacarron@lichess": {
+    "id": "asiermacarron",
+    "provider": "lichess",
+    "username": "ASIERMACARRON",
+    "firstSeen": 1625232180909,
+    "lastSeen": 1625232213048
+  },
+  "asiermacarron_ii@lichess": {
+    "id": "asiermacarron_ii",
+    "provider": "lichess",
+    "username": "ASIERMACARRON_II",
+    "firstSeen": 1625232342345,
+    "lastSeen": 1625232352120
+  }
+}
