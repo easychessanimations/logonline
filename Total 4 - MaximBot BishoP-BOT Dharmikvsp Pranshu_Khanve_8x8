@@ -1,0 +1,30 @@
+{
+  "maximbot@lichess": {
+    "id": "maximbot",
+    "provider": "lichess",
+    "username": "MaximBot",
+    "firstSeen": 1625240059684,
+    "lastSeen": 1625241559814
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1625240677966,
+    "lastSeen": 1625241718147
+  },
+  "dharmikvsp@lichess": {
+    "id": "dharmikvsp",
+    "provider": "lichess",
+    "username": "Dharmikvsp",
+    "firstSeen": 1625241524606,
+    "lastSeen": 1625241836978
+  },
+  "pranshu_khanve_8x8@lichess": {
+    "id": "pranshu_khanve_8x8",
+    "provider": "lichess",
+    "username": "Pranshu_Khanve_8x8",
+    "firstSeen": 1625241841622,
+    "lastSeen": 1625241841622
+  }
+}
