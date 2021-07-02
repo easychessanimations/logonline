@@ -1,0 +1,76 @@
+{
+  "albacadabra@lichess": {
+    "id": "albacadabra",
+    "provider": "lichess",
+    "username": "albacadabra",
+    "firstSeen": 1625189424751,
+    "lastSeen": 1625204757917,
+    "firstSeenTime": "1:30:24 AM",
+    "lastSeenTime": "5:31:23 AM",
+    "onlineDurationMins": 240.9776
+  },
+  "prochessplayerbot25@lichess": {
+    "id": "prochessplayerbot25",
+    "provider": "lichess",
+    "username": "ProChessPlayerBot25",
+    "firstSeen": 1625200926765,
+    "lastSeen": 1625204770759,
+    "firstSeenTime": "4:42:06 AM",
+    "lastSeenTime": "5:33:15 AM",
+    "onlineDurationMins": 51.15375
+  },
+  "pepejabekhepe@lichess": {
+    "id": "pepejabekhepe",
+    "provider": "lichess",
+    "username": "PEPEJABEKHEPE",
+    "firstSeen": 1625201426862,
+    "lastSeen": 1625204719296,
+    "firstSeenTime": "4:50:26 AM",
+    "lastSeenTime": "5:32:46 AM",
+    "onlineDurationMins": 42.3258
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1625202131036,
+    "lastSeen": 1625204234483,
+    "firstSeenTime": "5:02:11 AM",
+    "lastSeenTime": "5:32:11 AM",
+    "onlineDurationMins": 30.000783333333334
+  },
+  "k_shi_bot@lichess": {
+    "id": "k_shi_bot",
+    "provider": "lichess",
+    "username": "K_Shi_Bot",
+    "firstSeen": 1625203460651,
+    "lastSeen": 1625204300561,
+    "firstSeenTime": "5:24:20 AM",
+    "lastSeenTime": "5:24:24 AM",
+    "onlineDurationMins": 0.058333333333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1625204057090,
+    "lastSeen": 1625204057090,
+    "firstSeenTime": "5:34:17 AM",
+    "lastSeenTime": "5:34:17 AM",
+    "onlineDurationMins": 0
+  },
+  "kyle_0111@lichess": {
+    "id": "kyle_0111",
+    "provider": "lichess",
+    "username": "Kyle_0111",
+    "firstSeen": 1625204235070,
+    "lastSeen": 1625204238423
+  },
+  "movesbyvalueofpieces@lichess": {
+    "id": "movesbyvalueofpieces",
+    "provider": "lichess",
+    "username": "MovesByValueOfPieces",
+    "firstSeen": 1625204793340,
+    "lastSeen": 1625204793340
+  }
+}
