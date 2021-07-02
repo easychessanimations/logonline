@@ -1,0 +1,22 @@
+{
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1625240677966,
+    "lastSeen": 1625243095693,
+    "firstSeenTime": "3:44:37 PM",
+    "lastSeenTime": "4:11:26 PM",
+    "onlineDurationMins": 26.8104
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1625242328912,
+    "lastSeen": 1625242329805,
+    "firstSeenTime": "4:12:08 PM",
+    "lastSeenTime": "4:12:08 PM",
+    "onlineDurationMins": 0
+  }
+}
