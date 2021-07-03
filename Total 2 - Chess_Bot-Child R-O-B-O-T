@@ -1,0 +1,19 @@
+{
+  "chess_bot-child@lichess": {
+    "id": "chess_bot-child",
+    "provider": "lichess",
+    "username": "Chess_Bot-Child",
+    "firstSeen": 1625282242322,
+    "lastSeen": 1625285801023,
+    "firstSeenTime": "3:17:22 AM",
+    "lastSeenTime": "3:17:42 AM",
+    "onlineDurationMins": 0.34346666666666664
+  },
+  "r-o-b-o-t@lichess": {
+    "id": "r-o-b-o-t",
+    "provider": "lichess",
+    "username": "R-O-B-O-T",
+    "firstSeen": 1625285962915,
+    "lastSeen": 1625285962915
+  }
+}
