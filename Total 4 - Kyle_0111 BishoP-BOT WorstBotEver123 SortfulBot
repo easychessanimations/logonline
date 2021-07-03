@@ -1,0 +1,39 @@
+{
+  "kyle_0111@lichess": {
+    "id": "kyle_0111",
+    "provider": "lichess",
+    "username": "Kyle_0111",
+    "firstSeen": 1625320455057,
+    "lastSeen": 1625321787307,
+    "firstSeenTime": "1:54:15 PM",
+    "lastSeenTime": "1:54:19 PM",
+    "onlineDurationMins": 0.06991666666666667
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1625320768401,
+    "lastSeen": 1625321985723,
+    "firstSeenTime": "1:59:28 PM",
+    "lastSeenTime": "2:03:48 PM",
+    "onlineDurationMins": 4.33345
+  },
+  "worstbotever123@lichess": {
+    "id": "worstbotever123",
+    "provider": "lichess",
+    "username": "WorstBotEver123",
+    "firstSeen": 1625321031312,
+    "lastSeen": 1625321929971,
+    "firstSeenTime": "2:03:51 PM",
+    "lastSeenTime": "2:04:01 PM",
+    "onlineDurationMins": 0.16196666666666668
+  },
+  "sortfulbot@lichess": {
+    "id": "sortfulbot",
+    "provider": "lichess",
+    "username": "SortfulBot",
+    "firstSeen": 1625321692589,
+    "lastSeen": 1625321721894
+  }
+}
