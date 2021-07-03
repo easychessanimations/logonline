@@ -1,0 +1,23 @@
+{
+  "prochessplayerbot25@lichess": {
+    "id": "prochessplayerbot25",
+    "provider": "lichess",
+    "username": "ProChessPlayerBot25",
+    "firstSeen": 1625288305234,
+    "lastSeen": 1625293767232
+  },
+  "simintel@lichess": {
+    "id": "simintel",
+    "provider": "lichess",
+    "username": "SimIntel",
+    "firstSeen": 1625291580594,
+    "lastSeen": 1625293757045
+  },
+  "bot4ever@lichess": {
+    "id": "bot4ever",
+    "provider": "lichess",
+    "username": "Bot4Ever",
+    "firstSeen": 1625292875456,
+    "lastSeen": 1625292966056
+  }
+}
