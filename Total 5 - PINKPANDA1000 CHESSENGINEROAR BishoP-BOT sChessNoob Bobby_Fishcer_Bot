@@ -1,0 +1,49 @@
+{
+  "pinkpanda1000@lichess": {
+    "id": "pinkpanda1000",
+    "provider": "lichess",
+    "username": "PINKPANDA1000",
+    "firstSeen": 1625331471018,
+    "lastSeen": 1625336004955,
+    "firstSeenTime": "4:57:51 PM",
+    "lastSeenTime": "6:13:24 PM",
+    "onlineDurationMins": 75.56561666666667
+  },
+  "chessengineroar@lichess": {
+    "id": "chessengineroar",
+    "provider": "lichess",
+    "username": "CHESSENGINEROAR",
+    "firstSeen": 1625333705957,
+    "lastSeen": 1625336224495,
+    "firstSeenTime": "5:35:05 PM",
+    "lastSeenTime": "6:17:04 PM",
+    "onlineDurationMins": 41.975633333333334
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1625335713339,
+    "lastSeen": 1625335728127,
+    "firstSeenTime": "6:08:33 PM",
+    "lastSeenTime": "6:08:48 PM",
+    "onlineDurationMins": 0.24646666666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1625336276688,
+    "lastSeen": 1625336276688,
+    "firstSeenTime": "6:17:56 PM",
+    "lastSeenTime": "6:17:56 PM",
+    "onlineDurationMins": 0
+  },
+  "bobby_fishcer_bot@lichess": {
+    "id": "bobby_fishcer_bot",
+    "provider": "lichess",
+    "username": "Bobby_Fishcer_Bot",
+    "firstSeen": 1625336346050,
+    "lastSeen": 1625336346050
+  }
+}
