@@ -1,0 +1,33 @@
+{
+  "prochessplayerbot25@lichess": {
+    "id": "prochessplayerbot25",
+    "provider": "lichess",
+    "username": "ProChessPlayerBot25",
+    "firstSeen": 1625288305234,
+    "lastSeen": 1625308287861,
+    "firstSeenTime": "4:58:25 AM",
+    "lastSeenTime": "8:01:27 AM",
+    "onlineDurationMins": 183.0438
+  },
+  "kyle_0111@lichess": {
+    "id": "kyle_0111",
+    "provider": "lichess",
+    "username": "Kyle_0111",
+    "firstSeen": 1625305362720,
+    "lastSeen": 1625308160341
+  },
+  "superbots@lichess": {
+    "id": "superbots",
+    "provider": "lichess",
+    "username": "superbots",
+    "firstSeen": 1625307681141,
+    "lastSeen": 1625307886047
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1625308109505,
+    "lastSeen": 1625308275354
+  }
+}
