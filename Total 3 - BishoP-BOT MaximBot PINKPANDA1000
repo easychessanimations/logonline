@@ -1,0 +1,23 @@
+{
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1625330512216,
+    "lastSeen": 1625331630977
+  },
+  "maximbot@lichess": {
+    "id": "maximbot",
+    "provider": "lichess",
+    "username": "MaximBot",
+    "firstSeen": 1625330711342,
+    "lastSeen": 1625331711683
+  },
+  "pinkpanda1000@lichess": {
+    "id": "pinkpanda1000",
+    "provider": "lichess",
+    "username": "PINKPANDA1000",
+    "firstSeen": 1625331471018,
+    "lastSeen": 1625331924780
+  }
+}
