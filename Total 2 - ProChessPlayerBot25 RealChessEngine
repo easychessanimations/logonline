@@ -1,0 +1,19 @@
+{
+  "prochessplayerbot25@lichess": {
+    "id": "prochessplayerbot25",
+    "provider": "lichess",
+    "username": "ProChessPlayerBot25",
+    "firstSeen": 1625288305234,
+    "lastSeen": 1625305287866,
+    "firstSeenTime": "4:58:25 AM",
+    "lastSeenTime": "8:01:27 AM",
+    "onlineDurationMins": 183.0438
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1625305192961,
+    "lastSeen": 1625305337141
+  }
+}
