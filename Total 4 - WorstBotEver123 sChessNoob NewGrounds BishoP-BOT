@@ -1,0 +1,36 @@
+{
+  "worstbotever123@lichess": {
+    "id": "worstbotever123",
+    "provider": "lichess",
+    "username": "WorstBotEver123",
+    "firstSeen": 1625321031312,
+    "lastSeen": 1625327311965,
+    "firstSeenTime": "2:03:51 PM",
+    "lastSeenTime": "3:33:06 PM",
+    "onlineDurationMins": 89.24511666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1625326636080,
+    "lastSeen": 1625327556363,
+    "firstSeenTime": "3:37:16 PM",
+    "lastSeenTime": "3:40:02 PM",
+    "onlineDurationMins": 2.7808333333333333
+  },
+  "newgrounds@lichess": {
+    "id": "newgrounds",
+    "provider": "lichess",
+    "username": "NewGrounds",
+    "firstSeen": 1625326857382,
+    "lastSeen": 1625327292008
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1625327124768,
+    "lastSeen": 1625327138088
+  }
+}
