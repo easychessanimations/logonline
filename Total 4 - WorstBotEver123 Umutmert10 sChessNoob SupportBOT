@@ -1,0 +1,39 @@
+{
+  "worstbotever123@lichess": {
+    "id": "worstbotever123",
+    "provider": "lichess",
+    "username": "WorstBotEver123",
+    "firstSeen": 1625337366324,
+    "lastSeen": 1625340824240,
+    "firstSeenTime": "6:36:06 PM",
+    "lastSeenTime": "7:33:44 PM",
+    "onlineDurationMins": 57.631933333333336
+  },
+  "umutmert10@lichess": {
+    "id": "umutmert10",
+    "provider": "lichess",
+    "username": "Umutmert10",
+    "firstSeen": 1625340469301,
+    "lastSeen": 1625340589306,
+    "firstSeenTime": "7:27:49 PM",
+    "lastSeenTime": "7:29:49 PM",
+    "onlineDurationMins": 2.0000833333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1625340991990,
+    "lastSeen": 1625340992440,
+    "firstSeenTime": "7:36:31 PM",
+    "lastSeenTime": "7:36:31 PM",
+    "onlineDurationMins": 0
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1625341217383,
+    "lastSeen": 1625341217383
+  }
+}
