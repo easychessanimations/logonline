@@ -1,0 +1,56 @@
+{
+  "prochessplayerbot25@lichess": {
+    "id": "prochessplayerbot25",
+    "provider": "lichess",
+    "username": "ProChessPlayerBot25",
+    "firstSeen": 1625288305234,
+    "lastSeen": 1625299828226,
+    "firstSeenTime": "4:58:25 AM",
+    "lastSeenTime": "8:01:27 AM",
+    "onlineDurationMins": 183.0438
+  },
+  "simintel@lichess": {
+    "id": "simintel",
+    "provider": "lichess",
+    "username": "SimIntel",
+    "firstSeen": 1625291580594,
+    "lastSeen": 1625299816731,
+    "firstSeenTime": "5:53:00 AM",
+    "lastSeenTime": "7:59:09 AM",
+    "onlineDurationMins": 126.14566666666667
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1625296484049,
+    "lastSeen": 1625299486318,
+    "firstSeenTime": "7:14:44 AM",
+    "lastSeenTime": "8:04:46 AM",
+    "onlineDurationMins": 50.037816666666664
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1625299434023,
+    "lastSeen": 1625299571346,
+    "firstSeenTime": "8:03:54 AM",
+    "lastSeenTime": "8:06:11 AM",
+    "onlineDurationMins": 2.2887166666666667
+  },
+  "bma_official@lichess": {
+    "id": "bma_official",
+    "provider": "lichess",
+    "username": "BMA_Official",
+    "firstSeen": 1625299832779,
+    "lastSeen": 1625300026199
+  },
+  "bma_official2@lichess": {
+    "id": "bma_official2",
+    "provider": "lichess",
+    "username": "BMA_Official2",
+    "firstSeen": 1625300042797,
+    "lastSeen": 1625300042797
+  }
+}
