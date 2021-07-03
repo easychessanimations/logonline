@@ -4,13 +4,19 @@
     "provider": "lichess",
     "username": "ProChessPlayerBot25",
     "firstSeen": 1625288305234,
-    "lastSeen": 1625293852608
+    "lastSeen": 1625296270930,
+    "firstSeenTime": "4:58:25 AM",
+    "lastSeenTime": "6:52:31 AM",
+    "onlineDurationMins": 114.10155
   },
   "simintel@lichess": {
     "id": "simintel",
     "provider": "lichess",
     "username": "SimIntel",
     "firstSeen": 1625291580594,
-    "lastSeen": 1625293757045
+    "lastSeen": 1625296085892,
+    "firstSeenTime": "5:53:00 AM",
+    "lastSeenTime": "6:52:20 AM",
+    "onlineDurationMins": 59.33515
   }
 }
