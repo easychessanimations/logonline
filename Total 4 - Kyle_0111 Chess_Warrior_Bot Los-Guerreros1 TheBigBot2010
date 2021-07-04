@@ -1,0 +1,33 @@
+{
+  "kyle_0111@lichess": {
+    "id": "kyle_0111",
+    "provider": "lichess",
+    "username": "Kyle_0111",
+    "firstSeen": 1625397668312,
+    "lastSeen": 1625431529638,
+    "firstSeenTime": "11:21:08 AM",
+    "lastSeenTime": "5:02:29 PM",
+    "onlineDurationMins": 341.35613333333333
+  },
+  "chess_warrior_bot@lichess": {
+    "id": "chess_warrior_bot",
+    "provider": "lichess",
+    "username": "Chess_Warrior_Bot",
+    "firstSeen": 1625431092010,
+    "lastSeen": 1625431531081
+  },
+  "los-guerreros1@lichess": {
+    "id": "los-guerreros1",
+    "provider": "lichess",
+    "username": "Los-Guerreros1",
+    "firstSeen": 1625431467434,
+    "lastSeen": 1625431478127
+  },
+  "86929476@github": {
+    "id": "86929476",
+    "provider": "github",
+    "username": "TheBigBot2010",
+    "firstSeen": 1625431531748,
+    "lastSeen": 1625431531748
+  }
+}
