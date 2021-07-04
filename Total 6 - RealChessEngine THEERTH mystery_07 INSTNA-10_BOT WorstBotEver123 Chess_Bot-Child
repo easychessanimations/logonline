@@ -1,0 +1,47 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1625378675464,
+    "lastSeen": 1625390188093,
+    "firstSeenTime": "6:04:35 AM",
+    "lastSeenTime": "7:36:40 AM",
+    "onlineDurationMins": 92.08521666666667
+  },
+  "theerth@lichess": {
+    "id": "theerth",
+    "provider": "lichess",
+    "username": "THEERTH",
+    "firstSeen": 1625388823651,
+    "lastSeen": 1625390342991
+  },
+  "mystery_07@lichess": {
+    "id": "mystery_07",
+    "provider": "lichess",
+    "username": "mystery_07",
+    "firstSeen": 1625389102988,
+    "lastSeen": 1625390465741
+  },
+  "instna-10_bot@lichess": {
+    "id": "instna-10_bot",
+    "provider": "lichess",
+    "username": "INSTNA-10_BOT",
+    "firstSeen": 1625389389455,
+    "lastSeen": 1625390943331
+  },
+  "worstbotever123@lichess": {
+    "id": "worstbotever123",
+    "provider": "lichess",
+    "username": "WorstBotEver123",
+    "firstSeen": 1625390030777,
+    "lastSeen": 1625390702820
+  },
+  "chess_bot-child@lichess": {
+    "id": "chess_bot-child",
+    "provider": "lichess",
+    "username": "Chess_Bot-Child",
+    "firstSeen": 1625390944163,
+    "lastSeen": 1625390944163
+  }
+}
