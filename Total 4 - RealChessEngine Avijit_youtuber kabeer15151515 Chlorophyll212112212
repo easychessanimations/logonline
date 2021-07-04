@@ -1,0 +1,36 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1625378675464,
+    "lastSeen": 1625385861253,
+    "firstSeenTime": "6:04:35 AM",
+    "lastSeenTime": "7:36:40 AM",
+    "onlineDurationMins": 92.08521666666667
+  },
+  "avijit_youtuber@lichess": {
+    "id": "avijit_youtuber",
+    "provider": "lichess",
+    "username": "Avijit_youtuber",
+    "firstSeen": 1625380414005,
+    "lastSeen": 1625385517021,
+    "firstSeenTime": "6:33:34 AM",
+    "lastSeenTime": "7:36:36 AM",
+    "onlineDurationMins": 63.0499
+  },
+  "kabeer15151515@lichess": {
+    "id": "kabeer15151515",
+    "provider": "lichess",
+    "username": "kabeer15151515",
+    "firstSeen": 1625385044092,
+    "lastSeen": 1625385326970
+  },
+  "chlorophyll212112212@lichess": {
+    "id": "chlorophyll212112212",
+    "provider": "lichess",
+    "username": "Chlorophyll212112212",
+    "firstSeen": 1625385902778,
+    "lastSeen": 1625385902778
+  }
+}
