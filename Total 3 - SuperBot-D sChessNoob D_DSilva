@@ -1,0 +1,29 @@
+{
+  "superbot-d@lichess": {
+    "id": "superbot-d",
+    "provider": "lichess",
+    "username": "SuperBot-D",
+    "firstSeen": 1625375329170,
+    "lastSeen": 1625377412599,
+    "firstSeenTime": "5:08:49 AM",
+    "lastSeenTime": "5:33:51 AM",
+    "onlineDurationMins": 25.046283333333335
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1625377088437,
+    "lastSeen": 1625377088848,
+    "firstSeenTime": "5:38:08 AM",
+    "lastSeenTime": "5:38:08 AM",
+    "onlineDurationMins": 0.000016666666666666667
+  },
+  "d_dsilva@lichess": {
+    "id": "d_dsilva",
+    "provider": "lichess",
+    "username": "D_DSilva",
+    "firstSeen": 1625377397130,
+    "lastSeen": 1625377512301
+  }
+}
