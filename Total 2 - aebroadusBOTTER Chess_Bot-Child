@@ -1,0 +1,16 @@
+{
+  "aebroadusbotter@lichess": {
+    "id": "aebroadusbotter",
+    "provider": "lichess",
+    "username": "aebroadusBOTTER",
+    "firstSeen": 1625352706060,
+    "lastSeen": 1625358007166
+  },
+  "chess_bot-child@lichess": {
+    "id": "chess_bot-child",
+    "provider": "lichess",
+    "username": "Chess_Bot-Child",
+    "firstSeen": 1625358042765,
+    "lastSeen": 1625358042765
+  }
+}
