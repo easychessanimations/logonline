@@ -1,0 +1,30 @@
+{
+  "avijit_youtuber@lichess": {
+    "id": "avijit_youtuber",
+    "provider": "lichess",
+    "username": "Avijit_youtuber",
+    "firstSeen": 1625371367090,
+    "lastSeen": 1625374887299
+  },
+  "the_pro_bot@lichess": {
+    "id": "the_pro_bot",
+    "provider": "lichess",
+    "username": "THE_PRO_BOT",
+    "firstSeen": 1625371674317,
+    "lastSeen": 1625374041836
+  },
+  "hi-tea@lichess": {
+    "id": "hi-tea",
+    "provider": "lichess",
+    "username": "HI-TEA",
+    "firstSeen": 1625374469804,
+    "lastSeen": 1625374875900
+  },
+  "hi-tea-bot@lichess": {
+    "id": "hi-tea-bot",
+    "provider": "lichess",
+    "username": "Hi-tea-BOT",
+    "firstSeen": 1625374897617,
+    "lastSeen": 1625374897617
+  }
+}
