@@ -1,0 +1,50 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1625378675464,
+    "lastSeen": 1625388600858,
+    "firstSeenTime": "6:04:35 AM",
+    "lastSeenTime": "7:36:40 AM",
+    "onlineDurationMins": 92.08521666666667
+  },
+  "avijit_youtuber@lichess": {
+    "id": "avijit_youtuber",
+    "provider": "lichess",
+    "username": "Avijit_youtuber",
+    "firstSeen": 1625380414005,
+    "lastSeen": 1625389010415,
+    "firstSeenTime": "6:33:34 AM",
+    "lastSeenTime": "7:36:36 AM",
+    "onlineDurationMins": 63.0499
+  },
+  "ilikechess221108@lichess": {
+    "id": "ilikechess221108",
+    "provider": "lichess",
+    "username": "Ilikechess221108",
+    "firstSeen": 1625388432802,
+    "lastSeen": 1625388874127
+  },
+  "spiritedfreelyape@lichess": {
+    "id": "spiritedfreelyape",
+    "provider": "lichess",
+    "username": "SpiritedFreelyApe",
+    "firstSeen": 1625388778631,
+    "lastSeen": 1625388845752
+  },
+  "theerth@lichess": {
+    "id": "theerth",
+    "provider": "lichess",
+    "username": "THEERTH",
+    "firstSeen": 1625388823651,
+    "lastSeen": 1625388874619
+  },
+  "mystery_07@lichess": {
+    "id": "mystery_07",
+    "provider": "lichess",
+    "username": "mystery_07",
+    "firstSeen": 1625389102988,
+    "lastSeen": 1625389102988
+  }
+}
