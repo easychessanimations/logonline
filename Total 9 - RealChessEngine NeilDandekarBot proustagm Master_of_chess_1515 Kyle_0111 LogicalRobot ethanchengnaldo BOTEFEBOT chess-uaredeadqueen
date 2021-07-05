@@ -1,0 +1,77 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1625464630460,
+    "lastSeen": 1625475674139,
+    "firstSeenTime": "5:57:10 AM",
+    "lastSeenTime": "8:30:00 AM",
+    "onlineDurationMins": 152.82751666666667
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1625468372036,
+    "lastSeen": 1625475126049,
+    "firstSeenTime": "6:59:32 AM",
+    "lastSeenTime": "8:30:06 AM",
+    "onlineDurationMins": 90.5678
+  },
+  "proustagm@lichess": {
+    "id": "proustagm",
+    "provider": "lichess",
+    "username": "proustagm",
+    "firstSeen": 1625473773443,
+    "lastSeen": 1625475753329,
+    "firstSeenTime": "8:29:33 AM",
+    "lastSeenTime": "8:29:37 AM",
+    "onlineDurationMins": 0.06105
+  },
+  "master_of_chess_1515@lichess": {
+    "id": "master_of_chess_1515",
+    "provider": "lichess",
+    "username": "Master_of_chess_1515",
+    "firstSeen": 1625473812385,
+    "lastSeen": 1625475132337,
+    "firstSeenTime": "8:30:12 AM",
+    "lastSeenTime": "8:30:15 AM",
+    "onlineDurationMins": 0.05991666666666667
+  },
+  "kyle_0111@lichess": {
+    "id": "kyle_0111",
+    "provider": "lichess",
+    "username": "Kyle_0111",
+    "firstSeen": 1625473826740,
+    "lastSeen": 1625475506349
+  },
+  "logicalrobot@lichess": {
+    "id": "logicalrobot",
+    "provider": "lichess",
+    "username": "LogicalRobot",
+    "firstSeen": 1625474930446,
+    "lastSeen": 1625474943212
+  },
+  "ethanchengnaldo@lichess": {
+    "id": "ethanchengnaldo",
+    "provider": "lichess",
+    "username": "ethanchengnaldo",
+    "firstSeen": 1625475132915,
+    "lastSeen": 1625475807230
+  },
+  "botefebot@lichess": {
+    "id": "botefebot",
+    "provider": "lichess",
+    "username": "BOTEFEBOT",
+    "firstSeen": 1625475189655,
+    "lastSeen": 1625475250651
+  },
+  "chess-uaredeadqueen@lichess": {
+    "id": "chess-uaredeadqueen",
+    "provider": "lichess",
+    "username": "chess-uaredeadqueen",
+    "firstSeen": 1625475569907,
+    "lastSeen": 1625475582726
+  }
+}
