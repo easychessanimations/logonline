@@ -1,0 +1,40 @@
+{
+  "welcometogoodburger2@lichess": {
+    "id": "welcometogoodburger2",
+    "provider": "lichess",
+    "username": "WelcomeToGoodBurger2",
+    "firstSeen": 1625490076078,
+    "lastSeen": 1625505630922,
+    "firstSeenTime": "1:01:16 PM",
+    "lastSeenTime": "2:24:38 PM",
+    "onlineDurationMins": 83.37088333333334
+  },
+  "simintel@lichess": {
+    "id": "simintel",
+    "provider": "lichess",
+    "username": "SimIntel",
+    "firstSeen": 1625498181498,
+    "lastSeen": 1625505381148
+  },
+  "best_chess_bot@lichess": {
+    "id": "best_chess_bot",
+    "provider": "lichess",
+    "username": "Best_Chess_Bot",
+    "firstSeen": 1625502526685,
+    "lastSeen": 1625505567696
+  },
+  "the_pro_bot@lichess": {
+    "id": "the_pro_bot",
+    "provider": "lichess",
+    "username": "THE_PRO_BOT",
+    "firstSeen": 1625503857244,
+    "lastSeen": 1625505165254
+  },
+  "pro_kuzu@lichess": {
+    "id": "pro_kuzu",
+    "provider": "lichess",
+    "username": "PRO_KUZU",
+    "firstSeen": 1625503883451,
+    "lastSeen": 1625505193391
+  }
+}
