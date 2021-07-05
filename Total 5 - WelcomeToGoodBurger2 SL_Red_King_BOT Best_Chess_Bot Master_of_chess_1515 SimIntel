@@ -1,0 +1,43 @@
+{
+  "welcometogoodburger2@lichess": {
+    "id": "welcometogoodburger2",
+    "provider": "lichess",
+    "username": "WelcomeToGoodBurger2",
+    "firstSeen": 1625490076078,
+    "lastSeen": 1625498325093,
+    "firstSeenTime": "1:01:16 PM",
+    "lastSeenTime": "2:24:38 PM",
+    "onlineDurationMins": 83.37088333333334
+  },
+  "sl_red_king_bot@lichess": {
+    "id": "sl_red_king_bot",
+    "provider": "lichess",
+    "username": "SL_Red_King_BOT",
+    "firstSeen": 1625494783850,
+    "lastSeen": 1625498819769,
+    "firstSeenTime": "2:19:43 PM",
+    "lastSeenTime": "2:22:26 PM",
+    "onlineDurationMins": 2.7168
+  },
+  "best_chess_bot@lichess": {
+    "id": "best_chess_bot",
+    "provider": "lichess",
+    "username": "Best_Chess_Bot",
+    "firstSeen": 1625495636843,
+    "lastSeen": 1625498551704
+  },
+  "master_of_chess_1515@lichess": {
+    "id": "master_of_chess_1515",
+    "provider": "lichess",
+    "username": "Master_of_chess_1515",
+    "firstSeen": 1625497237898,
+    "lastSeen": 1625497927621
+  },
+  "simintel@lichess": {
+    "id": "simintel",
+    "provider": "lichess",
+    "username": "SimIntel",
+    "firstSeen": 1625498181498,
+    "lastSeen": 1625498365294
+  }
+}
