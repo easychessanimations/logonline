@@ -1,0 +1,79 @@
+{
+  "master_of_chess_1515@lichess": {
+    "id": "master_of_chess_1515",
+    "provider": "lichess",
+    "username": "Master_of_chess_1515",
+    "firstSeen": 1625457523338,
+    "lastSeen": 1625472863332,
+    "firstSeenTime": "3:58:43 AM",
+    "lastSeenTime": "8:14:23 AM",
+    "onlineDurationMins": 255.66656666666665
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1625464630460,
+    "lastSeen": 1625473576090,
+    "firstSeenTime": "5:57:10 AM",
+    "lastSeenTime": "8:26:16 AM",
+    "onlineDurationMins": 149.09383333333332
+  },
+  "stockfish-2600-elo@lichess": {
+    "id": "stockfish-2600-elo",
+    "provider": "lichess",
+    "username": "Stockfish-2600-Elo",
+    "firstSeen": 1625466187112,
+    "lastSeen": 1625473623720,
+    "firstSeenTime": "6:23:07 AM",
+    "lastSeenTime": "8:27:03 AM",
+    "onlineDurationMins": 123.93696666666666
+  },
+  "avijit_youtuber@lichess": {
+    "id": "avijit_youtuber",
+    "provider": "lichess",
+    "username": "Avijit_youtuber",
+    "firstSeen": 1625466516155,
+    "lastSeen": 1625473651202,
+    "firstSeenTime": "6:28:36 AM",
+    "lastSeenTime": "8:21:33 AM",
+    "onlineDurationMins": 112.95953333333334
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1625468372036,
+    "lastSeen": 1625473081598,
+    "firstSeenTime": "6:59:32 AM",
+    "lastSeenTime": "8:18:01 AM",
+    "onlineDurationMins": 78.4927
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1625472867298,
+    "lastSeen": 1625473623377,
+    "firstSeenTime": "8:14:27 AM",
+    "lastSeenTime": "8:27:03 AM",
+    "onlineDurationMins": 12.601316666666667
+  },
+  "prochessplayerbot25@lichess": {
+    "id": "prochessplayerbot25",
+    "provider": "lichess",
+    "username": "ProChessPlayerBot25",
+    "firstSeen": 1625473493183,
+    "lastSeen": 1625473580219,
+    "firstSeenTime": "8:24:53 AM",
+    "lastSeenTime": "8:26:20 AM",
+    "onlineDurationMins": 1.4506
+  },
+  "capturebotxx@lichess": {
+    "id": "capturebotxx",
+    "provider": "lichess",
+    "username": "CaptureBotXX",
+    "firstSeen": 1625473633984,
+    "lastSeen": 1625473651466
+  }
+}
