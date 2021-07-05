@@ -1,0 +1,74 @@
+{
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1625468372036,
+    "lastSeen": 1625477402641,
+    "firstSeenTime": "6:59:32 AM",
+    "lastSeenTime": "8:30:06 AM",
+    "onlineDurationMins": 90.5678
+  },
+  "proustagm@lichess": {
+    "id": "proustagm",
+    "provider": "lichess",
+    "username": "proustagm",
+    "firstSeen": 1625473773443,
+    "lastSeen": 1625477682774,
+    "firstSeenTime": "8:29:33 AM",
+    "lastSeenTime": "8:29:37 AM",
+    "onlineDurationMins": 0.06105
+  },
+  "master_of_chess_1515@lichess": {
+    "id": "master_of_chess_1515",
+    "provider": "lichess",
+    "username": "Master_of_chess_1515",
+    "firstSeen": 1625473812385,
+    "lastSeen": 1625477055973,
+    "firstSeenTime": "8:30:12 AM",
+    "lastSeenTime": "8:30:15 AM",
+    "onlineDurationMins": 0.05991666666666667
+  },
+  "kyle_0111@lichess": {
+    "id": "kyle_0111",
+    "provider": "lichess",
+    "username": "Kyle_0111",
+    "firstSeen": 1625473826740,
+    "lastSeen": 1625477069705
+  },
+  "albacadabra@lichess": {
+    "id": "albacadabra",
+    "provider": "lichess",
+    "username": "albacadabra",
+    "firstSeen": 1625475894454,
+    "lastSeen": 1625477460992
+  },
+  "avijit_youtuber@lichess": {
+    "id": "avijit_youtuber",
+    "provider": "lichess",
+    "username": "Avijit_youtuber",
+    "firstSeen": 1625476237412,
+    "lastSeen": 1625477681014
+  },
+  "indian_player_2010@lichess": {
+    "id": "indian_player_2010",
+    "provider": "lichess",
+    "username": "INDIAN_PLAYER_2010",
+    "firstSeen": 1625476719328,
+    "lastSeen": 1625476830650
+  },
+  "pro_kuzu@lichess": {
+    "id": "pro_kuzu",
+    "provider": "lichess",
+    "username": "PRO_KUZU",
+    "firstSeen": 1625476992756,
+    "lastSeen": 1625477677204
+  },
+  "the_pro_bot@lichess": {
+    "id": "the_pro_bot",
+    "provider": "lichess",
+    "username": "THE_PRO_BOT",
+    "firstSeen": 1625477414552,
+    "lastSeen": 1625477602748
+  }
+}
