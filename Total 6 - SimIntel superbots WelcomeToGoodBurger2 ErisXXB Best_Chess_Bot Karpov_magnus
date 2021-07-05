@@ -1,0 +1,44 @@
+{
+  "simintel@lichess": {
+    "id": "simintel",
+    "provider": "lichess",
+    "username": "SimIntel",
+    "firstSeen": 1625498181498,
+    "lastSeen": 1625511981192
+  },
+  "superbots@lichess": {
+    "id": "superbots",
+    "provider": "lichess",
+    "username": "superbots",
+    "firstSeen": 1625509325961,
+    "lastSeen": 1625512448149
+  },
+  "welcometogoodburger2@lichess": {
+    "id": "welcometogoodburger2",
+    "provider": "lichess",
+    "username": "WelcomeToGoodBurger2",
+    "firstSeen": 1625510611629,
+    "lastSeen": 1625512113512
+  },
+  "erisxxb@lichess": {
+    "id": "erisxxb",
+    "provider": "lichess",
+    "username": "ErisXXB",
+    "firstSeen": 1625512174191,
+    "lastSeen": 1625512495821
+  },
+  "best_chess_bot@lichess": {
+    "id": "best_chess_bot",
+    "provider": "lichess",
+    "username": "Best_Chess_Bot",
+    "firstSeen": 1625512238538,
+    "lastSeen": 1625512386204
+  },
+  "karpov_magnus@lichess": {
+    "id": "karpov_magnus",
+    "provider": "lichess",
+    "username": "Karpov_magnus",
+    "firstSeen": 1625512531111,
+    "lastSeen": 1625512531111
+  }
+}
