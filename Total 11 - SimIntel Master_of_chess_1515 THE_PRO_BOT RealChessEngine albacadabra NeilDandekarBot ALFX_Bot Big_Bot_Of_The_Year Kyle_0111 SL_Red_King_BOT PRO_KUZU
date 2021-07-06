@@ -1,0 +1,85 @@
+{
+  "simintel@lichess": {
+    "id": "simintel",
+    "provider": "lichess",
+    "username": "SimIntel",
+    "firstSeen": 1625556031686,
+    "lastSeen": 1625563122879,
+    "firstSeenTime": "7:20:31 AM",
+    "lastSeenTime": "7:27:39 AM",
+    "onlineDurationMins": 7.124783333333333
+  },
+  "master_of_chess_1515@lichess": {
+    "id": "master_of_chess_1515",
+    "provider": "lichess",
+    "username": "Master_of_chess_1515",
+    "firstSeen": 1625556115307,
+    "lastSeen": 1625563218366,
+    "firstSeenTime": "7:21:55 AM",
+    "lastSeenTime": "7:26:14 AM",
+    "onlineDurationMins": 4.3277833333333335
+  },
+  "the_pro_bot@lichess": {
+    "id": "the_pro_bot",
+    "provider": "lichess",
+    "username": "THE_PRO_BOT",
+    "firstSeen": 1625557202794,
+    "lastSeen": 1625563108352
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1625557320784,
+    "lastSeen": 1625563148247
+  },
+  "albacadabra@lichess": {
+    "id": "albacadabra",
+    "provider": "lichess",
+    "username": "albacadabra",
+    "firstSeen": 1625558254004,
+    "lastSeen": 1625563218612
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1625559377226,
+    "lastSeen": 1625562722620
+  },
+  "alfx_bot@lichess": {
+    "id": "alfx_bot",
+    "provider": "lichess",
+    "username": "ALFX_Bot",
+    "firstSeen": 1625562056555,
+    "lastSeen": 1625563227355
+  },
+  "big_bot_of_the_year@lichess": {
+    "id": "big_bot_of_the_year",
+    "provider": "lichess",
+    "username": "Big_Bot_Of_The_Year",
+    "firstSeen": 1625562237747,
+    "lastSeen": 1625562418404
+  },
+  "kyle_0111@lichess": {
+    "id": "kyle_0111",
+    "provider": "lichess",
+    "username": "Kyle_0111",
+    "firstSeen": 1625562256573,
+    "lastSeen": 1625563108420
+  },
+  "sl_red_king_bot@lichess": {
+    "id": "sl_red_king_bot",
+    "provider": "lichess",
+    "username": "SL_Red_King_BOT",
+    "firstSeen": 1625562349803,
+    "lastSeen": 1625562618467
+  },
+  "pro_kuzu@lichess": {
+    "id": "pro_kuzu",
+    "provider": "lichess",
+    "username": "PRO_KUZU",
+    "firstSeen": 1625563228534,
+    "lastSeen": 1625563228534
+  }
+}
