@@ -1,0 +1,112 @@
+{
+  "simintel@lichess": {
+    "id": "simintel",
+    "provider": "lichess",
+    "username": "SimIntel",
+    "firstSeen": 1625556031686,
+    "lastSeen": 1625564068293,
+    "firstSeenTime": "7:20:31 AM",
+    "lastSeenTime": "9:23:42 AM",
+    "onlineDurationMins": 123.17191666666666
+  },
+  "master_of_chess_1515@lichess": {
+    "id": "master_of_chess_1515",
+    "provider": "lichess",
+    "username": "Master_of_chess_1515",
+    "firstSeen": 1625556115307,
+    "lastSeen": 1625564038023,
+    "firstSeenTime": "7:21:55 AM",
+    "lastSeenTime": "9:26:18 AM",
+    "onlineDurationMins": 124.38185
+  },
+  "the_pro_bot@lichess": {
+    "id": "the_pro_bot",
+    "provider": "lichess",
+    "username": "THE_PRO_BOT",
+    "firstSeen": 1625557202794,
+    "lastSeen": 1625564073695,
+    "firstSeenTime": "7:40:02 AM",
+    "lastSeenTime": "9:18:28 AM",
+    "onlineDurationMins": 98.42596666666667
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1625557320784,
+    "lastSeen": 1625564136651,
+    "firstSeenTime": "7:42:00 AM",
+    "lastSeenTime": "9:23:56 AM",
+    "onlineDurationMins": 101.92283333333333
+  },
+  "albacadabra@lichess": {
+    "id": "albacadabra",
+    "provider": "lichess",
+    "username": "albacadabra",
+    "firstSeen": 1625558254004,
+    "lastSeen": 1625563299868,
+    "firstSeenTime": "7:57:34 AM",
+    "lastSeenTime": "9:21:39 AM",
+    "onlineDurationMins": 84.09773333333334
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1625559377226,
+    "lastSeen": 1625564042825,
+    "firstSeenTime": "8:16:17 AM",
+    "lastSeenTime": "9:22:59 AM",
+    "onlineDurationMins": 66.70426666666667
+  },
+  "big_bot_of_the_year@lichess": {
+    "id": "big_bot_of_the_year",
+    "provider": "lichess",
+    "username": "Big_Bot_Of_The_Year",
+    "firstSeen": 1625562237747,
+    "lastSeen": 1625564163484,
+    "firstSeenTime": "9:03:57 AM",
+    "lastSeenTime": "9:22:43 AM",
+    "onlineDurationMins": 18.762883333333335
+  },
+  "kyle_0111@lichess": {
+    "id": "kyle_0111",
+    "provider": "lichess",
+    "username": "Kyle_0111",
+    "firstSeen": 1625562256573,
+    "lastSeen": 1625564068241,
+    "firstSeenTime": "9:04:16 AM",
+    "lastSeenTime": "9:18:28 AM",
+    "onlineDurationMins": 14.19745
+  },
+  "sl_red_king_bot@lichess": {
+    "id": "sl_red_king_bot",
+    "provider": "lichess",
+    "username": "SL_Red_King_BOT",
+    "firstSeen": 1625562349803,
+    "lastSeen": 1625564075355,
+    "firstSeenTime": "9:05:49 AM",
+    "lastSeenTime": "9:26:43 AM",
+    "onlineDurationMins": 20.89741666666667
+  },
+  "pro_kuzu@lichess": {
+    "id": "pro_kuzu",
+    "provider": "lichess",
+    "username": "PRO_KUZU",
+    "firstSeen": 1625563228534,
+    "lastSeen": 1625564081607,
+    "firstSeenTime": "9:20:28 AM",
+    "lastSeenTime": "9:21:39 AM",
+    "onlineDurationMins": 1.1883666666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1625563675244,
+    "lastSeen": 1625563675715,
+    "firstSeenTime": "9:27:55 AM",
+    "lastSeenTime": "9:27:55 AM",
+    "onlineDurationMins": 0
+  }
+}
