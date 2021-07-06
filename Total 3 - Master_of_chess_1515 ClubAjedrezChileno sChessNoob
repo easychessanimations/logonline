@@ -1,0 +1,32 @@
+{
+  "master_of_chess_1515@lichess": {
+    "id": "master_of_chess_1515",
+    "provider": "lichess",
+    "username": "Master_of_chess_1515",
+    "firstSeen": 1625578007739,
+    "lastSeen": 1625581152036,
+    "firstSeenTime": "1:26:47 PM",
+    "lastSeenTime": "2:19:12 PM",
+    "onlineDurationMins": 52.40495
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1625581015490,
+    "lastSeen": 1625582028470,
+    "firstSeenTime": "2:16:55 PM",
+    "lastSeenTime": "2:29:39 PM",
+    "onlineDurationMins": 12.72925
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1625581806763,
+    "lastSeen": 1625581807228,
+    "firstSeenTime": "2:30:06 PM",
+    "lastSeenTime": "2:30:06 PM",
+    "onlineDurationMins": 0
+  }
+}
