@@ -1,0 +1,33 @@
+{
+  "master_of_chess_1515@lichess": {
+    "id": "master_of_chess_1515",
+    "provider": "lichess",
+    "username": "Master_of_chess_1515",
+    "firstSeen": 1625556115307,
+    "lastSeen": 1625575456449,
+    "firstSeenTime": "7:21:55 AM",
+    "lastSeenTime": "11:42:19 AM",
+    "onlineDurationMins": 260.39503333333334
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1625571967633,
+    "lastSeen": 1625575300533
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1625572713260,
+    "lastSeen": 1625575366212
+  },
+  "kaan0666@lichess": {
+    "id": "kaan0666",
+    "provider": "lichess",
+    "username": "kaan0666",
+    "firstSeen": 1625575516130,
+    "lastSeen": 1625575516130
+  }
+}
