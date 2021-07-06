@@ -1,0 +1,42 @@
+{
+  "master_of_chess_1515@lichess": {
+    "id": "master_of_chess_1515",
+    "provider": "lichess",
+    "username": "Master_of_chess_1515",
+    "firstSeen": 1625556115307,
+    "lastSeen": 1625570650398,
+    "firstSeenTime": "7:21:55 AM",
+    "lastSeenTime": "11:21:52 AM",
+    "onlineDurationMins": 239.94855
+  },
+  "big_bot_of_the_year@lichess": {
+    "id": "big_bot_of_the_year",
+    "provider": "lichess",
+    "username": "Big_Bot_Of_The_Year",
+    "firstSeen": 1625562237747,
+    "lastSeen": 1625570501511,
+    "firstSeenTime": "9:03:57 AM",
+    "lastSeenTime": "11:21:41 AM",
+    "onlineDurationMins": 137.7294
+  },
+  "kingofchess2k9@lichess": {
+    "id": "kingofchess2k9",
+    "provider": "lichess",
+    "username": "kingofchess2k9",
+    "firstSeen": 1625568634583,
+    "lastSeen": 1625570692156,
+    "firstSeenTime": "10:50:34 AM",
+    "lastSeenTime": "11:21:58 AM",
+    "onlineDurationMins": 31.403216666666665
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1625569898390,
+    "lastSeen": 1625570557161,
+    "firstSeenTime": "11:11:38 AM",
+    "lastSeenTime": "11:22:37 AM",
+    "onlineDurationMins": 10.979516666666667
+  }
+}
