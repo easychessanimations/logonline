@@ -1,0 +1,42 @@
+{
+  "kyle_0111@lichess": {
+    "id": "kyle_0111",
+    "provider": "lichess",
+    "username": "Kyle_0111",
+    "firstSeen": 1625529177582,
+    "lastSeen": 1625544207193,
+    "firstSeenTime": "11:52:57 PM",
+    "lastSeenTime": "3:46:30 AM",
+    "onlineDurationMins": 233.55113333333333
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1625542079871,
+    "lastSeen": 1625544064764,
+    "firstSeenTime": "3:27:59 AM",
+    "lastSeenTime": "3:53:02 AM",
+    "onlineDurationMins": 25.035816666666665
+  },
+  "d_dsilva@lichess": {
+    "id": "d_dsilva",
+    "provider": "lichess",
+    "username": "D_DSilva",
+    "firstSeen": 1625543202337,
+    "lastSeen": 1625544533758,
+    "firstSeenTime": "3:46:42 AM",
+    "lastSeenTime": "3:53:32 AM",
+    "onlineDurationMins": 6.83605
+  },
+  "flaming_spy@lichess": {
+    "id": "flaming_spy",
+    "provider": "lichess",
+    "username": "Flaming_spy",
+    "firstSeen": 1625543628378,
+    "lastSeen": 1625544469913,
+    "firstSeenTime": "3:53:48 AM",
+    "lastSeenTime": "3:54:06 AM",
+    "onlineDurationMins": 0.30201666666666666
+  }
+}
