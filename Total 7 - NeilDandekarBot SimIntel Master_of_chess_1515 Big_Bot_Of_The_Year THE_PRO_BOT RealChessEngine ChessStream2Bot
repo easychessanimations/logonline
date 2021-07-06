@@ -1,0 +1,63 @@
+{
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1625554597447,
+    "lastSeen": 1625557410360,
+    "firstSeenTime": "6:56:37 AM",
+    "lastSeenTime": "7:22:17 AM",
+    "onlineDurationMins": 25.663116666666667
+  },
+  "simintel@lichess": {
+    "id": "simintel",
+    "provider": "lichess",
+    "username": "SimIntel",
+    "firstSeen": 1625556031686,
+    "lastSeen": 1625557586434,
+    "firstSeenTime": "7:20:31 AM",
+    "lastSeenTime": "7:27:39 AM",
+    "onlineDurationMins": 7.124783333333333
+  },
+  "master_of_chess_1515@lichess": {
+    "id": "master_of_chess_1515",
+    "provider": "lichess",
+    "username": "Master_of_chess_1515",
+    "firstSeen": 1625556115307,
+    "lastSeen": 1625557749434,
+    "firstSeenTime": "7:21:55 AM",
+    "lastSeenTime": "7:26:14 AM",
+    "onlineDurationMins": 4.3277833333333335
+  },
+  "big_bot_of_the_year@lichess": {
+    "id": "big_bot_of_the_year",
+    "provider": "lichess",
+    "username": "Big_Bot_Of_The_Year",
+    "firstSeen": 1625556520019,
+    "lastSeen": 1625557560862,
+    "firstSeenTime": "7:28:40 AM",
+    "lastSeenTime": "7:31:43 AM",
+    "onlineDurationMins": 3.052783333333333
+  },
+  "the_pro_bot@lichess": {
+    "id": "the_pro_bot",
+    "provider": "lichess",
+    "username": "THE_PRO_BOT",
+    "firstSeen": 1625557202794,
+    "lastSeen": 1625557586552
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1625557320784,
+    "lastSeen": 1625557356475
+  },
+  "chessstream2bot@lichess": {
+    "id": "chessstream2bot",
+    "provider": "lichess",
+    "username": "ChessStream2Bot",
+    "firstSeen": 1625557474123,
+    "lastSeen": 1625557608155
+  }
+}
