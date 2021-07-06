@@ -1,0 +1,32 @@
+{
+  "d_dsilva@lichess": {
+    "id": "d_dsilva",
+    "provider": "lichess",
+    "username": "D_DSilva",
+    "firstSeen": 1625553116298,
+    "lastSeen": 1625555503768,
+    "firstSeenTime": "6:31:56 AM",
+    "lastSeenTime": "6:59:36 AM",
+    "onlineDurationMins": 27.67175
+  },
+  "big_bot_of_the_year@lichess": {
+    "id": "big_bot_of_the_year",
+    "provider": "lichess",
+    "username": "Big_Bot_Of_The_Year",
+    "firstSeen": 1625553435614,
+    "lastSeen": 1625555532014,
+    "firstSeenTime": "6:37:15 AM",
+    "lastSeenTime": "7:00:32 AM",
+    "onlineDurationMins": 23.2886
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1625554597447,
+    "lastSeen": 1625555282820,
+    "firstSeenTime": "6:56:37 AM",
+    "lastSeenTime": "6:57:24 AM",
+    "onlineDurationMins": 0.7903333333333333
+  }
+}
