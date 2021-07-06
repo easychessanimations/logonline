@@ -1,0 +1,71 @@
+{
+  "simintel@lichess": {
+    "id": "simintel",
+    "provider": "lichess",
+    "username": "SimIntel",
+    "firstSeen": 1625556031686,
+    "lastSeen": 1625559151875,
+    "firstSeenTime": "7:20:31 AM",
+    "lastSeenTime": "7:27:39 AM",
+    "onlineDurationMins": 7.124783333333333
+  },
+  "master_of_chess_1515@lichess": {
+    "id": "master_of_chess_1515",
+    "provider": "lichess",
+    "username": "Master_of_chess_1515",
+    "firstSeen": 1625556115307,
+    "lastSeen": 1625559648489,
+    "firstSeenTime": "7:21:55 AM",
+    "lastSeenTime": "7:26:14 AM",
+    "onlineDurationMins": 4.3277833333333335
+  },
+  "the_pro_bot@lichess": {
+    "id": "the_pro_bot",
+    "provider": "lichess",
+    "username": "THE_PRO_BOT",
+    "firstSeen": 1625557202794,
+    "lastSeen": 1625559389308
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1625557320784,
+    "lastSeen": 1625559446822
+  },
+  "albacadabra@lichess": {
+    "id": "albacadabra",
+    "provider": "lichess",
+    "username": "albacadabra",
+    "firstSeen": 1625558254004,
+    "lastSeen": 1625559368087
+  },
+  "unhappydefender@lichess": {
+    "id": "unhappydefender",
+    "provider": "lichess",
+    "username": "UnhappyDefender",
+    "firstSeen": 1625558406306,
+    "lastSeen": 1625559645758
+  },
+  "sl_red_king_bot@lichess": {
+    "id": "sl_red_king_bot",
+    "provider": "lichess",
+    "username": "SL_Red_King_BOT",
+    "firstSeen": 1625559232105,
+    "lastSeen": 1625559342375
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1625559377226,
+    "lastSeen": 1625559386361
+  },
+  "theworldwarrior@lichess": {
+    "id": "theworldwarrior",
+    "provider": "lichess",
+    "username": "TheWorldWarrior",
+    "firstSeen": 1625559666339,
+    "lastSeen": 1625559666339
+  }
+}
