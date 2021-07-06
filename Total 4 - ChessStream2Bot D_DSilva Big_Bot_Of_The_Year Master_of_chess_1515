@@ -1,0 +1,30 @@
+{
+  "chessstream2bot@lichess": {
+    "id": "chessstream2bot",
+    "provider": "lichess",
+    "username": "ChessStream2Bot",
+    "firstSeen": 1625551381806,
+    "lastSeen": 1625551404055
+  },
+  "d_dsilva@lichess": {
+    "id": "d_dsilva",
+    "provider": "lichess",
+    "username": "D_DSilva",
+    "firstSeen": 1625551385701,
+    "lastSeen": 1625551419171
+  },
+  "big_bot_of_the_year@lichess": {
+    "id": "big_bot_of_the_year",
+    "provider": "lichess",
+    "username": "Big_Bot_Of_The_Year",
+    "firstSeen": 1625551424198,
+    "lastSeen": 1625551425656
+  },
+  "master_of_chess_1515@lichess": {
+    "id": "master_of_chess_1515",
+    "provider": "lichess",
+    "username": "Master_of_chess_1515",
+    "firstSeen": 1625551425661,
+    "lastSeen": 1625551425661
+  }
+}
