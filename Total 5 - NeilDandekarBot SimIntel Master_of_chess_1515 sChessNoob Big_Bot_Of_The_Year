@@ -1,0 +1,49 @@
+{
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1625554597447,
+    "lastSeen": 1625556137234,
+    "firstSeenTime": "6:56:37 AM",
+    "lastSeenTime": "7:22:17 AM",
+    "onlineDurationMins": 25.663116666666667
+  },
+  "simintel@lichess": {
+    "id": "simintel",
+    "provider": "lichess",
+    "username": "SimIntel",
+    "firstSeen": 1625556031686,
+    "lastSeen": 1625556459173,
+    "firstSeenTime": "7:20:31 AM",
+    "lastSeenTime": "7:27:39 AM",
+    "onlineDurationMins": 7.124783333333333
+  },
+  "master_of_chess_1515@lichess": {
+    "id": "master_of_chess_1515",
+    "provider": "lichess",
+    "username": "Master_of_chess_1515",
+    "firstSeen": 1625556115307,
+    "lastSeen": 1625556374974,
+    "firstSeenTime": "7:21:55 AM",
+    "lastSeenTime": "7:26:14 AM",
+    "onlineDurationMins": 4.3277833333333335
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1625556465658,
+    "lastSeen": 1625556465658,
+    "firstSeenTime": "7:27:45 AM",
+    "lastSeenTime": "7:27:45 AM",
+    "onlineDurationMins": 0
+  },
+  "big_bot_of_the_year@lichess": {
+    "id": "big_bot_of_the_year",
+    "provider": "lichess",
+    "username": "Big_Bot_Of_The_Year",
+    "firstSeen": 1625556520019,
+    "lastSeen": 1625556520019
+  }
+}
