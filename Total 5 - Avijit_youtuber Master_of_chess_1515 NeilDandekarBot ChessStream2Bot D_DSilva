@@ -1,0 +1,40 @@
+{
+  "avijit_youtuber@lichess": {
+    "id": "avijit_youtuber",
+    "provider": "lichess",
+    "username": "Avijit_youtuber",
+    "firstSeen": 1625545074211,
+    "lastSeen": 1625549501672,
+    "firstSeenTime": "4:17:54 AM",
+    "lastSeenTime": "4:18:51 AM",
+    "onlineDurationMins": 0.9548666666666666
+  },
+  "master_of_chess_1515@lichess": {
+    "id": "master_of_chess_1515",
+    "provider": "lichess",
+    "username": "Master_of_chess_1515",
+    "firstSeen": 1625548795934,
+    "lastSeen": 1625549737380
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1625549165210,
+    "lastSeen": 1625549884906
+  },
+  "chessstream2bot@lichess": {
+    "id": "chessstream2bot",
+    "provider": "lichess",
+    "username": "ChessStream2Bot",
+    "firstSeen": 1625549230798,
+    "lastSeen": 1625550035050
+  },
+  "d_dsilva@lichess": {
+    "id": "d_dsilva",
+    "provider": "lichess",
+    "username": "D_DSilva",
+    "firstSeen": 1625549358271,
+    "lastSeen": 1625550009933
+  }
+}
