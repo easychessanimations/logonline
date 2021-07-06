@@ -1,0 +1,39 @@
+{
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1625596556156,
+    "lastSeen": 1625598475579,
+    "firstSeenTime": "6:35:56 PM",
+    "lastSeenTime": "7:07:55 PM",
+    "onlineDurationMins": 31.990383333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1625597122013,
+    "lastSeen": 1625598485528,
+    "firstSeenTime": "6:45:22 PM",
+    "lastSeenTime": "7:08:05 PM",
+    "onlineDurationMins": 22.72525
+  },
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1625598029595,
+    "lastSeen": 1625598314766,
+    "firstSeenTime": "7:00:29 PM",
+    "lastSeenTime": "7:05:14 PM",
+    "onlineDurationMins": 4.75285
+  },
+  "stockfish-medium@lichess": {
+    "id": "stockfish-medium",
+    "provider": "lichess",
+    "username": "Stockfish-MEDIUM",
+    "firstSeen": 1625598485960,
+    "lastSeen": 1625598485960
+  }
+}
