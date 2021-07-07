@@ -1,0 +1,37 @@
+{
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1625625102844,
+    "lastSeen": 1625628317163
+  },
+  "wolfie9504@lichess": {
+    "id": "wolfie9504",
+    "provider": "lichess",
+    "username": "Wolfie9504",
+    "firstSeen": 1625627403060,
+    "lastSeen": 1625628355797
+  },
+  "master_of_chess_1515@lichess": {
+    "id": "master_of_chess_1515",
+    "provider": "lichess",
+    "username": "Master_of_chess_1515",
+    "firstSeen": 1625627665349,
+    "lastSeen": 1625627757748
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1625628481252,
+    "lastSeen": 1625628489748
+  },
+  "albacadabra@lichess": {
+    "id": "albacadabra",
+    "provider": "lichess",
+    "username": "albacadabra",
+    "firstSeen": 1625628527363,
+    "lastSeen": 1625628527363
+  }
+}
