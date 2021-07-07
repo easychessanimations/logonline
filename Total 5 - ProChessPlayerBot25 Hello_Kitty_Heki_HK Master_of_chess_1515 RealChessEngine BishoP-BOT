@@ -1,0 +1,40 @@
+{
+  "prochessplayerbot25@lichess": {
+    "id": "prochessplayerbot25",
+    "provider": "lichess",
+    "username": "ProChessPlayerBot25",
+    "firstSeen": 1625647327993,
+    "lastSeen": 1625659954351,
+    "firstSeenTime": "8:42:07 AM",
+    "lastSeenTime": "9:24:37 AM",
+    "onlineDurationMins": 42.49101666666667
+  },
+  "hello_kitty_heki_hk@lichess": {
+    "id": "hello_kitty_heki_hk",
+    "provider": "lichess",
+    "username": "Hello_Kitty_Heki_HK",
+    "firstSeen": 1625655206729,
+    "lastSeen": 1625660264727
+  },
+  "master_of_chess_1515@lichess": {
+    "id": "master_of_chess_1515",
+    "provider": "lichess",
+    "username": "Master_of_chess_1515",
+    "firstSeen": 1625655673152,
+    "lastSeen": 1625659854521
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1625655952972,
+    "lastSeen": 1625659955360
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1625659254509,
+    "lastSeen": 1625659992091
+  }
+}
