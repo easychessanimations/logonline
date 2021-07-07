@@ -1,0 +1,56 @@
+{
+  "kyle_0111@lichess": {
+    "id": "kyle_0111",
+    "provider": "lichess",
+    "username": "Kyle_0111",
+    "firstSeen": 1625640994255,
+    "lastSeen": 1625652994222,
+    "firstSeenTime": "6:56:34 AM",
+    "lastSeenTime": "9:24:37 AM",
+    "onlineDurationMins": 148.05415
+  },
+  "simintel@lichess": {
+    "id": "simintel",
+    "provider": "lichess",
+    "username": "SimIntel",
+    "firstSeen": 1625641154469,
+    "lastSeen": 1625653269429,
+    "firstSeenTime": "6:59:14 AM",
+    "lastSeenTime": "9:24:23 AM",
+    "onlineDurationMins": 145.14546666666666
+  },
+  "master_of_chess_1515@lichess": {
+    "id": "master_of_chess_1515",
+    "provider": "lichess",
+    "username": "Master_of_chess_1515",
+    "firstSeen": 1625643303244,
+    "lastSeen": 1625653321480,
+    "firstSeenTime": "7:35:03 AM",
+    "lastSeenTime": "9:25:09 AM",
+    "onlineDurationMins": 110.10296666666666
+  },
+  "prochessplayerbot25@lichess": {
+    "id": "prochessplayerbot25",
+    "provider": "lichess",
+    "username": "ProChessPlayerBot25",
+    "firstSeen": 1625647327993,
+    "lastSeen": 1625653022054,
+    "firstSeenTime": "8:42:07 AM",
+    "lastSeenTime": "9:24:37 AM",
+    "onlineDurationMins": 42.49101666666667
+  },
+  "stockfish-2600-elo@lichess": {
+    "id": "stockfish-2600-elo",
+    "provider": "lichess",
+    "username": "Stockfish-2600-Elo",
+    "firstSeen": 1625650440336,
+    "lastSeen": 1625653181717
+  },
+  "maximbot@lichess": {
+    "id": "maximbot",
+    "provider": "lichess",
+    "username": "MaximBot",
+    "firstSeen": 1625653323532,
+    "lastSeen": 1625653332422
+  }
+}
