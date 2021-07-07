@@ -1,0 +1,89 @@
+{
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1625625102844,
+    "lastSeen": 1625632877496,
+    "firstSeenTime": "2:31:42 AM",
+    "lastSeenTime": "4:41:17 AM",
+    "onlineDurationMins": 129.57753333333332
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1625628481252,
+    "lastSeen": 1625633207704,
+    "firstSeenTime": "3:28:01 AM",
+    "lastSeenTime": "4:46:47 AM",
+    "onlineDurationMins": 78.7742
+  },
+  "albacadabra@lichess": {
+    "id": "albacadabra",
+    "provider": "lichess",
+    "username": "albacadabra",
+    "firstSeen": 1625628527363,
+    "lastSeen": 1625633416745,
+    "firstSeenTime": "3:28:47 AM",
+    "lastSeenTime": "4:50:16 AM",
+    "onlineDurationMins": 81.4897
+  },
+  "simintel@lichess": {
+    "id": "simintel",
+    "provider": "lichess",
+    "username": "SimIntel",
+    "firstSeen": 1625629851530,
+    "lastSeen": 1625633246495,
+    "firstSeenTime": "3:50:51 AM",
+    "lastSeenTime": "4:47:26 AM",
+    "onlineDurationMins": 56.58275
+  },
+  "d_dsilva@lichess": {
+    "id": "d_dsilva",
+    "provider": "lichess",
+    "username": "D_DSilva",
+    "firstSeen": 1625630059441,
+    "lastSeen": 1625633064502,
+    "firstSeenTime": "3:54:19 AM",
+    "lastSeenTime": "4:44:24 AM",
+    "onlineDurationMins": 50.08435
+  },
+  "chess-uaredeadqueen@lichess": {
+    "id": "chess-uaredeadqueen",
+    "provider": "lichess",
+    "username": "chess-uaredeadqueen",
+    "firstSeen": 1625631250699,
+    "lastSeen": 1625633498148,
+    "firstSeenTime": "4:14:10 AM",
+    "lastSeenTime": "4:50:58 AM",
+    "onlineDurationMins": 36.799033333333334
+  },
+  "kyle_0111@lichess": {
+    "id": "kyle_0111",
+    "provider": "lichess",
+    "username": "Kyle_0111",
+    "firstSeen": 1625631874469,
+    "lastSeen": 1625633435633,
+    "firstSeenTime": "4:24:34 AM",
+    "lastSeenTime": "4:50:35 AM",
+    "onlineDurationMins": 26.0194
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1625633373166,
+    "lastSeen": 1625633464444,
+    "firstSeenTime": "4:49:33 AM",
+    "lastSeenTime": "4:51:04 AM",
+    "onlineDurationMins": 1.5213
+  },
+  "master_of_chess_1515@lichess": {
+    "id": "master_of_chess_1515",
+    "provider": "lichess",
+    "username": "Master_of_chess_1515",
+    "firstSeen": 1625633544564,
+    "lastSeen": 1625633544564
+  }
+}
