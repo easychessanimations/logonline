@@ -1,0 +1,46 @@
+{
+  "simintel@lichess": {
+    "id": "simintel",
+    "provider": "lichess",
+    "username": "SimIntel",
+    "firstSeen": 1625662010559,
+    "lastSeen": 1625669543155,
+    "firstSeenTime": "12:46:50 PM",
+    "lastSeenTime": "2:40:23 PM",
+    "onlineDurationMins": 113.54298333333334
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1625663621032,
+    "lastSeen": 1625669476807,
+    "firstSeenTime": "1:13:41 PM",
+    "lastSeenTime": "2:40:35 PM",
+    "onlineDurationMins": 86.90493333333333
+  },
+  "kyle_0111@lichess": {
+    "id": "kyle_0111",
+    "provider": "lichess",
+    "username": "Kyle_0111",
+    "firstSeen": 1625666710728,
+    "lastSeen": 1625669558777,
+    "firstSeenTime": "2:05:10 PM",
+    "lastSeenTime": "2:40:39 PM",
+    "onlineDurationMins": 35.4735
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1625668919163,
+    "lastSeen": 1625669781588
+  },
+  "kingofchess2k9@lichess": {
+    "id": "kingofchess2k9",
+    "provider": "lichess",
+    "username": "KingOfChess2K9",
+    "firstSeen": 1625669697604,
+    "lastSeen": 1625669812787
+  }
+}
