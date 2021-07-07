@@ -1,0 +1,66 @@
+{
+  "kyle_0111@lichess": {
+    "id": "kyle_0111",
+    "provider": "lichess",
+    "username": "Kyle_0111",
+    "firstSeen": 1625640994255,
+    "lastSeen": 1625649877504,
+    "firstSeenTime": "6:56:34 AM",
+    "lastSeenTime": "9:01:37 AM",
+    "onlineDurationMins": 125.0539
+  },
+  "simintel@lichess": {
+    "id": "simintel",
+    "provider": "lichess",
+    "username": "SimIntel",
+    "firstSeen": 1625641154469,
+    "lastSeen": 1625649863197,
+    "firstSeenTime": "6:59:14 AM",
+    "lastSeenTime": "9:01:22 AM",
+    "onlineDurationMins": 122.13981666666666
+  },
+  "master_of_chess_1515@lichess": {
+    "id": "master_of_chess_1515",
+    "provider": "lichess",
+    "username": "Master_of_chess_1515",
+    "firstSeen": 1625643303244,
+    "lastSeen": 1625649909422,
+    "firstSeenTime": "7:35:03 AM",
+    "lastSeenTime": "9:02:19 AM",
+    "onlineDurationMins": 87.27411666666667
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1625645013351,
+    "lastSeen": 1625649758602,
+    "firstSeenTime": "8:03:33 AM",
+    "lastSeenTime": "8:59:49 AM",
+    "onlineDurationMins": 56.274566666666665
+  },
+  "prochessplayerbot25@lichess": {
+    "id": "prochessplayerbot25",
+    "provider": "lichess",
+    "username": "ProChessPlayerBot25",
+    "firstSeen": 1625647327993,
+    "lastSeen": 1625649877454,
+    "firstSeenTime": "8:42:07 AM",
+    "lastSeenTime": "9:02:08 AM",
+    "onlineDurationMins": 20.00645
+  },
+  "grand_chess_2010@lichess": {
+    "id": "grand_chess_2010",
+    "provider": "lichess",
+    "username": "GRAND_CHESS_2010",
+    "firstSeen": 1625648952544,
+    "lastSeen": 1625649081171
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1625649950342,
+    "lastSeen": 1625649950342
+  }
+}
