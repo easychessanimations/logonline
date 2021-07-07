@@ -1,0 +1,29 @@
+{
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1625682698521,
+    "lastSeen": 1625684814861,
+    "firstSeenTime": "6:31:38 PM",
+    "lastSeenTime": "6:52:27 PM",
+    "onlineDurationMins": 20.823216666666667
+  },
+  "erisxxb@lichess": {
+    "id": "erisxxb",
+    "provider": "lichess",
+    "username": "ErisXXB",
+    "firstSeen": 1625682887190,
+    "lastSeen": 1625684462018,
+    "firstSeenTime": "6:34:47 PM",
+    "lastSeenTime": "6:46:11 PM",
+    "onlineDurationMins": 11.40905
+  },
+  "mynameisspeeedy@lichess": {
+    "id": "mynameisspeeedy",
+    "provider": "lichess",
+    "username": "MyNameIsSpeeedy",
+    "firstSeen": 1625684259897,
+    "lastSeen": 1625684958917
+  }
+}
