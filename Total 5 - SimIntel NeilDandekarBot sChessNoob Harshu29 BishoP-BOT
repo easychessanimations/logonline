@@ -1,0 +1,49 @@
+{
+  "simintel@lichess": {
+    "id": "simintel",
+    "provider": "lichess",
+    "username": "SimIntel",
+    "firstSeen": 1625719532653,
+    "lastSeen": 1625730927231,
+    "firstSeenTime": "4:45:32 AM",
+    "lastSeenTime": "7:48:26 AM",
+    "onlineDurationMins": 182.89586666666668
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1625729825118,
+    "lastSeen": 1625730763791,
+    "firstSeenTime": "7:37:05 AM",
+    "lastSeenTime": "7:52:22 AM",
+    "onlineDurationMins": 15.293883333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1625729877145,
+    "lastSeen": 1625730743756,
+    "firstSeenTime": "7:37:57 AM",
+    "lastSeenTime": "7:52:23 AM",
+    "onlineDurationMins": 14.443516666666667
+  },
+  "harshu29@lichess": {
+    "id": "harshu29",
+    "provider": "lichess",
+    "username": "Harshu29",
+    "firstSeen": 1625730623184,
+    "lastSeen": 1625730651912,
+    "firstSeenTime": "7:50:23 AM",
+    "lastSeenTime": "7:50:51 AM",
+    "onlineDurationMins": 0.4788
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1625731019963,
+    "lastSeen": 1625731019963
+  }
+}
