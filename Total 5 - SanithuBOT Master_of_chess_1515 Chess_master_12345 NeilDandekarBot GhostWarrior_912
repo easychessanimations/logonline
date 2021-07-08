@@ -1,0 +1,37 @@
+{
+  "sanithubot@lichess": {
+    "id": "sanithubot",
+    "provider": "lichess",
+    "username": "SanithuBOT",
+    "firstSeen": 1625739833572,
+    "lastSeen": 1625743114080
+  },
+  "master_of_chess_1515@lichess": {
+    "id": "master_of_chess_1515",
+    "provider": "lichess",
+    "username": "Master_of_chess_1515",
+    "firstSeen": 1625740648665,
+    "lastSeen": 1625743709313
+  },
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1625741493119,
+    "lastSeen": 1625743890842
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1625743412983,
+    "lastSeen": 1625743580734
+  },
+  "ghostwarrior_912@lichess": {
+    "id": "ghostwarrior_912",
+    "provider": "lichess",
+    "username": "GhostWarrior_912",
+    "firstSeen": 1625743961035,
+    "lastSeen": 1625743961035
+  }
+}
