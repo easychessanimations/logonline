@@ -1,0 +1,30 @@
+{
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1625731019963,
+    "lastSeen": 1625733014280
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1625731400367,
+    "lastSeen": 1625732912850
+  },
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1625732455699,
+    "lastSeen": 1625733070821
+  },
+  "ghostwarrior_912@lichess": {
+    "id": "ghostwarrior_912",
+    "provider": "lichess",
+    "username": "GhostWarrior_912",
+    "firstSeen": 1625732985298,
+    "lastSeen": 1625732994355
+  }
+}
