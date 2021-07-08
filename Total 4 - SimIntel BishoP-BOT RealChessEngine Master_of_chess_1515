@@ -1,0 +1,33 @@
+{
+  "simintel@lichess": {
+    "id": "simintel",
+    "provider": "lichess",
+    "username": "SimIntel",
+    "firstSeen": 1625719532653,
+    "lastSeen": 1625730927231,
+    "firstSeenTime": "4:45:32 AM",
+    "lastSeenTime": "7:48:26 AM",
+    "onlineDurationMins": 182.89586666666668
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1625731019963,
+    "lastSeen": 1625731687344
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1625731400367,
+    "lastSeen": 1625731745616
+  },
+  "master_of_chess_1515@lichess": {
+    "id": "master_of_chess_1515",
+    "provider": "lichess",
+    "username": "Master_of_chess_1515",
+    "firstSeen": 1625731745730,
+    "lastSeen": 1625731745730
+  }
+}
