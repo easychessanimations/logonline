@@ -1,0 +1,30 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1625731400367,
+    "lastSeen": 1625734405739
+  },
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1625732455699,
+    "lastSeen": 1625734583118
+  },
+  "hello_kitty_heki_hk@lichess": {
+    "id": "hello_kitty_heki_hk",
+    "provider": "lichess",
+    "username": "Hello_Kitty_Heki_HK",
+    "firstSeen": 1625733327327,
+    "lastSeen": 1625733997844
+  },
+  "chess_robot_2010@lichess": {
+    "id": "chess_robot_2010",
+    "provider": "lichess",
+    "username": "CHESS_ROBOT_2010",
+    "firstSeen": 1625734025126,
+    "lastSeen": 1625734105522
+  }
+}
