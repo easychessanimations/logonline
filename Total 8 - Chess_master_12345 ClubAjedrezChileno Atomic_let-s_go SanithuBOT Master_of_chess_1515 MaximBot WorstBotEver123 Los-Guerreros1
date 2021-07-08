@@ -1,0 +1,64 @@
+{
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1625747008416,
+    "lastSeen": 1625756435998,
+    "firstSeenTime": "12:23:28 PM",
+    "lastSeenTime": "12:41:53 PM",
+    "onlineDurationMins": 18.412816666666668
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1625747581970,
+    "lastSeen": 1625756606586,
+    "firstSeenTime": "12:33:01 PM",
+    "lastSeenTime": "12:43:45 PM",
+    "onlineDurationMins": 10.723233333333333
+  },
+  "atomic_let-s_go@lichess": {
+    "id": "atomic_let-s_go",
+    "provider": "lichess",
+    "username": "Atomic_let-s_go",
+    "firstSeen": 1625750683223,
+    "lastSeen": 1625756495391
+  },
+  "sanithubot@lichess": {
+    "id": "sanithubot",
+    "provider": "lichess",
+    "username": "SanithuBOT",
+    "firstSeen": 1625753317083,
+    "lastSeen": 1625756140233
+  },
+  "master_of_chess_1515@lichess": {
+    "id": "master_of_chess_1515",
+    "provider": "lichess",
+    "username": "Master_of_chess_1515",
+    "firstSeen": 1625754245653,
+    "lastSeen": 1625755933600
+  },
+  "maximbot@lichess": {
+    "id": "maximbot",
+    "provider": "lichess",
+    "username": "MaximBot",
+    "firstSeen": 1625755781935,
+    "lastSeen": 1625756627617
+  },
+  "worstbotever123@lichess": {
+    "id": "worstbotever123",
+    "provider": "lichess",
+    "username": "WorstBotEver123",
+    "firstSeen": 1625755966635,
+    "lastSeen": 1625755974980
+  },
+  "los-guerreros1@lichess": {
+    "id": "los-guerreros1",
+    "provider": "lichess",
+    "username": "Los-Guerreros1",
+    "firstSeen": 1625756645383,
+    "lastSeen": 1625756645383
+  }
+}
