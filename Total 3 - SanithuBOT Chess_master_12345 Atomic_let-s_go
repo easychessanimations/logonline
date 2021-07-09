@@ -1,0 +1,23 @@
+{
+  "sanithubot@lichess": {
+    "id": "sanithubot",
+    "provider": "lichess",
+    "username": "SanithuBOT",
+    "firstSeen": 1625797594418,
+    "lastSeen": 1625800044553
+  },
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1625798816555,
+    "lastSeen": 1625799982346
+  },
+  "atomic_let-s_go@lichess": {
+    "id": "atomic_let-s_go",
+    "provider": "lichess",
+    "username": "Atomic_let-s_go",
+    "firstSeen": 1625798906070,
+    "lastSeen": 1625800142589
+  }
+}
