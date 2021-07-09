@@ -1,0 +1,79 @@
+{
+  "atomic_let-s_go@lichess": {
+    "id": "atomic_let-s_go",
+    "provider": "lichess",
+    "username": "Atomic_let-s_go",
+    "firstSeen": 1625831059378,
+    "lastSeen": 1625838552898,
+    "firstSeenTime": "11:44:19 AM",
+    "lastSeenTime": "1:37:29 PM",
+    "onlineDurationMins": 113.17368333333333
+  },
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1625833876840,
+    "lastSeen": 1625838625703,
+    "firstSeenTime": "12:31:16 PM",
+    "lastSeenTime": "1:38:49 PM",
+    "onlineDurationMins": 67.5413
+  },
+  "maximbot@lichess": {
+    "id": "maximbot",
+    "provider": "lichess",
+    "username": "MaximBot",
+    "firstSeen": 1625835785460,
+    "lastSeen": 1625837831701,
+    "firstSeenTime": "1:03:05 PM",
+    "lastSeenTime": "1:37:11 PM",
+    "onlineDurationMins": 34.104016666666666
+  },
+  "botmystery10293@lichess": {
+    "id": "botmystery10293",
+    "provider": "lichess",
+    "username": "BOTMystery10293",
+    "firstSeen": 1625836971130,
+    "lastSeen": 1625838545404,
+    "firstSeenTime": "1:22:51 PM",
+    "lastSeenTime": "1:40:44 PM",
+    "onlineDurationMins": 17.884533333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1625837599254,
+    "lastSeen": 1625838124924,
+    "firstSeenTime": "1:33:19 PM",
+    "lastSeenTime": "1:42:04 PM",
+    "onlineDurationMins": 8.761166666666666
+  },
+  "master_of_chess_1515@lichess": {
+    "id": "master_of_chess_1515",
+    "provider": "lichess",
+    "username": "Master_of_chess_1515",
+    "firstSeen": 1625837797179,
+    "lastSeen": 1625838517303,
+    "firstSeenTime": "1:36:37 PM",
+    "lastSeenTime": "1:36:40 PM",
+    "onlineDurationMins": 0.059833333333333336
+  },
+  "the_super_bot@lichess": {
+    "id": "the_super_bot",
+    "provider": "lichess",
+    "username": "THE_SUPER_BOT",
+    "firstSeen": 1625838104229,
+    "lastSeen": 1625838652552,
+    "firstSeenTime": "1:41:44 PM",
+    "lastSeenTime": "1:41:54 PM",
+    "onlineDurationMins": 0.1724
+  },
+  "the_pro_bot@lichess": {
+    "id": "the_pro_bot",
+    "provider": "lichess",
+    "username": "THE_PRO_BOT",
+    "firstSeen": 1625838652920,
+    "lastSeen": 1625838652920
+  }
+}
