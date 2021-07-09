@@ -1,0 +1,46 @@
+{
+  "atomic_let-s_go@lichess": {
+    "id": "atomic_let-s_go",
+    "provider": "lichess",
+    "username": "Atomic_let-s_go",
+    "firstSeen": 1625831059378,
+    "lastSeen": 1625840962675,
+    "firstSeenTime": "11:44:19 AM",
+    "lastSeenTime": "1:49:12 PM",
+    "onlineDurationMins": 124.892
+  },
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1625833876840,
+    "lastSeen": 1625841293083,
+    "firstSeenTime": "12:31:16 PM",
+    "lastSeenTime": "1:50:54 PM",
+    "onlineDurationMins": 79.62755
+  },
+  "botmystery10293@lichess": {
+    "id": "botmystery10293",
+    "provider": "lichess",
+    "username": "BOTMystery10293",
+    "firstSeen": 1625836971130,
+    "lastSeen": 1625841027388,
+    "firstSeenTime": "1:22:51 PM",
+    "lastSeenTime": "1:52:51 PM",
+    "onlineDurationMins": 30.002916666666668
+  },
+  "vivaan_shukla@lichess": {
+    "id": "vivaan_shukla",
+    "provider": "lichess",
+    "username": "Vivaan_Shukla",
+    "firstSeen": 1625839779445,
+    "lastSeen": 1625841138618
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1625841338880,
+    "lastSeen": 1625841344470
+  }
+}
