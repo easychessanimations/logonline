@@ -1,0 +1,63 @@
+{
+  "atomic_let-s_go@lichess": {
+    "id": "atomic_let-s_go",
+    "provider": "lichess",
+    "username": "Atomic_let-s_go",
+    "firstSeen": 1625798906070,
+    "lastSeen": 1625821962019,
+    "firstSeenTime": "2:48:26 AM",
+    "lastSeenTime": "9:01:40 AM",
+    "onlineDurationMins": 373.2418833333333
+  },
+  "google-b0t@lichess": {
+    "id": "google-b0t",
+    "provider": "lichess",
+    "username": "Google-B0T",
+    "firstSeen": 1625820939658,
+    "lastSeen": 1625822086355,
+    "firstSeenTime": "8:55:39 AM",
+    "lastSeenTime": "9:10:46 AM",
+    "onlineDurationMins": 15.12025
+  },
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1625821350090,
+    "lastSeen": 1625822296671,
+    "firstSeenTime": "9:02:30 AM",
+    "lastSeenTime": "9:03:11 AM",
+    "onlineDurationMins": 0.6926833333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1625821860371,
+    "lastSeen": 1625821921410,
+    "firstSeenTime": "9:11:00 AM",
+    "lastSeenTime": "9:12:01 AM",
+    "onlineDurationMins": 1.0173166666666666
+  },
+  "simintel@lichess": {
+    "id": "simintel",
+    "provider": "lichess",
+    "username": "SimIntel",
+    "firstSeen": 1625822094886,
+    "lastSeen": 1625822138240
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1625822343128,
+    "lastSeen": 1625822345715
+  },
+  "nopawnslift@lichess": {
+    "id": "nopawnslift",
+    "provider": "lichess",
+    "username": "nopawnslift",
+    "firstSeen": 1625822349734,
+    "lastSeen": 1625822349734
+  }
+}
