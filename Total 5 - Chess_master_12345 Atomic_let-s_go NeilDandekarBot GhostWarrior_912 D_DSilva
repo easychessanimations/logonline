@@ -1,0 +1,52 @@
+{
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1625798816555,
+    "lastSeen": 1625804116337,
+    "firstSeenTime": "2:46:56 AM",
+    "lastSeenTime": "3:55:37 AM",
+    "onlineDurationMins": 68.67735
+  },
+  "atomic_let-s_go@lichess": {
+    "id": "atomic_let-s_go",
+    "provider": "lichess",
+    "username": "Atomic_let-s_go",
+    "firstSeen": 1625798906070,
+    "lastSeen": 1625804199934,
+    "firstSeenTime": "2:48:26 AM",
+    "lastSeenTime": "3:57:32 AM",
+    "onlineDurationMins": 69.1097
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1625801877674,
+    "lastSeen": 1625804031451,
+    "firstSeenTime": "3:37:57 AM",
+    "lastSeenTime": "3:49:03 AM",
+    "onlineDurationMins": 11.093483333333333
+  },
+  "ghostwarrior_912@lichess": {
+    "id": "ghostwarrior_912",
+    "provider": "lichess",
+    "username": "GhostWarrior_912",
+    "firstSeen": 1625802120163,
+    "lastSeen": 1625804305088,
+    "firstSeenTime": "3:42:00 AM",
+    "lastSeenTime": "3:54:40 AM",
+    "onlineDurationMins": 12.671933333333333
+  },
+  "d_dsilva@lichess": {
+    "id": "d_dsilva",
+    "provider": "lichess",
+    "username": "D_DSilva",
+    "firstSeen": 1625802135296,
+    "lastSeen": 1625804221858,
+    "firstSeenTime": "3:42:15 AM",
+    "lastSeenTime": "3:54:41 AM",
+    "onlineDurationMins": 12.430166666666667
+  }
+}
