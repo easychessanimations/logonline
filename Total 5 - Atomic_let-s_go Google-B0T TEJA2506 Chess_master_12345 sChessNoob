@@ -1,0 +1,40 @@
+{
+  "atomic_let-s_go@lichess": {
+    "id": "atomic_let-s_go",
+    "provider": "lichess",
+    "username": "Atomic_let-s_go",
+    "firstSeen": 1625798906070,
+    "lastSeen": 1625821300583,
+    "firstSeenTime": "2:48:26 AM",
+    "lastSeenTime": "4:16:39 AM",
+    "onlineDurationMins": 88.23106666666666
+  },
+  "google-b0t@lichess": {
+    "id": "google-b0t",
+    "provider": "lichess",
+    "username": "Google-B0T",
+    "firstSeen": 1625820939658,
+    "lastSeen": 1625821846873
+  },
+  "teja2506@lichess": {
+    "id": "teja2506",
+    "provider": "lichess",
+    "username": "TEJA2506",
+    "firstSeen": 1625821066151,
+    "lastSeen": 1625821277836
+  },
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1625821350090,
+    "lastSeen": 1625821391651
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1625821860371,
+    "lastSeen": 1625821860371
+  }
+}
