@@ -1,0 +1,50 @@
+{
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1625798816555,
+    "lastSeen": 1625816510170,
+    "firstSeenTime": "2:46:56 AM",
+    "lastSeenTime": "4:19:08 AM",
+    "onlineDurationMins": 92.20346666666667
+  },
+  "atomic_let-s_go@lichess": {
+    "id": "atomic_let-s_go",
+    "provider": "lichess",
+    "username": "Atomic_let-s_go",
+    "firstSeen": 1625798906070,
+    "lastSeen": 1625816187748,
+    "firstSeenTime": "2:48:26 AM",
+    "lastSeenTime": "4:16:39 AM",
+    "onlineDurationMins": 88.23106666666666
+  },
+  "simintel@lichess": {
+    "id": "simintel",
+    "provider": "lichess",
+    "username": "SimIntel",
+    "firstSeen": 1625809300526,
+    "lastSeen": 1625816710859
+  },
+  "vivaan_shukla@lichess": {
+    "id": "vivaan_shukla",
+    "provider": "lichess",
+    "username": "Vivaan_Shukla",
+    "firstSeen": 1625815524398,
+    "lastSeen": 1625815955336
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1625816697496,
+    "lastSeen": 1625816733413
+  },
+  "neil--dandekar@lichess": {
+    "id": "neil--dandekar",
+    "provider": "lichess",
+    "username": "Neil--Dandekar",
+    "firstSeen": 1625816773451,
+    "lastSeen": 1625816773451
+  }
+}
