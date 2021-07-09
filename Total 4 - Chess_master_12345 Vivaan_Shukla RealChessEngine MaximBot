@@ -1,0 +1,33 @@
+{
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1625833876840,
+    "lastSeen": 1625842465479,
+    "firstSeenTime": "12:31:16 PM",
+    "lastSeenTime": "1:50:54 PM",
+    "onlineDurationMins": 79.62755
+  },
+  "vivaan_shukla@lichess": {
+    "id": "vivaan_shukla",
+    "provider": "lichess",
+    "username": "Vivaan_Shukla",
+    "firstSeen": 1625839779445,
+    "lastSeen": 1625841798645
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1625841338880,
+    "lastSeen": 1625842421088
+  },
+  "maximbot@lichess": {
+    "id": "maximbot",
+    "provider": "lichess",
+    "username": "MaximBot",
+    "firstSeen": 1625842503299,
+    "lastSeen": 1625842503299
+  }
+}
