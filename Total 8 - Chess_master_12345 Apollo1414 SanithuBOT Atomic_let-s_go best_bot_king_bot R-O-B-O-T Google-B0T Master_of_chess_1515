@@ -1,0 +1,70 @@
+{
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1625821350090,
+    "lastSeen": 1625828213660,
+    "firstSeenTime": "9:02:30 AM",
+    "lastSeenTime": "9:30:17 AM",
+    "onlineDurationMins": 27.7975
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1625822343128,
+    "lastSeen": 1625828424279,
+    "firstSeenTime": "9:19:03 AM",
+    "lastSeenTime": "9:30:30 AM",
+    "onlineDurationMins": 11.4568
+  },
+  "sanithubot@lichess": {
+    "id": "sanithubot",
+    "provider": "lichess",
+    "username": "SanithuBOT",
+    "firstSeen": 1625823115442,
+    "lastSeen": 1625828726822,
+    "firstSeenTime": "9:31:55 AM",
+    "lastSeenTime": "9:37:10 AM",
+    "onlineDurationMins": 5.2471
+  },
+  "atomic_let-s_go@lichess": {
+    "id": "atomic_let-s_go",
+    "provider": "lichess",
+    "username": "Atomic_let-s_go",
+    "firstSeen": 1625823299649,
+    "lastSeen": 1625828396740,
+    "firstSeenTime": "9:34:59 AM",
+    "lastSeenTime": "9:37:25 AM",
+    "onlineDurationMins": 2.43625
+  },
+  "best_bot_king_bot@lichess": {
+    "id": "best_bot_king_bot",
+    "provider": "lichess",
+    "username": "best_bot_king_bot",
+    "firstSeen": 1625827480198,
+    "lastSeen": 1625829004618
+  },
+  "r-o-b-o-t@lichess": {
+    "id": "r-o-b-o-t",
+    "provider": "lichess",
+    "username": "R-O-B-O-T",
+    "firstSeen": 1625828442062,
+    "lastSeen": 1625828443488
+  },
+  "google-b0t@lichess": {
+    "id": "google-b0t",
+    "provider": "lichess",
+    "username": "Google-B0T",
+    "firstSeen": 1625828563753,
+    "lastSeen": 1625828992998
+  },
+  "master_of_chess_1515@lichess": {
+    "id": "master_of_chess_1515",
+    "provider": "lichess",
+    "username": "Master_of_chess_1515",
+    "firstSeen": 1625829027687,
+    "lastSeen": 1625829027687
+  }
+}
