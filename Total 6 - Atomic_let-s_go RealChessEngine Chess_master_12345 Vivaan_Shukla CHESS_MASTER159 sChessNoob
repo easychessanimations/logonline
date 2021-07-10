@@ -1,0 +1,62 @@
+{
+  "atomic_let-s_go@lichess": {
+    "id": "atomic_let-s_go",
+    "provider": "lichess",
+    "username": "Atomic_let-s_go",
+    "firstSeen": 1625895795138,
+    "lastSeen": 1625900994624,
+    "firstSeenTime": "5:43:15 AM",
+    "lastSeenTime": "7:09:54 AM",
+    "onlineDurationMins": 86.6581
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1625895978694,
+    "lastSeen": 1625900515880,
+    "firstSeenTime": "5:46:18 AM",
+    "lastSeenTime": "7:01:55 AM",
+    "onlineDurationMins": 75.61976666666666
+  },
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1625898756147,
+    "lastSeen": 1625901049467,
+    "firstSeenTime": "6:32:36 AM",
+    "lastSeenTime": "7:10:49 AM",
+    "onlineDurationMins": 38.222
+  },
+  "vivaan_shukla@lichess": {
+    "id": "vivaan_shukla",
+    "provider": "lichess",
+    "username": "Vivaan_Shukla",
+    "firstSeen": 1625900535282,
+    "lastSeen": 1625900879968,
+    "firstSeenTime": "7:02:15 AM",
+    "lastSeenTime": "7:07:59 AM",
+    "onlineDurationMins": 5.744766666666667
+  },
+  "chess_master159@lichess": {
+    "id": "chess_master159",
+    "provider": "lichess",
+    "username": "CHESS_MASTER159",
+    "firstSeen": 1625900793417,
+    "lastSeen": 1625901066649,
+    "firstSeenTime": "7:06:33 AM",
+    "lastSeenTime": "7:10:47 AM",
+    "onlineDurationMins": 4.2301166666666665
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1625900962233,
+    "lastSeen": 1625901054914,
+    "firstSeenTime": "7:09:22 AM",
+    "lastSeenTime": "7:10:54 AM",
+    "onlineDurationMins": 1.5446833333333334
+  }
+}
