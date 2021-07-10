@@ -1,0 +1,56 @@
+{
+  "instna-10_bot@lichess": {
+    "id": "instna-10_bot",
+    "provider": "lichess",
+    "username": "INSTNA-10_BOT",
+    "firstSeen": 1625912388559,
+    "lastSeen": 1625926750483,
+    "firstSeenTime": "10:19:48 AM",
+    "lastSeenTime": "2:07:13 PM",
+    "onlineDurationMins": 227.41926666666666
+  },
+  "mynameisspeeedy@lichess": {
+    "id": "mynameisspeeedy",
+    "provider": "lichess",
+    "username": "MyNameIsSpeeedy",
+    "firstSeen": 1625913120716,
+    "lastSeen": 1625927321965,
+    "firstSeenTime": "10:32:00 AM",
+    "lastSeenTime": "2:07:36 PM",
+    "onlineDurationMins": 215.58901666666668
+  },
+  "master_of_chess_1515@lichess": {
+    "id": "master_of_chess_1515",
+    "provider": "lichess",
+    "username": "Master_of_chess_1515",
+    "firstSeen": 1625917609395,
+    "lastSeen": 1625927271188,
+    "firstSeenTime": "11:46:49 AM",
+    "lastSeenTime": "2:04:51 PM",
+    "onlineDurationMins": 138.03101666666666
+  },
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1625925570986,
+    "lastSeen": 1625927301237,
+    "firstSeenTime": "1:59:30 PM",
+    "lastSeenTime": "2:06:20 PM",
+    "onlineDurationMins": 6.832833333333333
+  },
+  "google-b0t@lichess": {
+    "id": "google-b0t",
+    "provider": "lichess",
+    "username": "Google-B0T",
+    "firstSeen": 1625926274388,
+    "lastSeen": 1625927237533
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1625926869883,
+    "lastSeen": 1625927406519
+  }
+}
