@@ -1,0 +1,23 @@
+{
+  "atomic_let-s_go@lichess": {
+    "id": "atomic_let-s_go",
+    "provider": "lichess",
+    "username": "Atomic_let-s_go",
+    "firstSeen": 1625895795138,
+    "lastSeen": 1625896525305
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1625895978694,
+    "lastSeen": 1625896867919
+  },
+  "rpremsaichess@lichess": {
+    "id": "rpremsaichess",
+    "provider": "lichess",
+    "username": "RPREMSAICHESS",
+    "firstSeen": 1625896537994,
+    "lastSeen": 1625896557694
+  }
+}
