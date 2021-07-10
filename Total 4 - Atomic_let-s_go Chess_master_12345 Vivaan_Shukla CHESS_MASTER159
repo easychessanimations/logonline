@@ -1,0 +1,42 @@
+{
+  "atomic_let-s_go@lichess": {
+    "id": "atomic_let-s_go",
+    "provider": "lichess",
+    "username": "Atomic_let-s_go",
+    "firstSeen": 1625895795138,
+    "lastSeen": 1625905866966,
+    "firstSeenTime": "5:43:15 AM",
+    "lastSeenTime": "7:14:55 AM",
+    "onlineDurationMins": 91.6707
+  },
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1625898756147,
+    "lastSeen": 1625906372743,
+    "firstSeenTime": "6:32:36 AM",
+    "lastSeenTime": "7:21:03 AM",
+    "onlineDurationMins": 48.45758333333333
+  },
+  "vivaan_shukla@lichess": {
+    "id": "vivaan_shukla",
+    "provider": "lichess",
+    "username": "Vivaan_Shukla",
+    "firstSeen": 1625900535282,
+    "lastSeen": 1625906058860,
+    "firstSeenTime": "7:02:15 AM",
+    "lastSeenTime": "7:14:22 AM",
+    "onlineDurationMins": 12.1181
+  },
+  "chess_master159@lichess": {
+    "id": "chess_master159",
+    "provider": "lichess",
+    "username": "CHESS_MASTER159",
+    "firstSeen": 1625900793417,
+    "lastSeen": 1625906232090,
+    "firstSeenTime": "7:06:33 AM",
+    "lastSeenTime": "7:21:27 AM",
+    "onlineDurationMins": 14.905733333333334
+  }
+}
