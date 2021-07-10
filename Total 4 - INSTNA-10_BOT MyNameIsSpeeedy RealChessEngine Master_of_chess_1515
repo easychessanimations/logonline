@@ -1,0 +1,33 @@
+{
+  "instna-10_bot@lichess": {
+    "id": "instna-10_bot",
+    "provider": "lichess",
+    "username": "INSTNA-10_BOT",
+    "firstSeen": 1625912388559,
+    "lastSeen": 1625919193659,
+    "firstSeenTime": "10:19:48 AM",
+    "lastSeenTime": "10:28:26 AM",
+    "onlineDurationMins": 8.6325
+  },
+  "mynameisspeeedy@lichess": {
+    "id": "mynameisspeeedy",
+    "provider": "lichess",
+    "username": "MyNameIsSpeeedy",
+    "firstSeen": 1625913120716,
+    "lastSeen": 1625919597608
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1625916787871,
+    "lastSeen": 1625919795858
+  },
+  "master_of_chess_1515@lichess": {
+    "id": "master_of_chess_1515",
+    "provider": "lichess",
+    "username": "Master_of_chess_1515",
+    "firstSeen": 1625917609395,
+    "lastSeen": 1625919727149
+  }
+}
