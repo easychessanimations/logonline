@@ -1,0 +1,30 @@
+{
+  "atomic_let-s_go@lichess": {
+    "id": "atomic_let-s_go",
+    "provider": "lichess",
+    "username": "Atomic_let-s_go",
+    "firstSeen": 1625895795138,
+    "lastSeen": 1625897987131
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1625895978694,
+    "lastSeen": 1625897968303
+  },
+  "sanithubot@lichess": {
+    "id": "sanithubot",
+    "provider": "lichess",
+    "username": "SanithuBOT",
+    "firstSeen": 1625897020252,
+    "lastSeen": 1625898323181
+  },
+  "nopawnslift@lichess": {
+    "id": "nopawnslift",
+    "provider": "lichess",
+    "username": "nopawnslift",
+    "firstSeen": 1625897658737,
+    "lastSeen": 1625897760233
+  }
+}
