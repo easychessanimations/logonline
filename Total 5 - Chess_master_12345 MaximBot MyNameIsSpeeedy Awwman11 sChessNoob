@@ -1,0 +1,37 @@
+{
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1625936136418,
+    "lastSeen": 1625937176453
+  },
+  "maximbot@lichess": {
+    "id": "maximbot",
+    "provider": "lichess",
+    "username": "MaximBot",
+    "firstSeen": 1625936138581,
+    "lastSeen": 1625936928474
+  },
+  "mynameisspeeedy@lichess": {
+    "id": "mynameisspeeedy",
+    "provider": "lichess",
+    "username": "MyNameIsSpeeedy",
+    "firstSeen": 1625936281163,
+    "lastSeen": 1625937412707
+  },
+  "awwman11@lichess": {
+    "id": "awwman11",
+    "provider": "lichess",
+    "username": "Awwman11",
+    "firstSeen": 1625936893674,
+    "lastSeen": 1625936969199
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1625937412753,
+    "lastSeen": 1625937412753
+  }
+}
