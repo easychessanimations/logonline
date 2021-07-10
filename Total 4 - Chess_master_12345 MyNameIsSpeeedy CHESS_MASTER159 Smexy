@@ -1,0 +1,36 @@
+{
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1625936136418,
+    "lastSeen": 1625940280121,
+    "firstSeenTime": "4:55:36 PM",
+    "lastSeenTime": "5:42:37 PM",
+    "onlineDurationMins": 47.012883333333335
+  },
+  "mynameisspeeedy@lichess": {
+    "id": "mynameisspeeedy",
+    "provider": "lichess",
+    "username": "MyNameIsSpeeedy",
+    "firstSeen": 1625936281163,
+    "lastSeen": 1625940405581,
+    "firstSeenTime": "4:58:01 PM",
+    "lastSeenTime": "5:42:30 PM",
+    "onlineDurationMins": 44.4865
+  },
+  "chess_master159@lichess": {
+    "id": "chess_master159",
+    "provider": "lichess",
+    "username": "CHESS_MASTER159",
+    "firstSeen": 1625939398970,
+    "lastSeen": 1625940311678
+  },
+  "837233514483023912@discord": {
+    "id": "837233514483023912",
+    "provider": "discord",
+    "username": "Smexy",
+    "firstSeen": 1625939442493,
+    "lastSeen": 1625939930316
+  }
+}
