@@ -1,0 +1,23 @@
+{
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1625936136418,
+    "lastSeen": 1625936150438
+  },
+  "maximbot@lichess": {
+    "id": "maximbot",
+    "provider": "lichess",
+    "username": "MaximBot",
+    "firstSeen": 1625936138581,
+    "lastSeen": 1625936221213
+  },
+  "mynameisspeeedy@lichess": {
+    "id": "mynameisspeeedy",
+    "provider": "lichess",
+    "username": "MyNameIsSpeeedy",
+    "firstSeen": 1625936281163,
+    "lastSeen": 1625936281163
+  }
+}
