@@ -1,0 +1,57 @@
+{
+  "atomic_let-s_go@lichess": {
+    "id": "atomic_let-s_go",
+    "provider": "lichess",
+    "username": "Atomic_let-s_go",
+    "firstSeen": 1625895795138,
+    "lastSeen": 1625917378120,
+    "firstSeenTime": "5:43:15 AM",
+    "lastSeenTime": "10:28:24 AM",
+    "onlineDurationMins": 285.1556166666667
+  },
+  "instna-10_bot@lichess": {
+    "id": "instna-10_bot",
+    "provider": "lichess",
+    "username": "INSTNA-10_BOT",
+    "firstSeen": 1625912388559,
+    "lastSeen": 1625917153611,
+    "firstSeenTime": "10:19:48 AM",
+    "lastSeenTime": "10:28:26 AM",
+    "onlineDurationMins": 8.6325
+  },
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1625912932298,
+    "lastSeen": 1625917608997
+  },
+  "mynameisspeeedy@lichess": {
+    "id": "mynameisspeeedy",
+    "provider": "lichess",
+    "username": "MyNameIsSpeeedy",
+    "firstSeen": 1625913120716,
+    "lastSeen": 1625917179231
+  },
+  "the_super_bot@lichess": {
+    "id": "the_super_bot",
+    "provider": "lichess",
+    "username": "THE_SUPER_BOT",
+    "firstSeen": 1625914838206,
+    "lastSeen": 1625917362408
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1625916787871,
+    "lastSeen": 1625917459094
+  },
+  "master_of_chess_1515@lichess": {
+    "id": "master_of_chess_1515",
+    "provider": "lichess",
+    "username": "Master_of_chess_1515",
+    "firstSeen": 1625917609395,
+    "lastSeen": 1625917609395
+  }
+}
