@@ -1,0 +1,33 @@
+{
+  "awesomebot7@lichess": {
+    "id": "awesomebot7",
+    "provider": "lichess",
+    "username": "AwesomeBot7",
+    "firstSeen": 1625964534270,
+    "lastSeen": 1625979527576,
+    "firstSeenTime": "12:48:54 AM",
+    "lastSeenTime": "4:01:47 AM",
+    "onlineDurationMins": 192.89006666666666
+  },
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1625976921840,
+    "lastSeen": 1625979588052
+  },
+  "prochessplayerbot25@lichess": {
+    "id": "prochessplayerbot25",
+    "provider": "lichess",
+    "username": "ProChessPlayerBot25",
+    "firstSeen": 1625978493549,
+    "lastSeen": 1625979632852
+  },
+  "kivawuchess@lichess": {
+    "id": "kivawuchess",
+    "provider": "lichess",
+    "username": "kivawuchess",
+    "firstSeen": 1625979723301,
+    "lastSeen": 1625979723301
+  }
+}
