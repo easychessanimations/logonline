@@ -1,0 +1,23 @@
+{
+  "awesomebot7@lichess": {
+    "id": "awesomebot7",
+    "provider": "lichess",
+    "username": "AwesomeBot7",
+    "firstSeen": 1625986844873,
+    "lastSeen": 1625990323130
+  },
+  "kivawuchess@lichess": {
+    "id": "kivawuchess",
+    "provider": "lichess",
+    "username": "kivawuchess",
+    "firstSeen": 1625990360995,
+    "lastSeen": 1625990373682
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1625990615181,
+    "lastSeen": 1625990615181
+  }
+}
