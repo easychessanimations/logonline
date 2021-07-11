@@ -1,0 +1,50 @@
+{
+  "mynameisspeeeedy@lichess": {
+    "id": "mynameisspeeeedy",
+    "provider": "lichess",
+    "username": "MyNameIsSpeeeedy",
+    "firstSeen": 1625994941964,
+    "lastSeen": 1626021385674,
+    "firstSeenTime": "9:15:41 AM",
+    "lastSeenTime": "1:51:25 PM",
+    "onlineDurationMins": 275.7242166666667
+  },
+  "mynameisspeeedy@lichess": {
+    "id": "mynameisspeeedy",
+    "provider": "lichess",
+    "username": "MyNameIsSpeeedy",
+    "firstSeen": 1625994955098,
+    "lastSeen": 1626021388807,
+    "firstSeenTime": "9:15:55 AM",
+    "lastSeenTime": "1:52:50 PM",
+    "onlineDurationMins": 276.91786666666667
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1626019470384,
+    "lastSeen": 1626021844493
+  },
+  "abcd-bot@lichess": {
+    "id": "abcd-bot",
+    "provider": "lichess",
+    "username": "AbCd-bot",
+    "firstSeen": 1626020163024,
+    "lastSeen": 1626021726399
+  },
+  "chess_master159@lichess": {
+    "id": "chess_master159",
+    "provider": "lichess",
+    "username": "CHESS_MASTER159",
+    "firstSeen": 1626020985961,
+    "lastSeen": 1626021789563
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1626021845550,
+    "lastSeen": 1626021845550
+  }
+}
