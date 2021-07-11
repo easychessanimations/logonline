@@ -1,0 +1,29 @@
+{
+  "mynameisspeeedy@lichess": {
+    "id": "mynameisspeeedy",
+    "provider": "lichess",
+    "username": "MyNameIsSpeeedy",
+    "firstSeen": 1625994955098,
+    "lastSeen": 1626025921762,
+    "firstSeenTime": "9:15:55 AM",
+    "lastSeenTime": "5:36:25 PM",
+    "onlineDurationMins": 500.5063666666667
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1626021845550,
+    "lastSeen": 1626026198161,
+    "firstSeenTime": "4:44:05 PM",
+    "lastSeenTime": "5:40:34 PM",
+    "onlineDurationMins": 56.47886666666667
+  },
+  "the_super_bot@lichess": {
+    "id": "the_super_bot",
+    "provider": "lichess",
+    "username": "THE_SUPER_BOT",
+    "firstSeen": 1626026168212,
+    "lastSeen": 1626026178437
+  }
+}
