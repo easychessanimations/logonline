@@ -1,0 +1,16 @@
+{
+  "kivawuchess@lichess": {
+    "id": "kivawuchess",
+    "provider": "lichess",
+    "username": "kivawuchess",
+    "firstSeen": 1625990360995,
+    "lastSeen": 1625991178436
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1625990615181,
+    "lastSeen": 1625991060221
+  }
+}
