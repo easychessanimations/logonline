@@ -1,0 +1,42 @@
+{
+  "abcd-bot@lichess": {
+    "id": "abcd-bot",
+    "provider": "lichess",
+    "username": "AbCd-bot",
+    "firstSeen": 1626030044376,
+    "lastSeen": 1626035524150,
+    "firstSeenTime": "7:00:44 PM",
+    "lastSeenTime": "8:32:04 PM",
+    "onlineDurationMins": 91.32956666666666
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1626034784745,
+    "lastSeen": 1626036355933,
+    "firstSeenTime": "8:19:44 PM",
+    "lastSeenTime": "8:41:26 PM",
+    "onlineDurationMins": 21.704033333333335
+  },
+  "crazyfisheater@lichess": {
+    "id": "crazyfisheater",
+    "provider": "lichess",
+    "username": "CrazyFishEater",
+    "firstSeen": 1626035447800,
+    "lastSeen": 1626035472399,
+    "firstSeenTime": "8:30:47 PM",
+    "lastSeenTime": "8:31:12 PM",
+    "onlineDurationMins": 0.4099833333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1626036143278,
+    "lastSeen": 1626036143278,
+    "firstSeenTime": "8:42:23 PM",
+    "lastSeenTime": "8:42:23 PM",
+    "onlineDurationMins": 0
+  }
+}
