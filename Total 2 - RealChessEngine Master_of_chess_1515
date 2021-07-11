@@ -1,0 +1,19 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1625990615181,
+    "lastSeen": 1625993929273,
+    "firstSeenTime": "8:03:35 AM",
+    "lastSeenTime": "8:28:42 AM",
+    "onlineDurationMins": 25.125233333333334
+  },
+  "master_of_chess_1515@lichess": {
+    "id": "master_of_chess_1515",
+    "provider": "lichess",
+    "username": "Master_of_chess_1515",
+    "firstSeen": 1625994142105,
+    "lastSeen": 1625994142105
+  }
+}
