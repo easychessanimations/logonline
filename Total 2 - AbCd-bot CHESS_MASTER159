@@ -1,0 +1,19 @@
+{
+  "abcd-bot@lichess": {
+    "id": "abcd-bot",
+    "provider": "lichess",
+    "username": "AbCd-bot",
+    "firstSeen": 1626030044376,
+    "lastSeen": 1626034024221,
+    "firstSeenTime": "7:00:44 PM",
+    "lastSeenTime": "7:50:45 PM",
+    "onlineDurationMins": 50.02615
+  },
+  "chess_master159@lichess": {
+    "id": "chess_master159",
+    "provider": "lichess",
+    "username": "CHESS_MASTER159",
+    "firstSeen": 1626034199910,
+    "lastSeen": 1626034199910
+  }
+}
