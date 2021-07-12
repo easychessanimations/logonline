@@ -1,0 +1,36 @@
+{
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1626066022924,
+    "lastSeen": 1626073189049,
+    "firstSeenTime": "5:00:22 AM",
+    "lastSeenTime": "6:07:26 AM",
+    "onlineDurationMins": 67.06223333333334
+  },
+  "ok12435@lichess": {
+    "id": "ok12435",
+    "provider": "lichess",
+    "username": "ok12435",
+    "firstSeen": 1626069923782,
+    "lastSeen": 1626072757120,
+    "firstSeenTime": "6:05:23 AM",
+    "lastSeenTime": "6:08:48 AM",
+    "onlineDurationMins": 3.40895
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1626071979532,
+    "lastSeen": 1626073324352
+  },
+  "kivawuchess@lichess": {
+    "id": "kivawuchess",
+    "provider": "lichess",
+    "username": "kivawuchess",
+    "firstSeen": 1626073448389,
+    "lastSeen": 1626073448389
+  }
+}
