@@ -1,0 +1,23 @@
+{
+  "arnavbot@lichess": {
+    "id": "arnavbot",
+    "provider": "lichess",
+    "username": "arnavbot",
+    "firstSeen": 1626099073288,
+    "lastSeen": 1626099283833
+  },
+  "rookattackbot@lichess": {
+    "id": "rookattackbot",
+    "provider": "lichess",
+    "username": "rookattackbot",
+    "firstSeen": 1626099595891,
+    "lastSeen": 1626099678463
+  },
+  "maximbot@lichess": {
+    "id": "maximbot",
+    "provider": "lichess",
+    "username": "MaximBot",
+    "firstSeen": 1626099841746,
+    "lastSeen": 1626099869269
+  }
+}
