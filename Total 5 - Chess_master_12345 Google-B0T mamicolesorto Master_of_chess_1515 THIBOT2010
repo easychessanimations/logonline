@@ -1,0 +1,37 @@
+{
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1626083707810,
+    "lastSeen": 1626087151276
+  },
+  "google-b0t@lichess": {
+    "id": "google-b0t",
+    "provider": "lichess",
+    "username": "Google-B0T",
+    "firstSeen": 1626086020516,
+    "lastSeen": 1626086686520
+  },
+  "mamicolesorto@lichess": {
+    "id": "mamicolesorto",
+    "provider": "lichess",
+    "username": "mamicolesorto",
+    "firstSeen": 1626086545772,
+    "lastSeen": 1626086986547
+  },
+  "master_of_chess_1515@lichess": {
+    "id": "master_of_chess_1515",
+    "provider": "lichess",
+    "username": "Master_of_chess_1515",
+    "firstSeen": 1626086974012,
+    "lastSeen": 1626086979737
+  },
+  "thibot2010@lichess": {
+    "id": "thibot2010",
+    "provider": "lichess",
+    "username": "THIBOT2010",
+    "firstSeen": 1626087170022,
+    "lastSeen": 1626087170022
+  }
+}
