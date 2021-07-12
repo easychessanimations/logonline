@@ -1,0 +1,19 @@
+{
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1626066022924,
+    "lastSeen": 1626069546403,
+    "firstSeenTime": "5:00:22 AM",
+    "lastSeenTime": "5:44:09 AM",
+    "onlineDurationMins": 43.76971666666667
+  },
+  "ok12435@lichess": {
+    "id": "ok12435",
+    "provider": "lichess",
+    "username": "ok12435",
+    "firstSeen": 1626069923782,
+    "lastSeen": 1626069923782
+  }
+}
