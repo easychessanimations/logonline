@@ -1,0 +1,33 @@
+{
+  "mamicolesorto@lichess": {
+    "id": "mamicolesorto",
+    "provider": "lichess",
+    "username": "mamicolesorto",
+    "firstSeen": 1626105662996,
+    "lastSeen": 1626109551109,
+    "firstSeenTime": "4:01:02 PM",
+    "lastSeenTime": "4:07:09 PM",
+    "onlineDurationMins": 6.1143
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1626106254984,
+    "lastSeen": 1626109654297
+  },
+  "single-knight@lichess": {
+    "id": "single-knight",
+    "provider": "lichess",
+    "username": "Single-Knight",
+    "firstSeen": 1626109215936,
+    "lastSeen": 1626109489512
+  },
+  "naman_bot@lichess": {
+    "id": "naman_bot",
+    "provider": "lichess",
+    "username": "Naman_BOT",
+    "firstSeen": 1626109684075,
+    "lastSeen": 1626109684075
+  }
+}
