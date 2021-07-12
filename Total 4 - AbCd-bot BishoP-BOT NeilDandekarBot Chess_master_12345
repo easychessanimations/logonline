@@ -1,0 +1,30 @@
+{
+  "abcd-bot@lichess": {
+    "id": "abcd-bot",
+    "provider": "lichess",
+    "username": "AbCd-bot",
+    "firstSeen": 1626096674253,
+    "lastSeen": 1626097982298
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1626097271662,
+    "lastSeen": 1626097282856
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1626097660260,
+    "lastSeen": 1626097670005
+  },
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1626097880639,
+    "lastSeen": 1626097893635
+  }
+}
