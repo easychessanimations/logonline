@@ -1,0 +1,30 @@
+{
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1626043230542,
+    "lastSeen": 1626049110559
+  },
+  "kivawuchess@lichess": {
+    "id": "kivawuchess",
+    "provider": "lichess",
+    "username": "kivawuchess",
+    "firstSeen": 1626044541029,
+    "lastSeen": 1626049075505
+  },
+  "los-guerreros1@lichess": {
+    "id": "los-guerreros1",
+    "provider": "lichess",
+    "username": "Los-Guerreros1",
+    "firstSeen": 1626045104493,
+    "lastSeen": 1626049131314
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1626049228232,
+    "lastSeen": 1626049228232
+  }
+}
