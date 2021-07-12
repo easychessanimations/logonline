@@ -1,0 +1,56 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1626076999182,
+    "lastSeen": 1626080515822,
+    "firstSeenTime": "8:03:19 AM",
+    "lastSeenTime": "8:37:24 AM",
+    "onlineDurationMins": 34.0886
+  },
+  "ok12435@lichess": {
+    "id": "ok12435",
+    "provider": "lichess",
+    "username": "ok12435",
+    "firstSeen": 1626077234946,
+    "lastSeen": 1626080624687,
+    "firstSeenTime": "8:07:14 AM",
+    "lastSeenTime": "8:36:10 AM",
+    "onlineDurationMins": 28.918883333333333
+  },
+  "master_of_chess_1515@lichess": {
+    "id": "master_of_chess_1515",
+    "provider": "lichess",
+    "username": "Master_of_chess_1515",
+    "firstSeen": 1626077408344,
+    "lastSeen": 1626080791170,
+    "firstSeenTime": "8:10:08 AM",
+    "lastSeenTime": "8:34:44 AM",
+    "onlineDurationMins": 24.610416666666666
+  },
+  "fact-in-japan-120213@lichess": {
+    "id": "fact-in-japan-120213",
+    "provider": "lichess",
+    "username": "Fact-In-Japan-120213",
+    "firstSeen": 1626077501796,
+    "lastSeen": 1626080846718,
+    "firstSeenTime": "8:11:41 AM",
+    "lastSeenTime": "8:37:19 AM",
+    "onlineDurationMins": 25.622616666666666
+  },
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1626080892503,
+    "lastSeen": 1626080923017
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1626081037441,
+    "lastSeen": 1626081037441
+  }
+}
