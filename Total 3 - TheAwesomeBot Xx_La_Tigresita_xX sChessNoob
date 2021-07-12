@@ -1,0 +1,32 @@
+{
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1626106254984,
+    "lastSeen": 1626116887076,
+    "firstSeenTime": "4:10:54 PM",
+    "lastSeenTime": "7:07:45 PM",
+    "onlineDurationMins": 176.84931666666665
+  },
+  "xx_la_tigresita_xx@lichess": {
+    "id": "xx_la_tigresita_xx",
+    "provider": "lichess",
+    "username": "Xx_La_Tigresita_xX",
+    "firstSeen": 1626111361397,
+    "lastSeen": 1626116830201,
+    "firstSeenTime": "5:36:01 PM",
+    "lastSeenTime": "7:07:10 PM",
+    "onlineDurationMins": 91.14673333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1626115083113,
+    "lastSeen": 1626116916146,
+    "firstSeenTime": "6:38:03 PM",
+    "lastSeenTime": "7:08:05 PM",
+    "onlineDurationMins": 30.03245
+  }
+}
