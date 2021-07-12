@@ -1,0 +1,23 @@
+{
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1626081037441,
+    "lastSeen": 1626085741113
+  },
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1626083707810,
+    "lastSeen": 1626085811197
+  },
+  "google-b0t@lichess": {
+    "id": "google-b0t",
+    "provider": "lichess",
+    "username": "Google-B0T",
+    "firstSeen": 1626086020516,
+    "lastSeen": 1626086020516
+  }
+}
