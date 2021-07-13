@@ -1,0 +1,44 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1626162902390,
+    "lastSeen": 1626164406505
+  },
+  "kyle_0111@lichess": {
+    "id": "kyle_0111",
+    "provider": "lichess",
+    "username": "Kyle_0111",
+    "firstSeen": 1626163078816,
+    "lastSeen": 1626164578200
+  },
+  "we1_rym@lichess": {
+    "id": "we1_rym",
+    "provider": "lichess",
+    "username": "we1_rym",
+    "firstSeen": 1626163398671,
+    "lastSeen": 1626164848517
+  },
+  "mamicolesorto@lichess": {
+    "id": "mamicolesorto",
+    "provider": "lichess",
+    "username": "mamicolesorto",
+    "firstSeen": 1626163520106,
+    "lastSeen": 1626164870678
+  },
+  "864417128219410432@discord": {
+    "id": "864417128219410432",
+    "provider": "discord",
+    "username": "Libot",
+    "firstSeen": 1626163593023,
+    "lastSeen": 1626164257746
+  },
+  "emidoff@lichess": {
+    "id": "emidoff",
+    "provider": "lichess",
+    "username": "Emidoff",
+    "firstSeen": 1626164881869,
+    "lastSeen": 1626164881869
+  }
+}
