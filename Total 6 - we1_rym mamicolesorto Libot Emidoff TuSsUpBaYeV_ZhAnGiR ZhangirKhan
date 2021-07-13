@@ -1,0 +1,59 @@
+{
+  "we1_rym@lichess": {
+    "id": "we1_rym",
+    "provider": "lichess",
+    "username": "we1_rym",
+    "firstSeen": 1626163398671,
+    "lastSeen": 1626167497907,
+    "firstSeenTime": "8:03:18 AM",
+    "lastSeenTime": "9:00:35 AM",
+    "onlineDurationMins": 57.27325
+  },
+  "mamicolesorto@lichess": {
+    "id": "mamicolesorto",
+    "provider": "lichess",
+    "username": "mamicolesorto",
+    "firstSeen": 1626163520106,
+    "lastSeen": 1626167766311,
+    "firstSeenTime": "8:05:20 AM",
+    "lastSeenTime": "8:59:10 AM",
+    "onlineDurationMins": 53.8381
+  },
+  "864417128219410432@discord": {
+    "id": "864417128219410432",
+    "provider": "discord",
+    "username": "Libot",
+    "firstSeen": 1626163593023,
+    "lastSeen": 1626167077072,
+    "firstSeenTime": "8:06:33 AM",
+    "lastSeenTime": "8:56:36 AM",
+    "onlineDurationMins": 50.05886666666667
+  },
+  "emidoff@lichess": {
+    "id": "emidoff",
+    "provider": "lichess",
+    "username": "Emidoff",
+    "firstSeen": 1626164881869,
+    "lastSeen": 1626167084987,
+    "firstSeenTime": "8:28:01 AM",
+    "lastSeenTime": "8:54:41 AM",
+    "onlineDurationMins": 26.661566666666666
+  },
+  "tussupbayev_zhangir@lichess": {
+    "id": "tussupbayev_zhangir",
+    "provider": "lichess",
+    "username": "TuSsUpBaYeV_ZhAnGiR",
+    "firstSeen": 1626166604003,
+    "lastSeen": 1626166938810,
+    "firstSeenTime": "8:56:44 AM",
+    "lastSeenTime": "9:00:40 AM",
+    "onlineDurationMins": 3.94465
+  },
+  "zhangirkhan@lichess": {
+    "id": "zhangirkhan",
+    "provider": "lichess",
+    "username": "ZhangirKhan",
+    "firstSeen": 1626167274199,
+    "lastSeen": 1626167284824
+  }
+}
