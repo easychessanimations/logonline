@@ -1,0 +1,69 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1626162902390,
+    "lastSeen": 1626165031875,
+    "firstSeenTime": "7:55:02 AM",
+    "lastSeenTime": "8:30:31 AM",
+    "onlineDurationMins": 35.491416666666666
+  },
+  "we1_rym@lichess": {
+    "id": "we1_rym",
+    "provider": "lichess",
+    "username": "we1_rym",
+    "firstSeen": 1626163398671,
+    "lastSeen": 1626165626432,
+    "firstSeenTime": "8:03:18 AM",
+    "lastSeenTime": "8:40:26 AM",
+    "onlineDurationMins": 37.12935
+  },
+  "mamicolesorto@lichess": {
+    "id": "mamicolesorto",
+    "provider": "lichess",
+    "username": "mamicolesorto",
+    "firstSeen": 1626163520106,
+    "lastSeen": 1626165744922,
+    "firstSeenTime": "8:05:20 AM",
+    "lastSeenTime": "8:38:40 AM",
+    "onlineDurationMins": 33.33173333333333
+  },
+  "864417128219410432@discord": {
+    "id": "864417128219410432",
+    "provider": "discord",
+    "username": "Libot",
+    "firstSeen": 1626163593023,
+    "lastSeen": 1626165095915,
+    "firstSeenTime": "8:06:33 AM",
+    "lastSeenTime": "8:31:35 AM",
+    "onlineDurationMins": 25.0482
+  },
+  "emidoff@lichess": {
+    "id": "emidoff",
+    "provider": "lichess",
+    "username": "Emidoff",
+    "firstSeen": 1626164881869,
+    "lastSeen": 1626165735874,
+    "firstSeenTime": "8:28:01 AM",
+    "lastSeenTime": "8:31:41 AM",
+    "onlineDurationMins": 3.65815
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1626165662851,
+    "lastSeen": 1626165664353,
+    "firstSeenTime": "8:41:02 AM",
+    "lastSeenTime": "8:41:02 AM",
+    "onlineDurationMins": 0
+  },
+  "kyle_0111@lichess": {
+    "id": "kyle_0111",
+    "provider": "lichess",
+    "username": "Kyle_0111",
+    "firstSeen": 1626165751120,
+    "lastSeen": 1626165751120
+  }
+}
