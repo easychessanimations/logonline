@@ -1,0 +1,52 @@
+{
+  "ctdttaminh@lichess": {
+    "id": "ctdttaminh",
+    "provider": "lichess",
+    "username": "CTDTTAMinh",
+    "firstSeen": 1626184493099,
+    "lastSeen": 1626189571922,
+    "firstSeenTime": "1:54:53 PM",
+    "lastSeenTime": "3:19:31 PM",
+    "onlineDurationMins": 84.64705
+  },
+  "los-guerreros1@lichess": {
+    "id": "los-guerreros1",
+    "provider": "lichess",
+    "username": "Los-Guerreros1",
+    "firstSeen": 1626188387008,
+    "lastSeen": 1626189120234,
+    "firstSeenTime": "2:59:47 PM",
+    "lastSeenTime": "3:12:00 PM",
+    "onlineDurationMins": 12.220433333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1626189043605,
+    "lastSeen": 1626189632906,
+    "firstSeenTime": "3:10:43 PM",
+    "lastSeenTime": "3:20:01 PM",
+    "onlineDurationMins": 9.30515
+  },
+  "maximbot@lichess": {
+    "id": "maximbot",
+    "provider": "lichess",
+    "username": "MaximBot",
+    "firstSeen": 1626189394044,
+    "lastSeen": 1626189479335,
+    "firstSeenTime": "3:16:34 PM",
+    "lastSeenTime": "3:17:59 PM",
+    "onlineDurationMins": 1.4215166666666668
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1626189523276,
+    "lastSeen": 1626189624623,
+    "firstSeenTime": "3:18:43 PM",
+    "lastSeenTime": "3:19:56 PM",
+    "onlineDurationMins": 1.2208333333333334
+  }
+}
