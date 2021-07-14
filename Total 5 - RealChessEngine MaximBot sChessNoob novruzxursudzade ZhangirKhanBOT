@@ -1,0 +1,52 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1626259218693,
+    "lastSeen": 1626269926122,
+    "firstSeenTime": "10:40:18 AM",
+    "lastSeenTime": "1:38:46 PM",
+    "onlineDurationMins": 178.45715
+  },
+  "maximbot@lichess": {
+    "id": "maximbot",
+    "provider": "lichess",
+    "username": "MaximBot",
+    "firstSeen": 1626266757559,
+    "lastSeen": 1626269620095,
+    "firstSeenTime": "12:45:57 PM",
+    "lastSeenTime": "1:33:40 PM",
+    "onlineDurationMins": 47.708933333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1626268102808,
+    "lastSeen": 1626270096381,
+    "firstSeenTime": "1:08:22 PM",
+    "lastSeenTime": "1:41:05 PM",
+    "onlineDurationMins": 32.70895
+  },
+  "novruzxursudzade@lichess": {
+    "id": "novruzxursudzade",
+    "provider": "lichess",
+    "username": "novruzxursudzade",
+    "firstSeen": 1626268660762,
+    "lastSeen": 1626270052330,
+    "firstSeenTime": "1:17:40 PM",
+    "lastSeenTime": "1:40:52 PM",
+    "onlineDurationMins": 23.1928
+  },
+  "zhangirkhanbot@lichess": {
+    "id": "zhangirkhanbot",
+    "provider": "lichess",
+    "username": "ZhangirKhanBOT",
+    "firstSeen": 1626269019338,
+    "lastSeen": 1626269203602,
+    "firstSeenTime": "1:23:39 PM",
+    "lastSeenTime": "1:26:43 PM",
+    "onlineDurationMins": 3.071066666666667
+  }
+}
