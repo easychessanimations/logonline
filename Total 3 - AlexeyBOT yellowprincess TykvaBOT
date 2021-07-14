@@ -1,0 +1,23 @@
+{
+  "alexeybot@lichess": {
+    "id": "alexeybot",
+    "provider": "lichess",
+    "username": "AlexeyBOT",
+    "firstSeen": 1626244119401,
+    "lastSeen": 1626246180017
+  },
+  "yellowprincess@lichess": {
+    "id": "yellowprincess",
+    "provider": "lichess",
+    "username": "yellowprincess",
+    "firstSeen": 1626244654980,
+    "lastSeen": 1626246893321
+  },
+  "tykvabot@lichess": {
+    "id": "tykvabot",
+    "provider": "lichess",
+    "username": "TykvaBOT",
+    "firstSeen": 1626245944354,
+    "lastSeen": 1626246072462
+  }
+}
