@@ -1,0 +1,30 @@
+{
+  "alexeybot@lichess": {
+    "id": "alexeybot",
+    "provider": "lichess",
+    "username": "AlexeyBOT",
+    "firstSeen": 1626258867294,
+    "lastSeen": 1626260177380
+  },
+  "zhangirkhanbot@lichess": {
+    "id": "zhangirkhanbot",
+    "provider": "lichess",
+    "username": "ZhangirKhanBOT",
+    "firstSeen": 1626258916756,
+    "lastSeen": 1626260299610
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1626259218693,
+    "lastSeen": 1626259891461
+  },
+  "tirthankarbarman4@lichess": {
+    "id": "tirthankarbarman4",
+    "provider": "lichess",
+    "username": "Tirthankarbarman4",
+    "firstSeen": 1626259858624,
+    "lastSeen": 1626259888756
+  }
+}
