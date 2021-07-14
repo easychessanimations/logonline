@@ -1,0 +1,40 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1626259218693,
+    "lastSeen": 1626266308774,
+    "firstSeenTime": "10:40:18 AM",
+    "lastSeenTime": "11:05:27 AM",
+    "onlineDurationMins": 25.15235
+  },
+  "zhangirkhanbot@lichess": {
+    "id": "zhangirkhanbot",
+    "provider": "lichess",
+    "username": "ZhangirKhanBOT",
+    "firstSeen": 1626265834329,
+    "lastSeen": 1626266605243
+  },
+  "undefeatablemanis_08@lichess": {
+    "id": "undefeatablemanis_08",
+    "provider": "lichess",
+    "username": "undefeatablemanis_08",
+    "firstSeen": 1626266150078,
+    "lastSeen": 1626266159484
+  },
+  "mynameisspeeedy@lichess": {
+    "id": "mynameisspeeedy",
+    "provider": "lichess",
+    "username": "MyNameIsSpeeedy",
+    "firstSeen": 1626266167323,
+    "lastSeen": 1626266222592
+  },
+  "maximbot@lichess": {
+    "id": "maximbot",
+    "provider": "lichess",
+    "username": "MaximBot",
+    "firstSeen": 1626266757559,
+    "lastSeen": 1626266757559
+  }
+}
