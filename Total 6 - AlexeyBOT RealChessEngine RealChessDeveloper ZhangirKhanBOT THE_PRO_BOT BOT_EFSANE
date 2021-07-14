@@ -1,0 +1,50 @@
+{
+  "alexeybot@lichess": {
+    "id": "alexeybot",
+    "provider": "lichess",
+    "username": "AlexeyBOT",
+    "firstSeen": 1626258867294,
+    "lastSeen": 1626262124309,
+    "firstSeenTime": "10:34:27 AM",
+    "lastSeenTime": "11:04:35 AM",
+    "onlineDurationMins": 30.14455
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1626259218693,
+    "lastSeen": 1626262638121,
+    "firstSeenTime": "10:40:18 AM",
+    "lastSeenTime": "11:05:27 AM",
+    "onlineDurationMins": 25.15235
+  },
+  "realchessdeveloper@lichess": {
+    "id": "realchessdeveloper",
+    "provider": "lichess",
+    "username": "RealChessDeveloper",
+    "firstSeen": 1626261305426,
+    "lastSeen": 1626262750649
+  },
+  "zhangirkhanbot@lichess": {
+    "id": "zhangirkhanbot",
+    "provider": "lichess",
+    "username": "ZhangirKhanBOT",
+    "firstSeen": 1626261444256,
+    "lastSeen": 1626262105253
+  },
+  "the_pro_bot@lichess": {
+    "id": "the_pro_bot",
+    "provider": "lichess",
+    "username": "THE_PRO_BOT",
+    "firstSeen": 1626262255685,
+    "lastSeen": 1626262656455
+  },
+  "bot_efsane@lichess": {
+    "id": "bot_efsane",
+    "provider": "lichess",
+    "username": "BOT_EFSANE",
+    "firstSeen": 1626262743802,
+    "lastSeen": 1626262746787
+  }
+}
