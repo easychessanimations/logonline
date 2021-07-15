@@ -1,0 +1,23 @@
+{
+  "theepicbot2@lichess": {
+    "id": "theepicbot2",
+    "provider": "lichess",
+    "username": "TheEpicBot2",
+    "firstSeen": 1626342254865,
+    "lastSeen": 1626352461712
+  },
+  "lichbot123456@lichess": {
+    "id": "lichbot123456",
+    "provider": "lichess",
+    "username": "lichbot123456",
+    "firstSeen": 1626348319910,
+    "lastSeen": 1626352823972
+  },
+  "chess-robot-for-you@lichess": {
+    "id": "chess-robot-for-you",
+    "provider": "lichess",
+    "username": "chess-Robot-for-you",
+    "firstSeen": 1626352752274,
+    "lastSeen": 1626352765573
+  }
+}
