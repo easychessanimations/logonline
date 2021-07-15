@@ -1,0 +1,33 @@
+{
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1626320645237,
+    "lastSeen": 1626325933251,
+    "firstSeenTime": "3:44:05 AM",
+    "lastSeenTime": "4:09:07 AM",
+    "onlineDurationMins": 25.04145
+  },
+  "zhangirkhanbot@lichess": {
+    "id": "zhangirkhanbot",
+    "provider": "lichess",
+    "username": "ZhangirKhanBOT",
+    "firstSeen": 1626324605101,
+    "lastSeen": 1626325279528
+  },
+  "alexeybot@lichess": {
+    "id": "alexeybot",
+    "provider": "lichess",
+    "username": "AlexeyBOT",
+    "firstSeen": 1626325418714,
+    "lastSeen": 1626325759951
+  },
+  "sai-2010@lichess": {
+    "id": "sai-2010",
+    "provider": "lichess",
+    "username": "SAI-2010",
+    "firstSeen": 1626326147109,
+    "lastSeen": 1626326147109
+  }
+}
