@@ -1,0 +1,51 @@
+{
+  "maximbot@lichess": {
+    "id": "maximbot",
+    "provider": "lichess",
+    "username": "MaximBot",
+    "firstSeen": 1626360199604,
+    "lastSeen": 1626363267066
+  },
+  "theepicbot2@lichess": {
+    "id": "theepicbot2",
+    "provider": "lichess",
+    "username": "TheEpicBot2",
+    "firstSeen": 1626360421620,
+    "lastSeen": 1626362656036
+  },
+  "xerkthebest@lichess": {
+    "id": "xerkthebest",
+    "provider": "lichess",
+    "username": "Xerkthebest",
+    "firstSeen": 1626361461832,
+    "lastSeen": 1626362964420
+  },
+  "chesslavribot@lichess": {
+    "id": "chesslavribot",
+    "provider": "lichess",
+    "username": "ChessLavriBot",
+    "firstSeen": 1626361815634,
+    "lastSeen": 1626362598807
+  },
+  "sai-2010@lichess": {
+    "id": "sai-2010",
+    "provider": "lichess",
+    "username": "SAI-2010",
+    "firstSeen": 1626362141594,
+    "lastSeen": 1626362887834
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1626362626395,
+    "lastSeen": 1626363008168
+  },
+  "alvinlps77chessbot@lichess": {
+    "id": "alvinlps77chessbot",
+    "provider": "lichess",
+    "username": "AlvinLps77ChessBot",
+    "firstSeen": 1626363022420,
+    "lastSeen": 1626363292449
+  }
+}
