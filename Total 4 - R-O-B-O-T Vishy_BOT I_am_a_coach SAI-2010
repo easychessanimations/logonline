@@ -1,0 +1,30 @@
+{
+  "r-o-b-o-t@lichess": {
+    "id": "r-o-b-o-t",
+    "provider": "lichess",
+    "username": "R-O-B-O-T",
+    "firstSeen": 1626317142439,
+    "lastSeen": 1626317809870
+  },
+  "vishy_bot@lichess": {
+    "id": "vishy_bot",
+    "provider": "lichess",
+    "username": "Vishy_BOT",
+    "firstSeen": 1626317405853,
+    "lastSeen": 1626318031085
+  },
+  "i_am_a_coach@lichess": {
+    "id": "i_am_a_coach",
+    "provider": "lichess",
+    "username": "I_am_a_coach",
+    "firstSeen": 1626317749250,
+    "lastSeen": 1626317815726
+  },
+  "sai-2010@lichess": {
+    "id": "sai-2010",
+    "provider": "lichess",
+    "username": "SAI-2010",
+    "firstSeen": 1626318031516,
+    "lastSeen": 1626318031516
+  }
+}
