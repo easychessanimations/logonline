@@ -1,0 +1,39 @@
+{
+  "maximbot@lichess": {
+    "id": "maximbot",
+    "provider": "lichess",
+    "username": "MaximBot",
+    "firstSeen": 1626360199604,
+    "lastSeen": 1626364857677,
+    "firstSeenTime": "2:43:19 PM",
+    "lastSeenTime": "4:00:57 PM",
+    "onlineDurationMins": 77.63455
+  },
+  "theepicbot2@lichess": {
+    "id": "theepicbot2",
+    "provider": "lichess",
+    "username": "TheEpicBot2",
+    "firstSeen": 1626360421620,
+    "lastSeen": 1626365577547,
+    "firstSeenTime": "2:47:01 PM",
+    "lastSeenTime": "4:01:00 PM",
+    "onlineDurationMins": 73.98336666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1626364909389,
+    "lastSeen": 1626364909905,
+    "firstSeenTime": "4:01:49 PM",
+    "lastSeenTime": "4:01:49 PM",
+    "onlineDurationMins": 0.000016666666666666667
+  },
+  "ani-estefany@lichess": {
+    "id": "ani-estefany",
+    "provider": "lichess",
+    "username": "Ani-Estefany",
+    "firstSeen": 1626365161653,
+    "lastSeen": 1626365507258
+  }
+}
