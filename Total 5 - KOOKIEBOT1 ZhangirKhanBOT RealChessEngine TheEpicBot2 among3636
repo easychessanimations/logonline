@@ -1,0 +1,37 @@
+{
+  "kookiebot1@lichess": {
+    "id": "kookiebot1",
+    "provider": "lichess",
+    "username": "KOOKIEBOT1",
+    "firstSeen": 1626329428693,
+    "lastSeen": 1626335347563
+  },
+  "zhangirkhanbot@lichess": {
+    "id": "zhangirkhanbot",
+    "provider": "lichess",
+    "username": "ZhangirKhanBOT",
+    "firstSeen": 1626333654301,
+    "lastSeen": 1626335160947
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1626334446670,
+    "lastSeen": 1626335278761
+  },
+  "theepicbot2@lichess": {
+    "id": "theepicbot2",
+    "provider": "lichess",
+    "username": "TheEpicBot2",
+    "firstSeen": 1626335026560,
+    "lastSeen": 1626335394956
+  },
+  "among3636@lichess": {
+    "id": "among3636",
+    "provider": "lichess",
+    "username": "among3636",
+    "firstSeen": 1626335402686,
+    "lastSeen": 1626335402686
+  }
+}
