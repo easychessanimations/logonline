@@ -1,0 +1,30 @@
+{
+  "vishy_bot@lichess": {
+    "id": "vishy_bot",
+    "provider": "lichess",
+    "username": "Vishy_BOT",
+    "firstSeen": 1626317405853,
+    "lastSeen": 1626318031085
+  },
+  "sai-2010@lichess": {
+    "id": "sai-2010",
+    "provider": "lichess",
+    "username": "SAI-2010",
+    "firstSeen": 1626318031516,
+    "lastSeen": 1626318041802
+  },
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1626318327942,
+    "lastSeen": 1626318432657
+  },
+  "theepicbot2@lichess": {
+    "id": "theepicbot2",
+    "provider": "lichess",
+    "username": "TheEpicBot2",
+    "firstSeen": 1626318882133,
+    "lastSeen": 1626318882133
+  }
+}
