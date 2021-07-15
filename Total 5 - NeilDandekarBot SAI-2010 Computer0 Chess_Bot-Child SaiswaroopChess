@@ -1,0 +1,40 @@
+{
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1626320645237,
+    "lastSeen": 1626326647832,
+    "firstSeenTime": "3:44:05 AM",
+    "lastSeenTime": "4:09:07 AM",
+    "onlineDurationMins": 25.04145
+  },
+  "sai-2010@lichess": {
+    "id": "sai-2010",
+    "provider": "lichess",
+    "username": "SAI-2010",
+    "firstSeen": 1626326147109,
+    "lastSeen": 1626326163888
+  },
+  "computer0@lichess": {
+    "id": "computer0",
+    "provider": "lichess",
+    "username": "Computer0",
+    "firstSeen": 1626326292081,
+    "lastSeen": 1626326755742
+  },
+  "chess_bot-child@lichess": {
+    "id": "chess_bot-child",
+    "provider": "lichess",
+    "username": "Chess_Bot-Child",
+    "firstSeen": 1626326689697,
+    "lastSeen": 1626326701016
+  },
+  "saiswaroopchess@lichess": {
+    "id": "saiswaroopchess",
+    "provider": "lichess",
+    "username": "SaiswaroopChess",
+    "firstSeen": 1626326756155,
+    "lastSeen": 1626326756155
+  }
+}
