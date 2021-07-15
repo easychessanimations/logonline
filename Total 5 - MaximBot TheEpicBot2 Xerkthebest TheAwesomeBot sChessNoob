@@ -1,0 +1,37 @@
+{
+  "maximbot@lichess": {
+    "id": "maximbot",
+    "provider": "lichess",
+    "username": "MaximBot",
+    "firstSeen": 1626360199604,
+    "lastSeen": 1626364857677
+  },
+  "theepicbot2@lichess": {
+    "id": "theepicbot2",
+    "provider": "lichess",
+    "username": "TheEpicBot2",
+    "firstSeen": 1626360421620,
+    "lastSeen": 1626364860622
+  },
+  "xerkthebest@lichess": {
+    "id": "xerkthebest",
+    "provider": "lichess",
+    "username": "Xerkthebest",
+    "firstSeen": 1626361461832,
+    "lastSeen": 1626364464422
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1626362626395,
+    "lastSeen": 1626364672815
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1626364909389,
+    "lastSeen": 1626364909390
+  }
+}
