@@ -1,0 +1,33 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1626334446670,
+    "lastSeen": 1626344871057,
+    "firstSeenTime": "7:34:06 AM",
+    "lastSeenTime": "9:40:54 AM",
+    "onlineDurationMins": 126.80133333333333
+  },
+  "theepicbot2@lichess": {
+    "id": "theepicbot2",
+    "provider": "lichess",
+    "username": "TheEpicBot2",
+    "firstSeen": 1626342254865,
+    "lastSeen": 1626344780532
+  },
+  "maximbot@lichess": {
+    "id": "maximbot",
+    "provider": "lichess",
+    "username": "MaximBot",
+    "firstSeen": 1626343359221,
+    "lastSeen": 1626344861070
+  },
+  "alexeybot@lichess": {
+    "id": "alexeybot",
+    "provider": "lichess",
+    "username": "AlexeyBOT",
+    "firstSeen": 1626344911626,
+    "lastSeen": 1626344911626
+  }
+}
