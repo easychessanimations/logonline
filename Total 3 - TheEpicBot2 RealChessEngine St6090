@@ -1,0 +1,23 @@
+{
+  "theepicbot2@lichess": {
+    "id": "theepicbot2",
+    "provider": "lichess",
+    "username": "TheEpicBot2",
+    "firstSeen": 1626342254865,
+    "lastSeen": 1626347602202
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1626347488575,
+    "lastSeen": 1626347530153
+  },
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1626347658187,
+    "lastSeen": 1626347658187
+  }
+}
