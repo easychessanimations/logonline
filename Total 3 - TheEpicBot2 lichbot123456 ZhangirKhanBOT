@@ -1,0 +1,26 @@
+{
+  "theepicbot2@lichess": {
+    "id": "theepicbot2",
+    "provider": "lichess",
+    "username": "TheEpicBot2",
+    "firstSeen": 1626360421620,
+    "lastSeen": 1626368183967,
+    "firstSeenTime": "2:47:01 PM",
+    "lastSeenTime": "4:13:01 PM",
+    "onlineDurationMins": 85.99688333333333
+  },
+  "lichbot123456@lichess": {
+    "id": "lichbot123456",
+    "provider": "lichess",
+    "username": "lichbot123456",
+    "firstSeen": 1626365939725,
+    "lastSeen": 1626368630346
+  },
+  "zhangirkhanbot@lichess": {
+    "id": "zhangirkhanbot",
+    "provider": "lichess",
+    "username": "ZhangirKhanBOT",
+    "firstSeen": 1626368313043,
+    "lastSeen": 1626368342352
+  }
+}
