@@ -1,0 +1,23 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1626436678696,
+    "lastSeen": 1626440948233
+  },
+  "prostobotxxl@lichess": {
+    "id": "prostobotxxl",
+    "provider": "lichess",
+    "username": "ProstoBotXXL",
+    "firstSeen": 1626439319823,
+    "lastSeen": 1626441132237
+  },
+  "maximbot@lichess": {
+    "id": "maximbot",
+    "provider": "lichess",
+    "username": "MaximBot",
+    "firstSeen": 1626440590755,
+    "lastSeen": 1626441023241
+  }
+}
