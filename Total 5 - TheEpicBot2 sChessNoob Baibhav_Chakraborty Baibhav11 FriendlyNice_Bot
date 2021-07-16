@@ -1,0 +1,52 @@
+{
+  "theepicbot2@lichess": {
+    "id": "theepicbot2",
+    "provider": "lichess",
+    "username": "TheEpicBot2",
+    "firstSeen": 1626418208065,
+    "lastSeen": 1626424592068,
+    "firstSeenTime": "6:50:08 AM",
+    "lastSeenTime": "8:31:15 AM",
+    "onlineDurationMins": 101.12398333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1626423607497,
+    "lastSeen": 1626424575803,
+    "firstSeenTime": "8:20:07 AM",
+    "lastSeenTime": "8:36:15 AM",
+    "onlineDurationMins": 16.13843333333333
+  },
+  "baibhav_chakraborty@lichess": {
+    "id": "baibhav_chakraborty",
+    "provider": "lichess",
+    "username": "Baibhav_Chakraborty",
+    "firstSeen": 1626423649750,
+    "lastSeen": 1626424108090,
+    "firstSeenTime": "8:20:49 AM",
+    "lastSeenTime": "8:28:28 AM",
+    "onlineDurationMins": 7.639
+  },
+  "baibhav11@lichess": {
+    "id": "baibhav11",
+    "provider": "lichess",
+    "username": "Baibhav11",
+    "firstSeen": 1626423744406,
+    "lastSeen": 1626424101421,
+    "firstSeenTime": "8:22:24 AM",
+    "lastSeenTime": "8:28:21 AM",
+    "onlineDurationMins": 5.95025
+  },
+  "friendlynice_bot@lichess": {
+    "id": "friendlynice_bot",
+    "provider": "lichess",
+    "username": "FriendlyNice_Bot",
+    "firstSeen": 1626423789609,
+    "lastSeen": 1626424592061,
+    "firstSeenTime": "8:23:09 AM",
+    "lastSeenTime": "8:26:40 AM",
+    "onlineDurationMins": 3.5221833333333334
+  }
+}
