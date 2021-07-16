@@ -4,13 +4,19 @@
     "provider": "lichess",
     "username": "ZhangirKhanBOT",
     "firstSeen": 1626431897666,
-    "lastSeen": 1626432145337
+    "lastSeen": 1626432734916,
+    "firstSeenTime": "10:38:17 AM",
+    "lastSeenTime": "10:42:25 AM",
+    "onlineDurationMins": 4.12785
   },
   "friendlynice_bot@lichess": {
     "id": "friendlynice_bot",
     "provider": "lichess",
     "username": "FriendlyNice_Bot",
     "firstSeen": 1626432238622,
-    "lastSeen": 1626432238622
+    "lastSeen": 1626433618682,
+    "firstSeenTime": "10:43:58 AM",
+    "lastSeenTime": "10:44:02 AM",
+    "onlineDurationMins": 0.06038333333333333
   }
 }
