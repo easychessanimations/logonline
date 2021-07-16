@@ -1,0 +1,19 @@
+{
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1626451817915,
+    "lastSeen": 1626458049753,
+    "firstSeenTime": "4:10:17 PM",
+    "lastSeenTime": "4:11:51 PM",
+    "onlineDurationMins": 1.5562333333333334
+  },
+  "bot1998@lichess": {
+    "id": "bot1998",
+    "provider": "lichess",
+    "username": "Bot1998",
+    "firstSeen": 1626457394756,
+    "lastSeen": 1626457494346
+  }
+}
