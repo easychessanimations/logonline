@@ -1,0 +1,44 @@
+{
+  "theepicbot2@lichess": {
+    "id": "theepicbot2",
+    "provider": "lichess",
+    "username": "TheEpicBot2",
+    "firstSeen": 1626445534223,
+    "lastSeen": 1626447667361
+  },
+  "best-4ever@lichess": {
+    "id": "best-4ever",
+    "provider": "lichess",
+    "username": "Best-4ever",
+    "firstSeen": 1626446926701,
+    "lastSeen": 1626447670702
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1626447392662,
+    "lastSeen": 1626448078197
+  },
+  "umarzikri23@lichess": {
+    "id": "umarzikri23",
+    "provider": "lichess",
+    "username": "UMARZIKRI23",
+    "firstSeen": 1626447742290,
+    "lastSeen": 1626447799788
+  },
+  "zihniiman@lichess": {
+    "id": "zihniiman",
+    "provider": "lichess",
+    "username": "ZihniIman",
+    "firstSeen": 1626447800218,
+    "lastSeen": 1626447973643
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1626447803141,
+    "lastSeen": 1626447803141
+  }
+}
