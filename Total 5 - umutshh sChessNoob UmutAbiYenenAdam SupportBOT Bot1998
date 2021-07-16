@@ -1,0 +1,52 @@
+{
+  "umutshh@lichess": {
+    "id": "umutshh",
+    "provider": "lichess",
+    "username": "umutshh",
+    "firstSeen": 1626450109440,
+    "lastSeen": 1626452125625,
+    "firstSeenTime": "3:41:49 PM",
+    "lastSeenTime": "4:15:25 PM",
+    "onlineDurationMins": 33.60308333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1626451243425,
+    "lastSeen": 1626452126644,
+    "firstSeenTime": "4:00:43 PM",
+    "lastSeenTime": "4:15:26 PM",
+    "onlineDurationMins": 14.720316666666667
+  },
+  "umutabiyenenadam@lichess": {
+    "id": "umutabiyenenadam",
+    "provider": "lichess",
+    "username": "UmutAbiYenenAdam",
+    "firstSeen": 1626451691437,
+    "lastSeen": 1626452126210,
+    "firstSeenTime": "4:08:11 PM",
+    "lastSeenTime": "4:15:26 PM",
+    "onlineDurationMins": 7.246216666666666
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1626451817915,
+    "lastSeen": 1626451911289,
+    "firstSeenTime": "4:10:17 PM",
+    "lastSeenTime": "4:11:51 PM",
+    "onlineDurationMins": 1.5562333333333334
+  },
+  "bot1998@lichess": {
+    "id": "bot1998",
+    "provider": "lichess",
+    "username": "Bot1998",
+    "firstSeen": 1626452113994,
+    "lastSeen": 1626452129075,
+    "firstSeenTime": "4:15:13 PM",
+    "lastSeenTime": "4:15:18 PM",
+    "onlineDurationMins": 0.08278333333333333
+  }
+}
