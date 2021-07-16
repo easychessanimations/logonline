@@ -1,0 +1,46 @@
+{
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1626406189985,
+    "lastSeen": 1626409341139,
+    "firstSeenTime": "3:29:49 AM",
+    "lastSeenTime": "4:17:42 AM",
+    "onlineDurationMins": 47.88335
+  },
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1626407810038,
+    "lastSeen": 1626409674645,
+    "firstSeenTime": "3:56:50 AM",
+    "lastSeenTime": "4:19:03 AM",
+    "onlineDurationMins": 22.21605
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1626407998479,
+    "lastSeen": 1626409203499,
+    "firstSeenTime": "3:59:58 AM",
+    "lastSeenTime": "4:20:03 AM",
+    "onlineDurationMins": 20.083666666666666
+  },
+  "hk_barys@lichess": {
+    "id": "hk_barys",
+    "provider": "lichess",
+    "username": "Hk_Barys",
+    "firstSeen": 1626409240242,
+    "lastSeen": 1626409762760
+  },
+  "hk_barys_bot@lichess": {
+    "id": "hk_barys_bot",
+    "provider": "lichess",
+    "username": "Hk_Barys_BOT",
+    "firstSeen": 1626409763256,
+    "lastSeen": 1626409763256
+  }
+}
