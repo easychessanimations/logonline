@@ -1,0 +1,23 @@
+{
+  "prostobotxxl@lichess": {
+    "id": "prostobotxxl",
+    "provider": "lichess",
+    "username": "ProstoBotXXL",
+    "firstSeen": 1626439319823,
+    "lastSeen": 1626441993571
+  },
+  "maximbot@lichess": {
+    "id": "maximbot",
+    "provider": "lichess",
+    "username": "MaximBot",
+    "firstSeen": 1626440590755,
+    "lastSeen": 1626441925993
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1626442023184,
+    "lastSeen": 1626442023184
+  }
+}
