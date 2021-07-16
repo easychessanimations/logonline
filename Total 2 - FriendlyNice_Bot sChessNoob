@@ -1,0 +1,19 @@
+{
+  "friendlynice_bot@lichess": {
+    "id": "friendlynice_bot",
+    "provider": "lichess",
+    "username": "FriendlyNice_Bot",
+    "firstSeen": 1626423789609,
+    "lastSeen": 1626430324647,
+    "firstSeenTime": "8:23:09 AM",
+    "lastSeenTime": "8:26:40 AM",
+    "onlineDurationMins": 3.5221833333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1626430635725,
+    "lastSeen": 1626430635726
+  }
+}
