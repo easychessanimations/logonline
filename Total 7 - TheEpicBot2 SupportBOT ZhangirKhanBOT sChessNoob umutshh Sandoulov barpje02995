@@ -1,0 +1,66 @@
+{
+  "theepicbot2@lichess": {
+    "id": "theepicbot2",
+    "provider": "lichess",
+    "username": "TheEpicBot2",
+    "firstSeen": 1626445534223,
+    "lastSeen": 1626450294698,
+    "firstSeenTime": "2:25:34 PM",
+    "lastSeenTime": "3:41:03 PM",
+    "onlineDurationMins": 75.48678333333334
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1626447392662,
+    "lastSeen": 1626450834355,
+    "firstSeenTime": "2:56:32 PM",
+    "lastSeenTime": "3:40:54 PM",
+    "onlineDurationMins": 44.36705
+  },
+  "zhangirkhanbot@lichess": {
+    "id": "zhangirkhanbot",
+    "provider": "lichess",
+    "username": "ZhangirKhanBOT",
+    "firstSeen": 1626449135517,
+    "lastSeen": 1626450559351,
+    "firstSeenTime": "3:25:35 PM",
+    "lastSeenTime": "3:37:14 PM",
+    "onlineDurationMins": 11.657066666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1626449586857,
+    "lastSeen": 1626450156626,
+    "firstSeenTime": "3:33:06 PM",
+    "lastSeenTime": "3:42:36 PM",
+    "onlineDurationMins": 9.49615
+  },
+  "umutshh@lichess": {
+    "id": "umutshh",
+    "provider": "lichess",
+    "username": "umutshh",
+    "firstSeen": 1626450109440,
+    "lastSeen": 1626450969151,
+    "firstSeenTime": "3:41:49 PM",
+    "lastSeenTime": "3:42:35 PM",
+    "onlineDurationMins": 0.7728666666666667
+  },
+  "sandoulov@lichess": {
+    "id": "sandoulov",
+    "provider": "lichess",
+    "username": "Sandoulov",
+    "firstSeen": 1626450733522,
+    "lastSeen": 1626450740413
+  },
+  "barpje02995@lichess": {
+    "id": "barpje02995",
+    "provider": "lichess",
+    "username": "barpje02995",
+    "firstSeen": 1626450794118,
+    "lastSeen": 1626450843543
+  }
+}
