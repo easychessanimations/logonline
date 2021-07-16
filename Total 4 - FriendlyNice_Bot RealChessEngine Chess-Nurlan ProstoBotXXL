@@ -1,0 +1,33 @@
+{
+  "friendlynice_bot@lichess": {
+    "id": "friendlynice_bot",
+    "provider": "lichess",
+    "username": "FriendlyNice_Bot",
+    "firstSeen": 1626432238622,
+    "lastSeen": 1626439053252,
+    "firstSeenTime": "10:43:58 AM",
+    "lastSeenTime": "10:44:02 AM",
+    "onlineDurationMins": 0.06038333333333333
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1626436678696,
+    "lastSeen": 1626439299786
+  },
+  "chess-nurlan@lichess": {
+    "id": "chess-nurlan",
+    "provider": "lichess",
+    "username": "Chess-Nurlan",
+    "firstSeen": 1626438526193,
+    "lastSeen": 1626438820119
+  },
+  "prostobotxxl@lichess": {
+    "id": "prostobotxxl",
+    "provider": "lichess",
+    "username": "ProstoBotXXL",
+    "firstSeen": 1626439319823,
+    "lastSeen": 1626439319823
+  }
+}
