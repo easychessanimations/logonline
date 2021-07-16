@@ -1,0 +1,26 @@
+{
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1626451817915,
+    "lastSeen": 1626459613005,
+    "firstSeenTime": "4:10:17 PM",
+    "lastSeenTime": "4:11:51 PM",
+    "onlineDurationMins": 1.5562333333333334
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1626458328155,
+    "lastSeen": 1626459168098
+  },
+  "poka1@lichess": {
+    "id": "poka1",
+    "provider": "lichess",
+    "username": "POKA1",
+    "firstSeen": 1626459667842,
+    "lastSeen": 1626459667842
+  }
+}
