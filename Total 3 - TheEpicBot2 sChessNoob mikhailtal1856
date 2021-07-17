@@ -1,0 +1,29 @@
+{
+  "theepicbot2@lichess": {
+    "id": "theepicbot2",
+    "provider": "lichess",
+    "username": "TheEpicBot2",
+    "firstSeen": 1626526122671,
+    "lastSeen": 1626527758355,
+    "firstSeenTime": "12:48:42 PM",
+    "lastSeenTime": "1:15:58 PM",
+    "onlineDurationMins": 27.2614
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1626528018191,
+    "lastSeen": 1626528080441,
+    "firstSeenTime": "1:20:18 PM",
+    "lastSeenTime": "1:21:20 PM",
+    "onlineDurationMins": 1.0375
+  },
+  "mikhailtal1856@lichess": {
+    "id": "mikhailtal1856",
+    "provider": "lichess",
+    "username": "mikhailtal1856",
+    "firstSeen": 1626528093684,
+    "lastSeen": 1626528093684
+  }
+}
