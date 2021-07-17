@@ -1,0 +1,29 @@
+{
+  "sanithubot@lichess": {
+    "id": "sanithubot",
+    "provider": "lichess",
+    "username": "SanithuBOT",
+    "firstSeen": 1626529459674,
+    "lastSeen": 1626532921483,
+    "firstSeenTime": "1:44:19 PM",
+    "lastSeenTime": "2:18:03 PM",
+    "onlineDurationMins": 33.72561666666667
+  },
+  "wolfie9504@lichess": {
+    "id": "wolfie9504",
+    "provider": "lichess",
+    "username": "Wolfie9504",
+    "firstSeen": 1626530775517,
+    "lastSeen": 1626532699235,
+    "firstSeenTime": "2:06:15 PM",
+    "lastSeenTime": "2:18:49 PM",
+    "onlineDurationMins": 12.5735
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1626533356717,
+    "lastSeen": 1626533356717
+  }
+}
