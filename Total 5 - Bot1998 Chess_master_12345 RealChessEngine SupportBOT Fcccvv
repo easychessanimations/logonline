@@ -1,0 +1,37 @@
+{
+  "bot1998@lichess": {
+    "id": "bot1998",
+    "provider": "lichess",
+    "username": "Bot1998",
+    "firstSeen": 1626520613356,
+    "lastSeen": 1626521533964
+  },
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1626520667364,
+    "lastSeen": 1626521919678
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1626520995787,
+    "lastSeen": 1626522272755
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1626521557749,
+    "lastSeen": 1626521691543
+  },
+  "fcccvv@lichess": {
+    "id": "fcccvv",
+    "provider": "lichess",
+    "username": "Fcccvv",
+    "firstSeen": 1626521573097,
+    "lastSeen": 1626521583246
+  }
+}
