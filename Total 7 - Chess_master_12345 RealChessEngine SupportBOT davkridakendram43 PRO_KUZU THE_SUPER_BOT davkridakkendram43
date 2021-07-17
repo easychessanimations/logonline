@@ -1,0 +1,51 @@
+{
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_master_12345",
+    "firstSeen": 1626520667364,
+    "lastSeen": 1626524308341
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1626520995787,
+    "lastSeen": 1626524001403
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1626521557749,
+    "lastSeen": 1626523848777
+  },
+  "davkridakendram43@lichess": {
+    "id": "davkridakendram43",
+    "provider": "lichess",
+    "username": "davkridakendram43",
+    "firstSeen": 1626523703699,
+    "lastSeen": 1626524355204
+  },
+  "pro_kuzu@lichess": {
+    "id": "pro_kuzu",
+    "provider": "lichess",
+    "username": "PRO_KUZU",
+    "firstSeen": 1626523991068,
+    "lastSeen": 1626524153628
+  },
+  "the_super_bot@lichess": {
+    "id": "the_super_bot",
+    "provider": "lichess",
+    "username": "THE_SUPER_BOT",
+    "firstSeen": 1626524153935,
+    "lastSeen": 1626524287431
+  },
+  "87295229@github": {
+    "id": "87295229",
+    "provider": "github",
+    "username": "davkridakkendram43",
+    "firstSeen": 1626524356122,
+    "lastSeen": 1626524356122
+  }
+}
