@@ -1,0 +1,32 @@
+{
+  "monstertrucks944@lichess": {
+    "id": "monstertrucks944",
+    "provider": "lichess",
+    "username": "MonsterTrucks944",
+    "firstSeen": 1626624615876,
+    "lastSeen": 1626626586793,
+    "firstSeenTime": "4:10:15 PM",
+    "lastSeenTime": "4:35:20 PM",
+    "onlineDurationMins": 25.073183333333333
+  },
+  "epiano_bot@lichess": {
+    "id": "epiano_bot",
+    "provider": "lichess",
+    "username": "Epiano_Bot",
+    "firstSeen": 1626626038768,
+    "lastSeen": 1626626088025,
+    "firstSeenTime": "4:33:58 PM",
+    "lastSeenTime": "4:34:48 PM",
+    "onlineDurationMins": 0.82095
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1626626161572,
+    "lastSeen": 1626626509019,
+    "firstSeenTime": "4:36:01 PM",
+    "lastSeenTime": "4:41:49 PM",
+    "onlineDurationMins": 5.790783333333334
+  }
+}
