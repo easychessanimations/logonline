@@ -1,0 +1,23 @@
+{
+  "bot1998@lichess": {
+    "id": "bot1998",
+    "provider": "lichess",
+    "username": "Bot1998",
+    "firstSeen": 1626611919046,
+    "lastSeen": 1626612652532
+  },
+  "chessmaster-engine@lichess": {
+    "id": "chessmaster-engine",
+    "provider": "lichess",
+    "username": "CHESSMASTER-Engine",
+    "firstSeen": 1626612077192,
+    "lastSeen": 1626612331015
+  },
+  "82638503@github": {
+    "id": "82638503",
+    "provider": "github",
+    "username": "SamannoyB",
+    "firstSeen": 1626612331898,
+    "lastSeen": 1626612331898
+  }
+}
