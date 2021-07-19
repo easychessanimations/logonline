@@ -1,0 +1,33 @@
+{
+  "mrcalvabot@lichess": {
+    "id": "mrcalvabot",
+    "provider": "lichess",
+    "username": "MrCalvabot",
+    "firstSeen": 1626702813961,
+    "lastSeen": 1626705255639,
+    "firstSeenTime": "1:53:33 PM",
+    "lastSeenTime": "1:53:48 PM",
+    "onlineDurationMins": 0.24338333333333334
+  },
+  "you-make-your-self@lichess": {
+    "id": "you-make-your-self",
+    "provider": "lichess",
+    "username": "you-make-your-self",
+    "firstSeen": 1626704725454,
+    "lastSeen": 1626704894560
+  },
+  "abhinandnkchess@lichess": {
+    "id": "abhinandnkchess",
+    "provider": "lichess",
+    "username": "abhinandnkchess",
+    "firstSeen": 1626705311112,
+    "lastSeen": 1626705420831
+  },
+  "botabhinand@lichess": {
+    "id": "botabhinand",
+    "provider": "lichess",
+    "username": "BOTABHINAND",
+    "firstSeen": 1626705552986,
+    "lastSeen": 1626705625773
+  }
+}
