@@ -1,0 +1,32 @@
+{
+  "king_di_bot@lichess": {
+    "id": "king_di_bot",
+    "provider": "lichess",
+    "username": "king_DI_Bot",
+    "firstSeen": 1626690352137,
+    "lastSeen": 1626692300760,
+    "firstSeenTime": "10:25:52 AM",
+    "lastSeenTime": "10:58:20 AM",
+    "onlineDurationMins": 32.47705
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1626691964902,
+    "lastSeen": 1626692371770,
+    "firstSeenTime": "10:52:44 AM",
+    "lastSeenTime": "10:59:31 AM",
+    "onlineDurationMins": 6.781133333333333
+  },
+  "prostobotxxl@lichess": {
+    "id": "prostobotxxl",
+    "provider": "lichess",
+    "username": "ProstoBotXXL",
+    "firstSeen": 1626691972021,
+    "lastSeen": 1626692380113,
+    "firstSeenTime": "10:52:52 AM",
+    "lastSeenTime": "10:57:00 AM",
+    "onlineDurationMins": 4.13335
+  }
+}
