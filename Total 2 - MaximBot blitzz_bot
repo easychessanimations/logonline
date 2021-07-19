@@ -1,0 +1,16 @@
+{
+  "maximbot@lichess": {
+    "id": "maximbot",
+    "provider": "lichess",
+    "username": "MaximBot",
+    "firstSeen": 1626681052143,
+    "lastSeen": 1626683424983
+  },
+  "blitzz_bot@lichess": {
+    "id": "blitzz_bot",
+    "provider": "lichess",
+    "username": "blitzz_bot",
+    "firstSeen": 1626682514087,
+    "lastSeen": 1626683224273
+  }
+}
