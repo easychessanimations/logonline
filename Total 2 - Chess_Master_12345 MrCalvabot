@@ -1,0 +1,22 @@
+{
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_Master_12345",
+    "firstSeen": 1626750171274,
+    "lastSeen": 1626753359979,
+    "firstSeenTime": "3:02:51 AM",
+    "lastSeenTime": "3:37:09 AM",
+    "onlineDurationMins": 34.296483333333335
+  },
+  "mrcalvabot@lichess": {
+    "id": "mrcalvabot",
+    "provider": "lichess",
+    "username": "MrCalvabot",
+    "firstSeen": 1626751139651,
+    "lastSeen": 1626753177124,
+    "firstSeenTime": "3:18:59 AM",
+    "lastSeenTime": "3:41:57 AM",
+    "onlineDurationMins": 22.95725
+  }
+}
