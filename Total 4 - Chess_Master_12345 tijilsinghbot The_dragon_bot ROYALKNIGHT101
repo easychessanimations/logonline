@@ -1,0 +1,36 @@
+{
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_Master_12345",
+    "firstSeen": 1626750171274,
+    "lastSeen": 1626764669607,
+    "firstSeenTime": "3:02:51 AM",
+    "lastSeenTime": "6:45:34 AM",
+    "onlineDurationMins": 222.7138
+  },
+  "tijilsinghbot@lichess": {
+    "id": "tijilsinghbot",
+    "provider": "lichess",
+    "username": "tijilsinghbot",
+    "firstSeen": 1626758591518,
+    "lastSeen": 1626765176978,
+    "firstSeenTime": "5:23:11 AM",
+    "lastSeenTime": "6:41:18 AM",
+    "onlineDurationMins": 78.1174
+  },
+  "the_dragon_bot@lichess": {
+    "id": "the_dragon_bot",
+    "provider": "lichess",
+    "username": "The_dragon_bot",
+    "firstSeen": 1626764465804,
+    "lastSeen": 1626765152543
+  },
+  "royalknight101@lichess": {
+    "id": "royalknight101",
+    "provider": "lichess",
+    "username": "ROYALKNIGHT101",
+    "firstSeen": 1626764804030,
+    "lastSeen": 1626764815689
+  }
+}
