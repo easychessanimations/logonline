@@ -4,13 +4,19 @@
     "provider": "lichess",
     "username": "ClubAjedrezChileno",
     "firstSeen": 1626812103297,
-    "lastSeen": 1626812995937
+    "lastSeen": 1626814056834,
+    "firstSeenTime": "8:15:03 PM",
+    "lastSeenTime": "8:29:55 PM",
+    "onlineDurationMins": 14.877333333333333
   },
   "theawesomebot@lichess": {
     "id": "theawesomebot",
     "provider": "lichess",
     "username": "TheAwesomeBot",
     "firstSeen": 1626813048508,
-    "lastSeen": 1626813048508
+    "lastSeen": 1626813711844,
+    "firstSeenTime": "8:30:48 PM",
+    "lastSeenTime": "8:30:52 PM",
+    "onlineDurationMins": 0.0609
   }
 }
