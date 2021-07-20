@@ -1,0 +1,19 @@
+{
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1626797243875,
+    "lastSeen": 1626806454537,
+    "firstSeenTime": "4:07:23 PM",
+    "lastSeenTime": "6:22:54 PM",
+    "onlineDurationMins": 135.50461666666666
+  },
+  "woodengine@lichess": {
+    "id": "woodengine",
+    "provider": "lichess",
+    "username": "WoodEngine",
+    "firstSeen": 1626806663583,
+    "lastSeen": 1626806663583
+  }
+}
