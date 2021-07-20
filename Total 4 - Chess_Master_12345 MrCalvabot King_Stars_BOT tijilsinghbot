@@ -1,0 +1,30 @@
+{
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_Master_12345",
+    "firstSeen": 1626777307660,
+    "lastSeen": 1626778265694
+  },
+  "mrcalvabot@lichess": {
+    "id": "mrcalvabot",
+    "provider": "lichess",
+    "username": "MrCalvabot",
+    "firstSeen": 1626777413763,
+    "lastSeen": 1626778163241
+  },
+  "king_stars_bot@lichess": {
+    "id": "king_stars_bot",
+    "provider": "lichess",
+    "username": "King_Stars_BOT",
+    "firstSeen": 1626778158130,
+    "lastSeen": 1626778265807
+  },
+  "tijilsinghbot@lichess": {
+    "id": "tijilsinghbot",
+    "provider": "lichess",
+    "username": "tijilsinghbot",
+    "firstSeen": 1626778282876,
+    "lastSeen": 1626778282876
+  }
+}
