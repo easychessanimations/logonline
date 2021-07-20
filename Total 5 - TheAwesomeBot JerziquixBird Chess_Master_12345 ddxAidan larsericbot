@@ -1,0 +1,37 @@
+{
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1626797243875,
+    "lastSeen": 1626803096042
+  },
+  "jerziquixbird@lichess": {
+    "id": "jerziquixbird",
+    "provider": "lichess",
+    "username": "JerziquixBird",
+    "firstSeen": 1626800280200,
+    "lastSeen": 1626802741620
+  },
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_Master_12345",
+    "firstSeen": 1626801511368,
+    "lastSeen": 1626803016509
+  },
+  "ddxaidan@lichess": {
+    "id": "ddxaidan",
+    "provider": "lichess",
+    "username": "ddxAidan",
+    "firstSeen": 1626801811782,
+    "lastSeen": 1626802477751
+  },
+  "larsericbot@lichess": {
+    "id": "larsericbot",
+    "provider": "lichess",
+    "username": "larsericbot",
+    "firstSeen": 1626803105647,
+    "lastSeen": 1626803105647
+  }
+}
