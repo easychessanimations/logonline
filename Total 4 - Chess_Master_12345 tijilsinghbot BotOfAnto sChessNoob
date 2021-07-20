@@ -1,0 +1,42 @@
+{
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_Master_12345",
+    "firstSeen": 1626750171274,
+    "lastSeen": 1626762702250,
+    "firstSeenTime": "3:02:51 AM",
+    "lastSeenTime": "6:20:09 AM",
+    "onlineDurationMins": 197.30456666666666
+  },
+  "tijilsinghbot@lichess": {
+    "id": "tijilsinghbot",
+    "provider": "lichess",
+    "username": "tijilsinghbot",
+    "firstSeen": 1626758591518,
+    "lastSeen": 1626762845873,
+    "firstSeenTime": "5:23:11 AM",
+    "lastSeenTime": "6:19:49 AM",
+    "onlineDurationMins": 56.63406666666667
+  },
+  "botofanto@lichess": {
+    "id": "botofanto",
+    "provider": "lichess",
+    "username": "BotOfAnto",
+    "firstSeen": 1626761589261,
+    "lastSeen": 1626762017998,
+    "firstSeenTime": "6:13:09 AM",
+    "lastSeenTime": "6:20:17 AM",
+    "onlineDurationMins": 7.145616666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1626762214955,
+    "lastSeen": 1626762215601,
+    "firstSeenTime": "6:23:34 AM",
+    "lastSeenTime": "6:23:34 AM",
+    "onlineDurationMins": 0
+  }
+}
