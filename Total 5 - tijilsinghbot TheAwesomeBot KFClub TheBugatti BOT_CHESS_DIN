@@ -1,0 +1,37 @@
+{
+  "tijilsinghbot@lichess": {
+    "id": "tijilsinghbot",
+    "provider": "lichess",
+    "username": "tijilsinghbot",
+    "firstSeen": 1626790181877,
+    "lastSeen": 1626793724717
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1626792471355,
+    "lastSeen": 1626793985312
+  },
+  "kfclub@lichess": {
+    "id": "kfclub",
+    "provider": "lichess",
+    "username": "KFClub",
+    "firstSeen": 1626793670661,
+    "lastSeen": 1626794233258
+  },
+  "thebugatti@lichess": {
+    "id": "thebugatti",
+    "provider": "lichess",
+    "username": "TheBugatti",
+    "firstSeen": 1626793824938,
+    "lastSeen": 1626793834202
+  },
+  "bot_chess_din@lichess": {
+    "id": "bot_chess_din",
+    "provider": "lichess",
+    "username": "BOT_CHESS_DIN",
+    "firstSeen": 1626793961805,
+    "lastSeen": 1626794039099
+  }
+}
