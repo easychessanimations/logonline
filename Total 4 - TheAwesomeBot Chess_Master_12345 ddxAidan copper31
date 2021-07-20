@@ -1,0 +1,30 @@
+{
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1626797243875,
+    "lastSeen": 1626803874781
+  },
+  "chess_master_12345@lichess": {
+    "id": "chess_master_12345",
+    "provider": "lichess",
+    "username": "Chess_Master_12345",
+    "firstSeen": 1626801511368,
+    "lastSeen": 1626804158445
+  },
+  "ddxaidan@lichess": {
+    "id": "ddxaidan",
+    "provider": "lichess",
+    "username": "ddxAidan",
+    "firstSeen": 1626801811782,
+    "lastSeen": 1626803395240
+  },
+  "copper31@lichess": {
+    "id": "copper31",
+    "provider": "lichess",
+    "username": "copper31",
+    "firstSeen": 1626803316912,
+    "lastSeen": 1626803429168
+  }
+}
