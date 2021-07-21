@@ -1,0 +1,40 @@
+{
+  "kevinpindakaas@lichess": {
+    "id": "kevinpindakaas",
+    "provider": "lichess",
+    "username": "KevinPindakaas",
+    "firstSeen": 1626878509874,
+    "lastSeen": 1626889753936,
+    "firstSeenTime": "2:41:49 PM",
+    "lastSeenTime": "2:42:28 PM",
+    "onlineDurationMins": 0.6411666666666667
+  },
+  "estefan_el_guerrero@lichess": {
+    "id": "estefan_el_guerrero",
+    "provider": "lichess",
+    "username": "estefan_el_guerrero",
+    "firstSeen": 1626880818939,
+    "lastSeen": 1626889994969
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1626883394679,
+    "lastSeen": 1626889517231
+  },
+  "zuhrechessbot@lichess": {
+    "id": "zuhrechessbot",
+    "provider": "lichess",
+    "username": "ZuhreChessBot",
+    "firstSeen": 1626889369855,
+    "lastSeen": 1626889979254
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1626889996371,
+    "lastSeen": 1626889996371
+  }
+}
