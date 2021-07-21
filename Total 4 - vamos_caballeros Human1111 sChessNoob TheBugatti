@@ -1,0 +1,39 @@
+{
+  "vamos_caballeros@lichess": {
+    "id": "vamos_caballeros",
+    "provider": "lichess",
+    "username": "vamos_caballeros",
+    "firstSeen": 1626872713652,
+    "lastSeen": 1626877356679,
+    "firstSeenTime": "1:05:13 PM",
+    "lastSeenTime": "2:11:37 PM",
+    "onlineDurationMins": 66.39271666666667
+  },
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1626875807883,
+    "lastSeen": 1626877106918,
+    "firstSeenTime": "1:56:47 PM",
+    "lastSeenTime": "2:08:02 PM",
+    "onlineDurationMins": 11.2354
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1626877092928,
+    "lastSeen": 1626877093284,
+    "firstSeenTime": "2:18:12 PM",
+    "lastSeenTime": "2:18:12 PM",
+    "onlineDurationMins": 0
+  },
+  "thebugatti@lichess": {
+    "id": "thebugatti",
+    "provider": "lichess",
+    "username": "TheBugatti",
+    "firstSeen": 1626877679322,
+    "lastSeen": 1626877679322
+  }
+}
