@@ -1,0 +1,19 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1626855767633,
+    "lastSeen": 1626860099950,
+    "firstSeenTime": "8:22:47 AM",
+    "lastSeenTime": "9:13:18 AM",
+    "onlineDurationMins": 50.51745
+  },
+  "botgm3154@lichess": {
+    "id": "botgm3154",
+    "provider": "lichess",
+    "username": "botgm3154",
+    "firstSeen": 1626860642994,
+    "lastSeen": 1626860642994
+  }
+}
