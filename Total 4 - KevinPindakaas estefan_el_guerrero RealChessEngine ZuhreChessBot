@@ -4,30 +4,39 @@
     "provider": "lichess",
     "username": "KevinPindakaas",
     "firstSeen": 1626878509874,
-    "lastSeen": 1626889097014,
+    "lastSeen": 1626891073891,
     "firstSeenTime": "2:41:49 PM",
-    "lastSeenTime": "2:42:28 PM",
-    "onlineDurationMins": 0.6411666666666667
+    "lastSeenTime": "5:49:13 PM",
+    "onlineDurationMins": 187.40103333333334
   },
   "estefan_el_guerrero@lichess": {
     "id": "estefan_el_guerrero",
     "provider": "lichess",
     "username": "estefan_el_guerrero",
     "firstSeen": 1626880818939,
-    "lastSeen": 1626889361358
+    "lastSeen": 1626891337912,
+    "firstSeenTime": "3:20:18 PM",
+    "lastSeenTime": "5:53:14 PM",
+    "onlineDurationMins": 152.93383333333333
   },
   "realchessengine@lichess": {
     "id": "realchessengine",
     "provider": "lichess",
     "username": "RealChessEngine",
     "firstSeen": 1626883394679,
-    "lastSeen": 1626889047037
+    "lastSeen": 1626891278762,
+    "firstSeenTime": "4:03:14 PM",
+    "lastSeenTime": "5:45:17 PM",
+    "onlineDurationMins": 102.04253333333334
   },
   "zuhrechessbot@lichess": {
     "id": "zuhrechessbot",
     "provider": "lichess",
     "username": "ZuhreChessBot",
     "firstSeen": 1626889369855,
-    "lastSeen": 1626889369855
+    "lastSeen": 1626891308098,
+    "firstSeenTime": "5:42:49 PM",
+    "lastSeenTime": "5:52:59 PM",
+    "onlineDurationMins": 10.15665
   }
 }
