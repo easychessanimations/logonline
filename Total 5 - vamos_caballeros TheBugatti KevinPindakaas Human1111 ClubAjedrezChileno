@@ -1,0 +1,46 @@
+{
+  "vamos_caballeros@lichess": {
+    "id": "vamos_caballeros",
+    "provider": "lichess",
+    "username": "vamos_caballeros",
+    "firstSeen": 1626872713652,
+    "lastSeen": 1626880594961,
+    "firstSeenTime": "1:05:13 PM",
+    "lastSeenTime": "2:45:36 PM",
+    "onlineDurationMins": 100.37395
+  },
+  "thebugatti@lichess": {
+    "id": "thebugatti",
+    "provider": "lichess",
+    "username": "TheBugatti",
+    "firstSeen": 1626877679322,
+    "lastSeen": 1626880681284,
+    "firstSeenTime": "2:27:59 PM",
+    "lastSeenTime": "2:40:04 PM",
+    "onlineDurationMins": 12.089783333333333
+  },
+  "kevinpindakaas@lichess": {
+    "id": "kevinpindakaas",
+    "provider": "lichess",
+    "username": "KevinPindakaas",
+    "firstSeen": 1626878509874,
+    "lastSeen": 1626880454055,
+    "firstSeenTime": "2:41:49 PM",
+    "lastSeenTime": "2:42:28 PM",
+    "onlineDurationMins": 0.6411666666666667
+  },
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1626878900696,
+    "lastSeen": 1626880412936
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1626879313253,
+    "lastSeen": 1626880592151
+  }
+}
