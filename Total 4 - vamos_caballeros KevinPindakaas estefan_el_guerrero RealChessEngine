@@ -1,0 +1,36 @@
+{
+  "vamos_caballeros@lichess": {
+    "id": "vamos_caballeros",
+    "provider": "lichess",
+    "username": "vamos_caballeros",
+    "firstSeen": 1626872713652,
+    "lastSeen": 1626887736489,
+    "firstSeenTime": "1:05:13 PM",
+    "lastSeenTime": "2:45:36 PM",
+    "onlineDurationMins": 100.37395
+  },
+  "kevinpindakaas@lichess": {
+    "id": "kevinpindakaas",
+    "provider": "lichess",
+    "username": "KevinPindakaas",
+    "firstSeen": 1626878509874,
+    "lastSeen": 1626888434079,
+    "firstSeenTime": "2:41:49 PM",
+    "lastSeenTime": "2:42:28 PM",
+    "onlineDurationMins": 0.6411666666666667
+  },
+  "estefan_el_guerrero@lichess": {
+    "id": "estefan_el_guerrero",
+    "provider": "lichess",
+    "username": "estefan_el_guerrero",
+    "firstSeen": 1626880818939,
+    "lastSeen": 1626887818255
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1626883394679,
+    "lastSeen": 1626888200306
+  }
+}
