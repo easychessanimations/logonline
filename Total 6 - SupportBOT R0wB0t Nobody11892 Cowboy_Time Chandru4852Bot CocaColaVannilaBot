@@ -1,0 +1,47 @@
+{
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1627040484489,
+    "lastSeen": 1627057545763,
+    "firstSeenTime": "11:41:24 AM",
+    "lastSeenTime": "12:36:47 PM",
+    "onlineDurationMins": 55.3902
+  },
+  "r0wb0t@lichess": {
+    "id": "r0wb0t",
+    "provider": "lichess",
+    "username": "R0wB0t",
+    "firstSeen": 1627050587089,
+    "lastSeen": 1627057057779
+  },
+  "nobody11892@lichess": {
+    "id": "nobody11892",
+    "provider": "lichess",
+    "username": "Nobody11892",
+    "firstSeen": 1627051932465,
+    "lastSeen": 1627057038935
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1627055156509,
+    "lastSeen": 1627057144905
+  },
+  "chandru4852bot@lichess": {
+    "id": "chandru4852bot",
+    "provider": "lichess",
+    "username": "Chandru4852Bot",
+    "firstSeen": 1627056212550,
+    "lastSeen": 1627056826529
+  },
+  "cocacolavannilabot@lichess": {
+    "id": "cocacolavannilabot",
+    "provider": "lichess",
+    "username": "CocaColaVannilaBot",
+    "firstSeen": 1627056219014,
+    "lastSeen": 1627057673609
+  }
+}
