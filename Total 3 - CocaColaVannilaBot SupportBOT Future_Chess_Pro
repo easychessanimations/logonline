@@ -1,0 +1,29 @@
+{
+  "cocacolavannilabot@lichess": {
+    "id": "cocacolavannilabot",
+    "provider": "lichess",
+    "username": "CocaColaVannilaBot",
+    "firstSeen": 1627040322108,
+    "lastSeen": 1627047136075,
+    "firstSeenTime": "11:38:42 AM",
+    "lastSeenTime": "12:32:37 PM",
+    "onlineDurationMins": 53.92828333333333
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1627040484489,
+    "lastSeen": 1627047115005,
+    "firstSeenTime": "11:41:24 AM",
+    "lastSeenTime": "12:36:47 PM",
+    "onlineDurationMins": 55.3902
+  },
+  "future_chess_pro@lichess": {
+    "id": "future_chess_pro",
+    "provider": "lichess",
+    "username": "Future_Chess_Pro",
+    "firstSeen": 1627046294452,
+    "lastSeen": 1627047127810
+  }
+}
