@@ -1,0 +1,42 @@
+{
+  "cocacolavannilabot@lichess": {
+    "id": "cocacolavannilabot",
+    "provider": "lichess",
+    "username": "CocaColaVannilaBot",
+    "firstSeen": 1627040322108,
+    "lastSeen": 1627044788937,
+    "firstSeenTime": "11:38:42 AM",
+    "lastSeenTime": "12:32:37 PM",
+    "onlineDurationMins": 53.92828333333333
+  },
+  "weiweibot@lichess": {
+    "id": "weiweibot",
+    "provider": "lichess",
+    "username": "WeiWeiBot",
+    "firstSeen": 1627040454604,
+    "lastSeen": 1627044582385,
+    "firstSeenTime": "11:40:54 AM",
+    "lastSeenTime": "12:34:33 PM",
+    "onlineDurationMins": 53.6487
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1627040484489,
+    "lastSeen": 1627044125884,
+    "firstSeenTime": "11:41:24 AM",
+    "lastSeenTime": "12:36:47 PM",
+    "onlineDurationMins": 55.3902
+  },
+  "wren_bot@lichess": {
+    "id": "wren_bot",
+    "provider": "lichess",
+    "username": "Wren_bot",
+    "firstSeen": 1627042853324,
+    "lastSeen": 1627044377579,
+    "firstSeenTime": "12:20:53 PM",
+    "lastSeenTime": "12:33:20 PM",
+    "onlineDurationMins": 12.458933333333333
+  }
+}
