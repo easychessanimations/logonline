@@ -1,0 +1,78 @@
+{
+  "cocacolavannilabot@lichess": {
+    "id": "cocacolavannilabot",
+    "provider": "lichess",
+    "username": "CocaColaVannilaBot",
+    "firstSeen": 1627040322108,
+    "lastSeen": 1627051373162,
+    "firstSeenTime": "11:38:42 AM",
+    "lastSeenTime": "12:32:37 PM",
+    "onlineDurationMins": 53.92828333333333
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1627040484489,
+    "lastSeen": 1627051666278,
+    "firstSeenTime": "11:41:24 AM",
+    "lastSeenTime": "12:36:47 PM",
+    "onlineDurationMins": 55.3902
+  },
+  "future_chess_pro@lichess": {
+    "id": "future_chess_pro",
+    "provider": "lichess",
+    "username": "Future_Chess_Pro",
+    "firstSeen": 1627046294452,
+    "lastSeen": 1627051617814
+  },
+  "weiweibot@lichess": {
+    "id": "weiweibot",
+    "provider": "lichess",
+    "username": "WeiWeiBot",
+    "firstSeen": 1627049171904,
+    "lastSeen": 1627051260465
+  },
+  "ctdttaminh@lichess": {
+    "id": "ctdttaminh",
+    "provider": "lichess",
+    "username": "CTDTTAMinh",
+    "firstSeen": 1627050262651,
+    "lastSeen": 1627051766130
+  },
+  "quand11892@lichess": {
+    "id": "quand11892",
+    "provider": "lichess",
+    "username": "QuanD11892",
+    "firstSeen": 1627050582240,
+    "lastSeen": 1627051834824
+  },
+  "r0wb0t@lichess": {
+    "id": "r0wb0t",
+    "provider": "lichess",
+    "username": "R0wB0t",
+    "firstSeen": 1627050587089,
+    "lastSeen": 1627051298201
+  },
+  "cp_12@lichess": {
+    "id": "cp_12",
+    "provider": "lichess",
+    "username": "CP_12",
+    "firstSeen": 1627051128206,
+    "lastSeen": 1627051137854
+  },
+  "p1bot4ecc@lichess": {
+    "id": "p1bot4ecc",
+    "provider": "lichess",
+    "username": "P1BOT4ECC",
+    "firstSeen": 1627051813975,
+    "lastSeen": 1627051820297
+  },
+  "iambot321@lichess": {
+    "id": "iambot321",
+    "provider": "lichess",
+    "username": "IamBot321",
+    "firstSeen": 1627051879289,
+    "lastSeen": 1627051879289
+  }
+}
