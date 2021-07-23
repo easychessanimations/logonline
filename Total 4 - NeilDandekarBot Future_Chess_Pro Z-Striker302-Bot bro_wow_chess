@@ -1,0 +1,30 @@
+{
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1627011100927,
+    "lastSeen": 1627013239763
+  },
+  "future_chess_pro@lichess": {
+    "id": "future_chess_pro",
+    "provider": "lichess",
+    "username": "Future_Chess_Pro",
+    "firstSeen": 1627012801864,
+    "lastSeen": 1627013110952
+  },
+  "z-striker302-bot@lichess": {
+    "id": "z-striker302-bot",
+    "provider": "lichess",
+    "username": "Z-Striker302-Bot",
+    "firstSeen": 1627013477110,
+    "lastSeen": 1627013613490
+  },
+  "bro_wow_chess@lichess": {
+    "id": "bro_wow_chess",
+    "provider": "lichess",
+    "username": "bro_wow_chess",
+    "firstSeen": 1627013637604,
+    "lastSeen": 1627013637604
+  }
+}
