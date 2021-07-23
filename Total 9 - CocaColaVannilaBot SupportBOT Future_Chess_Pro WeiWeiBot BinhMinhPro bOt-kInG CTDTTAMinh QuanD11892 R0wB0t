@@ -1,0 +1,71 @@
+{
+  "cocacolavannilabot@lichess": {
+    "id": "cocacolavannilabot",
+    "provider": "lichess",
+    "username": "CocaColaVannilaBot",
+    "firstSeen": 1627040322108,
+    "lastSeen": 1627050320386,
+    "firstSeenTime": "11:38:42 AM",
+    "lastSeenTime": "12:32:37 PM",
+    "onlineDurationMins": 53.92828333333333
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1627040484489,
+    "lastSeen": 1627050466078,
+    "firstSeenTime": "11:41:24 AM",
+    "lastSeenTime": "12:36:47 PM",
+    "onlineDurationMins": 55.3902
+  },
+  "future_chess_pro@lichess": {
+    "id": "future_chess_pro",
+    "provider": "lichess",
+    "username": "Future_Chess_Pro",
+    "firstSeen": 1627046294452,
+    "lastSeen": 1627050294213
+  },
+  "weiweibot@lichess": {
+    "id": "weiweibot",
+    "provider": "lichess",
+    "username": "WeiWeiBot",
+    "firstSeen": 1627049171904,
+    "lastSeen": 1627050498183
+  },
+  "binhminhpro@lichess": {
+    "id": "binhminhpro",
+    "provider": "lichess",
+    "username": "BinhMinhPro",
+    "firstSeen": 1627049306468,
+    "lastSeen": 1627049857234
+  },
+  "bot-king@lichess": {
+    "id": "bot-king",
+    "provider": "lichess",
+    "username": "bOt-kInG",
+    "firstSeen": 1627050024020,
+    "lastSeen": 1627050036419
+  },
+  "ctdttaminh@lichess": {
+    "id": "ctdttaminh",
+    "provider": "lichess",
+    "username": "CTDTTAMinh",
+    "firstSeen": 1627050262651,
+    "lastSeen": 1627050424225
+  },
+  "quand11892@lichess": {
+    "id": "quand11892",
+    "provider": "lichess",
+    "username": "QuanD11892",
+    "firstSeen": 1627050582240,
+    "lastSeen": 1627050586241
+  },
+  "r0wb0t@lichess": {
+    "id": "r0wb0t",
+    "provider": "lichess",
+    "username": "R0wB0t",
+    "firstSeen": 1627050587089,
+    "lastSeen": 1627050587089
+  }
+}
