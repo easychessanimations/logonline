@@ -1,0 +1,30 @@
+{
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1627011100927,
+    "lastSeen": 1627019296446
+  },
+  "potatowosky@lichess": {
+    "id": "potatowosky",
+    "provider": "lichess",
+    "username": "potatowosky",
+    "firstSeen": 1627018564469,
+    "lastSeen": 1627019839221
+  },
+  "future_chess_pro@lichess": {
+    "id": "future_chess_pro",
+    "provider": "lichess",
+    "username": "Future_Chess_Pro",
+    "firstSeen": 1627018629566,
+    "lastSeen": 1627019696230
+  },
+  "weiweibot@lichess": {
+    "id": "weiweibot",
+    "provider": "lichess",
+    "username": "WeiWeiBot",
+    "firstSeen": 1627019082067,
+    "lastSeen": 1627019163977
+  }
+}
