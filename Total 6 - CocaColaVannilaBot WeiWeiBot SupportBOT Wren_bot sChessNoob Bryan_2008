@@ -1,0 +1,62 @@
+{
+  "cocacolavannilabot@lichess": {
+    "id": "cocacolavannilabot",
+    "provider": "lichess",
+    "username": "CocaColaVannilaBot",
+    "firstSeen": 1627040322108,
+    "lastSeen": 1627043557805,
+    "firstSeenTime": "11:38:42 AM",
+    "lastSeenTime": "12:30:12 PM",
+    "onlineDurationMins": 51.498266666666666
+  },
+  "weiweibot@lichess": {
+    "id": "weiweibot",
+    "provider": "lichess",
+    "username": "WeiWeiBot",
+    "firstSeen": 1627040454604,
+    "lastSeen": 1627043446037,
+    "firstSeenTime": "11:40:54 AM",
+    "lastSeenTime": "12:29:16 PM",
+    "onlineDurationMins": 48.365066666666664
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1627040484489,
+    "lastSeen": 1627042786165,
+    "firstSeenTime": "11:41:24 AM",
+    "lastSeenTime": "12:19:46 PM",
+    "onlineDurationMins": 38.361266666666666
+  },
+  "wren_bot@lichess": {
+    "id": "wren_bot",
+    "provider": "lichess",
+    "username": "Wren_bot",
+    "firstSeen": 1627042853324,
+    "lastSeen": 1627043102393,
+    "firstSeenTime": "12:20:53 PM",
+    "lastSeenTime": "12:25:02 PM",
+    "onlineDurationMins": 4.15115
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1627043198646,
+    "lastSeen": 1627043429331,
+    "firstSeenTime": "12:26:38 PM",
+    "lastSeenTime": "12:30:29 PM",
+    "onlineDurationMins": 3.84475
+  },
+  "bryan_2008@lichess": {
+    "id": "bryan_2008",
+    "provider": "lichess",
+    "username": "Bryan_2008",
+    "firstSeen": 1627043342029,
+    "lastSeen": 1627043374331,
+    "firstSeenTime": "12:29:02 PM",
+    "lastSeenTime": "12:29:34 PM",
+    "onlineDurationMins": 0.5383666666666667
+  }
+}
