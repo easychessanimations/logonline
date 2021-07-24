@@ -1,0 +1,32 @@
+{
+  "horseymakerbot@lichess": {
+    "id": "horseymakerbot",
+    "provider": "lichess",
+    "username": "HorseyMakerBot",
+    "firstSeen": 1627104388336,
+    "lastSeen": 1627106400778,
+    "firstSeenTime": "5:26:28 AM",
+    "lastSeenTime": "6:00:00 AM",
+    "onlineDurationMins": 33.5407
+  },
+  "thisisme987d@lichess": {
+    "id": "thisisme987d",
+    "provider": "lichess",
+    "username": "thisisme987D",
+    "firstSeen": 1627105112270,
+    "lastSeen": 1627106616807,
+    "firstSeenTime": "5:38:32 AM",
+    "lastSeenTime": "6:00:40 AM",
+    "onlineDurationMins": 22.133
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1627106409569,
+    "lastSeen": 1627106500922,
+    "firstSeenTime": "6:00:09 AM",
+    "lastSeenTime": "6:01:40 AM",
+    "onlineDurationMins": 1.52255
+  }
+}
