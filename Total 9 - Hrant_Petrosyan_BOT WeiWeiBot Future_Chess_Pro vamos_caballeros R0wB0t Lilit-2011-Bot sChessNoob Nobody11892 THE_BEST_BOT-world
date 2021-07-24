@@ -1,0 +1,92 @@
+{
+  "hrant_petrosyan_bot@lichess": {
+    "id": "hrant_petrosyan_bot",
+    "provider": "lichess",
+    "username": "Hrant_Petrosyan_BOT",
+    "firstSeen": 1627128161693,
+    "lastSeen": 1627144584638,
+    "firstSeenTime": "12:02:41 PM",
+    "lastSeenTime": "4:36:24 PM",
+    "onlineDurationMins": 273.71575
+  },
+  "weiweibot@lichess": {
+    "id": "weiweibot",
+    "provider": "lichess",
+    "username": "WeiWeiBot",
+    "firstSeen": 1627133237501,
+    "lastSeen": 1627144303213,
+    "firstSeenTime": "1:27:17 PM",
+    "lastSeenTime": "4:31:43 PM",
+    "onlineDurationMins": 184.42853333333332
+  },
+  "future_chess_pro@lichess": {
+    "id": "future_chess_pro",
+    "provider": "lichess",
+    "username": "Future_Chess_Pro",
+    "firstSeen": 1627133509438,
+    "lastSeen": 1627144281144,
+    "firstSeenTime": "1:31:49 PM",
+    "lastSeenTime": "4:31:21 PM",
+    "onlineDurationMins": 179.52843333333334
+  },
+  "vamos_caballeros@lichess": {
+    "id": "vamos_caballeros",
+    "provider": "lichess",
+    "username": "vamos_caballeros",
+    "firstSeen": 1627137860086,
+    "lastSeen": 1627144609371,
+    "firstSeenTime": "2:44:20 PM",
+    "lastSeenTime": "4:36:49 PM",
+    "onlineDurationMins": 112.48808333333334
+  },
+  "r0wb0t@lichess": {
+    "id": "r0wb0t",
+    "provider": "lichess",
+    "username": "R0wB0t",
+    "firstSeen": 1627138766573,
+    "lastSeen": 1627144477851,
+    "firstSeenTime": "2:59:26 PM",
+    "lastSeenTime": "4:34:37 PM",
+    "onlineDurationMins": 95.18796666666667
+  },
+  "lilit-2011-bot@lichess": {
+    "id": "lilit-2011-bot",
+    "provider": "lichess",
+    "username": "Lilit-2011-Bot",
+    "firstSeen": 1627142248690,
+    "lastSeen": 1627144587167,
+    "firstSeenTime": "3:57:28 PM",
+    "lastSeenTime": "4:36:27 PM",
+    "onlineDurationMins": 38.97461666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1627143243922,
+    "lastSeen": 1627144724185,
+    "firstSeenTime": "4:14:03 PM",
+    "lastSeenTime": "4:38:13 PM",
+    "onlineDurationMins": 24.154166666666665
+  },
+  "nobody11892@lichess": {
+    "id": "nobody11892",
+    "provider": "lichess",
+    "username": "Nobody11892",
+    "firstSeen": 1627143252489,
+    "lastSeen": 1627144690926,
+    "firstSeenTime": "4:14:12 PM",
+    "lastSeenTime": "4:38:10 PM",
+    "onlineDurationMins": 23.97395
+  },
+  "the_best_bot-world@lichess": {
+    "id": "the_best_bot-world",
+    "provider": "lichess",
+    "username": "THE_BEST_BOT-world",
+    "firstSeen": 1627144322902,
+    "lastSeen": 1627144353768,
+    "firstSeenTime": "4:32:02 PM",
+    "lastSeenTime": "4:32:33 PM",
+    "onlineDurationMins": 0.5144333333333333
+  }
+}
