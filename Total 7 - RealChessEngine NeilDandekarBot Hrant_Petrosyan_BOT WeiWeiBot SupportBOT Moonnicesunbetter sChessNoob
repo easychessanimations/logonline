@@ -1,0 +1,60 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1627128062999,
+    "lastSeen": 1627129562679,
+    "firstSeenTime": "12:01:02 PM",
+    "lastSeenTime": "12:06:02 PM",
+    "onlineDurationMins": 4.998783333333333
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1627128132219,
+    "lastSeen": 1627129644325,
+    "firstSeenTime": "12:02:12 PM",
+    "lastSeenTime": "12:02:15 PM",
+    "onlineDurationMins": 0.05823333333333333
+  },
+  "hrant_petrosyan_bot@lichess": {
+    "id": "hrant_petrosyan_bot",
+    "provider": "lichess",
+    "username": "Hrant_Petrosyan_BOT",
+    "firstSeen": 1627128161693,
+    "lastSeen": 1627130120835,
+    "firstSeenTime": "12:02:41 PM",
+    "lastSeenTime": "12:02:50 PM",
+    "onlineDurationMins": 0.14263333333333333
+  },
+  "weiweibot@lichess": {
+    "id": "weiweibot",
+    "provider": "lichess",
+    "username": "WeiWeiBot",
+    "firstSeen": 1627128624525,
+    "lastSeen": 1627130203848
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1627128947014,
+    "lastSeen": 1627130209647
+  },
+  "moonnicesunbetter@lichess": {
+    "id": "moonnicesunbetter",
+    "provider": "lichess",
+    "username": "Moonnicesunbetter",
+    "firstSeen": 1627129408174,
+    "lastSeen": 1627129498317
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1627130274030,
+    "lastSeen": 1627130274030
+  }
+}
