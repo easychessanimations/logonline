@@ -1,0 +1,60 @@
+{
+  "hrant_petrosyan_bot@lichess": {
+    "id": "hrant_petrosyan_bot",
+    "provider": "lichess",
+    "username": "Hrant_Petrosyan_BOT",
+    "firstSeen": 1627128161693,
+    "lastSeen": 1627136250649,
+    "firstSeenTime": "12:02:41 PM",
+    "lastSeenTime": "1:14:15 PM",
+    "onlineDurationMins": 71.5714
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1627128947014,
+    "lastSeen": 1627136490785,
+    "firstSeenTime": "12:15:47 PM",
+    "lastSeenTime": "1:11:34 PM",
+    "onlineDurationMins": 55.787733333333335
+  },
+  "the_best_bot-world@lichess": {
+    "id": "the_best_bot-world",
+    "provider": "lichess",
+    "username": "THE_BEST_BOT-world",
+    "firstSeen": 1627130840543,
+    "lastSeen": 1627136454785,
+    "firstSeenTime": "12:47:20 PM",
+    "lastSeenTime": "1:14:24 PM",
+    "onlineDurationMins": 27.06495
+  },
+  "weiweibot@lichess": {
+    "id": "weiweibot",
+    "provider": "lichess",
+    "username": "WeiWeiBot",
+    "firstSeen": 1627133237501,
+    "lastSeen": 1627136623132
+  },
+  "future_chess_pro@lichess": {
+    "id": "future_chess_pro",
+    "provider": "lichess",
+    "username": "Future_Chess_Pro",
+    "firstSeen": 1627133509438,
+    "lastSeen": 1627136512379
+  },
+  "parth304@lichess": {
+    "id": "parth304",
+    "provider": "lichess",
+    "username": "Parth304",
+    "firstSeen": 1627135518107,
+    "lastSeen": 1627135980294
+  },
+  "iambot321@lichess": {
+    "id": "iambot321",
+    "provider": "lichess",
+    "username": "IamBot321",
+    "firstSeen": 1627136644531,
+    "lastSeen": 1627136655151
+  }
+}
