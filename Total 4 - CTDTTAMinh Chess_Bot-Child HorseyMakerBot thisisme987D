@@ -1,0 +1,33 @@
+{
+  "ctdttaminh@lichess": {
+    "id": "ctdttaminh",
+    "provider": "lichess",
+    "username": "CTDTTAMinh",
+    "firstSeen": 1627098951715,
+    "lastSeen": 1627104660220,
+    "firstSeenTime": "3:55:51 AM",
+    "lastSeenTime": "5:04:58 AM",
+    "onlineDurationMins": 69.11125
+  },
+  "chess_bot-child@lichess": {
+    "id": "chess_bot-child",
+    "provider": "lichess",
+    "username": "Chess_Bot-Child",
+    "firstSeen": 1627104384325,
+    "lastSeen": 1627104387825
+  },
+  "horseymakerbot@lichess": {
+    "id": "horseymakerbot",
+    "provider": "lichess",
+    "username": "HorseyMakerBot",
+    "firstSeen": 1627104388336,
+    "lastSeen": 1627105085533
+  },
+  "thisisme987d@lichess": {
+    "id": "thisisme987d",
+    "provider": "lichess",
+    "username": "thisisme987D",
+    "firstSeen": 1627105112270,
+    "lastSeen": 1627105112270
+  }
+}
