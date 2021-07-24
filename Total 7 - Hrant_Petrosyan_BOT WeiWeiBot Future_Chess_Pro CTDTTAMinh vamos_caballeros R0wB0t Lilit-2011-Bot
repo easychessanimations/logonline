@@ -1,0 +1,69 @@
+{
+  "hrant_petrosyan_bot@lichess": {
+    "id": "hrant_petrosyan_bot",
+    "provider": "lichess",
+    "username": "Hrant_Petrosyan_BOT",
+    "firstSeen": 1627128161693,
+    "lastSeen": 1627142227291,
+    "firstSeenTime": "12:02:41 PM",
+    "lastSeenTime": "3:22:43 PM",
+    "onlineDurationMins": 200.02768333333333
+  },
+  "weiweibot@lichess": {
+    "id": "weiweibot",
+    "provider": "lichess",
+    "username": "WeiWeiBot",
+    "firstSeen": 1627133237501,
+    "lastSeen": 1627141680240,
+    "firstSeenTime": "1:27:17 PM",
+    "lastSeenTime": "3:14:39 PM",
+    "onlineDurationMins": 107.37265
+  },
+  "future_chess_pro@lichess": {
+    "id": "future_chess_pro",
+    "provider": "lichess",
+    "username": "Future_Chess_Pro",
+    "firstSeen": 1627133509438,
+    "lastSeen": 1627141637853,
+    "firstSeenTime": "1:31:49 PM",
+    "lastSeenTime": "3:14:27 PM",
+    "onlineDurationMins": 102.6267
+  },
+  "ctdttaminh@lichess": {
+    "id": "ctdttaminh",
+    "provider": "lichess",
+    "username": "CTDTTAMinh",
+    "firstSeen": 1627137482553,
+    "lastSeen": 1627142123599,
+    "firstSeenTime": "2:38:02 PM",
+    "lastSeenTime": "3:17:50 PM",
+    "onlineDurationMins": 39.79816666666667
+  },
+  "vamos_caballeros@lichess": {
+    "id": "vamos_caballeros",
+    "provider": "lichess",
+    "username": "vamos_caballeros",
+    "firstSeen": 1627137860086,
+    "lastSeen": 1627141852932,
+    "firstSeenTime": "2:44:20 PM",
+    "lastSeenTime": "3:19:41 PM",
+    "onlineDurationMins": 35.363533333333336
+  },
+  "r0wb0t@lichess": {
+    "id": "r0wb0t",
+    "provider": "lichess",
+    "username": "R0wB0t",
+    "firstSeen": 1627138766573,
+    "lastSeen": 1627141879579,
+    "firstSeenTime": "2:59:26 PM",
+    "lastSeenTime": "3:14:23 PM",
+    "onlineDurationMins": 14.943833333333334
+  },
+  "lilit-2011-bot@lichess": {
+    "id": "lilit-2011-bot",
+    "provider": "lichess",
+    "username": "Lilit-2011-Bot",
+    "firstSeen": 1627142248690,
+    "lastSeen": 1627142248690
+  }
+}
