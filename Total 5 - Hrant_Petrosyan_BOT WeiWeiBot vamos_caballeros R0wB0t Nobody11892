@@ -1,0 +1,52 @@
+{
+  "hrant_petrosyan_bot@lichess": {
+    "id": "hrant_petrosyan_bot",
+    "provider": "lichess",
+    "username": "Hrant_Petrosyan_BOT",
+    "firstSeen": 1627128161693,
+    "lastSeen": 1627145904704,
+    "firstSeenTime": "12:02:41 PM",
+    "lastSeenTime": "4:43:24 PM",
+    "onlineDurationMins": 280.7153166666667
+  },
+  "weiweibot@lichess": {
+    "id": "weiweibot",
+    "provider": "lichess",
+    "username": "WeiWeiBot",
+    "firstSeen": 1627133237501,
+    "lastSeen": 1627145996264,
+    "firstSeenTime": "1:27:17 PM",
+    "lastSeenTime": "4:43:39 PM",
+    "onlineDurationMins": 196.37343333333334
+  },
+  "vamos_caballeros@lichess": {
+    "id": "vamos_caballeros",
+    "provider": "lichess",
+    "username": "vamos_caballeros",
+    "firstSeen": 1627137860086,
+    "lastSeen": 1627145906958,
+    "firstSeenTime": "2:44:20 PM",
+    "lastSeenTime": "4:36:49 PM",
+    "onlineDurationMins": 112.48808333333334
+  },
+  "r0wb0t@lichess": {
+    "id": "r0wb0t",
+    "provider": "lichess",
+    "username": "R0wB0t",
+    "firstSeen": 1627138766573,
+    "lastSeen": 1627145914549,
+    "firstSeenTime": "2:59:26 PM",
+    "lastSeenTime": "4:45:34 PM",
+    "onlineDurationMins": 106.13276666666667
+  },
+  "nobody11892@lichess": {
+    "id": "nobody11892",
+    "provider": "lichess",
+    "username": "Nobody11892",
+    "firstSeen": 1627143252489,
+    "lastSeen": 1627145830190,
+    "firstSeenTime": "4:14:12 PM",
+    "lastSeenTime": "4:41:07 PM",
+    "onlineDurationMins": 26.9152
+  }
+}
