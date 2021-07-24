@@ -1,0 +1,32 @@
+{
+  "ctdttaminh@lichess": {
+    "id": "ctdttaminh",
+    "provider": "lichess",
+    "username": "CTDTTAMinh",
+    "firstSeen": 1627098951715,
+    "lastSeen": 1627105796222,
+    "firstSeenTime": "3:55:51 AM",
+    "lastSeenTime": "5:38:56 AM",
+    "onlineDurationMins": 103.07748333333333
+  },
+  "horseymakerbot@lichess": {
+    "id": "horseymakerbot",
+    "provider": "lichess",
+    "username": "HorseyMakerBot",
+    "firstSeen": 1627104388336,
+    "lastSeen": 1627105892153,
+    "firstSeenTime": "5:26:28 AM",
+    "lastSeenTime": "5:38:05 AM",
+    "onlineDurationMins": 11.61995
+  },
+  "thisisme987d@lichess": {
+    "id": "thisisme987d",
+    "provider": "lichess",
+    "username": "thisisme987D",
+    "firstSeen": 1627105112270,
+    "lastSeen": 1627105985663,
+    "firstSeenTime": "5:38:32 AM",
+    "lastSeenTime": "5:39:59 AM",
+    "onlineDurationMins": 1.4609166666666666
+  }
+}
