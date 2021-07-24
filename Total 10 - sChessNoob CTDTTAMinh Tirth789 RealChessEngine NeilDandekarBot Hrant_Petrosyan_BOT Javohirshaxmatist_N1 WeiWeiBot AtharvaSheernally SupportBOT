@@ -1,0 +1,90 @@
+{
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1627127901243,
+    "lastSeen": 1627128453293,
+    "firstSeenTime": "11:58:21 AM",
+    "lastSeenTime": "12:07:33 PM",
+    "onlineDurationMins": 9.200833333333334
+  },
+  "ctdttaminh@lichess": {
+    "id": "ctdttaminh",
+    "provider": "lichess",
+    "username": "CTDTTAMinh",
+    "firstSeen": 1627127903007,
+    "lastSeen": 1627128576933,
+    "firstSeenTime": "11:58:23 AM",
+    "lastSeenTime": "12:07:03 PM",
+    "onlineDurationMins": 8.67005
+  },
+  "tirth789@lichess": {
+    "id": "tirth789",
+    "provider": "lichess",
+    "username": "Tirth789",
+    "firstSeen": 1627127924489,
+    "lastSeen": 1627128360045,
+    "firstSeenTime": "11:58:44 AM",
+    "lastSeenTime": "12:06:00 PM",
+    "onlineDurationMins": 7.259266666666667
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1627128062999,
+    "lastSeen": 1627129192466,
+    "firstSeenTime": "12:01:02 PM",
+    "lastSeenTime": "12:06:02 PM",
+    "onlineDurationMins": 4.998783333333333
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1627128132219,
+    "lastSeen": 1627128984892,
+    "firstSeenTime": "12:02:12 PM",
+    "lastSeenTime": "12:02:15 PM",
+    "onlineDurationMins": 0.05823333333333333
+  },
+  "hrant_petrosyan_bot@lichess": {
+    "id": "hrant_petrosyan_bot",
+    "provider": "lichess",
+    "username": "Hrant_Petrosyan_BOT",
+    "firstSeen": 1627128161693,
+    "lastSeen": 1627128990761,
+    "firstSeenTime": "12:02:41 PM",
+    "lastSeenTime": "12:02:50 PM",
+    "onlineDurationMins": 0.14263333333333333
+  },
+  "javohirshaxmatist_n1@lichess": {
+    "id": "javohirshaxmatist_n1",
+    "provider": "lichess",
+    "username": "Javohirshaxmatist_N1",
+    "firstSeen": 1627128544036,
+    "lastSeen": 1627128561428
+  },
+  "weiweibot@lichess": {
+    "id": "weiweibot",
+    "provider": "lichess",
+    "username": "WeiWeiBot",
+    "firstSeen": 1627128624525,
+    "lastSeen": 1627128976015
+  },
+  "atharvasheernally@lichess": {
+    "id": "atharvasheernally",
+    "provider": "lichess",
+    "username": "AtharvaSheernally",
+    "firstSeen": 1627128735519,
+    "lastSeen": 1627128739318
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1627128947014,
+    "lastSeen": 1627128969751
+  }
+}
