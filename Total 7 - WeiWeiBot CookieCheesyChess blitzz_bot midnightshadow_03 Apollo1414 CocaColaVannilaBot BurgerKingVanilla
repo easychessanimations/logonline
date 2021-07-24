@@ -1,0 +1,51 @@
+{
+  "weiweibot@lichess": {
+    "id": "weiweibot",
+    "provider": "lichess",
+    "username": "WeiWeiBot",
+    "firstSeen": 1627107416021,
+    "lastSeen": 1627118452705
+  },
+  "cookiecheesychess@lichess": {
+    "id": "cookiecheesychess",
+    "provider": "lichess",
+    "username": "CookieCheesyChess",
+    "firstSeen": 1627111660639,
+    "lastSeen": 1627118455768
+  },
+  "blitzz_bot@lichess": {
+    "id": "blitzz_bot",
+    "provider": "lichess",
+    "username": "blitzz_bot",
+    "firstSeen": 1627111738710,
+    "lastSeen": 1627118707922
+  },
+  "midnightshadow_03@lichess": {
+    "id": "midnightshadow_03",
+    "provider": "lichess",
+    "username": "midnightshadow_03",
+    "firstSeen": 1627112108512,
+    "lastSeen": 1627118488019
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1627114245253,
+    "lastSeen": 1627118480515
+  },
+  "cocacolavannilabot@lichess": {
+    "id": "cocacolavannilabot",
+    "provider": "lichess",
+    "username": "CocaColaVannilaBot",
+    "firstSeen": 1627116051587,
+    "lastSeen": 1627118192184
+  },
+  "burgerkingvanilla@lichess": {
+    "id": "burgerkingvanilla",
+    "provider": "lichess",
+    "username": "BurgerKingVanilla",
+    "firstSeen": 1627118192610,
+    "lastSeen": 1627118519626
+  }
+}
