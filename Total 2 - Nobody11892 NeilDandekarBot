@@ -4,13 +4,19 @@
     "provider": "lichess",
     "username": "Nobody11892",
     "firstSeen": 1627256393203,
-    "lastSeen": 1627269896713
+    "lastSeen": 1627280216795,
+    "firstSeenTime": "11:39:53 PM",
+    "lastSeenTime": "4:39:56 AM",
+    "onlineDurationMins": 300.05778333333336
   },
   "neildandekarbot@lichess": {
     "id": "neildandekarbot",
     "provider": "lichess",
     "username": "NeilDandekarBot",
     "firstSeen": 1627270113775,
-    "lastSeen": 1627270113776
+    "lastSeen": 1627280315938,
+    "firstSeenTime": "3:28:33 AM",
+    "lastSeenTime": "4:43:35 AM",
+    "onlineDurationMins": 75.02953333333333
   }
 }
