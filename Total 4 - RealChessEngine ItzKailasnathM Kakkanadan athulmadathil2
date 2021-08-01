@@ -1,0 +1,33 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1627801534460,
+    "lastSeen": 1627820185023,
+    "firstSeenTime": "7:05:34 AM",
+    "lastSeenTime": "7:08:40 AM",
+    "onlineDurationMins": 3.1071
+  },
+  "itzkailasnathm@lichess": {
+    "id": "itzkailasnathm",
+    "provider": "lichess",
+    "username": "ItzKailasnathM",
+    "firstSeen": 1627817634164,
+    "lastSeen": 1627820245536
+  },
+  "kakkanadan@lichess": {
+    "id": "kakkanadan",
+    "provider": "lichess",
+    "username": "Kakkanadan",
+    "firstSeen": 1627820328639,
+    "lastSeen": 1627820423450
+  },
+  "athulmadathil2@lichess": {
+    "id": "athulmadathil2",
+    "provider": "lichess",
+    "username": "athulmadathil2",
+    "firstSeen": 1627820883220,
+    "lastSeen": 1627820883220
+  }
+}
