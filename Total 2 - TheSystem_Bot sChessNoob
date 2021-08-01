@@ -1,0 +1,22 @@
+{
+  "thesystem_bot@lichess": {
+    "id": "thesystem_bot",
+    "provider": "lichess",
+    "username": "TheSystem_Bot",
+    "firstSeen": 1627782123802,
+    "lastSeen": 1627793754953,
+    "firstSeenTime": "1:42:03 AM",
+    "lastSeenTime": "4:44:54 AM",
+    "onlineDurationMins": 182.85246666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1627792396587,
+    "lastSeen": 1627793496090,
+    "firstSeenTime": "4:33:16 AM",
+    "lastSeenTime": "4:51:36 AM",
+    "onlineDurationMins": 18.32505
+  }
+}
