@@ -1,0 +1,50 @@
+{
+  "midnightshadow_03@lichess": {
+    "id": "midnightshadow_03",
+    "provider": "lichess",
+    "username": "midnightshadow_03",
+    "firstSeen": 1627800495021,
+    "lastSeen": 1627807033451,
+    "firstSeenTime": "6:48:15 AM",
+    "lastSeenTime": "6:59:57 AM",
+    "onlineDurationMins": 11.704183333333333
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1627801534460,
+    "lastSeen": 1627807013374,
+    "firstSeenTime": "7:05:34 AM",
+    "lastSeenTime": "7:08:40 AM",
+    "onlineDurationMins": 3.1071
+  },
+  "cookiecheesychess@lichess": {
+    "id": "cookiecheesychess",
+    "provider": "lichess",
+    "username": "CookieCheesyChess",
+    "firstSeen": 1627801957105,
+    "lastSeen": 1627807403705
+  },
+  "stckfshwhatever256@lichess": {
+    "id": "stckfshwhatever256",
+    "provider": "lichess",
+    "username": "Stckfshwhatever256",
+    "firstSeen": 1627802685898,
+    "lastSeen": 1627807272922
+  },
+  "yellowprincess@lichess": {
+    "id": "yellowprincess",
+    "provider": "lichess",
+    "username": "yellowprincess",
+    "firstSeen": 1627804800742,
+    "lastSeen": 1627807157146
+  },
+  "kasinath_m@lichess": {
+    "id": "kasinath_m",
+    "provider": "lichess",
+    "username": "Kasinath_M",
+    "firstSeen": 1627806299660,
+    "lastSeen": 1627806576771
+  }
+}
