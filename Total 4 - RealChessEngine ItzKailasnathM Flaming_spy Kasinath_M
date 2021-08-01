@@ -1,0 +1,33 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1627801534460,
+    "lastSeen": 1627818470960,
+    "firstSeenTime": "7:05:34 AM",
+    "lastSeenTime": "7:08:40 AM",
+    "onlineDurationMins": 3.1071
+  },
+  "itzkailasnathm@lichess": {
+    "id": "itzkailasnathm",
+    "provider": "lichess",
+    "username": "ItzKailasnathM",
+    "firstSeen": 1627817634164,
+    "lastSeen": 1627818757028
+  },
+  "flaming_spy@lichess": {
+    "id": "flaming_spy",
+    "provider": "lichess",
+    "username": "Flaming_spy",
+    "firstSeen": 1627818501284,
+    "lastSeen": 1627818752054
+  },
+  "kasinath_m@lichess": {
+    "id": "kasinath_m",
+    "provider": "lichess",
+    "username": "Kasinath_M",
+    "firstSeen": 1627818762208,
+    "lastSeen": 1627818762208
+  }
+}
