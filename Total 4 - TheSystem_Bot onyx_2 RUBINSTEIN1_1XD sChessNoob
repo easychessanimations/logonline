@@ -1,0 +1,30 @@
+{
+  "thesystem_bot@lichess": {
+    "id": "thesystem_bot",
+    "provider": "lichess",
+    "username": "TheSystem_Bot",
+    "firstSeen": 1627782123802,
+    "lastSeen": 1627792378374
+  },
+  "onyx_2@lichess": {
+    "id": "onyx_2",
+    "provider": "lichess",
+    "username": "onyx_2",
+    "firstSeen": 1627788193113,
+    "lastSeen": 1627791717423
+  },
+  "rubinstein1_1xd@lichess": {
+    "id": "rubinstein1_1xd",
+    "provider": "lichess",
+    "username": "RUBINSTEIN1_1XD",
+    "firstSeen": 1627790979469,
+    "lastSeen": 1627792232488
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1627792396587,
+    "lastSeen": 1627792396588
+  }
+}
