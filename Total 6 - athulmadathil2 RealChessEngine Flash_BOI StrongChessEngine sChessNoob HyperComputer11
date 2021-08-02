@@ -1,0 +1,62 @@
+{
+  "athulmadathil2@lichess": {
+    "id": "athulmadathil2",
+    "provider": "lichess",
+    "username": "athulmadathil2",
+    "firstSeen": 1627884911993,
+    "lastSeen": 1627902315509,
+    "firstSeenTime": "6:15:11 AM",
+    "lastSeenTime": "11:05:15 AM",
+    "onlineDurationMins": 290.0586
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1627896156947,
+    "lastSeen": 1627902333792,
+    "firstSeenTime": "9:22:36 AM",
+    "lastSeenTime": "11:05:33 AM",
+    "onlineDurationMins": 102.94741666666667
+  },
+  "flash_boi@lichess": {
+    "id": "flash_boi",
+    "provider": "lichess",
+    "username": "Flash_BOI",
+    "firstSeen": 1627899526440,
+    "lastSeen": 1627902491777,
+    "firstSeenTime": "10:18:46 AM",
+    "lastSeenTime": "11:06:20 AM",
+    "onlineDurationMins": 47.5627
+  },
+  "strongchessengine@lichess": {
+    "id": "strongchessengine",
+    "provider": "lichess",
+    "username": "StrongChessEngine",
+    "firstSeen": 1627900114754,
+    "lastSeen": 1627902484650,
+    "firstSeenTime": "10:28:34 AM",
+    "lastSeenTime": "10:56:21 AM",
+    "onlineDurationMins": 27.78455
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1627900907753,
+    "lastSeen": 1627902459193,
+    "firstSeenTime": "10:41:47 AM",
+    "lastSeenTime": "11:07:39 AM",
+    "onlineDurationMins": 25.857333333333333
+  },
+  "hypercomputer11@lichess": {
+    "id": "hypercomputer11",
+    "provider": "lichess",
+    "username": "HyperComputer11",
+    "firstSeen": 1627902115738,
+    "lastSeen": 1627902566147,
+    "firstSeenTime": "11:01:55 AM",
+    "lastSeenTime": "11:05:24 AM",
+    "onlineDurationMins": 3.4789666666666665
+  }
+}
