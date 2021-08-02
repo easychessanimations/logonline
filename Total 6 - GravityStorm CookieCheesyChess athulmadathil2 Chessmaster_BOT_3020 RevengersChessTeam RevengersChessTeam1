@@ -1,0 +1,44 @@
+{
+  "gravitystorm@lichess": {
+    "id": "gravitystorm",
+    "provider": "lichess",
+    "username": "GravityStorm",
+    "firstSeen": 1627867004130,
+    "lastSeen": 1627879768524
+  },
+  "cookiecheesychess@lichess": {
+    "id": "cookiecheesychess",
+    "provider": "lichess",
+    "username": "CookieCheesyChess",
+    "firstSeen": 1627867510075,
+    "lastSeen": 1627880385489
+  },
+  "athulmadathil2@lichess": {
+    "id": "athulmadathil2",
+    "provider": "lichess",
+    "username": "athulmadathil2",
+    "firstSeen": 1627876313591,
+    "lastSeen": 1627880235964
+  },
+  "chessmaster_bot_3020@lichess": {
+    "id": "chessmaster_bot_3020",
+    "provider": "lichess",
+    "username": "Chessmaster_BOT_3020",
+    "firstSeen": 1627879734273,
+    "lastSeen": 1627880401439
+  },
+  "revengerschessteam@lichess": {
+    "id": "revengerschessteam",
+    "provider": "lichess",
+    "username": "RevengersChessTeam",
+    "firstSeen": 1627880361517,
+    "lastSeen": 1627880438895
+  },
+  "revengerschessteam1@lichess": {
+    "id": "revengerschessteam1",
+    "provider": "lichess",
+    "username": "RevengersChessTeam1",
+    "firstSeen": 1627880470091,
+    "lastSeen": 1627880470091
+  }
+}
