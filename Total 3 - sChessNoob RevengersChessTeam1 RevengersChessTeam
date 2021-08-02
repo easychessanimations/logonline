@@ -1,0 +1,29 @@
+{
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1627917777872,
+    "lastSeen": 1627919163191,
+    "firstSeenTime": "3:22:57 PM",
+    "lastSeenTime": "3:46:03 PM",
+    "onlineDurationMins": 23.08865
+  },
+  "revengerschessteam1@lichess": {
+    "id": "revengerschessteam1",
+    "provider": "lichess",
+    "username": "RevengersChessTeam1",
+    "firstSeen": 1627918656937,
+    "lastSeen": 1627919011075,
+    "firstSeenTime": "3:37:36 PM",
+    "lastSeenTime": "3:43:31 PM",
+    "onlineDurationMins": 5.9023
+  },
+  "revengerschessteam@lichess": {
+    "id": "revengerschessteam",
+    "provider": "lichess",
+    "username": "RevengersChessTeam",
+    "firstSeen": 1627919280219,
+    "lastSeen": 1627919836263
+  }
+}
