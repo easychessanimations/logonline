@@ -1,0 +1,26 @@
+{
+  "revengerschessteam1@lichess": {
+    "id": "revengerschessteam1",
+    "provider": "lichess",
+    "username": "RevengersChessTeam1",
+    "firstSeen": 1627918656937,
+    "lastSeen": 1627919924595,
+    "firstSeenTime": "3:37:36 PM",
+    "lastSeenTime": "3:43:31 PM",
+    "onlineDurationMins": 5.9023
+  },
+  "revengerschessteam@lichess": {
+    "id": "revengerschessteam",
+    "provider": "lichess",
+    "username": "RevengersChessTeam",
+    "firstSeen": 1627919280219,
+    "lastSeen": 1627919874910
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1627920382282,
+    "lastSeen": 1627920382283
+  }
+}
