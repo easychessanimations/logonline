@@ -1,0 +1,51 @@
+{
+  "future_chess_pro@lichess": {
+    "id": "future_chess_pro",
+    "provider": "lichess",
+    "username": "Future_Chess_Pro",
+    "firstSeen": 1627882354123,
+    "lastSeen": 1627884240692
+  },
+  "revengerschessteam@lichess": {
+    "id": "revengerschessteam",
+    "provider": "lichess",
+    "username": "RevengersChessTeam",
+    "firstSeen": 1627883487509,
+    "lastSeen": 1627884682896
+  },
+  "all_except_chess960@lichess": {
+    "id": "all_except_chess960",
+    "provider": "lichess",
+    "username": "All_Except_Chess960",
+    "firstSeen": 1627884014485,
+    "lastSeen": 1627885001364
+  },
+  "revengerschessteam1@lichess": {
+    "id": "revengerschessteam1",
+    "provider": "lichess",
+    "username": "RevengersChessTeam1",
+    "firstSeen": 1627884312419,
+    "lastSeen": 1627884683010
+  },
+  "athulmadathil2@lichess": {
+    "id": "athulmadathil2",
+    "provider": "lichess",
+    "username": "athulmadathil2",
+    "firstSeen": 1627884911993,
+    "lastSeen": 1627884918954
+  },
+  "chessmaster_bot_3020@lichess": {
+    "id": "chessmaster_bot_3020",
+    "provider": "lichess",
+    "username": "Chessmaster_BOT_3020",
+    "firstSeen": 1627885075237,
+    "lastSeen": 1627885112510
+  },
+  "shravanblitzchess@lichess": {
+    "id": "shravanblitzchess",
+    "provider": "lichess",
+    "username": "ShravanBlitzChess",
+    "firstSeen": 1627885113459,
+    "lastSeen": 1627885113459
+  }
+}
