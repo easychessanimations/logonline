@@ -1,0 +1,50 @@
+{
+  "athulmadathil2@lichess": {
+    "id": "athulmadathil2",
+    "provider": "lichess",
+    "username": "athulmadathil2",
+    "firstSeen": 1627884911993,
+    "lastSeen": 1627896617193,
+    "firstSeenTime": "6:15:11 AM",
+    "lastSeenTime": "7:51:15 AM",
+    "onlineDurationMins": 96.0543
+  },
+  "gravitystorm@lichess": {
+    "id": "gravitystorm",
+    "provider": "lichess",
+    "username": "GravityStorm",
+    "firstSeen": 1627889258860,
+    "lastSeen": 1627896708712,
+    "firstSeenTime": "7:27:38 AM",
+    "lastSeenTime": "7:45:48 AM",
+    "onlineDurationMins": 18.164616666666667
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1627893851678,
+    "lastSeen": 1627896612658
+  },
+  "aspirer@lichess": {
+    "id": "aspirer",
+    "provider": "lichess",
+    "username": "Aspirer",
+    "firstSeen": 1627894388398,
+    "lastSeen": 1627896736212
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1627896156947,
+    "lastSeen": 1627896167754
+  },
+  "figobot@lichess": {
+    "id": "figobot",
+    "provider": "lichess",
+    "username": "figoBOT",
+    "firstSeen": 1627896703636,
+    "lastSeen": 1627896712318
+  }
+}
