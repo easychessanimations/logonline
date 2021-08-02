@@ -1,0 +1,23 @@
+{
+  "gravitystorm@lichess": {
+    "id": "gravitystorm",
+    "provider": "lichess",
+    "username": "GravityStorm",
+    "firstSeen": 1627867004130,
+    "lastSeen": 1627870450280
+  },
+  "cookiecheesychess@lichess": {
+    "id": "cookiecheesychess",
+    "provider": "lichess",
+    "username": "CookieCheesyChess",
+    "firstSeen": 1627867510075,
+    "lastSeen": 1627870171553
+  },
+  "covaxin@lichess": {
+    "id": "covaxin",
+    "provider": "lichess",
+    "username": "Covaxin",
+    "firstSeen": 1627870500075,
+    "lastSeen": 1627870500075
+  }
+}
