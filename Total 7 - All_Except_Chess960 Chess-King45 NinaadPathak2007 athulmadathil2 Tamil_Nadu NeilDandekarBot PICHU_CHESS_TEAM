@@ -1,0 +1,51 @@
+{
+  "all_except_chess960@lichess": {
+    "id": "all_except_chess960",
+    "provider": "lichess",
+    "username": "All_Except_Chess960",
+    "firstSeen": 1627957847845,
+    "lastSeen": 1627971189974
+  },
+  "chess-king45@lichess": {
+    "id": "chess-king45",
+    "provider": "lichess",
+    "username": "Chess-King45",
+    "firstSeen": 1627960135373,
+    "lastSeen": 1627971147294
+  },
+  "ninaadpathak2007@lichess": {
+    "id": "ninaadpathak2007",
+    "provider": "lichess",
+    "username": "NinaadPathak2007",
+    "firstSeen": 1627962275527,
+    "lastSeen": 1627971257352
+  },
+  "athulmadathil2@lichess": {
+    "id": "athulmadathil2",
+    "provider": "lichess",
+    "username": "athulmadathil2",
+    "firstSeen": 1627966412653,
+    "lastSeen": 1627971247525
+  },
+  "tamil_nadu@lichess": {
+    "id": "tamil_nadu",
+    "provider": "lichess",
+    "username": "Tamil_Nadu",
+    "firstSeen": 1627967584448,
+    "lastSeen": 1627970587439
+  },
+  "neildandekarbot@lichess": {
+    "id": "neildandekarbot",
+    "provider": "lichess",
+    "username": "NeilDandekarBot",
+    "firstSeen": 1627969870096,
+    "lastSeen": 1627971373261
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1627971260575,
+    "lastSeen": 1627971269907
+  }
+}
