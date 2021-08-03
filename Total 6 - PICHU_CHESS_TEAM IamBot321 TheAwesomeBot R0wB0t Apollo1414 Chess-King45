@@ -1,0 +1,50 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1627992257810,
+    "lastSeen": 1628005692192,
+    "firstSeenTime": "12:04:17 PM",
+    "lastSeenTime": "2:18:12 PM",
+    "onlineDurationMins": 133.90316666666666
+  },
+  "iambot321@lichess": {
+    "id": "iambot321",
+    "provider": "lichess",
+    "username": "IamBot321",
+    "firstSeen": 1627999667277,
+    "lastSeen": 1628005715741,
+    "firstSeenTime": "2:07:47 PM",
+    "lastSeenTime": "2:18:54 PM",
+    "onlineDurationMins": 11.120083333333334
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1628002540394,
+    "lastSeen": 1628006583578
+  },
+  "r0wb0t@lichess": {
+    "id": "r0wb0t",
+    "provider": "lichess",
+    "username": "R0wB0t",
+    "firstSeen": 1628005735224,
+    "lastSeen": 1628006388831
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1628006254759,
+    "lastSeen": 1628006258140
+  },
+  "chess-king45@lichess": {
+    "id": "chess-king45",
+    "provider": "lichess",
+    "username": "Chess-King45",
+    "firstSeen": 1628006584894,
+    "lastSeen": 1628006584894
+  }
+}
