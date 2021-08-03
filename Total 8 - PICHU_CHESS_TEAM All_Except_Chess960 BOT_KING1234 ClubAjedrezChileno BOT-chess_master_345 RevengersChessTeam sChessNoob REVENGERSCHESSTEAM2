@@ -1,0 +1,79 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1627992257810,
+    "lastSeen": 1627998347086,
+    "firstSeenTime": "12:04:17 PM",
+    "lastSeenTime": "1:45:47 PM",
+    "onlineDurationMins": 101.48793333333333
+  },
+  "all_except_chess960@lichess": {
+    "id": "all_except_chess960",
+    "provider": "lichess",
+    "username": "All_Except_Chess960",
+    "firstSeen": 1627992909846,
+    "lastSeen": 1627998208630,
+    "firstSeenTime": "12:15:09 PM",
+    "lastSeenTime": "1:43:28 PM",
+    "onlineDurationMins": 88.31306666666667
+  },
+  "bot_king1234@lichess": {
+    "id": "bot_king1234",
+    "provider": "lichess",
+    "username": "BOT_KING1234",
+    "firstSeen": 1627995051212,
+    "lastSeen": 1627998336360,
+    "firstSeenTime": "12:50:51 PM",
+    "lastSeenTime": "1:45:36 PM",
+    "onlineDurationMins": 54.75246666666666
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1627997132867,
+    "lastSeen": 1627998636428,
+    "firstSeenTime": "1:25:32 PM",
+    "lastSeenTime": "1:45:34 PM",
+    "onlineDurationMins": 20.034216666666666
+  },
+  "bot-chess_master_345@lichess": {
+    "id": "bot-chess_master_345",
+    "provider": "lichess",
+    "username": "BOT-chess_master_345",
+    "firstSeen": 1627997173805,
+    "lastSeen": 1627998599228,
+    "firstSeenTime": "1:26:13 PM",
+    "lastSeenTime": "1:44:58 PM",
+    "onlineDurationMins": 18.747516666666666
+  },
+  "revengerschessteam@lichess": {
+    "id": "revengerschessteam",
+    "provider": "lichess",
+    "username": "RevengersChessTeam",
+    "firstSeen": 1627998077073,
+    "lastSeen": 1627998681379,
+    "firstSeenTime": "1:41:17 PM",
+    "lastSeenTime": "1:41:28 PM",
+    "onlineDurationMins": 0.18751666666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1627998460348,
+    "lastSeen": 1627998461235,
+    "firstSeenTime": "1:47:40 PM",
+    "lastSeenTime": "1:47:40 PM",
+    "onlineDurationMins": 0
+  },
+  "revengerschessteam2@lichess": {
+    "id": "revengerschessteam2",
+    "provider": "lichess",
+    "username": "REVENGERSCHESSTEAM2",
+    "firstSeen": 1627998703459,
+    "lastSeen": 1627998703459
+  }
+}
