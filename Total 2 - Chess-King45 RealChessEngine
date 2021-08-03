@@ -1,0 +1,16 @@
+{
+  "chess-king45@lichess": {
+    "id": "chess-king45",
+    "provider": "lichess",
+    "username": "Chess-King45",
+    "firstSeen": 1627981349591,
+    "lastSeen": 1627981349592
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1627981393333,
+    "lastSeen": 1627981393333
+  }
+}
