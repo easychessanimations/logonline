@@ -1,0 +1,30 @@
+{
+  "all_except_chess960@lichess": {
+    "id": "all_except_chess960",
+    "provider": "lichess",
+    "username": "All_Except_Chess960",
+    "firstSeen": 1627989334624,
+    "lastSeen": 1627989996373
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1627989668673,
+    "lastSeen": 1627989908614
+  },
+  "chess-king45@lichess": {
+    "id": "chess-king45",
+    "provider": "lichess",
+    "username": "Chess-King45",
+    "firstSeen": 1627989688098,
+    "lastSeen": 1627989688098
+  },
+  "revengerschessteam@lichess": {
+    "id": "revengerschessteam",
+    "provider": "lichess",
+    "username": "RevengersChessTeam",
+    "firstSeen": 1627990067535,
+    "lastSeen": 1627990067535
+  }
+}
