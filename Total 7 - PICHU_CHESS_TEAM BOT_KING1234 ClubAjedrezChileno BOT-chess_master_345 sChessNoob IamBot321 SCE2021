@@ -1,0 +1,69 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1627992257810,
+    "lastSeen": 1628000292000,
+    "firstSeenTime": "12:04:17 PM",
+    "lastSeenTime": "2:18:12 PM",
+    "onlineDurationMins": 133.90316666666666
+  },
+  "bot_king1234@lichess": {
+    "id": "bot_king1234",
+    "provider": "lichess",
+    "username": "BOT_KING1234",
+    "firstSeen": 1627995051212,
+    "lastSeen": 1628000316574,
+    "firstSeenTime": "12:50:51 PM",
+    "lastSeenTime": "2:18:36 PM",
+    "onlineDurationMins": 87.75603333333333
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1627997132867,
+    "lastSeen": 1628000444592,
+    "firstSeenTime": "1:25:32 PM",
+    "lastSeenTime": "2:19:41 PM",
+    "onlineDurationMins": 54.15051666666667
+  },
+  "bot-chess_master_345@lichess": {
+    "id": "bot-chess_master_345",
+    "provider": "lichess",
+    "username": "BOT-chess_master_345",
+    "firstSeen": 1627997173805,
+    "lastSeen": 1627999625958,
+    "firstSeenTime": "1:26:13 PM",
+    "lastSeenTime": "2:07:05 PM",
+    "onlineDurationMins": 40.86921666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1627998460348,
+    "lastSeen": 1628000442788,
+    "firstSeenTime": "1:47:40 PM",
+    "lastSeenTime": "2:20:42 PM",
+    "onlineDurationMins": 33.04066666666667
+  },
+  "iambot321@lichess": {
+    "id": "iambot321",
+    "provider": "lichess",
+    "username": "IamBot321",
+    "firstSeen": 1627999667277,
+    "lastSeen": 1628000334482,
+    "firstSeenTime": "2:07:47 PM",
+    "lastSeenTime": "2:18:54 PM",
+    "onlineDurationMins": 11.120083333333334
+  },
+  "sce2021@lichess": {
+    "id": "sce2021",
+    "provider": "lichess",
+    "username": "SCE2021",
+    "firstSeen": 1628000444692,
+    "lastSeen": 1628000444692
+  }
+}
