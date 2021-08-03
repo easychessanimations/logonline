@@ -1,0 +1,23 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1627992257810,
+    "lastSeen": 1627992500224
+  },
+  "revengerschessteam@lichess": {
+    "id": "revengerschessteam",
+    "provider": "lichess",
+    "username": "RevengersChessTeam",
+    "firstSeen": 1627992316220,
+    "lastSeen": 1627992424194
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1627992501670,
+    "lastSeen": 1627992501670
+  }
+}
