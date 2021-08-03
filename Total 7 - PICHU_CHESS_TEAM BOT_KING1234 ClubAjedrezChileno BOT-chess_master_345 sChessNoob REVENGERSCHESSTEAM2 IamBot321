@@ -1,0 +1,72 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1627992257810,
+    "lastSeen": 1628000094699,
+    "firstSeenTime": "12:04:17 PM",
+    "lastSeenTime": "2:07:12 PM",
+    "onlineDurationMins": 122.90331666666667
+  },
+  "bot_king1234@lichess": {
+    "id": "bot_king1234",
+    "provider": "lichess",
+    "username": "BOT_KING1234",
+    "firstSeen": 1627995051212,
+    "lastSeen": 1627999656369,
+    "firstSeenTime": "12:50:51 PM",
+    "lastSeenTime": "2:07:36 PM",
+    "onlineDurationMins": 76.75261666666667
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1627997132867,
+    "lastSeen": 1628000136695,
+    "firstSeenTime": "1:25:32 PM",
+    "lastSeenTime": "1:59:17 PM",
+    "onlineDurationMins": 33.751133333333335
+  },
+  "bot-chess_master_345@lichess": {
+    "id": "bot-chess_master_345",
+    "provider": "lichess",
+    "username": "BOT-chess_master_345",
+    "firstSeen": 1627997173805,
+    "lastSeen": 1627999625958,
+    "firstSeenTime": "1:26:13 PM",
+    "lastSeenTime": "2:07:05 PM",
+    "onlineDurationMins": 40.86921666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1627998460348,
+    "lastSeen": 1628000230435,
+    "firstSeenTime": "1:47:40 PM",
+    "lastSeenTime": "2:12:01 PM",
+    "onlineDurationMins": 24.352616666666666
+  },
+  "revengerschessteam2@lichess": {
+    "id": "revengerschessteam2",
+    "provider": "lichess",
+    "username": "REVENGERSCHESSTEAM2",
+    "firstSeen": 1627998703459,
+    "lastSeen": 1627999407158,
+    "firstSeenTime": "1:51:43 PM",
+    "lastSeenTime": "2:03:27 PM",
+    "onlineDurationMins": 11.728316666666666
+  },
+  "iambot321@lichess": {
+    "id": "iambot321",
+    "provider": "lichess",
+    "username": "IamBot321",
+    "firstSeen": 1627999667277,
+    "lastSeen": 1628000090202,
+    "firstSeenTime": "2:07:47 PM",
+    "lastSeenTime": "2:07:57 PM",
+    "onlineDurationMins": 0.17025
+  }
+}
