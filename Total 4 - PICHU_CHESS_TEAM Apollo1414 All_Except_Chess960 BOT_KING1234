@@ -1,0 +1,30 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1627992257810,
+    "lastSeen": 1627995548701
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1627992501670,
+    "lastSeen": 1627996028722
+  },
+  "all_except_chess960@lichess": {
+    "id": "all_except_chess960",
+    "provider": "lichess",
+    "username": "All_Except_Chess960",
+    "firstSeen": 1627992909846,
+    "lastSeen": 1627995754365
+  },
+  "bot_king1234@lichess": {
+    "id": "bot_king1234",
+    "provider": "lichess",
+    "username": "BOT_KING1234",
+    "firstSeen": 1627995051212,
+    "lastSeen": 1627995733573
+  }
+}
