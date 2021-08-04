@@ -1,0 +1,50 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628053808013,
+    "lastSeen": 1628068267940,
+    "firstSeenTime": "5:10:08 AM",
+    "lastSeenTime": "8:05:24 AM",
+    "onlineDurationMins": 175.27513333333334
+  },
+  "cookiecheesychess@lichess": {
+    "id": "cookiecheesychess",
+    "provider": "lichess",
+    "username": "CookieCheesyChess",
+    "firstSeen": 1628056314626,
+    "lastSeen": 1628067947057,
+    "firstSeenTime": "5:51:54 AM",
+    "lastSeenTime": "7:57:04 AM",
+    "onlineDurationMins": 125.17221666666667
+  },
+  "chesslover350@lichess": {
+    "id": "chesslover350",
+    "provider": "lichess",
+    "username": "ChessLover350",
+    "firstSeen": 1628064547044,
+    "lastSeen": 1628067530395
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1628066930560,
+    "lastSeen": 1628067555258
+  },
+  "revengerschessteam2@lichess": {
+    "id": "revengerschessteam2",
+    "provider": "lichess",
+    "username": "REVENGERSCHESSTEAM2",
+    "firstSeen": 1628067506075,
+    "lastSeen": 1628068051696
+  },
+  "potatowosky@lichess": {
+    "id": "potatowosky",
+    "provider": "lichess",
+    "username": "potatowosky",
+    "firstSeen": 1628067531102,
+    "lastSeen": 1628067541354
+  }
+}
