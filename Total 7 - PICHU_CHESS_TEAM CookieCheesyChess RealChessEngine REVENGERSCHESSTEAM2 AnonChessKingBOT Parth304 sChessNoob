@@ -1,0 +1,57 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628053808013,
+    "lastSeen": 1628062751341,
+    "firstSeenTime": "5:10:08 AM",
+    "lastSeenTime": "6:19:03 AM",
+    "onlineDurationMins": 68.91906666666667
+  },
+  "cookiecheesychess@lichess": {
+    "id": "cookiecheesychess",
+    "provider": "lichess",
+    "username": "CookieCheesyChess",
+    "firstSeen": 1628056314626,
+    "lastSeen": 1628063038209,
+    "firstSeenTime": "5:51:54 AM",
+    "lastSeenTime": "6:16:57 AM",
+    "onlineDurationMins": 25.049916666666668
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1628060525847,
+    "lastSeen": 1628062821587
+  },
+  "revengerschessteam2@lichess": {
+    "id": "revengerschessteam2",
+    "provider": "lichess",
+    "username": "REVENGERSCHESSTEAM2",
+    "firstSeen": 1628060586143,
+    "lastSeen": 1628062943552
+  },
+  "anonchesskingbot@lichess": {
+    "id": "anonchesskingbot",
+    "provider": "lichess",
+    "username": "AnonChessKingBOT",
+    "firstSeen": 1628062228912,
+    "lastSeen": 1628062569494
+  },
+  "parth304@lichess": {
+    "id": "parth304",
+    "provider": "lichess",
+    "username": "Parth304",
+    "firstSeen": 1628063105501,
+    "lastSeen": 1628063124654
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1628063124740,
+    "lastSeen": 1628063124740
+  }
+}
