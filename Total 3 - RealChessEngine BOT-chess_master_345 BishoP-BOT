@@ -1,0 +1,23 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1628074111127,
+    "lastSeen": 1628077635214
+  },
+  "bot-chess_master_345@lichess": {
+    "id": "bot-chess_master_345",
+    "provider": "lichess",
+    "username": "BOT-chess_master_345",
+    "firstSeen": 1628075665946,
+    "lastSeen": 1628077610793
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1628077291179,
+    "lastSeen": 1628078005646
+  }
+}
