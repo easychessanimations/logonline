@@ -1,0 +1,30 @@
+{
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1628068310128,
+    "lastSeen": 1628071798740
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1628070334497,
+    "lastSeen": 1628071687865
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628071147763,
+    "lastSeen": 1628071447719
+  },
+  "bebek_kuzu@lichess": {
+    "id": "bebek_kuzu",
+    "provider": "lichess",
+    "username": "Bebek_Kuzu",
+    "firstSeen": 1628071655912,
+    "lastSeen": 1628071665994
+  }
+}
