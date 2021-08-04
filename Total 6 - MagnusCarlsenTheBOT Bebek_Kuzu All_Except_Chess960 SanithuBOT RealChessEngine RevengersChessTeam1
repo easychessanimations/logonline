@@ -1,0 +1,44 @@
+{
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1628068310128,
+    "lastSeen": 1628074614842
+  },
+  "bebek_kuzu@lichess": {
+    "id": "bebek_kuzu",
+    "provider": "lichess",
+    "username": "Bebek_Kuzu",
+    "firstSeen": 1628071655912,
+    "lastSeen": 1628074749393
+  },
+  "all_except_chess960@lichess": {
+    "id": "all_except_chess960",
+    "provider": "lichess",
+    "username": "All_Except_Chess960",
+    "firstSeen": 1628071848920,
+    "lastSeen": 1628074884812
+  },
+  "sanithubot@lichess": {
+    "id": "sanithubot",
+    "provider": "lichess",
+    "username": "SanithuBOT",
+    "firstSeen": 1628074079412,
+    "lastSeen": 1628074770081
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1628074111127,
+    "lastSeen": 1628075415725
+  },
+  "revengerschessteam1@lichess": {
+    "id": "revengerschessteam1",
+    "provider": "lichess",
+    "username": "RevengersChessTeam1",
+    "firstSeen": 1628075465453,
+    "lastSeen": 1628075465453
+  }
+}
