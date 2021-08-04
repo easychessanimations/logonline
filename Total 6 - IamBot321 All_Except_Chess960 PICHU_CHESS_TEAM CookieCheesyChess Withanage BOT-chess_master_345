@@ -1,0 +1,44 @@
+{
+  "iambot321@lichess": {
+    "id": "iambot321",
+    "provider": "lichess",
+    "username": "IamBot321",
+    "firstSeen": 1628051816008,
+    "lastSeen": 1628052551910
+  },
+  "all_except_chess960@lichess": {
+    "id": "all_except_chess960",
+    "provider": "lichess",
+    "username": "All_Except_Chess960",
+    "firstSeen": 1628051836192,
+    "lastSeen": 1628053060132
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628052005082,
+    "lastSeen": 1628053031601
+  },
+  "cookiecheesychess@lichess": {
+    "id": "cookiecheesychess",
+    "provider": "lichess",
+    "username": "CookieCheesyChess",
+    "firstSeen": 1628052373233,
+    "lastSeen": 1628053037008
+  },
+  "withanage@lichess": {
+    "id": "withanage",
+    "provider": "lichess",
+    "username": "Withanage",
+    "firstSeen": 1628052490493,
+    "lastSeen": 1628052562976
+  },
+  "bot-chess_master_345@lichess": {
+    "id": "bot-chess_master_345",
+    "provider": "lichess",
+    "username": "BOT-chess_master_345",
+    "firstSeen": 1628053074104,
+    "lastSeen": 1628053074104
+  }
+}
