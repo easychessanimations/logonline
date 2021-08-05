@@ -1,0 +1,22 @@
+{
+  "all_except_chess960@lichess": {
+    "id": "all_except_chess960",
+    "provider": "lichess",
+    "username": "All_Except_Chess960",
+    "firstSeen": 1628137706219,
+    "lastSeen": 1628141073238,
+    "firstSeenTime": "4:28:26 AM",
+    "lastSeenTime": "5:24:33 AM",
+    "onlineDurationMins": 56.11698333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1628137765022,
+    "lastSeen": 1628141237828,
+    "firstSeenTime": "4:29:25 AM",
+    "lastSeenTime": "5:26:46 AM",
+    "onlineDurationMins": 57.363483333333335
+  }
+}
