@@ -1,0 +1,82 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628145476788,
+    "lastSeen": 1628152700105,
+    "firstSeenTime": "6:37:56 AM",
+    "lastSeenTime": "8:38:20 AM",
+    "onlineDurationMins": 120.38861666666666
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1628147746208,
+    "lastSeen": 1628152266243,
+    "firstSeenTime": "7:15:46 AM",
+    "lastSeenTime": "8:31:06 AM",
+    "onlineDurationMins": 75.33391666666667
+  },
+  "sl_red_king_bot2@lichess": {
+    "id": "sl_red_king_bot2",
+    "provider": "lichess",
+    "username": "SL_Red_King_BOT2",
+    "firstSeen": 1628149249375,
+    "lastSeen": 1628152929353,
+    "firstSeenTime": "7:40:49 AM",
+    "lastSeenTime": "8:42:09 AM",
+    "onlineDurationMins": 61.332966666666664
+  },
+  "rishi_chess11@lichess": {
+    "id": "rishi_chess11",
+    "provider": "lichess",
+    "username": "Rishi_Chess11",
+    "firstSeen": 1628150709218,
+    "lastSeen": 1628152342898,
+    "firstSeenTime": "8:05:09 AM",
+    "lastSeenTime": "8:32:22 AM",
+    "onlineDurationMins": 27.228
+  },
+  "bot-chess_master_345@lichess": {
+    "id": "bot-chess_master_345",
+    "provider": "lichess",
+    "username": "BOT-chess_master_345",
+    "firstSeen": 1628151090373,
+    "lastSeen": 1628152594000,
+    "firstSeenTime": "8:11:30 AM",
+    "lastSeenTime": "8:36:34 AM",
+    "onlineDurationMins": 25.06045
+  },
+  "revengerschessteam1@lichess": {
+    "id": "revengerschessteam1",
+    "provider": "lichess",
+    "username": "RevengersChessTeam1",
+    "firstSeen": 1628151904967,
+    "lastSeen": 1628152338297,
+    "firstSeenTime": "8:25:04 AM",
+    "lastSeenTime": "8:32:18 AM",
+    "onlineDurationMins": 7.222166666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1628152195065,
+    "lastSeen": 1628153019585,
+    "firstSeenTime": "8:29:55 AM",
+    "lastSeenTime": "8:43:08 AM",
+    "onlineDurationMins": 13.225383333333333
+  },
+  "test_bot69420@lichess": {
+    "id": "test_bot69420",
+    "provider": "lichess",
+    "username": "Test_Bot69420",
+    "firstSeen": 1628152337906,
+    "lastSeen": 1628152344202,
+    "firstSeenTime": "8:32:17 AM",
+    "lastSeenTime": "8:32:24 AM",
+    "onlineDurationMins": 0.10493333333333334
+  }
+}
