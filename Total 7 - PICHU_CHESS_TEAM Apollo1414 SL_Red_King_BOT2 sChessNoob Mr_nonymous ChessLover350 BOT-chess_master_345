@@ -1,0 +1,69 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628145476788,
+    "lastSeen": 1628155181165,
+    "firstSeenTime": "6:37:56 AM",
+    "lastSeenTime": "9:19:41 AM",
+    "onlineDurationMins": 161.73961666666668
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1628147746208,
+    "lastSeen": 1628154483197,
+    "firstSeenTime": "7:15:46 AM",
+    "lastSeenTime": "9:08:03 AM",
+    "onlineDurationMins": 112.28315
+  },
+  "sl_red_king_bot2@lichess": {
+    "id": "sl_red_king_bot2",
+    "provider": "lichess",
+    "username": "SL_Red_King_BOT2",
+    "firstSeen": 1628149249375,
+    "lastSeen": 1628154803437,
+    "firstSeenTime": "7:40:49 AM",
+    "lastSeenTime": "9:13:23 AM",
+    "onlineDurationMins": 92.5677
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1628152195065,
+    "lastSeen": 1628155289906,
+    "firstSeenTime": "8:29:55 AM",
+    "lastSeenTime": "9:21:29 AM",
+    "onlineDurationMins": 51.58068333333333
+  },
+  "mr_nonymous@lichess": {
+    "id": "mr_nonymous",
+    "provider": "lichess",
+    "username": "Mr_nonymous",
+    "firstSeen": 1628153279887,
+    "lastSeen": 1628155261283,
+    "firstSeenTime": "8:47:59 AM",
+    "lastSeenTime": "9:21:01 AM",
+    "onlineDurationMins": 33.023266666666665
+  },
+  "chesslover350@lichess": {
+    "id": "chesslover350",
+    "provider": "lichess",
+    "username": "ChessLover350",
+    "firstSeen": 1628154905088,
+    "lastSeen": 1628155293591,
+    "firstSeenTime": "9:15:05 AM",
+    "lastSeenTime": "9:21:29 AM",
+    "onlineDurationMins": 6.400483333333334
+  },
+  "bot-chess_master_345@lichess": {
+    "id": "bot-chess_master_345",
+    "provider": "lichess",
+    "username": "BOT-chess_master_345",
+    "firstSeen": 1628155294175,
+    "lastSeen": 1628155294175
+  }
+}
