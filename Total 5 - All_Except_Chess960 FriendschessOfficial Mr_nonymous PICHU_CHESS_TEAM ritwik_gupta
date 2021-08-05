@@ -1,0 +1,40 @@
+{
+  "all_except_chess960@lichess": {
+    "id": "all_except_chess960",
+    "provider": "lichess",
+    "username": "All_Except_Chess960",
+    "firstSeen": 1628141711174,
+    "lastSeen": 1628145134146,
+    "firstSeenTime": "5:35:11 AM",
+    "lastSeenTime": "5:46:14 AM",
+    "onlineDurationMins": 11.049866666666667
+  },
+  "friendschessofficial@lichess": {
+    "id": "friendschessofficial",
+    "provider": "lichess",
+    "username": "FriendschessOfficial",
+    "firstSeen": 1628143253011,
+    "lastSeen": 1628145540661
+  },
+  "mr_nonymous@lichess": {
+    "id": "mr_nonymous",
+    "provider": "lichess",
+    "username": "Mr_nonymous",
+    "firstSeen": 1628145293348,
+    "lastSeen": 1628145529404
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628145476788,
+    "lastSeen": 1628145499262
+  },
+  "ritwik_gupta@lichess": {
+    "id": "ritwik_gupta",
+    "provider": "lichess",
+    "username": "ritwik_gupta",
+    "firstSeen": 1628145602302,
+    "lastSeen": 1628145602302
+  }
+}
