@@ -1,0 +1,19 @@
+{
+  "all_except_chess960@lichess": {
+    "id": "all_except_chess960",
+    "provider": "lichess",
+    "username": "All_Except_Chess960",
+    "firstSeen": 1628141711174,
+    "lastSeen": 1628143690953,
+    "firstSeenTime": "5:35:11 AM",
+    "lastSeenTime": "5:46:14 AM",
+    "onlineDurationMins": 11.049866666666667
+  },
+  "friendschessofficial@lichess": {
+    "id": "friendschessofficial",
+    "provider": "lichess",
+    "username": "FriendschessOfficial",
+    "firstSeen": 1628143253011,
+    "lastSeen": 1628143365200
+  }
+}
