@@ -1,0 +1,52 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628145476788,
+    "lastSeen": 1628155611971,
+    "firstSeenTime": "6:37:56 AM",
+    "lastSeenTime": "9:26:51 AM",
+    "onlineDurationMins": 168.91971666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1628152195065,
+    "lastSeen": 1628155714962,
+    "firstSeenTime": "8:29:55 AM",
+    "lastSeenTime": "9:28:04 AM",
+    "onlineDurationMins": 58.15988333333333
+  },
+  "mr_nonymous@lichess": {
+    "id": "mr_nonymous",
+    "provider": "lichess",
+    "username": "Mr_nonymous",
+    "firstSeen": 1628153279887,
+    "lastSeen": 1628155261283,
+    "firstSeenTime": "8:47:59 AM",
+    "lastSeenTime": "9:21:01 AM",
+    "onlineDurationMins": 33.023266666666665
+  },
+  "chesslover350@lichess": {
+    "id": "chesslover350",
+    "provider": "lichess",
+    "username": "ChessLover350",
+    "firstSeen": 1628154905088,
+    "lastSeen": 1628155480286,
+    "firstSeenTime": "9:15:05 AM",
+    "lastSeenTime": "9:24:40 AM",
+    "onlineDurationMins": 9.586633333333333
+  },
+  "bot-chess_master_345@lichess": {
+    "id": "bot-chess_master_345",
+    "provider": "lichess",
+    "username": "BOT-chess_master_345",
+    "firstSeen": 1628155294175,
+    "lastSeen": 1628155531729,
+    "firstSeenTime": "9:21:34 AM",
+    "lastSeenTime": "9:25:31 AM",
+    "onlineDurationMins": 3.959233333333333
+  }
+}
