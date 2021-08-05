@@ -1,0 +1,37 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628145476788,
+    "lastSeen": 1628149911832
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1628147746208,
+    "lastSeen": 1628149923151
+  },
+  "chesslover350@lichess": {
+    "id": "chesslover350",
+    "provider": "lichess",
+    "username": "ChessLover350",
+    "firstSeen": 1628147922794,
+    "lastSeen": 1628150242992
+  },
+  "sl_red_king_bot2@lichess": {
+    "id": "sl_red_king_bot2",
+    "provider": "lichess",
+    "username": "SL_Red_King_BOT2",
+    "firstSeen": 1628149249375,
+    "lastSeen": 1628150171591
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1628150473914,
+    "lastSeen": 1628150473914
+  }
+}
