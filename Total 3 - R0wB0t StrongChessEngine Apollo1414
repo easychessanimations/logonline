@@ -1,0 +1,29 @@
+{
+  "r0wb0t@lichess": {
+    "id": "r0wb0t",
+    "provider": "lichess",
+    "username": "R0wB0t",
+    "firstSeen": 1628179043860,
+    "lastSeen": 1628186085751,
+    "firstSeenTime": "3:57:23 PM",
+    "lastSeenTime": "5:43:49 PM",
+    "onlineDurationMins": 106.42488333333333
+  },
+  "strongchessengine@lichess": {
+    "id": "strongchessengine",
+    "provider": "lichess",
+    "username": "StrongChessEngine",
+    "firstSeen": 1628185168097,
+    "lastSeen": 1628186509826,
+    "firstSeenTime": "5:39:28 PM",
+    "lastSeenTime": "5:40:57 PM",
+    "onlineDurationMins": 1.4890666666666668
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1628185703602,
+    "lastSeen": 1628186405876
+  }
+}
