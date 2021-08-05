@@ -1,0 +1,47 @@
+{
+  "sl_red_king_bot3@lichess": {
+    "id": "sl_red_king_bot3",
+    "provider": "lichess",
+    "username": "SL_Red_King_BOT3",
+    "firstSeen": 1628156144633,
+    "lastSeen": 1628160345349,
+    "firstSeenTime": "9:35:44 AM",
+    "lastSeenTime": "9:58:11 AM",
+    "onlineDurationMins": 22.450516666666665
+  },
+  "magnuscarlsen5bot@lichess": {
+    "id": "magnuscarlsen5bot",
+    "provider": "lichess",
+    "username": "MagnusCarlsen5Bot",
+    "firstSeen": 1628160028494,
+    "lastSeen": 1628160028494
+  },
+  "vedant_gandhi07@lichess": {
+    "id": "vedant_gandhi07",
+    "provider": "lichess",
+    "username": "vedant_gandhi07",
+    "firstSeen": 1628160028937,
+    "lastSeen": 1628160039967
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628160348365,
+    "lastSeen": 1628160351990
+  },
+  "nastmardov@lichess": {
+    "id": "nastmardov",
+    "provider": "lichess",
+    "username": "NastMardov",
+    "firstSeen": 1628160610803,
+    "lastSeen": 1628160650454
+  },
+  "voldemortbot@lichess": {
+    "id": "voldemortbot",
+    "provider": "lichess",
+    "username": "VoldemortBot",
+    "firstSeen": 1628160685499,
+    "lastSeen": 1628160685499
+  }
+}
