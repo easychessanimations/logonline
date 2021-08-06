@@ -1,0 +1,63 @@
+{
+  "prochessplayerbot25@lichess": {
+    "id": "prochessplayerbot25",
+    "provider": "lichess",
+    "username": "ProChessPlayerBot25",
+    "firstSeen": 1628241155691,
+    "lastSeen": 1628249377444,
+    "firstSeenTime": "9:12:35 AM",
+    "lastSeenTime": "11:07:37 AM",
+    "onlineDurationMins": 115.02916666666667
+  },
+  "butterfly-bot@lichess": {
+    "id": "butterfly-bot",
+    "provider": "lichess",
+    "username": "butterfly-bot",
+    "firstSeen": 1628246368540,
+    "lastSeen": 1628249596606,
+    "firstSeenTime": "10:39:28 AM",
+    "lastSeenTime": "11:07:35 AM",
+    "onlineDurationMins": 28.110566666666667
+  },
+  "nastmardov@lichess": {
+    "id": "nastmardov",
+    "provider": "lichess",
+    "username": "NastMardov",
+    "firstSeen": 1628247743156,
+    "lastSeen": 1628249249400,
+    "firstSeenTime": "11:02:23 AM",
+    "lastSeenTime": "11:02:36 AM",
+    "onlineDurationMins": 0.22816666666666666
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628248058602,
+    "lastSeen": 1628249676374,
+    "firstSeenTime": "11:07:38 AM",
+    "lastSeenTime": "11:08:22 AM",
+    "onlineDurationMins": 0.7387333333333334
+  },
+  "athulmadathil@lichess": {
+    "id": "athulmadathil",
+    "provider": "lichess",
+    "username": "ATHULMADATHIL",
+    "firstSeen": 1628248830117,
+    "lastSeen": 1628249077271
+  },
+  "revengerschessteam1@lichess": {
+    "id": "revengerschessteam1",
+    "provider": "lichess",
+    "username": "RevengersChessTeam1",
+    "firstSeen": 1628249591657,
+    "lastSeen": 1628249670579
+  },
+  "revengerschessteam2@lichess": {
+    "id": "revengerschessteam2",
+    "provider": "lichess",
+    "username": "REVENGERSCHESSTEAM2",
+    "firstSeen": 1628249684535,
+    "lastSeen": 1628249684535
+  }
+}
