@@ -1,0 +1,79 @@
+{
+  "prochessplayerbot25@lichess": {
+    "id": "prochessplayerbot25",
+    "provider": "lichess",
+    "username": "ProChessPlayerBot25",
+    "firstSeen": 1628241155691,
+    "lastSeen": 1628246677387,
+    "firstSeenTime": "9:12:35 AM",
+    "lastSeenTime": "10:44:37 AM",
+    "onlineDurationMins": 92.02826666666667
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628241443531,
+    "lastSeen": 1628247038562,
+    "firstSeenTime": "9:17:23 AM",
+    "lastSeenTime": "10:50:38 AM",
+    "onlineDurationMins": 93.25051666666667
+  },
+  "tc_team_bot@lichess": {
+    "id": "tc_team_bot",
+    "provider": "lichess",
+    "username": "TC_Team_Bot",
+    "firstSeen": 1628245374013,
+    "lastSeen": 1628247033514,
+    "firstSeenTime": "10:22:54 AM",
+    "lastSeenTime": "10:50:33 AM",
+    "onlineDurationMins": 27.65835
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1628245559636,
+    "lastSeen": 1628247061309,
+    "firstSeenTime": "10:25:59 AM",
+    "lastSeenTime": "10:51:01 AM",
+    "onlineDurationMins": 25.02788333333333
+  },
+  "strongchessengine@lichess": {
+    "id": "strongchessengine",
+    "provider": "lichess",
+    "username": "StrongChessEngine",
+    "firstSeen": 1628246224517,
+    "lastSeen": 1628247051782,
+    "firstSeenTime": "10:37:04 AM",
+    "lastSeenTime": "10:50:51 AM",
+    "onlineDurationMins": 13.78775
+  },
+  "botvinator@lichess": {
+    "id": "botvinator",
+    "provider": "lichess",
+    "username": "Botvinator",
+    "firstSeen": 1628246280946,
+    "lastSeen": 1628246654728,
+    "firstSeenTime": "10:38:00 AM",
+    "lastSeenTime": "10:44:14 AM",
+    "onlineDurationMins": 6.2297
+  },
+  "butterfly-bot@lichess": {
+    "id": "butterfly-bot",
+    "provider": "lichess",
+    "username": "butterfly-bot",
+    "firstSeen": 1628246368540,
+    "lastSeen": 1628247034021,
+    "firstSeenTime": "10:39:28 AM",
+    "lastSeenTime": "10:50:34 AM",
+    "onlineDurationMins": 11.09135
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1628247085637,
+    "lastSeen": 1628247085637
+  }
+}
