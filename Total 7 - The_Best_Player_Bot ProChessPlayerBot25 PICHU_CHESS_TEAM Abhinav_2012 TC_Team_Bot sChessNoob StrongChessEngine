@@ -1,0 +1,69 @@
+{
+  "the_best_player_bot@lichess": {
+    "id": "the_best_player_bot",
+    "provider": "lichess",
+    "username": "The_Best_Player_Bot",
+    "firstSeen": 1628230410058,
+    "lastSeen": 1628245954025,
+    "firstSeenTime": "6:13:30 AM",
+    "lastSeenTime": "10:25:45 AM",
+    "onlineDurationMins": 252.26253333333332
+  },
+  "prochessplayerbot25@lichess": {
+    "id": "prochessplayerbot25",
+    "provider": "lichess",
+    "username": "ProChessPlayerBot25",
+    "firstSeen": 1628241155691,
+    "lastSeen": 1628246017400,
+    "firstSeenTime": "9:12:35 AM",
+    "lastSeenTime": "10:18:37 AM",
+    "onlineDurationMins": 66.03566666666667
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628241443531,
+    "lastSeen": 1628245478600,
+    "firstSeenTime": "9:17:23 AM",
+    "lastSeenTime": "10:24:38 AM",
+    "onlineDurationMins": 67.25115
+  },
+  "abhinav_2012@lichess": {
+    "id": "abhinav_2012",
+    "provider": "lichess",
+    "username": "Abhinav_2012",
+    "firstSeen": 1628245308666,
+    "lastSeen": 1628245378812,
+    "firstSeenTime": "10:21:48 AM",
+    "lastSeenTime": "10:22:58 AM",
+    "onlineDurationMins": 1.1691
+  },
+  "tc_team_bot@lichess": {
+    "id": "tc_team_bot",
+    "provider": "lichess",
+    "username": "TC_Team_Bot",
+    "firstSeen": 1628245374013,
+    "lastSeen": 1628246039036,
+    "firstSeenTime": "10:22:54 AM",
+    "lastSeenTime": "10:24:15 AM",
+    "onlineDurationMins": 1.35015
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1628245559636,
+    "lastSeen": 1628245561363,
+    "firstSeenTime": "10:25:59 AM",
+    "lastSeenTime": "10:25:59 AM",
+    "onlineDurationMins": 0
+  },
+  "strongchessengine@lichess": {
+    "id": "strongchessengine",
+    "provider": "lichess",
+    "username": "StrongChessEngine",
+    "firstSeen": 1628246224517,
+    "lastSeen": 1628246224517
+  }
+}
