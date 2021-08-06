@@ -1,0 +1,47 @@
+{
+  "the_best_player_bot@lichess": {
+    "id": "the_best_player_bot",
+    "provider": "lichess",
+    "username": "The_Best_Player_Bot",
+    "firstSeen": 1628230410058,
+    "lastSeen": 1628245545810,
+    "firstSeenTime": "6:13:30 AM",
+    "lastSeenTime": "7:43:02 AM",
+    "onlineDurationMins": 89.53691666666667
+  },
+  "prochessplayerbot25@lichess": {
+    "id": "prochessplayerbot25",
+    "provider": "lichess",
+    "username": "ProChessPlayerBot25",
+    "firstSeen": 1628241155691,
+    "lastSeen": 1628245117831
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628241443531,
+    "lastSeen": 1628245478600
+  },
+  "abhinav_2012@lichess": {
+    "id": "abhinav_2012",
+    "provider": "lichess",
+    "username": "Abhinav_2012",
+    "firstSeen": 1628245308666,
+    "lastSeen": 1628245378812
+  },
+  "tc_team_bot@lichess": {
+    "id": "tc_team_bot",
+    "provider": "lichess",
+    "username": "TC_Team_Bot",
+    "firstSeen": 1628245374013,
+    "lastSeen": 1628245455022
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1628245559636,
+    "lastSeen": 1628245559636
+  }
+}
