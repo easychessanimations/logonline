@@ -1,0 +1,33 @@
+{
+  "the_best_player_bot@lichess": {
+    "id": "the_best_player_bot",
+    "provider": "lichess",
+    "username": "The_Best_Player_Bot",
+    "firstSeen": 1628230410058,
+    "lastSeen": 1628244179238,
+    "firstSeenTime": "6:13:30 AM",
+    "lastSeenTime": "7:43:02 AM",
+    "onlineDurationMins": 89.53691666666667
+  },
+  "prochessplayerbot25@lichess": {
+    "id": "prochessplayerbot25",
+    "provider": "lichess",
+    "username": "ProChessPlayerBot25",
+    "firstSeen": 1628241155691,
+    "lastSeen": 1628244454133
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628241443531,
+    "lastSeen": 1628244162186
+  },
+  "revengerschessteam1@lichess": {
+    "id": "revengerschessteam1",
+    "provider": "lichess",
+    "username": "RevengersChessTeam1",
+    "firstSeen": 1628243475577,
+    "lastSeen": 1628243769596
+  }
+}
