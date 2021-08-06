@@ -1,0 +1,23 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628218965699,
+    "lastSeen": 1628219622064
+  },
+  "shaswat_bot@lichess": {
+    "id": "shaswat_bot",
+    "provider": "lichess",
+    "username": "Shaswat_bot",
+    "firstSeen": 1628219285921,
+    "lastSeen": 1628219364320
+  },
+  "berserk127@lichess": {
+    "id": "berserk127",
+    "provider": "lichess",
+    "username": "Berserk127",
+    "firstSeen": 1628220188461,
+    "lastSeen": 1628220188461
+  }
+}
