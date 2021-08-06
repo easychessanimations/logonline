@@ -1,0 +1,19 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628218965699,
+    "lastSeen": 1628220951697,
+    "firstSeenTime": "3:02:45 AM",
+    "lastSeenTime": "3:27:48 AM",
+    "onlineDurationMins": 25.045483333333333
+  },
+  "aarav_strongestbot@lichess": {
+    "id": "aarav_strongestbot",
+    "provider": "lichess",
+    "username": "aarav_strongestBOT",
+    "firstSeen": 1628221184170,
+    "lastSeen": 1628221360456
+  }
+}
