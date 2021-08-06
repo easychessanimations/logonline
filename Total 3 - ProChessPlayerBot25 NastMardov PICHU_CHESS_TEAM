@@ -1,0 +1,26 @@
+{
+  "prochessplayerbot25@lichess": {
+    "id": "prochessplayerbot25",
+    "provider": "lichess",
+    "username": "ProChessPlayerBot25",
+    "firstSeen": 1628241155691,
+    "lastSeen": 1628252523499,
+    "firstSeenTime": "9:12:35 AM",
+    "lastSeenTime": "11:07:37 AM",
+    "onlineDurationMins": 115.02916666666667
+  },
+  "nastmardov@lichess": {
+    "id": "nastmardov",
+    "provider": "lichess",
+    "username": "NastMardov",
+    "firstSeen": 1628252334834,
+    "lastSeen": 1628252568807
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628252498822,
+    "lastSeen": 1628252639667
+  }
+}
