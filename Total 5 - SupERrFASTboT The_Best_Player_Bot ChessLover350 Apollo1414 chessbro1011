@@ -1,0 +1,46 @@
+{
+  "superrfastbot@lichess": {
+    "id": "superrfastbot",
+    "provider": "lichess",
+    "username": "SupERrFASTboT",
+    "firstSeen": 1628223339259,
+    "lastSeen": 1628239493376,
+    "firstSeenTime": "4:15:39 AM",
+    "lastSeenTime": "7:48:05 AM",
+    "onlineDurationMins": 212.44365
+  },
+  "the_best_player_bot@lichess": {
+    "id": "the_best_player_bot",
+    "provider": "lichess",
+    "username": "The_Best_Player_Bot",
+    "firstSeen": 1628230410058,
+    "lastSeen": 1628239259118,
+    "firstSeenTime": "6:13:30 AM",
+    "lastSeenTime": "7:43:02 AM",
+    "onlineDurationMins": 89.53691666666667
+  },
+  "chesslover350@lichess": {
+    "id": "chesslover350",
+    "provider": "lichess",
+    "username": "ChessLover350",
+    "firstSeen": 1628231933684,
+    "lastSeen": 1628239178622,
+    "firstSeenTime": "6:38:53 AM",
+    "lastSeenTime": "7:47:13 AM",
+    "onlineDurationMins": 68.33283333333334
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1628238465732,
+    "lastSeen": 1628239254926
+  },
+  "chessbro1011@lichess": {
+    "id": "chessbro1011",
+    "provider": "lichess",
+    "username": "chessbro1011",
+    "firstSeen": 1628238585646,
+    "lastSeen": 1628238730820
+  }
+}
