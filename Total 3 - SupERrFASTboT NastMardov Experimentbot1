@@ -1,0 +1,23 @@
+{
+  "superrfastbot@lichess": {
+    "id": "superrfastbot",
+    "provider": "lichess",
+    "username": "SupERrFASTboT",
+    "firstSeen": 1628223339259,
+    "lastSeen": 1628227912943
+  },
+  "nastmardov@lichess": {
+    "id": "nastmardov",
+    "provider": "lichess",
+    "username": "NastMardov",
+    "firstSeen": 1628226467506,
+    "lastSeen": 1628228098914
+  },
+  "experimentbot1@lichess": {
+    "id": "experimentbot1",
+    "provider": "lichess",
+    "username": "Experimentbot1",
+    "firstSeen": 1628227506088,
+    "lastSeen": 1628227796335
+  }
+}
