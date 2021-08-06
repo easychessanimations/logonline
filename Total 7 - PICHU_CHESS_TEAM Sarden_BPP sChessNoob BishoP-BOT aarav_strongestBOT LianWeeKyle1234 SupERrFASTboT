@@ -1,0 +1,60 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628218965699,
+    "lastSeen": 1628223109609,
+    "firstSeenTime": "3:02:45 AM",
+    "lastSeenTime": "4:00:10 AM",
+    "onlineDurationMins": 57.409016666666666
+  },
+  "sarden_bpp@lichess": {
+    "id": "sarden_bpp",
+    "provider": "lichess",
+    "username": "Sarden_BPP",
+    "firstSeen": 1628222589958,
+    "lastSeen": 1628222738922,
+    "firstSeenTime": "4:03:09 AM",
+    "lastSeenTime": "4:04:57 AM",
+    "onlineDurationMins": 1.7896666666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1628222700925,
+    "lastSeen": 1628222700925,
+    "firstSeenTime": "4:05:00 AM",
+    "lastSeenTime": "4:05:00 AM",
+    "onlineDurationMins": 0
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1628222741879,
+    "lastSeen": 1628222759845
+  },
+  "aarav_strongestbot@lichess": {
+    "id": "aarav_strongestbot",
+    "provider": "lichess",
+    "username": "aarav_strongestBOT",
+    "firstSeen": 1628223133680,
+    "lastSeen": 1628223217220
+  },
+  "lianweekyle1234@lichess": {
+    "id": "lianweekyle1234",
+    "provider": "lichess",
+    "username": "LianWeeKyle1234",
+    "firstSeen": 1628223175335,
+    "lastSeen": 1628223210872
+  },
+  "superrfastbot@lichess": {
+    "id": "superrfastbot",
+    "provider": "lichess",
+    "username": "SupERrFASTboT",
+    "firstSeen": 1628223339259,
+    "lastSeen": 1628223339259
+  }
+}
