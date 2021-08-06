@@ -1,0 +1,69 @@
+{
+  "superrfastbot@lichess": {
+    "id": "superrfastbot",
+    "provider": "lichess",
+    "username": "SupERrFASTboT",
+    "firstSeen": 1628223339259,
+    "lastSeen": 1628237118367,
+    "firstSeenTime": "4:15:39 AM",
+    "lastSeenTime": "7:48:05 AM",
+    "onlineDurationMins": 212.44365
+  },
+  "the_best_player_bot@lichess": {
+    "id": "the_best_player_bot",
+    "provider": "lichess",
+    "username": "The_Best_Player_Bot",
+    "firstSeen": 1628230410058,
+    "lastSeen": 1628237075565,
+    "firstSeenTime": "6:13:30 AM",
+    "lastSeenTime": "7:43:02 AM",
+    "onlineDurationMins": 89.53691666666667
+  },
+  "chesslover350@lichess": {
+    "id": "chesslover350",
+    "provider": "lichess",
+    "username": "ChessLover350",
+    "firstSeen": 1628231933684,
+    "lastSeen": 1628237105996,
+    "firstSeenTime": "6:38:53 AM",
+    "lastSeenTime": "7:47:13 AM",
+    "onlineDurationMins": 68.33283333333334
+  },
+  "berseker_ragnarsson@lichess": {
+    "id": "berseker_ragnarsson",
+    "provider": "lichess",
+    "username": "berseker_ragnarsson",
+    "firstSeen": 1628232711967,
+    "lastSeen": 1628237062773,
+    "firstSeenTime": "6:51:51 AM",
+    "lastSeenTime": "7:46:16 AM",
+    "onlineDurationMins": 54.4064
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628235638493,
+    "lastSeen": 1628237192347,
+    "firstSeenTime": "7:40:38 AM",
+    "lastSeenTime": "7:49:06 AM",
+    "onlineDurationMins": 8.47385
+  },
+  "prochessplayerbot25@lichess": {
+    "id": "prochessplayerbot25",
+    "provider": "lichess",
+    "username": "ProChessPlayerBot25",
+    "firstSeen": 1628236192765,
+    "lastSeen": 1628237160346,
+    "firstSeenTime": "7:49:52 AM",
+    "lastSeenTime": "7:50:28 AM",
+    "onlineDurationMins": 0.59365
+  },
+  "revengerschessteam2@lichess": {
+    "id": "revengerschessteam2",
+    "provider": "lichess",
+    "username": "REVENGERSCHESSTEAM2",
+    "firstSeen": 1628237069033,
+    "lastSeen": 1628237187508
+  }
+}
