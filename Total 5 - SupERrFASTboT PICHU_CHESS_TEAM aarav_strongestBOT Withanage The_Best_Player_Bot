@@ -1,0 +1,37 @@
+{
+  "superrfastbot@lichess": {
+    "id": "superrfastbot",
+    "provider": "lichess",
+    "username": "SupERrFASTboT",
+    "firstSeen": 1628223339259,
+    "lastSeen": 1628230027994
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628229230602,
+    "lastSeen": 1628230367046
+  },
+  "aarav_strongestbot@lichess": {
+    "id": "aarav_strongestbot",
+    "provider": "lichess",
+    "username": "aarav_strongestBOT",
+    "firstSeen": 1628229472201,
+    "lastSeen": 1628229573786
+  },
+  "withanage@lichess": {
+    "id": "withanage",
+    "provider": "lichess",
+    "username": "Withanage",
+    "firstSeen": 1628229989517,
+    "lastSeen": 1628230024960
+  },
+  "the_best_player_bot@lichess": {
+    "id": "the_best_player_bot",
+    "provider": "lichess",
+    "username": "The_Best_Player_Bot",
+    "firstSeen": 1628230410058,
+    "lastSeen": 1628230410059
+  }
+}
