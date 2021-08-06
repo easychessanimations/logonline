@@ -1,0 +1,86 @@
+{
+  "nastmardov@lichess": {
+    "id": "nastmardov",
+    "provider": "lichess",
+    "username": "NastMardov",
+    "firstSeen": 1628252334834,
+    "lastSeen": 1628257202831,
+    "firstSeenTime": "12:18:54 PM",
+    "lastSeenTime": "1:40:02 PM",
+    "onlineDurationMins": 81.13328333333334
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628252498822,
+    "lastSeen": 1628257182032,
+    "firstSeenTime": "12:21:38 PM",
+    "lastSeenTime": "1:39:42 PM",
+    "onlineDurationMins": 78.0535
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1628253598771,
+    "lastSeen": 1628257079310,
+    "firstSeenTime": "12:39:58 PM",
+    "lastSeenTime": "1:37:59 PM",
+    "onlineDurationMins": 58.00898333333333
+  },
+  "withanage@lichess": {
+    "id": "withanage",
+    "provider": "lichess",
+    "username": "Withanage",
+    "firstSeen": 1628254165397,
+    "lastSeen": 1628257209958,
+    "firstSeenTime": "12:49:25 PM",
+    "lastSeenTime": "1:40:09 PM",
+    "onlineDurationMins": 50.74268333333333
+  },
+  "maia_1@lichess": {
+    "id": "maia_1",
+    "provider": "lichess",
+    "username": "Maia_1",
+    "firstSeen": 1628254486257,
+    "lastSeen": 1628257151704,
+    "firstSeenTime": "12:54:46 PM",
+    "lastSeenTime": "1:39:11 PM",
+    "onlineDurationMins": 44.42411666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1628256482293,
+    "lastSeen": 1628257350190,
+    "firstSeenTime": "1:28:02 PM",
+    "lastSeenTime": "1:42:30 PM",
+    "onlineDurationMins": 14.46495
+  },
+  "mehmet_akcadag@lichess": {
+    "id": "mehmet_akcadag",
+    "provider": "lichess",
+    "username": "mehmet_akcadag",
+    "firstSeen": 1628256767302,
+    "lastSeen": 1628256926434,
+    "firstSeenTime": "1:32:47 PM",
+    "lastSeenTime": "1:35:26 PM",
+    "onlineDurationMins": 2.6522
+  },
+  "yusufg4mer@lichess": {
+    "id": "yusufg4mer",
+    "provider": "lichess",
+    "username": "YusufG4mer",
+    "firstSeen": 1628257352803,
+    "lastSeen": 1628257375310
+  },
+  "tc_team_bot@lichess": {
+    "id": "tc_team_bot",
+    "provider": "lichess",
+    "username": "TC_Team_Bot",
+    "firstSeen": 1628257376506,
+    "lastSeen": 1628257376506
+  }
+}
