@@ -1,0 +1,19 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628218965699,
+    "lastSeen": 1628224609539,
+    "firstSeenTime": "3:02:45 AM",
+    "lastSeenTime": "4:00:10 AM",
+    "onlineDurationMins": 57.409016666666666
+  },
+  "superrfastbot@lichess": {
+    "id": "superrfastbot",
+    "provider": "lichess",
+    "username": "SupERrFASTboT",
+    "firstSeen": 1628223339259,
+    "lastSeen": 1628224201140
+  }
+}
