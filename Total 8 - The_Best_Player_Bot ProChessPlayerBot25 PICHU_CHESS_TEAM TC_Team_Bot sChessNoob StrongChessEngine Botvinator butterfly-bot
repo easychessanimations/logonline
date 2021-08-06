@@ -1,0 +1,76 @@
+{
+  "the_best_player_bot@lichess": {
+    "id": "the_best_player_bot",
+    "provider": "lichess",
+    "username": "The_Best_Player_Bot",
+    "firstSeen": 1628230410058,
+    "lastSeen": 1628245954025,
+    "firstSeenTime": "6:13:30 AM",
+    "lastSeenTime": "10:32:34 AM",
+    "onlineDurationMins": 259.0661166666667
+  },
+  "prochessplayerbot25@lichess": {
+    "id": "prochessplayerbot25",
+    "provider": "lichess",
+    "username": "ProChessPlayerBot25",
+    "firstSeen": 1628241155691,
+    "lastSeen": 1628246017400,
+    "firstSeenTime": "9:12:35 AM",
+    "lastSeenTime": "10:33:37 AM",
+    "onlineDurationMins": 81.02848333333333
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628241443531,
+    "lastSeen": 1628246333432,
+    "firstSeenTime": "9:17:23 AM",
+    "lastSeenTime": "10:24:38 AM",
+    "onlineDurationMins": 67.25115
+  },
+  "tc_team_bot@lichess": {
+    "id": "tc_team_bot",
+    "provider": "lichess",
+    "username": "TC_Team_Bot",
+    "firstSeen": 1628245374013,
+    "lastSeen": 1628246039036,
+    "firstSeenTime": "10:22:54 AM",
+    "lastSeenTime": "10:33:59 AM",
+    "onlineDurationMins": 11.083716666666668
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1628245559636,
+    "lastSeen": 1628246257094,
+    "firstSeenTime": "10:25:59 AM",
+    "lastSeenTime": "10:37:37 AM",
+    "onlineDurationMins": 11.6243
+  },
+  "strongchessengine@lichess": {
+    "id": "strongchessengine",
+    "provider": "lichess",
+    "username": "StrongChessEngine",
+    "firstSeen": 1628246224517,
+    "lastSeen": 1628246368258,
+    "firstSeenTime": "10:37:04 AM",
+    "lastSeenTime": "10:37:28 AM",
+    "onlineDurationMins": 0.3953833333333333
+  },
+  "botvinator@lichess": {
+    "id": "botvinator",
+    "provider": "lichess",
+    "username": "Botvinator",
+    "firstSeen": 1628246280946,
+    "lastSeen": 1628246368464
+  },
+  "butterfly-bot@lichess": {
+    "id": "butterfly-bot",
+    "provider": "lichess",
+    "username": "butterfly-bot",
+    "firstSeen": 1628246368540,
+    "lastSeen": 1628246368540
+  }
+}
