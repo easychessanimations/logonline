@@ -1,0 +1,59 @@
+{
+  "prochessplayerbot25@lichess": {
+    "id": "prochessplayerbot25",
+    "provider": "lichess",
+    "username": "ProChessPlayerBot25",
+    "firstSeen": 1628241155691,
+    "lastSeen": 1628247334043,
+    "firstSeenTime": "9:12:35 AM",
+    "lastSeenTime": "10:55:34 AM",
+    "onlineDurationMins": 102.97253333333333
+  },
+  "tc_team_bot@lichess": {
+    "id": "tc_team_bot",
+    "provider": "lichess",
+    "username": "TC_Team_Bot",
+    "firstSeen": 1628245374013,
+    "lastSeen": 1628247854147,
+    "firstSeenTime": "10:22:54 AM",
+    "lastSeenTime": "10:50:33 AM",
+    "onlineDurationMins": 27.65835
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1628245559636,
+    "lastSeen": 1628247477246,
+    "firstSeenTime": "10:25:59 AM",
+    "lastSeenTime": "10:57:57 AM",
+    "onlineDurationMins": 31.960166666666666
+  },
+  "strongchessengine@lichess": {
+    "id": "strongchessengine",
+    "provider": "lichess",
+    "username": "StrongChessEngine",
+    "firstSeen": 1628246224517,
+    "lastSeen": 1628247727296,
+    "firstSeenTime": "10:37:04 AM",
+    "lastSeenTime": "10:50:51 AM",
+    "onlineDurationMins": 13.78775
+  },
+  "butterfly-bot@lichess": {
+    "id": "butterfly-bot",
+    "provider": "lichess",
+    "username": "butterfly-bot",
+    "firstSeen": 1628246368540,
+    "lastSeen": 1628248026047,
+    "firstSeenTime": "10:39:28 AM",
+    "lastSeenTime": "10:54:54 AM",
+    "onlineDurationMins": 15.440383333333333
+  },
+  "nastmardov@lichess": {
+    "id": "nastmardov",
+    "provider": "lichess",
+    "username": "NastMardov",
+    "firstSeen": 1628247743156,
+    "lastSeen": 1628247756846
+  }
+}
