@@ -1,0 +1,50 @@
+{
+  "superrfastbot@lichess": {
+    "id": "superrfastbot",
+    "provider": "lichess",
+    "username": "SupERrFASTboT",
+    "firstSeen": 1628223339259,
+    "lastSeen": 1628243312432,
+    "firstSeenTime": "4:15:39 AM",
+    "lastSeenTime": "7:48:05 AM",
+    "onlineDurationMins": 212.44365
+  },
+  "the_best_player_bot@lichess": {
+    "id": "the_best_player_bot",
+    "provider": "lichess",
+    "username": "The_Best_Player_Bot",
+    "firstSeen": 1628230410058,
+    "lastSeen": 1628242979930,
+    "firstSeenTime": "6:13:30 AM",
+    "lastSeenTime": "7:43:02 AM",
+    "onlineDurationMins": 89.53691666666667
+  },
+  "prochessplayerbot25@lichess": {
+    "id": "prochessplayerbot25",
+    "provider": "lichess",
+    "username": "ProChessPlayerBot25",
+    "firstSeen": 1628241155691,
+    "lastSeen": 1628243137382
+  },
+  "maia_1@lichess": {
+    "id": "maia_1",
+    "provider": "lichess",
+    "username": "Maia_1",
+    "firstSeen": 1628241418686,
+    "lastSeen": 1628242532110
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628241443531,
+    "lastSeen": 1628242782010
+  },
+  "gucugaca@lichess": {
+    "id": "gucugaca",
+    "provider": "lichess",
+    "username": "Gucugaca",
+    "firstSeen": 1628243122385,
+    "lastSeen": 1628243370899
+  }
+}
