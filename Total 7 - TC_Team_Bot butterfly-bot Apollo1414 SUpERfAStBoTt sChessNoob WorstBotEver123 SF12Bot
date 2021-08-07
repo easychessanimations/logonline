@@ -1,0 +1,69 @@
+{
+  "tc_team_bot@lichess": {
+    "id": "tc_team_bot",
+    "provider": "lichess",
+    "username": "TC_Team_Bot",
+    "firstSeen": 1628324576045,
+    "lastSeen": 1628328704424,
+    "firstSeenTime": "8:22:56 AM",
+    "lastSeenTime": "9:31:14 AM",
+    "onlineDurationMins": 68.30663333333334
+  },
+  "butterfly-bot@lichess": {
+    "id": "butterfly-bot",
+    "provider": "lichess",
+    "username": "butterfly-bot",
+    "firstSeen": 1628324664598,
+    "lastSeen": 1628328080352,
+    "firstSeenTime": "8:24:24 AM",
+    "lastSeenTime": "9:21:20 AM",
+    "onlineDurationMins": 56.929233333333336
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1628325249506,
+    "lastSeen": 1628328251723,
+    "firstSeenTime": "8:34:09 AM",
+    "lastSeenTime": "9:24:11 AM",
+    "onlineDurationMins": 50.03695
+  },
+  "superfastbott@lichess": {
+    "id": "superfastbott",
+    "provider": "lichess",
+    "username": "SUpERfAStBoTt",
+    "firstSeen": 1628326799157,
+    "lastSeen": 1628328111855,
+    "firstSeenTime": "8:59:59 AM",
+    "lastSeenTime": "9:21:51 AM",
+    "onlineDurationMins": 21.8783
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1628327049266,
+    "lastSeen": 1628328692715,
+    "firstSeenTime": "9:04:09 AM",
+    "lastSeenTime": "9:31:32 AM",
+    "onlineDurationMins": 27.390816666666666
+  },
+  "worstbotever123@lichess": {
+    "id": "worstbotever123",
+    "provider": "lichess",
+    "username": "WorstBotEver123",
+    "firstSeen": 1628328421710,
+    "lastSeen": 1628328708557,
+    "firstSeenTime": "9:27:01 AM",
+    "lastSeenTime": "9:27:15 AM",
+    "onlineDurationMins": 0.22478333333333333
+  },
+  "sf12bot@lichess": {
+    "id": "sf12bot",
+    "provider": "lichess",
+    "username": "SF12Bot",
+    "firstSeen": 1628328717337,
+    "lastSeen": 1628328717337
+  }
+}
