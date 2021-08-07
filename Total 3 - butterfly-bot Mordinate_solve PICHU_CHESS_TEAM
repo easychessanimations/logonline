@@ -1,0 +1,23 @@
+{
+  "butterfly-bot@lichess": {
+    "id": "butterfly-bot",
+    "provider": "lichess",
+    "username": "butterfly-bot",
+    "firstSeen": 1628311804225,
+    "lastSeen": 1628315440622
+  },
+  "mordinate_solve@lichess": {
+    "id": "mordinate_solve",
+    "provider": "lichess",
+    "username": "Mordinate_solve",
+    "firstSeen": 1628313828174,
+    "lastSeen": 1628315331798
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628315774471,
+    "lastSeen": 1628315774471
+  }
+}
