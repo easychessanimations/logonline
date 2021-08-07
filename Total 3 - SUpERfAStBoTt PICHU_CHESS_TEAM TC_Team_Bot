@@ -1,0 +1,26 @@
+{
+  "superfastbott@lichess": {
+    "id": "superfastbott",
+    "provider": "lichess",
+    "username": "SUpERfAStBoTt",
+    "firstSeen": 1628320035202,
+    "lastSeen": 1628324271892,
+    "firstSeenTime": "7:07:15 AM",
+    "lastSeenTime": "7:20:09 AM",
+    "onlineDurationMins": 12.904133333333334
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628322878111,
+    "lastSeen": 1628324399697
+  },
+  "tc_team_bot@lichess": {
+    "id": "tc_team_bot",
+    "provider": "lichess",
+    "username": "TC_Team_Bot",
+    "firstSeen": 1628324576045,
+    "lastSeen": 1628324576045
+  }
+}
