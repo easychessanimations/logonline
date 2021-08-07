@@ -1,0 +1,36 @@
+{
+  "butterfly-bot@lichess": {
+    "id": "butterfly-bot",
+    "provider": "lichess",
+    "username": "butterfly-bot",
+    "firstSeen": 1628311804225,
+    "lastSeen": 1628320238612,
+    "firstSeenTime": "4:50:04 AM",
+    "lastSeenTime": "6:54:11 AM",
+    "onlineDurationMins": 124.12445
+  },
+  "superrfastbot@lichess": {
+    "id": "superrfastbot",
+    "provider": "lichess",
+    "username": "SupERrFASTboT",
+    "firstSeen": 1628319334074,
+    "lastSeen": 1628320034745,
+    "firstSeenTime": "6:55:34 AM",
+    "lastSeenTime": "6:56:16 AM",
+    "onlineDurationMins": 0.7096833333333333
+  },
+  "superfastbott@lichess": {
+    "id": "superfastbott",
+    "provider": "lichess",
+    "username": "SUpERfAStBoTt",
+    "firstSeen": 1628320035202,
+    "lastSeen": 1628320809450
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1628320858450,
+    "lastSeen": 1628320858450
+  }
+}
