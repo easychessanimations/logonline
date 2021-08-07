@@ -1,0 +1,29 @@
+{
+  "chess_bot-child@lichess": {
+    "id": "chess_bot-child",
+    "provider": "lichess",
+    "username": "Chess_Bot-Child",
+    "firstSeen": 1628300279890,
+    "lastSeen": 1628306287146,
+    "firstSeenTime": "1:37:59 AM",
+    "lastSeenTime": "2:41:39 AM",
+    "onlineDurationMins": 63.65796666666667
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1628301740658,
+    "lastSeen": 1628306363709,
+    "firstSeenTime": "2:02:20 AM",
+    "lastSeenTime": "2:35:23 AM",
+    "onlineDurationMins": 33.0519
+  },
+  "k8_michaelrb@lichess": {
+    "id": "k8_michaelrb",
+    "provider": "lichess",
+    "username": "k8_MichaelRB",
+    "firstSeen": 1628306376447,
+    "lastSeen": 1628306376447
+  }
+}
