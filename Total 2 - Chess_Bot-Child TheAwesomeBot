@@ -1,0 +1,16 @@
+{
+  "chess_bot-child@lichess": {
+    "id": "chess_bot-child",
+    "provider": "lichess",
+    "username": "Chess_Bot-Child",
+    "firstSeen": 1628300279890,
+    "lastSeen": 1628302059487
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1628301740658,
+    "lastSeen": 1628301740658
+  }
+}
