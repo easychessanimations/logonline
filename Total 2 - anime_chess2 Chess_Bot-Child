@@ -1,0 +1,16 @@
+{
+  "anime_chess2@lichess": {
+    "id": "anime_chess2",
+    "provider": "lichess",
+    "username": "anime_chess2",
+    "firstSeen": 1628291456384,
+    "lastSeen": 1628300036449
+  },
+  "chess_bot-child@lichess": {
+    "id": "chess_bot-child",
+    "provider": "lichess",
+    "username": "Chess_Bot-Child",
+    "firstSeen": 1628300279890,
+    "lastSeen": 1628300328795
+  }
+}
