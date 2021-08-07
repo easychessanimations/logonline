@@ -1,0 +1,59 @@
+{
+  "butterfly-bot@lichess": {
+    "id": "butterfly-bot",
+    "provider": "lichess",
+    "username": "butterfly-bot",
+    "firstSeen": 1628324664598,
+    "lastSeen": 1628332482789,
+    "firstSeenTime": "8:24:24 AM",
+    "lastSeenTime": "10:34:42 AM",
+    "onlineDurationMins": 130.30318333333332
+  },
+  "superfastbott@lichess": {
+    "id": "superfastbott",
+    "provider": "lichess",
+    "username": "SUpERfAStBoTt",
+    "firstSeen": 1628326799157,
+    "lastSeen": 1628332375589,
+    "firstSeenTime": "8:59:59 AM",
+    "lastSeenTime": "10:32:55 AM",
+    "onlineDurationMins": 92.94053333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1628327049266,
+    "lastSeen": 1628332566842,
+    "firstSeenTime": "9:04:09 AM",
+    "lastSeenTime": "10:36:06 AM",
+    "onlineDurationMins": 91.9596
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628330994912,
+    "lastSeen": 1628332505048,
+    "firstSeenTime": "10:09:54 AM",
+    "lastSeenTime": "10:35:05 AM",
+    "onlineDurationMins": 25.16893333333333
+  },
+  "uyangoda@lichess": {
+    "id": "uyangoda",
+    "provider": "lichess",
+    "username": "Uyangoda",
+    "firstSeen": 1628331705702,
+    "lastSeen": 1628331716390,
+    "firstSeenTime": "10:21:45 AM",
+    "lastSeenTime": "10:21:56 AM",
+    "onlineDurationMins": 0.17813333333333334
+  },
+  "sf12bot@lichess": {
+    "id": "sf12bot",
+    "provider": "lichess",
+    "username": "SF12Bot",
+    "firstSeen": 1628332578967,
+    "lastSeen": 1628332578967
+  }
+}
