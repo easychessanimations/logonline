@@ -1,0 +1,67 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628322878111,
+    "lastSeen": 1628326002052,
+    "firstSeenTime": "7:54:38 AM",
+    "lastSeenTime": "8:30:42 AM",
+    "onlineDurationMins": 36.065983333333335
+  },
+  "tc_team_bot@lichess": {
+    "id": "tc_team_bot",
+    "provider": "lichess",
+    "username": "TC_Team_Bot",
+    "firstSeen": 1628324576045,
+    "lastSeen": 1628326680233,
+    "firstSeenTime": "8:22:56 AM",
+    "lastSeenTime": "8:28:26 AM",
+    "onlineDurationMins": 5.512216666666666
+  },
+  "butterfly-bot@lichess": {
+    "id": "butterfly-bot",
+    "provider": "lichess",
+    "username": "butterfly-bot",
+    "firstSeen": 1628324664598,
+    "lastSeen": 1628326774728,
+    "firstSeenTime": "8:24:24 AM",
+    "lastSeenTime": "8:30:42 AM",
+    "onlineDurationMins": 6.293166666666667
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1628325249506,
+    "lastSeen": 1628326788859
+  },
+  "withanage@lichess": {
+    "id": "withanage",
+    "provider": "lichess",
+    "username": "Withanage",
+    "firstSeen": 1628325568163,
+    "lastSeen": 1628326680554
+  },
+  "kanhaparashar@lichess": {
+    "id": "kanhaparashar",
+    "provider": "lichess",
+    "username": "KANHAPARASHAR",
+    "firstSeen": 1628325958407,
+    "lastSeen": 1628326668402
+  },
+  "twitchchessmachine@lichess": {
+    "id": "twitchchessmachine",
+    "provider": "lichess",
+    "username": "TwitchChessMachine",
+    "firstSeen": 1628326044443,
+    "lastSeen": 1628326501099
+  },
+  "superfastbott@lichess": {
+    "id": "superfastbott",
+    "provider": "lichess",
+    "username": "SUpERfAStBoTt",
+    "firstSeen": 1628326799157,
+    "lastSeen": 1628326799157
+  }
+}
