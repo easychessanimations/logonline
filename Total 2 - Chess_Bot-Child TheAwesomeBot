@@ -4,13 +4,19 @@
     "provider": "lichess",
     "username": "Chess_Bot-Child",
     "firstSeen": 1628300279890,
-    "lastSeen": 1628303439370
+    "lastSeen": 1628304787091,
+    "firstSeenTime": "1:37:59 AM",
+    "lastSeenTime": "2:41:39 AM",
+    "onlineDurationMins": 63.65796666666667
   },
   "theawesomebot@lichess": {
     "id": "theawesomebot",
     "provider": "lichess",
     "username": "TheAwesomeBot",
     "firstSeen": 1628301740658,
-    "lastSeen": 1628303060433
+    "lastSeen": 1628305043879,
+    "firstSeenTime": "2:02:20 AM",
+    "lastSeenTime": "2:35:23 AM",
+    "onlineDurationMins": 33.0519
   }
 }
