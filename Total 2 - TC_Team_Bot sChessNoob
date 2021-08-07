@@ -1,0 +1,16 @@
+{
+  "tc_team_bot@lichess": {
+    "id": "tc_team_bot",
+    "provider": "lichess",
+    "username": "TC_Team_Bot",
+    "firstSeen": 1628351417642,
+    "lastSeen": 1628351417642
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1628351716730,
+    "lastSeen": 1628351716730
+  }
+}
