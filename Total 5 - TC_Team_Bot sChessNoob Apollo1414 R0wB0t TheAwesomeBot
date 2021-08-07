@@ -1,0 +1,49 @@
+{
+  "tc_team_bot@lichess": {
+    "id": "tc_team_bot",
+    "provider": "lichess",
+    "username": "TC_Team_Bot",
+    "firstSeen": 1628351417642,
+    "lastSeen": 1628352082422,
+    "firstSeenTime": "3:50:17 PM",
+    "lastSeenTime": "4:01:22 PM",
+    "onlineDurationMins": 11.079666666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1628351716730,
+    "lastSeen": 1628352864231,
+    "firstSeenTime": "3:55:16 PM",
+    "lastSeenTime": "4:14:24 PM",
+    "onlineDurationMins": 19.125016666666667
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1628351926089,
+    "lastSeen": 1628352589327,
+    "firstSeenTime": "3:58:46 PM",
+    "lastSeenTime": "4:09:49 PM",
+    "onlineDurationMins": 11.053966666666666
+  },
+  "r0wb0t@lichess": {
+    "id": "r0wb0t",
+    "provider": "lichess",
+    "username": "R0wB0t",
+    "firstSeen": 1628352431152,
+    "lastSeen": 1628352440099,
+    "firstSeenTime": "4:07:11 PM",
+    "lastSeenTime": "4:07:20 PM",
+    "onlineDurationMins": 0.14911666666666668
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1628352890824,
+    "lastSeen": 1628352890824
+  }
+}
