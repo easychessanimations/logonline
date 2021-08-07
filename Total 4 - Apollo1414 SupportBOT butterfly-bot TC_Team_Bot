@@ -1,0 +1,42 @@
+{
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1628333260479,
+    "lastSeen": 1628345026010,
+    "firstSeenTime": "10:47:40 AM",
+    "lastSeenTime": "1:51:49 PM",
+    "onlineDurationMins": 184.1468
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1628336823907,
+    "lastSeen": 1628344996636,
+    "firstSeenTime": "11:47:03 AM",
+    "lastSeenTime": "1:51:16 PM",
+    "onlineDurationMins": 124.21336666666667
+  },
+  "butterfly-bot@lichess": {
+    "id": "butterfly-bot",
+    "provider": "lichess",
+    "username": "butterfly-bot",
+    "firstSeen": 1628339368526,
+    "lastSeen": 1628344639885,
+    "firstSeenTime": "12:29:28 PM",
+    "lastSeenTime": "1:52:17 PM",
+    "onlineDurationMins": 82.8108
+  },
+  "tc_team_bot@lichess": {
+    "id": "tc_team_bot",
+    "provider": "lichess",
+    "username": "TC_Team_Bot",
+    "firstSeen": 1628343272134,
+    "lastSeen": 1628345290691,
+    "firstSeenTime": "1:34:32 PM",
+    "lastSeenTime": "1:51:44 PM",
+    "onlineDurationMins": 17.2105
+  }
+}
