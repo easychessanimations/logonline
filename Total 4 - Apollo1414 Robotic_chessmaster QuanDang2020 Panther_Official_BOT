@@ -1,0 +1,30 @@
+{
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1628413001881,
+    "lastSeen": 1628414381772
+  },
+  "robotic_chessmaster@lichess": {
+    "id": "robotic_chessmaster",
+    "provider": "lichess",
+    "username": "Robotic_chessmaster",
+    "firstSeen": 1628413087040,
+    "lastSeen": 1628414410739
+  },
+  "66212482@github": {
+    "id": "66212482",
+    "provider": "github",
+    "username": "QuanDang2020",
+    "firstSeen": 1628413112086,
+    "lastSeen": 1628413775584
+  },
+  "panther_official_bot@lichess": {
+    "id": "panther_official_bot",
+    "provider": "lichess",
+    "username": "Panther_Official_BOT",
+    "firstSeen": 1628414528157,
+    "lastSeen": 1628414537978
+  }
+}
