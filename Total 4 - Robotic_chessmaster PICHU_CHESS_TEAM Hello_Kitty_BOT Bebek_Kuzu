@@ -1,0 +1,30 @@
+{
+  "robotic_chessmaster@lichess": {
+    "id": "robotic_chessmaster",
+    "provider": "lichess",
+    "username": "Robotic_chessmaster",
+    "firstSeen": 1628424247367,
+    "lastSeen": 1628424962769
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628424514943,
+    "lastSeen": 1628424721827
+  },
+  "hello_kitty_bot@lichess": {
+    "id": "hello_kitty_bot",
+    "provider": "lichess",
+    "username": "Hello_Kitty_BOT",
+    "firstSeen": 1628424957903,
+    "lastSeen": 1628424969692
+  },
+  "bebek_kuzu@lichess": {
+    "id": "bebek_kuzu",
+    "provider": "lichess",
+    "username": "Bebek_Kuzu",
+    "firstSeen": 1628424989456,
+    "lastSeen": 1628424989456
+  }
+}
