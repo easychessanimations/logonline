@@ -1,0 +1,30 @@
+{
+  "66212482@github": {
+    "id": "66212482",
+    "provider": "github",
+    "username": "QuanDang2020",
+    "firstSeen": 1628371065215,
+    "lastSeen": 1628396732079
+  },
+  "brianytbot@lichess": {
+    "id": "brianytbot",
+    "provider": "lichess",
+    "username": "Brianytbot",
+    "firstSeen": 1628393312896,
+    "lastSeen": 1628396315223
+  },
+  "superrfastbot@lichess": {
+    "id": "superrfastbot",
+    "provider": "lichess",
+    "username": "SupERrFASTboT",
+    "firstSeen": 1628396214961,
+    "lastSeen": 1628396873738
+  },
+  "all_except_chess960@lichess": {
+    "id": "all_except_chess960",
+    "provider": "lichess",
+    "username": "All_Except_Chess960",
+    "firstSeen": 1628397070792,
+    "lastSeen": 1628397070792
+  }
+}
