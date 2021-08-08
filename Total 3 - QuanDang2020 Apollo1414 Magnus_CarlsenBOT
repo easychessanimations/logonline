@@ -1,0 +1,29 @@
+{
+  "66212482@github": {
+    "id": "66212482",
+    "provider": "github",
+    "username": "QuanDang2020",
+    "firstSeen": 1628371065215,
+    "lastSeen": 1628409155650,
+    "firstSeenTime": "9:17:45 PM",
+    "lastSeenTime": "7:30:35 AM",
+    "onlineDurationMins": 612.84335
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1628406798979,
+    "lastSeen": 1628408805044,
+    "firstSeenTime": "7:13:18 AM",
+    "lastSeenTime": "7:35:41 AM",
+    "onlineDurationMins": 22.381383333333332
+  },
+  "magnus_carlsenbot@lichess": {
+    "id": "magnus_carlsenbot",
+    "provider": "lichess",
+    "username": "Magnus_CarlsenBOT",
+    "firstSeen": 1628409305320,
+    "lastSeen": 1628409305321
+  }
+}
