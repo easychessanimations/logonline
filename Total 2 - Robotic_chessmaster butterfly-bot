@@ -1,0 +1,16 @@
+{
+  "robotic_chessmaster@lichess": {
+    "id": "robotic_chessmaster",
+    "provider": "lichess",
+    "username": "Robotic_chessmaster",
+    "firstSeen": 1628413087040,
+    "lastSeen": 1628421007151
+  },
+  "butterfly-bot@lichess": {
+    "id": "butterfly-bot",
+    "provider": "lichess",
+    "username": "butterfly-bot",
+    "firstSeen": 1628421177932,
+    "lastSeen": 1628421177932
+  }
+}
