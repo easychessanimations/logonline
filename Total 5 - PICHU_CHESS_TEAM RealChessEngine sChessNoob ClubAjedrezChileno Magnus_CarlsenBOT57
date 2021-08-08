@@ -1,0 +1,49 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628427639074,
+    "lastSeen": 1628435254265,
+    "firstSeenTime": "1:00:39 PM",
+    "lastSeenTime": "3:07:34 PM",
+    "onlineDurationMins": 126.91985
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1628434099533,
+    "lastSeen": 1628435475649,
+    "firstSeenTime": "2:48:19 PM",
+    "lastSeenTime": "3:02:30 PM",
+    "onlineDurationMins": 14.1829
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1628434482826,
+    "lastSeen": 1628435287490,
+    "firstSeenTime": "2:54:42 PM",
+    "lastSeenTime": "3:08:07 PM",
+    "onlineDurationMins": 13.411066666666667
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1628435078457,
+    "lastSeen": 1628435088548,
+    "firstSeenTime": "3:04:38 PM",
+    "lastSeenTime": "3:04:48 PM",
+    "onlineDurationMins": 0.16818333333333332
+  },
+  "magnus_carlsenbot57@lichess": {
+    "id": "magnus_carlsenbot57",
+    "provider": "lichess",
+    "username": "Magnus_CarlsenBOT57",
+    "firstSeen": 1628435514540,
+    "lastSeen": 1628435514540
+  }
+}
