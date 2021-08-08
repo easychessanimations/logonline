@@ -1,0 +1,23 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628427639074,
+    "lastSeen": 1628430997402
+  },
+  "butterfly-bot@lichess": {
+    "id": "butterfly-bot",
+    "provider": "lichess",
+    "username": "butterfly-bot",
+    "firstSeen": 1628430947387,
+    "lastSeen": 1628431077899
+  },
+  "super_bot1223@lichess": {
+    "id": "super_bot1223",
+    "provider": "lichess",
+    "username": "super_bot1223",
+    "firstSeen": 1628431101714,
+    "lastSeen": 1628431101714
+  }
+}
