@@ -1,0 +1,39 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628427639074,
+    "lastSeen": 1628434954254,
+    "firstSeenTime": "1:00:39 PM",
+    "lastSeenTime": "3:02:34 PM",
+    "onlineDurationMins": 121.91966666666667
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1628434099533,
+    "lastSeen": 1628434950507,
+    "firstSeenTime": "2:48:19 PM",
+    "lastSeenTime": "3:02:30 PM",
+    "onlineDurationMins": 14.1829
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1628434482826,
+    "lastSeen": 1628435071808,
+    "firstSeenTime": "2:54:42 PM",
+    "lastSeenTime": "3:04:31 PM",
+    "onlineDurationMins": 9.816366666666667
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1628435078457,
+    "lastSeen": 1628435078457
+  }
+}
