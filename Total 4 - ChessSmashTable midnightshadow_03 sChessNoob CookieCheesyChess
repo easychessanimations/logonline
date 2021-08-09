@@ -1,0 +1,42 @@
+{
+  "chesssmashtable@lichess": {
+    "id": "chesssmashtable",
+    "provider": "lichess",
+    "username": "ChessSmashTable",
+    "firstSeen": 1628487809151,
+    "lastSeen": 1628496541057,
+    "firstSeenTime": "5:43:29 AM",
+    "lastSeenTime": "8:03:08 AM",
+    "onlineDurationMins": 139.65718333333334
+  },
+  "midnightshadow_03@lichess": {
+    "id": "midnightshadow_03",
+    "provider": "lichess",
+    "username": "midnightshadow_03",
+    "firstSeen": 1628494493926,
+    "lastSeen": 1628496544461,
+    "firstSeenTime": "7:34:53 AM",
+    "lastSeenTime": "7:59:53 AM",
+    "onlineDurationMins": 24.995033333333332
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1628494495273,
+    "lastSeen": 1628496261729,
+    "firstSeenTime": "7:34:55 AM",
+    "lastSeenTime": "8:04:21 AM",
+    "onlineDurationMins": 29.440933333333334
+  },
+  "cookiecheesychess@lichess": {
+    "id": "cookiecheesychess",
+    "provider": "lichess",
+    "username": "CookieCheesyChess",
+    "firstSeen": 1628495892151,
+    "lastSeen": 1628496565881,
+    "firstSeenTime": "7:58:12 AM",
+    "lastSeenTime": "7:59:29 AM",
+    "onlineDurationMins": 1.2861666666666667
+  }
+}
