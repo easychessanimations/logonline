@@ -1,0 +1,39 @@
+{
+  "midnightshadow_03@lichess": {
+    "id": "midnightshadow_03",
+    "provider": "lichess",
+    "username": "midnightshadow_03",
+    "firstSeen": 1628570661834,
+    "lastSeen": 1628576880528,
+    "firstSeenTime": "4:44:21 AM",
+    "lastSeenTime": "6:06:00 AM",
+    "onlineDurationMins": 81.63985
+  },
+  "pgafs_official_bot@lichess": {
+    "id": "pgafs_official_bot",
+    "provider": "lichess",
+    "username": "PGAFs_Official_BOT",
+    "firstSeen": 1628572117362,
+    "lastSeen": 1628577009660,
+    "firstSeenTime": "5:08:37 AM",
+    "lastSeenTime": "6:05:44 AM",
+    "onlineDurationMins": 57.12345
+  },
+  "panther_official_bot@lichess": {
+    "id": "panther_official_bot",
+    "provider": "lichess",
+    "username": "Panther_Official_BOT",
+    "firstSeen": 1628572324218,
+    "lastSeen": 1628576980464,
+    "firstSeenTime": "5:12:04 AM",
+    "lastSeenTime": "6:13:17 AM",
+    "onlineDurationMins": 61.21971666666666
+  },
+  "mrmasterjim_5@lichess": {
+    "id": "mrmasterjim_5",
+    "provider": "lichess",
+    "username": "Mrmasterjim_5",
+    "firstSeen": 1628576625928,
+    "lastSeen": 1628576637523
+  }
+}
