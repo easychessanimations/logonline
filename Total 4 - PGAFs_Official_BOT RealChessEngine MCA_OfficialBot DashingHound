@@ -1,0 +1,33 @@
+{
+  "pgafs_official_bot@lichess": {
+    "id": "pgafs_official_bot",
+    "provider": "lichess",
+    "username": "PGAFs_Official_BOT",
+    "firstSeen": 1628584353082,
+    "lastSeen": 1628596429777,
+    "firstSeenTime": "8:32:33 AM",
+    "lastSeenTime": "10:44:50 AM",
+    "onlineDurationMins": 132.29613333333333
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1628593278178,
+    "lastSeen": 1628596624001
+  },
+  "mca_officialbot@lichess": {
+    "id": "mca_officialbot",
+    "provider": "lichess",
+    "username": "MCA_OfficialBot",
+    "firstSeen": 1628596056565,
+    "lastSeen": 1628596760674
+  },
+  "dashinghound@lichess": {
+    "id": "dashinghound",
+    "provider": "lichess",
+    "username": "DashingHound",
+    "firstSeen": 1628596876468,
+    "lastSeen": 1628596876468
+  }
+}
