@@ -1,0 +1,42 @@
+{
+  "midnightshadow_03@lichess": {
+    "id": "midnightshadow_03",
+    "provider": "lichess",
+    "username": "midnightshadow_03",
+    "firstSeen": 1628570661834,
+    "lastSeen": 1628574780397,
+    "firstSeenTime": "4:44:21 AM",
+    "lastSeenTime": "5:53:00 AM",
+    "onlineDurationMins": 68.64271666666667
+  },
+  "pgafs_official_bot@lichess": {
+    "id": "pgafs_official_bot",
+    "provider": "lichess",
+    "username": "PGAFs_Official_BOT",
+    "firstSeen": 1628572117362,
+    "lastSeen": 1628574890331,
+    "firstSeenTime": "5:08:37 AM",
+    "lastSeenTime": "5:54:50 AM",
+    "onlineDurationMins": 46.21615
+  },
+  "panther_official_bot@lichess": {
+    "id": "panther_official_bot",
+    "provider": "lichess",
+    "username": "Panther_Official_BOT",
+    "firstSeen": 1628572324218,
+    "lastSeen": 1628574987972,
+    "firstSeenTime": "5:12:04 AM",
+    "lastSeenTime": "5:56:27 AM",
+    "onlineDurationMins": 44.3959
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1628573792286,
+    "lastSeen": 1628575034826,
+    "firstSeenTime": "5:36:32 AM",
+    "lastSeenTime": "5:56:43 AM",
+    "onlineDurationMins": 20.193033333333332
+  }
+}
