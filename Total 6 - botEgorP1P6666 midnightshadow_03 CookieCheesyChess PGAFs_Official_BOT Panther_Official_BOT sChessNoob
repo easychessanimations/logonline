@@ -1,0 +1,62 @@
+{
+  "botegorp1p6666@lichess": {
+    "id": "botegorp1p6666",
+    "provider": "lichess",
+    "username": "botEgorP1P6666",
+    "firstSeen": 1628570613437,
+    "lastSeen": 1628573695044,
+    "firstSeenTime": "4:43:33 AM",
+    "lastSeenTime": "5:34:55 AM",
+    "onlineDurationMins": 51.36011666666667
+  },
+  "midnightshadow_03@lichess": {
+    "id": "midnightshadow_03",
+    "provider": "lichess",
+    "username": "midnightshadow_03",
+    "firstSeen": 1628570661834,
+    "lastSeen": 1628573665780,
+    "firstSeenTime": "4:44:21 AM",
+    "lastSeenTime": "5:34:25 AM",
+    "onlineDurationMins": 50.06576666666667
+  },
+  "cookiecheesychess@lichess": {
+    "id": "cookiecheesychess",
+    "provider": "lichess",
+    "username": "CookieCheesyChess",
+    "firstSeen": 1628570703436,
+    "lastSeen": 1628573708767,
+    "firstSeenTime": "4:45:03 AM",
+    "lastSeenTime": "5:35:08 AM",
+    "onlineDurationMins": 50.08885
+  },
+  "pgafs_official_bot@lichess": {
+    "id": "pgafs_official_bot",
+    "provider": "lichess",
+    "username": "PGAFs_Official_BOT",
+    "firstSeen": 1628572117362,
+    "lastSeen": 1628573620619,
+    "firstSeenTime": "5:08:37 AM",
+    "lastSeenTime": "5:33:40 AM",
+    "onlineDurationMins": 25.054283333333334
+  },
+  "panther_official_bot@lichess": {
+    "id": "panther_official_bot",
+    "provider": "lichess",
+    "username": "Panther_Official_BOT",
+    "firstSeen": 1628572324218,
+    "lastSeen": 1628573753449,
+    "firstSeenTime": "5:12:04 AM",
+    "lastSeenTime": "5:35:53 AM",
+    "onlineDurationMins": 23.820516666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1628573792286,
+    "lastSeen": 1628573824816,
+    "firstSeenTime": "5:36:32 AM",
+    "lastSeenTime": "5:36:32 AM",
+    "onlineDurationMins": 0
+  }
+}
