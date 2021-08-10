@@ -4,20 +4,26 @@
     "provider": "lichess",
     "username": "MCA_OfficialBot",
     "firstSeen": 1628599719110,
-    "lastSeen": 1628599722855
+    "lastSeen": 1628601759000,
+    "firstSeenTime": "12:48:39 PM",
+    "lastSeenTime": "1:11:42 PM",
+    "onlineDurationMins": 23.056416666666667
   },
   "pgafs_official_bot@lichess": {
     "id": "pgafs_official_bot",
     "provider": "lichess",
     "username": "PGAFs_Official_BOT",
     "firstSeen": 1628599727229,
-    "lastSeen": 1628599727229
+    "lastSeen": 1628602367277,
+    "firstSeenTime": "12:48:47 PM",
+    "lastSeenTime": "1:10:47 PM",
+    "onlineDurationMins": 22.0028
   },
   "realchessengine@lichess": {
     "id": "realchessengine",
     "provider": "lichess",
     "username": "RealChessEngine",
-    "firstSeen": 1628599921231,
-    "lastSeen": 1628599921232
+    "firstSeen": 1628601558348,
+    "lastSeen": 1628602204796
   }
 }
