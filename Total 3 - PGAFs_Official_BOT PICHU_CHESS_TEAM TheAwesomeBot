@@ -1,0 +1,26 @@
+{
+  "pgafs_official_bot@lichess": {
+    "id": "pgafs_official_bot",
+    "provider": "lichess",
+    "username": "PGAFs_Official_BOT",
+    "firstSeen": 1628599727229,
+    "lastSeen": 1628608437957,
+    "firstSeenTime": "12:48:47 PM",
+    "lastSeenTime": "1:10:47 PM",
+    "onlineDurationMins": 22.0028
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628605036600,
+    "lastSeen": 1628608465952
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1628606070465,
+    "lastSeen": 1628608470410
+  }
+}
