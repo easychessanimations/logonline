@@ -1,0 +1,16 @@
+{
+  "mca_officialbot@lichess": {
+    "id": "mca_officialbot",
+    "provider": "lichess",
+    "username": "MCA_OfficialBot",
+    "firstSeen": 1628599719110,
+    "lastSeen": 1628599722855
+  },
+  "pgafs_official_bot@lichess": {
+    "id": "pgafs_official_bot",
+    "provider": "lichess",
+    "username": "PGAFs_Official_BOT",
+    "firstSeen": 1628599727229,
+    "lastSeen": 1628599727229
+  }
+}
