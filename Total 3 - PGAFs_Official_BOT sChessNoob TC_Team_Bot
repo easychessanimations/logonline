@@ -1,0 +1,29 @@
+{
+  "pgafs_official_bot@lichess": {
+    "id": "pgafs_official_bot",
+    "provider": "lichess",
+    "username": "PGAFs_Official_BOT",
+    "firstSeen": 1628584353082,
+    "lastSeen": 1628592947235,
+    "firstSeenTime": "8:32:33 AM",
+    "lastSeenTime": "10:44:50 AM",
+    "onlineDurationMins": 132.29613333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1628591228129,
+    "lastSeen": 1628592839192,
+    "firstSeenTime": "10:27:08 AM",
+    "lastSeenTime": "10:53:59 AM",
+    "onlineDurationMins": 26.85105
+  },
+  "tc_team_bot@lichess": {
+    "id": "tc_team_bot",
+    "provider": "lichess",
+    "username": "TC_Team_Bot",
+    "firstSeen": 1628592847419,
+    "lastSeen": 1628593175690
+  }
+}
