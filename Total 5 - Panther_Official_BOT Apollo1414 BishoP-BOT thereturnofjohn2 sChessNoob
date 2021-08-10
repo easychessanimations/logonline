@@ -1,0 +1,52 @@
+{
+  "panther_official_bot@lichess": {
+    "id": "panther_official_bot",
+    "provider": "lichess",
+    "username": "Panther_Official_BOT",
+    "firstSeen": 1628572324218,
+    "lastSeen": 1628584293906,
+    "firstSeenTime": "5:12:04 AM",
+    "lastSeenTime": "8:30:17 AM",
+    "onlineDurationMins": 198.2265
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1628580843879,
+    "lastSeen": 1628584299583,
+    "firstSeenTime": "7:34:03 AM",
+    "lastSeenTime": "8:24:05 AM",
+    "onlineDurationMins": 50.027316666666664
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1628582699935,
+    "lastSeen": 1628584204008,
+    "firstSeenTime": "8:04:59 AM",
+    "lastSeenTime": "8:30:04 AM",
+    "onlineDurationMins": 25.067883333333334
+  },
+  "thereturnofjohn2@lichess": {
+    "id": "thereturnofjohn2",
+    "provider": "lichess",
+    "username": "thereturnofjohn2",
+    "firstSeen": 1628583610049,
+    "lastSeen": 1628583711702,
+    "firstSeenTime": "8:20:10 AM",
+    "lastSeenTime": "8:21:51 AM",
+    "onlineDurationMins": 1.6942166666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1628583743994,
+    "lastSeen": 1628584274380,
+    "firstSeenTime": "8:22:23 AM",
+    "lastSeenTime": "8:31:14 AM",
+    "onlineDurationMins": 8.839766666666666
+  }
+}
