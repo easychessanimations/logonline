@@ -1,0 +1,49 @@
+{
+  "midnightshadow_03@lichess": {
+    "id": "midnightshadow_03",
+    "provider": "lichess",
+    "username": "midnightshadow_03",
+    "firstSeen": 1628570661834,
+    "lastSeen": 1628575167865,
+    "firstSeenTime": "4:44:21 AM",
+    "lastSeenTime": "5:59:27 AM",
+    "onlineDurationMins": 75.10051666666666
+  },
+  "pgafs_official_bot@lichess": {
+    "id": "pgafs_official_bot",
+    "provider": "lichess",
+    "username": "PGAFs_Official_BOT",
+    "firstSeen": 1628572117362,
+    "lastSeen": 1628575120002,
+    "firstSeenTime": "5:08:37 AM",
+    "lastSeenTime": "5:58:40 AM",
+    "onlineDurationMins": 50.044
+  },
+  "panther_official_bot@lichess": {
+    "id": "panther_official_bot",
+    "provider": "lichess",
+    "username": "Panther_Official_BOT",
+    "firstSeen": 1628572324218,
+    "lastSeen": 1628574987972,
+    "firstSeenTime": "5:12:04 AM",
+    "lastSeenTime": "5:56:27 AM",
+    "onlineDurationMins": 44.3959
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1628573792286,
+    "lastSeen": 1628575189880,
+    "firstSeenTime": "5:36:32 AM",
+    "lastSeenTime": "5:59:49 AM",
+    "onlineDurationMins": 23.293233333333333
+  },
+  "gammalambda@lichess": {
+    "id": "gammalambda",
+    "provider": "lichess",
+    "username": "GammalambdA",
+    "firstSeen": 1628575464387,
+    "lastSeen": 1628575464387
+  }
+}
