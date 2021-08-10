@@ -1,0 +1,50 @@
+{
+  "midnightshadow_03@lichess": {
+    "id": "midnightshadow_03",
+    "provider": "lichess",
+    "username": "midnightshadow_03",
+    "firstSeen": 1628570661834,
+    "lastSeen": 1628582877458,
+    "firstSeenTime": "4:44:21 AM",
+    "lastSeenTime": "6:06:00 AM",
+    "onlineDurationMins": 81.63985
+  },
+  "panther_official_bot@lichess": {
+    "id": "panther_official_bot",
+    "provider": "lichess",
+    "username": "Panther_Official_BOT",
+    "firstSeen": 1628572324218,
+    "lastSeen": 1628582487420,
+    "firstSeenTime": "5:12:04 AM",
+    "lastSeenTime": "6:13:17 AM",
+    "onlineDurationMins": 61.21971666666666
+  },
+  "strongchessengine@lichess": {
+    "id": "strongchessengine",
+    "provider": "lichess",
+    "username": "StrongChessEngine",
+    "firstSeen": 1628579099119,
+    "lastSeen": 1628582477616
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1628580843879,
+    "lastSeen": 1628582856356
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1628582699935,
+    "lastSeen": 1628582869518
+  },
+  "mrmasterjim_5@lichess": {
+    "id": "mrmasterjim_5",
+    "provider": "lichess",
+    "username": "Mrmasterjim_5",
+    "firstSeen": 1628582917501,
+    "lastSeen": 1628582917501
+  }
+}
