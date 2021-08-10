@@ -1,0 +1,40 @@
+{
+  "pgafs_official_bot@lichess": {
+    "id": "pgafs_official_bot",
+    "provider": "lichess",
+    "username": "PGAFs_Official_BOT",
+    "firstSeen": 1628599727229,
+    "lastSeen": 1628607536664,
+    "firstSeenTime": "12:48:47 PM",
+    "lastSeenTime": "1:10:47 PM",
+    "onlineDurationMins": 22.0028
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1628603840025,
+    "lastSeen": 1628607379388
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628605036600,
+    "lastSeen": 1628607385963
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1628606070465,
+    "lastSeen": 1628607390405
+  },
+  "all_day_tabletennis@lichess": {
+    "id": "all_day_tabletennis",
+    "provider": "lichess",
+    "username": "All_Day_TableTennis",
+    "firstSeen": 1628607537389,
+    "lastSeen": 1628607537389
+  }
+}
