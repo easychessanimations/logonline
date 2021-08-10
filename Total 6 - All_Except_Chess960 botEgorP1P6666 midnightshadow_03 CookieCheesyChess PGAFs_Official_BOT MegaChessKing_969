@@ -1,0 +1,44 @@
+{
+  "all_except_chess960@lichess": {
+    "id": "all_except_chess960",
+    "provider": "lichess",
+    "username": "All_Except_Chess960",
+    "firstSeen": 1628568459901,
+    "lastSeen": 1628572193937
+  },
+  "botegorp1p6666@lichess": {
+    "id": "botegorp1p6666",
+    "provider": "lichess",
+    "username": "botEgorP1P6666",
+    "firstSeen": 1628570613437,
+    "lastSeen": 1628572194897
+  },
+  "midnightshadow_03@lichess": {
+    "id": "midnightshadow_03",
+    "provider": "lichess",
+    "username": "midnightshadow_03",
+    "firstSeen": 1628570661834,
+    "lastSeen": 1628572048936
+  },
+  "cookiecheesychess@lichess": {
+    "id": "cookiecheesychess",
+    "provider": "lichess",
+    "username": "CookieCheesyChess",
+    "firstSeen": 1628570703436,
+    "lastSeen": 1628572079924
+  },
+  "pgafs_official_bot@lichess": {
+    "id": "pgafs_official_bot",
+    "provider": "lichess",
+    "username": "PGAFs_Official_BOT",
+    "firstSeen": 1628572117362,
+    "lastSeen": 1628572127131
+  },
+  "megachessking_969@lichess": {
+    "id": "megachessking_969",
+    "provider": "lichess",
+    "username": "MegaChessKing_969",
+    "firstSeen": 1628572242223,
+    "lastSeen": 1628572242223
+  }
+}
