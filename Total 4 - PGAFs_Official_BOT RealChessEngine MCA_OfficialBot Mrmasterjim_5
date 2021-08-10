@@ -1,0 +1,33 @@
+{
+  "pgafs_official_bot@lichess": {
+    "id": "pgafs_official_bot",
+    "provider": "lichess",
+    "username": "PGAFs_Official_BOT",
+    "firstSeen": 1628584353082,
+    "lastSeen": 1628598407278,
+    "firstSeenTime": "8:32:33 AM",
+    "lastSeenTime": "10:44:50 AM",
+    "onlineDurationMins": 132.29613333333333
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1628593278178,
+    "lastSeen": 1628598565318
+  },
+  "mca_officialbot@lichess": {
+    "id": "mca_officialbot",
+    "provider": "lichess",
+    "username": "MCA_OfficialBot",
+    "firstSeen": 1628596056565,
+    "lastSeen": 1628598402414
+  },
+  "mrmasterjim_5@lichess": {
+    "id": "mrmasterjim_5",
+    "provider": "lichess",
+    "username": "Mrmasterjim_5",
+    "firstSeen": 1628598753221,
+    "lastSeen": 1628598772683
+  }
+}
