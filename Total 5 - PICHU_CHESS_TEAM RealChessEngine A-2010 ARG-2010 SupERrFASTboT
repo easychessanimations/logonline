@@ -1,0 +1,37 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628674390256,
+    "lastSeen": 1628676385174
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1628675268712,
+    "lastSeen": 1628676773750
+  },
+  "a-2010@lichess": {
+    "id": "a-2010",
+    "provider": "lichess",
+    "username": "A-2010",
+    "firstSeen": 1628675652895,
+    "lastSeen": 1628676215597
+  },
+  "arg-2010@lichess": {
+    "id": "arg-2010",
+    "provider": "lichess",
+    "username": "ARG-2010",
+    "firstSeen": 1628676216126,
+    "lastSeen": 1628676265960
+  },
+  "superrfastbot@lichess": {
+    "id": "superrfastbot",
+    "provider": "lichess",
+    "username": "SupERrFASTboT",
+    "firstSeen": 1628676668819,
+    "lastSeen": 1628676714313
+  }
+}
