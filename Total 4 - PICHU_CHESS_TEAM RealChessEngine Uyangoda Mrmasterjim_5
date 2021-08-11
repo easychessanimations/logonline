@@ -1,0 +1,30 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628674390256,
+    "lastSeen": 1628679685529
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1628675268712,
+    "lastSeen": 1628679773949
+  },
+  "uyangoda@lichess": {
+    "id": "uyangoda",
+    "provider": "lichess",
+    "username": "Uyangoda",
+    "firstSeen": 1628678360821,
+    "lastSeen": 1628679642549
+  },
+  "mrmasterjim_5@lichess": {
+    "id": "mrmasterjim_5",
+    "provider": "lichess",
+    "username": "Mrmasterjim_5",
+    "firstSeen": 1628680019175,
+    "lastSeen": 1628680019175
+  }
+}
