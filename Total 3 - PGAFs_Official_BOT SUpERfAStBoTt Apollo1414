@@ -1,0 +1,26 @@
+{
+  "pgafs_official_bot@lichess": {
+    "id": "pgafs_official_bot",
+    "provider": "lichess",
+    "username": "PGAFs_Official_BOT",
+    "firstSeen": 1628660797641,
+    "lastSeen": 1628667860291,
+    "firstSeenTime": "5:46:37 AM",
+    "lastSeenTime": "6:46:18 AM",
+    "onlineDurationMins": 59.68803333333334
+  },
+  "superfastbott@lichess": {
+    "id": "superfastbott",
+    "provider": "lichess",
+    "username": "SUpERfAStBoTt",
+    "firstSeen": 1628666884941,
+    "lastSeen": 1628667612400
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1628668204577,
+    "lastSeen": 1628668204577
+  }
+}
