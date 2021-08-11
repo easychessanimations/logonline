@@ -1,0 +1,26 @@
+{
+  "r0wb0t@lichess": {
+    "id": "r0wb0t",
+    "provider": "lichess",
+    "username": "R0wB0t",
+    "firstSeen": 1628692737937,
+    "lastSeen": 1628711465597,
+    "firstSeenTime": "2:38:57 PM",
+    "lastSeenTime": "5:34:06 PM",
+    "onlineDurationMins": 175.13893333333334
+  },
+  "burn-bot@lichess": {
+    "id": "burn-bot",
+    "provider": "lichess",
+    "username": "BURN-BOT",
+    "firstSeen": 1628710573693,
+    "lastSeen": 1628710740304
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1628711117545,
+    "lastSeen": 1628711223467
+  }
+}
