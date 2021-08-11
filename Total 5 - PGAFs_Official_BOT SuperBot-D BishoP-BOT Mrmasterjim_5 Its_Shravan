@@ -1,0 +1,43 @@
+{
+  "pgafs_official_bot@lichess": {
+    "id": "pgafs_official_bot",
+    "provider": "lichess",
+    "username": "PGAFs_Official_BOT",
+    "firstSeen": 1628660797641,
+    "lastSeen": 1628666540222,
+    "firstSeenTime": "5:46:37 AM",
+    "lastSeenTime": "6:46:18 AM",
+    "onlineDurationMins": 59.68803333333334
+  },
+  "superbot-d@lichess": {
+    "id": "superbot-d",
+    "provider": "lichess",
+    "username": "SuperBot-D",
+    "firstSeen": 1628661226273,
+    "lastSeen": 1628665967627,
+    "firstSeenTime": "5:53:46 AM",
+    "lastSeenTime": "6:43:49 AM",
+    "onlineDurationMins": 50.055083333333336
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1628664966949,
+    "lastSeen": 1628666472774
+  },
+  "mrmasterjim_5@lichess": {
+    "id": "mrmasterjim_5",
+    "provider": "lichess",
+    "username": "Mrmasterjim_5",
+    "firstSeen": 1628666222809,
+    "lastSeen": 1628666238225
+  },
+  "its_shravan@lichess": {
+    "id": "its_shravan",
+    "provider": "lichess",
+    "username": "Its_Shravan",
+    "firstSeen": 1628666653847,
+    "lastSeen": 1628666653847
+  }
+}
