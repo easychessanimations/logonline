@@ -1,0 +1,23 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1628675268712,
+    "lastSeen": 1628682302506
+  },
+  "superrfastbot@lichess": {
+    "id": "superrfastbot",
+    "provider": "lichess",
+    "username": "SupERrFASTboT",
+    "firstSeen": 1628681950303,
+    "lastSeen": 1628682600751
+  },
+  "amarya@lichess": {
+    "id": "amarya",
+    "provider": "lichess",
+    "username": "Amarya",
+    "firstSeen": 1628682626653,
+    "lastSeen": 1628682626653
+  }
+}
