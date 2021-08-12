@@ -1,0 +1,23 @@
+{
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1628790254966,
+    "lastSeen": 1628795118794
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1628793575637,
+    "lastSeen": 1628795176815
+  },
+  "bot_man2500@lichess": {
+    "id": "bot_man2500",
+    "provider": "lichess",
+    "username": "Bot_Man2500",
+    "firstSeen": 1628795188816,
+    "lastSeen": 1628795188816
+  }
+}
