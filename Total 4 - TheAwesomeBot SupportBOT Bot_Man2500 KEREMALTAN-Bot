@@ -1,0 +1,30 @@
+{
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1628790254966,
+    "lastSeen": 1628795838426
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1628793575637,
+    "lastSeen": 1628795663879
+  },
+  "bot_man2500@lichess": {
+    "id": "bot_man2500",
+    "provider": "lichess",
+    "username": "Bot_Man2500",
+    "firstSeen": 1628795188816,
+    "lastSeen": 1628795886438
+  },
+  "keremaltan-bot@lichess": {
+    "id": "keremaltan-bot",
+    "provider": "lichess",
+    "username": "KEREMALTAN-Bot",
+    "firstSeen": 1628795886760,
+    "lastSeen": 1628795886761
+  }
+}
