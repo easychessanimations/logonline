@@ -1,0 +1,23 @@
+{
+  "execruns@lichess": {
+    "id": "execruns",
+    "provider": "lichess",
+    "username": "execruns",
+    "firstSeen": 1628808010427,
+    "lastSeen": 1628808689291
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1628808608366,
+    "lastSeen": 1628809229991
+  },
+  "los-guerreros1@lichess": {
+    "id": "los-guerreros1",
+    "provider": "lichess",
+    "username": "Los-Guerreros1",
+    "firstSeen": 1628809345485,
+    "lastSeen": 1628809345485
+  }
+}
