@@ -1,0 +1,37 @@
+{
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1628793575637,
+    "lastSeen": 1628798360398
+  },
+  "stockfish_bot1@lichess": {
+    "id": "stockfish_bot1",
+    "provider": "lichess",
+    "username": "Stockfish_Bot1",
+    "firstSeen": 1628796135229,
+    "lastSeen": 1628797641280
+  },
+  "the_good_bot2@lichess": {
+    "id": "the_good_bot2",
+    "provider": "lichess",
+    "username": "The_Good_Bot2",
+    "firstSeen": 1628796886127,
+    "lastSeen": 1628797933110
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1628797514583,
+    "lastSeen": 1628798174551
+  },
+  "bot_hesap@lichess": {
+    "id": "bot_hesap",
+    "provider": "lichess",
+    "username": "Bot_Hesap",
+    "firstSeen": 1628797933485,
+    "lastSeen": 1628797943186
+  }
+}
