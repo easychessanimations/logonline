@@ -1,0 +1,23 @@
+{
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1628793575637,
+    "lastSeen": 1628798360398
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1628797514583,
+    "lastSeen": 1628798837957
+  },
+  "marcosbottrynum34@lichess": {
+    "id": "marcosbottrynum34",
+    "provider": "lichess",
+    "username": "MarcosBotTryNum34",
+    "firstSeen": 1628798466729,
+    "lastSeen": 1628798836440
+  }
+}
