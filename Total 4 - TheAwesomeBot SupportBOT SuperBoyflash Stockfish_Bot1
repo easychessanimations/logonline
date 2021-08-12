@@ -1,0 +1,30 @@
+{
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1628790254966,
+    "lastSeen": 1628796494625
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1628793575637,
+    "lastSeen": 1628796676879
+  },
+  "superboyflash@lichess": {
+    "id": "superboyflash",
+    "provider": "lichess",
+    "username": "SuperBoyflash",
+    "firstSeen": 1628796073916,
+    "lastSeen": 1628796811719
+  },
+  "stockfish_bot1@lichess": {
+    "id": "stockfish_bot1",
+    "provider": "lichess",
+    "username": "Stockfish_Bot1",
+    "firstSeen": 1628796135229,
+    "lastSeen": 1628796638463
+  }
+}
