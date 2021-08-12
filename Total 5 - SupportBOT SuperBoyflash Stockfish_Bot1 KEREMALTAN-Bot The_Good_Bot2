@@ -1,0 +1,37 @@
+{
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1628793575637,
+    "lastSeen": 1628796980658
+  },
+  "superboyflash@lichess": {
+    "id": "superboyflash",
+    "provider": "lichess",
+    "username": "SuperBoyflash",
+    "firstSeen": 1628796073916,
+    "lastSeen": 1628797437664
+  },
+  "stockfish_bot1@lichess": {
+    "id": "stockfish_bot1",
+    "provider": "lichess",
+    "username": "Stockfish_Bot1",
+    "firstSeen": 1628796135229,
+    "lastSeen": 1628797092852
+  },
+  "keremaltan-bot@lichess": {
+    "id": "keremaltan-bot",
+    "provider": "lichess",
+    "username": "KEREMALTAN-Bot",
+    "firstSeen": 1628796812025,
+    "lastSeen": 1628796885804
+  },
+  "the_good_bot2@lichess": {
+    "id": "the_good_bot2",
+    "provider": "lichess",
+    "username": "The_Good_Bot2",
+    "firstSeen": 1628796886127,
+    "lastSeen": 1628797064202
+  }
+}
