@@ -1,0 +1,49 @@
+{
+  "chess-uaredeadqueen@lichess": {
+    "id": "chess-uaredeadqueen",
+    "provider": "lichess",
+    "username": "chess-uaredeadqueen",
+    "firstSeen": 1628736971460,
+    "lastSeen": 1628740967589,
+    "firstSeenTime": "2:56:11 AM",
+    "lastSeenTime": "4:02:47 AM",
+    "onlineDurationMins": 66.60215
+  },
+  "rudransh8055@lichess": {
+    "id": "rudransh8055",
+    "provider": "lichess",
+    "username": "rudransh8055",
+    "firstSeen": 1628739913338,
+    "lastSeen": 1628740914842,
+    "firstSeenTime": "3:45:13 AM",
+    "lastSeenTime": "4:01:54 AM",
+    "onlineDurationMins": 16.69173333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1628739989342,
+    "lastSeen": 1628740980951,
+    "firstSeenTime": "3:46:29 AM",
+    "lastSeenTime": "4:03:00 AM",
+    "onlineDurationMins": 16.526816666666665
+  },
+  "chess_bot-child@lichess": {
+    "id": "chess_bot-child",
+    "provider": "lichess",
+    "username": "Chess_Bot-Child",
+    "firstSeen": 1628740201821,
+    "lastSeen": 1628741307191,
+    "firstSeenTime": "3:50:01 AM",
+    "lastSeenTime": "4:01:43 AM",
+    "onlineDurationMins": 11.701866666666668
+  },
+  "testbot-run@lichess": {
+    "id": "testbot-run",
+    "provider": "lichess",
+    "username": "TestBot-Run",
+    "firstSeen": 1628741318876,
+    "lastSeen": 1628741318876
+  }
+}
