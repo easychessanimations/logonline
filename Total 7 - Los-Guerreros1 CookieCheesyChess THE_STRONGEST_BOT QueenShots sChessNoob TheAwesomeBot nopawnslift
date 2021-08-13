@@ -1,0 +1,66 @@
+{
+  "los-guerreros1@lichess": {
+    "id": "los-guerreros1",
+    "provider": "lichess",
+    "username": "Los-Guerreros1",
+    "firstSeen": 1628809345485,
+    "lastSeen": 1628825813542,
+    "firstSeenTime": "11:02:25 PM",
+    "lastSeenTime": "3:36:53 AM",
+    "onlineDurationMins": 274.4676166666667
+  },
+  "cookiecheesychess@lichess": {
+    "id": "cookiecheesychess",
+    "provider": "lichess",
+    "username": "CookieCheesyChess",
+    "firstSeen": 1628823033666,
+    "lastSeen": 1628826464314,
+    "firstSeenTime": "2:50:33 AM",
+    "lastSeenTime": "3:40:38 AM",
+    "onlineDurationMins": 50.08773333333333
+  },
+  "the_strongest_bot@lichess": {
+    "id": "the_strongest_bot",
+    "provider": "lichess",
+    "username": "THE_STRONGEST_BOT",
+    "firstSeen": 1628823685298,
+    "lastSeen": 1628826140049,
+    "firstSeenTime": "3:01:25 AM",
+    "lastSeenTime": "3:42:20 AM",
+    "onlineDurationMins": 40.91251666666667
+  },
+  "queenshots@lichess": {
+    "id": "queenshots",
+    "provider": "lichess",
+    "username": "QueenShots",
+    "firstSeen": 1628825234166,
+    "lastSeen": 1628825910438,
+    "firstSeenTime": "3:27:14 AM",
+    "lastSeenTime": "3:38:30 AM",
+    "onlineDurationMins": 11.2712
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1628826232654,
+    "lastSeen": 1628826233306,
+    "firstSeenTime": "3:43:52 AM",
+    "lastSeenTime": "3:43:52 AM",
+    "onlineDurationMins": 0
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1628826324551,
+    "lastSeen": 1628826324551
+  },
+  "nopawnslift@lichess": {
+    "id": "nopawnslift",
+    "provider": "lichess",
+    "username": "nopawnslift",
+    "firstSeen": 1628826537628,
+    "lastSeen": 1628826537628
+  }
+}
