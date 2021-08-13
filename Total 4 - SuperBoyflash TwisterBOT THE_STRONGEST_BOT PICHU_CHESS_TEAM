@@ -1,0 +1,30 @@
+{
+  "superboyflash@lichess": {
+    "id": "superboyflash",
+    "provider": "lichess",
+    "username": "SuperBoyflash",
+    "firstSeen": 1628857575974,
+    "lastSeen": 1628857576403
+  },
+  "twisterbot@lichess": {
+    "id": "twisterbot",
+    "provider": "lichess",
+    "username": "TwisterBOT",
+    "firstSeen": 1628857582148,
+    "lastSeen": 1628857582148
+  },
+  "the_strongest_bot@lichess": {
+    "id": "the_strongest_bot",
+    "provider": "lichess",
+    "username": "THE_STRONGEST_BOT",
+    "firstSeen": 1628857587688,
+    "lastSeen": 1628857588037
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1628857638427,
+    "lastSeen": 1628857638427
+  }
+}
