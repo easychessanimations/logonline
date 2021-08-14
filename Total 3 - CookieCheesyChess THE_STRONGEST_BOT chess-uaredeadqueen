@@ -1,0 +1,26 @@
+{
+  "cookiecheesychess@lichess": {
+    "id": "cookiecheesychess",
+    "provider": "lichess",
+    "username": "CookieCheesyChess",
+    "firstSeen": 1628907399164,
+    "lastSeen": 1628916291160,
+    "firstSeenTime": "2:16:39 AM",
+    "lastSeenTime": "3:12:45 AM",
+    "onlineDurationMins": 56.104283333333335
+  },
+  "the_strongest_bot@lichess": {
+    "id": "the_strongest_bot",
+    "provider": "lichess",
+    "username": "THE_STRONGEST_BOT",
+    "firstSeen": 1628913788622,
+    "lastSeen": 1628915774502
+  },
+  "chess-uaredeadqueen@lichess": {
+    "id": "chess-uaredeadqueen",
+    "provider": "lichess",
+    "username": "chess-uaredeadqueen",
+    "firstSeen": 1628916391148,
+    "lastSeen": 1628916391148
+  }
+}
