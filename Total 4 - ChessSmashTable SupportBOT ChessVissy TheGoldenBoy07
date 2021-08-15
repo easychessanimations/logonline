@@ -1,0 +1,39 @@
+{
+  "chesssmashtable@lichess": {
+    "id": "chesssmashtable",
+    "provider": "lichess",
+    "username": "ChessSmashTable",
+    "firstSeen": 1629039959106,
+    "lastSeen": 1629042030276,
+    "firstSeenTime": "3:05:59 PM",
+    "lastSeenTime": "3:18:42 PM",
+    "onlineDurationMins": 12.719733333333334
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1629040354581,
+    "lastSeen": 1629041750219,
+    "firstSeenTime": "3:12:34 PM",
+    "lastSeenTime": "3:23:50 PM",
+    "onlineDurationMins": 11.259583333333333
+  },
+  "chessvissy@lichess": {
+    "id": "chessvissy",
+    "provider": "lichess",
+    "username": "ChessVissy",
+    "firstSeen": 1629040726963,
+    "lastSeen": 1629041553202,
+    "firstSeenTime": "3:18:46 PM",
+    "lastSeenTime": "3:23:03 PM",
+    "onlineDurationMins": 4.276483333333333
+  },
+  "thegoldenboy07@lichess": {
+    "id": "thegoldenboy07",
+    "provider": "lichess",
+    "username": "TheGoldenBoy07",
+    "firstSeen": 1629041910597,
+    "lastSeen": 1629041936537
+  }
+}
