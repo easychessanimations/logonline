@@ -1,0 +1,49 @@
+{
+  "chesssmashtable@lichess": {
+    "id": "chesssmashtable",
+    "provider": "lichess",
+    "username": "ChessSmashTable",
+    "firstSeen": 1629039959106,
+    "lastSeen": 1629041249767,
+    "firstSeenTime": "3:05:59 PM",
+    "lastSeenTime": "3:18:42 PM",
+    "onlineDurationMins": 12.719733333333334
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1629040354581,
+    "lastSeen": 1629041093672,
+    "firstSeenTime": "3:12:34 PM",
+    "lastSeenTime": "3:23:50 PM",
+    "onlineDurationMins": 11.259583333333333
+  },
+  "chessvissy@lichess": {
+    "id": "chessvissy",
+    "provider": "lichess",
+    "username": "ChessVissy",
+    "firstSeen": 1629040726963,
+    "lastSeen": 1629041177067,
+    "firstSeenTime": "3:18:46 PM",
+    "lastSeenTime": "3:23:03 PM",
+    "onlineDurationMins": 4.276483333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1629040868744,
+    "lastSeen": 1629041040336,
+    "firstSeenTime": "3:21:08 PM",
+    "lastSeenTime": "3:24:00 PM",
+    "onlineDurationMins": 2.8598666666666666
+  },
+  "super_vision75@lichess": {
+    "id": "super_vision75",
+    "provider": "lichess",
+    "username": "SuPeR_ViSiOn75",
+    "firstSeen": 1629041280725,
+    "lastSeen": 1629041334394
+  }
+}
