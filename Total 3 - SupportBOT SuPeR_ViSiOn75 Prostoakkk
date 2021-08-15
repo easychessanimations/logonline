@@ -1,0 +1,26 @@
+{
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1629023031461,
+    "lastSeen": 1629027050093,
+    "firstSeenTime": "10:23:51 AM",
+    "lastSeenTime": "10:25:50 AM",
+    "onlineDurationMins": 1.9870833333333333
+  },
+  "super_vision75@lichess": {
+    "id": "super_vision75",
+    "provider": "lichess",
+    "username": "SuPeR_ViSiOn75",
+    "firstSeen": 1629026233369,
+    "lastSeen": 1629026254952
+  },
+  "prostoakkk@lichess": {
+    "id": "prostoakkk",
+    "provider": "lichess",
+    "username": "Prostoakkk",
+    "firstSeen": 1629027000443,
+    "lastSeen": 1629027005234
+  }
+}
