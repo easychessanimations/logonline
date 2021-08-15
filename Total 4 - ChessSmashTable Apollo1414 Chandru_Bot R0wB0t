@@ -1,0 +1,36 @@
+{
+  "chesssmashtable@lichess": {
+    "id": "chesssmashtable",
+    "provider": "lichess",
+    "username": "ChessSmashTable",
+    "firstSeen": 1629039959106,
+    "lastSeen": 1629043351024,
+    "firstSeenTime": "3:05:59 PM",
+    "lastSeenTime": "3:51:27 PM",
+    "onlineDurationMins": 45.47345
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1629042645210,
+    "lastSeen": 1629043365162,
+    "firstSeenTime": "3:50:45 PM",
+    "lastSeenTime": "3:50:45 PM",
+    "onlineDurationMins": 0
+  },
+  "chandru_bot@lichess": {
+    "id": "chandru_bot",
+    "provider": "lichess",
+    "username": "Chandru_Bot",
+    "firstSeen": 1629042842878,
+    "lastSeen": 1629042940803
+  },
+  "r0wb0t@lichess": {
+    "id": "r0wb0t",
+    "provider": "lichess",
+    "username": "R0wB0t",
+    "firstSeen": 1629043803144,
+    "lastSeen": 1629043803144
+  }
+}
