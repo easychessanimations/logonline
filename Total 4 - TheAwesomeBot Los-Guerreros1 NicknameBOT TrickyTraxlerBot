@@ -1,0 +1,30 @@
+{
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1628970885444,
+    "lastSeen": 1628989851755
+  },
+  "los-guerreros1@lichess": {
+    "id": "los-guerreros1",
+    "provider": "lichess",
+    "username": "Los-Guerreros1",
+    "firstSeen": 1628983731254,
+    "lastSeen": 1628990132978
+  },
+  "nicknamebot@lichess": {
+    "id": "nicknamebot",
+    "provider": "lichess",
+    "username": "NicknameBOT",
+    "firstSeen": 1628989511141,
+    "lastSeen": 1628989524274
+  },
+  "trickytraxlerbot@lichess": {
+    "id": "trickytraxlerbot",
+    "provider": "lichess",
+    "username": "TrickyTraxlerBot",
+    "firstSeen": 1628990161449,
+    "lastSeen": 1628990161449
+  }
+}
