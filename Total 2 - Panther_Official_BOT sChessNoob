@@ -1,0 +1,22 @@
+{
+  "panther_official_bot@lichess": {
+    "id": "panther_official_bot",
+    "provider": "lichess",
+    "username": "Panther_Official_BOT",
+    "firstSeen": 1629017549895,
+    "lastSeen": 1629021494329,
+    "firstSeenTime": "8:52:29 AM",
+    "lastSeenTime": "9:47:14 AM",
+    "onlineDurationMins": 54.737066666666664
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1629021491740,
+    "lastSeen": 1629021522871,
+    "firstSeenTime": "9:58:11 AM",
+    "lastSeenTime": "9:58:11 AM",
+    "onlineDurationMins": 0
+  }
+}
