@@ -1,0 +1,49 @@
+{
+  "fatihwin-chess@lichess": {
+    "id": "fatihwin-chess",
+    "provider": "lichess",
+    "username": "Fatihwin-Chess",
+    "firstSeen": 1629100772193,
+    "lastSeen": 1629118448191,
+    "firstSeenTime": "7:59:32 AM",
+    "lastSeenTime": "12:54:08 PM",
+    "onlineDurationMins": 294.59996666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1629116974907,
+    "lastSeen": 1629118465817,
+    "firstSeenTime": "12:29:34 PM",
+    "lastSeenTime": "12:54:25 PM",
+    "onlineDurationMins": 24.8485
+  },
+  "chessmasterwolf1@lichess": {
+    "id": "chessmasterwolf1",
+    "provider": "lichess",
+    "username": "ChessMasterWolf1",
+    "firstSeen": 1629117750577,
+    "lastSeen": 1629117754849,
+    "firstSeenTime": "12:42:30 PM",
+    "lastSeenTime": "12:42:34 PM",
+    "onlineDurationMins": 0.0712
+  },
+  "leilaschach2_bot@lichess": {
+    "id": "leilaschach2_bot",
+    "provider": "lichess",
+    "username": "LeilaSchach2_Bot",
+    "firstSeen": 1629117765232,
+    "lastSeen": 1629117801971,
+    "firstSeenTime": "12:42:45 PM",
+    "lastSeenTime": "12:43:21 PM",
+    "onlineDurationMins": 0.6123166666666666
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1629118487130,
+    "lastSeen": 1629118487130
+  }
+}
