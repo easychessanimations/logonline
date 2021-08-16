@@ -1,0 +1,30 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1629122652298,
+    "lastSeen": 1629123975704
+  },
+  "fatihwin-chess@lichess": {
+    "id": "fatihwin-chess",
+    "provider": "lichess",
+    "username": "Fatihwin-Chess",
+    "firstSeen": 1629124418343,
+    "lastSeen": 1629124433191
+  },
+  "the_strongest_bot@lichess": {
+    "id": "the_strongest_bot",
+    "provider": "lichess",
+    "username": "THE_STRONGEST_BOT",
+    "firstSeen": 1629124437423,
+    "lastSeen": 1629124478853
+  },
+  "theawesomebot@lichess": {
+    "id": "theawesomebot",
+    "provider": "lichess",
+    "username": "TheAwesomeBot",
+    "firstSeen": 1629124499136,
+    "lastSeen": 1629124499136
+  }
+}
