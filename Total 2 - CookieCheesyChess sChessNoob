@@ -1,0 +1,22 @@
+{
+  "cookiecheesychess@lichess": {
+    "id": "cookiecheesychess",
+    "provider": "lichess",
+    "username": "CookieCheesyChess",
+    "firstSeen": 1629081655542,
+    "lastSeen": 1629089537307,
+    "firstSeenTime": "2:40:55 AM",
+    "lastSeenTime": "4:52:17 AM",
+    "onlineDurationMins": 131.36275
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1629089507725,
+    "lastSeen": 1629089942430,
+    "firstSeenTime": "4:51:47 AM",
+    "lastSeenTime": "4:59:02 AM",
+    "onlineDurationMins": 7.2450833333333335
+  }
+}
