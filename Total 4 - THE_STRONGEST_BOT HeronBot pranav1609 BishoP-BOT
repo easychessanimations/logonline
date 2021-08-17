@@ -1,0 +1,30 @@
+{
+  "the_strongest_bot@lichess": {
+    "id": "the_strongest_bot",
+    "provider": "lichess",
+    "username": "THE_STRONGEST_BOT",
+    "firstSeen": 1629169014982,
+    "lastSeen": 1629173249060
+  },
+  "heronbot@lichess": {
+    "id": "heronbot",
+    "provider": "lichess",
+    "username": "HeronBot",
+    "firstSeen": 1629169140573,
+    "lastSeen": 1629173362773
+  },
+  "pranav1609@lichess": {
+    "id": "pranav1609",
+    "provider": "lichess",
+    "username": "pranav1609",
+    "firstSeen": 1629173044925,
+    "lastSeen": 1629173115296
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1629173383613,
+    "lastSeen": 1629173383613
+  }
+}
