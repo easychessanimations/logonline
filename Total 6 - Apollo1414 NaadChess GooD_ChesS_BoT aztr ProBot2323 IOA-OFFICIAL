@@ -1,0 +1,44 @@
+{
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1629211779487,
+    "lastSeen": 1629212557817
+  },
+  "naadchess@lichess": {
+    "id": "naadchess",
+    "provider": "lichess",
+    "username": "NaadChess",
+    "firstSeen": 1629211909462,
+    "lastSeen": 1629212803828
+  },
+  "good_chess_bot@lichess": {
+    "id": "good_chess_bot",
+    "provider": "lichess",
+    "username": "GooD_ChesS_BoT",
+    "firstSeen": 1629212505484,
+    "lastSeen": 1629212700129
+  },
+  "aztr@lichess": {
+    "id": "aztr",
+    "provider": "lichess",
+    "username": "aztr",
+    "firstSeen": 1629212547691,
+    "lastSeen": 1629212563514
+  },
+  "probot2323@lichess": {
+    "id": "probot2323",
+    "provider": "lichess",
+    "username": "ProBot2323",
+    "firstSeen": 1629212574497,
+    "lastSeen": 1629212699617
+  },
+  "ioa-official@lichess": {
+    "id": "ioa-official",
+    "provider": "lichess",
+    "username": "IOA-OFFICIAL",
+    "firstSeen": 1629212641315,
+    "lastSeen": 1629212708584
+  }
+}
