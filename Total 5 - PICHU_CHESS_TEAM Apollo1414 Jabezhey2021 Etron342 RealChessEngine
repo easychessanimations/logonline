@@ -1,0 +1,43 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1629280930239,
+    "lastSeen": 1629288739099,
+    "firstSeenTime": "10:02:10 AM",
+    "lastSeenTime": "11:46:10 AM",
+    "onlineDurationMins": 103.99983333333333
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1629286377445,
+    "lastSeen": 1629288996990,
+    "firstSeenTime": "11:32:57 AM",
+    "lastSeenTime": "11:45:36 AM",
+    "onlineDurationMins": 12.658516666666667
+  },
+  "jabezhey2021@lichess": {
+    "id": "jabezhey2021",
+    "provider": "lichess",
+    "username": "Jabezhey2021",
+    "firstSeen": 1629287427405,
+    "lastSeen": 1629289358754
+  },
+  "etron342@lichess": {
+    "id": "etron342",
+    "provider": "lichess",
+    "username": "Etron342",
+    "firstSeen": 1629288478995,
+    "lastSeen": 1629289422336
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1629288590553,
+    "lastSeen": 1629288969765
+  }
+}
