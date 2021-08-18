@@ -1,0 +1,83 @@
+{
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1629275437492,
+    "lastSeen": 1629284976203,
+    "firstSeenTime": "8:30:37 AM",
+    "lastSeenTime": "11:09:36 AM",
+    "onlineDurationMins": 158.97851666666668
+  },
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1629278530306,
+    "lastSeen": 1629285429339,
+    "firstSeenTime": "9:22:10 AM",
+    "lastSeenTime": "11:05:09 AM",
+    "onlineDurationMins": 102.98435
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1629280930239,
+    "lastSeen": 1629285430273,
+    "firstSeenTime": "10:02:10 AM",
+    "lastSeenTime": "11:10:13 AM",
+    "onlineDurationMins": 68.05921666666667
+  },
+  "etron342@lichess": {
+    "id": "etron342",
+    "provider": "lichess",
+    "username": "Etron342",
+    "firstSeen": 1629284562793,
+    "lastSeen": 1629285475879,
+    "firstSeenTime": "11:02:42 AM",
+    "lastSeenTime": "11:12:57 AM",
+    "onlineDurationMins": 10.243266666666667
+  },
+  "good_chess_bot@lichess": {
+    "id": "good_chess_bot",
+    "provider": "lichess",
+    "username": "GooD_ChesS_BoT",
+    "firstSeen": 1629284590645,
+    "lastSeen": 1629285459874,
+    "firstSeenTime": "11:03:10 AM",
+    "lastSeenTime": "11:12:58 AM",
+    "onlineDurationMins": 9.8012
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1629285232071,
+    "lastSeen": 1629285232847,
+    "firstSeenTime": "11:13:52 AM",
+    "lastSeenTime": "11:13:52 AM",
+    "onlineDurationMins": 0
+  },
+  "aishikcca@lichess": {
+    "id": "aishikcca",
+    "provider": "lichess",
+    "username": "AishikCCA",
+    "firstSeen": 1629285295404,
+    "lastSeen": 1629285552320
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1629285433768,
+    "lastSeen": 1629285487618
+  },
+  "crazy_tactician24@lichess": {
+    "id": "crazy_tactician24",
+    "provider": "lichess",
+    "username": "Crazy_Tactician24",
+    "firstSeen": 1629285552781,
+    "lastSeen": 1629285552781
+  }
+}
