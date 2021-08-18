@@ -1,0 +1,40 @@
+{
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1629286377445,
+    "lastSeen": 1629292300369,
+    "firstSeenTime": "11:32:57 AM",
+    "lastSeenTime": "11:45:36 AM",
+    "onlineDurationMins": 12.658516666666667
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1629290950944,
+    "lastSeen": 1629292333641
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1629292175236,
+    "lastSeen": 1629292188185
+  },
+  "etron342@lichess": {
+    "id": "etron342",
+    "provider": "lichess",
+    "username": "Etron342",
+    "firstSeen": 1629292387689,
+    "lastSeen": 1629292615827
+  },
+  "good_chess_bot@lichess": {
+    "id": "good_chess_bot",
+    "provider": "lichess",
+    "username": "GooD_ChesS_BoT",
+    "firstSeen": 1629292685704,
+    "lastSeen": 1629292685704
+  }
+}
