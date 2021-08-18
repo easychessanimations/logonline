@@ -1,0 +1,23 @@
+{
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1629259901169,
+    "lastSeen": 1629267250126
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1629265886583,
+    "lastSeen": 1629267309995
+  },
+  "fatihwin-chess@lichess": {
+    "id": "fatihwin-chess",
+    "provider": "lichess",
+    "username": "Fatihwin-Chess",
+    "firstSeen": 1629267183481,
+    "lastSeen": 1629267260950
+  }
+}
