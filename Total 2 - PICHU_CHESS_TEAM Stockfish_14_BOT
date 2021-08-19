@@ -1,0 +1,16 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1629362931490,
+    "lastSeen": 1629363598099
+  },
+  "stockfish_14_bot@lichess": {
+    "id": "stockfish_14_bot",
+    "provider": "lichess",
+    "username": "Stockfish_14_BOT",
+    "firstSeen": 1629363635806,
+    "lastSeen": 1629363635806
+  }
+}
