@@ -1,0 +1,16 @@
+{
+  "stockfish_14_bot@lichess": {
+    "id": "stockfish_14_bot",
+    "provider": "lichess",
+    "username": "Stockfish_14_BOT",
+    "firstSeen": 1629363635806,
+    "lastSeen": 1629365376700
+  },
+  "daws_chess_bot@lichess": {
+    "id": "daws_chess_bot",
+    "provider": "lichess",
+    "username": "DAWS_Chess_Bot",
+    "firstSeen": 1629364817653,
+    "lastSeen": 1629364829362
+  }
+}
