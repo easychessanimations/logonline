@@ -1,0 +1,29 @@
+{
+  "i_the_best_bot@lichess": {
+    "id": "i_the_best_bot",
+    "provider": "lichess",
+    "username": "I_THE_BEST_BOT",
+    "firstSeen": 1629365510950,
+    "lastSeen": 1629370887965,
+    "firstSeenTime": "9:31:50 AM",
+    "lastSeenTime": "10:31:50 AM",
+    "onlineDurationMins": 59.9885
+  },
+  "rpremsaichess@lichess": {
+    "id": "rpremsaichess",
+    "provider": "lichess",
+    "username": "RPREMSAICHESS",
+    "firstSeen": 1629368835019,
+    "lastSeen": 1629370441750,
+    "firstSeenTime": "10:27:15 AM",
+    "lastSeenTime": "10:31:27 AM",
+    "onlineDurationMins": 4.212933333333333
+  },
+  "ioaofficial@lichess": {
+    "id": "ioaofficial",
+    "provider": "lichess",
+    "username": "IOAOfficial",
+    "firstSeen": 1629371174822,
+    "lastSeen": 1629371174822
+  }
+}
