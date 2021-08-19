@@ -1,0 +1,59 @@
+{
+  "kerbot@lichess": {
+    "id": "kerbot",
+    "provider": "lichess",
+    "username": "KerBot",
+    "firstSeen": 1629378675636,
+    "lastSeen": 1629380660505,
+    "firstSeenTime": "1:11:15 PM",
+    "lastSeenTime": "1:44:20 PM",
+    "onlineDurationMins": 33.08115
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1629378951154,
+    "lastSeen": 1629380455153,
+    "firstSeenTime": "1:15:51 PM",
+    "lastSeenTime": "1:40:55 PM",
+    "onlineDurationMins": 25.06665
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1629380437215,
+    "lastSeen": 1629380693715,
+    "firstSeenTime": "1:40:37 PM",
+    "lastSeenTime": "1:44:53 PM",
+    "onlineDurationMins": 4.275
+  },
+  "pirates-of-the-carib@lichess": {
+    "id": "pirates-of-the-carib",
+    "provider": "lichess",
+    "username": "Pirates-Of-The-Carib",
+    "firstSeen": 1629380505093,
+    "lastSeen": 1629380573619,
+    "firstSeenTime": "1:41:45 PM",
+    "lastSeenTime": "1:42:53 PM",
+    "onlineDurationMins": 1.1421
+  },
+  "berhyme@lichess": {
+    "id": "berhyme",
+    "provider": "lichess",
+    "username": "Berhyme",
+    "firstSeen": 1629380573957,
+    "lastSeen": 1629380725087,
+    "firstSeenTime": "1:42:53 PM",
+    "lastSeenTime": "1:44:18 PM",
+    "onlineDurationMins": 1.4169333333333334
+  },
+  "dardo1337@lichess": {
+    "id": "dardo1337",
+    "provider": "lichess",
+    "username": "Dardo1337",
+    "firstSeen": 1629380891970,
+    "lastSeen": 1629380891970
+  }
+}
