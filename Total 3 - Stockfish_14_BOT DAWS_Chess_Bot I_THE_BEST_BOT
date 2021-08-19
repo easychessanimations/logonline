@@ -1,0 +1,23 @@
+{
+  "stockfish_14_bot@lichess": {
+    "id": "stockfish_14_bot",
+    "provider": "lichess",
+    "username": "Stockfish_14_BOT",
+    "firstSeen": 1629363635806,
+    "lastSeen": 1629365501983
+  },
+  "daws_chess_bot@lichess": {
+    "id": "daws_chess_bot",
+    "provider": "lichess",
+    "username": "DAWS_Chess_Bot",
+    "firstSeen": 1629364817653,
+    "lastSeen": 1629365484937
+  },
+  "i_the_best_bot@lichess": {
+    "id": "i_the_best_bot",
+    "provider": "lichess",
+    "username": "I_THE_BEST_BOT",
+    "firstSeen": 1629365510950,
+    "lastSeen": 1629365510950
+  }
+}
