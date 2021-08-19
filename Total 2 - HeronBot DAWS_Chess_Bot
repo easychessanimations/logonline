@@ -1,0 +1,16 @@
+{
+  "heronbot@lichess": {
+    "id": "heronbot",
+    "provider": "lichess",
+    "username": "HeronBot",
+    "firstSeen": 1629342405563,
+    "lastSeen": 1629343080915
+  },
+  "daws_chess_bot@lichess": {
+    "id": "daws_chess_bot",
+    "provider": "lichess",
+    "username": "DAWS_Chess_Bot",
+    "firstSeen": 1629343499395,
+    "lastSeen": 1629343499395
+  }
+}
