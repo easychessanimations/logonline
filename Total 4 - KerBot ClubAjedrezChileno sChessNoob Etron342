@@ -1,0 +1,39 @@
+{
+  "kerbot@lichess": {
+    "id": "kerbot",
+    "provider": "lichess",
+    "username": "KerBot",
+    "firstSeen": 1629378675636,
+    "lastSeen": 1629381273754,
+    "firstSeenTime": "1:11:15 PM",
+    "lastSeenTime": "1:54:33 PM",
+    "onlineDurationMins": 43.301966666666665
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1629378951154,
+    "lastSeen": 1629381672734,
+    "firstSeenTime": "1:15:51 PM",
+    "lastSeenTime": "1:49:40 PM",
+    "onlineDurationMins": 33.82168333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1629380437215,
+    "lastSeen": 1629381358365,
+    "firstSeenTime": "1:40:37 PM",
+    "lastSeenTime": "1:55:58 PM",
+    "onlineDurationMins": 15.3525
+  },
+  "etron342@lichess": {
+    "id": "etron342",
+    "provider": "lichess",
+    "username": "Etron342",
+    "firstSeen": 1629381659982,
+    "lastSeen": 1629381796605
+  }
+}
