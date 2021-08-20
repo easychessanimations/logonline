@@ -1,0 +1,22 @@
+{
+  "botmobile@lichess": {
+    "id": "botmobile",
+    "provider": "lichess",
+    "username": "Botmobile",
+    "firstSeen": 1629462345128,
+    "lastSeen": 1629464466793,
+    "firstSeenTime": "12:25:45 PM",
+    "lastSeenTime": "12:48:23 PM",
+    "onlineDurationMins": 22.643666666666668
+  },
+  "daws_chess_bot@lichess": {
+    "id": "daws_chess_bot",
+    "provider": "lichess",
+    "username": "DAWS_Chess_Bot",
+    "firstSeen": 1629464165832,
+    "lastSeen": 1629464615176,
+    "firstSeenTime": "12:56:05 PM",
+    "lastSeenTime": "12:56:10 PM",
+    "onlineDurationMins": 0.08561666666666666
+  }
+}
