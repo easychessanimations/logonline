@@ -1,0 +1,16 @@
+{
+  "panther_official_bot@lichess": {
+    "id": "panther_official_bot",
+    "provider": "lichess",
+    "username": "Panther_Official_BOT",
+    "firstSeen": 1629447738991,
+    "lastSeen": 1629450284469
+  },
+  "rookattackbot@lichess": {
+    "id": "rookattackbot",
+    "provider": "lichess",
+    "username": "ROOKATTACKBOT",
+    "firstSeen": 1629450332910,
+    "lastSeen": 1629450332910
+  }
+}
