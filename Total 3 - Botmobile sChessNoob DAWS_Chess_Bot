@@ -1,0 +1,29 @@
+{
+  "botmobile@lichess": {
+    "id": "botmobile",
+    "provider": "lichess",
+    "username": "Botmobile",
+    "firstSeen": 1629462345128,
+    "lastSeen": 1629463703748,
+    "firstSeenTime": "12:25:45 PM",
+    "lastSeenTime": "12:48:23 PM",
+    "onlineDurationMins": 22.643666666666668
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1629463756390,
+    "lastSeen": 1629463808424,
+    "firstSeenTime": "12:49:16 PM",
+    "lastSeenTime": "12:50:08 PM",
+    "onlineDurationMins": 0.8672333333333333
+  },
+  "daws_chess_bot@lichess": {
+    "id": "daws_chess_bot",
+    "provider": "lichess",
+    "username": "DAWS_Chess_Bot",
+    "firstSeen": 1629464165832,
+    "lastSeen": 1629464165832
+  }
+}
