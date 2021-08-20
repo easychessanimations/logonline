@@ -1,0 +1,26 @@
+{
+  "daws_chess_bot@lichess": {
+    "id": "daws_chess_bot",
+    "provider": "lichess",
+    "username": "DAWS_Chess_Bot",
+    "firstSeen": 1629464165832,
+    "lastSeen": 1629465271735,
+    "firstSeenTime": "12:56:05 PM",
+    "lastSeenTime": "12:56:10 PM",
+    "onlineDurationMins": 0.08561666666666666
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1629465612486,
+    "lastSeen": 1629465713884
+  },
+  "mystery_09@lichess": {
+    "id": "mystery_09",
+    "provider": "lichess",
+    "username": "mystery_09",
+    "firstSeen": 1629465769067,
+    "lastSeen": 1629465769067
+  }
+}
