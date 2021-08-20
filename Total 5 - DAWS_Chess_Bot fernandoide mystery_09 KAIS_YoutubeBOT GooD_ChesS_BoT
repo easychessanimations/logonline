@@ -1,0 +1,37 @@
+{
+  "daws_chess_bot@lichess": {
+    "id": "daws_chess_bot",
+    "provider": "lichess",
+    "username": "DAWS_Chess_Bot",
+    "firstSeen": 1629468606386,
+    "lastSeen": 1629474016268
+  },
+  "fernandoide@lichess": {
+    "id": "fernandoide",
+    "provider": "lichess",
+    "username": "fernandoide",
+    "firstSeen": 1629472186209,
+    "lastSeen": 1629473660703
+  },
+  "mystery_09@lichess": {
+    "id": "mystery_09",
+    "provider": "lichess",
+    "username": "mystery_09",
+    "firstSeen": 1629473331613,
+    "lastSeen": 1629473515023
+  },
+  "kais_youtubebot@lichess": {
+    "id": "kais_youtubebot",
+    "provider": "lichess",
+    "username": "KAIS_YoutubeBOT",
+    "firstSeen": 1629474052721,
+    "lastSeen": 1629474071739
+  },
+  "good_chess_bot@lichess": {
+    "id": "good_chess_bot",
+    "provider": "lichess",
+    "username": "GooD_ChesS_BoT",
+    "firstSeen": 1629474072064,
+    "lastSeen": 1629474072064
+  }
+}
