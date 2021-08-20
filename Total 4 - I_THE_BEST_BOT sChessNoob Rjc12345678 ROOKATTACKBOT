@@ -1,0 +1,36 @@
+{
+  "i_the_best_bot@lichess": {
+    "id": "i_the_best_bot",
+    "provider": "lichess",
+    "username": "I_THE_BEST_BOT",
+    "firstSeen": 1629426708072,
+    "lastSeen": 1629428956404,
+    "firstSeenTime": "2:31:48 AM",
+    "lastSeenTime": "3:00:22 AM",
+    "onlineDurationMins": 28.575316666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1629428469984,
+    "lastSeen": 1629428469984,
+    "firstSeenTime": "3:01:09 AM",
+    "lastSeenTime": "3:01:09 AM",
+    "onlineDurationMins": 0
+  },
+  "rjc12345678@lichess": {
+    "id": "rjc12345678",
+    "provider": "lichess",
+    "username": "Rjc12345678",
+    "firstSeen": 1629428852829,
+    "lastSeen": 1629429076633
+  },
+  "rookattackbot@lichess": {
+    "id": "rookattackbot",
+    "provider": "lichess",
+    "username": "ROOKATTACKBOT",
+    "firstSeen": 1629429077044,
+    "lastSeen": 1629429077044
+  }
+}
