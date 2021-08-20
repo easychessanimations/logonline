@@ -1,0 +1,19 @@
+{
+  "botmobile@lichess": {
+    "id": "botmobile",
+    "provider": "lichess",
+    "username": "Botmobile",
+    "firstSeen": 1629462345128,
+    "lastSeen": 1629463703748,
+    "firstSeenTime": "12:25:45 PM",
+    "lastSeenTime": "12:25:48 PM",
+    "onlineDurationMins": 0.0524
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1629463756390,
+    "lastSeen": 1629463756390
+  }
+}
