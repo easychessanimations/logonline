@@ -1,0 +1,16 @@
+{
+  "rookattackbot@lichess": {
+    "id": "rookattackbot",
+    "provider": "lichess",
+    "username": "ROOKATTACKBOT",
+    "firstSeen": 1629437009926,
+    "lastSeen": 1629439233782
+  },
+  "daws_chess_bot@lichess": {
+    "id": "daws_chess_bot",
+    "provider": "lichess",
+    "username": "DAWS_Chess_Bot",
+    "firstSeen": 1629439503102,
+    "lastSeen": 1629439503102
+  }
+}
