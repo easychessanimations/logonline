@@ -1,0 +1,23 @@
+{
+  "panther_official_bot@lichess": {
+    "id": "panther_official_bot",
+    "provider": "lichess",
+    "username": "Panther_Official_BOT",
+    "firstSeen": 1629447738991,
+    "lastSeen": 1629451790204
+  },
+  "i_the_best_bot@lichess": {
+    "id": "i_the_best_bot",
+    "provider": "lichess",
+    "username": "I_THE_BEST_BOT",
+    "firstSeen": 1629451745378,
+    "lastSeen": 1629451776292
+  },
+  "rjc12345678@lichess": {
+    "id": "rjc12345678",
+    "provider": "lichess",
+    "username": "Rjc12345678",
+    "firstSeen": 1629451878550,
+    "lastSeen": 1629451878550
+  }
+}
