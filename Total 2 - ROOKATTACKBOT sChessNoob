@@ -1,0 +1,22 @@
+{
+  "rookattackbot@lichess": {
+    "id": "rookattackbot",
+    "provider": "lichess",
+    "username": "ROOKATTACKBOT",
+    "firstSeen": 1629429077044,
+    "lastSeen": 1629430113752,
+    "firstSeenTime": "3:11:17 AM",
+    "lastSeenTime": "3:22:24 AM",
+    "onlineDurationMins": 11.123316666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1629429475000,
+    "lastSeen": 1629429848293,
+    "firstSeenTime": "3:17:55 AM",
+    "lastSeenTime": "3:24:08 AM",
+    "onlineDurationMins": 6.22155
+  }
+}
