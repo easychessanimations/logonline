@@ -1,0 +1,29 @@
+{
+  "daws_chess_bot@lichess": {
+    "id": "daws_chess_bot",
+    "provider": "lichess",
+    "username": "DAWS_Chess_Bot",
+    "firstSeen": 1629439503102,
+    "lastSeen": 1629442665878,
+    "firstSeenTime": "6:05:03 AM",
+    "lastSeenTime": "6:46:51 AM",
+    "onlineDurationMins": 41.80125
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1629440886073,
+    "lastSeen": 1629442233529,
+    "firstSeenTime": "6:28:06 AM",
+    "lastSeenTime": "6:50:33 AM",
+    "onlineDurationMins": 22.4576
+  },
+  "chessmateiseasy@lichess": {
+    "id": "chessmateiseasy",
+    "provider": "lichess",
+    "username": "ChessMateIsEasy",
+    "firstSeen": 1629442783282,
+    "lastSeen": 1629442783282
+  }
+}
