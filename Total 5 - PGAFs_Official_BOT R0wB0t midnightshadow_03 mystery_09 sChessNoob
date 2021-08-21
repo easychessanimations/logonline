@@ -1,0 +1,52 @@
+{
+  "pgafs_official_bot@lichess": {
+    "id": "pgafs_official_bot",
+    "provider": "lichess",
+    "username": "PGAFs_Official_BOT",
+    "firstSeen": 1629551758316,
+    "lastSeen": 1629556315500,
+    "firstSeenTime": "1:15:58 PM",
+    "lastSeenTime": "2:31:55 PM",
+    "onlineDurationMins": 75.95306666666667
+  },
+  "r0wb0t@lichess": {
+    "id": "r0wb0t",
+    "provider": "lichess",
+    "username": "R0wB0t",
+    "firstSeen": 1629552612937,
+    "lastSeen": 1629556575634,
+    "firstSeenTime": "1:30:12 PM",
+    "lastSeenTime": "2:36:15 PM",
+    "onlineDurationMins": 66.04495
+  },
+  "midnightshadow_03@lichess": {
+    "id": "midnightshadow_03",
+    "provider": "lichess",
+    "username": "midnightshadow_03",
+    "firstSeen": 1629554765633,
+    "lastSeen": 1629556275436,
+    "firstSeenTime": "2:06:05 PM",
+    "lastSeenTime": "2:31:15 PM",
+    "onlineDurationMins": 25.163383333333332
+  },
+  "mystery_09@lichess": {
+    "id": "mystery_09",
+    "provider": "lichess",
+    "username": "mystery_09",
+    "firstSeen": 1629555509150,
+    "lastSeen": 1629556322740,
+    "firstSeenTime": "2:18:29 PM",
+    "lastSeenTime": "2:32:02 PM",
+    "onlineDurationMins": 13.559833333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1629556493842,
+    "lastSeen": 1629556710484,
+    "firstSeenTime": "2:34:53 PM",
+    "lastSeenTime": "2:37:59 PM",
+    "onlineDurationMins": 3.0937666666666668
+  }
+}
