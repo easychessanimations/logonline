@@ -1,0 +1,32 @@
+{
+  "the_strongest_bot@lichess": {
+    "id": "the_strongest_bot",
+    "provider": "lichess",
+    "username": "THE_STRONGEST_BOT",
+    "firstSeen": 1629543525841,
+    "lastSeen": 1629545029184,
+    "firstSeenTime": "10:58:45 AM",
+    "lastSeenTime": "11:23:49 AM",
+    "onlineDurationMins": 25.055716666666665
+  },
+  "big_bot_of_the_year@lichess": {
+    "id": "big_bot_of_the_year",
+    "provider": "lichess",
+    "username": "Big_Bot_Of_The_Year",
+    "firstSeen": 1629544849086,
+    "lastSeen": 1629545688063,
+    "firstSeenTime": "11:20:49 AM",
+    "lastSeenTime": "11:34:48 AM",
+    "onlineDurationMins": 13.98295
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1629544958646,
+    "lastSeen": 1629545858203,
+    "firstSeenTime": "11:22:38 AM",
+    "lastSeenTime": "11:37:07 AM",
+    "onlineDurationMins": 14.476283333333333
+  }
+}
