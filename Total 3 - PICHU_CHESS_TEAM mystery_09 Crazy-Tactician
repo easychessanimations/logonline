@@ -1,0 +1,29 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1629538024745,
+    "lastSeen": 1629540788881,
+    "firstSeenTime": "9:27:04 AM",
+    "lastSeenTime": "9:58:06 AM",
+    "onlineDurationMins": 31.025016666666666
+  },
+  "mystery_09@lichess": {
+    "id": "mystery_09",
+    "provider": "lichess",
+    "username": "mystery_09",
+    "firstSeen": 1629538473070,
+    "lastSeen": 1629540311477,
+    "firstSeenTime": "9:34:33 AM",
+    "lastSeenTime": "9:59:30 AM",
+    "onlineDurationMins": 24.957583333333332
+  },
+  "crazy-tactician@lichess": {
+    "id": "crazy-tactician",
+    "provider": "lichess",
+    "username": "Crazy-Tactician",
+    "firstSeen": 1629540746317,
+    "lastSeen": 1629540905537
+  }
+}
