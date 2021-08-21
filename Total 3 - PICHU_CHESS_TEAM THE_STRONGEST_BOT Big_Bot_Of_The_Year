@@ -1,0 +1,26 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1629538024745,
+    "lastSeen": 1629544384668,
+    "firstSeenTime": "9:27:04 AM",
+    "lastSeenTime": "9:58:06 AM",
+    "onlineDurationMins": 31.025016666666666
+  },
+  "the_strongest_bot@lichess": {
+    "id": "the_strongest_bot",
+    "provider": "lichess",
+    "username": "THE_STRONGEST_BOT",
+    "firstSeen": 1629543525841,
+    "lastSeen": 1629544238510
+  },
+  "big_bot_of_the_year@lichess": {
+    "id": "big_bot_of_the_year",
+    "provider": "lichess",
+    "username": "Big_Bot_Of_The_Year",
+    "firstSeen": 1629544849086,
+    "lastSeen": 1629544849086
+  }
+}
