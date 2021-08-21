@@ -4,36 +4,39 @@
     "provider": "lichess",
     "username": "sChessNoob",
     "firstSeen": 1629544958646,
-    "lastSeen": 1629547810206,
+    "lastSeen": 1629549794290,
     "firstSeenTime": "11:22:38 AM",
-    "lastSeenTime": "12:10:10 PM",
-    "onlineDurationMins": 47.526
+    "lastSeenTime": "12:42:43 PM",
+    "onlineDurationMins": 80.07755
   },
   "mosterempor@lichess": {
     "id": "mosterempor",
     "provider": "lichess",
     "username": "Mosterempor",
     "firstSeen": 1629547189096,
-    "lastSeen": 1629547732191,
+    "lastSeen": 1629549545812,
     "firstSeenTime": "11:59:49 AM",
-    "lastSeenTime": "12:08:52 PM",
-    "onlineDurationMins": 9.051583333333333
+    "lastSeenTime": "12:39:05 PM",
+    "onlineDurationMins": 39.2786
   },
   "pgafs_official_bot@lichess": {
     "id": "pgafs_official_bot",
     "provider": "lichess",
     "username": "PGAFs_Official_BOT",
     "firstSeen": 1629547255223,
-    "lastSeen": 1629547731575,
+    "lastSeen": 1629549235104,
     "firstSeenTime": "12:00:55 PM",
-    "lastSeenTime": "12:08:51 PM",
-    "onlineDurationMins": 7.9392
+    "lastSeenTime": "12:33:55 PM",
+    "onlineDurationMins": 32.998016666666665
   },
   "theepicbot2@lichess": {
     "id": "theepicbot2",
     "provider": "lichess",
     "username": "TheEpicBot2",
     "firstSeen": 1629547825209,
-    "lastSeen": 1629547825209
+    "lastSeen": 1629549578037,
+    "firstSeenTime": "12:10:25 PM",
+    "lastSeenTime": "12:39:38 PM",
+    "onlineDurationMins": 29.2138
   }
 }
