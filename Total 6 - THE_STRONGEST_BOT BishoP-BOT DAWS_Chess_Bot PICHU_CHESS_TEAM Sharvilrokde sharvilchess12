@@ -1,0 +1,56 @@
+{
+  "the_strongest_bot@lichess": {
+    "id": "the_strongest_bot",
+    "provider": "lichess",
+    "username": "THE_STRONGEST_BOT",
+    "firstSeen": 1629513987339,
+    "lastSeen": 1629530411488,
+    "firstSeenTime": "2:46:27 AM",
+    "lastSeenTime": "7:07:50 AM",
+    "onlineDurationMins": 261.3874
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1629520073102,
+    "lastSeen": 1629530132035,
+    "firstSeenTime": "4:27:53 AM",
+    "lastSeenTime": "7:08:21 AM",
+    "onlineDurationMins": 160.47413333333333
+  },
+  "daws_chess_bot@lichess": {
+    "id": "daws_chess_bot",
+    "provider": "lichess",
+    "username": "DAWS_Chess_Bot",
+    "firstSeen": 1629527238805,
+    "lastSeen": 1629530545673,
+    "firstSeenTime": "6:27:18 AM",
+    "lastSeenTime": "7:00:24 AM",
+    "onlineDurationMins": 33.0903
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1629529354289,
+    "lastSeen": 1629530107873,
+    "firstSeenTime": "7:02:34 AM",
+    "lastSeenTime": "7:02:43 AM",
+    "onlineDurationMins": 0.15871666666666667
+  },
+  "sharvilrokde@lichess": {
+    "id": "sharvilrokde",
+    "provider": "lichess",
+    "username": "Sharvilrokde",
+    "firstSeen": 1629530486220,
+    "lastSeen": 1629530631876
+  },
+  "sharvilchess12@lichess": {
+    "id": "sharvilchess12",
+    "provider": "lichess",
+    "username": "sharvilchess12",
+    "firstSeen": 1629530642585,
+    "lastSeen": 1629530642585
+  }
+}
