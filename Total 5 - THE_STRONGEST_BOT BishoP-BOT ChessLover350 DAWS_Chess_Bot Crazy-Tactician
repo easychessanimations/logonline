@@ -1,0 +1,37 @@
+{
+  "the_strongest_bot@lichess": {
+    "id": "the_strongest_bot",
+    "provider": "lichess",
+    "username": "THE_STRONGEST_BOT",
+    "firstSeen": 1629513987339,
+    "lastSeen": 1629528543370
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1629520073102,
+    "lastSeen": 1629528120535
+  },
+  "chesslover350@lichess": {
+    "id": "chesslover350",
+    "provider": "lichess",
+    "username": "ChessLover350",
+    "firstSeen": 1629526062278,
+    "lastSeen": 1629528422332
+  },
+  "daws_chess_bot@lichess": {
+    "id": "daws_chess_bot",
+    "provider": "lichess",
+    "username": "DAWS_Chess_Bot",
+    "firstSeen": 1629527238805,
+    "lastSeen": 1629527903019
+  },
+  "crazy-tactician@lichess": {
+    "id": "crazy-tactician",
+    "provider": "lichess",
+    "username": "Crazy-Tactician",
+    "firstSeen": 1629527558481,
+    "lastSeen": 1629528310280
+  }
+}
