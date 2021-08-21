@@ -1,0 +1,29 @@
+{
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1629544958646,
+    "lastSeen": 1629547253198,
+    "firstSeenTime": "11:22:38 AM",
+    "lastSeenTime": "12:00:53 PM",
+    "onlineDurationMins": 38.242533333333334
+  },
+  "mosterempor@lichess": {
+    "id": "mosterempor",
+    "provider": "lichess",
+    "username": "Mosterempor",
+    "firstSeen": 1629547189096,
+    "lastSeen": 1629547246662,
+    "firstSeenTime": "11:59:49 AM",
+    "lastSeenTime": "12:00:46 PM",
+    "onlineDurationMins": 0.9594333333333334
+  },
+  "pgafs_official_bot@lichess": {
+    "id": "pgafs_official_bot",
+    "provider": "lichess",
+    "username": "PGAFs_Official_BOT",
+    "firstSeen": 1629547255223,
+    "lastSeen": 1629547255223
+  }
+}
