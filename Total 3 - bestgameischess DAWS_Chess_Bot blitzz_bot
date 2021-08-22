@@ -1,0 +1,23 @@
+{
+  "bestgameischess@lichess": {
+    "id": "bestgameischess",
+    "provider": "lichess",
+    "username": "bestgameischess",
+    "firstSeen": 1629612273787,
+    "lastSeen": 1629614696235
+  },
+  "daws_chess_bot@lichess": {
+    "id": "daws_chess_bot",
+    "provider": "lichess",
+    "username": "DAWS_Chess_Bot",
+    "firstSeen": 1629613682538,
+    "lastSeen": 1629614311342
+  },
+  "blitzz_bot@lichess": {
+    "id": "blitzz_bot",
+    "provider": "lichess",
+    "username": "blitzz_bot",
+    "firstSeen": 1629614713563,
+    "lastSeen": 1629614713563
+  }
+}
