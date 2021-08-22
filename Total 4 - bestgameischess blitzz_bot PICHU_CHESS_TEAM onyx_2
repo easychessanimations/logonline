@@ -1,0 +1,30 @@
+{
+  "bestgameischess@lichess": {
+    "id": "bestgameischess",
+    "provider": "lichess",
+    "username": "bestgameischess",
+    "firstSeen": 1629612273787,
+    "lastSeen": 1629616818076
+  },
+  "blitzz_bot@lichess": {
+    "id": "blitzz_bot",
+    "provider": "lichess",
+    "username": "blitzz_bot",
+    "firstSeen": 1629614713563,
+    "lastSeen": 1629616364064
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1629616204321,
+    "lastSeen": 1629616651503
+  },
+  "onyx_2@lichess": {
+    "id": "onyx_2",
+    "provider": "lichess",
+    "username": "onyx_2",
+    "firstSeen": 1629616818381,
+    "lastSeen": 1629616818381
+  }
+}
