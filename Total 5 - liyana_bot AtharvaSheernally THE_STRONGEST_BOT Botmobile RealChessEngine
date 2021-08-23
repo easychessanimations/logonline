@@ -1,0 +1,37 @@
+{
+  "liyana_bot@lichess": {
+    "id": "liyana_bot",
+    "provider": "lichess",
+    "username": "liyana_bot",
+    "firstSeen": 1629716980690,
+    "lastSeen": 1629718678793
+  },
+  "atharvasheernally@lichess": {
+    "id": "atharvasheernally",
+    "provider": "lichess",
+    "username": "AtharvaSheernally",
+    "firstSeen": 1629717527587,
+    "lastSeen": 1629718398287
+  },
+  "the_strongest_bot@lichess": {
+    "id": "the_strongest_bot",
+    "provider": "lichess",
+    "username": "THE_STRONGEST_BOT",
+    "firstSeen": 1629717565524,
+    "lastSeen": 1629718577668
+  },
+  "botmobile@lichess": {
+    "id": "botmobile",
+    "provider": "lichess",
+    "username": "Botmobile",
+    "firstSeen": 1629718471828,
+    "lastSeen": 1629718481826
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1629718682633,
+    "lastSeen": 1629718682633
+  }
+}
