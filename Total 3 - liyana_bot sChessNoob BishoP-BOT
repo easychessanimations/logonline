@@ -1,0 +1,29 @@
+{
+  "liyana_bot@lichess": {
+    "id": "liyana_bot",
+    "provider": "lichess",
+    "username": "liyana_bot",
+    "firstSeen": 1629706489676,
+    "lastSeen": 1629713018227,
+    "firstSeenTime": "8:14:49 AM",
+    "lastSeenTime": "9:52:51 AM",
+    "onlineDurationMins": 98.02755
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1629711876036,
+    "lastSeen": 1629712424544,
+    "firstSeenTime": "9:44:36 AM",
+    "lastSeenTime": "9:53:44 AM",
+    "onlineDurationMins": 9.1418
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1629713053486,
+    "lastSeen": 1629713053486
+  }
+}
