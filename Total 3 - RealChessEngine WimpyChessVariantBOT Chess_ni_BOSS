@@ -1,0 +1,23 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1629701543392,
+    "lastSeen": 1629702132010
+  },
+  "wimpychessvariantbot@lichess": {
+    "id": "wimpychessvariantbot",
+    "provider": "lichess",
+    "username": "WimpyChessVariantBOT",
+    "firstSeen": 1629702052846,
+    "lastSeen": 1629702071626
+  },
+  "chess_ni_boss@lichess": {
+    "id": "chess_ni_boss",
+    "provider": "lichess",
+    "username": "Chess_ni_BOSS",
+    "firstSeen": 1629702094051,
+    "lastSeen": 1629702111744
+  }
+}
