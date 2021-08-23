@@ -1,0 +1,23 @@
+{
+  "liyana_bot@lichess": {
+    "id": "liyana_bot",
+    "provider": "lichess",
+    "username": "liyana_bot",
+    "firstSeen": 1629706489676,
+    "lastSeen": 1629710042598
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1629707061525,
+    "lastSeen": 1629709585426
+  },
+  "v_gandhi_bot_07@lichess": {
+    "id": "v_gandhi_bot_07",
+    "provider": "lichess",
+    "username": "v_gandhi_bot_07",
+    "firstSeen": 1629709561713,
+    "lastSeen": 1629709715608
+  }
+}
