@@ -1,0 +1,26 @@
+{
+  "liyana_bot@lichess": {
+    "id": "liyana_bot",
+    "provider": "lichess",
+    "username": "liyana_bot",
+    "firstSeen": 1629716980690,
+    "lastSeen": 1629729070228,
+    "firstSeenTime": "11:09:40 AM",
+    "lastSeenTime": "1:03:32 PM",
+    "onlineDurationMins": 113.86003333333333
+  },
+  "passionate_bot@lichess": {
+    "id": "passionate_bot",
+    "provider": "lichess",
+    "username": "passionate_bot",
+    "firstSeen": 1629727735671,
+    "lastSeen": 1629729071525
+  },
+  "botmobile@lichess": {
+    "id": "botmobile",
+    "provider": "lichess",
+    "username": "Botmobile",
+    "firstSeen": 1629729166426,
+    "lastSeen": 1629729166426
+  }
+}
