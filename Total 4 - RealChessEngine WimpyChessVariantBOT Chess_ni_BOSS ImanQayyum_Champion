@@ -1,0 +1,30 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1629701543392,
+    "lastSeen": 1629702474720
+  },
+  "wimpychessvariantbot@lichess": {
+    "id": "wimpychessvariantbot",
+    "provider": "lichess",
+    "username": "WimpyChessVariantBOT",
+    "firstSeen": 1629702052846,
+    "lastSeen": 1629702443620
+  },
+  "chess_ni_boss@lichess": {
+    "id": "chess_ni_boss",
+    "provider": "lichess",
+    "username": "Chess_ni_BOSS",
+    "firstSeen": 1629702094051,
+    "lastSeen": 1629702436259
+  },
+  "imanqayyum_champion@lichess": {
+    "id": "imanqayyum_champion",
+    "provider": "lichess",
+    "username": "ImanQayyum_Champion",
+    "firstSeen": 1629702547394,
+    "lastSeen": 1629702547394
+  }
+}
