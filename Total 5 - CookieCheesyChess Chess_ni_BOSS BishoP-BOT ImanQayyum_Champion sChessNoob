@@ -1,0 +1,52 @@
+{
+  "cookiecheesychess@lichess": {
+    "id": "cookiecheesychess",
+    "provider": "lichess",
+    "username": "CookieCheesyChess",
+    "firstSeen": 1629678405316,
+    "lastSeen": 1629696082802,
+    "firstSeenTime": "12:26:45 AM",
+    "lastSeenTime": "5:21:22 AM",
+    "onlineDurationMins": 294.6247666666667
+  },
+  "chess_ni_boss@lichess": {
+    "id": "chess_ni_boss",
+    "provider": "lichess",
+    "username": "Chess_ni_BOSS",
+    "firstSeen": 1629686234595,
+    "lastSeen": 1629696151385,
+    "firstSeenTime": "2:37:14 AM",
+    "lastSeenTime": "5:22:31 AM",
+    "onlineDurationMins": 165.27983333333333
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1629690679802,
+    "lastSeen": 1629696105000,
+    "firstSeenTime": "3:51:19 AM",
+    "lastSeenTime": "5:21:45 AM",
+    "onlineDurationMins": 90.41996666666667
+  },
+  "imanqayyum_champion@lichess": {
+    "id": "imanqayyum_champion",
+    "provider": "lichess",
+    "username": "ImanQayyum_Champion",
+    "firstSeen": 1629691637676,
+    "lastSeen": 1629695807302,
+    "firstSeenTime": "4:07:17 AM",
+    "lastSeenTime": "5:16:47 AM",
+    "onlineDurationMins": 69.49376666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1629694899053,
+    "lastSeen": 1629696292990,
+    "firstSeenTime": "5:01:39 AM",
+    "lastSeenTime": "5:24:22 AM",
+    "onlineDurationMins": 22.716083333333334
+  }
+}
