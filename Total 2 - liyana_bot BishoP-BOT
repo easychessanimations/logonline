@@ -1,0 +1,19 @@
+{
+  "liyana_bot@lichess": {
+    "id": "liyana_bot",
+    "provider": "lichess",
+    "username": "liyana_bot",
+    "firstSeen": 1629706489676,
+    "lastSeen": 1629713335051,
+    "firstSeenTime": "8:14:49 AM",
+    "lastSeenTime": "9:52:51 AM",
+    "onlineDurationMins": 98.02755
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1629713053486,
+    "lastSeen": 1629713103376
+  }
+}
