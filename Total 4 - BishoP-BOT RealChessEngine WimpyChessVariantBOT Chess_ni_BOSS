@@ -1,0 +1,33 @@
+{
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1629690679802,
+    "lastSeen": 1629701227154,
+    "firstSeenTime": "3:51:19 AM",
+    "lastSeenTime": "5:21:45 AM",
+    "onlineDurationMins": 90.41996666666667
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1629701543392,
+    "lastSeen": 1629702018610
+  },
+  "wimpychessvariantbot@lichess": {
+    "id": "wimpychessvariantbot",
+    "provider": "lichess",
+    "username": "WimpyChessVariantBOT",
+    "firstSeen": 1629702052846,
+    "lastSeen": 1629702071626
+  },
+  "chess_ni_boss@lichess": {
+    "id": "chess_ni_boss",
+    "provider": "lichess",
+    "username": "Chess_ni_BOSS",
+    "firstSeen": 1629702094051,
+    "lastSeen": 1629702094051
+  }
+}
