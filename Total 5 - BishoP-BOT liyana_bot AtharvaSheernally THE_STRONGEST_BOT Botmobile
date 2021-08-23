@@ -1,0 +1,40 @@
+{
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1629713053486,
+    "lastSeen": 1629717656162,
+    "firstSeenTime": "10:04:13 AM",
+    "lastSeenTime": "10:14:59 AM",
+    "onlineDurationMins": 10.76285
+  },
+  "liyana_bot@lichess": {
+    "id": "liyana_bot",
+    "provider": "lichess",
+    "username": "liyana_bot",
+    "firstSeen": 1629716980690,
+    "lastSeen": 1629718336251
+  },
+  "atharvasheernally@lichess": {
+    "id": "atharvasheernally",
+    "provider": "lichess",
+    "username": "AtharvaSheernally",
+    "firstSeen": 1629717527587,
+    "lastSeen": 1629718398287
+  },
+  "the_strongest_bot@lichess": {
+    "id": "the_strongest_bot",
+    "provider": "lichess",
+    "username": "THE_STRONGEST_BOT",
+    "firstSeen": 1629717565524,
+    "lastSeen": 1629718291756
+  },
+  "botmobile@lichess": {
+    "id": "botmobile",
+    "provider": "lichess",
+    "username": "Botmobile",
+    "firstSeen": 1629718471828,
+    "lastSeen": 1629718471828
+  }
+}
