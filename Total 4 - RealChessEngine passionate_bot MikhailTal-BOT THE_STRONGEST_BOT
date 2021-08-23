@@ -1,0 +1,39 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1629701543392,
+    "lastSeen": 1629706341786,
+    "firstSeenTime": "6:52:23 AM",
+    "lastSeenTime": "7:42:26 AM",
+    "onlineDurationMins": 50.0582
+  },
+  "passionate_bot@lichess": {
+    "id": "passionate_bot",
+    "provider": "lichess",
+    "username": "passionate_bot",
+    "firstSeen": 1629703097634,
+    "lastSeen": 1629706322453,
+    "firstSeenTime": "7:18:17 AM",
+    "lastSeenTime": "7:44:55 AM",
+    "onlineDurationMins": 26.6257
+  },
+  "mikhailtal-bot@lichess": {
+    "id": "mikhailtal-bot",
+    "provider": "lichess",
+    "username": "MikhailTal-BOT",
+    "firstSeen": 1629703330521,
+    "lastSeen": 1629706388219,
+    "firstSeenTime": "7:22:10 AM",
+    "lastSeenTime": "7:44:50 AM",
+    "onlineDurationMins": 22.6678
+  },
+  "the_strongest_bot@lichess": {
+    "id": "the_strongest_bot",
+    "provider": "lichess",
+    "username": "THE_STRONGEST_BOT",
+    "firstSeen": 1629706395956,
+    "lastSeen": 1629706395956
+  }
+}
