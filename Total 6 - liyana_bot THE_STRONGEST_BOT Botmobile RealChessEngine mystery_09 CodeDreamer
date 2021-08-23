@@ -1,0 +1,44 @@
+{
+  "liyana_bot@lichess": {
+    "id": "liyana_bot",
+    "provider": "lichess",
+    "username": "liyana_bot",
+    "firstSeen": 1629716980690,
+    "lastSeen": 1629719690616
+  },
+  "the_strongest_bot@lichess": {
+    "id": "the_strongest_bot",
+    "provider": "lichess",
+    "username": "THE_STRONGEST_BOT",
+    "firstSeen": 1629717565524,
+    "lastSeen": 1629719673873
+  },
+  "botmobile@lichess": {
+    "id": "botmobile",
+    "provider": "lichess",
+    "username": "Botmobile",
+    "firstSeen": 1629718471828,
+    "lastSeen": 1629719136803
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1629718682633,
+    "lastSeen": 1629719305718
+  },
+  "mystery_09@lichess": {
+    "id": "mystery_09",
+    "provider": "lichess",
+    "username": "mystery_09",
+    "firstSeen": 1629719258391,
+    "lastSeen": 1629719271289
+  },
+  "codedreamer@lichess": {
+    "id": "codedreamer",
+    "provider": "lichess",
+    "username": "CodeDreamer",
+    "firstSeen": 1629719817615,
+    "lastSeen": 1629719817615
+  }
+}
