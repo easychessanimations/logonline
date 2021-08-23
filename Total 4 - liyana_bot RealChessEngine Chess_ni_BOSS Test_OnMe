@@ -1,0 +1,36 @@
+{
+  "liyana_bot@lichess": {
+    "id": "liyana_bot",
+    "provider": "lichess",
+    "username": "liyana_bot",
+    "firstSeen": 1629716980690,
+    "lastSeen": 1629724813853,
+    "firstSeenTime": "11:09:40 AM",
+    "lastSeenTime": "1:03:32 PM",
+    "onlineDurationMins": 113.86003333333333
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1629718682633,
+    "lastSeen": 1629724586323,
+    "firstSeenTime": "11:38:02 AM",
+    "lastSeenTime": "1:00:23 PM",
+    "onlineDurationMins": 82.35368333333334
+  },
+  "chess_ni_boss@lichess": {
+    "id": "chess_ni_boss",
+    "provider": "lichess",
+    "username": "Chess_ni_BOSS",
+    "firstSeen": 1629724618684,
+    "lastSeen": 1629724625561
+  },
+  "test_onme@lichess": {
+    "id": "test_onme",
+    "provider": "lichess",
+    "username": "Test_OnMe",
+    "firstSeen": 1629725028676,
+    "lastSeen": 1629725028676
+  }
+}
