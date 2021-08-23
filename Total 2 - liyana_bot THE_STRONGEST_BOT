@@ -3,14 +3,17 @@
     "id": "liyana_bot",
     "provider": "lichess",
     "username": "liyana_bot",
-    "firstSeen": 1629706489676,
-    "lastSeen": 1629706504018
+    "firstSeen": 1629716980690,
+    "lastSeen": 1629725704693,
+    "firstSeenTime": "11:09:40 AM",
+    "lastSeenTime": "1:03:32 PM",
+    "onlineDurationMins": 113.86003333333333
   },
   "the_strongest_bot@lichess": {
     "id": "the_strongest_bot",
     "provider": "lichess",
     "username": "THE_STRONGEST_BOT",
-    "firstSeen": 1629706507915,
-    "lastSeen": 1629706507915
+    "firstSeen": 1629725521349,
+    "lastSeen": 1629726186037
   }
 }
