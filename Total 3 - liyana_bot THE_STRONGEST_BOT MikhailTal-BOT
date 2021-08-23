@@ -1,0 +1,23 @@
+{
+  "liyana_bot@lichess": {
+    "id": "liyana_bot",
+    "provider": "lichess",
+    "username": "liyana_bot",
+    "firstSeen": 1629706489676,
+    "lastSeen": 1629706524819
+  },
+  "the_strongest_bot@lichess": {
+    "id": "the_strongest_bot",
+    "provider": "lichess",
+    "username": "THE_STRONGEST_BOT",
+    "firstSeen": 1629706507915,
+    "lastSeen": 1629706508666
+  },
+  "mikhailtal-bot@lichess": {
+    "id": "mikhailtal-bot",
+    "provider": "lichess",
+    "username": "MikhailTal-BOT",
+    "firstSeen": 1629706527055,
+    "lastSeen": 1629706527055
+  }
+}
