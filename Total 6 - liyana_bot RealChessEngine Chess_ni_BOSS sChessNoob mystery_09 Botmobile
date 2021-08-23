@@ -1,0 +1,62 @@
+{
+  "liyana_bot@lichess": {
+    "id": "liyana_bot",
+    "provider": "lichess",
+    "username": "liyana_bot",
+    "firstSeen": 1629716980690,
+    "lastSeen": 1629723051442,
+    "firstSeenTime": "11:09:40 AM",
+    "lastSeenTime": "12:50:51 PM",
+    "onlineDurationMins": 101.1792
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1629718682633,
+    "lastSeen": 1629722607041,
+    "firstSeenTime": "11:38:02 AM",
+    "lastSeenTime": "12:43:27 PM",
+    "onlineDurationMins": 65.4068
+  },
+  "chess_ni_boss@lichess": {
+    "id": "chess_ni_boss",
+    "provider": "lichess",
+    "username": "Chess_ni_BOSS",
+    "firstSeen": 1629722386481,
+    "lastSeen": 1629722450004,
+    "firstSeenTime": "12:39:46 PM",
+    "lastSeenTime": "12:40:50 PM",
+    "onlineDurationMins": 1.0587166666666668
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1629722404552,
+    "lastSeen": 1629723155364,
+    "firstSeenTime": "12:40:04 PM",
+    "lastSeenTime": "12:52:04 PM",
+    "onlineDurationMins": 11.99735
+  },
+  "mystery_09@lichess": {
+    "id": "mystery_09",
+    "provider": "lichess",
+    "username": "mystery_09",
+    "firstSeen": 1629722408647,
+    "lastSeen": 1629723017136,
+    "firstSeenTime": "12:40:08 PM",
+    "lastSeenTime": "12:50:17 PM",
+    "onlineDurationMins": 10.141483333333333
+  },
+  "botmobile@lichess": {
+    "id": "botmobile",
+    "provider": "lichess",
+    "username": "Botmobile",
+    "firstSeen": 1629722573419,
+    "lastSeen": 1629722573419,
+    "firstSeenTime": "12:42:53 PM",
+    "lastSeenTime": "12:42:53 PM",
+    "onlineDurationMins": 0
+  }
+}
