@@ -1,0 +1,62 @@
+{
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1629780472455,
+    "lastSeen": 1629787984135,
+    "firstSeenTime": "4:47:52 AM",
+    "lastSeenTime": "6:53:04 AM",
+    "onlineDurationMins": 125.19466666666666
+  },
+  "liyana_bot@lichess": {
+    "id": "liyana_bot",
+    "provider": "lichess",
+    "username": "liyana_bot",
+    "firstSeen": 1629785815726,
+    "lastSeen": 1629788067841,
+    "firstSeenTime": "6:16:55 AM",
+    "lastSeenTime": "6:54:27 AM",
+    "onlineDurationMins": 37.53525
+  },
+  "yahyahussain@lichess": {
+    "id": "yahyahussain",
+    "provider": "lichess",
+    "username": "YahyaHussain",
+    "firstSeen": 1629787306371,
+    "lastSeen": 1629788310200,
+    "firstSeenTime": "6:41:46 AM",
+    "lastSeenTime": "6:58:30 AM",
+    "onlineDurationMins": 16.730483333333332
+  },
+  "crazy_varu_striker@lichess": {
+    "id": "crazy_varu_striker",
+    "provider": "lichess",
+    "username": "cRaZy_VaRu_sTrIkEr",
+    "firstSeen": 1629788061764,
+    "lastSeen": 1629788199167,
+    "firstSeenTime": "6:54:21 AM",
+    "lastSeenTime": "6:56:39 AM",
+    "onlineDurationMins": 2.29005
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1629788142026,
+    "lastSeen": 1629788452127,
+    "firstSeenTime": "6:55:42 AM",
+    "lastSeenTime": "7:00:52 AM",
+    "onlineDurationMins": 5.16835
+  },
+  "strongchessengine@lichess": {
+    "id": "strongchessengine",
+    "provider": "lichess",
+    "username": "StrongChessEngine",
+    "firstSeen": 1629788249205,
+    "lastSeen": 1629788466593,
+    "firstSeenTime": "6:57:29 AM",
+    "lastSeenTime": "7:00:36 AM",
+    "onlineDurationMins": 3.1151166666666668
+  }
+}
