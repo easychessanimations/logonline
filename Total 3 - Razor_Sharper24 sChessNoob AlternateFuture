@@ -1,0 +1,29 @@
+{
+  "razor_sharper24@lichess": {
+    "id": "razor_sharper24",
+    "provider": "lichess",
+    "username": "Razor_Sharper24",
+    "firstSeen": 1629775132564,
+    "lastSeen": 1629775160996,
+    "firstSeenTime": "3:18:52 AM",
+    "lastSeenTime": "3:19:20 AM",
+    "onlineDurationMins": 0.47386666666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1629775484946,
+    "lastSeen": 1629775764965,
+    "firstSeenTime": "3:24:44 AM",
+    "lastSeenTime": "3:29:24 AM",
+    "onlineDurationMins": 4.6669833333333335
+  },
+  "alternatefuture@lichess": {
+    "id": "alternatefuture",
+    "provider": "lichess",
+    "username": "AlternateFuture",
+    "firstSeen": 1629775784411,
+    "lastSeen": 1629775784412
+  }
+}
