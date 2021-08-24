@@ -1,0 +1,36 @@
+{
+  "liyana_bot@lichess": {
+    "id": "liyana_bot",
+    "provider": "lichess",
+    "username": "liyana_bot",
+    "firstSeen": 1629785815726,
+    "lastSeen": 1629790828332,
+    "firstSeenTime": "6:16:55 AM",
+    "lastSeenTime": "7:12:01 AM",
+    "onlineDurationMins": 55.10365
+  },
+  "strongchessengine@lichess": {
+    "id": "strongchessengine",
+    "provider": "lichess",
+    "username": "StrongChessEngine",
+    "firstSeen": 1629788249205,
+    "lastSeen": 1629790923289,
+    "firstSeenTime": "6:57:29 AM",
+    "lastSeenTime": "7:11:51 AM",
+    "onlineDurationMins": 14.365083333333333
+  },
+  "mr_islam_56@lichess": {
+    "id": "mr_islam_56",
+    "provider": "lichess",
+    "username": "MR_ISLAM_56",
+    "firstSeen": 1629790684265,
+    "lastSeen": 1629790791114
+  },
+  "crazy_varu_striker@lichess": {
+    "id": "crazy_varu_striker",
+    "provider": "lichess",
+    "username": "cRaZy_VaRu_sTrIkEr",
+    "firstSeen": 1629791067110,
+    "lastSeen": 1629791067110
+  }
+}
