@@ -1,0 +1,23 @@
+{
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1629780472455,
+    "lastSeen": 1629786931748
+  },
+  "liyana_bot@lichess": {
+    "id": "liyana_bot",
+    "provider": "lichess",
+    "username": "liyana_bot",
+    "firstSeen": 1629785815726,
+    "lastSeen": 1629786954997
+  },
+  "chess_epicyo12345@lichess": {
+    "id": "chess_epicyo12345",
+    "provider": "lichess",
+    "username": "Chess_EpicYo12345",
+    "firstSeen": 1629787037630,
+    "lastSeen": 1629787037630
+  }
+}
