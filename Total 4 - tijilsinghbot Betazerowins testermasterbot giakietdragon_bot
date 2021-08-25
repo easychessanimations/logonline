@@ -1,0 +1,30 @@
+{
+  "tijilsinghbot@lichess": {
+    "id": "tijilsinghbot",
+    "provider": "lichess",
+    "username": "tijilsinghbot",
+    "firstSeen": 1629848044425,
+    "lastSeen": 1629855484786
+  },
+  "betazerowins@lichess": {
+    "id": "betazerowins",
+    "provider": "lichess",
+    "username": "Betazerowins",
+    "firstSeen": 1629852944959,
+    "lastSeen": 1629854687800
+  },
+  "testermasterbot@lichess": {
+    "id": "testermasterbot",
+    "provider": "lichess",
+    "username": "testermasterbot",
+    "firstSeen": 1629854343423,
+    "lastSeen": 1629854743919
+  },
+  "giakietdragon_bot@lichess": {
+    "id": "giakietdragon_bot",
+    "provider": "lichess",
+    "username": "giakietdragon_bot",
+    "firstSeen": 1629854772447,
+    "lastSeen": 1629854816524
+  }
+}
