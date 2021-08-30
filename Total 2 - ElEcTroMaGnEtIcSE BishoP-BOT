@@ -1,0 +1,19 @@
+{
+  "electromagneticse@lichess": {
+    "id": "electromagneticse",
+    "provider": "lichess",
+    "username": "ElEcTroMaGnEtIcSE",
+    "firstSeen": 1630299635599,
+    "lastSeen": 1630305461627,
+    "firstSeenTime": "5:00:35 AM",
+    "lastSeenTime": "5:25:48 AM",
+    "onlineDurationMins": 25.219883333333332
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1630305640509,
+    "lastSeen": 1630305640509
+  }
+}
