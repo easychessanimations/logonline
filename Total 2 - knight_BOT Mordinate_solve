@@ -1,0 +1,19 @@
+{
+  "knight_bot@lichess": {
+    "id": "knight_bot",
+    "provider": "lichess",
+    "username": "knight_BOT",
+    "firstSeen": 1630429879665,
+    "lastSeen": 1630430948837,
+    "firstSeenTime": "5:11:19 PM",
+    "lastSeenTime": "5:15:35 PM",
+    "onlineDurationMins": 4.2668
+  },
+  "mordinate_solve@lichess": {
+    "id": "mordinate_solve",
+    "provider": "lichess",
+    "username": "Mordinate_solve",
+    "firstSeen": 1630430951913,
+    "lastSeen": 1630430951913
+  }
+}
