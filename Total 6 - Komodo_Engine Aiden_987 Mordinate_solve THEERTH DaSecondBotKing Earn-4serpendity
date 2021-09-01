@@ -1,0 +1,56 @@
+{
+  "komodo_engine@lichess": {
+    "id": "komodo_engine",
+    "provider": "lichess",
+    "username": "Komodo_Engine",
+    "firstSeen": 1630500876044,
+    "lastSeen": 1630504224910,
+    "firstSeenTime": "12:54:36 PM",
+    "lastSeenTime": "1:33:10 PM",
+    "onlineDurationMins": 38.57725
+  },
+  "aiden_987@lichess": {
+    "id": "aiden_987",
+    "provider": "lichess",
+    "username": "Aiden_987",
+    "firstSeen": 1630500890669,
+    "lastSeen": 1630503847833,
+    "firstSeenTime": "12:54:50 PM",
+    "lastSeenTime": "1:32:46 PM",
+    "onlineDurationMins": 37.93311666666666
+  },
+  "mordinate_solve@lichess": {
+    "id": "mordinate_solve",
+    "provider": "lichess",
+    "username": "Mordinate_solve",
+    "firstSeen": 1630501405101,
+    "lastSeen": 1630503834620,
+    "firstSeenTime": "1:03:25 PM",
+    "lastSeenTime": "1:34:04 PM",
+    "onlineDurationMins": 30.64925
+  },
+  "theerth@lichess": {
+    "id": "theerth",
+    "provider": "lichess",
+    "username": "THEERTH",
+    "firstSeen": 1630503278865,
+    "lastSeen": 1630503958626,
+    "firstSeenTime": "1:34:38 PM",
+    "lastSeenTime": "1:35:06 PM",
+    "onlineDurationMins": 0.4645166666666667
+  },
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1630503722524,
+    "lastSeen": 1630504343316
+  },
+  "earn-4serpendity@lichess": {
+    "id": "earn-4serpendity",
+    "provider": "lichess",
+    "username": "Earn-4serpendity",
+    "firstSeen": 1630504129938,
+    "lastSeen": 1630504179057
+  }
+}
