@@ -1,0 +1,29 @@
+{
+  "komodo_engine@lichess": {
+    "id": "komodo_engine",
+    "provider": "lichess",
+    "username": "Komodo_Engine",
+    "firstSeen": 1630500876044,
+    "lastSeen": 1630506885044,
+    "firstSeenTime": "12:54:36 PM",
+    "lastSeenTime": "1:33:10 PM",
+    "onlineDurationMins": 38.57725
+  },
+  "aiden_987@lichess": {
+    "id": "aiden_987",
+    "provider": "lichess",
+    "username": "Aiden_987",
+    "firstSeen": 1630500890669,
+    "lastSeen": 1630506663975,
+    "firstSeenTime": "12:54:50 PM",
+    "lastSeenTime": "1:32:46 PM",
+    "onlineDurationMins": 37.93311666666666
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1630505385204,
+    "lastSeen": 1630507000554
+  }
+}
