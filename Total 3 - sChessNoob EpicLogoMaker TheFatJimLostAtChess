@@ -1,0 +1,32 @@
+{
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1630489031096,
+    "lastSeen": 1630492286223,
+    "firstSeenTime": "9:37:11 AM",
+    "lastSeenTime": "10:30:55 AM",
+    "onlineDurationMins": 53.7468
+  },
+  "epiclogomaker@lichess": {
+    "id": "epiclogomaker",
+    "provider": "lichess",
+    "username": "EpicLogoMaker",
+    "firstSeen": 1630491939335,
+    "lastSeen": 1630491953061,
+    "firstSeenTime": "10:25:39 AM",
+    "lastSeenTime": "10:25:53 AM",
+    "onlineDurationMins": 0.22876666666666667
+  },
+  "thefatjimlostatchess@lichess": {
+    "id": "thefatjimlostatchess",
+    "provider": "lichess",
+    "username": "TheFatJimLostAtChess",
+    "firstSeen": 1630491949385,
+    "lastSeen": 1630491985096,
+    "firstSeenTime": "10:25:49 AM",
+    "lastSeenTime": "10:26:25 AM",
+    "onlineDurationMins": 0.5951833333333333
+  }
+}
