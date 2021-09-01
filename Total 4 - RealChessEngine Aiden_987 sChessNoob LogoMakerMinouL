@@ -1,0 +1,39 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1630473840486,
+    "lastSeen": 1630484346928,
+    "firstSeenTime": "5:24:00 AM",
+    "lastSeenTime": "8:19:06 AM",
+    "onlineDurationMins": 175.10736666666668
+  },
+  "aiden_987@lichess": {
+    "id": "aiden_987",
+    "provider": "lichess",
+    "username": "Aiden_987",
+    "firstSeen": 1630477835367,
+    "lastSeen": 1630483927057,
+    "firstSeenTime": "6:30:35 AM",
+    "lastSeenTime": "8:12:07 AM",
+    "onlineDurationMins": 101.52816666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1630483126769,
+    "lastSeen": 1630484529012,
+    "firstSeenTime": "7:58:46 AM",
+    "lastSeenTime": "8:22:09 AM",
+    "onlineDurationMins": 23.370716666666667
+  },
+  "logomakerminoul@lichess": {
+    "id": "logomakerminoul",
+    "provider": "lichess",
+    "username": "LogoMakerMinouL",
+    "firstSeen": 1630484547110,
+    "lastSeen": 1630484547110
+  }
+}
