@@ -1,0 +1,23 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1630473840486,
+    "lastSeen": 1630475346706
+  },
+  "theerth@lichess": {
+    "id": "theerth",
+    "provider": "lichess",
+    "username": "THEERTH",
+    "firstSeen": 1630474243163,
+    "lastSeen": 1630475408579
+  },
+  "kings_pawn_opening12@lichess": {
+    "id": "kings_pawn_opening12",
+    "provider": "lichess",
+    "username": "Kings_Pawn_Opening12",
+    "firstSeen": 1630475419155,
+    "lastSeen": 1630475419155
+  }
+}
