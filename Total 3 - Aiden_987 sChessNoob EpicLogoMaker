@@ -1,0 +1,29 @@
+{
+  "aiden_987@lichess": {
+    "id": "aiden_987",
+    "provider": "lichess",
+    "username": "Aiden_987",
+    "firstSeen": 1630488732611,
+    "lastSeen": 1630491360591,
+    "firstSeenTime": "9:32:12 AM",
+    "lastSeenTime": "10:16:00 AM",
+    "onlineDurationMins": 43.79966666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1630489031096,
+    "lastSeen": 1630491914886,
+    "firstSeenTime": "9:37:11 AM",
+    "lastSeenTime": "10:25:14 AM",
+    "onlineDurationMins": 48.06316666666667
+  },
+  "epiclogomaker@lichess": {
+    "id": "epiclogomaker",
+    "provider": "lichess",
+    "username": "EpicLogoMaker",
+    "firstSeen": 1630491939335,
+    "lastSeen": 1630491939335
+  }
+}
