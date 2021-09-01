@@ -1,0 +1,22 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1630473840486,
+    "lastSeen": 1630485847841,
+    "firstSeenTime": "5:24:00 AM",
+    "lastSeenTime": "8:19:06 AM",
+    "onlineDurationMins": 175.10736666666668
+  },
+  "aiden_987@lichess": {
+    "id": "aiden_987",
+    "provider": "lichess",
+    "username": "Aiden_987",
+    "firstSeen": 1630477835367,
+    "lastSeen": 1630485331068,
+    "firstSeenTime": "6:30:35 AM",
+    "lastSeenTime": "8:12:07 AM",
+    "onlineDurationMins": 101.52816666666666
+  }
+}
