@@ -1,0 +1,42 @@
+{
+  "komodo_engine@lichess": {
+    "id": "komodo_engine",
+    "provider": "lichess",
+    "username": "Komodo_Engine",
+    "firstSeen": 1630500876044,
+    "lastSeen": 1630501542545,
+    "firstSeenTime": "12:54:36 PM",
+    "lastSeenTime": "1:05:42 PM",
+    "onlineDurationMins": 11.10835
+  },
+  "aiden_987@lichess": {
+    "id": "aiden_987",
+    "provider": "lichess",
+    "username": "Aiden_987",
+    "firstSeen": 1630500890669,
+    "lastSeen": 1630501568503,
+    "firstSeenTime": "12:54:50 PM",
+    "lastSeenTime": "1:06:08 PM",
+    "onlineDurationMins": 11.297233333333333
+  },
+  "mordinate_solve@lichess": {
+    "id": "mordinate_solve",
+    "provider": "lichess",
+    "username": "Mordinate_solve",
+    "firstSeen": 1630501405101,
+    "lastSeen": 1630501782333,
+    "firstSeenTime": "1:03:25 PM",
+    "lastSeenTime": "1:07:51 PM",
+    "onlineDurationMins": 4.435533333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1630501479509,
+    "lastSeen": 1630501688358,
+    "firstSeenTime": "1:04:39 PM",
+    "lastSeenTime": "1:08:08 PM",
+    "onlineDurationMins": 3.4808166666666667
+  }
+}
