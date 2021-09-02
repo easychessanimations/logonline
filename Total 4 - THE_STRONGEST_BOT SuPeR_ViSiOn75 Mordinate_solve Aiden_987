@@ -1,0 +1,36 @@
+{
+  "the_strongest_bot@lichess": {
+    "id": "the_strongest_bot",
+    "provider": "lichess",
+    "username": "THE_STRONGEST_BOT",
+    "firstSeen": 1630555149370,
+    "lastSeen": 1630559429772,
+    "firstSeenTime": "3:59:09 AM",
+    "lastSeenTime": "4:52:04 AM",
+    "onlineDurationMins": 52.918933333333335
+  },
+  "super_vision75@lichess": {
+    "id": "super_vision75",
+    "provider": "lichess",
+    "username": "SuPeR_ViSiOn75",
+    "firstSeen": 1630557141573,
+    "lastSeen": 1630559262986,
+    "firstSeenTime": "4:32:21 AM",
+    "lastSeenTime": "4:55:49 AM",
+    "onlineDurationMins": 23.46235
+  },
+  "mordinate_solve@lichess": {
+    "id": "mordinate_solve",
+    "provider": "lichess",
+    "username": "Mordinate_solve",
+    "firstSeen": 1630559027216,
+    "lastSeen": 1630559061628
+  },
+  "aiden_987@lichess": {
+    "id": "aiden_987",
+    "provider": "lichess",
+    "username": "Aiden_987",
+    "firstSeen": 1630559557666,
+    "lastSeen": 1630559557666
+  }
+}
