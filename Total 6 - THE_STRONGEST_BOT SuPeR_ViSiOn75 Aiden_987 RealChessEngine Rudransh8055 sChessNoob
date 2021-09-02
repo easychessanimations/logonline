@@ -1,0 +1,50 @@
+{
+  "the_strongest_bot@lichess": {
+    "id": "the_strongest_bot",
+    "provider": "lichess",
+    "username": "THE_STRONGEST_BOT",
+    "firstSeen": 1630555149370,
+    "lastSeen": 1630560827381,
+    "firstSeenTime": "3:59:09 AM",
+    "lastSeenTime": "4:52:04 AM",
+    "onlineDurationMins": 52.918933333333335
+  },
+  "super_vision75@lichess": {
+    "id": "super_vision75",
+    "provider": "lichess",
+    "username": "SuPeR_ViSiOn75",
+    "firstSeen": 1630557141573,
+    "lastSeen": 1630560470013,
+    "firstSeenTime": "4:32:21 AM",
+    "lastSeenTime": "4:55:49 AM",
+    "onlineDurationMins": 23.46235
+  },
+  "aiden_987@lichess": {
+    "id": "aiden_987",
+    "provider": "lichess",
+    "username": "Aiden_987",
+    "firstSeen": 1630559557666,
+    "lastSeen": 1630560248116
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1630559915669,
+    "lastSeen": 1630560652573
+  },
+  "rudransh8055@lichess": {
+    "id": "rudransh8055",
+    "provider": "lichess",
+    "username": "Rudransh8055",
+    "firstSeen": 1630560246317,
+    "lastSeen": 1630560857892
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1630560969745,
+    "lastSeen": 1630560969745
+  }
+}
