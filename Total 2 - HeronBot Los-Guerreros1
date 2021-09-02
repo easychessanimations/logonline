@@ -3,14 +3,17 @@
     "id": "heronbot",
     "provider": "lichess",
     "username": "HeronBot",
-    "firstSeen": 1629227106830,
-    "lastSeen": 1629243250865
+    "firstSeen": 1630601456942,
+    "lastSeen": 1630616920967,
+    "firstSeenTime": "4:50:56 PM",
+    "lastSeenTime": "8:56:34 PM",
+    "onlineDurationMins": 245.62398333333334
   },
   "los-guerreros1@lichess": {
     "id": "los-guerreros1",
     "provider": "lichess",
     "username": "Los-Guerreros1",
-    "firstSeen": 1629243335137,
-    "lastSeen": 1629243335137
+    "firstSeen": 1630616269787,
+    "lastSeen": 1630617178602
   }
 }
