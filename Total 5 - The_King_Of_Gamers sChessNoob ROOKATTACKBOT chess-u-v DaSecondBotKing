@@ -1,0 +1,49 @@
+{
+  "the_king_of_gamers@lichess": {
+    "id": "the_king_of_gamers",
+    "provider": "lichess",
+    "username": "The_King_Of_Gamers",
+    "firstSeen": 1630579678932,
+    "lastSeen": 1630585361176,
+    "firstSeenTime": "10:47:58 AM",
+    "lastSeenTime": "12:14:27 PM",
+    "onlineDurationMins": 86.47685
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1630583388490,
+    "lastSeen": 1630585044471,
+    "firstSeenTime": "11:49:48 AM",
+    "lastSeenTime": "12:17:24 PM",
+    "onlineDurationMins": 27.599683333333335
+  },
+  "rookattackbot@lichess": {
+    "id": "rookattackbot",
+    "provider": "lichess",
+    "username": "ROOKATTACKBOT",
+    "firstSeen": 1630584042815,
+    "lastSeen": 1630585071111,
+    "firstSeenTime": "12:00:42 PM",
+    "lastSeenTime": "12:17:13 PM",
+    "onlineDurationMins": 16.509983333333334
+  },
+  "chess-u-v@lichess": {
+    "id": "chess-u-v",
+    "provider": "lichess",
+    "username": "chess-u-v",
+    "firstSeen": 1630584366918,
+    "lastSeen": 1630584665059,
+    "firstSeenTime": "12:06:06 PM",
+    "lastSeenTime": "12:11:05 PM",
+    "onlineDurationMins": 4.969016666666667
+  },
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1630585382071,
+    "lastSeen": 1630585382071
+  }
+}
