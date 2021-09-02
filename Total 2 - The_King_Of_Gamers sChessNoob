@@ -1,0 +1,22 @@
+{
+  "the_king_of_gamers@lichess": {
+    "id": "the_king_of_gamers",
+    "provider": "lichess",
+    "username": "The_King_Of_Gamers",
+    "firstSeen": 1630579678932,
+    "lastSeen": 1630583611087,
+    "firstSeenTime": "10:47:58 AM",
+    "lastSeenTime": "11:53:31 AM",
+    "onlineDurationMins": 65.53591666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1630583388490,
+    "lastSeen": 1630583698623,
+    "firstSeenTime": "11:49:48 AM",
+    "lastSeenTime": "11:54:27 AM",
+    "onlineDurationMins": 4.651116666666667
+  }
+}
