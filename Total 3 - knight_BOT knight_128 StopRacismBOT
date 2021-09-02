@@ -1,0 +1,23 @@
+{
+  "knight_bot@lichess": {
+    "id": "knight_bot",
+    "provider": "lichess",
+    "username": "knight_BOT",
+    "firstSeen": 1630547153769,
+    "lastSeen": 1630547161676
+  },
+  "knight_128@lichess": {
+    "id": "knight_128",
+    "provider": "lichess",
+    "username": "knight_128",
+    "firstSeen": 1630547162108,
+    "lastSeen": 1630547828033
+  },
+  "stopracismbot@lichess": {
+    "id": "stopracismbot",
+    "provider": "lichess",
+    "username": "StopRacismBOT",
+    "firstSeen": 1630547905521,
+    "lastSeen": 1630547905521
+  }
+}
