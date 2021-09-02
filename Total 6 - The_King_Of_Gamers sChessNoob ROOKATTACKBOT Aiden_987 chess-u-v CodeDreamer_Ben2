@@ -1,0 +1,59 @@
+{
+  "the_king_of_gamers@lichess": {
+    "id": "the_king_of_gamers",
+    "provider": "lichess",
+    "username": "The_King_Of_Gamers",
+    "firstSeen": 1630579678932,
+    "lastSeen": 1630584271015,
+    "firstSeenTime": "10:47:58 AM",
+    "lastSeenTime": "12:04:31 PM",
+    "onlineDurationMins": 76.53471666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1630583388490,
+    "lastSeen": 1630584411580,
+    "firstSeenTime": "11:49:48 AM",
+    "lastSeenTime": "12:06:51 PM",
+    "onlineDurationMins": 17.0515
+  },
+  "rookattackbot@lichess": {
+    "id": "rookattackbot",
+    "provider": "lichess",
+    "username": "ROOKATTACKBOT",
+    "firstSeen": 1630584042815,
+    "lastSeen": 1630584096651,
+    "firstSeenTime": "12:00:42 PM",
+    "lastSeenTime": "12:01:36 PM",
+    "onlineDurationMins": 0.8972666666666667
+  },
+  "aiden_987@lichess": {
+    "id": "aiden_987",
+    "provider": "lichess",
+    "username": "Aiden_987",
+    "firstSeen": 1630584105828,
+    "lastSeen": 1630584105828,
+    "firstSeenTime": "12:01:45 PM",
+    "lastSeenTime": "12:01:45 PM",
+    "onlineDurationMins": 0
+  },
+  "chess-u-v@lichess": {
+    "id": "chess-u-v",
+    "provider": "lichess",
+    "username": "chess-u-v",
+    "firstSeen": 1630584366918,
+    "lastSeen": 1630584373897,
+    "firstSeenTime": "12:06:06 PM",
+    "lastSeenTime": "12:06:13 PM",
+    "onlineDurationMins": 0.11631666666666667
+  },
+  "codedreamer_ben2@lichess": {
+    "id": "codedreamer_ben2",
+    "provider": "lichess",
+    "username": "CodeDreamer_Ben2",
+    "firstSeen": 1630584423759,
+    "lastSeen": 1630584423759
+  }
+}
