@@ -1,0 +1,36 @@
+{
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1630598941898,
+    "lastSeen": 1630603578090,
+    "firstSeenTime": "4:09:01 PM",
+    "lastSeenTime": "5:03:22 PM",
+    "onlineDurationMins": 54.339666666666666
+  },
+  "heronbot@lichess": {
+    "id": "heronbot",
+    "provider": "lichess",
+    "username": "HeronBot",
+    "firstSeen": 1630601456942,
+    "lastSeen": 1630603505528,
+    "firstSeenTime": "4:50:56 PM",
+    "lastSeenTime": "5:02:05 PM",
+    "onlineDurationMins": 11.139083333333334
+  },
+  "chessengineroar@lichess": {
+    "id": "chessengineroar",
+    "provider": "lichess",
+    "username": "CHESSENGINEROAR",
+    "firstSeen": 1630602696088,
+    "lastSeen": 1630603321857
+  },
+  "knight_128@lichess": {
+    "id": "knight_128",
+    "provider": "lichess",
+    "username": "knight_128",
+    "firstSeen": 1630603604973,
+    "lastSeen": 1630603604973
+  }
+}
