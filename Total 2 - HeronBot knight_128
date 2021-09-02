@@ -1,0 +1,19 @@
+{
+  "heronbot@lichess": {
+    "id": "heronbot",
+    "provider": "lichess",
+    "username": "HeronBot",
+    "firstSeen": 1630601456942,
+    "lastSeen": 1630604910720,
+    "firstSeenTime": "4:50:56 PM",
+    "lastSeenTime": "5:02:05 PM",
+    "onlineDurationMins": 11.139083333333334
+  },
+  "knight_128@lichess": {
+    "id": "knight_128",
+    "provider": "lichess",
+    "username": "knight_128",
+    "firstSeen": 1630603604973,
+    "lastSeen": 1630604410871
+  }
+}
