@@ -1,0 +1,52 @@
+{
+  "the_king_of_gamers@lichess": {
+    "id": "the_king_of_gamers",
+    "provider": "lichess",
+    "username": "The_King_Of_Gamers",
+    "firstSeen": 1630661670709,
+    "lastSeen": 1630667078829,
+    "firstSeenTime": "9:34:30 AM",
+    "lastSeenTime": "11:04:38 AM",
+    "onlineDurationMins": 90.13533333333334
+  },
+  "mordinate_solve@lichess": {
+    "id": "mordinate_solve",
+    "provider": "lichess",
+    "username": "Mordinate_solve",
+    "firstSeen": 1630663778773,
+    "lastSeen": 1630667233661,
+    "firstSeenTime": "10:09:38 AM",
+    "lastSeenTime": "11:07:13 AM",
+    "onlineDurationMins": 57.581466666666664
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1630665162286,
+    "lastSeen": 1630667425589,
+    "firstSeenTime": "10:32:42 AM",
+    "lastSeenTime": "11:09:54 AM",
+    "onlineDurationMins": 37.205616666666664
+  },
+  "dangeraj@lichess": {
+    "id": "dangeraj",
+    "provider": "lichess",
+    "username": "DangerAj",
+    "firstSeen": 1630666266371,
+    "lastSeen": 1630666700270,
+    "firstSeenTime": "10:51:06 AM",
+    "lastSeenTime": "10:58:20 AM",
+    "onlineDurationMins": 7.23165
+  },
+  "darkbullet7000@lichess": {
+    "id": "darkbullet7000",
+    "provider": "lichess",
+    "username": "Darkbullet7000",
+    "firstSeen": 1630666708781,
+    "lastSeen": 1630666727275,
+    "firstSeenTime": "10:58:28 AM",
+    "lastSeenTime": "10:58:47 AM",
+    "onlineDurationMins": 0.30823333333333336
+  }
+}
