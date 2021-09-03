@@ -1,0 +1,29 @@
+{
+  "dapoggerzz@lichess": {
+    "id": "dapoggerzz",
+    "provider": "lichess",
+    "username": "DAPOGGERZZ",
+    "firstSeen": 1630650593821,
+    "lastSeen": 1630657163136,
+    "firstSeenTime": "6:29:53 AM",
+    "lastSeenTime": "8:01:30 AM",
+    "onlineDurationMins": 91.61073333333333
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1630652390628,
+    "lastSeen": 1630657192725,
+    "firstSeenTime": "6:59:50 AM",
+    "lastSeenTime": "7:56:53 AM",
+    "onlineDurationMins": 57.04671666666667
+  },
+  "komodo_engine@lichess": {
+    "id": "komodo_engine",
+    "provider": "lichess",
+    "username": "Komodo_Engine",
+    "firstSeen": 1630657031965,
+    "lastSeen": 1630657087904
+  }
+}
