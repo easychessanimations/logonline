@@ -1,0 +1,36 @@
+{
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1630684124002,
+    "lastSeen": 1630686262073,
+    "firstSeenTime": "3:48:44 PM",
+    "lastSeenTime": "4:10:23 PM",
+    "onlineDurationMins": 21.665
+  },
+  "cheezebot@lichess": {
+    "id": "cheezebot",
+    "provider": "lichess",
+    "username": "CheezeBot",
+    "firstSeen": 1630684817378,
+    "lastSeen": 1630686334898,
+    "firstSeenTime": "4:00:17 PM",
+    "lastSeenTime": "4:00:53 PM",
+    "onlineDurationMins": 0.6009166666666667
+  },
+  "try_to_win_me@lichess": {
+    "id": "try_to_win_me",
+    "provider": "lichess",
+    "username": "Try_To_Win_Me",
+    "firstSeen": 1630685685866,
+    "lastSeen": 1630686369545
+  },
+  "daws_chess_bot@lichess": {
+    "id": "daws_chess_bot",
+    "provider": "lichess",
+    "username": "DAWS_Chess_Bot",
+    "firstSeen": 1630685725312,
+    "lastSeen": 1630685741945
+  }
+}
