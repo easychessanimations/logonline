@@ -1,0 +1,44 @@
+{
+  "komodo_engine@lichess": {
+    "id": "komodo_engine",
+    "provider": "lichess",
+    "username": "Komodo_Engine",
+    "firstSeen": 1630669283936,
+    "lastSeen": 1630678094936
+  },
+  "ttk_official_bot@lichess": {
+    "id": "ttk_official_bot",
+    "provider": "lichess",
+    "username": "TTK_Official_BOT",
+    "firstSeen": 1630670848277,
+    "lastSeen": 1630678406090
+  },
+  "name10@lichess": {
+    "id": "name10",
+    "provider": "lichess",
+    "username": "Name10",
+    "firstSeen": 1630672700612,
+    "lastSeen": 1630678084272
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1630673843465,
+    "lastSeen": 1630678456468
+  },
+  "mr_z-striker303-bot@lichess": {
+    "id": "mr_z-striker303-bot",
+    "provider": "lichess",
+    "username": "Mr_Z-Striker303-bot",
+    "firstSeen": 1630677407981,
+    "lastSeen": 1630678072367
+  },
+  "coolbot123@lichess": {
+    "id": "coolbot123",
+    "provider": "lichess",
+    "username": "Coolbot123",
+    "firstSeen": 1630678564949,
+    "lastSeen": 1630678564949
+  }
+}
