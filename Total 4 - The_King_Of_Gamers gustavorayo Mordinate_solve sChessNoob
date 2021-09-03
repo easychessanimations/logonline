@@ -1,0 +1,42 @@
+{
+  "the_king_of_gamers@lichess": {
+    "id": "the_king_of_gamers",
+    "provider": "lichess",
+    "username": "The_King_Of_Gamers",
+    "firstSeen": 1630661670709,
+    "lastSeen": 1630665081705,
+    "firstSeenTime": "9:34:30 AM",
+    "lastSeenTime": "10:31:21 AM",
+    "onlineDurationMins": 56.84993333333333
+  },
+  "gustavorayo@lichess": {
+    "id": "gustavorayo",
+    "provider": "lichess",
+    "username": "gustavorayo",
+    "firstSeen": 1630662896519,
+    "lastSeen": 1630665457426,
+    "firstSeenTime": "9:54:56 AM",
+    "lastSeenTime": "10:37:37 AM",
+    "onlineDurationMins": 42.681783333333335
+  },
+  "mordinate_solve@lichess": {
+    "id": "mordinate_solve",
+    "provider": "lichess",
+    "username": "Mordinate_solve",
+    "firstSeen": 1630663778773,
+    "lastSeen": 1630665288912,
+    "firstSeenTime": "10:09:38 AM",
+    "lastSeenTime": "10:34:48 AM",
+    "onlineDurationMins": 25.168983333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1630665162286,
+    "lastSeen": 1630665503509,
+    "firstSeenTime": "10:32:42 AM",
+    "lastSeenTime": "10:37:52 AM",
+    "onlineDurationMins": 5.171016666666667
+  }
+}
