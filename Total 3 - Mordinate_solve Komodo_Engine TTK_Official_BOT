@@ -1,0 +1,26 @@
+{
+  "mordinate_solve@lichess": {
+    "id": "mordinate_solve",
+    "provider": "lichess",
+    "username": "Mordinate_solve",
+    "firstSeen": 1630663778773,
+    "lastSeen": 1630671587982,
+    "firstSeenTime": "10:09:38 AM",
+    "lastSeenTime": "11:12:45 AM",
+    "onlineDurationMins": 63.1095
+  },
+  "komodo_engine@lichess": {
+    "id": "komodo_engine",
+    "provider": "lichess",
+    "username": "Komodo_Engine",
+    "firstSeen": 1630669283936,
+    "lastSeen": 1630671855282
+  },
+  "ttk_official_bot@lichess": {
+    "id": "ttk_official_bot",
+    "provider": "lichess",
+    "username": "TTK_Official_BOT",
+    "firstSeen": 1630670848277,
+    "lastSeen": 1630671838857
+  }
+}
