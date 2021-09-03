@@ -1,0 +1,32 @@
+{
+  "the_king_of_gamers@lichess": {
+    "id": "the_king_of_gamers",
+    "provider": "lichess",
+    "username": "The_King_Of_Gamers",
+    "firstSeen": 1630648712853,
+    "lastSeen": 1630655151738,
+    "firstSeenTime": "5:58:32 AM",
+    "lastSeenTime": "7:30:27 AM",
+    "onlineDurationMins": 91.90483333333333
+  },
+  "dapoggerzz@lichess": {
+    "id": "dapoggerzz",
+    "provider": "lichess",
+    "username": "DAPOGGERZZ",
+    "firstSeen": 1630650593821,
+    "lastSeen": 1630655426285,
+    "firstSeenTime": "6:29:53 AM",
+    "lastSeenTime": "7:36:38 AM",
+    "onlineDurationMins": 66.74081666666666
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1630652390628,
+    "lastSeen": 1630655813431,
+    "firstSeenTime": "6:59:50 AM",
+    "lastSeenTime": "7:33:53 AM",
+    "onlineDurationMins": 34.0456
+  }
+}
