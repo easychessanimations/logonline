@@ -1,0 +1,23 @@
+{
+  "komodo_engine@lichess": {
+    "id": "komodo_engine",
+    "provider": "lichess",
+    "username": "Komodo_Engine",
+    "firstSeen": 1630669283936,
+    "lastSeen": 1630672507122
+  },
+  "ttk_official_bot@lichess": {
+    "id": "ttk_official_bot",
+    "provider": "lichess",
+    "username": "TTK_Official_BOT",
+    "firstSeen": 1630670848277,
+    "lastSeen": 1630672597817
+  },
+  "rpremsaichess@lichess": {
+    "id": "rpremsaichess",
+    "provider": "lichess",
+    "username": "RPREMSAICHESS",
+    "firstSeen": 1630672618197,
+    "lastSeen": 1630672618197
+  }
+}
