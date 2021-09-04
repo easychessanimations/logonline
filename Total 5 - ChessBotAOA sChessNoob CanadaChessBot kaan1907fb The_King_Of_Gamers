@@ -1,0 +1,49 @@
+{
+  "chessbotaoa@lichess": {
+    "id": "chessbotaoa",
+    "provider": "lichess",
+    "username": "ChessBotAOA",
+    "firstSeen": 1630758620183,
+    "lastSeen": 1630762982519,
+    "firstSeenTime": "12:30:20 PM",
+    "lastSeenTime": "1:31:21 PM",
+    "onlineDurationMins": 61.026316666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1630762087809,
+    "lastSeen": 1630762744535,
+    "firstSeenTime": "1:28:07 PM",
+    "lastSeenTime": "1:39:04 PM",
+    "onlineDurationMins": 10.945433333333334
+  },
+  "canadachessbot@lichess": {
+    "id": "canadachessbot",
+    "provider": "lichess",
+    "username": "CanadaChessBot",
+    "firstSeen": 1630762154457,
+    "lastSeen": 1630763054969,
+    "firstSeenTime": "1:29:14 PM",
+    "lastSeenTime": "1:38:01 PM",
+    "onlineDurationMins": 8.779766666666667
+  },
+  "kaan1907fb@lichess": {
+    "id": "kaan1907fb",
+    "provider": "lichess",
+    "username": "kaan1907fb",
+    "firstSeen": 1630762339231,
+    "lastSeen": 1630762581252,
+    "firstSeenTime": "1:32:19 PM",
+    "lastSeenTime": "1:36:21 PM",
+    "onlineDurationMins": 4.033683333333333
+  },
+  "the_king_of_gamers@lichess": {
+    "id": "the_king_of_gamers",
+    "provider": "lichess",
+    "username": "The_King_Of_Gamers",
+    "firstSeen": 1630763086857,
+    "lastSeen": 1630763086857
+  }
+}
