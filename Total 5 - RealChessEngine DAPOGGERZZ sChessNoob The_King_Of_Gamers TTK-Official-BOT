@@ -1,0 +1,49 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1630735856308,
+    "lastSeen": 1630738531932,
+    "firstSeenTime": "6:10:56 AM",
+    "lastSeenTime": "6:44:28 AM",
+    "onlineDurationMins": 33.53815
+  },
+  "dapoggerzz@lichess": {
+    "id": "dapoggerzz",
+    "provider": "lichess",
+    "username": "DAPOGGERZZ",
+    "firstSeen": 1630737563846,
+    "lastSeen": 1630738479237,
+    "firstSeenTime": "6:39:23 AM",
+    "lastSeenTime": "6:54:39 AM",
+    "onlineDurationMins": 15.256516666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1630738050607,
+    "lastSeen": 1630738504339,
+    "firstSeenTime": "6:47:30 AM",
+    "lastSeenTime": "6:55:04 AM",
+    "onlineDurationMins": 7.5622
+  },
+  "the_king_of_gamers@lichess": {
+    "id": "the_king_of_gamers",
+    "provider": "lichess",
+    "username": "The_King_Of_Gamers",
+    "firstSeen": 1630738087173,
+    "lastSeen": 1630738188449,
+    "firstSeenTime": "6:48:07 AM",
+    "lastSeenTime": "6:49:48 AM",
+    "onlineDurationMins": 1.6879333333333333
+  },
+  "ttk-official-bot@lichess": {
+    "id": "ttk-official-bot",
+    "provider": "lichess",
+    "username": "TTK-Official-BOT",
+    "firstSeen": 1630738589445,
+    "lastSeen": 1630738589445
+  }
+}
