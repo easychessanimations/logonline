@@ -1,0 +1,46 @@
+{
+  "chessbotaoa@lichess": {
+    "id": "chessbotaoa",
+    "provider": "lichess",
+    "username": "ChessBotAOA",
+    "firstSeen": 1630758620183,
+    "lastSeen": 1630763122044,
+    "firstSeenTime": "12:30:20 PM",
+    "lastSeenTime": "1:31:21 PM",
+    "onlineDurationMins": 61.026316666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1630762087809,
+    "lastSeen": 1630763518920,
+    "firstSeenTime": "1:28:07 PM",
+    "lastSeenTime": "1:39:04 PM",
+    "onlineDurationMins": 10.945433333333334
+  },
+  "canadachessbot@lichess": {
+    "id": "canadachessbot",
+    "provider": "lichess",
+    "username": "CanadaChessBot",
+    "firstSeen": 1630762154457,
+    "lastSeen": 1630763176308,
+    "firstSeenTime": "1:29:14 PM",
+    "lastSeenTime": "1:38:01 PM",
+    "onlineDurationMins": 8.779766666666667
+  },
+  "the_king_of_gamers@lichess": {
+    "id": "the_king_of_gamers",
+    "provider": "lichess",
+    "username": "The_King_Of_Gamers",
+    "firstSeen": 1630763086857,
+    "lastSeen": 1630763392489
+  },
+  "keremaltan2188@lichess": {
+    "id": "keremaltan2188",
+    "provider": "lichess",
+    "username": "KeremAltan2188",
+    "firstSeen": 1630763191703,
+    "lastSeen": 1630763276302
+  }
+}
