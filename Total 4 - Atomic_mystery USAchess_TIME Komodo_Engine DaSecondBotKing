@@ -1,0 +1,30 @@
+{
+  "atomic_mystery@lichess": {
+    "id": "atomic_mystery",
+    "provider": "lichess",
+    "username": "Atomic_mystery",
+    "firstSeen": 1630773977494,
+    "lastSeen": 1630774182128
+  },
+  "usachess_time@lichess": {
+    "id": "usachess_time",
+    "provider": "lichess",
+    "username": "USAchess_TIME",
+    "firstSeen": 1630773994170,
+    "lastSeen": 1630774008346
+  },
+  "komodo_engine@lichess": {
+    "id": "komodo_engine",
+    "provider": "lichess",
+    "username": "Komodo_Engine",
+    "firstSeen": 1630774040468,
+    "lastSeen": 1630774102433
+  },
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1630774234651,
+    "lastSeen": 1630774234651
+  }
+}
