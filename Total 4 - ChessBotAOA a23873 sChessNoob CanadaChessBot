@@ -1,0 +1,39 @@
+{
+  "chessbotaoa@lichess": {
+    "id": "chessbotaoa",
+    "provider": "lichess",
+    "username": "ChessBotAOA",
+    "firstSeen": 1630758620183,
+    "lastSeen": 1630761622432,
+    "firstSeenTime": "12:30:20 PM",
+    "lastSeenTime": "1:20:22 PM",
+    "onlineDurationMins": 50.037483333333334
+  },
+  "a23873@lichess": {
+    "id": "a23873",
+    "provider": "lichess",
+    "username": "a23873",
+    "firstSeen": 1630762056972,
+    "lastSeen": 1630762086553,
+    "firstSeenTime": "1:27:36 PM",
+    "lastSeenTime": "1:28:06 PM",
+    "onlineDurationMins": 0.49301666666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1630762087809,
+    "lastSeen": 1630762088447,
+    "firstSeenTime": "1:28:07 PM",
+    "lastSeenTime": "1:28:07 PM",
+    "onlineDurationMins": 0
+  },
+  "canadachessbot@lichess": {
+    "id": "canadachessbot",
+    "provider": "lichess",
+    "username": "CanadaChessBot",
+    "firstSeen": 1630762154457,
+    "lastSeen": 1630762154457
+  }
+}
