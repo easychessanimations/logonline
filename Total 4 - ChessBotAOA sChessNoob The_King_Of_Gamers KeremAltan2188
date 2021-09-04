@@ -1,0 +1,42 @@
+{
+  "chessbotaoa@lichess": {
+    "id": "chessbotaoa",
+    "provider": "lichess",
+    "username": "ChessBotAOA",
+    "firstSeen": 1630758620183,
+    "lastSeen": 1630764059141,
+    "firstSeenTime": "12:30:20 PM",
+    "lastSeenTime": "1:59:18 PM",
+    "onlineDurationMins": 88.96913333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1630762087809,
+    "lastSeen": 1630764052705,
+    "firstSeenTime": "1:28:07 PM",
+    "lastSeenTime": "2:00:52 PM",
+    "onlineDurationMins": 32.748266666666666
+  },
+  "the_king_of_gamers@lichess": {
+    "id": "the_king_of_gamers",
+    "provider": "lichess",
+    "username": "The_King_Of_Gamers",
+    "firstSeen": 1630763086857,
+    "lastSeen": 1630764035664,
+    "firstSeenTime": "1:44:46 PM",
+    "lastSeenTime": "2:00:35 PM",
+    "onlineDurationMins": 15.81345
+  },
+  "keremaltan2188@lichess": {
+    "id": "keremaltan2188",
+    "provider": "lichess",
+    "username": "KeremAltan2188",
+    "firstSeen": 1630763191703,
+    "lastSeen": 1630763276302,
+    "firstSeenTime": "1:46:31 PM",
+    "lastSeenTime": "1:47:56 PM",
+    "onlineDurationMins": 1.4099833333333334
+  }
+}
