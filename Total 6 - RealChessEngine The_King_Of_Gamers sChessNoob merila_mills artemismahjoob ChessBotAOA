@@ -1,0 +1,59 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1630824431360,
+    "lastSeen": 1630836353416,
+    "firstSeenTime": "6:47:11 AM",
+    "lastSeenTime": "10:05:53 AM",
+    "onlineDurationMins": 198.70093333333332
+  },
+  "the_king_of_gamers@lichess": {
+    "id": "the_king_of_gamers",
+    "provider": "lichess",
+    "username": "The_King_Of_Gamers",
+    "firstSeen": 1630830247548,
+    "lastSeen": 1630836322333,
+    "firstSeenTime": "8:24:07 AM",
+    "lastSeenTime": "10:05:22 AM",
+    "onlineDurationMins": 101.24641666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1630833207208,
+    "lastSeen": 1630836359339,
+    "firstSeenTime": "9:13:27 AM",
+    "lastSeenTime": "10:05:59 AM",
+    "onlineDurationMins": 52.535516666666666
+  },
+  "merila_mills@lichess": {
+    "id": "merila_mills",
+    "provider": "lichess",
+    "username": "merila_mills",
+    "firstSeen": 1630835134419,
+    "lastSeen": 1630835492406,
+    "firstSeenTime": "9:45:34 AM",
+    "lastSeenTime": "9:51:32 AM",
+    "onlineDurationMins": 5.96645
+  },
+  "artemismahjoob@lichess": {
+    "id": "artemismahjoob",
+    "provider": "lichess",
+    "username": "artemismahjoob",
+    "firstSeen": 1630835492875,
+    "lastSeen": 1630836314258,
+    "firstSeenTime": "9:51:32 AM",
+    "lastSeenTime": "10:05:14 AM",
+    "onlineDurationMins": 13.689716666666667
+  },
+  "chessbotaoa@lichess": {
+    "id": "chessbotaoa",
+    "provider": "lichess",
+    "username": "ChessBotAOA",
+    "firstSeen": 1630836369542,
+    "lastSeen": 1630836369542
+  }
+}
