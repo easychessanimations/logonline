@@ -1,0 +1,22 @@
+{
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1630857787267,
+    "lastSeen": 1630863152487,
+    "firstSeenTime": "4:03:07 PM",
+    "lastSeenTime": "5:32:01 PM",
+    "onlineDurationMins": 88.90456666666667
+  },
+  "heronbot@lichess": {
+    "id": "heronbot",
+    "provider": "lichess",
+    "username": "HeronBot",
+    "firstSeen": 1630861532470,
+    "lastSeen": 1630863054127,
+    "firstSeenTime": "5:05:32 PM",
+    "lastSeenTime": "5:30:54 PM",
+    "onlineDurationMins": 25.36095
+  }
+}
