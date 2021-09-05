@@ -1,0 +1,46 @@
+{
+  "chessbotaoa@lichess": {
+    "id": "chessbotaoa",
+    "provider": "lichess",
+    "username": "ChessBotAOA",
+    "firstSeen": 1630819237798,
+    "lastSeen": 1630823741842,
+    "firstSeenTime": "5:20:37 AM",
+    "lastSeenTime": "6:27:14 AM",
+    "onlineDurationMins": 66.60653333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1630820521533,
+    "lastSeen": 1630823443212,
+    "firstSeenTime": "5:42:01 AM",
+    "lastSeenTime": "6:30:43 AM",
+    "onlineDurationMins": 48.69465
+  },
+  "cookiecheesychess@lichess": {
+    "id": "cookiecheesychess",
+    "provider": "lichess",
+    "username": "CookieCheesyChess",
+    "firstSeen": 1630822171224,
+    "lastSeen": 1630823675160,
+    "firstSeenTime": "6:09:31 AM",
+    "lastSeenTime": "6:25:33 AM",
+    "onlineDurationMins": 16.034683333333334
+  },
+  "mordinate_solve@lichess": {
+    "id": "mordinate_solve",
+    "provider": "lichess",
+    "username": "Mordinate_solve",
+    "firstSeen": 1630823540380,
+    "lastSeen": 1630823765372
+  },
+  "dapoggerzz@lichess": {
+    "id": "dapoggerzz",
+    "provider": "lichess",
+    "username": "DAPOGGERZZ",
+    "firstSeen": 1630823817492,
+    "lastSeen": 1630823817492
+  }
+}
