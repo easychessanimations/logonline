@@ -1,0 +1,43 @@
+{
+  "chessbotaoa@lichess": {
+    "id": "chessbotaoa",
+    "provider": "lichess",
+    "username": "ChessBotAOA",
+    "firstSeen": 1630819237798,
+    "lastSeen": 1630826769729,
+    "firstSeenTime": "5:20:37 AM",
+    "lastSeenTime": "6:27:14 AM",
+    "onlineDurationMins": 66.60653333333333
+  },
+  "cookiecheesychess@lichess": {
+    "id": "cookiecheesychess",
+    "provider": "lichess",
+    "username": "CookieCheesyChess",
+    "firstSeen": 1630822171224,
+    "lastSeen": 1630826955832,
+    "firstSeenTime": "6:09:31 AM",
+    "lastSeenTime": "6:25:33 AM",
+    "onlineDurationMins": 16.034683333333334
+  },
+  "dapoggerzz@lichess": {
+    "id": "dapoggerzz",
+    "provider": "lichess",
+    "username": "DAPOGGERZZ",
+    "firstSeen": 1630823817492,
+    "lastSeen": 1630826922418
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1630824431360,
+    "lastSeen": 1630826752652
+  },
+  "thisisme987d@lichess": {
+    "id": "thisisme987d",
+    "provider": "lichess",
+    "username": "thisisme987D",
+    "firstSeen": 1630826531852,
+    "lastSeen": 1630826664368
+  }
+}
