@@ -4,26 +4,29 @@
     "provider": "lichess",
     "username": "ChessBotAOA",
     "firstSeen": 1630855445109,
-    "lastSeen": 1630857517070,
+    "lastSeen": 1630858869068,
     "firstSeenTime": "3:24:05 PM",
-    "lastSeenTime": "3:58:37 PM",
-    "onlineDurationMins": 34.53268333333333
+    "lastSeenTime": "4:21:09 PM",
+    "onlineDurationMins": 57.065983333333335
   },
   "schessnoob@lichess": {
     "id": "schessnoob",
     "provider": "lichess",
     "username": "sChessNoob",
     "firstSeen": 1630857787267,
-    "lastSeen": 1630857818299,
+    "lastSeen": 1630858902363,
     "firstSeenTime": "4:03:07 PM",
-    "lastSeenTime": "4:03:38 PM",
-    "onlineDurationMins": 0.5172
+    "lastSeenTime": "4:21:11 PM",
+    "onlineDurationMins": 18.068433333333335
   },
   "ankitoob@lichess": {
     "id": "ankitoob",
     "provider": "lichess",
     "username": "ANKITOOB",
     "firstSeen": 1630857842559,
-    "lastSeen": 1630857842559
+    "lastSeen": 1630858050624,
+    "firstSeenTime": "4:04:02 PM",
+    "lastSeenTime": "4:07:30 PM",
+    "onlineDurationMins": 3.46775
   }
 }
