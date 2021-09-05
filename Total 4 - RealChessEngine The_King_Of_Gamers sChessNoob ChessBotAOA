@@ -1,0 +1,42 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1630824431360,
+    "lastSeen": 1630837736244,
+    "firstSeenTime": "6:47:11 AM",
+    "lastSeenTime": "10:17:56 AM",
+    "onlineDurationMins": 210.75283333333334
+  },
+  "the_king_of_gamers@lichess": {
+    "id": "the_king_of_gamers",
+    "provider": "lichess",
+    "username": "The_King_Of_Gamers",
+    "firstSeen": 1630830247548,
+    "lastSeen": 1630837758698,
+    "firstSeenTime": "8:24:07 AM",
+    "lastSeenTime": "10:17:22 AM",
+    "onlineDurationMins": 113.24731666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1630833207208,
+    "lastSeen": 1630837575690,
+    "firstSeenTime": "9:13:27 AM",
+    "lastSeenTime": "10:26:15 AM",
+    "onlineDurationMins": 72.80803333333333
+  },
+  "chessbotaoa@lichess": {
+    "id": "chessbotaoa",
+    "provider": "lichess",
+    "username": "ChessBotAOA",
+    "firstSeen": 1630836369542,
+    "lastSeen": 1630837752842,
+    "firstSeenTime": "10:06:09 AM",
+    "lastSeenTime": "10:18:09 AM",
+    "onlineDurationMins": 12.0004
+  }
+}
