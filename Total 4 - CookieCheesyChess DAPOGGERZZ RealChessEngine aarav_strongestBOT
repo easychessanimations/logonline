@@ -1,0 +1,33 @@
+{
+  "cookiecheesychess@lichess": {
+    "id": "cookiecheesychess",
+    "provider": "lichess",
+    "username": "CookieCheesyChess",
+    "firstSeen": 1630822171224,
+    "lastSeen": 1630827621532,
+    "firstSeenTime": "6:09:31 AM",
+    "lastSeenTime": "6:25:33 AM",
+    "onlineDurationMins": 16.034683333333334
+  },
+  "dapoggerzz@lichess": {
+    "id": "dapoggerzz",
+    "provider": "lichess",
+    "username": "DAPOGGERZZ",
+    "firstSeen": 1630823817492,
+    "lastSeen": 1630827730688
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1630824431360,
+    "lastSeen": 1630828095328
+  },
+  "aarav_strongestbot@lichess": {
+    "id": "aarav_strongestbot",
+    "provider": "lichess",
+    "username": "aarav_strongestBOT",
+    "firstSeen": 1630827757702,
+    "lastSeen": 1630827767337
+  }
+}
