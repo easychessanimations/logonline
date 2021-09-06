@@ -1,0 +1,30 @@
+{
+  "siblingsbot@lichess": {
+    "id": "siblingsbot",
+    "provider": "lichess",
+    "username": "SiblingsBot",
+    "firstSeen": 1630909071382,
+    "lastSeen": 1630909790984
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1630909090881,
+    "lastSeen": 1630909870921
+  },
+  "maia99@lichess": {
+    "id": "maia99",
+    "provider": "lichess",
+    "username": "maia99",
+    "firstSeen": 1630909718906,
+    "lastSeen": 1630910036621
+  },
+  "crazy_bebo_striker@lichess": {
+    "id": "crazy_bebo_striker",
+    "provider": "lichess",
+    "username": "cRaZy_BeBo_Striker",
+    "firstSeen": 1630910057007,
+    "lastSeen": 1630910057007
+  }
+}
