@@ -1,0 +1,40 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1630900783403,
+    "lastSeen": 1630906935427,
+    "firstSeenTime": "3:59:43 AM",
+    "lastSeenTime": "4:58:14 AM",
+    "onlineDurationMins": 58.525933333333334
+  },
+  "siblingsbot@lichess": {
+    "id": "siblingsbot",
+    "provider": "lichess",
+    "username": "SiblingsBot",
+    "firstSeen": 1630906920103,
+    "lastSeen": 1630906961851
+  },
+  "son-of-god_updatebot@lichess": {
+    "id": "son-of-god_updatebot",
+    "provider": "lichess",
+    "username": "Son-of-god_updateBot",
+    "firstSeen": 1630907062844,
+    "lastSeen": 1630907462746
+  },
+  "aarav_strongestbot@lichess": {
+    "id": "aarav_strongestbot",
+    "provider": "lichess",
+    "username": "aarav_strongestBOT",
+    "firstSeen": 1630907480076,
+    "lastSeen": 1630907508988
+  },
+  "daretochallengeme@lichess": {
+    "id": "daretochallengeme",
+    "provider": "lichess",
+    "username": "DareToChallengeMe",
+    "firstSeen": 1630907520814,
+    "lastSeen": 1630907520814
+  }
+}
