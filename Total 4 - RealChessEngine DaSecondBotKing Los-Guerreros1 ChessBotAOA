@@ -1,0 +1,36 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1630909090881,
+    "lastSeen": 1630938496177,
+    "firstSeenTime": "6:18:10 AM",
+    "lastSeenTime": "12:48:15 PM",
+    "onlineDurationMins": 390.07731666666666
+  },
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1630930436822,
+    "lastSeen": 1630939118340,
+    "firstSeenTime": "12:13:56 PM",
+    "lastSeenTime": "12:47:38 PM",
+    "onlineDurationMins": 33.69273333333334
+  },
+  "los-guerreros1@lichess": {
+    "id": "los-guerreros1",
+    "provider": "lichess",
+    "username": "Los-Guerreros1",
+    "firstSeen": 1630934098896,
+    "lastSeen": 1630939027415
+  },
+  "chessbotaoa@lichess": {
+    "id": "chessbotaoa",
+    "provider": "lichess",
+    "username": "ChessBotAOA",
+    "firstSeen": 1630938788875,
+    "lastSeen": 1630938798475
+  }
+}
