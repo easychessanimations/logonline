@@ -1,0 +1,49 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1630909090881,
+    "lastSeen": 1630911920130,
+    "firstSeenTime": "6:18:10 AM",
+    "lastSeenTime": "7:05:20 AM",
+    "onlineDurationMins": 47.15415
+  },
+  "maia99@lichess": {
+    "id": "maia99",
+    "provider": "lichess",
+    "username": "maia99",
+    "firstSeen": 1630909718906,
+    "lastSeen": 1630911952830,
+    "firstSeenTime": "6:28:38 AM",
+    "lastSeenTime": "6:58:37 AM",
+    "onlineDurationMins": 29.9707
+  },
+  "mystery_09@lichess": {
+    "id": "mystery_09",
+    "provider": "lichess",
+    "username": "mystery_09",
+    "firstSeen": 1630911015416,
+    "lastSeen": 1630911634049,
+    "firstSeenTime": "6:50:15 AM",
+    "lastSeenTime": "7:00:34 AM",
+    "onlineDurationMins": 10.31055
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1630911242355,
+    "lastSeen": 1630911927080,
+    "firstSeenTime": "6:54:02 AM",
+    "lastSeenTime": "7:05:27 AM",
+    "onlineDurationMins": 11.412083333333333
+  },
+  "chess_pk_master_1234@lichess": {
+    "id": "chess_pk_master_1234",
+    "provider": "lichess",
+    "username": "Chess_PK_Master_1234",
+    "firstSeen": 1630911953026,
+    "lastSeen": 1630911953026
+  }
+}
