@@ -1,0 +1,29 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1630909090881,
+    "lastSeen": 1630931116214,
+    "firstSeenTime": "6:18:10 AM",
+    "lastSeenTime": "12:12:12 PM",
+    "onlineDurationMins": 354.0253
+  },
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1630930436822,
+    "lastSeen": 1630931078307,
+    "firstSeenTime": "12:13:56 PM",
+    "lastSeenTime": "12:14:09 PM",
+    "onlineDurationMins": 0.21323333333333333
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1630931174012,
+    "lastSeen": 1630931355913
+  }
+}
