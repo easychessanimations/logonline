@@ -1,0 +1,49 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1630909090881,
+    "lastSeen": 1630913440729,
+    "firstSeenTime": "6:18:10 AM",
+    "lastSeenTime": "7:30:40 AM",
+    "onlineDurationMins": 72.49746666666667
+  },
+  "maia99@lichess": {
+    "id": "maia99",
+    "provider": "lichess",
+    "username": "maia99",
+    "firstSeen": 1630909718906,
+    "lastSeen": 1630913223034,
+    "firstSeenTime": "6:28:38 AM",
+    "lastSeenTime": "7:27:03 AM",
+    "onlineDurationMins": 58.40213333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1630911242355,
+    "lastSeen": 1630913483238,
+    "firstSeenTime": "6:54:02 AM",
+    "lastSeenTime": "7:31:23 AM",
+    "onlineDurationMins": 37.34805
+  },
+  "sharvilrokde@lichess": {
+    "id": "sharvilrokde",
+    "provider": "lichess",
+    "username": "Sharvilrokde",
+    "firstSeen": 1630912557772,
+    "lastSeen": 1630913290271,
+    "firstSeenTime": "7:15:57 AM",
+    "lastSeenTime": "7:28:10 AM",
+    "onlineDurationMins": 12.208316666666667
+  },
+  "fitriyah@lichess": {
+    "id": "fitriyah",
+    "provider": "lichess",
+    "username": "Fitriyah",
+    "firstSeen": 1630913510178,
+    "lastSeen": 1630913510178
+  }
+}
