@@ -1,0 +1,62 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1630909090881,
+    "lastSeen": 1630911371006,
+    "firstSeenTime": "6:18:10 AM",
+    "lastSeenTime": "6:56:11 AM",
+    "onlineDurationMins": 38.00208333333333
+  },
+  "maia99@lichess": {
+    "id": "maia99",
+    "provider": "lichess",
+    "username": "maia99",
+    "firstSeen": 1630909718906,
+    "lastSeen": 1630911517148,
+    "firstSeenTime": "6:28:38 AM",
+    "lastSeenTime": "6:58:37 AM",
+    "onlineDurationMins": 29.9707
+  },
+  "atomic_mystery@lichess": {
+    "id": "atomic_mystery",
+    "provider": "lichess",
+    "username": "Atomic_mystery",
+    "firstSeen": 1630910542627,
+    "lastSeen": 1630910938288,
+    "firstSeenTime": "6:42:22 AM",
+    "lastSeenTime": "6:48:58 AM",
+    "onlineDurationMins": 6.59435
+  },
+  "pratyaksh_maia1@lichess": {
+    "id": "pratyaksh_maia1",
+    "provider": "lichess",
+    "username": "Pratyaksh_Maia1",
+    "firstSeen": 1630910893176,
+    "lastSeen": 1630910907065,
+    "firstSeenTime": "6:48:13 AM",
+    "lastSeenTime": "6:48:27 AM",
+    "onlineDurationMins": 0.23148333333333335
+  },
+  "mystery_09@lichess": {
+    "id": "mystery_09",
+    "provider": "lichess",
+    "username": "mystery_09",
+    "firstSeen": 1630911015416,
+    "lastSeen": 1630911557486,
+    "firstSeenTime": "6:50:15 AM",
+    "lastSeenTime": "6:58:43 AM",
+    "onlineDurationMins": 8.464216666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1630911242355,
+    "lastSeen": 1630911583098,
+    "firstSeenTime": "6:54:02 AM",
+    "lastSeenTime": "6:59:12 AM",
+    "onlineDurationMins": 5.162216666666667
+  }
+}
