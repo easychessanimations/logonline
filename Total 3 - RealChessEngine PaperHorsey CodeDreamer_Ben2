@@ -1,0 +1,32 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1630909090881,
+    "lastSeen": 1630915288014,
+    "firstSeenTime": "6:18:10 AM",
+    "lastSeenTime": "7:45:11 AM",
+    "onlineDurationMins": 87.00973333333333
+  },
+  "paperhorsey@lichess": {
+    "id": "paperhorsey",
+    "provider": "lichess",
+    "username": "PaperHorsey",
+    "firstSeen": 1630913888061,
+    "lastSeen": 1630915674933,
+    "firstSeenTime": "7:38:08 AM",
+    "lastSeenTime": "7:46:36 AM",
+    "onlineDurationMins": 8.47515
+  },
+  "codedreamer_ben2@lichess": {
+    "id": "codedreamer_ben2",
+    "provider": "lichess",
+    "username": "CodeDreamer_Ben2",
+    "firstSeen": 1630914240490,
+    "lastSeen": 1630914998147,
+    "firstSeenTime": "7:44:00 AM",
+    "lastSeenTime": "7:44:13 AM",
+    "onlineDurationMins": 0.21006666666666668
+  }
+}
