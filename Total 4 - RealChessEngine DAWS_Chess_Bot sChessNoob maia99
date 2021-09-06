@@ -1,0 +1,39 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1630909090881,
+    "lastSeen": 1630929136835,
+    "firstSeenTime": "6:18:10 AM",
+    "lastSeenTime": "11:52:16 AM",
+    "onlineDurationMins": 334.09923333333336
+  },
+  "daws_chess_bot@lichess": {
+    "id": "daws_chess_bot",
+    "provider": "lichess",
+    "username": "DAWS_Chess_Bot",
+    "firstSeen": 1630928091754,
+    "lastSeen": 1630929449490,
+    "firstSeenTime": "11:34:51 AM",
+    "lastSeenTime": "11:57:29 AM",
+    "onlineDurationMins": 22.628933333333332
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1630928747241,
+    "lastSeen": 1630929677108,
+    "firstSeenTime": "11:45:47 AM",
+    "lastSeenTime": "12:01:17 PM",
+    "onlineDurationMins": 15.497783333333333
+  },
+  "maia99@lichess": {
+    "id": "maia99",
+    "provider": "lichess",
+    "username": "maia99",
+    "firstSeen": 1630929696531,
+    "lastSeen": 1630929696531
+  }
+}
