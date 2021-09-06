@@ -1,0 +1,23 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1630900783403,
+    "lastSeen": 1630902362577
+  },
+  "higher_b0t@lichess": {
+    "id": "higher_b0t",
+    "provider": "lichess",
+    "username": "Higher_B0T",
+    "firstSeen": 1630902222367,
+    "lastSeen": 1630902404862
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1630902545486,
+    "lastSeen": 1630902545486
+  }
+}
