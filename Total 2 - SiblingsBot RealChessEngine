@@ -1,0 +1,16 @@
+{
+  "siblingsbot@lichess": {
+    "id": "siblingsbot",
+    "provider": "lichess",
+    "username": "SiblingsBot",
+    "firstSeen": 1630898345259,
+    "lastSeen": 1630900491623
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1630900783403,
+    "lastSeen": 1630900783403
+  }
+}
