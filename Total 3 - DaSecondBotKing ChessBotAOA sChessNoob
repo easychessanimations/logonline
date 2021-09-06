@@ -1,0 +1,26 @@
+{
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1630930436822,
+    "lastSeen": 1630945439670,
+    "firstSeenTime": "12:13:56 PM",
+    "lastSeenTime": "12:47:38 PM",
+    "onlineDurationMins": 33.69273333333334
+  },
+  "chessbotaoa@lichess": {
+    "id": "chessbotaoa",
+    "provider": "lichess",
+    "username": "ChessBotAOA",
+    "firstSeen": 1630938788875,
+    "lastSeen": 1630945393542
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1630945718268,
+    "lastSeen": 1630945718268
+  }
+}
