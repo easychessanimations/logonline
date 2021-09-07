@@ -1,0 +1,69 @@
+{
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631030805958,
+    "lastSeen": 1631037307244,
+    "firstSeenTime": "4:06:45 PM",
+    "lastSeenTime": "5:55:07 PM",
+    "onlineDurationMins": 108.35476666666666
+  },
+  "cricketcomputer@lichess": {
+    "id": "cricketcomputer",
+    "provider": "lichess",
+    "username": "cricketcomputer",
+    "firstSeen": 1631034503952,
+    "lastSeen": 1631037330077,
+    "firstSeenTime": "5:08:23 PM",
+    "lastSeenTime": "5:51:09 PM",
+    "onlineDurationMins": 42.75363333333333
+  },
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1631036134830,
+    "lastSeen": 1631036794638,
+    "firstSeenTime": "5:35:34 PM",
+    "lastSeenTime": "5:46:34 PM",
+    "onlineDurationMins": 10.9968
+  },
+  "boulouchessengine@lichess": {
+    "id": "boulouchessengine",
+    "provider": "lichess",
+    "username": "BoulouChessEngine",
+    "firstSeen": 1631036285392,
+    "lastSeen": 1631036513320,
+    "firstSeenTime": "5:38:05 PM",
+    "lastSeenTime": "5:41:53 PM",
+    "onlineDurationMins": 3.7988
+  },
+  "855694812593258506@discord": {
+    "id": "855694812593258506",
+    "provider": "discord",
+    "username": "Boulou88",
+    "firstSeen": 1631036513927,
+    "lastSeen": 1631036544498,
+    "firstSeenTime": "5:41:53 PM",
+    "lastSeenTime": "5:42:24 PM",
+    "onlineDurationMins": 0.5095166666666666
+  },
+  "boulou88@lichess": {
+    "id": "boulou88",
+    "provider": "lichess",
+    "username": "Boulou88",
+    "firstSeen": 1631036544919,
+    "lastSeen": 1631036959346,
+    "firstSeenTime": "5:42:24 PM",
+    "lastSeenTime": "5:49:19 PM",
+    "onlineDurationMins": 6.907116666666667
+  },
+  "cricketcomputer2@lichess": {
+    "id": "cricketcomputer2",
+    "provider": "lichess",
+    "username": "cricketcomputer2",
+    "firstSeen": 1631037330482,
+    "lastSeen": 1631037330482
+  }
+}
