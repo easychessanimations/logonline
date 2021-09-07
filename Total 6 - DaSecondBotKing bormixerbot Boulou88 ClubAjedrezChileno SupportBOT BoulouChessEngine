@@ -1,0 +1,44 @@
+{
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1631018581793,
+    "lastSeen": 1631025514671
+  },
+  "bormixerbot@lichess": {
+    "id": "bormixerbot",
+    "provider": "lichess",
+    "username": "bormixerbot",
+    "firstSeen": 1631022157132,
+    "lastSeen": 1631025334536
+  },
+  "boulou88@lichess": {
+    "id": "boulou88",
+    "provider": "lichess",
+    "username": "Boulou88",
+    "firstSeen": 1631022919886,
+    "lastSeen": 1631025859368
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1631024037731,
+    "lastSeen": 1631025272790
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1631024749957,
+    "lastSeen": 1631025662413
+  },
+  "boulouchessengine@lichess": {
+    "id": "boulouchessengine",
+    "provider": "lichess",
+    "username": "BoulouChessEngine",
+    "firstSeen": 1631025859688,
+    "lastSeen": 1631025859688
+  }
+}
