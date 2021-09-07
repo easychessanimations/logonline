@@ -1,0 +1,62 @@
+{
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631030805958,
+    "lastSeen": 1631036345210,
+    "firstSeenTime": "4:06:45 PM",
+    "lastSeenTime": "5:38:34 PM",
+    "onlineDurationMins": 91.80416666666666
+  },
+  "cricketcomputer@lichess": {
+    "id": "cricketcomputer",
+    "provider": "lichess",
+    "username": "cricketcomputer",
+    "firstSeen": 1631034503952,
+    "lastSeen": 1631036279960,
+    "firstSeenTime": "5:08:23 PM",
+    "lastSeenTime": "5:37:59 PM",
+    "onlineDurationMins": 29.600133333333332
+  },
+  "officaleasychessbot@lichess": {
+    "id": "officaleasychessbot",
+    "provider": "lichess",
+    "username": "OfficalEasyChessBot",
+    "firstSeen": 1631035729812,
+    "lastSeen": 1631035765489,
+    "firstSeenTime": "5:28:49 PM",
+    "lastSeenTime": "5:29:25 PM",
+    "onlineDurationMins": 0.5946166666666667
+  },
+  "electromagneticse@lichess": {
+    "id": "electromagneticse",
+    "provider": "lichess",
+    "username": "ElEcTroMaGnEtIcSE",
+    "firstSeen": 1631035804773,
+    "lastSeen": 1631036007453,
+    "firstSeenTime": "5:30:04 PM",
+    "lastSeenTime": "5:33:27 PM",
+    "onlineDurationMins": 3.378
+  },
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1631036134830,
+    "lastSeen": 1631036138355,
+    "firstSeenTime": "5:35:34 PM",
+    "lastSeenTime": "5:35:38 PM",
+    "onlineDurationMins": 0.05875
+  },
+  "boulouchessengine@lichess": {
+    "id": "boulouchessengine",
+    "provider": "lichess",
+    "username": "BoulouChessEngine",
+    "firstSeen": 1631036285392,
+    "lastSeen": 1631036302922,
+    "firstSeenTime": "5:38:05 PM",
+    "lastSeenTime": "5:38:22 PM",
+    "onlineDurationMins": 0.2921666666666667
+  }
+}
