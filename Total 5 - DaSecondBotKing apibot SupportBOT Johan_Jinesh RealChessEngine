@@ -1,0 +1,37 @@
+{
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1631018581793,
+    "lastSeen": 1631030318117
+  },
+  "apibot@lichess": {
+    "id": "apibot",
+    "provider": "lichess",
+    "username": "apibot",
+    "firstSeen": 1631027694836,
+    "lastSeen": 1631030014841
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1631028958120,
+    "lastSeen": 1631030262907
+  },
+  "johan_jinesh@lichess": {
+    "id": "johan_jinesh",
+    "provider": "lichess",
+    "username": "Johan_Jinesh",
+    "firstSeen": 1631030253604,
+    "lastSeen": 1631030311891
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1631030357060,
+    "lastSeen": 1631030357060
+  }
+}
