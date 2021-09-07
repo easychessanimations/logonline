@@ -1,0 +1,23 @@
+{
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1631018581793,
+    "lastSeen": 1631028934655
+  },
+  "apibot@lichess": {
+    "id": "apibot",
+    "provider": "lichess",
+    "username": "apibot",
+    "firstSeen": 1631027694836,
+    "lastSeen": 1631028735494
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1631028958120,
+    "lastSeen": 1631028958120
+  }
+}
