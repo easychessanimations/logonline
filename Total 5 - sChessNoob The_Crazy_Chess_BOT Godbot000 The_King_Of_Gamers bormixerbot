@@ -1,0 +1,49 @@
+{
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631004340844,
+    "lastSeen": 1631007508180,
+    "firstSeenTime": "8:45:40 AM",
+    "lastSeenTime": "9:38:28 AM",
+    "onlineDurationMins": 52.78893333333333
+  },
+  "the_crazy_chess_bot@lichess": {
+    "id": "the_crazy_chess_bot",
+    "provider": "lichess",
+    "username": "The_Crazy_Chess_BOT",
+    "firstSeen": 1631004509753,
+    "lastSeen": 1631007528164,
+    "firstSeenTime": "8:48:29 AM",
+    "lastSeenTime": "9:38:01 AM",
+    "onlineDurationMins": 49.52923333333333
+  },
+  "godbot000@lichess": {
+    "id": "godbot000",
+    "provider": "lichess",
+    "username": "Godbot000",
+    "firstSeen": 1631006966930,
+    "lastSeen": 1631007897029,
+    "firstSeenTime": "9:29:26 AM",
+    "lastSeenTime": "9:37:42 AM",
+    "onlineDurationMins": 8.266533333333333
+  },
+  "the_king_of_gamers@lichess": {
+    "id": "the_king_of_gamers",
+    "provider": "lichess",
+    "username": "The_King_Of_Gamers",
+    "firstSeen": 1631007322664,
+    "lastSeen": 1631007973109,
+    "firstSeenTime": "9:35:22 AM",
+    "lastSeenTime": "9:36:09 AM",
+    "onlineDurationMins": 0.7723833333333333
+  },
+  "bormixerbot@lichess": {
+    "id": "bormixerbot",
+    "provider": "lichess",
+    "username": "bormixerbot",
+    "firstSeen": 1631008109712,
+    "lastSeen": 1631008109712
+  }
+}
