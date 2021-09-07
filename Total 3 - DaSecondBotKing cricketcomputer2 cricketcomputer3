@@ -1,0 +1,29 @@
+{
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1631036134830,
+    "lastSeen": 1631049574659,
+    "firstSeenTime": "5:35:34 PM",
+    "lastSeenTime": "6:03:49 PM",
+    "onlineDurationMins": 28.251466666666666
+  },
+  "cricketcomputer2@lichess": {
+    "id": "cricketcomputer2",
+    "provider": "lichess",
+    "username": "cricketcomputer2",
+    "firstSeen": 1631037330482,
+    "lastSeen": 1631049461431,
+    "firstSeenTime": "5:55:30 PM",
+    "lastSeenTime": "5:57:24 PM",
+    "onlineDurationMins": 1.9085666666666667
+  },
+  "cricketcomputer3@lichess": {
+    "id": "cricketcomputer3",
+    "provider": "lichess",
+    "username": "cricketcomputer3",
+    "firstSeen": 1631048478528,
+    "lastSeen": 1631049817253
+  }
+}
