@@ -1,0 +1,30 @@
+{
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1631018581793,
+    "lastSeen": 1631029658172
+  },
+  "apibot@lichess": {
+    "id": "apibot",
+    "provider": "lichess",
+    "username": "apibot",
+    "firstSeen": 1631027694836,
+    "lastSeen": 1631030014841
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1631028958120,
+    "lastSeen": 1631029606482
+  },
+  "johan_jinesh@lichess": {
+    "id": "johan_jinesh",
+    "provider": "lichess",
+    "username": "Johan_Jinesh",
+    "firstSeen": 1631030253604,
+    "lastSeen": 1631030253604
+  }
+}
