@@ -1,0 +1,29 @@
+{
+  "godbot000@lichess": {
+    "id": "godbot000",
+    "provider": "lichess",
+    "username": "Godbot000",
+    "firstSeen": 1631006966930,
+    "lastSeen": 1631008280702,
+    "firstSeenTime": "9:29:26 AM",
+    "lastSeenTime": "9:37:42 AM",
+    "onlineDurationMins": 8.266533333333333
+  },
+  "the_king_of_gamers@lichess": {
+    "id": "the_king_of_gamers",
+    "provider": "lichess",
+    "username": "The_King_Of_Gamers",
+    "firstSeen": 1631007322664,
+    "lastSeen": 1631008356410,
+    "firstSeenTime": "9:35:22 AM",
+    "lastSeenTime": "9:36:09 AM",
+    "onlineDurationMins": 0.7723833333333333
+  },
+  "bormixerbot@lichess": {
+    "id": "bormixerbot",
+    "provider": "lichess",
+    "username": "bormixerbot",
+    "firstSeen": 1631008109712,
+    "lastSeen": 1631008336459
+  }
+}
