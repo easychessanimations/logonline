@@ -1,0 +1,69 @@
+{
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1631018581793,
+    "lastSeen": 1631031038173,
+    "firstSeenTime": "12:43:01 PM",
+    "lastSeenTime": "4:03:34 PM",
+    "onlineDurationMins": 200.54781666666668
+  },
+  "apibot@lichess": {
+    "id": "apibot",
+    "provider": "lichess",
+    "username": "apibot",
+    "firstSeen": 1631027694836,
+    "lastSeen": 1631030401729,
+    "firstSeenTime": "3:14:54 PM",
+    "lastSeenTime": "4:00:01 PM",
+    "onlineDurationMins": 45.11488333333333
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1631028958120,
+    "lastSeen": 1631030985725,
+    "firstSeenTime": "3:35:58 PM",
+    "lastSeenTime": "3:57:42 PM",
+    "onlineDurationMins": 21.74645
+  },
+  "johan_jinesh@lichess": {
+    "id": "johan_jinesh",
+    "provider": "lichess",
+    "username": "Johan_Jinesh",
+    "firstSeen": 1631030253604,
+    "lastSeen": 1631030311891,
+    "firstSeenTime": "3:57:33 PM",
+    "lastSeenTime": "3:58:31 PM",
+    "onlineDurationMins": 0.97145
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1631030357060,
+    "lastSeen": 1631030996410,
+    "firstSeenTime": "3:59:17 PM",
+    "lastSeenTime": "4:00:33 PM",
+    "onlineDurationMins": 1.2701333333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631030805958,
+    "lastSeen": 1631030807504,
+    "firstSeenTime": "4:06:45 PM",
+    "lastSeenTime": "4:06:45 PM",
+    "onlineDurationMins": 0
+  },
+  "mrmasterjim@lichess": {
+    "id": "mrmasterjim",
+    "provider": "lichess",
+    "username": "Mrmasterjim",
+    "firstSeen": 1631031095286,
+    "lastSeen": 1631031095286
+  }
+}
