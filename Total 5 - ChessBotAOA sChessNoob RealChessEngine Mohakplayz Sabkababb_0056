@@ -1,0 +1,52 @@
+{
+  "chessbotaoa@lichess": {
+    "id": "chessbotaoa",
+    "provider": "lichess",
+    "username": "ChessBotAOA",
+    "firstSeen": 1631115147574,
+    "lastSeen": 1631121156693,
+    "firstSeenTime": "3:32:27 PM",
+    "lastSeenTime": "5:12:36 PM",
+    "onlineDurationMins": 100.15198333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631115188673,
+    "lastSeen": 1631121360607,
+    "firstSeenTime": "3:33:08 PM",
+    "lastSeenTime": "5:15:29 PM",
+    "onlineDurationMins": 102.34773333333334
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1631120826222,
+    "lastSeen": 1631120839861,
+    "firstSeenTime": "5:07:06 PM",
+    "lastSeenTime": "5:07:19 PM",
+    "onlineDurationMins": 0.22731666666666667
+  },
+  "mohakplayz@lichess": {
+    "id": "mohakplayz",
+    "provider": "lichess",
+    "username": "Mohakplayz",
+    "firstSeen": 1631121240315,
+    "lastSeen": 1631121327777,
+    "firstSeenTime": "5:14:00 PM",
+    "lastSeenTime": "5:15:27 PM",
+    "onlineDurationMins": 1.4577
+  },
+  "sabkababb_0056@lichess": {
+    "id": "sabkababb_0056",
+    "provider": "lichess",
+    "username": "Sabkababb_0056",
+    "firstSeen": 1631121309509,
+    "lastSeen": 1631121324373,
+    "firstSeenTime": "5:15:09 PM",
+    "lastSeenTime": "5:15:24 PM",
+    "onlineDurationMins": 0.24773333333333333
+  }
+}
