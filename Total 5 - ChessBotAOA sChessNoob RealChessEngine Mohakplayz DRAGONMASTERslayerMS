@@ -1,0 +1,52 @@
+{
+  "chessbotaoa@lichess": {
+    "id": "chessbotaoa",
+    "provider": "lichess",
+    "username": "ChessBotAOA",
+    "firstSeen": 1631115147574,
+    "lastSeen": 1631122138612,
+    "firstSeenTime": "3:32:27 PM",
+    "lastSeenTime": "5:28:58 PM",
+    "onlineDurationMins": 116.5173
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631115188673,
+    "lastSeen": 1631122231178,
+    "firstSeenTime": "3:33:08 PM",
+    "lastSeenTime": "5:30:00 PM",
+    "onlineDurationMins": 116.86596666666667
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1631120826222,
+    "lastSeen": 1631121489576,
+    "firstSeenTime": "5:07:06 PM",
+    "lastSeenTime": "5:18:09 PM",
+    "onlineDurationMins": 11.0559
+  },
+  "mohakplayz@lichess": {
+    "id": "mohakplayz",
+    "provider": "lichess",
+    "username": "Mohakplayz",
+    "firstSeen": 1631121240315,
+    "lastSeen": 1631121391366,
+    "firstSeenTime": "5:14:00 PM",
+    "lastSeenTime": "5:16:31 PM",
+    "onlineDurationMins": 2.517516666666667
+  },
+  "dragonmasterslayerms@lichess": {
+    "id": "dragonmasterslayerms",
+    "provider": "lichess",
+    "username": "DRAGONMASTERslayerMS",
+    "firstSeen": 1631121433769,
+    "lastSeen": 1631121445186,
+    "firstSeenTime": "5:17:13 PM",
+    "lastSeenTime": "5:17:25 PM",
+    "onlineDurationMins": 0.19028333333333333
+  }
+}
