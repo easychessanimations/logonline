@@ -1,0 +1,30 @@
+{
+  "apibot@lichess": {
+    "id": "apibot",
+    "provider": "lichess",
+    "username": "apibot",
+    "firstSeen": 1631104488800,
+    "lastSeen": 1631105884191
+  },
+  "mrmasterjim@lichess": {
+    "id": "mrmasterjim",
+    "provider": "lichess",
+    "username": "Mrmasterjim",
+    "firstSeen": 1631105095935,
+    "lastSeen": 1631105876585
+  },
+  "mrmasterjim_5@lichess": {
+    "id": "mrmasterjim_5",
+    "provider": "lichess",
+    "username": "Mrmasterjim_5",
+    "firstSeen": 1631105488604,
+    "lastSeen": 1631105823904
+  },
+  "bormixerbot@lichess": {
+    "id": "bormixerbot",
+    "provider": "lichess",
+    "username": "bormixerbot",
+    "firstSeen": 1631106266080,
+    "lastSeen": 1631106266080
+  }
+}
