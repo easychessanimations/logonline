@@ -1,0 +1,26 @@
+{
+  "los-guerreros1@lichess": {
+    "id": "los-guerreros1",
+    "provider": "lichess",
+    "username": "Los-Guerreros1",
+    "firstSeen": 1631208360869,
+    "lastSeen": 1631214936803,
+    "firstSeenTime": "5:26:00 PM",
+    "lastSeenTime": "6:16:05 PM",
+    "onlineDurationMins": 50.08085
+  },
+  "los-competidores@lichess": {
+    "id": "los-competidores",
+    "provider": "lichess",
+    "username": "Los-Competidores",
+    "firstSeen": 1631214922738,
+    "lastSeen": 1631214946588
+  },
+  "my3rd_eye_spectator@lichess": {
+    "id": "my3rd_eye_spectator",
+    "provider": "lichess",
+    "username": "My3rd_eye_spectator",
+    "firstSeen": 1631215152770,
+    "lastSeen": 1631215152770
+  }
+}
