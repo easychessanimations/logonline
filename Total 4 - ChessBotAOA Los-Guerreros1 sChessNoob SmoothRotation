@@ -1,0 +1,39 @@
+{
+  "chessbotaoa@lichess": {
+    "id": "chessbotaoa",
+    "provider": "lichess",
+    "username": "ChessBotAOA",
+    "firstSeen": 1631201018572,
+    "lastSeen": 1631208745265,
+    "firstSeenTime": "3:23:38 PM",
+    "lastSeenTime": "5:31:29 PM",
+    "onlineDurationMins": 127.85108333333334
+  },
+  "los-guerreros1@lichess": {
+    "id": "los-guerreros1",
+    "provider": "lichess",
+    "username": "Los-Guerreros1",
+    "firstSeen": 1631208360869,
+    "lastSeen": 1631208737499,
+    "firstSeenTime": "5:26:00 PM",
+    "lastSeenTime": "5:30:18 PM",
+    "onlineDurationMins": 4.30015
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631208692672,
+    "lastSeen": 1631208693606,
+    "firstSeenTime": "5:31:32 PM",
+    "lastSeenTime": "5:31:32 PM",
+    "onlineDurationMins": 0
+  },
+  "smoothrotation@lichess": {
+    "id": "smoothrotation",
+    "provider": "lichess",
+    "username": "SmoothRotation",
+    "firstSeen": 1631208756246,
+    "lastSeen": 1631208756246
+  }
+}
