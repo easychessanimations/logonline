@@ -1,0 +1,23 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1631159133092,
+    "lastSeen": 1631161532586
+  },
+  "beat_me_bot@lichess": {
+    "id": "beat_me_bot",
+    "provider": "lichess",
+    "username": "beat_me_bot",
+    "firstSeen": 1631160419441,
+    "lastSeen": 1631160889406
+  },
+  "mohak1mm-1@lichess": {
+    "id": "mohak1mm-1",
+    "provider": "lichess",
+    "username": "Mohak1MM-1",
+    "firstSeen": 1631161738703,
+    "lastSeen": 1631161738703
+  }
+}
