@@ -1,0 +1,49 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1631159133092,
+    "lastSeen": 1631185954130,
+    "firstSeenTime": "3:45:33 AM",
+    "lastSeenTime": "11:12:30 AM",
+    "onlineDurationMins": 446.9622
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631179107191,
+    "lastSeen": 1631185952698,
+    "firstSeenTime": "9:18:27 AM",
+    "lastSeenTime": "11:12:32 AM",
+    "onlineDurationMins": 114.09178333333334
+  },
+  "fastfoodchessshop@lichess": {
+    "id": "fastfoodchessshop",
+    "provider": "lichess",
+    "username": "FastFoodChessShop",
+    "firstSeen": 1631185268596,
+    "lastSeen": 1631185404124,
+    "firstSeenTime": "11:01:08 AM",
+    "lastSeenTime": "11:03:24 AM",
+    "onlineDurationMins": 2.2588
+  },
+  "rpremsaichess@lichess": {
+    "id": "rpremsaichess",
+    "provider": "lichess",
+    "username": "RPREMSAICHESS",
+    "firstSeen": 1631185867469,
+    "lastSeen": 1631185966697,
+    "firstSeenTime": "11:11:07 AM",
+    "lastSeenTime": "11:12:03 AM",
+    "onlineDurationMins": 0.9370333333333334
+  },
+  "fearlesschessplayer@lichess": {
+    "id": "fearlesschessplayer",
+    "provider": "lichess",
+    "username": "Fearlesschessplayer",
+    "firstSeen": 1631185979313,
+    "lastSeen": 1631185979313
+  }
+}
