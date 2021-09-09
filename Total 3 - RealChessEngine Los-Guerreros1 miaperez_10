@@ -1,0 +1,26 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1631159133092,
+    "lastSeen": 1631190093948,
+    "firstSeenTime": "3:45:33 AM",
+    "lastSeenTime": "11:35:02 AM",
+    "onlineDurationMins": 469.4826
+  },
+  "los-guerreros1@lichess": {
+    "id": "los-guerreros1",
+    "provider": "lichess",
+    "username": "Los-Guerreros1",
+    "firstSeen": 1631189629756,
+    "lastSeen": 1631190554141
+  },
+  "miaperez_10@lichess": {
+    "id": "miaperez_10",
+    "provider": "lichess",
+    "username": "miaperez_10",
+    "firstSeen": 1631190083948,
+    "lastSeen": 1631190524361
+  }
+}
