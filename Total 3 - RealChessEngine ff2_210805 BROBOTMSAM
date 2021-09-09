@@ -1,0 +1,26 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1631159133092,
+    "lastSeen": 1631171090119,
+    "firstSeenTime": "3:45:33 AM",
+    "lastSeenTime": "5:21:33 AM",
+    "onlineDurationMins": 96.00345
+  },
+  "ff2_210805@lichess": {
+    "id": "ff2_210805",
+    "provider": "lichess",
+    "username": "ff2_210805",
+    "firstSeen": 1631170168011,
+    "lastSeen": 1631170546103
+  },
+  "brobotmsam@lichess": {
+    "id": "brobotmsam",
+    "provider": "lichess",
+    "username": "BROBOTMSAM",
+    "firstSeen": 1631170977422,
+    "lastSeen": 1631171165031
+  }
+}
