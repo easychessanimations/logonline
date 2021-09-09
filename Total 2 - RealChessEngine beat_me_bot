@@ -1,0 +1,16 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1631159133092,
+    "lastSeen": 1631161186296
+  },
+  "beat_me_bot@lichess": {
+    "id": "beat_me_bot",
+    "provider": "lichess",
+    "username": "beat_me_bot",
+    "firstSeen": 1631160419441,
+    "lastSeen": 1631160889406
+  }
+}
