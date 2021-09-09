@@ -4,13 +4,19 @@
     "provider": "lichess",
     "username": "RealChessEngine",
     "firstSeen": 1631159133092,
-    "lastSeen": 1631163713448
+    "lastSeen": 1631164893299,
+    "firstSeenTime": "3:45:33 AM",
+    "lastSeenTime": "5:21:33 AM",
+    "onlineDurationMins": 96.00345
   },
   "schessnoob@lichess": {
     "id": "schessnoob",
     "provider": "lichess",
     "username": "sChessNoob",
     "firstSeen": 1631163726699,
-    "lastSeen": 1631163726699
+    "lastSeen": 1631165427549,
+    "firstSeenTime": "5:02:06 AM",
+    "lastSeenTime": "5:29:57 AM",
+    "onlineDurationMins": 27.840983333333334
   }
 }
