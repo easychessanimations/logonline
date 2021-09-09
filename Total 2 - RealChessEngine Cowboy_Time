@@ -1,0 +1,19 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1631159133092,
+    "lastSeen": 1631170053727,
+    "firstSeenTime": "3:45:33 AM",
+    "lastSeenTime": "5:21:33 AM",
+    "onlineDurationMins": 96.00345
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1631170163771,
+    "lastSeen": 1631170163771
+  }
+}
