@@ -1,0 +1,23 @@
+{
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1631199475200,
+    "lastSeen": 1631206310280
+  },
+  "chessbotaoa@lichess": {
+    "id": "chessbotaoa",
+    "provider": "lichess",
+    "username": "ChessBotAOA",
+    "firstSeen": 1631201018572,
+    "lastSeen": 1631206302788
+  },
+  "smoothrotation@lichess": {
+    "id": "smoothrotation",
+    "provider": "lichess",
+    "username": "SmoothRotation",
+    "firstSeen": 1631205363949,
+    "lastSeen": 1631206955812
+  }
+}
