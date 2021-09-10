@@ -1,0 +1,23 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1631248285493,
+    "lastSeen": 1631250431394
+  },
+  "fencerparry@lichess": {
+    "id": "fencerparry",
+    "provider": "lichess",
+    "username": "fencerparry",
+    "firstSeen": 1631248919606,
+    "lastSeen": 1631250431823
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631250478962,
+    "lastSeen": 1631250478962
+  }
+}
