@@ -1,0 +1,49 @@
+{
+  "the_fastest_computer@lichess": {
+    "id": "the_fastest_computer",
+    "provider": "lichess",
+    "username": "The_Fastest_Computer",
+    "firstSeen": 1631275084373,
+    "lastSeen": 1631276915931,
+    "firstSeenTime": "11:58:04 AM",
+    "lastSeenTime": "12:24:35 PM",
+    "onlineDurationMins": 26.516266666666667
+  },
+  "franke62@lichess": {
+    "id": "franke62",
+    "provider": "lichess",
+    "username": "franke62",
+    "firstSeen": 1631275539286,
+    "lastSeen": 1631276512790,
+    "firstSeenTime": "12:05:39 PM",
+    "lastSeenTime": "12:21:52 PM",
+    "onlineDurationMins": 16.225066666666667
+  },
+  "kindabadbot@lichess": {
+    "id": "kindabadbot",
+    "provider": "lichess",
+    "username": "kindabadbot",
+    "firstSeen": 1631275950168,
+    "lastSeen": 1631276982774,
+    "firstSeenTime": "12:12:30 PM",
+    "lastSeenTime": "12:26:44 PM",
+    "onlineDurationMins": 14.24505
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631276807117,
+    "lastSeen": 1631276807743,
+    "firstSeenTime": "12:26:47 PM",
+    "lastSeenTime": "12:26:47 PM",
+    "onlineDurationMins": 0
+  },
+  "smoothrotation@lichess": {
+    "id": "smoothrotation",
+    "provider": "lichess",
+    "username": "SmoothRotation",
+    "firstSeen": 1631276994067,
+    "lastSeen": 1631276994067
+  }
+}
