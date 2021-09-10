@@ -1,0 +1,29 @@
+{
+  "the_fastest_computer@lichess": {
+    "id": "the_fastest_computer",
+    "provider": "lichess",
+    "username": "The_Fastest_Computer",
+    "firstSeen": 1631275084373,
+    "lastSeen": 1631281911092,
+    "firstSeenTime": "11:58:04 AM",
+    "lastSeenTime": "1:09:07 PM",
+    "onlineDurationMins": 71.04581666666667
+  },
+  "kindabadbot@lichess": {
+    "id": "kindabadbot",
+    "provider": "lichess",
+    "username": "kindabadbot",
+    "firstSeen": 1631275950168,
+    "lastSeen": 1631281882254,
+    "firstSeenTime": "12:12:30 PM",
+    "lastSeenTime": "1:06:22 PM",
+    "onlineDurationMins": 53.87436666666667
+  },
+  "puzzlebotpuzzlegod@lichess": {
+    "id": "puzzlebotpuzzlegod",
+    "provider": "lichess",
+    "username": "PuzzleBOTPUZZLEGOD",
+    "firstSeen": 1631282377150,
+    "lastSeen": 1631282377150
+  }
+}
