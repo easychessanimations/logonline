@@ -1,0 +1,23 @@
+{
+  "my3rd_eye_spectator@lichess": {
+    "id": "my3rd_eye_spectator",
+    "provider": "lichess",
+    "username": "My3rd_eye_spectator",
+    "firstSeen": 1631244901844,
+    "lastSeen": 1631249481404
+  },
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1631248285493,
+    "lastSeen": 1631250200093
+  },
+  "fencerparry@lichess": {
+    "id": "fencerparry",
+    "provider": "lichess",
+    "username": "fencerparry",
+    "firstSeen": 1631248919606,
+    "lastSeen": 1631250241533
+  }
+}
