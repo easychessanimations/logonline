@@ -1,0 +1,33 @@
+{
+  "kindabadbot@lichess": {
+    "id": "kindabadbot",
+    "provider": "lichess",
+    "username": "kindabadbot",
+    "firstSeen": 1631275950168,
+    "lastSeen": 1631287778145,
+    "firstSeenTime": "12:12:30 PM",
+    "lastSeenTime": "1:06:22 PM",
+    "onlineDurationMins": 53.87436666666667
+  },
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1631285076951,
+    "lastSeen": 1631287774742
+  },
+  "chessbotaoa@lichess": {
+    "id": "chessbotaoa",
+    "provider": "lichess",
+    "username": "ChessBotAOA",
+    "firstSeen": 1631287069806,
+    "lastSeen": 1631287813238
+  },
+  "johnwick_babayoga@lichess": {
+    "id": "johnwick_babayoga",
+    "provider": "lichess",
+    "username": "johnwick_babayoga",
+    "firstSeen": 1631287879089,
+    "lastSeen": 1631287879089
+  }
+}
