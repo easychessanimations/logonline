@@ -1,0 +1,19 @@
+{
+  "kindabadbot@lichess": {
+    "id": "kindabadbot",
+    "provider": "lichess",
+    "username": "kindabadbot",
+    "firstSeen": 1631253443817,
+    "lastSeen": 1631272650054,
+    "firstSeenTime": "5:57:23 AM",
+    "lastSeenTime": "10:15:16 AM",
+    "onlineDurationMins": 257.8861
+  },
+  "botmobile@lichess": {
+    "id": "botmobile",
+    "provider": "lichess",
+    "username": "Botmobile",
+    "firstSeen": 1631271713361,
+    "lastSeen": 1631273215246
+  }
+}
