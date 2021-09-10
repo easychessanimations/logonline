@@ -1,0 +1,39 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1631248285493,
+    "lastSeen": 1631253131220,
+    "firstSeenTime": "4:31:25 AM",
+    "lastSeenTime": "5:41:11 AM",
+    "onlineDurationMins": 69.7625
+  },
+  "fencerparry@lichess": {
+    "id": "fencerparry",
+    "provider": "lichess",
+    "username": "fencerparry",
+    "firstSeen": 1631248919606,
+    "lastSeen": 1631253422380,
+    "firstSeenTime": "4:41:59 AM",
+    "lastSeenTime": "5:41:05 AM",
+    "onlineDurationMins": 59.106183333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631250478962,
+    "lastSeen": 1631252708705,
+    "firstSeenTime": "5:07:58 AM",
+    "lastSeenTime": "5:45:08 AM",
+    "onlineDurationMins": 37.16238333333333
+  },
+  "kindabadbot@lichess": {
+    "id": "kindabadbot",
+    "provider": "lichess",
+    "username": "kindabadbot",
+    "firstSeen": 1631253443817,
+    "lastSeen": 1631253443817
+  }
+}
