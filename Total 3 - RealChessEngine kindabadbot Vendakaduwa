@@ -1,0 +1,29 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1631248285493,
+    "lastSeen": 1631261172597,
+    "firstSeenTime": "4:31:25 AM",
+    "lastSeenTime": "6:46:39 AM",
+    "onlineDurationMins": 135.24081666666666
+  },
+  "kindabadbot@lichess": {
+    "id": "kindabadbot",
+    "provider": "lichess",
+    "username": "kindabadbot",
+    "firstSeen": 1631253443817,
+    "lastSeen": 1631261423301,
+    "firstSeenTime": "5:57:23 AM",
+    "lastSeenTime": "6:47:50 AM",
+    "onlineDurationMins": 50.44595
+  },
+  "vendakaduwa@lichess": {
+    "id": "vendakaduwa",
+    "provider": "lichess",
+    "username": "Vendakaduwa",
+    "firstSeen": 1631261248426,
+    "lastSeen": 1631261334978
+  }
+}
