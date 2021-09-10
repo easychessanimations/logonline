@@ -1,0 +1,32 @@
+{
+  "kindabadbot@lichess": {
+    "id": "kindabadbot",
+    "provider": "lichess",
+    "username": "kindabadbot",
+    "firstSeen": 1631275950168,
+    "lastSeen": 1631292559550,
+    "firstSeenTime": "12:12:30 PM",
+    "lastSeenTime": "4:38:24 PM",
+    "onlineDurationMins": 265.89868333333334
+  },
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1631285076951,
+    "lastSeen": 1631291918242,
+    "firstSeenTime": "2:44:36 PM",
+    "lastSeenTime": "4:38:38 PM",
+    "onlineDurationMins": 114.02151666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631290542229,
+    "lastSeen": 1631292743242,
+    "firstSeenTime": "4:15:42 PM",
+    "lastSeenTime": "4:44:32 PM",
+    "onlineDurationMins": 28.843833333333333
+  }
+}
