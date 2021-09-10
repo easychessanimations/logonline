@@ -1,0 +1,19 @@
+{
+  "kindabadbot@lichess": {
+    "id": "kindabadbot",
+    "provider": "lichess",
+    "username": "kindabadbot",
+    "firstSeen": 1631253443817,
+    "lastSeen": 1631271548466,
+    "firstSeenTime": "5:57:23 AM",
+    "lastSeenTime": "10:15:16 AM",
+    "onlineDurationMins": 257.8861
+  },
+  "the_fastest_computer@lichess": {
+    "id": "the_fastest_computer",
+    "provider": "lichess",
+    "username": "The_Fastest_Computer",
+    "firstSeen": 1631270633187,
+    "lastSeen": 1631271301642
+  }
+}
