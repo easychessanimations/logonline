@@ -1,0 +1,49 @@
+{
+  "realchessengine@lichess": {
+    "id": "realchessengine",
+    "provider": "lichess",
+    "username": "RealChessEngine",
+    "firstSeen": 1631248285493,
+    "lastSeen": 1631261172597,
+    "firstSeenTime": "4:31:25 AM",
+    "lastSeenTime": "6:46:39 AM",
+    "onlineDurationMins": 135.24081666666666
+  },
+  "fencerparry@lichess": {
+    "id": "fencerparry",
+    "provider": "lichess",
+    "username": "fencerparry",
+    "firstSeen": 1631248919606,
+    "lastSeen": 1631260828236,
+    "firstSeenTime": "4:41:59 AM",
+    "lastSeenTime": "6:47:05 AM",
+    "onlineDurationMins": 125.10453333333334
+  },
+  "kindabadbot@lichess": {
+    "id": "kindabadbot",
+    "provider": "lichess",
+    "username": "kindabadbot",
+    "firstSeen": 1631253443817,
+    "lastSeen": 1631260962411,
+    "firstSeenTime": "5:57:23 AM",
+    "lastSeenTime": "6:47:50 AM",
+    "onlineDurationMins": 50.44595
+  },
+  "midnightshadow_03@lichess": {
+    "id": "midnightshadow_03",
+    "provider": "lichess",
+    "username": "midnightshadow_03",
+    "firstSeen": 1631255847682,
+    "lastSeen": 1631260356435,
+    "firstSeenTime": "6:37:27 AM",
+    "lastSeenTime": "6:41:15 AM",
+    "onlineDurationMins": 3.8026333333333335
+  },
+  "vendakaduwa@lichess": {
+    "id": "vendakaduwa",
+    "provider": "lichess",
+    "username": "Vendakaduwa",
+    "firstSeen": 1631261248426,
+    "lastSeen": 1631261248426
+  }
+}
