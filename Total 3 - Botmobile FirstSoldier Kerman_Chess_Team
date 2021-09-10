@@ -1,0 +1,23 @@
+{
+  "botmobile@lichess": {
+    "id": "botmobile",
+    "provider": "lichess",
+    "username": "Botmobile",
+    "firstSeen": 1631271713361,
+    "lastSeen": 1631273704637
+  },
+  "firstsoldier@lichess": {
+    "id": "firstsoldier",
+    "provider": "lichess",
+    "username": "FirstSoldier",
+    "firstSeen": 1631273648434,
+    "lastSeen": 1631273691749
+  },
+  "kerman_chess_team@lichess": {
+    "id": "kerman_chess_team",
+    "provider": "lichess",
+    "username": "Kerman_Chess_Team",
+    "firstSeen": 1631273931863,
+    "lastSeen": 1631273931863
+  }
+}
