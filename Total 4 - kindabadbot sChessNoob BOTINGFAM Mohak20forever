@@ -1,0 +1,42 @@
+{
+  "kindabadbot@lichess": {
+    "id": "kindabadbot",
+    "provider": "lichess",
+    "username": "kindabadbot",
+    "firstSeen": 1631253443817,
+    "lastSeen": 1631267418457,
+    "firstSeenTime": "5:57:23 AM",
+    "lastSeenTime": "9:50:18 AM",
+    "onlineDurationMins": 232.91066666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631264103998,
+    "lastSeen": 1631267456161,
+    "firstSeenTime": "8:55:03 AM",
+    "lastSeenTime": "9:50:25 AM",
+    "onlineDurationMins": 55.36155
+  },
+  "botingfam@lichess": {
+    "id": "botingfam",
+    "provider": "lichess",
+    "username": "BOTINGFAM",
+    "firstSeen": 1631266801686,
+    "lastSeen": 1631267377881,
+    "firstSeenTime": "9:40:01 AM",
+    "lastSeenTime": "9:49:37 AM",
+    "onlineDurationMins": 9.60325
+  },
+  "mohak20forever@lichess": {
+    "id": "mohak20forever",
+    "provider": "lichess",
+    "username": "Mohak20forever",
+    "firstSeen": 1631267378311,
+    "lastSeen": 1631267389272,
+    "firstSeenTime": "9:49:38 AM",
+    "lastSeenTime": "9:49:49 AM",
+    "onlineDurationMins": 0.18268333333333334
+  }
+}
