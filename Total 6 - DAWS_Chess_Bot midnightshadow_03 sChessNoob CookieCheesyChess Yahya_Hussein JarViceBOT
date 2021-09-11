@@ -1,0 +1,59 @@
+{
+  "daws_chess_bot@lichess": {
+    "id": "daws_chess_bot",
+    "provider": "lichess",
+    "username": "DAWS_Chess_Bot",
+    "firstSeen": 1631332699814,
+    "lastSeen": 1631340078955,
+    "firstSeenTime": "3:58:19 AM",
+    "lastSeenTime": "6:01:18 AM",
+    "onlineDurationMins": 122.98568333333333
+  },
+  "midnightshadow_03@lichess": {
+    "id": "midnightshadow_03",
+    "provider": "lichess",
+    "username": "midnightshadow_03",
+    "firstSeen": 1631337205910,
+    "lastSeen": 1631339913104,
+    "firstSeenTime": "5:13:25 AM",
+    "lastSeenTime": "5:58:33 AM",
+    "onlineDurationMins": 45.1199
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631337690379,
+    "lastSeen": 1631340240678,
+    "firstSeenTime": "5:21:30 AM",
+    "lastSeenTime": "6:04:00 AM",
+    "onlineDurationMins": 42.504983333333335
+  },
+  "cookiecheesychess@lichess": {
+    "id": "cookiecheesychess",
+    "provider": "lichess",
+    "username": "CookieCheesyChess",
+    "firstSeen": 1631339933268,
+    "lastSeen": 1631339943795,
+    "firstSeenTime": "5:58:53 AM",
+    "lastSeenTime": "5:59:03 AM",
+    "onlineDurationMins": 0.17545
+  },
+  "yahya_hussein@lichess": {
+    "id": "yahya_hussein",
+    "provider": "lichess",
+    "username": "Yahya_Hussein",
+    "firstSeen": 1631339994116,
+    "lastSeen": 1631340016233,
+    "firstSeenTime": "5:59:54 AM",
+    "lastSeenTime": "6:00:16 AM",
+    "onlineDurationMins": 0.36861666666666665
+  },
+  "jarvicebot@lichess": {
+    "id": "jarvicebot",
+    "provider": "lichess",
+    "username": "JarViceBOT",
+    "firstSeen": 1631340240815,
+    "lastSeen": 1631340240815
+  }
+}
