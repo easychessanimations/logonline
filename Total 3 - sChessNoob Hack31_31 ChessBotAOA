@@ -1,0 +1,32 @@
+{
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631367819955,
+    "lastSeen": 1631380548028,
+    "firstSeenTime": "1:43:39 PM",
+    "lastSeenTime": "5:15:17 PM",
+    "onlineDurationMins": 211.61808333333335
+  },
+  "hack31_31@lichess": {
+    "id": "hack31_31",
+    "provider": "lichess",
+    "username": "Hack31_31",
+    "firstSeen": 1631376990077,
+    "lastSeen": 1631380036008,
+    "firstSeenTime": "4:16:30 PM",
+    "lastSeenTime": "5:07:16 PM",
+    "onlineDurationMins": 50.76551666666667
+  },
+  "chessbotaoa@lichess": {
+    "id": "chessbotaoa",
+    "provider": "lichess",
+    "username": "ChessBotAOA",
+    "firstSeen": 1631379654367,
+    "lastSeen": 1631380191432,
+    "firstSeenTime": "5:00:54 PM",
+    "lastSeenTime": "5:09:51 PM",
+    "onlineDurationMins": 8.951083333333333
+  }
+}
