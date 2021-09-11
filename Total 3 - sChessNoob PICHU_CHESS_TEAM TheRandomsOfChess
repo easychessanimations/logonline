@@ -1,0 +1,29 @@
+{
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631355620308,
+    "lastSeen": 1631362810254,
+    "firstSeenTime": "10:20:20 AM",
+    "lastSeenTime": "12:20:10 PM",
+    "onlineDurationMins": 119.83243333333333
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1631360363960,
+    "lastSeen": 1631363600400,
+    "firstSeenTime": "11:39:23 AM",
+    "lastSeenTime": "12:13:33 PM",
+    "onlineDurationMins": 34.15315
+  },
+  "therandomsofchess@lichess": {
+    "id": "therandomsofchess",
+    "provider": "lichess",
+    "username": "TheRandomsOfChess",
+    "firstSeen": 1631363593338,
+    "lastSeen": 1631363696304
+  }
+}
