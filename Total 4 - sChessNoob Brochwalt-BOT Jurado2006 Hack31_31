@@ -1,0 +1,42 @@
+{
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631367819955,
+    "lastSeen": 1631377376337,
+    "firstSeenTime": "1:43:39 PM",
+    "lastSeenTime": "4:22:25 PM",
+    "onlineDurationMins": 158.76431666666667
+  },
+  "brochwalt-bot@lichess": {
+    "id": "brochwalt-bot",
+    "provider": "lichess",
+    "username": "Brochwalt-BOT",
+    "firstSeen": 1631374509342,
+    "lastSeen": 1631377118184,
+    "firstSeenTime": "3:35:09 PM",
+    "lastSeenTime": "4:18:38 PM",
+    "onlineDurationMins": 43.4807
+  },
+  "jurado2006@lichess": {
+    "id": "jurado2006",
+    "provider": "lichess",
+    "username": "Jurado2006",
+    "firstSeen": 1631376088159,
+    "lastSeen": 1631376589788,
+    "firstSeenTime": "4:01:28 PM",
+    "lastSeenTime": "4:09:49 PM",
+    "onlineDurationMins": 8.360483333333333
+  },
+  "hack31_31@lichess": {
+    "id": "hack31_31",
+    "provider": "lichess",
+    "username": "Hack31_31",
+    "firstSeen": 1631376990077,
+    "lastSeen": 1631377071742,
+    "firstSeenTime": "4:16:30 PM",
+    "lastSeenTime": "4:17:51 PM",
+    "onlineDurationMins": 1.3610833333333334
+  }
+}
