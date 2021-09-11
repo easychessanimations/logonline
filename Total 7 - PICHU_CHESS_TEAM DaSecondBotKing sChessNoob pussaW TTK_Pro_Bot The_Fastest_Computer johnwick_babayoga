@@ -1,0 +1,72 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1631360363960,
+    "lastSeen": 1631366240402,
+    "firstSeenTime": "11:39:23 AM",
+    "lastSeenTime": "1:17:20 PM",
+    "onlineDurationMins": 97.9407
+  },
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1631364873804,
+    "lastSeen": 1631366377709,
+    "firstSeenTime": "12:54:33 PM",
+    "lastSeenTime": "1:19:37 PM",
+    "onlineDurationMins": 25.065083333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631365177412,
+    "lastSeen": 1631366723957,
+    "firstSeenTime": "12:59:37 PM",
+    "lastSeenTime": "1:25:23 PM",
+    "onlineDurationMins": 25.77575
+  },
+  "pussaw@lichess": {
+    "id": "pussaw",
+    "provider": "lichess",
+    "username": "pussaW",
+    "firstSeen": 1631365842780,
+    "lastSeen": 1631366038708,
+    "firstSeenTime": "1:10:42 PM",
+    "lastSeenTime": "1:13:58 PM",
+    "onlineDurationMins": 3.2654666666666667
+  },
+  "ttk_pro_bot@lichess": {
+    "id": "ttk_pro_bot",
+    "provider": "lichess",
+    "username": "TTK_Pro_Bot",
+    "firstSeen": 1631366182750,
+    "lastSeen": 1631366540593,
+    "firstSeenTime": "1:16:22 PM",
+    "lastSeenTime": "1:22:20 PM",
+    "onlineDurationMins": 5.96405
+  },
+  "the_fastest_computer@lichess": {
+    "id": "the_fastest_computer",
+    "provider": "lichess",
+    "username": "The_Fastest_Computer",
+    "firstSeen": 1631366271534,
+    "lastSeen": 1631366705870,
+    "firstSeenTime": "1:17:51 PM",
+    "lastSeenTime": "1:25:05 PM",
+    "onlineDurationMins": 7.238933333333334
+  },
+  "johnwick_babayoga@lichess": {
+    "id": "johnwick_babayoga",
+    "provider": "lichess",
+    "username": "johnwick_babayoga",
+    "firstSeen": 1631366687752,
+    "lastSeen": 1631366722162,
+    "firstSeenTime": "1:24:47 PM",
+    "lastSeenTime": "1:25:22 PM",
+    "onlineDurationMins": 0.5735
+  }
+}
