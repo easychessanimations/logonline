@@ -1,0 +1,26 @@
+{
+  "the_fastest_computer@lichess": {
+    "id": "the_fastest_computer",
+    "provider": "lichess",
+    "username": "The_Fastest_Computer",
+    "firstSeen": 1631343428147,
+    "lastSeen": 1631351763658,
+    "firstSeenTime": "6:57:08 AM",
+    "lastSeenTime": "8:50:25 AM",
+    "onlineDurationMins": 113.2923
+  },
+  "heerav_chess@lichess": {
+    "id": "heerav_chess",
+    "provider": "lichess",
+    "username": "Heerav_Chess",
+    "firstSeen": 1631351099392,
+    "lastSeen": 1631351220224
+  },
+  "bumithadihain2001@lichess": {
+    "id": "bumithadihain2001",
+    "provider": "lichess",
+    "username": "BumithaDihain2001",
+    "firstSeen": 1631351392518,
+    "lastSeen": 1631351448079
+  }
+}
