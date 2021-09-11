@@ -1,0 +1,26 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1631360363960,
+    "lastSeen": 1631363600400,
+    "firstSeenTime": "11:39:23 AM",
+    "lastSeenTime": "12:13:33 PM",
+    "onlineDurationMins": 34.15315
+  },
+  "therandomsofchess@lichess": {
+    "id": "therandomsofchess",
+    "provider": "lichess",
+    "username": "TheRandomsOfChess",
+    "firstSeen": 1631363593338,
+    "lastSeen": 1631363816384
+  },
+  "themoverofchess@lichess": {
+    "id": "themoverofchess",
+    "provider": "lichess",
+    "username": "TheMoverOfChess",
+    "firstSeen": 1631363816805,
+    "lastSeen": 1631363816805
+  }
+}
