@@ -1,0 +1,42 @@
+{
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1631364873804,
+    "lastSeen": 1631370334671,
+    "firstSeenTime": "12:54:33 PM",
+    "lastSeenTime": "2:25:34 PM",
+    "onlineDurationMins": 91.01445
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631367819955,
+    "lastSeen": 1631370395715,
+    "firstSeenTime": "1:43:39 PM",
+    "lastSeenTime": "2:26:35 PM",
+    "onlineDurationMins": 42.92933333333333
+  },
+  "powerbotmagic@lichess": {
+    "id": "powerbotmagic",
+    "provider": "lichess",
+    "username": "POWERBOTMAGIC",
+    "firstSeen": 1631369527539,
+    "lastSeen": 1631369552201,
+    "firstSeenTime": "2:12:07 PM",
+    "lastSeenTime": "2:12:32 PM",
+    "onlineDurationMins": 0.4110333333333333
+  },
+  "brochwalt-bot@lichess": {
+    "id": "brochwalt-bot",
+    "provider": "lichess",
+    "username": "Brochwalt-BOT",
+    "firstSeen": 1631369833805,
+    "lastSeen": 1631370418738,
+    "firstSeenTime": "2:17:13 PM",
+    "lastSeenTime": "2:23:59 PM",
+    "onlineDurationMins": 6.759833333333333
+  }
+}
