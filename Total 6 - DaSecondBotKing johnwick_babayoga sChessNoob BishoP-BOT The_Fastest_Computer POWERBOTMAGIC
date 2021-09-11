@@ -1,0 +1,59 @@
+{
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1631364873804,
+    "lastSeen": 1631369377337,
+    "firstSeenTime": "12:54:33 PM",
+    "lastSeenTime": "2:09:37 PM",
+    "onlineDurationMins": 75.05888333333333
+  },
+  "johnwick_babayoga@lichess": {
+    "id": "johnwick_babayoga",
+    "provider": "lichess",
+    "username": "johnwick_babayoga",
+    "firstSeen": 1631366687752,
+    "lastSeen": 1631369094177,
+    "firstSeenTime": "1:24:47 PM",
+    "lastSeenTime": "2:04:54 PM",
+    "onlineDurationMins": 40.107083333333335
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631367819955,
+    "lastSeen": 1631369506624,
+    "firstSeenTime": "1:43:39 PM",
+    "lastSeenTime": "2:11:46 PM",
+    "onlineDurationMins": 28.11115
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1631368701975,
+    "lastSeen": 1631369014619,
+    "firstSeenTime": "1:58:21 PM",
+    "lastSeenTime": "2:03:34 PM",
+    "onlineDurationMins": 5.210733333333334
+  },
+  "the_fastest_computer@lichess": {
+    "id": "the_fastest_computer",
+    "provider": "lichess",
+    "username": "The_Fastest_Computer",
+    "firstSeen": 1631369505440,
+    "lastSeen": 1631369509043,
+    "firstSeenTime": "2:11:45 PM",
+    "lastSeenTime": "2:11:46 PM",
+    "onlineDurationMins": 0.016766666666666666
+  },
+  "powerbotmagic@lichess": {
+    "id": "powerbotmagic",
+    "provider": "lichess",
+    "username": "POWERBOTMAGIC",
+    "firstSeen": 1631369527539,
+    "lastSeen": 1631369527539
+  }
+}
