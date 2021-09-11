@@ -1,0 +1,39 @@
+{
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1631364873804,
+    "lastSeen": 1631371654686,
+    "firstSeenTime": "12:54:33 PM",
+    "lastSeenTime": "2:47:34 PM",
+    "onlineDurationMins": 113.0147
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631367819955,
+    "lastSeen": 1631371857623,
+    "firstSeenTime": "1:43:39 PM",
+    "lastSeenTime": "2:50:57 PM",
+    "onlineDurationMins": 67.29446666666666
+  },
+  "the_fastest_computer@lichess": {
+    "id": "the_fastest_computer",
+    "provider": "lichess",
+    "username": "The_Fastest_Computer",
+    "firstSeen": 1631370471723,
+    "lastSeen": 1631371916974,
+    "firstSeenTime": "2:27:51 PM",
+    "lastSeenTime": "2:45:05 PM",
+    "onlineDurationMins": 17.23445
+  },
+  "johnwick_babayoga@lichess": {
+    "id": "johnwick_babayoga",
+    "provider": "lichess",
+    "username": "johnwick_babayoga",
+    "firstSeen": 1631371917484,
+    "lastSeen": 1631371917484
+  }
+}
