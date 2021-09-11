@@ -1,0 +1,49 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1631360363960,
+    "lastSeen": 1631365605801,
+    "firstSeenTime": "11:39:23 AM",
+    "lastSeenTime": "1:06:45 PM",
+    "onlineDurationMins": 87.36401666666667
+  },
+  "themoverofchess@lichess": {
+    "id": "themoverofchess",
+    "provider": "lichess",
+    "username": "TheMoverOfChess",
+    "firstSeen": 1631363816805,
+    "lastSeen": 1631365842382,
+    "firstSeenTime": "12:36:56 PM",
+    "lastSeenTime": "1:10:06 PM",
+    "onlineDurationMins": 33.165283333333335
+  },
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1631364873804,
+    "lastSeen": 1631365598336,
+    "firstSeenTime": "12:54:33 PM",
+    "lastSeenTime": "1:06:38 PM",
+    "onlineDurationMins": 12.075533333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631365177412,
+    "lastSeen": 1631365827897,
+    "firstSeenTime": "12:59:37 PM",
+    "lastSeenTime": "1:10:27 PM",
+    "onlineDurationMins": 10.841416666666667
+  },
+  "pussaw@lichess": {
+    "id": "pussaw",
+    "provider": "lichess",
+    "username": "pussaW",
+    "firstSeen": 1631365842780,
+    "lastSeen": 1631365842780
+  }
+}
