@@ -1,0 +1,79 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1631360363960,
+    "lastSeen": 1631366240402,
+    "firstSeenTime": "11:39:23 AM",
+    "lastSeenTime": "1:17:20 PM",
+    "onlineDurationMins": 97.9407
+  },
+  "themoverofchess@lichess": {
+    "id": "themoverofchess",
+    "provider": "lichess",
+    "username": "TheMoverOfChess",
+    "firstSeen": 1631363816805,
+    "lastSeen": 1631365842382,
+    "firstSeenTime": "12:36:56 PM",
+    "lastSeenTime": "1:10:42 PM",
+    "onlineDurationMins": 33.759616666666666
+  },
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1631364873804,
+    "lastSeen": 1631366377709,
+    "firstSeenTime": "12:54:33 PM",
+    "lastSeenTime": "1:19:37 PM",
+    "onlineDurationMins": 25.065083333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631365177412,
+    "lastSeen": 1631366661934,
+    "firstSeenTime": "12:59:37 PM",
+    "lastSeenTime": "1:24:21 PM",
+    "onlineDurationMins": 24.74203333333333
+  },
+  "pussaw@lichess": {
+    "id": "pussaw",
+    "provider": "lichess",
+    "username": "pussaW",
+    "firstSeen": 1631365842780,
+    "lastSeen": 1631366038708,
+    "firstSeenTime": "1:10:42 PM",
+    "lastSeenTime": "1:13:58 PM",
+    "onlineDurationMins": 3.2654666666666667
+  },
+  "ttk_pro_bot@lichess": {
+    "id": "ttk_pro_bot",
+    "provider": "lichess",
+    "username": "TTK_Pro_Bot",
+    "firstSeen": 1631366182750,
+    "lastSeen": 1631366540593,
+    "firstSeenTime": "1:16:22 PM",
+    "lastSeenTime": "1:22:20 PM",
+    "onlineDurationMins": 5.96405
+  },
+  "the_fastest_computer@lichess": {
+    "id": "the_fastest_computer",
+    "provider": "lichess",
+    "username": "The_Fastest_Computer",
+    "firstSeen": 1631366271534,
+    "lastSeen": 1631366588940,
+    "firstSeenTime": "1:17:51 PM",
+    "lastSeenTime": "1:23:08 PM",
+    "onlineDurationMins": 5.2901
+  },
+  "johnwick_babayoga@lichess": {
+    "id": "johnwick_babayoga",
+    "provider": "lichess",
+    "username": "johnwick_babayoga",
+    "firstSeen": 1631366687752,
+    "lastSeen": 1631366687752
+  }
+}
