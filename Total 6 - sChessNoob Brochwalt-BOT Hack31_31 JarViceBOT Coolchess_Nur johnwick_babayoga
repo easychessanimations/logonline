@@ -1,0 +1,59 @@
+{
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631367819955,
+    "lastSeen": 1631377802449,
+    "firstSeenTime": "1:43:39 PM",
+    "lastSeenTime": "4:30:02 PM",
+    "onlineDurationMins": 166.3749
+  },
+  "brochwalt-bot@lichess": {
+    "id": "brochwalt-bot",
+    "provider": "lichess",
+    "username": "Brochwalt-BOT",
+    "firstSeen": 1631374509342,
+    "lastSeen": 1631377118184,
+    "firstSeenTime": "3:35:09 PM",
+    "lastSeenTime": "4:18:38 PM",
+    "onlineDurationMins": 43.4807
+  },
+  "hack31_31@lichess": {
+    "id": "hack31_31",
+    "provider": "lichess",
+    "username": "Hack31_31",
+    "firstSeen": 1631376990077,
+    "lastSeen": 1631377798519,
+    "firstSeenTime": "4:16:30 PM",
+    "lastSeenTime": "4:29:58 PM",
+    "onlineDurationMins": 13.474033333333333
+  },
+  "jarvicebot@lichess": {
+    "id": "jarvicebot",
+    "provider": "lichess",
+    "username": "JarViceBOT",
+    "firstSeen": 1631377630637,
+    "lastSeen": 1631377640720,
+    "firstSeenTime": "4:27:10 PM",
+    "lastSeenTime": "4:27:20 PM",
+    "onlineDurationMins": 0.16805
+  },
+  "coolchess_nur@lichess": {
+    "id": "coolchess_nur",
+    "provider": "lichess",
+    "username": "Coolchess_Nur",
+    "firstSeen": 1631377635241,
+    "lastSeen": 1631377781228,
+    "firstSeenTime": "4:27:15 PM",
+    "lastSeenTime": "4:29:41 PM",
+    "onlineDurationMins": 2.433116666666667
+  },
+  "johnwick_babayoga@lichess": {
+    "id": "johnwick_babayoga",
+    "provider": "lichess",
+    "username": "johnwick_babayoga",
+    "firstSeen": 1631377822318,
+    "lastSeen": 1631377822318
+  }
+}
