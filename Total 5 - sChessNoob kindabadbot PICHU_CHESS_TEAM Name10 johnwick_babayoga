@@ -1,0 +1,49 @@
+{
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631355620308,
+    "lastSeen": 1631361319697,
+    "firstSeenTime": "10:20:20 AM",
+    "lastSeenTime": "11:55:19 AM",
+    "onlineDurationMins": 94.98981666666667
+  },
+  "kindabadbot@lichess": {
+    "id": "kindabadbot",
+    "provider": "lichess",
+    "username": "kindabadbot",
+    "firstSeen": 1631359580471,
+    "lastSeen": 1631361059785,
+    "firstSeenTime": "11:26:20 AM",
+    "lastSeenTime": "11:50:59 AM",
+    "onlineDurationMins": 24.65523333333333
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1631360363960,
+    "lastSeen": 1631360928838,
+    "firstSeenTime": "11:39:23 AM",
+    "lastSeenTime": "11:48:48 AM",
+    "onlineDurationMins": 9.414633333333333
+  },
+  "name10@lichess": {
+    "id": "name10",
+    "provider": "lichess",
+    "username": "Name10",
+    "firstSeen": 1631360692395,
+    "lastSeen": 1631360724896,
+    "firstSeenTime": "11:44:52 AM",
+    "lastSeenTime": "11:45:24 AM",
+    "onlineDurationMins": 0.5416833333333333
+  },
+  "johnwick_babayoga@lichess": {
+    "id": "johnwick_babayoga",
+    "provider": "lichess",
+    "username": "johnwick_babayoga",
+    "firstSeen": 1631361346397,
+    "lastSeen": 1631361346397
+  }
+}
