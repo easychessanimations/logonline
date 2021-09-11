@@ -1,0 +1,49 @@
+{
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1631364873804,
+    "lastSeen": 1631375074668,
+    "firstSeenTime": "12:54:33 PM",
+    "lastSeenTime": "3:44:34 PM",
+    "onlineDurationMins": 170.0144
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631367819955,
+    "lastSeen": 1631375113818,
+    "firstSeenTime": "1:43:39 PM",
+    "lastSeenTime": "3:45:13 PM",
+    "onlineDurationMins": 121.56438333333334
+  },
+  "johnwick_babayoga@lichess": {
+    "id": "johnwick_babayoga",
+    "provider": "lichess",
+    "username": "johnwick_babayoga",
+    "firstSeen": 1631371917484,
+    "lastSeen": 1631374876018,
+    "firstSeenTime": "2:51:57 PM",
+    "lastSeenTime": "3:41:16 PM",
+    "onlineDurationMins": 49.3089
+  },
+  "brochwalt-bot@lichess": {
+    "id": "brochwalt-bot",
+    "provider": "lichess",
+    "username": "Brochwalt-BOT",
+    "firstSeen": 1631374509342,
+    "lastSeen": 1631375109232,
+    "firstSeenTime": "3:35:09 PM",
+    "lastSeenTime": "3:45:09 PM",
+    "onlineDurationMins": 9.998166666666666
+  },
+  "jarvicebot@lichess": {
+    "id": "jarvicebot",
+    "provider": "lichess",
+    "username": "JarViceBOT",
+    "firstSeen": 1631375131108,
+    "lastSeen": 1631375131108
+  }
+}
