@@ -1,0 +1,23 @@
+{
+  "heerav_chess@lichess": {
+    "id": "heerav_chess",
+    "provider": "lichess",
+    "username": "Heerav_Chess",
+    "firstSeen": 1631351099392,
+    "lastSeen": 1631353250146
+  },
+  "kindabadbot@lichess": {
+    "id": "kindabadbot",
+    "provider": "lichess",
+    "username": "kindabadbot",
+    "firstSeen": 1631352430040,
+    "lastSeen": 1631352968142
+  },
+  "smoothrotation@lichess": {
+    "id": "smoothrotation",
+    "provider": "lichess",
+    "username": "SmoothRotation",
+    "firstSeen": 1631352966594,
+    "lastSeen": 1631353046886
+  }
+}
