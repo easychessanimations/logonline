@@ -1,0 +1,42 @@
+{
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631367819955,
+    "lastSeen": 1631379443944,
+    "firstSeenTime": "1:43:39 PM",
+    "lastSeenTime": "4:57:23 PM",
+    "onlineDurationMins": 193.73315
+  },
+  "hack31_31@lichess": {
+    "id": "hack31_31",
+    "provider": "lichess",
+    "username": "Hack31_31",
+    "firstSeen": 1631376990077,
+    "lastSeen": 1631379469008,
+    "firstSeenTime": "4:16:30 PM",
+    "lastSeenTime": "4:55:13 PM",
+    "onlineDurationMins": 38.7302
+  },
+  "jarvicebot@lichess": {
+    "id": "jarvicebot",
+    "provider": "lichess",
+    "username": "JarViceBOT",
+    "firstSeen": 1631377630637,
+    "lastSeen": 1631379165905,
+    "firstSeenTime": "4:27:10 PM",
+    "lastSeenTime": "4:52:45 PM",
+    "onlineDurationMins": 25.5878
+  },
+  "johnwick_babayoga@lichess": {
+    "id": "johnwick_babayoga",
+    "provider": "lichess",
+    "username": "johnwick_babayoga",
+    "firstSeen": 1631379314914,
+    "lastSeen": 1631379445375,
+    "firstSeenTime": "4:55:14 PM",
+    "lastSeenTime": "4:56:55 PM",
+    "onlineDurationMins": 1.6782
+  }
+}
