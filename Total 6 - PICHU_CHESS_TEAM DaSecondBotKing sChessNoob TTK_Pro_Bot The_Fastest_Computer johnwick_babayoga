@@ -1,0 +1,62 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1631360363960,
+    "lastSeen": 1631366240402,
+    "firstSeenTime": "11:39:23 AM",
+    "lastSeenTime": "1:17:20 PM",
+    "onlineDurationMins": 97.9407
+  },
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1631364873804,
+    "lastSeen": 1631366917963,
+    "firstSeenTime": "12:54:33 PM",
+    "lastSeenTime": "1:19:37 PM",
+    "onlineDurationMins": 25.065083333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631365177412,
+    "lastSeen": 1631366754938,
+    "firstSeenTime": "12:59:37 PM",
+    "lastSeenTime": "1:25:54 PM",
+    "onlineDurationMins": 26.2921
+  },
+  "ttk_pro_bot@lichess": {
+    "id": "ttk_pro_bot",
+    "provider": "lichess",
+    "username": "TTK_Pro_Bot",
+    "firstSeen": 1631366182750,
+    "lastSeen": 1631366909057,
+    "firstSeenTime": "1:16:22 PM",
+    "lastSeenTime": "1:22:20 PM",
+    "onlineDurationMins": 5.96405
+  },
+  "the_fastest_computer@lichess": {
+    "id": "the_fastest_computer",
+    "provider": "lichess",
+    "username": "The_Fastest_Computer",
+    "firstSeen": 1631366271534,
+    "lastSeen": 1631366955096,
+    "firstSeenTime": "1:17:51 PM",
+    "lastSeenTime": "1:25:05 PM",
+    "onlineDurationMins": 7.238933333333334
+  },
+  "johnwick_babayoga@lichess": {
+    "id": "johnwick_babayoga",
+    "provider": "lichess",
+    "username": "johnwick_babayoga",
+    "firstSeen": 1631366687752,
+    "lastSeen": 1631366799063,
+    "firstSeenTime": "1:24:47 PM",
+    "lastSeenTime": "1:25:54 PM",
+    "onlineDurationMins": 1.1152666666666666
+  }
+}
