@@ -1,0 +1,37 @@
+{
+  "the_fastest_computer@lichess": {
+    "id": "the_fastest_computer",
+    "provider": "lichess",
+    "username": "The_Fastest_Computer",
+    "firstSeen": 1631452405120,
+    "lastSeen": 1631455785833
+  },
+  "chessbotaoa@lichess": {
+    "id": "chessbotaoa",
+    "provider": "lichess",
+    "username": "ChessBotAOA",
+    "firstSeen": 1631452918428,
+    "lastSeen": 1631455558314
+  },
+  "eshan_saha@lichess": {
+    "id": "eshan_saha",
+    "provider": "lichess",
+    "username": "eshan_saha",
+    "firstSeen": 1631455127501,
+    "lastSeen": 1631455245254
+  },
+  "berserker199@lichess": {
+    "id": "berserker199",
+    "provider": "lichess",
+    "username": "Berserker199",
+    "firstSeen": 1631455245628,
+    "lastSeen": 1631455262230
+  },
+  "alphashark_x@lichess": {
+    "id": "alphashark_x",
+    "provider": "lichess",
+    "username": "AlphaShark_X",
+    "firstSeen": 1631455798763,
+    "lastSeen": 1631455798764
+  }
+}
