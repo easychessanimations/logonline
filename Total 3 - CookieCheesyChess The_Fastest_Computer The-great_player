@@ -1,0 +1,23 @@
+{
+  "cookiecheesychess@lichess": {
+    "id": "cookiecheesychess",
+    "provider": "lichess",
+    "username": "CookieCheesyChess",
+    "firstSeen": 1631422728361,
+    "lastSeen": 1631426773395
+  },
+  "the_fastest_computer@lichess": {
+    "id": "the_fastest_computer",
+    "provider": "lichess",
+    "username": "The_Fastest_Computer",
+    "firstSeen": 1631425543829,
+    "lastSeen": 1631427043607
+  },
+  "the-great_player@lichess": {
+    "id": "the-great_player",
+    "provider": "lichess",
+    "username": "The-great_player",
+    "firstSeen": 1631426137671,
+    "lastSeen": 1631426147800
+  }
+}
