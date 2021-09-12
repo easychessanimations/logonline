@@ -1,0 +1,59 @@
+{
+  "cookiecheesychess@lichess": {
+    "id": "cookiecheesychess",
+    "provider": "lichess",
+    "username": "CookieCheesyChess",
+    "firstSeen": 1631422728361,
+    "lastSeen": 1631435148214,
+    "firstSeenTime": "4:58:48 AM",
+    "lastSeenTime": "8:25:48 AM",
+    "onlineDurationMins": 206.99755
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631429373488,
+    "lastSeen": 1631435224996,
+    "firstSeenTime": "6:49:33 AM",
+    "lastSeenTime": "8:27:04 AM",
+    "onlineDurationMins": 97.52513333333333
+  },
+  "the_fastest_computer@lichess": {
+    "id": "the_fastest_computer",
+    "provider": "lichess",
+    "username": "The_Fastest_Computer",
+    "firstSeen": 1631430137069,
+    "lastSeen": 1631435192429,
+    "firstSeenTime": "7:02:17 AM",
+    "lastSeenTime": "8:26:32 AM",
+    "onlineDurationMins": 84.256
+  },
+  "storng766555@lichess": {
+    "id": "storng766555",
+    "provider": "lichess",
+    "username": "storng766555",
+    "firstSeen": 1631434174331,
+    "lastSeen": 1631435191850,
+    "firstSeenTime": "8:09:34 AM",
+    "lastSeenTime": "8:26:31 AM",
+    "onlineDurationMins": 16.95865
+  },
+  "pavan20-09@lichess": {
+    "id": "pavan20-09",
+    "provider": "lichess",
+    "username": "Pavan20-09",
+    "firstSeen": 1631435221178,
+    "lastSeen": 1631435233533,
+    "firstSeenTime": "8:27:01 AM",
+    "lastSeenTime": "8:27:04 AM",
+    "onlineDurationMins": 0.060566666666666664
+  },
+  "the-great_player@lichess": {
+    "id": "the-great_player",
+    "provider": "lichess",
+    "username": "The-great_player",
+    "firstSeen": 1631435233900,
+    "lastSeen": 1631435233900
+  }
+}
