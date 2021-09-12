@@ -1,0 +1,33 @@
+{
+  "the_king_of_gamers@lichess": {
+    "id": "the_king_of_gamers",
+    "provider": "lichess",
+    "username": "The_King_Of_Gamers",
+    "firstSeen": 1631422263925,
+    "lastSeen": 1631422870545,
+    "firstSeenTime": "4:51:03 AM",
+    "lastSeenTime": "4:51:13 AM",
+    "onlineDurationMins": 0.16185
+  },
+  "cookiecheesychess@lichess": {
+    "id": "cookiecheesychess",
+    "provider": "lichess",
+    "username": "CookieCheesyChess",
+    "firstSeen": 1631422728361,
+    "lastSeen": 1631423394809
+  },
+  "spk_2009-chess@lichess": {
+    "id": "spk_2009-chess",
+    "provider": "lichess",
+    "username": "SPK_2009-chess",
+    "firstSeen": 1631423011627,
+    "lastSeen": 1631423132531
+  },
+  "pavan20-09@lichess": {
+    "id": "pavan20-09",
+    "provider": "lichess",
+    "username": "Pavan20-09",
+    "firstSeen": 1631423140664,
+    "lastSeen": 1631423278459
+  }
+}
