@@ -1,0 +1,26 @@
+{
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631462821647,
+    "lastSeen": 1631463655164,
+    "firstSeenTime": "4:07:01 PM",
+    "lastSeenTime": "4:20:55 PM",
+    "onlineDurationMins": 13.89195
+  },
+  "passionate_bot@lichess": {
+    "id": "passionate_bot",
+    "provider": "lichess",
+    "username": "passionate_bot",
+    "firstSeen": 1631463684329,
+    "lastSeen": 1631463696981
+  },
+  "bormixerbot@lichess": {
+    "id": "bormixerbot",
+    "provider": "lichess",
+    "username": "bormixerbot",
+    "firstSeen": 1631463724350,
+    "lastSeen": 1631463724350
+  }
+}
