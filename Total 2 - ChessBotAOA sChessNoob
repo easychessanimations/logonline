@@ -4,13 +4,16 @@
     "provider": "lichess",
     "username": "ChessBotAOA",
     "firstSeen": 1631442475745,
-    "lastSeen": 1631442853108
+    "lastSeen": 1631449143156,
+    "firstSeenTime": "10:27:55 AM",
+    "lastSeenTime": "10:59:16 AM",
+    "onlineDurationMins": 31.353683333333333
   },
   "schessnoob@lichess": {
     "id": "schessnoob",
     "provider": "lichess",
     "username": "sChessNoob",
-    "firstSeen": 1631442875743,
-    "lastSeen": 1631442875743
+    "firstSeen": 1631449776299,
+    "lastSeen": 1631449776299
   }
 }
