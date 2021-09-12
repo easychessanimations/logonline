@@ -1,0 +1,26 @@
+{
+  "bormixerbot@lichess": {
+    "id": "bormixerbot",
+    "provider": "lichess",
+    "username": "bormixerbot",
+    "firstSeen": 1631451650314,
+    "lastSeen": 1631452847148,
+    "firstSeenTime": "1:00:50 PM",
+    "lastSeenTime": "1:06:21 PM",
+    "onlineDurationMins": 5.521766666666666
+  },
+  "the_fastest_computer@lichess": {
+    "id": "the_fastest_computer",
+    "provider": "lichess",
+    "username": "The_Fastest_Computer",
+    "firstSeen": 1631452405120,
+    "lastSeen": 1631453114033
+  },
+  "chessbotaoa@lichess": {
+    "id": "chessbotaoa",
+    "provider": "lichess",
+    "username": "ChessBotAOA",
+    "firstSeen": 1631452918428,
+    "lastSeen": 1631453038315
+  }
+}
