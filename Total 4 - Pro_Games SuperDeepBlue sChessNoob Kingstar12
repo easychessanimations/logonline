@@ -1,0 +1,39 @@
+{
+  "pro_games@lichess": {
+    "id": "pro_games",
+    "provider": "lichess",
+    "username": "Pro_Games",
+    "firstSeen": 1631520425245,
+    "lastSeen": 1631528017216,
+    "firstSeenTime": "8:07:05 AM",
+    "lastSeenTime": "10:08:30 AM",
+    "onlineDurationMins": 121.4287
+  },
+  "superdeepblue@lichess": {
+    "id": "superdeepblue",
+    "provider": "lichess",
+    "username": "SuperDeepBlue",
+    "firstSeen": 1631523106492,
+    "lastSeen": 1631528496736,
+    "firstSeenTime": "8:51:46 AM",
+    "lastSeenTime": "10:10:39 AM",
+    "onlineDurationMins": 78.88965
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631526004662,
+    "lastSeen": 1631527987149,
+    "firstSeenTime": "9:40:04 AM",
+    "lastSeenTime": "10:13:07 AM",
+    "onlineDurationMins": 33.04145
+  },
+  "kingstar12@lichess": {
+    "id": "kingstar12",
+    "provider": "lichess",
+    "username": "Kingstar12",
+    "firstSeen": 1631528128544,
+    "lastSeen": 1631528138165
+  }
+}
