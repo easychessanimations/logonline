@@ -1,0 +1,19 @@
+{
+  "superdeepblue@lichess": {
+    "id": "superdeepblue",
+    "provider": "lichess",
+    "username": "SuperDeepBlue",
+    "firstSeen": 1631535936508,
+    "lastSeen": 1631541511517,
+    "firstSeenTime": "12:25:36 PM",
+    "lastSeenTime": "1:48:21 PM",
+    "onlineDurationMins": 82.75248333333333
+  },
+  "pro_games@lichess": {
+    "id": "pro_games",
+    "provider": "lichess",
+    "username": "Pro_Games",
+    "firstSeen": 1631541414340,
+    "lastSeen": 1631541826693
+  }
+}
