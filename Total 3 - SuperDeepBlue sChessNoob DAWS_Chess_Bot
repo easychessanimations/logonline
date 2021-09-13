@@ -1,0 +1,32 @@
+{
+  "superdeepblue@lichess": {
+    "id": "superdeepblue",
+    "provider": "lichess",
+    "username": "SuperDeepBlue",
+    "firstSeen": 1631535936508,
+    "lastSeen": 1631548384603,
+    "firstSeenTime": "12:25:36 PM",
+    "lastSeenTime": "3:53:04 PM",
+    "onlineDurationMins": 207.46825
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631545977799,
+    "lastSeen": 1631548436007,
+    "firstSeenTime": "3:12:57 PM",
+    "lastSeenTime": "3:53:24 PM",
+    "onlineDurationMins": 40.453316666666666
+  },
+  "daws_chess_bot@lichess": {
+    "id": "daws_chess_bot",
+    "provider": "lichess",
+    "username": "DAWS_Chess_Bot",
+    "firstSeen": 1631547737751,
+    "lastSeen": 1631547752304,
+    "firstSeenTime": "3:42:17 PM",
+    "lastSeenTime": "3:42:32 PM",
+    "onlineDurationMins": 0.24255
+  }
+}
