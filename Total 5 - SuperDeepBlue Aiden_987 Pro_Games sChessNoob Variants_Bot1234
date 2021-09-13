@@ -1,0 +1,49 @@
+{
+  "superdeepblue@lichess": {
+    "id": "superdeepblue",
+    "provider": "lichess",
+    "username": "SuperDeepBlue",
+    "firstSeen": 1631535936508,
+    "lastSeen": 1631539242186,
+    "firstSeenTime": "12:25:36 PM",
+    "lastSeenTime": "1:15:38 PM",
+    "onlineDurationMins": 50.0376
+  },
+  "aiden_987@lichess": {
+    "id": "aiden_987",
+    "provider": "lichess",
+    "username": "Aiden_987",
+    "firstSeen": 1631536422625,
+    "lastSeen": 1631539166388,
+    "firstSeenTime": "12:33:42 PM",
+    "lastSeenTime": "1:19:26 PM",
+    "onlineDurationMins": 45.72938333333333
+  },
+  "pro_games@lichess": {
+    "id": "pro_games",
+    "provider": "lichess",
+    "username": "Pro_Games",
+    "firstSeen": 1631537174187,
+    "lastSeen": 1631539116785,
+    "firstSeenTime": "12:46:14 PM",
+    "lastSeenTime": "1:18:36 PM",
+    "onlineDurationMins": 32.37663333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631537657957,
+    "lastSeen": 1631539235861,
+    "firstSeenTime": "12:54:17 PM",
+    "lastSeenTime": "1:20:35 PM",
+    "onlineDurationMins": 26.2984
+  },
+  "variants_bot1234@lichess": {
+    "id": "variants_bot1234",
+    "provider": "lichess",
+    "username": "Variants_Bot1234",
+    "firstSeen": 1631539244095,
+    "lastSeen": 1631539244095
+  }
+}
