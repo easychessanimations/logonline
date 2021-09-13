@@ -1,0 +1,52 @@
+{
+  "pro_games@lichess": {
+    "id": "pro_games",
+    "provider": "lichess",
+    "username": "Pro_Games",
+    "firstSeen": 1631520425245,
+    "lastSeen": 1631527474729,
+    "firstSeenTime": "8:07:05 AM",
+    "lastSeenTime": "9:51:40 AM",
+    "onlineDurationMins": 104.58556666666667
+  },
+  "superdeepblue@lichess": {
+    "id": "superdeepblue",
+    "provider": "lichess",
+    "username": "SuperDeepBlue",
+    "firstSeen": 1631523106492,
+    "lastSeen": 1631527580870,
+    "firstSeenTime": "8:51:46 AM",
+    "lastSeenTime": "9:59:40 AM",
+    "onlineDurationMins": 67.89913333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631526004662,
+    "lastSeen": 1631527198397,
+    "firstSeenTime": "9:40:04 AM",
+    "lastSeenTime": "9:59:58 AM",
+    "onlineDurationMins": 19.895583333333335
+  },
+  "storng766555@lichess": {
+    "id": "storng766555",
+    "provider": "lichess",
+    "username": "storng766555",
+    "firstSeen": 1631526624207,
+    "lastSeen": 1631527324057,
+    "firstSeenTime": "9:50:24 AM",
+    "lastSeenTime": "9:51:17 AM",
+    "onlineDurationMins": 0.8799333333333333
+  },
+  "bumithadaulaga20001@lichess": {
+    "id": "bumithadaulaga20001",
+    "provider": "lichess",
+    "username": "BumithaDaulaga20001",
+    "firstSeen": 1631527106724,
+    "lastSeen": 1631527164244,
+    "firstSeenTime": "9:58:26 AM",
+    "lastSeenTime": "9:59:24 AM",
+    "onlineDurationMins": 0.9586666666666667
+  }
+}
