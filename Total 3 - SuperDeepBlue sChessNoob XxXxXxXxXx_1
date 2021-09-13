@@ -1,0 +1,29 @@
+{
+  "superdeepblue@lichess": {
+    "id": "superdeepblue",
+    "provider": "lichess",
+    "username": "SuperDeepBlue",
+    "firstSeen": 1631535936508,
+    "lastSeen": 1631550220325,
+    "firstSeenTime": "12:25:36 PM",
+    "lastSeenTime": "4:23:40 PM",
+    "onlineDurationMins": 238.06361666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631545977799,
+    "lastSeen": 1631550979127,
+    "firstSeenTime": "3:12:57 PM",
+    "lastSeenTime": "4:36:19 PM",
+    "onlineDurationMins": 83.35546666666667
+  },
+  "xxxxxxxxxx_1@lichess": {
+    "id": "xxxxxxxxxx_1",
+    "provider": "lichess",
+    "username": "XxXxXxXxXx_1",
+    "firstSeen": 1631551008026,
+    "lastSeen": 1631551008026
+  }
+}
