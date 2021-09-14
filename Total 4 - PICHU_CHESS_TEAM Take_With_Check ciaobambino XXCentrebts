@@ -1,0 +1,36 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1631620575523,
+    "lastSeen": 1631637675669,
+    "firstSeenTime": "11:56:15 AM",
+    "lastSeenTime": "4:02:19 PM",
+    "onlineDurationMins": 246.06905
+  },
+  "take_with_check@lichess": {
+    "id": "take_with_check",
+    "provider": "lichess",
+    "username": "Take_With_Check",
+    "firstSeen": 1631635379409,
+    "lastSeen": 1631637455325,
+    "firstSeenTime": "4:02:59 PM",
+    "lastSeenTime": "4:06:48 PM",
+    "onlineDurationMins": 3.819
+  },
+  "ciaobambino@lichess": {
+    "id": "ciaobambino",
+    "provider": "lichess",
+    "username": "ciaobambino",
+    "firstSeen": 1631637455629,
+    "lastSeen": 1631637945961
+  },
+  "xxcentrebts@lichess": {
+    "id": "xxcentrebts",
+    "provider": "lichess",
+    "username": "XXCentrebts",
+    "firstSeen": 1631638047270,
+    "lastSeen": 1631638047270
+  }
+}
