@@ -1,0 +1,43 @@
+{
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1631579726012,
+    "lastSeen": 1631598638228,
+    "firstSeenTime": "12:35:26 AM",
+    "lastSeenTime": "4:20:34 AM",
+    "onlineDurationMins": 225.14483333333334
+  },
+  "superdeepblue@lichess": {
+    "id": "superdeepblue",
+    "provider": "lichess",
+    "username": "SuperDeepBlue",
+    "firstSeen": 1631593303081,
+    "lastSeen": 1631598770042,
+    "firstSeenTime": "4:21:43 AM",
+    "lastSeenTime": "4:31:26 AM",
+    "onlineDurationMins": 9.729983333333333
+  },
+  "chessbot_7777@lichess": {
+    "id": "chessbot_7777",
+    "provider": "lichess",
+    "username": "chessbot_7777",
+    "firstSeen": 1631595132526,
+    "lastSeen": 1631598547852
+  },
+  "pro_games@lichess": {
+    "id": "pro_games",
+    "provider": "lichess",
+    "username": "Pro_Games",
+    "firstSeen": 1631598669338,
+    "lastSeen": 1631598882893
+  },
+  "storng766555@lichess": {
+    "id": "storng766555",
+    "provider": "lichess",
+    "username": "storng766555",
+    "firstSeen": 1631598919318,
+    "lastSeen": 1631598919318
+  }
+}
