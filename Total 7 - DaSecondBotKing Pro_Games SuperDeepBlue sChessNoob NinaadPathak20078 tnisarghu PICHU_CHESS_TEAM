@@ -1,0 +1,69 @@
+{
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1631579726012,
+    "lastSeen": 1631614538187,
+    "firstSeenTime": "12:35:26 AM",
+    "lastSeenTime": "10:15:38 AM",
+    "onlineDurationMins": 580.2029166666666
+  },
+  "pro_games@lichess": {
+    "id": "pro_games",
+    "provider": "lichess",
+    "username": "Pro_Games",
+    "firstSeen": 1631607692470,
+    "lastSeen": 1631614480609,
+    "firstSeenTime": "8:21:32 AM",
+    "lastSeenTime": "10:14:40 AM",
+    "onlineDurationMins": 113.13565
+  },
+  "superdeepblue@lichess": {
+    "id": "superdeepblue",
+    "provider": "lichess",
+    "username": "SuperDeepBlue",
+    "firstSeen": 1631611097000,
+    "lastSeen": 1631615076976,
+    "firstSeenTime": "9:18:17 AM",
+    "lastSeenTime": "10:15:47 AM",
+    "onlineDurationMins": 57.508183333333335
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631614085774,
+    "lastSeen": 1631614945500,
+    "firstSeenTime": "10:08:05 AM",
+    "lastSeenTime": "10:22:25 AM",
+    "onlineDurationMins": 14.328766666666667
+  },
+  "ninaadpathak20078@lichess": {
+    "id": "ninaadpathak20078",
+    "provider": "lichess",
+    "username": "NinaadPathak20078",
+    "firstSeen": 1631614276934,
+    "lastSeen": 1631614944275,
+    "firstSeenTime": "10:11:16 AM",
+    "lastSeenTime": "10:22:24 AM",
+    "onlineDurationMins": 11.12235
+  },
+  "tnisarghu@lichess": {
+    "id": "tnisarghu",
+    "provider": "lichess",
+    "username": "tnisarghu",
+    "firstSeen": 1631614844693,
+    "lastSeen": 1631615039436,
+    "firstSeenTime": "10:20:44 AM",
+    "lastSeenTime": "10:21:44 AM",
+    "onlineDurationMins": 0.9897833333333333
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1631615099994,
+    "lastSeen": 1631615099994
+  }
+}
