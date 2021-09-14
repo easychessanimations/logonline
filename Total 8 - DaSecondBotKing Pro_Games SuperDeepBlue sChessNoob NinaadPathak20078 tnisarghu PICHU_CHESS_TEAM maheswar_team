@@ -1,0 +1,79 @@
+{
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1631579726012,
+    "lastSeen": 1631615339415,
+    "firstSeenTime": "12:35:26 AM",
+    "lastSeenTime": "10:28:59 AM",
+    "onlineDurationMins": 593.5567166666667
+  },
+  "pro_games@lichess": {
+    "id": "pro_games",
+    "provider": "lichess",
+    "username": "Pro_Games",
+    "firstSeen": 1631607692470,
+    "lastSeen": 1631615246846,
+    "firstSeenTime": "8:21:32 AM",
+    "lastSeenTime": "10:27:26 AM",
+    "onlineDurationMins": 125.90626666666667
+  },
+  "superdeepblue@lichess": {
+    "id": "superdeepblue",
+    "provider": "lichess",
+    "username": "SuperDeepBlue",
+    "firstSeen": 1631611097000,
+    "lastSeen": 1631615484379,
+    "firstSeenTime": "9:18:17 AM",
+    "lastSeenTime": "10:29:20 AM",
+    "onlineDurationMins": 71.06253333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631614085774,
+    "lastSeen": 1631615363909,
+    "firstSeenTime": "10:08:05 AM",
+    "lastSeenTime": "10:29:23 AM",
+    "onlineDurationMins": 21.30225
+  },
+  "ninaadpathak20078@lichess": {
+    "id": "ninaadpathak20078",
+    "provider": "lichess",
+    "username": "NinaadPathak20078",
+    "firstSeen": 1631614276934,
+    "lastSeen": 1631614944275,
+    "firstSeenTime": "10:11:16 AM",
+    "lastSeenTime": "10:22:24 AM",
+    "onlineDurationMins": 11.12235
+  },
+  "tnisarghu@lichess": {
+    "id": "tnisarghu",
+    "provider": "lichess",
+    "username": "tnisarghu",
+    "firstSeen": 1631614844693,
+    "lastSeen": 1631615367159,
+    "firstSeenTime": "10:20:44 AM",
+    "lastSeenTime": "10:28:14 AM",
+    "onlineDurationMins": 7.501
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1631615099994,
+    "lastSeen": 1631615242014,
+    "firstSeenTime": "10:24:59 AM",
+    "lastSeenTime": "10:27:22 AM",
+    "onlineDurationMins": 2.367
+  },
+  "maheswar_team@lichess": {
+    "id": "maheswar_team",
+    "provider": "lichess",
+    "username": "maheswar_team",
+    "firstSeen": 1631615636678,
+    "lastSeen": 1631615636678
+  }
+}
