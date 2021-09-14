@@ -1,0 +1,36 @@
+{
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631619675766,
+    "lastSeen": 1631635052100,
+    "firstSeenTime": "11:41:15 AM",
+    "lastSeenTime": "3:57:32 PM",
+    "onlineDurationMins": 256.27223333333336
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1631620575523,
+    "lastSeen": 1631635339666,
+    "firstSeenTime": "11:56:15 AM",
+    "lastSeenTime": "3:51:15 PM",
+    "onlineDurationMins": 235.00311666666667
+  },
+  "bestgame123@lichess": {
+    "id": "bestgame123",
+    "provider": "lichess",
+    "username": "bestgame123",
+    "firstSeen": 1631635363312,
+    "lastSeen": 1631635454034
+  },
+  "take_with_check@lichess": {
+    "id": "take_with_check",
+    "provider": "lichess",
+    "username": "Take_With_Check",
+    "firstSeen": 1631635379409,
+    "lastSeen": 1631635608276
+  }
+}
