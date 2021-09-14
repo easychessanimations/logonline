@@ -1,0 +1,39 @@
+{
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631619675766,
+    "lastSeen": 1631635052100,
+    "firstSeenTime": "11:41:15 AM",
+    "lastSeenTime": "3:57:32 PM",
+    "onlineDurationMins": 256.27223333333336
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1631620575523,
+    "lastSeen": 1631635339666,
+    "firstSeenTime": "11:56:15 AM",
+    "lastSeenTime": "3:51:15 PM",
+    "onlineDurationMins": 235.00311666666667
+  },
+  "los-guerreros1@lichess": {
+    "id": "los-guerreros1",
+    "provider": "lichess",
+    "username": "Los-Guerreros1",
+    "firstSeen": 1631622550770,
+    "lastSeen": 1631634692085,
+    "firstSeenTime": "12:29:10 PM",
+    "lastSeenTime": "3:51:32 PM",
+    "onlineDurationMins": 202.35525
+  },
+  "bestgame123@lichess": {
+    "id": "bestgame123",
+    "provider": "lichess",
+    "username": "bestgame123",
+    "firstSeen": 1631635363312,
+    "lastSeen": 1631635363312
+  }
+}
