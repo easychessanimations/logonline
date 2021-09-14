@@ -1,0 +1,49 @@
+{
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1631579726012,
+    "lastSeen": 1631593234702,
+    "firstSeenTime": "12:35:26 AM",
+    "lastSeenTime": "4:20:34 AM",
+    "onlineDurationMins": 225.14483333333334
+  },
+  "pro_games@lichess": {
+    "id": "pro_games",
+    "provider": "lichess",
+    "username": "Pro_Games",
+    "firstSeen": 1631585627494,
+    "lastSeen": 1631593250421,
+    "firstSeenTime": "2:13:47 AM",
+    "lastSeenTime": "4:11:35 AM",
+    "onlineDurationMins": 117.7984
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631591906029,
+    "lastSeen": 1631593241852,
+    "firstSeenTime": "3:58:26 AM",
+    "lastSeenTime": "4:20:41 AM",
+    "onlineDurationMins": 22.263716666666667
+  },
+  "kathhhh2@lichess": {
+    "id": "kathhhh2",
+    "provider": "lichess",
+    "username": "kathhhh2",
+    "firstSeen": 1631592184336,
+    "lastSeen": 1631592702750,
+    "firstSeenTime": "4:03:04 AM",
+    "lastSeenTime": "4:11:42 AM",
+    "onlineDurationMins": 8.640233333333333
+  },
+  "superdeepblue@lichess": {
+    "id": "superdeepblue",
+    "provider": "lichess",
+    "username": "SuperDeepBlue",
+    "firstSeen": 1631593303081,
+    "lastSeen": 1631593303081
+  }
+}
