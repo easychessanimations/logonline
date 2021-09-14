@@ -4,20 +4,29 @@
     "provider": "lichess",
     "username": "DaSecondBotKing",
     "firstSeen": 1631579726012,
-    "lastSeen": 1631591734635
+    "lastSeen": 1631609914646,
+    "firstSeenTime": "12:35:26 AM",
+    "lastSeenTime": "8:46:38 AM",
+    "onlineDurationMins": 491.2032
   },
   "pro_games@lichess": {
     "id": "pro_games",
     "provider": "lichess",
     "username": "Pro_Games",
-    "firstSeen": 1631585627494,
-    "lastSeen": 1631591529059
+    "firstSeen": 1631607692470,
+    "lastSeen": 1631609752776,
+    "firstSeenTime": "8:21:32 AM",
+    "lastSeenTime": "8:53:32 AM",
+    "onlineDurationMins": 31.992866666666668
   },
   "schessnoob@lichess": {
     "id": "schessnoob",
     "provider": "lichess",
     "username": "sChessNoob",
-    "firstSeen": 1631591906029,
-    "lastSeen": 1631591906029
+    "firstSeen": 1631609260636,
+    "lastSeen": 1631609632043,
+    "firstSeenTime": "8:47:40 AM",
+    "lastSeenTime": "8:53:52 AM",
+    "onlineDurationMins": 6.1901166666666665
   }
 }
