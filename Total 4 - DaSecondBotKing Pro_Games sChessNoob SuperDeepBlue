@@ -4,36 +4,36 @@
     "provider": "lichess",
     "username": "DaSecondBotKing",
     "firstSeen": 1631579726012,
-    "lastSeen": 1631593234702,
+    "lastSeen": 1631611079342,
     "firstSeenTime": "12:35:26 AM",
-    "lastSeenTime": "4:20:34 AM",
-    "onlineDurationMins": 225.14483333333334
+    "lastSeenTime": "8:58:34 AM",
+    "onlineDurationMins": 503.1439
   },
   "pro_games@lichess": {
     "id": "pro_games",
     "provider": "lichess",
     "username": "Pro_Games",
-    "firstSeen": 1631585627494,
-    "lastSeen": 1631593603603,
-    "firstSeenTime": "2:13:47 AM",
-    "lastSeenTime": "4:11:35 AM",
-    "onlineDurationMins": 117.7984
+    "firstSeen": 1631607692470,
+    "lastSeen": 1631611003377,
+    "firstSeenTime": "8:21:32 AM",
+    "lastSeenTime": "9:08:49 AM",
+    "onlineDurationMins": 47.29156666666667
   },
   "schessnoob@lichess": {
     "id": "schessnoob",
     "provider": "lichess",
     "username": "sChessNoob",
-    "firstSeen": 1631591906029,
-    "lastSeen": 1631593241852,
-    "firstSeenTime": "3:58:26 AM",
-    "lastSeenTime": "4:20:41 AM",
-    "onlineDurationMins": 22.263716666666667
+    "firstSeen": 1631609260636,
+    "lastSeen": 1631610531981,
+    "firstSeenTime": "8:47:40 AM",
+    "lastSeenTime": "9:08:51 AM",
+    "onlineDurationMins": 21.189083333333333
   },
   "superdeepblue@lichess": {
     "id": "superdeepblue",
     "provider": "lichess",
     "username": "SuperDeepBlue",
-    "firstSeen": 1631593303081,
-    "lastSeen": 1631593436189
+    "firstSeen": 1631611097000,
+    "lastSeen": 1631611097000
   }
 }
