@@ -1,0 +1,62 @@
+{
+  "pro_games@lichess": {
+    "id": "pro_games",
+    "provider": "lichess",
+    "username": "Pro_Games",
+    "firstSeen": 1631687307016,
+    "lastSeen": 1631703793183,
+    "firstSeenTime": "6:28:27 AM",
+    "lastSeenTime": "10:56:28 AM",
+    "onlineDurationMins": 268.026
+  },
+  "nooberchess@lichess": {
+    "id": "nooberchess",
+    "provider": "lichess",
+    "username": "NooberChess",
+    "firstSeen": 1631696353231,
+    "lastSeen": 1631703363879,
+    "firstSeenTime": "8:59:13 AM",
+    "lastSeenTime": "10:56:03 AM",
+    "onlineDurationMins": 116.84413333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631701385756,
+    "lastSeen": 1631703772953,
+    "firstSeenTime": "10:23:05 AM",
+    "lastSeenTime": "11:02:52 AM",
+    "onlineDurationMins": 39.78661666666667
+  },
+  "aiden_987@lichess": {
+    "id": "aiden_987",
+    "provider": "lichess",
+    "username": "Aiden_987",
+    "firstSeen": 1631703063716,
+    "lastSeen": 1631703146613,
+    "firstSeenTime": "10:51:03 AM",
+    "lastSeenTime": "10:52:26 AM",
+    "onlineDurationMins": 1.3816166666666667
+  },
+  "the_manas_castle@lichess": {
+    "id": "the_manas_castle",
+    "provider": "lichess",
+    "username": "The_Manas_Castle",
+    "firstSeen": 1631703509073,
+    "lastSeen": 1631703597548,
+    "firstSeenTime": "10:58:29 AM",
+    "lastSeenTime": "10:59:57 AM",
+    "onlineDurationMins": 1.4745833333333334
+  },
+  "kheshiva21@lichess": {
+    "id": "kheshiva21",
+    "provider": "lichess",
+    "username": "kheshiva21",
+    "firstSeen": 1631703574106,
+    "lastSeen": 1631703595214,
+    "firstSeenTime": "10:59:34 AM",
+    "lastSeenTime": "10:59:55 AM",
+    "onlineDurationMins": 0.3518
+  }
+}
