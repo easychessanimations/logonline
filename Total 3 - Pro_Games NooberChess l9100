@@ -1,0 +1,23 @@
+{
+  "pro_games@lichess": {
+    "id": "pro_games",
+    "provider": "lichess",
+    "username": "Pro_Games",
+    "firstSeen": 1631752305759,
+    "lastSeen": 1631760325346
+  },
+  "nooberchess@lichess": {
+    "id": "nooberchess",
+    "provider": "lichess",
+    "username": "NooberChess",
+    "firstSeen": 1631758786528,
+    "lastSeen": 1631760831273
+  },
+  "l9100@lichess": {
+    "id": "l9100",
+    "provider": "lichess",
+    "username": "l9100",
+    "firstSeen": 1631759792332,
+    "lastSeen": 1631760424784
+  }
+}
