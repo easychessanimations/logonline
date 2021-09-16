@@ -1,0 +1,32 @@
+{
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1631791906993,
+    "lastSeen": 1631807509308,
+    "firstSeenTime": "11:31:46 AM",
+    "lastSeenTime": "3:17:27 PM",
+    "onlineDurationMins": 225.67143333333334
+  },
+  "aswium@lichess": {
+    "id": "aswium",
+    "provider": "lichess",
+    "username": "aswium",
+    "firstSeen": 1631804815049,
+    "lastSeen": 1631807571164,
+    "firstSeenTime": "3:06:55 PM",
+    "lastSeenTime": "3:18:32 PM",
+    "onlineDurationMins": 11.623416666666667
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1631804876190,
+    "lastSeen": 1631807099064,
+    "firstSeenTime": "3:07:56 PM",
+    "lastSeenTime": "3:11:21 PM",
+    "onlineDurationMins": 3.4201333333333332
+  }
+}
