@@ -1,0 +1,22 @@
+{
+  "aswium@lichess": {
+    "id": "aswium",
+    "provider": "lichess",
+    "username": "aswium",
+    "firstSeen": 1631804815049,
+    "lastSeen": 1631812963298,
+    "firstSeenTime": "3:06:55 PM",
+    "lastSeenTime": "5:13:45 PM",
+    "onlineDurationMins": 126.8417
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631812645464,
+    "lastSeen": 1631812645464,
+    "firstSeenTime": "5:17:25 PM",
+    "lastSeenTime": "5:17:25 PM",
+    "onlineDurationMins": 0
+  }
+}
