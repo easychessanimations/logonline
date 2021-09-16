@@ -1,0 +1,33 @@
+{
+  "aswium@lichess": {
+    "id": "aswium",
+    "provider": "lichess",
+    "username": "aswium",
+    "firstSeen": 1631804815049,
+    "lastSeen": 1631814348028,
+    "firstSeenTime": "3:06:55 PM",
+    "lastSeenTime": "5:22:43 PM",
+    "onlineDurationMins": 135.80415
+  },
+  "raviharav-bot@lichess": {
+    "id": "raviharav-bot",
+    "provider": "lichess",
+    "username": "RaviharaV-BOT",
+    "firstSeen": 1631813675525,
+    "lastSeen": 1631814356555
+  },
+  "soplateado3ero@lichess": {
+    "id": "soplateado3ero",
+    "provider": "lichess",
+    "username": "soplateado3ero",
+    "firstSeen": 1631814086453,
+    "lastSeen": 1631814097637
+  },
+  "vihangabot@lichess": {
+    "id": "vihangabot",
+    "provider": "lichess",
+    "username": "VihangaBot",
+    "firstSeen": 1631814236664,
+    "lastSeen": 1631814325879
+  }
+}
