@@ -1,0 +1,26 @@
+{
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631791836054,
+    "lastSeen": 1631791836054,
+    "firstSeenTime": "11:30:36 AM",
+    "lastSeenTime": "11:30:36 AM",
+    "onlineDurationMins": 0
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1631791906993,
+    "lastSeen": 1631792164959
+  },
+  "the_fastest_computer@lichess": {
+    "id": "the_fastest_computer",
+    "provider": "lichess",
+    "username": "The_Fastest_Computer",
+    "firstSeen": 1631792182216,
+    "lastSeen": 1631792182216
+  }
+}
