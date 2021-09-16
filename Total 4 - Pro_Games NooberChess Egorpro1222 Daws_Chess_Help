@@ -1,0 +1,30 @@
+{
+  "pro_games@lichess": {
+    "id": "pro_games",
+    "provider": "lichess",
+    "username": "Pro_Games",
+    "firstSeen": 1631752305759,
+    "lastSeen": 1631763625809
+  },
+  "nooberchess@lichess": {
+    "id": "nooberchess",
+    "provider": "lichess",
+    "username": "NooberChess",
+    "firstSeen": 1631758786528,
+    "lastSeen": 1631763474974
+  },
+  "egorpro1222@lichess": {
+    "id": "egorpro1222",
+    "provider": "lichess",
+    "username": "Egorpro1222",
+    "firstSeen": 1631760842833,
+    "lastSeen": 1631763510117
+  },
+  "daws_chess_help@lichess": {
+    "id": "daws_chess_help",
+    "provider": "lichess",
+    "username": "Daws_Chess_Help",
+    "firstSeen": 1631763709265,
+    "lastSeen": 1631763709265
+  }
+}
