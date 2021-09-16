@@ -1,0 +1,36 @@
+{
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1631791906993,
+    "lastSeen": 1631811687609,
+    "firstSeenTime": "11:31:46 AM",
+    "lastSeenTime": "4:38:31 PM",
+    "onlineDurationMins": 306.74923333333334
+  },
+  "aswium@lichess": {
+    "id": "aswium",
+    "provider": "lichess",
+    "username": "aswium",
+    "firstSeen": 1631804815049,
+    "lastSeen": 1631811673647,
+    "firstSeenTime": "3:06:55 PM",
+    "lastSeenTime": "4:42:51 PM",
+    "onlineDurationMins": 95.93991666666666
+  },
+  "demirahmetaydogdu4@lichess": {
+    "id": "demirahmetaydogdu4",
+    "provider": "lichess",
+    "username": "demirahmetaydogdu4",
+    "firstSeen": 1631811873036,
+    "lastSeen": 1631811881005
+  },
+  "kaunisbaki@lichess": {
+    "id": "kaunisbaki",
+    "provider": "lichess",
+    "username": "Kaunisbaki",
+    "firstSeen": 1631811914412,
+    "lastSeen": 1631811914412
+  }
+}
