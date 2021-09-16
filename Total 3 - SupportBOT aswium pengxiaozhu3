@@ -1,0 +1,29 @@
+{
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1631791906993,
+    "lastSeen": 1631808405578,
+    "firstSeenTime": "11:31:46 AM",
+    "lastSeenTime": "3:17:27 PM",
+    "onlineDurationMins": 225.67143333333334
+  },
+  "aswium@lichess": {
+    "id": "aswium",
+    "provider": "lichess",
+    "username": "aswium",
+    "firstSeen": 1631804815049,
+    "lastSeen": 1631808826280,
+    "firstSeenTime": "3:06:55 PM",
+    "lastSeenTime": "3:18:32 PM",
+    "onlineDurationMins": 11.623416666666667
+  },
+  "pengxiaozhu3@lichess": {
+    "id": "pengxiaozhu3",
+    "provider": "lichess",
+    "username": "pengxiaozhu3",
+    "firstSeen": 1631808843131,
+    "lastSeen": 1631808843131
+  }
+}
