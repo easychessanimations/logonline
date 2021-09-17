@@ -1,0 +1,23 @@
+{
+  "dark_throne_bot@lichess": {
+    "id": "dark_throne_bot",
+    "provider": "lichess",
+    "username": "Dark_Throne_BOT",
+    "firstSeen": 1631858138049,
+    "lastSeen": 1631862610859
+  },
+  "nooberchess@lichess": {
+    "id": "nooberchess",
+    "provider": "lichess",
+    "username": "NooberChess",
+    "firstSeen": 1631860201931,
+    "lastSeen": 1631862582563
+  },
+  "the_fastest_computer@lichess": {
+    "id": "the_fastest_computer",
+    "provider": "lichess",
+    "username": "The_Fastest_Computer",
+    "firstSeen": 1631862611103,
+    "lastSeen": 1631862611103
+  }
+}
