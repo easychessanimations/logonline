@@ -1,0 +1,30 @@
+{
+  "dark_throne_bot@lichess": {
+    "id": "dark_throne_bot",
+    "provider": "lichess",
+    "username": "Dark_Throne_BOT",
+    "firstSeen": 1631858138049,
+    "lastSeen": 1631860625643
+  },
+  "giphy_logo@lichess": {
+    "id": "giphy_logo",
+    "provider": "lichess",
+    "username": "Giphy_Logo",
+    "firstSeen": 1631859874364,
+    "lastSeen": 1631860523569
+  },
+  "nooberchess@lichess": {
+    "id": "nooberchess",
+    "provider": "lichess",
+    "username": "NooberChess",
+    "firstSeen": 1631860201931,
+    "lastSeen": 1631860900365
+  },
+  "passionate_bot@lichess": {
+    "id": "passionate_bot",
+    "provider": "lichess",
+    "username": "passionate_bot",
+    "firstSeen": 1631860696541,
+    "lastSeen": 1631860719698
+  }
+}
