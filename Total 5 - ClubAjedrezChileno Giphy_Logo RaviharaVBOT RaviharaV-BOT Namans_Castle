@@ -1,0 +1,40 @@
+{
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1631879717543,
+    "lastSeen": 1631883000564,
+    "firstSeenTime": "11:55:17 AM",
+    "lastSeenTime": "12:28:25 PM",
+    "onlineDurationMins": 33.13625
+  },
+  "giphy_logo@lichess": {
+    "id": "giphy_logo",
+    "provider": "lichess",
+    "username": "Giphy_Logo",
+    "firstSeen": 1631881905636,
+    "lastSeen": 1631882563905
+  },
+  "90897015@github": {
+    "id": "90897015",
+    "provider": "github",
+    "username": "RaviharaVBOT",
+    "firstSeen": 1631882508964,
+    "lastSeen": 1631882531870
+  },
+  "raviharav-bot@lichess": {
+    "id": "raviharav-bot",
+    "provider": "lichess",
+    "username": "RaviharaV-BOT",
+    "firstSeen": 1631882532486,
+    "lastSeen": 1631883368781
+  },
+  "namans_castle@lichess": {
+    "id": "namans_castle",
+    "provider": "lichess",
+    "username": "Namans_Castle",
+    "firstSeen": 1631882591996,
+    "lastSeen": 1631882689383
+  }
+}
