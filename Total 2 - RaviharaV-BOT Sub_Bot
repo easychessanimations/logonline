@@ -1,0 +1,16 @@
+{
+  "raviharav-bot@lichess": {
+    "id": "raviharav-bot",
+    "provider": "lichess",
+    "username": "RaviharaV-BOT",
+    "firstSeen": 1631882532486,
+    "lastSeen": 1631883373357
+  },
+  "sub_bot@lichess": {
+    "id": "sub_bot",
+    "provider": "lichess",
+    "username": "Sub_Bot",
+    "firstSeen": 1631883873859,
+    "lastSeen": 1631883898397
+  }
+}
