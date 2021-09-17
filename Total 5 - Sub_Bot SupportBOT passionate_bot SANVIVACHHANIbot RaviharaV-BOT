@@ -1,0 +1,37 @@
+{
+  "sub_bot@lichess": {
+    "id": "sub_bot",
+    "provider": "lichess",
+    "username": "Sub_Bot",
+    "firstSeen": 1631883873859,
+    "lastSeen": 1631884546494
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1631884286089,
+    "lastSeen": 1631885098002
+  },
+  "passionate_bot@lichess": {
+    "id": "passionate_bot",
+    "provider": "lichess",
+    "username": "passionate_bot",
+    "firstSeen": 1631884343317,
+    "lastSeen": 1631884347182
+  },
+  "sanvivachhanibot@lichess": {
+    "id": "sanvivachhanibot",
+    "provider": "lichess",
+    "username": "SANVIVACHHANIbot",
+    "firstSeen": 1631884604756,
+    "lastSeen": 1631884744651
+  },
+  "raviharav-bot@lichess": {
+    "id": "raviharav-bot",
+    "provider": "lichess",
+    "username": "RaviharaV-BOT",
+    "firstSeen": 1631885102011,
+    "lastSeen": 1631885102011
+  }
+}
