@@ -1,0 +1,49 @@
+{
+  "chessbotaoa@lichess": {
+    "id": "chessbotaoa",
+    "provider": "lichess",
+    "username": "ChessBotAOA",
+    "firstSeen": 1631886687157,
+    "lastSeen": 1631893998601,
+    "firstSeenTime": "1:51:27 PM",
+    "lastSeenTime": "3:53:18 PM",
+    "onlineDurationMins": 121.8574
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631888366458,
+    "lastSeen": 1631894039533,
+    "firstSeenTime": "2:19:26 PM",
+    "lastSeenTime": "3:53:59 PM",
+    "onlineDurationMins": 94.55125
+  },
+  "harryfishy@lichess": {
+    "id": "harryfishy",
+    "provider": "lichess",
+    "username": "harryFishy",
+    "firstSeen": 1631891256628,
+    "lastSeen": 1631894043170,
+    "firstSeenTime": "3:07:36 PM",
+    "lastSeenTime": "3:53:59 PM",
+    "onlineDurationMins": 46.3732
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1631893987559,
+    "lastSeen": 1631893990940,
+    "firstSeenTime": "3:53:07 PM",
+    "lastSeenTime": "3:53:10 PM",
+    "onlineDurationMins": 0.05635
+  },
+  "stockfish_16@lichess": {
+    "id": "stockfish_16",
+    "provider": "lichess",
+    "username": "Stockfish_16",
+    "firstSeen": 1631894043565,
+    "lastSeen": 1631894043566
+  }
+}
