@@ -1,0 +1,72 @@
+{
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1631884286089,
+    "lastSeen": 1631891086805,
+    "firstSeenTime": "1:11:26 PM",
+    "lastSeenTime": "3:04:46 PM",
+    "onlineDurationMins": 113.34526666666666
+  },
+  "pro_games@lichess": {
+    "id": "pro_games",
+    "provider": "lichess",
+    "username": "Pro_Games",
+    "firstSeen": 1631885638543,
+    "lastSeen": 1631891093853,
+    "firstSeenTime": "1:33:58 PM",
+    "lastSeenTime": "3:04:53 PM",
+    "onlineDurationMins": 90.92183333333334
+  },
+  "chessbotaoa@lichess": {
+    "id": "chessbotaoa",
+    "provider": "lichess",
+    "username": "ChessBotAOA",
+    "firstSeen": 1631886687157,
+    "lastSeen": 1631891372291,
+    "firstSeenTime": "1:51:27 PM",
+    "lastSeenTime": "3:09:32 PM",
+    "onlineDurationMins": 78.08556666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631888366458,
+    "lastSeen": 1631891559452,
+    "firstSeenTime": "2:19:26 PM",
+    "lastSeenTime": "3:12:08 PM",
+    "onlineDurationMins": 52.7008
+  },
+  "mcdonalds_hs@lichess": {
+    "id": "mcdonalds_hs",
+    "provider": "lichess",
+    "username": "McDonalds_HS",
+    "firstSeen": 1631890830321,
+    "lastSeen": 1631890830321,
+    "firstSeenTime": "3:00:30 PM",
+    "lastSeenTime": "3:00:30 PM",
+    "onlineDurationMins": 0
+  },
+  "harryfishy@lichess": {
+    "id": "harryfishy",
+    "provider": "lichess",
+    "username": "harryFishy",
+    "firstSeen": 1631891256628,
+    "lastSeen": 1631891266457,
+    "firstSeenTime": "3:07:36 PM",
+    "lastSeenTime": "3:07:46 PM",
+    "onlineDurationMins": 0.16381666666666667
+  },
+  "kayraege01@lichess": {
+    "id": "kayraege01",
+    "provider": "lichess",
+    "username": "KayraEge01",
+    "firstSeen": 1631891355105,
+    "lastSeen": 1631891504613,
+    "firstSeenTime": "3:09:15 PM",
+    "lastSeenTime": "3:11:44 PM",
+    "onlineDurationMins": 2.4918
+  }
+}
