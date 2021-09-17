@@ -1,0 +1,59 @@
+{
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1631884286089,
+    "lastSeen": 1631890393192,
+    "firstSeenTime": "1:11:26 PM",
+    "lastSeenTime": "2:53:13 PM",
+    "onlineDurationMins": 101.78505
+  },
+  "pro_games@lichess": {
+    "id": "pro_games",
+    "provider": "lichess",
+    "username": "Pro_Games",
+    "firstSeen": 1631885638543,
+    "lastSeen": 1631890688396,
+    "firstSeenTime": "1:33:58 PM",
+    "lastSeenTime": "2:58:08 PM",
+    "onlineDurationMins": 84.16421666666666
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1631886099711,
+    "lastSeen": 1631890659339,
+    "firstSeenTime": "1:41:39 PM",
+    "lastSeenTime": "2:57:39 PM",
+    "onlineDurationMins": 75.9938
+  },
+  "chessbotaoa@lichess": {
+    "id": "chessbotaoa",
+    "provider": "lichess",
+    "username": "ChessBotAOA",
+    "firstSeen": 1631886687157,
+    "lastSeen": 1631890694552,
+    "firstSeenTime": "1:51:27 PM",
+    "lastSeenTime": "2:58:14 PM",
+    "onlineDurationMins": 66.78991666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1631888366458,
+    "lastSeen": 1631890815507,
+    "firstSeenTime": "2:19:26 PM",
+    "lastSeenTime": "3:00:15 PM",
+    "onlineDurationMins": 40.817483333333335
+  },
+  "mcdonalds_hs@lichess": {
+    "id": "mcdonalds_hs",
+    "provider": "lichess",
+    "username": "McDonalds_HS",
+    "firstSeen": 1631890830321,
+    "lastSeen": 1631890830321
+  }
+}
