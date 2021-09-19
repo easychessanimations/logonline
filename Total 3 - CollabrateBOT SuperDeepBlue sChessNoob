@@ -1,0 +1,23 @@
+{
+  "collabratebot@lichess": {
+    "id": "collabratebot",
+    "provider": "lichess",
+    "username": "CollabrateBOT",
+    "firstSeen": 1632038883170,
+    "lastSeen": 1632039357765
+  },
+  "superdeepblue@lichess": {
+    "id": "superdeepblue",
+    "provider": "lichess",
+    "username": "SuperDeepBlue",
+    "firstSeen": 1632039044290,
+    "lastSeen": 1632039054384
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1632039537743,
+    "lastSeen": 1632039537743
+  }
+}
