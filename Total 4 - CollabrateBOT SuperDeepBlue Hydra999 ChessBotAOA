@@ -1,0 +1,36 @@
+{
+  "collabratebot@lichess": {
+    "id": "collabratebot",
+    "provider": "lichess",
+    "username": "CollabrateBOT",
+    "firstSeen": 1632038883170,
+    "lastSeen": 1632040258255,
+    "firstSeenTime": "8:08:03 AM",
+    "lastSeenTime": "8:15:57 AM",
+    "onlineDurationMins": 7.909916666666667
+  },
+  "superdeepblue@lichess": {
+    "id": "superdeepblue",
+    "provider": "lichess",
+    "username": "SuperDeepBlue",
+    "firstSeen": 1632039044290,
+    "lastSeen": 1632040718209,
+    "firstSeenTime": "8:10:44 AM",
+    "lastSeenTime": "8:21:50 AM",
+    "onlineDurationMins": 11.101366666666667
+  },
+  "hydra999@lichess": {
+    "id": "hydra999",
+    "provider": "lichess",
+    "username": "Hydra999",
+    "firstSeen": 1632039874319,
+    "lastSeen": 1632040788492
+  },
+  "chessbotaoa@lichess": {
+    "id": "chessbotaoa",
+    "provider": "lichess",
+    "username": "ChessBotAOA",
+    "firstSeen": 1632040050286,
+    "lastSeen": 1632040716584
+  }
+}
