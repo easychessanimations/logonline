@@ -1,0 +1,29 @@
+{
+  "chessbotaoa@lichess": {
+    "id": "chessbotaoa",
+    "provider": "lichess",
+    "username": "ChessBotAOA",
+    "firstSeen": 1632040050286,
+    "lastSeen": 1632043533340,
+    "firstSeenTime": "8:27:30 AM",
+    "lastSeenTime": "9:17:32 AM",
+    "onlineDurationMins": 50.0327
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1632043326590,
+    "lastSeen": 1632043333583,
+    "firstSeenTime": "9:22:06 AM",
+    "lastSeenTime": "9:22:06 AM",
+    "onlineDurationMins": 0
+  },
+  "collabratebot@lichess": {
+    "id": "collabratebot",
+    "provider": "lichess",
+    "username": "CollabrateBOT",
+    "firstSeen": 1632044063477,
+    "lastSeen": 1632044063477
+  }
+}
