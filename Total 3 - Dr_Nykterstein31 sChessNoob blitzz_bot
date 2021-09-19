@@ -1,0 +1,29 @@
+{
+  "dr_nykterstein31@lichess": {
+    "id": "dr_nykterstein31",
+    "provider": "lichess",
+    "username": "Dr_Nykterstein31",
+    "firstSeen": 1632056070196,
+    "lastSeen": 1632067995665,
+    "firstSeenTime": "12:54:30 PM",
+    "lastSeenTime": "3:58:11 PM",
+    "onlineDurationMins": 183.6865
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1632066809281,
+    "lastSeen": 1632067243895,
+    "firstSeenTime": "3:53:29 PM",
+    "lastSeenTime": "4:00:43 PM",
+    "onlineDurationMins": 7.243566666666666
+  },
+  "blitzz_bot@lichess": {
+    "id": "blitzz_bot",
+    "provider": "lichess",
+    "username": "blitzz_bot",
+    "firstSeen": 1632068089331,
+    "lastSeen": 1632068089331
+  }
+}
