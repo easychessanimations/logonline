@@ -1,0 +1,19 @@
+{
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1632153006862,
+    "lastSeen": 1632160994282,
+    "firstSeenTime": "3:50:06 PM",
+    "lastSeenTime": "5:23:55 PM",
+    "onlineDurationMins": 93.81501666666666
+  },
+  "dr_nykterstein31@lichess": {
+    "id": "dr_nykterstein31",
+    "provider": "lichess",
+    "username": "Dr_Nykterstein31",
+    "firstSeen": 1632160428063,
+    "lastSeen": 1632160681199
+  }
+}
