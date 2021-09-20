@@ -1,0 +1,52 @@
+{
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1632153006862,
+    "lastSeen": 1632157240346,
+    "firstSeenTime": "3:50:06 PM",
+    "lastSeenTime": "5:00:40 PM",
+    "onlineDurationMins": 70.55806666666666
+  },
+  "blitzz_bot@lichess": {
+    "id": "blitzz_bot",
+    "provider": "lichess",
+    "username": "blitzz_bot",
+    "firstSeen": 1632156536795,
+    "lastSeen": 1632157231220,
+    "firstSeenTime": "4:48:56 PM",
+    "lastSeenTime": "5:00:31 PM",
+    "onlineDurationMins": 11.57375
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1632156801837,
+    "lastSeen": 1632157409400,
+    "firstSeenTime": "4:53:21 PM",
+    "lastSeenTime": "5:03:29 PM",
+    "onlineDurationMins": 10.12605
+  },
+  "dr_nykterstein31@lichess": {
+    "id": "dr_nykterstein31",
+    "provider": "lichess",
+    "username": "Dr_Nykterstein31",
+    "firstSeen": 1632156876115,
+    "lastSeen": 1632157391507,
+    "firstSeenTime": "4:54:36 PM",
+    "lastSeenTime": "5:03:11 PM",
+    "onlineDurationMins": 8.589866666666667
+  },
+  "virgo_andlogos@lichess": {
+    "id": "virgo_andlogos",
+    "provider": "lichess",
+    "username": "Virgo_andLogos",
+    "firstSeen": 1632157287478,
+    "lastSeen": 1632157438381,
+    "firstSeenTime": "5:01:27 PM",
+    "lastSeenTime": "5:01:31 PM",
+    "onlineDurationMins": 0.07326666666666666
+  }
+}
