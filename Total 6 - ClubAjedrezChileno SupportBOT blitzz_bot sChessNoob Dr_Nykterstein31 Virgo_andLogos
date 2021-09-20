@@ -1,0 +1,59 @@
+{
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1632142056888,
+    "lastSeen": 1632156528605,
+    "firstSeenTime": "12:47:36 PM",
+    "lastSeenTime": "4:48:48 PM",
+    "onlineDurationMins": 241.19528333333332
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1632153006862,
+    "lastSeen": 1632157240346,
+    "firstSeenTime": "3:50:06 PM",
+    "lastSeenTime": "4:55:10 PM",
+    "onlineDurationMins": 65.0572
+  },
+  "blitzz_bot@lichess": {
+    "id": "blitzz_bot",
+    "provider": "lichess",
+    "username": "blitzz_bot",
+    "firstSeen": 1632156536795,
+    "lastSeen": 1632157231220,
+    "firstSeenTime": "4:48:56 PM",
+    "lastSeenTime": "4:55:46 PM",
+    "onlineDurationMins": 6.825566666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1632156801837,
+    "lastSeen": 1632157152643,
+    "firstSeenTime": "4:53:21 PM",
+    "lastSeenTime": "4:59:12 PM",
+    "onlineDurationMins": 5.8467666666666664
+  },
+  "dr_nykterstein31@lichess": {
+    "id": "dr_nykterstein31",
+    "provider": "lichess",
+    "username": "Dr_Nykterstein31",
+    "firstSeen": 1632156876115,
+    "lastSeen": 1632157268051,
+    "firstSeenTime": "4:54:36 PM",
+    "lastSeenTime": "4:58:45 PM",
+    "onlineDurationMins": 4.151466666666667
+  },
+  "virgo_andlogos@lichess": {
+    "id": "virgo_andlogos",
+    "provider": "lichess",
+    "username": "Virgo_andLogos",
+    "firstSeen": 1632157287478,
+    "lastSeen": 1632157287478
+  }
+}
