@@ -1,0 +1,32 @@
+{
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1632142056888,
+    "lastSeen": 1632147768086,
+    "firstSeenTime": "12:47:36 PM",
+    "lastSeenTime": "2:02:40 PM",
+    "onlineDurationMins": 75.05498333333334
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1632144244026,
+    "lastSeen": 1632147336509,
+    "firstSeenTime": "1:24:04 PM",
+    "lastSeenTime": "2:05:42 PM",
+    "onlineDurationMins": 41.646883333333335
+  },
+  "nooberchess@lichess": {
+    "id": "nooberchess",
+    "provider": "lichess",
+    "username": "NooberChess",
+    "firstSeen": 1632145911001,
+    "lastSeen": 1632147434642,
+    "firstSeenTime": "1:51:51 PM",
+    "lastSeenTime": "2:05:14 PM",
+    "onlineDurationMins": 13.3998
+  }
+}
