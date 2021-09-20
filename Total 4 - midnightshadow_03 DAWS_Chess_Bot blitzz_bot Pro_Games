@@ -1,0 +1,39 @@
+{
+  "midnightshadow_03@lichess": {
+    "id": "midnightshadow_03",
+    "provider": "lichess",
+    "username": "midnightshadow_03",
+    "firstSeen": 1632110298837,
+    "lastSeen": 1632125073451,
+    "firstSeenTime": "3:58:18 AM",
+    "lastSeenTime": "7:31:32 AM",
+    "onlineDurationMins": 213.22663333333333
+  },
+  "daws_chess_bot@lichess": {
+    "id": "daws_chess_bot",
+    "provider": "lichess",
+    "username": "DAWS_Chess_Bot",
+    "firstSeen": 1632123297818,
+    "lastSeen": 1632124800815,
+    "firstSeenTime": "7:34:57 AM",
+    "lastSeenTime": "7:38:22 AM",
+    "onlineDurationMins": 3.4034166666666668
+  },
+  "blitzz_bot@lichess": {
+    "id": "blitzz_bot",
+    "provider": "lichess",
+    "username": "blitzz_bot",
+    "firstSeen": 1632123468310,
+    "lastSeen": 1632125190177,
+    "firstSeenTime": "7:37:48 AM",
+    "lastSeenTime": "7:38:11 AM",
+    "onlineDurationMins": 0.3791833333333333
+  },
+  "pro_games@lichess": {
+    "id": "pro_games",
+    "provider": "lichess",
+    "username": "Pro_Games",
+    "firstSeen": 1632125216958,
+    "lastSeen": 1632125216958
+  }
+}
