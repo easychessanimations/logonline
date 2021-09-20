@@ -1,0 +1,29 @@
+{
+  "blitzz_bot@lichess": {
+    "id": "blitzz_bot",
+    "provider": "lichess",
+    "username": "blitzz_bot",
+    "firstSeen": 1632123468310,
+    "lastSeen": 1632139674187,
+    "firstSeenTime": "7:37:48 AM",
+    "lastSeenTime": "12:07:54 PM",
+    "onlineDurationMins": 270.09795
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1632139221811,
+    "lastSeen": 1632139923395,
+    "firstSeenTime": "12:00:21 PM",
+    "lastSeenTime": "12:12:03 PM",
+    "onlineDurationMins": 11.693066666666667
+  },
+  "arsam_king@lichess": {
+    "id": "arsam_king",
+    "provider": "lichess",
+    "username": "ARSAM_KING",
+    "firstSeen": 1632139976227,
+    "lastSeen": 1632139976227
+  }
+}
