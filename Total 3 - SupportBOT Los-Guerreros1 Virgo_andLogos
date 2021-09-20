@@ -1,0 +1,26 @@
+{
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1632153006862,
+    "lastSeen": 1632163889154,
+    "firstSeenTime": "3:50:06 PM",
+    "lastSeenTime": "5:23:55 PM",
+    "onlineDurationMins": 93.81501666666666
+  },
+  "los-guerreros1@lichess": {
+    "id": "los-guerreros1",
+    "provider": "lichess",
+    "username": "Los-Guerreros1",
+    "firstSeen": 1632162801070,
+    "lastSeen": 1632163439780
+  },
+  "virgo_andlogos@lichess": {
+    "id": "virgo_andlogos",
+    "provider": "lichess",
+    "username": "Virgo_andLogos",
+    "firstSeen": 1632163599288,
+    "lastSeen": 1632163864620
+  }
+}
