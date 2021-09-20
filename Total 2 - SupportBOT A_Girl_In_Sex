@@ -1,0 +1,22 @@
+{
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1632153006862,
+    "lastSeen": 1632159460346,
+    "firstSeenTime": "3:50:06 PM",
+    "lastSeenTime": "5:23:55 PM",
+    "onlineDurationMins": 93.81501666666666
+  },
+  "a_girl_in_sex@lichess": {
+    "id": "a_girl_in_sex",
+    "provider": "lichess",
+    "username": "A_Girl_In_Sex",
+    "firstSeen": 1632158279601,
+    "lastSeen": 1632160092011,
+    "firstSeenTime": "5:17:59 PM",
+    "lastSeenTime": "5:27:08 PM",
+    "onlineDurationMins": 9.152033333333334
+  }
+}
