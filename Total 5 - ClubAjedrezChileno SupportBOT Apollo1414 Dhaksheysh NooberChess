@@ -1,0 +1,46 @@
+{
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1632142056888,
+    "lastSeen": 1632145729992,
+    "firstSeenTime": "12:47:36 PM",
+    "lastSeenTime": "1:37:41 PM",
+    "onlineDurationMins": 50.069716666666665
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1632144244026,
+    "lastSeen": 1632146041099,
+    "firstSeenTime": "1:24:04 PM",
+    "lastSeenTime": "1:36:40 PM",
+    "onlineDurationMins": 12.601716666666666
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1632144533391,
+    "lastSeen": 1632145934585,
+    "firstSeenTime": "1:28:53 PM",
+    "lastSeenTime": "1:34:52 PM",
+    "onlineDurationMins": 5.980683333333333
+  },
+  "90820868@github": {
+    "id": "90820868",
+    "provider": "github",
+    "username": "Dhaksheysh",
+    "firstSeen": 1632145733185,
+    "lastSeen": 1632145804558
+  },
+  "nooberchess@lichess": {
+    "id": "nooberchess",
+    "provider": "lichess",
+    "username": "NooberChess",
+    "firstSeen": 1632145911001,
+    "lastSeen": 1632145965900
+  }
+}
