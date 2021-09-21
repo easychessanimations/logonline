@@ -1,0 +1,23 @@
+{
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1632244578093,
+    "lastSeen": 1632250161657
+  },
+  "blitzz_bot@lichess": {
+    "id": "blitzz_bot",
+    "provider": "lichess",
+    "username": "blitzz_bot",
+    "firstSeen": 1632250179170,
+    "lastSeen": 1632250182983
+  },
+  "virgo_andlogos@lichess": {
+    "id": "virgo_andlogos",
+    "provider": "lichess",
+    "username": "Virgo_andLogos",
+    "firstSeen": 1632250402561,
+    "lastSeen": 1632250402561
+  }
+}
