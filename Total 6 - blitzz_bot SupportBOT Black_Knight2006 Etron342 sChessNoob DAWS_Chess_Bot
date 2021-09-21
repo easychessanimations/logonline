@@ -1,0 +1,62 @@
+{
+  "blitzz_bot@lichess": {
+    "id": "blitzz_bot",
+    "provider": "lichess",
+    "username": "blitzz_bot",
+    "firstSeen": 1632197902633,
+    "lastSeen": 1632241008663,
+    "firstSeenTime": "4:18:22 AM",
+    "lastSeenTime": "4:16:48 PM",
+    "onlineDurationMins": 718.4338333333334
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1632235230804,
+    "lastSeen": 1632241167236,
+    "firstSeenTime": "2:40:30 PM",
+    "lastSeenTime": "4:19:27 PM",
+    "onlineDurationMins": 98.94053333333333
+  },
+  "black_knight2006@lichess": {
+    "id": "black_knight2006",
+    "provider": "lichess",
+    "username": "Black_Knight2006",
+    "firstSeen": 1632235989818,
+    "lastSeen": 1632241171230,
+    "firstSeenTime": "2:53:09 PM",
+    "lastSeenTime": "4:19:31 PM",
+    "onlineDurationMins": 86.35686666666666
+  },
+  "etron342@lichess": {
+    "id": "etron342",
+    "provider": "lichess",
+    "username": "Etron342",
+    "firstSeen": 1632239672278,
+    "lastSeen": 1632240974246,
+    "firstSeenTime": "3:54:32 PM",
+    "lastSeenTime": "4:16:14 PM",
+    "onlineDurationMins": 21.699466666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1632239920357,
+    "lastSeen": 1632241439750,
+    "firstSeenTime": "3:58:40 PM",
+    "lastSeenTime": "4:23:28 PM",
+    "onlineDurationMins": 24.807133333333333
+  },
+  "daws_chess_bot@lichess": {
+    "id": "daws_chess_bot",
+    "provider": "lichess",
+    "username": "DAWS_Chess_Bot",
+    "firstSeen": 1632240711232,
+    "lastSeen": 1632241138146,
+    "firstSeenTime": "4:11:51 PM",
+    "lastSeenTime": "4:18:58 PM",
+    "onlineDurationMins": 7.115233333333333
+  }
+}
