@@ -1,0 +1,59 @@
+{
+  "blitzz_bot@lichess": {
+    "id": "blitzz_bot",
+    "provider": "lichess",
+    "username": "blitzz_bot",
+    "firstSeen": 1632197902633,
+    "lastSeen": 1632233377217,
+    "firstSeenTime": "4:18:22 AM",
+    "lastSeenTime": "2:09:37 PM",
+    "onlineDurationMins": 591.2430666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1632223130122,
+    "lastSeen": 1632233650461,
+    "firstSeenTime": "11:18:50 AM",
+    "lastSeenTime": "2:14:10 PM",
+    "onlineDurationMins": 175.33898333333335
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1632224452928,
+    "lastSeen": 1632233158089,
+    "firstSeenTime": "11:40:52 AM",
+    "lastSeenTime": "2:05:58 PM",
+    "onlineDurationMins": 145.08601666666667
+  },
+  "qwerty1116@lichess": {
+    "id": "qwerty1116",
+    "provider": "lichess",
+    "username": "qwerty1116",
+    "firstSeen": 1632232792918,
+    "lastSeen": 1632233458771,
+    "firstSeenTime": "1:59:52 PM",
+    "lastSeenTime": "2:10:58 PM",
+    "onlineDurationMins": 11.09755
+  },
+  "shakboy9824453231op@lichess": {
+    "id": "shakboy9824453231op",
+    "provider": "lichess",
+    "username": "shakboy9824453231op",
+    "firstSeen": 1632233448892,
+    "lastSeen": 1632233457926,
+    "firstSeenTime": "2:10:48 PM",
+    "lastSeenTime": "2:10:57 PM",
+    "onlineDurationMins": 0.15056666666666665
+  },
+  "superdeepblue@lichess": {
+    "id": "superdeepblue",
+    "provider": "lichess",
+    "username": "SuperDeepBlue",
+    "firstSeen": 1632233653278,
+    "lastSeen": 1632233653278
+  }
+}
