@@ -1,0 +1,29 @@
+{
+  "midnightshadow_03@lichess": {
+    "id": "midnightshadow_03",
+    "provider": "lichess",
+    "username": "midnightshadow_03",
+    "firstSeen": 1632196380457,
+    "lastSeen": 1632211906865,
+    "firstSeenTime": "3:53:00 AM",
+    "lastSeenTime": "7:49:46 AM",
+    "onlineDurationMins": 236.7659
+  },
+  "blitzz_bot@lichess": {
+    "id": "blitzz_bot",
+    "provider": "lichess",
+    "username": "blitzz_bot",
+    "firstSeen": 1632197902633,
+    "lastSeen": 1632211537249,
+    "firstSeenTime": "4:18:22 AM",
+    "lastSeenTime": "7:40:37 AM",
+    "onlineDurationMins": 202.24331666666666
+  },
+  "fastest_black_bot@lichess": {
+    "id": "fastest_black_bot",
+    "provider": "lichess",
+    "username": "Fastest_Black_Bot",
+    "firstSeen": 1632211421343,
+    "lastSeen": 1632212014605
+  }
+}
