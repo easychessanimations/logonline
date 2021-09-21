@@ -1,0 +1,26 @@
+{
+  "etron342@lichess": {
+    "id": "etron342",
+    "provider": "lichess",
+    "username": "Etron342",
+    "firstSeen": 1632239672278,
+    "lastSeen": 1632246300161,
+    "firstSeenTime": "3:54:32 PM",
+    "lastSeenTime": "5:00:14 PM",
+    "onlineDurationMins": 65.701
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1632244578093,
+    "lastSeen": 1632246257995
+  },
+  "virgo_andlogos@lichess": {
+    "id": "virgo_andlogos",
+    "provider": "lichess",
+    "username": "Virgo_andLogos",
+    "firstSeen": 1632246443642,
+    "lastSeen": 1632246443643
+  }
+}
