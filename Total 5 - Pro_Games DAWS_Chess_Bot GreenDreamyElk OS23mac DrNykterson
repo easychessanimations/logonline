@@ -1,0 +1,37 @@
+{
+  "pro_games@lichess": {
+    "id": "pro_games",
+    "provider": "lichess",
+    "username": "Pro_Games",
+    "firstSeen": 1632191751627,
+    "lastSeen": 1632195643667
+  },
+  "daws_chess_bot@lichess": {
+    "id": "daws_chess_bot",
+    "provider": "lichess",
+    "username": "DAWS_Chess_Bot",
+    "firstSeen": 1632195270205,
+    "lastSeen": 1632195940523
+  },
+  "greendreamyelk@lichess": {
+    "id": "greendreamyelk",
+    "provider": "lichess",
+    "username": "GreenDreamyElk",
+    "firstSeen": 1632195881440,
+    "lastSeen": 1632196042592
+  },
+  "os23mac@lichess": {
+    "id": "os23mac",
+    "provider": "lichess",
+    "username": "OS23mac",
+    "firstSeen": 1632195999959,
+    "lastSeen": 1632196042330
+  },
+  "drnykterson@lichess": {
+    "id": "drnykterson",
+    "provider": "lichess",
+    "username": "DrNykterson",
+    "firstSeen": 1632196042695,
+    "lastSeen": 1632196042696
+  }
+}
