@@ -1,0 +1,52 @@
+{
+  "blitzz_bot@lichess": {
+    "id": "blitzz_bot",
+    "provider": "lichess",
+    "username": "blitzz_bot",
+    "firstSeen": 1632197902633,
+    "lastSeen": 1632228633921,
+    "firstSeenTime": "4:18:22 AM",
+    "lastSeenTime": "12:39:36 PM",
+    "onlineDurationMins": 501.2393666666667
+  },
+  "mrsadike@lichess": {
+    "id": "mrsadike",
+    "provider": "lichess",
+    "username": "mrsadike",
+    "firstSeen": 1632217455362,
+    "lastSeen": 1632228560770,
+    "firstSeenTime": "9:44:15 AM",
+    "lastSeenTime": "12:49:20 PM",
+    "onlineDurationMins": 185.09013333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1632223130122,
+    "lastSeen": 1632228629304,
+    "firstSeenTime": "11:18:50 AM",
+    "lastSeenTime": "12:50:29 PM",
+    "onlineDurationMins": 91.65303333333334
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1632224452928,
+    "lastSeen": 1632227980964,
+    "firstSeenTime": "11:40:52 AM",
+    "lastSeenTime": "12:39:40 PM",
+    "onlineDurationMins": 58.8006
+  },
+  "a_girl_in_sex@lichess": {
+    "id": "a_girl_in_sex",
+    "provider": "lichess",
+    "username": "A_Girl_In_Sex",
+    "firstSeen": 1632227607729,
+    "lastSeen": 1632228280077,
+    "firstSeenTime": "12:33:27 PM",
+    "lastSeenTime": "12:44:40 PM",
+    "onlineDurationMins": 11.2058
+  }
+}
