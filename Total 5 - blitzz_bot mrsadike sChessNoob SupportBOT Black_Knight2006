@@ -1,0 +1,52 @@
+{
+  "blitzz_bot@lichess": {
+    "id": "blitzz_bot",
+    "provider": "lichess",
+    "username": "blitzz_bot",
+    "firstSeen": 1632197902633,
+    "lastSeen": 1632230077129,
+    "firstSeenTime": "4:18:22 AM",
+    "lastSeenTime": "1:14:37 PM",
+    "onlineDurationMins": 536.2416
+  },
+  "mrsadike@lichess": {
+    "id": "mrsadike",
+    "provider": "lichess",
+    "username": "mrsadike",
+    "firstSeen": 1632217455362,
+    "lastSeen": 1632230559457,
+    "firstSeenTime": "9:44:15 AM",
+    "lastSeenTime": "1:22:39 PM",
+    "onlineDurationMins": 218.40158333333332
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1632223130122,
+    "lastSeen": 1632230643346,
+    "firstSeenTime": "11:18:50 AM",
+    "lastSeenTime": "1:23:32 PM",
+    "onlineDurationMins": 124.7034
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1632224452928,
+    "lastSeen": 1632230497709,
+    "firstSeenTime": "11:40:52 AM",
+    "lastSeenTime": "1:21:37 PM",
+    "onlineDurationMins": 100.74635
+  },
+  "black_knight2006@lichess": {
+    "id": "black_knight2006",
+    "provider": "lichess",
+    "username": "Black_Knight2006",
+    "firstSeen": 1632229960919,
+    "lastSeen": 1632230199558,
+    "firstSeenTime": "1:12:40 PM",
+    "lastSeenTime": "1:16:39 PM",
+    "onlineDurationMins": 3.977316666666667
+  }
+}
