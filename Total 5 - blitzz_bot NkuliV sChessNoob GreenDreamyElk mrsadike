@@ -1,0 +1,46 @@
+{
+  "blitzz_bot@lichess": {
+    "id": "blitzz_bot",
+    "provider": "lichess",
+    "username": "blitzz_bot",
+    "firstSeen": 1632197902633,
+    "lastSeen": 1632217413974,
+    "firstSeenTime": "4:18:22 AM",
+    "lastSeenTime": "9:35:37 AM",
+    "onlineDurationMins": 317.24963333333335
+  },
+  "nkuliv@lichess": {
+    "id": "nkuliv",
+    "provider": "lichess",
+    "username": "NkuliV",
+    "firstSeen": 1632216810205,
+    "lastSeen": 1632217198701,
+    "firstSeenTime": "9:33:30 AM",
+    "lastSeenTime": "9:35:17 AM",
+    "onlineDurationMins": 1.7947
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1632216981513,
+    "lastSeen": 1632216981513,
+    "firstSeenTime": "9:36:21 AM",
+    "lastSeenTime": "9:36:21 AM",
+    "onlineDurationMins": 0
+  },
+  "greendreamyelk@lichess": {
+    "id": "greendreamyelk",
+    "provider": "lichess",
+    "username": "GreenDreamyElk",
+    "firstSeen": 1632217345453,
+    "lastSeen": 1632217346815
+  },
+  "mrsadike@lichess": {
+    "id": "mrsadike",
+    "provider": "lichess",
+    "username": "mrsadike",
+    "firstSeen": 1632217455362,
+    "lastSeen": 1632217455362
+  }
+}
