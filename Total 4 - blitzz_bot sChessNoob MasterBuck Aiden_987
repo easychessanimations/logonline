@@ -1,0 +1,42 @@
+{
+  "blitzz_bot@lichess": {
+    "id": "blitzz_bot",
+    "provider": "lichess",
+    "username": "blitzz_bot",
+    "firstSeen": 1632197902633,
+    "lastSeen": 1632234817130,
+    "firstSeenTime": "4:18:22 AM",
+    "lastSeenTime": "2:33:37 PM",
+    "onlineDurationMins": 615.2416166666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1632223130122,
+    "lastSeen": 1632235138536,
+    "firstSeenTime": "11:18:50 AM",
+    "lastSeenTime": "2:38:58 PM",
+    "onlineDurationMins": 200.14023333333333
+  },
+  "masterbuck@lichess": {
+    "id": "masterbuck",
+    "provider": "lichess",
+    "username": "MasterBuck",
+    "firstSeen": 1632235073052,
+    "lastSeen": 1632235092912,
+    "firstSeenTime": "2:37:53 PM",
+    "lastSeenTime": "2:38:12 PM",
+    "onlineDurationMins": 0.331
+  },
+  "aiden_987@lichess": {
+    "id": "aiden_987",
+    "provider": "lichess",
+    "username": "Aiden_987",
+    "firstSeen": 1632235086145,
+    "lastSeen": 1632235096068,
+    "firstSeenTime": "2:38:06 PM",
+    "lastSeenTime": "2:38:16 PM",
+    "onlineDurationMins": 0.16538333333333333
+  }
+}
