@@ -1,0 +1,69 @@
+{
+  "blitzz_bot@lichess": {
+    "id": "blitzz_bot",
+    "provider": "lichess",
+    "username": "blitzz_bot",
+    "firstSeen": 1632197902633,
+    "lastSeen": 1632237517139,
+    "firstSeenTime": "4:18:22 AM",
+    "lastSeenTime": "3:18:37 PM",
+    "onlineDurationMins": 660.2417666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1632223130122,
+    "lastSeen": 1632237712614,
+    "firstSeenTime": "11:18:50 AM",
+    "lastSeenTime": "3:21:52 PM",
+    "onlineDurationMins": 243.04153333333332
+  },
+  "masterbuck@lichess": {
+    "id": "masterbuck",
+    "provider": "lichess",
+    "username": "MasterBuck",
+    "firstSeen": 1632235073052,
+    "lastSeen": 1632237185607,
+    "firstSeenTime": "2:37:53 PM",
+    "lastSeenTime": "3:13:05 PM",
+    "onlineDurationMins": 35.20925
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1632235230804,
+    "lastSeen": 1632237501163,
+    "firstSeenTime": "2:40:30 PM",
+    "lastSeenTime": "3:18:21 PM",
+    "onlineDurationMins": 37.83931666666667
+  },
+  "black_knight2006@lichess": {
+    "id": "black_knight2006",
+    "provider": "lichess",
+    "username": "Black_Knight2006",
+    "firstSeen": 1632235989818,
+    "lastSeen": 1632237514519,
+    "firstSeenTime": "2:53:09 PM",
+    "lastSeenTime": "3:18:34 PM",
+    "onlineDurationMins": 25.411683333333333
+  },
+  "virgo_andlogos@lichess": {
+    "id": "virgo_andlogos",
+    "provider": "lichess",
+    "username": "Virgo_andLogos",
+    "firstSeen": 1632237685693,
+    "lastSeen": 1632237699516,
+    "firstSeenTime": "3:21:25 PM",
+    "lastSeenTime": "3:21:39 PM",
+    "onlineDurationMins": 0.23038333333333333
+  },
+  "greekeagle@lichess": {
+    "id": "greekeagle",
+    "provider": "lichess",
+    "username": "GreekEagle",
+    "firstSeen": 1632237724009,
+    "lastSeen": 1632237724009
+  }
+}
