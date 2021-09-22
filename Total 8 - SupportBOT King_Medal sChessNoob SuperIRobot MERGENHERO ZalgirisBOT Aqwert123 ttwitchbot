@@ -1,0 +1,79 @@
+{
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1632306125112,
+    "lastSeen": 1632318960075,
+    "firstSeenTime": "10:22:05 AM",
+    "lastSeenTime": "1:56:00 PM",
+    "onlineDurationMins": 213.91605
+  },
+  "king_medal@lichess": {
+    "id": "king_medal",
+    "provider": "lichess",
+    "username": "King_Medal",
+    "firstSeen": 1632313855417,
+    "lastSeen": 1632319259312,
+    "firstSeenTime": "12:30:55 PM",
+    "lastSeenTime": "2:00:59 PM",
+    "onlineDurationMins": 90.06491666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1632317278882,
+    "lastSeen": 1632319387175,
+    "firstSeenTime": "1:27:58 PM",
+    "lastSeenTime": "2:03:07 PM",
+    "onlineDurationMins": 35.138216666666665
+  },
+  "superirobot@lichess": {
+    "id": "superirobot",
+    "provider": "lichess",
+    "username": "SuperIRobot",
+    "firstSeen": 1632318729307,
+    "lastSeen": 1632318834180,
+    "firstSeenTime": "1:52:09 PM",
+    "lastSeenTime": "1:53:54 PM",
+    "onlineDurationMins": 1.7478833333333332
+  },
+  "mergenhero@lichess": {
+    "id": "mergenhero",
+    "provider": "lichess",
+    "username": "MERGENHERO",
+    "firstSeen": 1632319203750,
+    "lastSeen": 1632319303044,
+    "firstSeenTime": "2:00:03 PM",
+    "lastSeenTime": "2:01:43 PM",
+    "onlineDurationMins": 1.6549
+  },
+  "zalgirisbot@lichess": {
+    "id": "zalgirisbot",
+    "provider": "lichess",
+    "username": "ZalgirisBOT",
+    "firstSeen": 1632319218023,
+    "lastSeen": 1632319347463,
+    "firstSeenTime": "2:00:18 PM",
+    "lastSeenTime": "2:02:27 PM",
+    "onlineDurationMins": 2.1573333333333333
+  },
+  "aqwert123@lichess": {
+    "id": "aqwert123",
+    "provider": "lichess",
+    "username": "Aqwert123",
+    "firstSeen": 1632319345667,
+    "lastSeen": 1632319366153,
+    "firstSeenTime": "2:02:25 PM",
+    "lastSeenTime": "2:02:46 PM",
+    "onlineDurationMins": 0.3414333333333333
+  },
+  "ttwitchbot@lichess": {
+    "id": "ttwitchbot",
+    "provider": "lichess",
+    "username": "ttwitchbot",
+    "firstSeen": 1632319397129,
+    "lastSeen": 1632319397129
+  }
+}
