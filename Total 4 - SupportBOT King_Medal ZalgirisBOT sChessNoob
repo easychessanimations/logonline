@@ -1,0 +1,36 @@
+{
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1632306125112,
+    "lastSeen": 1632316920060,
+    "firstSeenTime": "10:22:05 AM",
+    "lastSeenTime": "1:03:40 PM",
+    "onlineDurationMins": 161.59251666666665
+  },
+  "king_medal@lichess": {
+    "id": "king_medal",
+    "provider": "lichess",
+    "username": "King_Medal",
+    "firstSeen": 1632313855417,
+    "lastSeen": 1632317162202,
+    "firstSeenTime": "12:30:55 PM",
+    "lastSeenTime": "1:03:59 PM",
+    "onlineDurationMins": 33.06551666666667
+  },
+  "zalgirisbot@lichess": {
+    "id": "zalgirisbot",
+    "provider": "lichess",
+    "username": "ZalgirisBOT",
+    "firstSeen": 1632317147462,
+    "lastSeen": 1632317268202
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1632317278882,
+    "lastSeen": 1632317278882
+  }
+}
