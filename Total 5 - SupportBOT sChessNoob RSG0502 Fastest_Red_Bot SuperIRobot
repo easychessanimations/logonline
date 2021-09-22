@@ -1,0 +1,49 @@
+{
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1632306125112,
+    "lastSeen": 1632324296972,
+    "firstSeenTime": "10:22:05 AM",
+    "lastSeenTime": "3:05:30 PM",
+    "onlineDurationMins": 283.4178333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1632317278882,
+    "lastSeen": 1632323704823,
+    "firstSeenTime": "1:27:58 PM",
+    "lastSeenTime": "3:15:04 PM",
+    "onlineDurationMins": 107.09901666666667
+  },
+  "rsg0502@lichess": {
+    "id": "rsg0502",
+    "provider": "lichess",
+    "username": "RSG0502",
+    "firstSeen": 1632321807138,
+    "lastSeen": 1632323778762,
+    "firstSeenTime": "2:43:27 PM",
+    "lastSeenTime": "3:08:31 PM",
+    "onlineDurationMins": 25.068666666666665
+  },
+  "fastest_red_bot@lichess": {
+    "id": "fastest_red_bot",
+    "provider": "lichess",
+    "username": "Fastest_Red_Bot",
+    "firstSeen": 1632323421739,
+    "lastSeen": 1632324294482,
+    "firstSeenTime": "3:10:21 PM",
+    "lastSeenTime": "3:14:48 PM",
+    "onlineDurationMins": 4.437783333333333
+  },
+  "superirobot@lichess": {
+    "id": "superirobot",
+    "provider": "lichess",
+    "username": "SuperIRobot",
+    "firstSeen": 1632324339970,
+    "lastSeen": 1632324339970
+  }
+}
