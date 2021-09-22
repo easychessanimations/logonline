@@ -1,0 +1,59 @@
+{
+  "pro_games@lichess": {
+    "id": "pro_games",
+    "provider": "lichess",
+    "username": "Pro_Games",
+    "firstSeen": 1632295346446,
+    "lastSeen": 1632308874178,
+    "firstSeenTime": "7:22:26 AM",
+    "lastSeenTime": "11:07:54 AM",
+    "onlineDurationMins": 225.4622
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1632301426879,
+    "lastSeen": 1632309143411,
+    "firstSeenTime": "9:03:46 AM",
+    "lastSeenTime": "11:12:23 AM",
+    "onlineDurationMins": 128.60886666666667
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1632306125112,
+    "lastSeen": 1632308939852,
+    "firstSeenTime": "10:22:05 AM",
+    "lastSeenTime": "11:08:59 AM",
+    "onlineDurationMins": 46.912333333333336
+  },
+  "superdeepblue@lichess": {
+    "id": "superdeepblue",
+    "provider": "lichess",
+    "username": "SuperDeepBlue",
+    "firstSeen": 1632308567126,
+    "lastSeen": 1632308680499,
+    "firstSeenTime": "11:02:47 AM",
+    "lastSeenTime": "11:04:40 AM",
+    "onlineDurationMins": 1.88955
+  },
+  "ishaanvn2011@lichess": {
+    "id": "ishaanvn2011",
+    "provider": "lichess",
+    "username": "IshaanVn2011",
+    "firstSeen": 1632308621597,
+    "lastSeen": 1632308681804,
+    "firstSeenTime": "11:03:41 AM",
+    "lastSeenTime": "11:04:41 AM",
+    "onlineDurationMins": 1.00345
+  },
+  "gbx3blitz@lichess": {
+    "id": "gbx3blitz",
+    "provider": "lichess",
+    "username": "GBx3Blitz",
+    "firstSeen": 1632309155563,
+    "lastSeen": 1632309155563
+  }
+}
