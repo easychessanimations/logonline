@@ -1,0 +1,49 @@
+{
+  "pro_games@lichess": {
+    "id": "pro_games",
+    "provider": "lichess",
+    "username": "Pro_Games",
+    "firstSeen": 1632295346446,
+    "lastSeen": 1632307732330,
+    "firstSeenTime": "7:22:26 AM",
+    "lastSeenTime": "10:48:52 AM",
+    "onlineDurationMins": 206.4314
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1632301426879,
+    "lastSeen": 1632307853343,
+    "firstSeenTime": "9:03:46 AM",
+    "lastSeenTime": "10:50:53 AM",
+    "onlineDurationMins": 107.10773333333333
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1632306125112,
+    "lastSeen": 1632307765908,
+    "firstSeenTime": "10:22:05 AM",
+    "lastSeenTime": "10:49:25 AM",
+    "onlineDurationMins": 27.3466
+  },
+  "aqwert123@lichess": {
+    "id": "aqwert123",
+    "provider": "lichess",
+    "username": "Aqwert123",
+    "firstSeen": 1632306921467,
+    "lastSeen": 1632307605125,
+    "firstSeenTime": "10:35:21 AM",
+    "lastSeenTime": "10:46:45 AM",
+    "onlineDurationMins": 11.3943
+  },
+  "lavanyareshma01@lichess": {
+    "id": "lavanyareshma01",
+    "provider": "lichess",
+    "username": "LAVANYARESHMA01",
+    "firstSeen": 1632307858176,
+    "lastSeen": 1632307858176
+  }
+}
