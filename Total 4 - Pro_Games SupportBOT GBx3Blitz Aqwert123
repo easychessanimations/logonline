@@ -1,0 +1,39 @@
+{
+  "pro_games@lichess": {
+    "id": "pro_games",
+    "provider": "lichess",
+    "username": "Pro_Games",
+    "firstSeen": 1632295346446,
+    "lastSeen": 1632310017596,
+    "firstSeenTime": "7:22:26 AM",
+    "lastSeenTime": "11:07:54 AM",
+    "onlineDurationMins": 225.4622
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1632306125112,
+    "lastSeen": 1632310257026,
+    "firstSeenTime": "10:22:05 AM",
+    "lastSeenTime": "11:08:59 AM",
+    "onlineDurationMins": 46.912333333333336
+  },
+  "gbx3blitz@lichess": {
+    "id": "gbx3blitz",
+    "provider": "lichess",
+    "username": "GBx3Blitz",
+    "firstSeen": 1632309155563,
+    "lastSeen": 1632309957631,
+    "firstSeenTime": "11:12:35 AM",
+    "lastSeenTime": "11:12:46 AM",
+    "onlineDurationMins": 0.18546666666666667
+  },
+  "aqwert123@lichess": {
+    "id": "aqwert123",
+    "provider": "lichess",
+    "username": "Aqwert123",
+    "firstSeen": 1632309581129,
+    "lastSeen": 1632309957795
+  }
+}
