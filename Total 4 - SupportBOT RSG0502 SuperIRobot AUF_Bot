@@ -1,0 +1,36 @@
+{
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1632306125112,
+    "lastSeen": 1632325136923,
+    "firstSeenTime": "10:22:05 AM",
+    "lastSeenTime": "3:05:30 PM",
+    "onlineDurationMins": 283.4178333333333
+  },
+  "rsg0502@lichess": {
+    "id": "rsg0502",
+    "provider": "lichess",
+    "username": "RSG0502",
+    "firstSeen": 1632321807138,
+    "lastSeen": 1632325098799,
+    "firstSeenTime": "2:43:27 PM",
+    "lastSeenTime": "3:08:31 PM",
+    "onlineDurationMins": 25.068666666666665
+  },
+  "superirobot@lichess": {
+    "id": "superirobot",
+    "provider": "lichess",
+    "username": "SuperIRobot",
+    "firstSeen": 1632324339970,
+    "lastSeen": 1632325567783
+  },
+  "auf_bot@lichess": {
+    "id": "auf_bot",
+    "provider": "lichess",
+    "username": "AUF_Bot",
+    "firstSeen": 1632324824021,
+    "lastSeen": 1632325248463
+  }
+}
