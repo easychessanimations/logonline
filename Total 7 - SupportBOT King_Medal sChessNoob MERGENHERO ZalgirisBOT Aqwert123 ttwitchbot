@@ -1,0 +1,72 @@
+{
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1632306125112,
+    "lastSeen": 1632319620253,
+    "firstSeenTime": "10:22:05 AM",
+    "lastSeenTime": "2:07:00 PM",
+    "onlineDurationMins": 224.91901666666666
+  },
+  "king_medal@lichess": {
+    "id": "king_medal",
+    "provider": "lichess",
+    "username": "King_Medal",
+    "firstSeen": 1632313855417,
+    "lastSeen": 1632319259312,
+    "firstSeenTime": "12:30:55 PM",
+    "lastSeenTime": "2:00:59 PM",
+    "onlineDurationMins": 90.06491666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1632317278882,
+    "lastSeen": 1632319728226,
+    "firstSeenTime": "1:27:58 PM",
+    "lastSeenTime": "2:08:48 PM",
+    "onlineDurationMins": 40.8224
+  },
+  "mergenhero@lichess": {
+    "id": "mergenhero",
+    "provider": "lichess",
+    "username": "MERGENHERO",
+    "firstSeen": 1632319203750,
+    "lastSeen": 1632319303044,
+    "firstSeenTime": "2:00:03 PM",
+    "lastSeenTime": "2:01:43 PM",
+    "onlineDurationMins": 1.6549
+  },
+  "zalgirisbot@lichess": {
+    "id": "zalgirisbot",
+    "provider": "lichess",
+    "username": "ZalgirisBOT",
+    "firstSeen": 1632319218023,
+    "lastSeen": 1632319609423,
+    "firstSeenTime": "2:00:18 PM",
+    "lastSeenTime": "2:06:49 PM",
+    "onlineDurationMins": 6.523333333333333
+  },
+  "aqwert123@lichess": {
+    "id": "aqwert123",
+    "provider": "lichess",
+    "username": "Aqwert123",
+    "firstSeen": 1632319345667,
+    "lastSeen": 1632319444556,
+    "firstSeenTime": "2:02:25 PM",
+    "lastSeenTime": "2:04:04 PM",
+    "onlineDurationMins": 1.64815
+  },
+  "ttwitchbot@lichess": {
+    "id": "ttwitchbot",
+    "provider": "lichess",
+    "username": "ttwitchbot",
+    "firstSeen": 1632319397129,
+    "lastSeen": 1632319406127,
+    "firstSeenTime": "2:03:17 PM",
+    "lastSeenTime": "2:03:26 PM",
+    "onlineDurationMins": 0.14996666666666666
+  }
+}
