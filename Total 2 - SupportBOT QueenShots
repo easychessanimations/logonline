@@ -1,0 +1,19 @@
+{
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1632306125112,
+    "lastSeen": 1632310919893,
+    "firstSeenTime": "10:22:05 AM",
+    "lastSeenTime": "11:08:59 AM",
+    "onlineDurationMins": 46.912333333333336
+  },
+  "queenshots@lichess": {
+    "id": "queenshots",
+    "provider": "lichess",
+    "username": "QueenShots",
+    "firstSeen": 1632311404407,
+    "lastSeen": 1632311404407
+  }
+}
