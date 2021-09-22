@@ -1,0 +1,42 @@
+{
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1632306125112,
+    "lastSeen": 1632323130182,
+    "firstSeenTime": "10:22:05 AM",
+    "lastSeenTime": "2:59:56 PM",
+    "onlineDurationMins": 277.8623333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1632317278882,
+    "lastSeen": 1632322945620,
+    "firstSeenTime": "1:27:58 PM",
+    "lastSeenTime": "3:02:25 PM",
+    "onlineDurationMins": 94.44563333333333
+  },
+  "gbx3blitz@lichess": {
+    "id": "gbx3blitz",
+    "provider": "lichess",
+    "username": "GBx3Blitz",
+    "firstSeen": 1632321450033,
+    "lastSeen": 1632322951791,
+    "firstSeenTime": "2:37:30 PM",
+    "lastSeenTime": "2:59:49 PM",
+    "onlineDurationMins": 22.332083333333333
+  },
+  "rsg0502@lichess": {
+    "id": "rsg0502",
+    "provider": "lichess",
+    "username": "RSG0502",
+    "firstSeen": 1632321807138,
+    "lastSeen": 1632323311258,
+    "firstSeenTime": "2:43:27 PM",
+    "lastSeenTime": "2:54:18 PM",
+    "onlineDurationMins": 10.86175
+  }
+}
