@@ -1,0 +1,22 @@
+{
+  "pro_games@lichess": {
+    "id": "pro_games",
+    "provider": "lichess",
+    "username": "Pro_Games",
+    "firstSeen": 1632295346446,
+    "lastSeen": 1632310017596,
+    "firstSeenTime": "7:22:26 AM",
+    "lastSeenTime": "11:07:54 AM",
+    "onlineDurationMins": 225.4622
+  },
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1632306125112,
+    "lastSeen": 1632310916540,
+    "firstSeenTime": "10:22:05 AM",
+    "lastSeenTime": "11:08:59 AM",
+    "onlineDurationMins": 46.912333333333336
+  }
+}
