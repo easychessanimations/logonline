@@ -1,0 +1,59 @@
+{
+  "supportbot@lichess": {
+    "id": "supportbot",
+    "provider": "lichess",
+    "username": "SupportBOT",
+    "firstSeen": 1632306125112,
+    "lastSeen": 1632321720227,
+    "firstSeenTime": "10:22:05 AM",
+    "lastSeenTime": "2:42:00 PM",
+    "onlineDurationMins": 259.91858333333334
+  },
+  "king_medal@lichess": {
+    "id": "king_medal",
+    "provider": "lichess",
+    "username": "King_Medal",
+    "firstSeen": 1632313855417,
+    "lastSeen": 1632321058995,
+    "firstSeenTime": "12:30:55 PM",
+    "lastSeenTime": "2:30:58 PM",
+    "onlineDurationMins": 120.05963333333334
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1632317278882,
+    "lastSeen": 1632321804316,
+    "firstSeenTime": "1:27:58 PM",
+    "lastSeenTime": "2:43:24 PM",
+    "onlineDurationMins": 75.4239
+  },
+  "gbx3blitz@lichess": {
+    "id": "gbx3blitz",
+    "provider": "lichess",
+    "username": "GBx3Blitz",
+    "firstSeen": 1632321450033,
+    "lastSeen": 1632321454213,
+    "firstSeenTime": "2:37:30 PM",
+    "lastSeenTime": "2:37:34 PM",
+    "onlineDurationMins": 0.06966666666666667
+  },
+  "suxus-bot@lichess": {
+    "id": "suxus-bot",
+    "provider": "lichess",
+    "username": "Suxus-Bot",
+    "firstSeen": 1632321705908,
+    "lastSeen": 1632321767237,
+    "firstSeenTime": "2:41:45 PM",
+    "lastSeenTime": "2:42:47 PM",
+    "onlineDurationMins": 1.02215
+  },
+  "rsg0502@lichess": {
+    "id": "rsg0502",
+    "provider": "lichess",
+    "username": "RSG0502",
+    "firstSeen": 1632321807138,
+    "lastSeen": 1632321807138
+  }
+}
