@@ -1,0 +1,32 @@
+{
+  "los-guerreros1@lichess": {
+    "id": "los-guerreros1",
+    "provider": "lichess",
+    "username": "Los-Guerreros1",
+    "firstSeen": 1632400236596,
+    "lastSeen": 1632405813722,
+    "firstSeenTime": "12:30:36 PM",
+    "lastSeenTime": "2:03:33 PM",
+    "onlineDurationMins": 92.9521
+  },
+  "icekarimsundae@lichess": {
+    "id": "icekarimsundae",
+    "provider": "lichess",
+    "username": "IceKarimSundae",
+    "firstSeen": 1632405361646,
+    "lastSeen": 1632405371079,
+    "firstSeenTime": "1:56:01 PM",
+    "lastSeenTime": "1:56:11 PM",
+    "onlineDurationMins": 0.15721666666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1632405819614,
+    "lastSeen": 1632405819614,
+    "firstSeenTime": "2:03:39 PM",
+    "lastSeenTime": "2:03:39 PM",
+    "onlineDurationMins": 0
+  }
+}
