@@ -1,0 +1,26 @@
+{
+  "masterbuck@lichess": {
+    "id": "masterbuck",
+    "provider": "lichess",
+    "username": "MasterBuck",
+    "firstSeen": 1632386984980,
+    "lastSeen": 1632389015150,
+    "firstSeenTime": "8:49:44 AM",
+    "lastSeenTime": "8:53:30 AM",
+    "onlineDurationMins": 3.758183333333333
+  },
+  "pro_games@lichess": {
+    "id": "pro_games",
+    "provider": "lichess",
+    "username": "Pro_Games",
+    "firstSeen": 1632388307062,
+    "lastSeen": 1632389691241
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1632389720407,
+    "lastSeen": 1632389720407
+  }
+}
