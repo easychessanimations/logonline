@@ -1,0 +1,22 @@
+{
+  "daws_chess_bot@lichess": {
+    "id": "daws_chess_bot",
+    "provider": "lichess",
+    "username": "DAWS_Chess_Bot",
+    "firstSeen": 1632399978075,
+    "lastSeen": 1632400649186,
+    "firstSeenTime": "12:26:18 PM",
+    "lastSeenTime": "12:30:50 PM",
+    "onlineDurationMins": 4.538233333333333
+  },
+  "los-guerreros1@lichess": {
+    "id": "los-guerreros1",
+    "provider": "lichess",
+    "username": "Los-Guerreros1",
+    "firstSeen": 1632400236596,
+    "lastSeen": 1632401013367,
+    "firstSeenTime": "12:30:36 PM",
+    "lastSeenTime": "12:32:57 PM",
+    "onlineDurationMins": 2.3518333333333334
+  }
+}
