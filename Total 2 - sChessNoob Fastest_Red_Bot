@@ -1,0 +1,19 @@
+{
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1632459960813,
+    "lastSeen": 1632462595560,
+    "firstSeenTime": "5:06:00 AM",
+    "lastSeenTime": "5:49:55 AM",
+    "onlineDurationMins": 43.91245
+  },
+  "fastest_red_bot@lichess": {
+    "id": "fastest_red_bot",
+    "provider": "lichess",
+    "username": "Fastest_Red_Bot",
+    "firstSeen": 1632462694093,
+    "lastSeen": 1632462694093
+  }
+}
