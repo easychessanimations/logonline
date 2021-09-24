@@ -4,16 +4,19 @@
     "provider": "lichess",
     "username": "ClubAjedrezChileno",
     "firstSeen": 1632500296667,
-    "lastSeen": 1632502110365,
+    "lastSeen": 1632503451245,
     "firstSeenTime": "4:18:16 PM",
-    "lastSeenTime": "4:20:39 PM",
-    "onlineDurationMins": 2.3871166666666666
+    "lastSeenTime": "4:49:42 PM",
+    "onlineDurationMins": 31.434633333333334
   },
   "take_with_check@lichess": {
     "id": "take_with_check",
     "provider": "lichess",
     "username": "Take_With_Check",
     "firstSeen": 1632502112215,
-    "lastSeen": 1632502112215
+    "lastSeen": 1632503293313,
+    "firstSeenTime": "4:48:32 PM",
+    "lastSeenTime": "4:53:01 PM",
+    "onlineDurationMins": 4.486666666666666
   }
 }
