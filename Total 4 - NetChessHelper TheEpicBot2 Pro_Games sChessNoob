@@ -1,0 +1,36 @@
+{
+  "netchesshelper@lichess": {
+    "id": "netchesshelper",
+    "provider": "lichess",
+    "username": "NetChessHelper",
+    "firstSeen": 1632481554678,
+    "lastSeen": 1632489550657,
+    "firstSeenTime": "11:05:54 AM",
+    "lastSeenTime": "12:56:40 PM",
+    "onlineDurationMins": 110.76961666666666
+  },
+  "theepicbot2@lichess": {
+    "id": "theepicbot2",
+    "provider": "lichess",
+    "username": "TheEpicBot2",
+    "firstSeen": 1632485873247,
+    "lastSeen": 1632489179867,
+    "firstSeenTime": "12:17:53 PM",
+    "lastSeenTime": "12:52:46 PM",
+    "onlineDurationMins": 34.88673333333333
+  },
+  "pro_games@lichess": {
+    "id": "pro_games",
+    "provider": "lichess",
+    "username": "Pro_Games",
+    "firstSeen": 1632488489082,
+    "lastSeen": 1632489168545
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1632489573746,
+    "lastSeen": 1632489573746
+  }
+}
