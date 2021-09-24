@@ -1,0 +1,32 @@
+{
+  "netchesshelper@lichess": {
+    "id": "netchesshelper",
+    "provider": "lichess",
+    "username": "NetChessHelper",
+    "firstSeen": 1632481554678,
+    "lastSeen": 1632489550657,
+    "firstSeenTime": "11:05:54 AM",
+    "lastSeenTime": "1:19:10 PM",
+    "onlineDurationMins": 133.26631666666665
+  },
+  "pro_games@lichess": {
+    "id": "pro_games",
+    "provider": "lichess",
+    "username": "Pro_Games",
+    "firstSeen": 1632488489082,
+    "lastSeen": 1632490000299,
+    "firstSeenTime": "1:01:29 PM",
+    "lastSeenTime": "1:26:40 PM",
+    "onlineDurationMins": 25.18695
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1632489573746,
+    "lastSeen": 1632490093351,
+    "firstSeenTime": "1:19:33 PM",
+    "lastSeenTime": "1:27:42 PM",
+    "onlineDurationMins": 8.143233333333333
+  }
+}
