@@ -1,0 +1,29 @@
+{
+  "netchesshelper@lichess": {
+    "id": "netchesshelper",
+    "provider": "lichess",
+    "username": "NetChessHelper",
+    "firstSeen": 1632481554678,
+    "lastSeen": 1632482236311,
+    "firstSeenTime": "11:05:54 AM",
+    "lastSeenTime": "11:17:16 AM",
+    "onlineDurationMins": 11.36055
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1632481775952,
+    "lastSeen": 1632482551063,
+    "firstSeenTime": "11:09:35 AM",
+    "lastSeenTime": "11:22:31 AM",
+    "onlineDurationMins": 12.918516666666667
+  },
+  "superirobot@lichess": {
+    "id": "superirobot",
+    "provider": "lichess",
+    "username": "SuperIROBOT",
+    "firstSeen": 1632482572835,
+    "lastSeen": 1632482572836
+  }
+}
