@@ -1,0 +1,22 @@
+{
+  "netchesshelper@lichess": {
+    "id": "netchesshelper",
+    "provider": "lichess",
+    "username": "NetChessHelper",
+    "firstSeen": 1632481554678,
+    "lastSeen": 1632491291601,
+    "firstSeenTime": "11:05:54 AM",
+    "lastSeenTime": "1:35:20 PM",
+    "onlineDurationMins": 149.42541666666668
+  },
+  "pro_games@lichess": {
+    "id": "pro_games",
+    "provider": "lichess",
+    "username": "Pro_Games",
+    "firstSeen": 1632488489082,
+    "lastSeen": 1632491467222,
+    "firstSeenTime": "1:01:29 PM",
+    "lastSeenTime": "1:33:54 PM",
+    "onlineDurationMins": 32.4188
+  }
+}
