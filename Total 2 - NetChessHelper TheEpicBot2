@@ -1,0 +1,19 @@
+{
+  "netchesshelper@lichess": {
+    "id": "netchesshelper",
+    "provider": "lichess",
+    "username": "NetChessHelper",
+    "firstSeen": 1632481554678,
+    "lastSeen": 1632485688708,
+    "firstSeenTime": "11:05:54 AM",
+    "lastSeenTime": "11:31:09 AM",
+    "onlineDurationMins": 25.248866666666668
+  },
+  "theepicbot2@lichess": {
+    "id": "theepicbot2",
+    "provider": "lichess",
+    "username": "TheEpicBot2",
+    "firstSeen": 1632485873247,
+    "lastSeen": 1632485873247
+  }
+}
