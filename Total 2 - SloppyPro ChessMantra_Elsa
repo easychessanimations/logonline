@@ -1,0 +1,22 @@
+{
+  "sloppypro@lichess": {
+    "id": "sloppypro",
+    "provider": "lichess",
+    "username": "SloppyPro",
+    "firstSeen": 1632745327422,
+    "lastSeen": 1632748938979,
+    "firstSeenTime": "12:22:07 PM",
+    "lastSeenTime": "1:07:51 PM",
+    "onlineDurationMins": 45.738083333333336
+  },
+  "chessmantra_elsa@lichess": {
+    "id": "chessmantra_elsa",
+    "provider": "lichess",
+    "username": "ChessMantra_Elsa",
+    "firstSeen": 1632747855099,
+    "lastSeen": 1632748563846,
+    "firstSeenTime": "1:04:15 PM",
+    "lastSeenTime": "1:07:26 PM",
+    "onlineDurationMins": 3.19715
+  }
+}
