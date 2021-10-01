@@ -1,0 +1,16 @@
+{
+  "daws_chess_bot@lichess": {
+    "id": "daws_chess_bot",
+    "provider": "lichess",
+    "username": "DAWS_Chess_Bot",
+    "firstSeen": 1633115730341,
+    "lastSeen": 1633115740569
+  },
+  "jayson_team_bot_2021@lichess": {
+    "id": "jayson_team_bot_2021",
+    "provider": "lichess",
+    "username": "Jayson_Team_Bot_2021",
+    "firstSeen": 1633116023223,
+    "lastSeen": 1633116023223
+  }
+}
