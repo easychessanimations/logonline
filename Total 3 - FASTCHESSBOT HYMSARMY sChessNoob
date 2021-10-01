@@ -1,0 +1,23 @@
+{
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1633107062247,
+    "lastSeen": 1633107726198
+  },
+  "hymsarmy@lichess": {
+    "id": "hymsarmy",
+    "provider": "lichess",
+    "username": "HYMSARMY",
+    "firstSeen": 1633107465667,
+    "lastSeen": 1633107767029
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1633108385760,
+    "lastSeen": 1633108385760
+  }
+}
