@@ -1,0 +1,39 @@
+{
+  "daws_chess_bot@lichess": {
+    "id": "daws_chess_bot",
+    "provider": "lichess",
+    "username": "DAWS_Chess_Bot",
+    "firstSeen": 1633115730341,
+    "lastSeen": 1633115740569,
+    "firstSeenTime": "7:15:30 PM",
+    "lastSeenTime": "7:15:40 PM",
+    "onlineDurationMins": 0.17046666666666666
+  },
+  "jayson_team_bot_2021@lichess": {
+    "id": "jayson_team_bot_2021",
+    "provider": "lichess",
+    "username": "Jayson_Team_Bot_2021",
+    "firstSeen": 1633116023223,
+    "lastSeen": 1633116033403,
+    "firstSeenTime": "7:20:23 PM",
+    "lastSeenTime": "7:20:33 PM",
+    "onlineDurationMins": 0.16966666666666666
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1633116210795,
+    "lastSeen": 1633116225801,
+    "firstSeenTime": "7:23:30 PM",
+    "lastSeenTime": "7:23:30 PM",
+    "onlineDurationMins": 0
+  },
+  "gazi-bots-twitch@lichess": {
+    "id": "gazi-bots-twitch",
+    "provider": "lichess",
+    "username": "Gazi-Bots-Twitch",
+    "firstSeen": 1633116350984,
+    "lastSeen": 1633116350984
+  }
+}
