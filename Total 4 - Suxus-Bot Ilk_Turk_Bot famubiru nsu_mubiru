@@ -1,0 +1,30 @@
+{
+  "suxus-bot@lichess": {
+    "id": "suxus-bot",
+    "provider": "lichess",
+    "username": "Suxus-Bot",
+    "firstSeen": 1633197295046,
+    "lastSeen": 1633199009161
+  },
+  "ilk_turk_bot@lichess": {
+    "id": "ilk_turk_bot",
+    "provider": "lichess",
+    "username": "Ilk_Turk_Bot",
+    "firstSeen": 1633198151221,
+    "lastSeen": 1633199096216
+  },
+  "famubiru@lichess": {
+    "id": "famubiru",
+    "provider": "lichess",
+    "username": "famubiru",
+    "firstSeen": 1633198815044,
+    "lastSeen": 1633199134022
+  },
+  "nsu_mubiru@lichess": {
+    "id": "nsu_mubiru",
+    "provider": "lichess",
+    "username": "nsu_mubiru",
+    "firstSeen": 1633199136959,
+    "lastSeen": 1633199136959
+  }
+}
