@@ -1,0 +1,40 @@
+{
+  "the_fastest_computer@lichess": {
+    "id": "the_fastest_computer",
+    "provider": "lichess",
+    "username": "The_Fastest_Computer",
+    "firstSeen": 1633160550629,
+    "lastSeen": 1633176211994,
+    "firstSeenTime": "7:42:30 AM",
+    "lastSeenTime": "11:14:44 AM",
+    "onlineDurationMins": 212.23711666666668
+  },
+  "dapoggerzz@lichess": {
+    "id": "dapoggerzz",
+    "provider": "lichess",
+    "username": "DAPOGGERZZ",
+    "firstSeen": 1633174056993,
+    "lastSeen": 1633175996059
+  },
+  "gdufrgty@lichess": {
+    "id": "gdufrgty",
+    "provider": "lichess",
+    "username": "GDUFRGTY",
+    "firstSeen": 1633174799248,
+    "lastSeen": 1633176301929
+  },
+  "passionate_bot@lichess": {
+    "id": "passionate_bot",
+    "provider": "lichess",
+    "username": "passionate_bot",
+    "firstSeen": 1633175826656,
+    "lastSeen": 1633176516329
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1633176596888,
+    "lastSeen": 1633176596888
+  }
+}
