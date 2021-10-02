@@ -1,0 +1,32 @@
+{
+  "alvinl22bot@lichess": {
+    "id": "alvinl22bot",
+    "provider": "lichess",
+    "username": "alvinl22BOT",
+    "firstSeen": 1633188548586,
+    "lastSeen": 1633190189774,
+    "firstSeenTime": "3:29:08 PM",
+    "lastSeenTime": "3:47:04 PM",
+    "onlineDurationMins": 17.925583333333332
+  },
+  "dragonbot@lichess": {
+    "id": "dragonbot",
+    "provider": "lichess",
+    "username": "DragonBOT",
+    "firstSeen": 1633189309083,
+    "lastSeen": 1633190111060,
+    "firstSeenTime": "3:41:49 PM",
+    "lastSeenTime": "3:46:21 PM",
+    "onlineDurationMins": 4.5451
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1633189634689,
+    "lastSeen": 1633189634689,
+    "firstSeenTime": "3:47:14 PM",
+    "lastSeenTime": "3:47:14 PM",
+    "onlineDurationMins": 0
+  }
+}
