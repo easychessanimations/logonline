@@ -1,0 +1,46 @@
+{
+  "the_fastest_computer@lichess": {
+    "id": "the_fastest_computer",
+    "provider": "lichess",
+    "username": "The_Fastest_Computer",
+    "firstSeen": 1633160550629,
+    "lastSeen": 1633177709231,
+    "firstSeenTime": "7:42:30 AM",
+    "lastSeenTime": "12:03:31 PM",
+    "onlineDurationMins": 261.02275
+  },
+  "gdufrgty@lichess": {
+    "id": "gdufrgty",
+    "provider": "lichess",
+    "username": "GDUFRGTY",
+    "firstSeen": 1633174799248,
+    "lastSeen": 1633177899082,
+    "firstSeenTime": "11:39:59 AM",
+    "lastSeenTime": "12:05:01 PM",
+    "onlineDurationMins": 25.04468333333333
+  },
+  "passionate_bot@lichess": {
+    "id": "passionate_bot",
+    "provider": "lichess",
+    "username": "passionate_bot",
+    "firstSeen": 1633175826656,
+    "lastSeen": 1633177836232,
+    "firstSeenTime": "11:57:06 AM",
+    "lastSeenTime": "12:08:36 PM",
+    "onlineDurationMins": 11.49455
+  },
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1633176816705,
+    "lastSeen": 1633178318130
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1633176842215,
+    "lastSeen": 1633178249923
+  }
+}
