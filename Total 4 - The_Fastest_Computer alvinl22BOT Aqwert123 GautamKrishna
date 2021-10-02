@@ -1,0 +1,36 @@
+{
+  "the_fastest_computer@lichess": {
+    "id": "the_fastest_computer",
+    "provider": "lichess",
+    "username": "The_Fastest_Computer",
+    "firstSeen": 1633160550629,
+    "lastSeen": 1633185957830,
+    "firstSeenTime": "7:42:30 AM",
+    "lastSeenTime": "2:19:59 PM",
+    "onlineDurationMins": 397.48675
+  },
+  "alvinl22bot@lichess": {
+    "id": "alvinl22bot",
+    "provider": "lichess",
+    "username": "alvinl22BOT",
+    "firstSeen": 1633180409263,
+    "lastSeen": 1633185264894,
+    "firstSeenTime": "1:13:29 PM",
+    "lastSeenTime": "2:21:05 PM",
+    "onlineDurationMins": 67.60158333333334
+  },
+  "aqwert123@lichess": {
+    "id": "aqwert123",
+    "provider": "lichess",
+    "username": "Aqwert123",
+    "firstSeen": 1633185597177,
+    "lastSeen": 1633185615055
+  },
+  "gautamkrishna@lichess": {
+    "id": "gautamkrishna",
+    "provider": "lichess",
+    "username": "GautamKrishna",
+    "firstSeen": 1633185958630,
+    "lastSeen": 1633185958630
+  }
+}
