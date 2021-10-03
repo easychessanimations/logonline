@@ -1,0 +1,43 @@
+{
+  "los-guerreros1@lichess": {
+    "id": "los-guerreros1",
+    "provider": "lichess",
+    "username": "Los-Guerreros1",
+    "firstSeen": 1633266836458,
+    "lastSeen": 1633272851671,
+    "firstSeenTime": "1:13:56 PM",
+    "lastSeenTime": "2:21:15 PM",
+    "onlineDurationMins": 67.32061666666667
+  },
+  "dapoggerzz@lichess": {
+    "id": "dapoggerzz",
+    "provider": "lichess",
+    "username": "DAPOGGERZZ",
+    "firstSeen": 1633268679891,
+    "lastSeen": 1633272347443,
+    "firstSeenTime": "1:44:39 PM",
+    "lastSeenTime": "2:20:04 PM",
+    "onlineDurationMins": 35.41595
+  },
+  "crt2008@lichess": {
+    "id": "crt2008",
+    "provider": "lichess",
+    "username": "crt2008",
+    "firstSeen": 1633272427172,
+    "lastSeen": 1633272537376
+  },
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1633272470535,
+    "lastSeen": 1633273097066
+  },
+  "superbots@lichess": {
+    "id": "superbots",
+    "provider": "lichess",
+    "username": "superbots",
+    "firstSeen": 1633272973123,
+    "lastSeen": 1633273167799
+  }
+}
