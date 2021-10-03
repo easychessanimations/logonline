@@ -1,0 +1,23 @@
+{
+  "alanausp-bot@lichess": {
+    "id": "alanausp-bot",
+    "provider": "lichess",
+    "username": "AlanAUSP-Bot",
+    "firstSeen": 1633223071172,
+    "lastSeen": 1633223671955
+  },
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1633223395765,
+    "lastSeen": 1633224062433
+  },
+  "winarthachess@lichess": {
+    "id": "winarthachess",
+    "provider": "lichess",
+    "username": "WinarthaChess",
+    "firstSeen": 1633224165117,
+    "lastSeen": 1633224165117
+  }
+}
