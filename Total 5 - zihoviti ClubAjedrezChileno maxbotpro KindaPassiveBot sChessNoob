@@ -1,0 +1,43 @@
+{
+  "zihoviti@lichess": {
+    "id": "zihoviti",
+    "provider": "lichess",
+    "username": "zihoviti",
+    "firstSeen": 1633352228968,
+    "lastSeen": 1633361252542,
+    "firstSeenTime": "12:57:08 PM",
+    "lastSeenTime": "2:04:32 PM",
+    "onlineDurationMins": 67.3969
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1633352725434,
+    "lastSeen": 1633361432247,
+    "firstSeenTime": "1:05:25 PM",
+    "lastSeenTime": "2:00:32 PM",
+    "onlineDurationMins": 55.11173333333333
+  },
+  "maxbotpro@lichess": {
+    "id": "maxbotpro",
+    "provider": "lichess",
+    "username": "maxbotpro",
+    "firstSeen": 1633361074206,
+    "lastSeen": 1633361140076
+  },
+  "kindapassivebot@lichess": {
+    "id": "kindapassivebot",
+    "provider": "lichess",
+    "username": "KindaPassiveBot",
+    "firstSeen": 1633361351560,
+    "lastSeen": 1633361357129
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1633361689522,
+    "lastSeen": 1633361689522
+  }
+}
