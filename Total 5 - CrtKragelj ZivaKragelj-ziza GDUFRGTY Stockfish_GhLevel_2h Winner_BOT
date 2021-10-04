@@ -1,0 +1,49 @@
+{
+  "crtkragelj@lichess": {
+    "id": "crtkragelj",
+    "provider": "lichess",
+    "username": "CrtKragelj",
+    "firstSeen": 1633330658428,
+    "lastSeen": 1633336530347,
+    "firstSeenTime": "6:57:38 AM",
+    "lastSeenTime": "8:13:28 AM",
+    "onlineDurationMins": 75.8388
+  },
+  "zivakragelj-ziza@lichess": {
+    "id": "zivakragelj-ziza",
+    "provider": "lichess",
+    "username": "ZivaKragelj-ziza",
+    "firstSeen": 1633335299490,
+    "lastSeen": 1633336498342,
+    "firstSeenTime": "8:14:59 AM",
+    "lastSeenTime": "8:19:33 AM",
+    "onlineDurationMins": 4.560533333333334
+  },
+  "gdufrgty@lichess": {
+    "id": "gdufrgty",
+    "provider": "lichess",
+    "username": "GDUFRGTY",
+    "firstSeen": 1633335479481,
+    "lastSeen": 1633336206498,
+    "firstSeenTime": "8:17:59 AM",
+    "lastSeenTime": "8:18:10 AM",
+    "onlineDurationMins": 0.1869
+  },
+  "stockfish_ghlevel_2h@lichess": {
+    "id": "stockfish_ghlevel_2h",
+    "provider": "lichess",
+    "username": "Stockfish_GhLevel_2h",
+    "firstSeen": 1633335546479,
+    "lastSeen": 1633335815031,
+    "firstSeenTime": "8:19:06 AM",
+    "lastSeenTime": "8:19:22 AM",
+    "onlineDurationMins": 0.26676666666666665
+  },
+  "winner_bot@lichess": {
+    "id": "winner_bot",
+    "provider": "lichess",
+    "username": "Winner_BOT",
+    "firstSeen": 1633336174901,
+    "lastSeen": 1633336659516
+  }
+}
