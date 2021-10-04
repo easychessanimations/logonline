@@ -1,0 +1,29 @@
+{
+  "zihoviti@lichess": {
+    "id": "zihoviti",
+    "provider": "lichess",
+    "username": "zihoviti",
+    "firstSeen": 1633352228968,
+    "lastSeen": 1633376252133,
+    "firstSeenTime": "12:57:08 PM",
+    "lastSeenTime": "5:38:32 PM",
+    "onlineDurationMins": 281.39416666666665
+  },
+  "los-guerreros1@lichess": {
+    "id": "los-guerreros1",
+    "provider": "lichess",
+    "username": "Los-Guerreros1",
+    "firstSeen": 1633367790949,
+    "lastSeen": 1633375861710,
+    "firstSeenTime": "5:16:30 PM",
+    "lastSeenTime": "5:41:35 PM",
+    "onlineDurationMins": 25.072483333333334
+  },
+  "pouriya_bot@lichess": {
+    "id": "pouriya_bot",
+    "provider": "lichess",
+    "username": "Pouriya_BOT",
+    "firstSeen": 1633375935011,
+    "lastSeen": 1633375947566
+  }
+}
