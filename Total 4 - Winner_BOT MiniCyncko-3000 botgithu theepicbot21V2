@@ -1,0 +1,30 @@
+{
+  "winner_bot@lichess": {
+    "id": "winner_bot",
+    "provider": "lichess",
+    "username": "Winner_BOT",
+    "firstSeen": 1633336174901,
+    "lastSeen": 1633337428630
+  },
+  "minicyncko-3000@lichess": {
+    "id": "minicyncko-3000",
+    "provider": "lichess",
+    "username": "MiniCyncko-3000",
+    "firstSeen": 1633337338913,
+    "lastSeen": 1633337349553
+  },
+  "91876723@github": {
+    "id": "91876723",
+    "provider": "github",
+    "username": "botgithu",
+    "firstSeen": 1633337429428,
+    "lastSeen": 1633337883802
+  },
+  "theepicbot21v2@lichess": {
+    "id": "theepicbot21v2",
+    "provider": "lichess",
+    "username": "theepicbot21V2",
+    "firstSeen": 1633337816919,
+    "lastSeen": 1633337876515
+  }
+}
