@@ -1,0 +1,50 @@
+{
+  "zihoviti@lichess": {
+    "id": "zihoviti",
+    "provider": "lichess",
+    "username": "zihoviti",
+    "firstSeen": 1633352228968,
+    "lastSeen": 1633356272782,
+    "firstSeenTime": "12:57:08 PM",
+    "lastSeenTime": "1:30:36 PM",
+    "onlineDurationMins": 33.4536
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1633352725434,
+    "lastSeen": 1633356032138,
+    "firstSeenTime": "1:05:25 PM",
+    "lastSeenTime": "1:35:05 PM",
+    "onlineDurationMins": 29.667766666666665
+  },
+  "maxbotpro@lichess": {
+    "id": "maxbotpro",
+    "provider": "lichess",
+    "username": "maxbotpro",
+    "firstSeen": 1633355062635,
+    "lastSeen": 1633356576230
+  },
+  "thebadbotintheworld@lichess": {
+    "id": "thebadbotintheworld",
+    "provider": "lichess",
+    "username": "Thebadbotintheworld",
+    "firstSeen": 1633355792989,
+    "lastSeen": 1633356438445
+  },
+  "894462827069325343@discord": {
+    "id": "894462827069325343",
+    "provider": "discord",
+    "username": "Arnavcholkar",
+    "firstSeen": 1633356303713,
+    "lastSeen": 1633356635673
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1633356635691,
+    "lastSeen": 1633356635691
+  }
+}
