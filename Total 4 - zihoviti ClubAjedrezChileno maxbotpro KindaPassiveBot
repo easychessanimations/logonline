@@ -4,33 +4,39 @@
     "provider": "lichess",
     "username": "zihoviti",
     "firstSeen": 1633352228968,
-    "lastSeen": 1633361252542,
+    "lastSeen": 1633362752695,
     "firstSeenTime": "12:57:08 PM",
-    "lastSeenTime": "2:04:32 PM",
-    "onlineDurationMins": 67.3969
+    "lastSeenTime": "3:27:32 PM",
+    "onlineDurationMins": 150.3929
   },
   "clubajedrezchileno@lichess": {
     "id": "clubajedrezchileno",
     "provider": "lichess",
     "username": "ClubAjedrezChileno",
     "firstSeen": 1633352725434,
-    "lastSeen": 1633360760572,
+    "lastSeen": 1633362080244,
     "firstSeenTime": "1:05:25 PM",
-    "lastSeenTime": "2:00:32 PM",
-    "onlineDurationMins": 55.11173333333333
+    "lastSeenTime": "3:30:32 PM",
+    "onlineDurationMins": 145.11355
   },
   "maxbotpro@lichess": {
     "id": "maxbotpro",
     "provider": "lichess",
     "username": "maxbotpro",
     "firstSeen": 1633361074206,
-    "lastSeen": 1633361140076
+    "lastSeen": 1633362053419,
+    "firstSeenTime": "3:24:34 PM",
+    "lastSeenTime": "3:25:40 PM",
+    "onlineDurationMins": 1.0978333333333334
   },
   "kindapassivebot@lichess": {
     "id": "kindapassivebot",
     "provider": "lichess",
     "username": "KindaPassiveBot",
     "firstSeen": 1633361351560,
-    "lastSeen": 1633361351560
+    "lastSeen": 1633362063737,
+    "firstSeenTime": "3:29:11 PM",
+    "lastSeenTime": "3:29:17 PM",
+    "onlineDurationMins": 0.09281666666666667
   }
 }
