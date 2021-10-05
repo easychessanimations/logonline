@@ -1,0 +1,47 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1633414103292,
+    "lastSeen": 1633429628193,
+    "firstSeenTime": "6:08:23 AM",
+    "lastSeenTime": "9:32:11 AM",
+    "onlineDurationMins": 203.79995
+  },
+  "gazi-bots-twitch@lichess": {
+    "id": "gazi-bots-twitch",
+    "provider": "lichess",
+    "username": "Gazi-Bots-Twitch",
+    "firstSeen": 1633427289740,
+    "lastSeen": 1633429707197
+  },
+  "stockfish-10_bot@lichess": {
+    "id": "stockfish-10_bot",
+    "provider": "lichess",
+    "username": "Stockfish-10_BOT",
+    "firstSeen": 1633428730601,
+    "lastSeen": 1633428903820
+  },
+  "drunken-missile@lichess": {
+    "id": "drunken-missile",
+    "provider": "lichess",
+    "username": "Drunken-Missile",
+    "firstSeen": 1633428904338,
+    "lastSeen": 1633429234263
+  },
+  "anish9000@lichess": {
+    "id": "anish9000",
+    "provider": "lichess",
+    "username": "Anish9000",
+    "firstSeen": 1633429310401,
+    "lastSeen": 1633429312794
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1633429743850,
+    "lastSeen": 1633429743850
+  }
+}
