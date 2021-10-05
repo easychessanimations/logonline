@@ -1,0 +1,29 @@
+{
+  "gazi-bots-twitch@lichess": {
+    "id": "gazi-bots-twitch",
+    "provider": "lichess",
+    "username": "Gazi-Bots-Twitch",
+    "firstSeen": 1633430317018,
+    "lastSeen": 1633430717864,
+    "firstSeenTime": "10:38:37 AM",
+    "lastSeenTime": "10:45:17 AM",
+    "onlineDurationMins": 6.680766666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1633430762390,
+    "lastSeen": 1633430762390,
+    "firstSeenTime": "10:46:02 AM",
+    "lastSeenTime": "10:46:02 AM",
+    "onlineDurationMins": 0
+  },
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1633430768188,
+    "lastSeen": 1633430768188
+  }
+}
