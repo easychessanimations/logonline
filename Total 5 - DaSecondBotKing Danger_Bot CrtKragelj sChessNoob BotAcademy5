@@ -1,0 +1,49 @@
+{
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1633382615047,
+    "lastSeen": 1633423898349,
+    "firstSeenTime": "9:23:35 PM",
+    "lastSeenTime": "8:51:38 AM",
+    "onlineDurationMins": 688.0550333333333
+  },
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1633414103292,
+    "lastSeen": 1633424171606,
+    "firstSeenTime": "6:08:23 AM",
+    "lastSeenTime": "8:56:11 AM",
+    "onlineDurationMins": 167.80523333333332
+  },
+  "crtkragelj@lichess": {
+    "id": "crtkragelj",
+    "provider": "lichess",
+    "username": "CrtKragelj",
+    "firstSeen": 1633419193901,
+    "lastSeen": 1633424065619,
+    "firstSeenTime": "7:33:13 AM",
+    "lastSeenTime": "8:54:25 AM",
+    "onlineDurationMins": 81.1953
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1633424012991,
+    "lastSeen": 1633424180865,
+    "firstSeenTime": "8:53:32 AM",
+    "lastSeenTime": "8:56:20 AM",
+    "onlineDurationMins": 2.7979
+  },
+  "botacademy5@lichess": {
+    "id": "botacademy5",
+    "provider": "lichess",
+    "username": "BotAcademy5",
+    "firstSeen": 1633424375469,
+    "lastSeen": 1633424375470
+  }
+}
