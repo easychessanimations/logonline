@@ -1,0 +1,30 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1633430768188,
+    "lastSeen": 1633437011969
+  },
+  "gdufrgty@lichess": {
+    "id": "gdufrgty",
+    "provider": "lichess",
+    "username": "GDUFRGTY",
+    "firstSeen": 1633436671344,
+    "lastSeen": 1633436733600
+  },
+  "catbot329@lichess": {
+    "id": "catbot329",
+    "provider": "lichess",
+    "username": "CatBot329",
+    "firstSeen": 1633436880788,
+    "lastSeen": 1633436897385
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1633437120649,
+    "lastSeen": 1633437120649
+  }
+}
