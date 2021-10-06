@@ -1,0 +1,30 @@
+{
+  "trynobot@lichess": {
+    "id": "trynobot",
+    "provider": "lichess",
+    "username": "TrynoBot",
+    "firstSeen": 1633507006832,
+    "lastSeen": 1633508510111
+  },
+  "catbot329@lichess": {
+    "id": "catbot329",
+    "provider": "lichess",
+    "username": "CatBot329",
+    "firstSeen": 1633508327652,
+    "lastSeen": 1633508365729
+  },
+  "ishaanvn2011@lichess": {
+    "id": "ishaanvn2011",
+    "provider": "lichess",
+    "username": "IshaanVn2011",
+    "firstSeen": 1633508594849,
+    "lastSeen": 1633508668305
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1633508668387,
+    "lastSeen": 1633508668387
+  }
+}
