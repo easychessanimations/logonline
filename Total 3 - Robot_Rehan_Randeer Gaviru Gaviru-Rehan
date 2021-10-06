@@ -1,0 +1,23 @@
+{
+  "robot_rehan_randeer@lichess": {
+    "id": "robot_rehan_randeer",
+    "provider": "lichess",
+    "username": "Robot_Rehan_Randeer",
+    "firstSeen": 1633534904217,
+    "lastSeen": 1633536105629
+  },
+  "gaviru@lichess": {
+    "id": "gaviru",
+    "provider": "lichess",
+    "username": "Gaviru",
+    "firstSeen": 1633535597039,
+    "lastSeen": 1633535870630
+  },
+  "gaviru-rehan@lichess": {
+    "id": "gaviru-rehan",
+    "provider": "lichess",
+    "username": "Gaviru-Rehan",
+    "firstSeen": 1633535871107,
+    "lastSeen": 1633536042579
+  }
+}
