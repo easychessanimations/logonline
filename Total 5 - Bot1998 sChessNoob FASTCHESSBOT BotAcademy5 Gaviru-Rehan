@@ -1,0 +1,43 @@
+{
+  "bot1998@lichess": {
+    "id": "bot1998",
+    "provider": "lichess",
+    "username": "Bot1998",
+    "firstSeen": 1633523866331,
+    "lastSeen": 1633525801661,
+    "firstSeenTime": "12:37:46 PM",
+    "lastSeenTime": "12:58:24 PM",
+    "onlineDurationMins": 20.63918333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1633525148386,
+    "lastSeen": 1633525148386,
+    "firstSeenTime": "12:59:08 PM",
+    "lastSeenTime": "12:59:08 PM",
+    "onlineDurationMins": 0
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1633525367002,
+    "lastSeen": 1633525553909
+  },
+  "botacademy5@lichess": {
+    "id": "botacademy5",
+    "provider": "lichess",
+    "username": "BotAcademy5",
+    "firstSeen": 1633525417645,
+    "lastSeen": 1633525555606
+  },
+  "gaviru-rehan@lichess": {
+    "id": "gaviru-rehan",
+    "provider": "lichess",
+    "username": "Gaviru-Rehan",
+    "firstSeen": 1633525500752,
+    "lastSeen": 1633525722134
+  }
+}
