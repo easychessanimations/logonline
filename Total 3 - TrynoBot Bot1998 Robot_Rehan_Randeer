@@ -1,0 +1,23 @@
+{
+  "trynobot@lichess": {
+    "id": "trynobot",
+    "provider": "lichess",
+    "username": "TrynoBot",
+    "firstSeen": 1633523231204,
+    "lastSeen": 1633523329035
+  },
+  "bot1998@lichess": {
+    "id": "bot1998",
+    "provider": "lichess",
+    "username": "Bot1998",
+    "firstSeen": 1633523866331,
+    "lastSeen": 1633523999797
+  },
+  "robot_rehan_randeer@lichess": {
+    "id": "robot_rehan_randeer",
+    "provider": "lichess",
+    "username": "Robot_Rehan_Randeer",
+    "firstSeen": 1633524019547,
+    "lastSeen": 1633524127031
+  }
+}
