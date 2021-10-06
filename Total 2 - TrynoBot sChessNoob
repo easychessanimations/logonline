@@ -1,0 +1,16 @@
+{
+  "trynobot@lichess": {
+    "id": "trynobot",
+    "provider": "lichess",
+    "username": "TrynoBot",
+    "firstSeen": 1633503531190,
+    "lastSeen": 1633504613932
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1633505353648,
+    "lastSeen": 1633505353648
+  }
+}
