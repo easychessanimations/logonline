@@ -1,0 +1,49 @@
+{
+  "mrsadike@lichess": {
+    "id": "mrsadike",
+    "provider": "lichess",
+    "username": "mrsadike",
+    "firstSeen": 1633589990846,
+    "lastSeen": 1633594982876,
+    "firstSeenTime": "6:59:50 AM",
+    "lastSeenTime": "8:18:29 AM",
+    "onlineDurationMins": 78.64906666666667
+  },
+  "hellobot55@lichess": {
+    "id": "hellobot55",
+    "provider": "lichess",
+    "username": "HelloBot55",
+    "firstSeen": 1633593113556,
+    "lastSeen": 1633595741069,
+    "firstSeenTime": "7:51:53 AM",
+    "lastSeenTime": "8:17:58 AM",
+    "onlineDurationMins": 26.082383333333333
+  },
+  "bot-king@lichess": {
+    "id": "bot-king",
+    "provider": "lichess",
+    "username": "bOt-kInG",
+    "firstSeen": 1633594873793,
+    "lastSeen": 1633595541457,
+    "firstSeenTime": "8:21:13 AM",
+    "lastSeenTime": "8:21:24 AM",
+    "onlineDurationMins": 0.17495
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1633594908560,
+    "lastSeen": 1633594908561,
+    "firstSeenTime": "8:21:48 AM",
+    "lastSeenTime": "8:21:48 AM",
+    "onlineDurationMins": 0.000016666666666666667
+  },
+  "robot_rehan_randeer@lichess": {
+    "id": "robot_rehan_randeer",
+    "provider": "lichess",
+    "username": "Robot_Rehan_Randeer",
+    "firstSeen": 1633595755932,
+    "lastSeen": 1633595755932
+  }
+}
