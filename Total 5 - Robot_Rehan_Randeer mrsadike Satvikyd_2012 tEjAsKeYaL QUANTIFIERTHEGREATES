@@ -1,0 +1,40 @@
+{
+  "robot_rehan_randeer@lichess": {
+    "id": "robot_rehan_randeer",
+    "provider": "lichess",
+    "username": "Robot_Rehan_Randeer",
+    "firstSeen": 1633589464780,
+    "lastSeen": 1633591486561,
+    "firstSeenTime": "6:51:04 AM",
+    "lastSeenTime": "6:53:35 AM",
+    "onlineDurationMins": 2.50395
+  },
+  "mrsadike@lichess": {
+    "id": "mrsadike",
+    "provider": "lichess",
+    "username": "mrsadike",
+    "firstSeen": 1633589990846,
+    "lastSeen": 1633591273962
+  },
+  "satvikyd_2012@lichess": {
+    "id": "satvikyd_2012",
+    "provider": "lichess",
+    "username": "Satvikyd_2012",
+    "firstSeen": 1633590414947,
+    "lastSeen": 1633591257945
+  },
+  "tejaskeyal@lichess": {
+    "id": "tejaskeyal",
+    "provider": "lichess",
+    "username": "tEjAsKeYaL",
+    "firstSeen": 1633591021472,
+    "lastSeen": 1633591154997
+  },
+  "quantifierthegreates@lichess": {
+    "id": "quantifierthegreates",
+    "provider": "lichess",
+    "username": "QUANTIFIERTHEGREATES",
+    "firstSeen": 1633591155375,
+    "lastSeen": 1633591330801
+  }
+}
