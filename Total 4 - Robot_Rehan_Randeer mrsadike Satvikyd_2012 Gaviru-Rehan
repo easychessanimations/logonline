@@ -1,0 +1,33 @@
+{
+  "robot_rehan_randeer@lichess": {
+    "id": "robot_rehan_randeer",
+    "provider": "lichess",
+    "username": "Robot_Rehan_Randeer",
+    "firstSeen": 1633589464780,
+    "lastSeen": 1633591495277,
+    "firstSeenTime": "6:51:04 AM",
+    "lastSeenTime": "6:53:35 AM",
+    "onlineDurationMins": 2.50395
+  },
+  "mrsadike@lichess": {
+    "id": "mrsadike",
+    "provider": "lichess",
+    "username": "mrsadike",
+    "firstSeen": 1633589990846,
+    "lastSeen": 1633592030114
+  },
+  "satvikyd_2012@lichess": {
+    "id": "satvikyd_2012",
+    "provider": "lichess",
+    "username": "Satvikyd_2012",
+    "firstSeen": 1633590414947,
+    "lastSeen": 1633591807692
+  },
+  "gaviru-rehan@lichess": {
+    "id": "gaviru-rehan",
+    "provider": "lichess",
+    "username": "Gaviru-Rehan",
+    "firstSeen": 1633591780846,
+    "lastSeen": 1633592233574
+  }
+}
