@@ -1,0 +1,56 @@
+{
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1633684959026,
+    "lastSeen": 1633697188661,
+    "firstSeenTime": "9:22:39 AM",
+    "lastSeenTime": "12:23:31 PM",
+    "onlineDurationMins": 180.87788333333333
+  },
+  "dapoggerzz@lichess": {
+    "id": "dapoggerzz",
+    "provider": "lichess",
+    "username": "DAPOGGERZZ",
+    "firstSeen": 1633687875066,
+    "lastSeen": 1633696918407,
+    "firstSeenTime": "10:11:15 AM",
+    "lastSeenTime": "12:16:18 PM",
+    "onlineDurationMins": 125.05868333333333
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1633694104870,
+    "lastSeen": 1633696842813,
+    "firstSeenTime": "11:55:04 AM",
+    "lastSeenTime": "12:17:47 PM",
+    "onlineDurationMins": 22.718566666666668
+  },
+  "revengerschessteam2@lichess": {
+    "id": "revengerschessteam2",
+    "provider": "lichess",
+    "username": "REVENGERSCHESSTEAM2",
+    "firstSeen": 1633694300280,
+    "lastSeen": 1633697162458,
+    "firstSeenTime": "11:58:20 AM",
+    "lastSeenTime": "12:20:42 PM",
+    "onlineDurationMins": 22.365433333333332
+  },
+  "hellobot55@lichess": {
+    "id": "hellobot55",
+    "provider": "lichess",
+    "username": "HelloBot55",
+    "firstSeen": 1633696518259,
+    "lastSeen": 1633697184809
+  },
+  "superdeepblue@lichess": {
+    "id": "superdeepblue",
+    "provider": "lichess",
+    "username": "SuperDeepBlue",
+    "firstSeen": 1633697283053,
+    "lastSeen": 1633697283053
+  }
+}
