@@ -1,0 +1,39 @@
+{
+  "mrsadike@lichess": {
+    "id": "mrsadike",
+    "provider": "lichess",
+    "username": "mrsadike",
+    "firstSeen": 1633676957001,
+    "lastSeen": 1633678616932,
+    "firstSeenTime": "7:09:17 AM",
+    "lastSeenTime": "7:28:43 AM",
+    "onlineDurationMins": 19.448033333333335
+  },
+  "bot-king@lichess": {
+    "id": "bot-king",
+    "provider": "lichess",
+    "username": "bOt-kInG",
+    "firstSeen": 1633677206642,
+    "lastSeen": 1633678526674,
+    "firstSeenTime": "7:13:26 AM",
+    "lastSeenTime": "7:24:30 AM",
+    "onlineDurationMins": 11.058733333333333
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1633678368740,
+    "lastSeen": 1633678369433,
+    "firstSeenTime": "7:32:48 AM",
+    "lastSeenTime": "7:32:48 AM",
+    "onlineDurationMins": 0.000016666666666666667
+  },
+  "dapoggerzz@lichess": {
+    "id": "dapoggerzz",
+    "provider": "lichess",
+    "username": "DAPOGGERZZ",
+    "firstSeen": 1633678678829,
+    "lastSeen": 1633678678829
+  }
+}
