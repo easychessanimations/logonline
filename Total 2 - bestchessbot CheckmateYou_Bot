@@ -1,0 +1,16 @@
+{
+  "bestchessbot@lichess": {
+    "id": "bestchessbot",
+    "provider": "lichess",
+    "username": "bestchessbot",
+    "firstSeen": 1633822607189,
+    "lastSeen": 1633823413311
+  },
+  "checkmateyou_bot@lichess": {
+    "id": "checkmateyou_bot",
+    "provider": "lichess",
+    "username": "CheckmateYou_Bot",
+    "firstSeen": 1633823514666,
+    "lastSeen": 1633823514666
+  }
+}
