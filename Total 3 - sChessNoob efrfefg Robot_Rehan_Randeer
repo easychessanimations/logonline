@@ -1,0 +1,29 @@
+{
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1633764539453,
+    "lastSeen": 1633766274944,
+    "firstSeenTime": "7:28:59 AM",
+    "lastSeenTime": "7:57:54 AM",
+    "onlineDurationMins": 28.92485
+  },
+  "efrfefg@lichess": {
+    "id": "efrfefg",
+    "provider": "lichess",
+    "username": "efrfefg",
+    "firstSeen": 1633766154825,
+    "lastSeen": 1633766208310,
+    "firstSeenTime": "7:55:54 AM",
+    "lastSeenTime": "7:56:48 AM",
+    "onlineDurationMins": 0.8914166666666666
+  },
+  "robot_rehan_randeer@lichess": {
+    "id": "robot_rehan_randeer",
+    "provider": "lichess",
+    "username": "Robot_Rehan_Randeer",
+    "firstSeen": 1633766293816,
+    "lastSeen": 1633766293816
+  }
+}
