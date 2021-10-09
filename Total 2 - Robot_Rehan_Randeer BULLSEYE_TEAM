@@ -1,0 +1,19 @@
+{
+  "robot_rehan_randeer@lichess": {
+    "id": "robot_rehan_randeer",
+    "provider": "lichess",
+    "username": "Robot_Rehan_Randeer",
+    "firstSeen": 1633766293816,
+    "lastSeen": 1633767924403,
+    "firstSeenTime": "7:58:13 AM",
+    "lastSeenTime": "8:10:17 AM",
+    "onlineDurationMins": 12.068016666666667
+  },
+  "bullseye_team@lichess": {
+    "id": "bullseye_team",
+    "provider": "lichess",
+    "username": "BULLSEYE_TEAM",
+    "firstSeen": 1633768135769,
+    "lastSeen": 1633768135769
+  }
+}
