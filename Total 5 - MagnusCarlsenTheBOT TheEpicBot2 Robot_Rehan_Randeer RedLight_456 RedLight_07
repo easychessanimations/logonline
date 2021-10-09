@@ -1,0 +1,40 @@
+{
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1633769186298,
+    "lastSeen": 1633771818597,
+    "firstSeenTime": "8:46:26 AM",
+    "lastSeenTime": "9:07:12 AM",
+    "onlineDurationMins": 20.768583333333332
+  },
+  "theepicbot2@lichess": {
+    "id": "theepicbot2",
+    "provider": "lichess",
+    "username": "TheEpicBot2",
+    "firstSeen": 1633771340837,
+    "lastSeen": 1633771434553
+  },
+  "robot_rehan_randeer@lichess": {
+    "id": "robot_rehan_randeer",
+    "provider": "lichess",
+    "username": "Robot_Rehan_Randeer",
+    "firstSeen": 1633771430033,
+    "lastSeen": 1633771439247
+  },
+  "redlight_456@lichess": {
+    "id": "redlight_456",
+    "provider": "lichess",
+    "username": "RedLight_456",
+    "firstSeen": 1633771569941,
+    "lastSeen": 1633772177507
+  },
+  "redlight_07@lichess": {
+    "id": "redlight_07",
+    "provider": "lichess",
+    "username": "RedLight_07",
+    "firstSeen": 1633772178204,
+    "lastSeen": 1633772178204
+  }
+}
