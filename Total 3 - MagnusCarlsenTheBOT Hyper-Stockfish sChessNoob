@@ -1,0 +1,23 @@
+{
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1633779260493,
+    "lastSeen": 1633782456197
+  },
+  "hyper-stockfish@lichess": {
+    "id": "hyper-stockfish",
+    "provider": "lichess",
+    "username": "Hyper-Stockfish",
+    "firstSeen": 1633782614116,
+    "lastSeen": 1633782660833
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1633782768896,
+    "lastSeen": 1633782768896
+  }
+}
