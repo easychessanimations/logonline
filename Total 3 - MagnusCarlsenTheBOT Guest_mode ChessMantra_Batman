@@ -1,0 +1,23 @@
+{
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1633779260493,
+    "lastSeen": 1633780766394
+  },
+  "guest_mode@lichess": {
+    "id": "guest_mode",
+    "provider": "lichess",
+    "username": "Guest_mode",
+    "firstSeen": 1633780625658,
+    "lastSeen": 1633780928285
+  },
+  "chessmantra_batman@lichess": {
+    "id": "chessmantra_batman",
+    "provider": "lichess",
+    "username": "ChessMantra_Batman",
+    "firstSeen": 1633780946702,
+    "lastSeen": 1633780946702
+  }
+}
