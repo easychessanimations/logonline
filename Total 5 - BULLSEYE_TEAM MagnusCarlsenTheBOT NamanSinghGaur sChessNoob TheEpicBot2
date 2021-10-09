@@ -1,0 +1,49 @@
+{
+  "bullseye_team@lichess": {
+    "id": "bullseye_team",
+    "provider": "lichess",
+    "username": "BULLSEYE_TEAM",
+    "firstSeen": 1633768135769,
+    "lastSeen": 1633770799050,
+    "firstSeenTime": "8:28:55 AM",
+    "lastSeenTime": "9:13:19 AM",
+    "onlineDurationMins": 44.388016666666665
+  },
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1633769186298,
+    "lastSeen": 1633771045712,
+    "firstSeenTime": "8:46:26 AM",
+    "lastSeenTime": "9:07:12 AM",
+    "onlineDurationMins": 20.768583333333332
+  },
+  "namansinghgaur@lichess": {
+    "id": "namansinghgaur",
+    "provider": "lichess",
+    "username": "NamanSinghGaur",
+    "firstSeen": 1633770400540,
+    "lastSeen": 1633771125186,
+    "firstSeenTime": "9:06:40 AM",
+    "lastSeenTime": "9:11:24 AM",
+    "onlineDurationMins": 4.732766666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1633770892192,
+    "lastSeen": 1633770892192,
+    "firstSeenTime": "9:14:52 AM",
+    "lastSeenTime": "9:14:52 AM",
+    "onlineDurationMins": 0
+  },
+  "theepicbot2@lichess": {
+    "id": "theepicbot2",
+    "provider": "lichess",
+    "username": "TheEpicBot2",
+    "firstSeen": 1633771340837,
+    "lastSeen": 1633771340837
+  }
+}
