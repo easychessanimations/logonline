@@ -1,0 +1,22 @@
+{
+  "hellobot55@lichess": {
+    "id": "hellobot55",
+    "provider": "lichess",
+    "username": "HelloBot55",
+    "firstSeen": 1633842361273,
+    "lastSeen": 1633845775319,
+    "firstSeenTime": "5:06:01 AM",
+    "lastSeenTime": "6:02:55 AM",
+    "onlineDurationMins": 56.90076666666667
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1633845802153,
+    "lastSeen": 1633845802153,
+    "firstSeenTime": "6:03:22 AM",
+    "lastSeenTime": "6:03:22 AM",
+    "onlineDurationMins": 0
+  }
+}
