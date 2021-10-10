@@ -1,0 +1,23 @@
+{
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1633869899171,
+    "lastSeen": 1633873850652
+  },
+  "suxus-bot@lichess": {
+    "id": "suxus-bot",
+    "provider": "lichess",
+    "username": "Suxus-Bot",
+    "firstSeen": 1633872576571,
+    "lastSeen": 1633873353293
+  },
+  "humanbot_lv1929@lichess": {
+    "id": "humanbot_lv1929",
+    "provider": "lichess",
+    "username": "HumanBOT_lv1929",
+    "firstSeen": 1633874100791,
+    "lastSeen": 1633874100791
+  }
+}
