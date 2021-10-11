@@ -1,0 +1,23 @@
+{
+  "danindu_gunarathne@lichess": {
+    "id": "danindu_gunarathne",
+    "provider": "lichess",
+    "username": "Danindu_Gunarathne",
+    "firstSeen": 1633931593546,
+    "lastSeen": 1633937834002
+  },
+  "galaxychessbot@lichess": {
+    "id": "galaxychessbot",
+    "provider": "lichess",
+    "username": "GalaxychessBot",
+    "firstSeen": 1633937277323,
+    "lastSeen": 1633937288902
+  },
+  "test_onme@lichess": {
+    "id": "test_onme",
+    "provider": "lichess",
+    "username": "Test_OnMe",
+    "firstSeen": 1633937880870,
+    "lastSeen": 1633937880870
+  }
+}
