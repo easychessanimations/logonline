@@ -1,0 +1,26 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1633926623942,
+    "lastSeen": 1633931980758,
+    "firstSeenTime": "4:30:23 AM",
+    "lastSeenTime": "4:42:04 AM",
+    "onlineDurationMins": 11.67315
+  },
+  "danindu_gunarathne@lichess": {
+    "id": "danindu_gunarathne",
+    "provider": "lichess",
+    "username": "Danindu_Gunarathne",
+    "firstSeen": 1633931593546,
+    "lastSeen": 1633931850454
+  },
+  "bullseye_team@lichess": {
+    "id": "bullseye_team",
+    "provider": "lichess",
+    "username": "BULLSEYE_TEAM",
+    "firstSeen": 1633932424575,
+    "lastSeen": 1633932424575
+  }
+}
