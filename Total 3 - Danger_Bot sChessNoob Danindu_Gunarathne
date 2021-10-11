@@ -1,0 +1,29 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1633926623942,
+    "lastSeen": 1633927324331,
+    "firstSeenTime": "4:30:23 AM",
+    "lastSeenTime": "4:42:04 AM",
+    "onlineDurationMins": 11.67315
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1633927950291,
+    "lastSeen": 1633927950599,
+    "firstSeenTime": "4:52:30 AM",
+    "lastSeenTime": "4:52:30 AM",
+    "onlineDurationMins": 0
+  },
+  "danindu_gunarathne@lichess": {
+    "id": "danindu_gunarathne",
+    "provider": "lichess",
+    "username": "Danindu_Gunarathne",
+    "firstSeen": 1633927954314,
+    "lastSeen": 1633927954314
+  }
+}
