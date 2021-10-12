@@ -1,0 +1,29 @@
+{
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1634012102627,
+    "lastSeen": 1634015048043,
+    "firstSeenTime": "4:15:02 AM",
+    "lastSeenTime": "5:04:08 AM",
+    "onlineDurationMins": 49.090266666666665
+  },
+  "bestbotever@lichess": {
+    "id": "bestbotever",
+    "provider": "lichess",
+    "username": "bestbotever",
+    "firstSeen": 1634014962514,
+    "lastSeen": 1634015062167,
+    "firstSeenTime": "5:02:42 AM",
+    "lastSeenTime": "5:04:07 AM",
+    "onlineDurationMins": 1.4243166666666667
+  },
+  "bot-police-station@lichess": {
+    "id": "bot-police-station",
+    "provider": "lichess",
+    "username": "BOT-POLICE-STATION",
+    "firstSeen": 1634015077919,
+    "lastSeen": 1634015077919
+  }
+}
