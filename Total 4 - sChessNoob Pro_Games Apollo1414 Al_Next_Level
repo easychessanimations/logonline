@@ -4,36 +4,39 @@
     "provider": "lichess",
     "username": "sChessNoob",
     "firstSeen": 1634131049718,
-    "lastSeen": 1634132790163,
+    "lastSeen": 1634134061253,
     "firstSeenTime": "1:17:29 PM",
-    "lastSeenTime": "1:46:30 PM",
-    "onlineDurationMins": 29.007416666666668
+    "lastSeenTime": "2:07:10 PM",
+    "onlineDurationMins": 49.675
   },
   "pro_games@lichess": {
     "id": "pro_games",
     "provider": "lichess",
     "username": "Pro_Games",
     "firstSeen": 1634131059248,
-    "lastSeen": 1634132564058,
+    "lastSeen": 1634133870618,
     "firstSeenTime": "1:17:39 PM",
-    "lastSeenTime": "1:42:44 PM",
-    "onlineDurationMins": 25.080166666666667
+    "lastSeenTime": "2:04:30 PM",
+    "onlineDurationMins": 46.85616666666667
   },
   "apollo1414@lichess": {
     "id": "apollo1414",
     "provider": "lichess",
     "username": "Apollo1414",
     "firstSeen": 1634132507083,
-    "lastSeen": 1634132589130,
+    "lastSeen": 1634134012591,
     "firstSeenTime": "1:41:47 PM",
-    "lastSeenTime": "1:43:09 PM",
-    "onlineDurationMins": 1.36745
+    "lastSeenTime": "2:06:52 PM",
+    "onlineDurationMins": 25.0918
   },
   "al_next_level@lichess": {
     "id": "al_next_level",
     "provider": "lichess",
     "username": "Al_Next_Level",
     "firstSeen": 1634132795374,
-    "lastSeen": 1634132795374
+    "lastSeen": 1634133274808,
+    "firstSeenTime": "1:46:35 PM",
+    "lastSeenTime": "1:54:34 PM",
+    "onlineDurationMins": 7.990566666666667
   }
 }
