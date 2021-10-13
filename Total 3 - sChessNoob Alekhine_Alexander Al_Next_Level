@@ -1,0 +1,26 @@
+{
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1634121403625,
+    "lastSeen": 1634122581036,
+    "firstSeenTime": "10:36:43 AM",
+    "lastSeenTime": "10:56:21 AM",
+    "onlineDurationMins": 19.623516666666667
+  },
+  "alekhine_alexander@lichess": {
+    "id": "alekhine_alexander",
+    "provider": "lichess",
+    "username": "Alekhine_Alexander",
+    "firstSeen": 1634122622088,
+    "lastSeen": 1634123205301
+  },
+  "al_next_level@lichess": {
+    "id": "al_next_level",
+    "provider": "lichess",
+    "username": "Al_Next_Level",
+    "firstSeen": 1634123205939,
+    "lastSeen": 1634123205939
+  }
+}
