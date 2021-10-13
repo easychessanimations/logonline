@@ -1,0 +1,16 @@
+{
+  "danger_bot@lichess": {
+    "id": "danger_bot",
+    "provider": "lichess",
+    "username": "Danger_Bot",
+    "firstSeen": 1634105395420,
+    "lastSeen": 1634108398019
+  },
+  "spider_man_bot@lichess": {
+    "id": "spider_man_bot",
+    "provider": "lichess",
+    "username": "Spider_man_BOT",
+    "firstSeen": 1634107623722,
+    "lastSeen": 1634108361396
+  }
+}
