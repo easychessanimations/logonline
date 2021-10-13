@@ -1,0 +1,32 @@
+{
+  "iamvoldemort2@lichess": {
+    "id": "iamvoldemort2",
+    "provider": "lichess",
+    "username": "iamvoldemort2",
+    "firstSeen": 1634125632790,
+    "lastSeen": 1634131286236,
+    "firstSeenTime": "11:47:12 AM",
+    "lastSeenTime": "1:21:26 PM",
+    "onlineDurationMins": 94.2241
+  },
+  "schessnoob@lichess": {
+    "id": "schessnoob",
+    "provider": "lichess",
+    "username": "sChessNoob",
+    "firstSeen": 1634131049718,
+    "lastSeen": 1634131457196,
+    "firstSeenTime": "1:17:29 PM",
+    "lastSeenTime": "1:23:46 PM",
+    "onlineDurationMins": 6.274
+  },
+  "pro_games@lichess": {
+    "id": "pro_games",
+    "provider": "lichess",
+    "username": "Pro_Games",
+    "firstSeen": 1634131059248,
+    "lastSeen": 1634131301314,
+    "firstSeenTime": "1:17:39 PM",
+    "lastSeenTime": "1:21:41 PM",
+    "onlineDurationMins": 4.034433333333333
+  }
+}
