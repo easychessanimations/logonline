@@ -1,0 +1,22 @@
+{
+  "seremoscampeones@lichess": {
+    "id": "seremoscampeones",
+    "provider": "lichess",
+    "username": "SeremosCampeones",
+    "firstSeen": 1634221962597,
+    "lastSeen": 1634222565436,
+    "firstSeenTime": "2:32:42 PM",
+    "lastSeenTime": "2:37:12 PM",
+    "onlineDurationMins": 4.492916666666667
+  },
+  "stockfish-14-100@lichess": {
+    "id": "stockfish-14-100",
+    "provider": "lichess",
+    "username": "Stockfish-14-100",
+    "firstSeen": 1634222110909,
+    "lastSeen": 1634222128823,
+    "firstSeenTime": "2:35:10 PM",
+    "lastSeenTime": "2:35:28 PM",
+    "onlineDurationMins": 0.29856666666666665
+  }
+}
