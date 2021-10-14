@@ -1,0 +1,29 @@
+{
+  "seremoscampeones@lichess": {
+    "id": "seremoscampeones",
+    "provider": "lichess",
+    "username": "SeremosCampeones",
+    "firstSeen": 1634221962597,
+    "lastSeen": 1634226204959,
+    "firstSeenTime": "2:32:42 PM",
+    "lastSeenTime": "3:13:43 PM",
+    "onlineDurationMins": 41.01071666666667
+  },
+  "superdeepblue@lichess": {
+    "id": "superdeepblue",
+    "provider": "lichess",
+    "username": "SuperDeepBlue",
+    "firstSeen": 1634224767349,
+    "lastSeen": 1634226095753,
+    "firstSeenTime": "3:19:27 PM",
+    "lastSeenTime": "3:26:10 PM",
+    "onlineDurationMins": 6.725066666666667
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1634226235533,
+    "lastSeen": 1634226235533
+  }
+}
