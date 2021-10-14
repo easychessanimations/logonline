@@ -4,16 +4,19 @@
     "provider": "lichess",
     "username": "Stockfish-14-100",
     "firstSeen": 1634218467815,
-    "lastSeen": 1634218478084,
+    "lastSeen": 1634220990148,
     "firstSeenTime": "1:34:27 PM",
-    "lastSeenTime": "1:34:38 PM",
-    "onlineDurationMins": 0.17115
+    "lastSeenTime": "2:16:30 PM",
+    "onlineDurationMins": 42.03888333333333
   },
   "superdeepblue@lichess": {
     "id": "superdeepblue",
     "provider": "lichess",
     "username": "SuperDeepBlue",
     "firstSeen": 1634218578541,
-    "lastSeen": 1634218578541
+    "lastSeen": 1634221470294,
+    "firstSeenTime": "1:36:18 PM",
+    "lastSeenTime": "2:09:49 PM",
+    "onlineDurationMins": 33.51716666666667
   }
 }
