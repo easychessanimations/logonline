@@ -1,0 +1,26 @@
+{
+  "superdeepblue@lichess": {
+    "id": "superdeepblue",
+    "provider": "lichess",
+    "username": "SuperDeepBlue",
+    "firstSeen": 1634218578541,
+    "lastSeen": 1634222046801,
+    "firstSeenTime": "1:36:18 PM",
+    "lastSeenTime": "2:09:49 PM",
+    "onlineDurationMins": 33.51716666666667
+  },
+  "seremoscampeones@lichess": {
+    "id": "seremoscampeones",
+    "provider": "lichess",
+    "username": "SeremosCampeones",
+    "firstSeen": 1634221962597,
+    "lastSeen": 1634222097463
+  },
+  "stockfish-14-100@lichess": {
+    "id": "stockfish-14-100",
+    "provider": "lichess",
+    "username": "Stockfish-14-100",
+    "firstSeen": 1634222110909,
+    "lastSeen": 1634222110909
+  }
+}
