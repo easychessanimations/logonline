@@ -1,0 +1,22 @@
+{
+  "superdeepblue@lichess": {
+    "id": "superdeepblue",
+    "provider": "lichess",
+    "username": "SuperDeepBlue",
+    "firstSeen": 1634224767349,
+    "lastSeen": 1634227535597,
+    "firstSeenTime": "3:19:27 PM",
+    "lastSeenTime": "4:05:35 PM",
+    "onlineDurationMins": 46.13746666666667
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1634226235533,
+    "lastSeen": 1634227862864,
+    "firstSeenTime": "3:43:55 PM",
+    "lastSeenTime": "4:00:36 PM",
+    "onlineDurationMins": 16.68825
+  }
+}
