@@ -1,0 +1,32 @@
+{
+  "palpablebears_bot@lichess": {
+    "id": "palpablebears_bot",
+    "provider": "lichess",
+    "username": "Palpablebears_bot",
+    "firstSeen": 1634381853226,
+    "lastSeen": 1634387508142,
+    "firstSeenTime": "10:57:33 AM",
+    "lastSeenTime": "12:31:48 PM",
+    "onlineDurationMins": 94.2486
+  },
+  "los-guerreros1@lichess": {
+    "id": "los-guerreros1",
+    "provider": "lichess",
+    "username": "Los-Guerreros1",
+    "firstSeen": 1634383000614,
+    "lastSeen": 1634387626477,
+    "firstSeenTime": "11:16:40 AM",
+    "lastSeenTime": "12:33:46 PM",
+    "onlineDurationMins": 77.09771666666667
+  },
+  "supershinchan@lichess": {
+    "id": "supershinchan",
+    "provider": "lichess",
+    "username": "Supershinchan",
+    "firstSeen": 1634386793107,
+    "lastSeen": 1634386861848,
+    "firstSeenTime": "12:19:53 PM",
+    "lastSeenTime": "12:21:01 PM",
+    "onlineDurationMins": 1.1456833333333334
+  }
+}
