@@ -1,0 +1,39 @@
+{
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1634558266368,
+    "lastSeen": 1634563584420,
+    "firstSeenTime": "11:57:46 AM",
+    "lastSeenTime": "1:26:24 PM",
+    "onlineDurationMins": 88.6342
+  },
+  "rogerbeh5@lichess": {
+    "id": "rogerbeh5",
+    "provider": "lichess",
+    "username": "Rogerbeh5",
+    "firstSeen": 1634560651681,
+    "lastSeen": 1634563659276,
+    "firstSeenTime": "12:37:31 PM",
+    "lastSeenTime": "1:27:39 PM",
+    "onlineDurationMins": 50.126583333333336
+  },
+  "z-striker302-bot@lichess": {
+    "id": "z-striker302-bot",
+    "provider": "lichess",
+    "username": "Z-Striker302-Bot",
+    "firstSeen": 1634561351218,
+    "lastSeen": 1634563305795,
+    "firstSeenTime": "12:49:11 PM",
+    "lastSeenTime": "1:21:45 PM",
+    "onlineDurationMins": 32.576283333333336
+  },
+  "catbot_14@lichess": {
+    "id": "catbot_14",
+    "provider": "lichess",
+    "username": "CatBot_14",
+    "firstSeen": 1634563909967,
+    "lastSeen": 1634563909967
+  }
+}
