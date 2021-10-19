@@ -1,0 +1,29 @@
+{
+  "knight_128@lichess": {
+    "id": "knight_128",
+    "provider": "lichess",
+    "username": "knight_128",
+    "firstSeen": 1634607708869,
+    "lastSeen": 1634610772270,
+    "firstSeenTime": "1:41:48 AM",
+    "lastSeenTime": "2:21:52 AM",
+    "onlineDurationMins": 40.06008333333333
+  },
+  "wolfysminion@lichess": {
+    "id": "wolfysminion",
+    "provider": "lichess",
+    "username": "WolfysMinion",
+    "firstSeen": 1634608103923,
+    "lastSeen": 1634610755921,
+    "firstSeenTime": "1:48:23 AM",
+    "lastSeenTime": "2:21:30 AM",
+    "onlineDurationMins": 33.11676666666666
+  },
+  "sl_bot-2010@lichess": {
+    "id": "sl_bot-2010",
+    "provider": "lichess",
+    "username": "SL_Bot-2010",
+    "firstSeen": 1634610842382,
+    "lastSeen": 1634610842382
+  }
+}
