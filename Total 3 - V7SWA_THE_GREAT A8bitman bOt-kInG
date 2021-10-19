@@ -1,0 +1,29 @@
+{
+  "v7swa_the_great@lichess": {
+    "id": "v7swa_the_great",
+    "provider": "lichess",
+    "username": "V7SWA_THE_GREAT",
+    "firstSeen": 1634618412437,
+    "lastSeen": 1634626812010,
+    "firstSeenTime": "4:40:12 AM",
+    "lastSeenTime": "7:00:12 AM",
+    "onlineDurationMins": 139.99288333333334
+  },
+  "a8bitman@lichess": {
+    "id": "a8bitman",
+    "provider": "lichess",
+    "username": "A8bitman",
+    "firstSeen": 1634626383465,
+    "lastSeen": 1634627112582,
+    "firstSeenTime": "6:53:03 AM",
+    "lastSeenTime": "7:05:12 AM",
+    "onlineDurationMins": 12.15195
+  },
+  "bot-king@lichess": {
+    "id": "bot-king",
+    "provider": "lichess",
+    "username": "bOt-kInG",
+    "firstSeen": 1634627414139,
+    "lastSeen": 1634627414139
+  }
+}
