@@ -1,0 +1,23 @@
+{
+  "bkrivibot@lichess": {
+    "id": "bkrivibot",
+    "provider": "lichess",
+    "username": "BKriviBOT",
+    "firstSeen": 1634813276379,
+    "lastSeen": 1634815433120
+  },
+  "natbee_bot@lichess": {
+    "id": "natbee_bot",
+    "provider": "lichess",
+    "username": "Natbee_BOT",
+    "firstSeen": 1634814295295,
+    "lastSeen": 1634815408126
+  },
+  "veervarma2@lichess": {
+    "id": "veervarma2",
+    "provider": "lichess",
+    "username": "VeerVarma2",
+    "firstSeen": 1634815283114,
+    "lastSeen": 1634815386528
+  }
+}
