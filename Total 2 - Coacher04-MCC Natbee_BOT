@@ -4,13 +4,19 @@
     "provider": "lichess",
     "username": "Coacher04-MCC",
     "firstSeen": 1634793825424,
-    "lastSeen": 1634796954649
+    "lastSeen": 1634799948869,
+    "firstSeenTime": "5:23:45 AM",
+    "lastSeenTime": "6:52:41 AM",
+    "onlineDurationMins": 88.93386666666666
   },
   "natbee_bot@lichess": {
     "id": "natbee_bot",
     "provider": "lichess",
     "username": "Natbee_BOT",
     "firstSeen": 1634797249018,
-    "lastSeen": 1634797249018
+    "lastSeen": 1634799933646,
+    "firstSeenTime": "6:20:49 AM",
+    "lastSeenTime": "7:00:01 AM",
+    "onlineDurationMins": 39.21465
   }
 }
