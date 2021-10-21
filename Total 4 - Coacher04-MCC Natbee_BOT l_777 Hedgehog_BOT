@@ -1,0 +1,36 @@
+{
+  "coacher04-mcc@lichess": {
+    "id": "coacher04-mcc",
+    "provider": "lichess",
+    "username": "Coacher04-MCC",
+    "firstSeen": 1634793825424,
+    "lastSeen": 1634798392078,
+    "firstSeenTime": "5:23:45 AM",
+    "lastSeenTime": "6:26:03 AM",
+    "onlineDurationMins": 62.29356666666666
+  },
+  "natbee_bot@lichess": {
+    "id": "natbee_bot",
+    "provider": "lichess",
+    "username": "Natbee_BOT",
+    "firstSeen": 1634797249018,
+    "lastSeen": 1634798753239,
+    "firstSeenTime": "6:20:49 AM",
+    "lastSeenTime": "6:21:00 AM",
+    "onlineDurationMins": 0.18815
+  },
+  "l_777@lichess": {
+    "id": "l_777",
+    "provider": "lichess",
+    "username": "l_777",
+    "firstSeen": 1634798257727,
+    "lastSeen": 1634798295198
+  },
+  "hedgehog_bot@lichess": {
+    "id": "hedgehog_bot",
+    "provider": "lichess",
+    "username": "Hedgehog_BOT",
+    "firstSeen": 1634798901558,
+    "lastSeen": 1634798901558
+  }
+}
