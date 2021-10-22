@@ -1,0 +1,30 @@
+{
+  "minecoolbot@lichess": {
+    "id": "minecoolbot",
+    "provider": "lichess",
+    "username": "MinecoolBot",
+    "firstSeen": 1634878163392,
+    "lastSeen": 1634878726646
+  },
+  "user13426621@lichess": {
+    "id": "user13426621",
+    "provider": "lichess",
+    "username": "user13426621",
+    "firstSeen": 1634878456103,
+    "lastSeen": 1634878546395
+  },
+  "danindu_gunarathne@lichess": {
+    "id": "danindu_gunarathne",
+    "provider": "lichess",
+    "username": "Danindu_Gunarathne",
+    "firstSeen": 1634878565390,
+    "lastSeen": 1634879237313
+  },
+  "bkrivibot@lichess": {
+    "id": "bkrivibot",
+    "provider": "lichess",
+    "username": "BKriviBOT",
+    "firstSeen": 1634879080720,
+    "lastSeen": 1634879096910
+  }
+}
