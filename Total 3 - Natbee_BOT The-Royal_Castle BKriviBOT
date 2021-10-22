@@ -1,0 +1,29 @@
+{
+  "natbee_bot@lichess": {
+    "id": "natbee_bot",
+    "provider": "lichess",
+    "username": "Natbee_BOT",
+    "firstSeen": 1634885355158,
+    "lastSeen": 1634886293196,
+    "firstSeenTime": "6:49:15 AM",
+    "lastSeenTime": "7:04:53 AM",
+    "onlineDurationMins": 15.633966666666666
+  },
+  "the-royal_castle@lichess": {
+    "id": "the-royal_castle",
+    "provider": "lichess",
+    "username": "The-Royal_Castle",
+    "firstSeen": 1634886167744,
+    "lastSeen": 1634886216856,
+    "firstSeenTime": "7:02:47 AM",
+    "lastSeenTime": "7:03:36 AM",
+    "onlineDurationMins": 0.8185333333333333
+  },
+  "bkrivibot@lichess": {
+    "id": "bkrivibot",
+    "provider": "lichess",
+    "username": "BKriviBOT",
+    "firstSeen": 1634886307631,
+    "lastSeen": 1634886307631
+  }
+}
