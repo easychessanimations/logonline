@@ -1,0 +1,19 @@
+{
+  "endernonschessbot@lichess": {
+    "id": "endernonschessbot",
+    "provider": "lichess",
+    "username": "EnderNonsChessBot",
+    "firstSeen": 1634915032230,
+    "lastSeen": 1634916308151,
+    "firstSeenTime": "3:03:52 PM",
+    "lastSeenTime": "3:03:56 PM",
+    "onlineDurationMins": 0.07011666666666666
+  },
+  "bot-who-will-win@lichess": {
+    "id": "bot-who-will-win",
+    "provider": "lichess",
+    "username": "BOT-WHO-WILL-WIN",
+    "firstSeen": 1634916413611,
+    "lastSeen": 1634916413611
+  }
+}
