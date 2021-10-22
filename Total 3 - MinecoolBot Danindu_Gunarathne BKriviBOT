@@ -1,0 +1,32 @@
+{
+  "minecoolbot@lichess": {
+    "id": "minecoolbot",
+    "provider": "lichess",
+    "username": "MinecoolBot",
+    "firstSeen": 1634878163392,
+    "lastSeen": 1634878726646,
+    "firstSeenTime": "4:49:23 AM",
+    "lastSeenTime": "4:58:46 AM",
+    "onlineDurationMins": 9.387566666666666
+  },
+  "danindu_gunarathne@lichess": {
+    "id": "danindu_gunarathne",
+    "provider": "lichess",
+    "username": "Danindu_Gunarathne",
+    "firstSeen": 1634878565390,
+    "lastSeen": 1634879237313,
+    "firstSeenTime": "4:56:05 AM",
+    "lastSeenTime": "5:07:17 AM",
+    "onlineDurationMins": 11.198716666666666
+  },
+  "bkrivibot@lichess": {
+    "id": "bkrivibot",
+    "provider": "lichess",
+    "username": "BKriviBOT",
+    "firstSeen": 1634879080720,
+    "lastSeen": 1634879096910,
+    "firstSeenTime": "5:04:40 AM",
+    "lastSeenTime": "5:04:56 AM",
+    "onlineDurationMins": 0.2698333333333333
+  }
+}
