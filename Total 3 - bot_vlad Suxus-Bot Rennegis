@@ -1,0 +1,26 @@
+{
+  "bot_vlad@lichess": {
+    "id": "bot_vlad",
+    "provider": "lichess",
+    "username": "bot_vlad",
+    "firstSeen": 1635010075792,
+    "lastSeen": 1635016025983,
+    "firstSeenTime": "5:27:55 PM",
+    "lastSeenTime": "6:45:02 PM",
+    "onlineDurationMins": 77.11278333333334
+  },
+  "suxus-bot@lichess": {
+    "id": "suxus-bot",
+    "provider": "lichess",
+    "username": "Suxus-Bot",
+    "firstSeen": 1635015050978,
+    "lastSeen": 1635015407528
+  },
+  "rennegis@lichess": {
+    "id": "rennegis",
+    "provider": "lichess",
+    "username": "Rennegis",
+    "firstSeen": 1635016078774,
+    "lastSeen": 1635016078774
+  }
+}
