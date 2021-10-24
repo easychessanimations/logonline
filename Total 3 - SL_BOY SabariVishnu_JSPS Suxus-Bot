@@ -1,0 +1,29 @@
+{
+  "sl_boy@lichess": {
+    "id": "sl_boy",
+    "provider": "lichess",
+    "username": "SL_BOY",
+    "firstSeen": 1635063286898,
+    "lastSeen": 1635085972753,
+    "firstSeenTime": "8:14:46 AM",
+    "lastSeenTime": "1:23:45 PM",
+    "onlineDurationMins": 308.98431666666664
+  },
+  "sabarivishnu_jsps@lichess": {
+    "id": "sabarivishnu_jsps",
+    "provider": "lichess",
+    "username": "SabariVishnu_JSPS",
+    "firstSeen": 1635081433267,
+    "lastSeen": 1635085967668,
+    "firstSeenTime": "1:17:13 PM",
+    "lastSeenTime": "1:17:26 PM",
+    "onlineDurationMins": 0.21926666666666667
+  },
+  "suxus-bot@lichess": {
+    "id": "suxus-bot",
+    "provider": "lichess",
+    "username": "Suxus-Bot",
+    "firstSeen": 1635086115630,
+    "lastSeen": 1635086115631
+  }
+}
