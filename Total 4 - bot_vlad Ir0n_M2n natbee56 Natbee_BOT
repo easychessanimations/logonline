@@ -1,0 +1,33 @@
+{
+  "bot_vlad@lichess": {
+    "id": "bot_vlad",
+    "provider": "lichess",
+    "username": "bot_vlad",
+    "firstSeen": 1635010075792,
+    "lastSeen": 1635044643727,
+    "firstSeenTime": "5:27:55 PM",
+    "lastSeenTime": "9:55:02 PM",
+    "onlineDurationMins": 267.12005
+  },
+  "ir0n_m2n@lichess": {
+    "id": "ir0n_m2n",
+    "provider": "lichess",
+    "username": "Ir0n_M2n",
+    "firstSeen": 1635043791188,
+    "lastSeen": 1635044433224
+  },
+  "natbee56@lichess": {
+    "id": "natbee56",
+    "provider": "lichess",
+    "username": "natbee56",
+    "firstSeen": 1635045225361,
+    "lastSeen": 1635045242785
+  },
+  "natbee_bot@lichess": {
+    "id": "natbee_bot",
+    "provider": "lichess",
+    "username": "Natbee_BOT",
+    "firstSeen": 1635045243292,
+    "lastSeen": 1635045243292
+  }
+}
