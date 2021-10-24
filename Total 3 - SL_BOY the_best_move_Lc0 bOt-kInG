@@ -1,0 +1,29 @@
+{
+  "sl_boy@lichess": {
+    "id": "sl_boy",
+    "provider": "lichess",
+    "username": "SL_BOY",
+    "firstSeen": 1635063286898,
+    "lastSeen": 1635075351874,
+    "firstSeenTime": "8:14:46 AM",
+    "lastSeenTime": "11:10:52 AM",
+    "onlineDurationMins": 176.09138333333334
+  },
+  "the_best_move_lc0@lichess": {
+    "id": "the_best_move_lc0",
+    "provider": "lichess",
+    "username": "the_best_move_Lc0",
+    "firstSeen": 1635066485913,
+    "lastSeen": 1635075238202,
+    "firstSeenTime": "9:08:05 AM",
+    "lastSeenTime": "11:08:58 AM",
+    "onlineDurationMins": 120.87331666666667
+  },
+  "bot-king@lichess": {
+    "id": "bot-king",
+    "provider": "lichess",
+    "username": "bOt-kInG",
+    "firstSeen": 1635075361639,
+    "lastSeen": 1635075361639
+  }
+}
