@@ -1,0 +1,39 @@
+{
+  "sl_boy@lichess": {
+    "id": "sl_boy",
+    "provider": "lichess",
+    "username": "SL_BOY",
+    "firstSeen": 1635148678926,
+    "lastSeen": 1635156557217,
+    "firstSeenTime": "7:57:58 AM",
+    "lastSeenTime": "10:03:44 AM",
+    "onlineDurationMins": 125.76238333333333
+  },
+  "midnightshadow_03@lichess": {
+    "id": "midnightshadow_03",
+    "provider": "lichess",
+    "username": "midnightshadow_03",
+    "firstSeen": 1635148776150,
+    "lastSeen": 1635156100136,
+    "firstSeenTime": "7:59:36 AM",
+    "lastSeenTime": "10:01:40 AM",
+    "onlineDurationMins": 122.06643333333334
+  },
+  "archeritory@lichess": {
+    "id": "archeritory",
+    "provider": "lichess",
+    "username": "Archeritory",
+    "firstSeen": 1635152470987,
+    "lastSeen": 1635156446341,
+    "firstSeenTime": "9:01:10 AM",
+    "lastSeenTime": "9:56:29 AM",
+    "onlineDurationMins": 55.312733333333334
+  },
+  "heroku_is_back@lichess": {
+    "id": "heroku_is_back",
+    "provider": "lichess",
+    "username": "Heroku_Is_Back",
+    "firstSeen": 1635156606873,
+    "lastSeen": 1635156606874
+  }
+}
