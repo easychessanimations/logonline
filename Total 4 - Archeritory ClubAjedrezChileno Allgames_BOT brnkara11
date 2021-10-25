@@ -1,0 +1,39 @@
+{
+  "archeritory@lichess": {
+    "id": "archeritory",
+    "provider": "lichess",
+    "username": "Archeritory",
+    "firstSeen": 1635152470987,
+    "lastSeen": 1635173546206,
+    "firstSeenTime": "9:01:10 AM",
+    "lastSeenTime": "2:34:29 PM",
+    "onlineDurationMins": 333.30761666666666
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1635168488325,
+    "lastSeen": 1635173827580,
+    "firstSeenTime": "1:28:08 PM",
+    "lastSeenTime": "2:43:12 PM",
+    "onlineDurationMins": 75.07231666666667
+  },
+  "allgames_bot@lichess": {
+    "id": "allgames_bot",
+    "provider": "lichess",
+    "username": "Allgames_BOT",
+    "firstSeen": 1635172445089,
+    "lastSeen": 1635173403245,
+    "firstSeenTime": "2:34:05 PM",
+    "lastSeenTime": "2:43:27 PM",
+    "onlineDurationMins": 9.379333333333333
+  },
+  "brnkara11@lichess": {
+    "id": "brnkara11",
+    "provider": "lichess",
+    "username": "brnkara11",
+    "firstSeen": 1635173179924,
+    "lastSeen": 1635173193019
+  }
+}
