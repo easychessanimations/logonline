@@ -1,0 +1,23 @@
+{
+  "sl_boy@lichess": {
+    "id": "sl_boy",
+    "provider": "lichess",
+    "username": "SL_BOY",
+    "firstSeen": 1635214179176,
+    "lastSeen": 1635224559366
+  },
+  "bot_kyungtaek@lichess": {
+    "id": "bot_kyungtaek",
+    "provider": "lichess",
+    "username": "bot_kyungtaek",
+    "firstSeen": 1635222909995,
+    "lastSeen": 1635224460284
+  },
+  "weakerbot_kyungtaek@lichess": {
+    "id": "weakerbot_kyungtaek",
+    "provider": "lichess",
+    "username": "weakerbot_kyungtaek",
+    "firstSeen": 1635224913788,
+    "lastSeen": 1635224913788
+  }
+}
