@@ -1,0 +1,46 @@
+{
+  "sl_boy@lichess": {
+    "id": "sl_boy",
+    "provider": "lichess",
+    "username": "SL_BOY",
+    "firstSeen": 1635214179176,
+    "lastSeen": 1635233393516,
+    "firstSeenTime": "2:09:39 AM",
+    "lastSeenTime": "6:57:36 AM",
+    "onlineDurationMins": 287.9483666666667
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1635229685409,
+    "lastSeen": 1635233650962,
+    "firstSeenTime": "6:28:05 AM",
+    "lastSeenTime": "7:02:46 AM",
+    "onlineDurationMins": 34.68926666666667
+  },
+  "khchatryan@lichess": {
+    "id": "khchatryan",
+    "provider": "lichess",
+    "username": "KhChAtRyAn",
+    "firstSeen": 1635230927554,
+    "lastSeen": 1635233758976,
+    "firstSeenTime": "6:48:47 AM",
+    "lastSeenTime": "6:51:14 AM",
+    "onlineDurationMins": 2.4535
+  },
+  "weakerbot_kyungtaek@lichess": {
+    "id": "weakerbot_kyungtaek",
+    "provider": "lichess",
+    "username": "weakerbot_kyungtaek",
+    "firstSeen": 1635233759876,
+    "lastSeen": 1635233790601
+  },
+  "vivichess330@lichess": {
+    "id": "vivichess330",
+    "provider": "lichess",
+    "username": "ViviChess330",
+    "firstSeen": 1635233792329,
+    "lastSeen": 1635233792329
+  }
+}
