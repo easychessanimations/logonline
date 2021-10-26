@@ -1,0 +1,79 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1635236819000,
+    "lastSeen": 1635239510222,
+    "firstSeenTime": "8:26:59 AM",
+    "lastSeenTime": "9:11:50 AM",
+    "onlineDurationMins": 44.8537
+  },
+  "bot_kyungtaek@lichess": {
+    "id": "bot_kyungtaek",
+    "provider": "lichess",
+    "username": "bot_kyungtaek",
+    "firstSeen": 1635236835558,
+    "lastSeen": 1635239215792,
+    "firstSeenTime": "8:27:15 AM",
+    "lastSeenTime": "9:06:55 AM",
+    "onlineDurationMins": 39.670566666666666
+  },
+  "admin-bot@lichess": {
+    "id": "admin-bot",
+    "provider": "lichess",
+    "username": "admin-bot",
+    "firstSeen": 1635236842818,
+    "lastSeen": 1635239552150,
+    "firstSeenTime": "8:27:22 AM",
+    "lastSeenTime": "9:12:32 AM",
+    "onlineDurationMins": 45.15553333333333
+  },
+  "khchatryan@lichess": {
+    "id": "khchatryan",
+    "provider": "lichess",
+    "username": "KhChAtRyAn",
+    "firstSeen": 1635236966063,
+    "lastSeen": 1635239222393,
+    "firstSeenTime": "8:29:26 AM",
+    "lastSeenTime": "9:07:02 AM",
+    "onlineDurationMins": 37.6055
+  },
+  "sl_boy@lichess": {
+    "id": "sl_boy",
+    "provider": "lichess",
+    "username": "SL_BOY",
+    "firstSeen": 1635237216199,
+    "lastSeen": 1635239196294,
+    "firstSeenTime": "8:33:36 AM",
+    "lastSeenTime": "9:06:36 AM",
+    "onlineDurationMins": 33.001583333333336
+  },
+  "bkrivibot@lichess": {
+    "id": "bkrivibot",
+    "provider": "lichess",
+    "username": "BKriviBOT",
+    "firstSeen": 1635239115537,
+    "lastSeen": 1635239425536,
+    "firstSeenTime": "9:05:15 AM",
+    "lastSeenTime": "9:10:25 AM",
+    "onlineDurationMins": 5.16665
+  },
+  "kidaccounthere1200pv@lichess": {
+    "id": "kidaccounthere1200pv",
+    "provider": "lichess",
+    "username": "Kidaccounthere1200pv",
+    "firstSeen": 1635239180856,
+    "lastSeen": 1635239658006,
+    "firstSeenTime": "9:06:20 AM",
+    "lastSeenTime": "9:06:34 AM",
+    "onlineDurationMins": 0.2266
+  },
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1635239658417,
+    "lastSeen": 1635239658417
+  }
+}
