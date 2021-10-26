@@ -1,0 +1,32 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1635236819000,
+    "lastSeen": 1635243151827,
+    "firstSeenTime": "8:26:59 AM",
+    "lastSeenTime": "9:58:51 AM",
+    "onlineDurationMins": 91.88186666666667
+  },
+  "khchatryan@lichess": {
+    "id": "khchatryan",
+    "provider": "lichess",
+    "username": "KhChAtRyAn",
+    "firstSeen": 1635236966063,
+    "lastSeen": 1635242998970,
+    "firstSeenTime": "8:29:26 AM",
+    "lastSeenTime": "10:03:59 AM",
+    "onlineDurationMins": 94.54976666666667
+  },
+  "sl_boy@lichess": {
+    "id": "sl_boy",
+    "provider": "lichess",
+    "username": "SL_BOY",
+    "firstSeen": 1635237216199,
+    "lastSeen": 1635242616251,
+    "firstSeenTime": "8:33:36 AM",
+    "lastSeenTime": "10:03:36 AM",
+    "onlineDurationMins": 90.00086666666667
+  }
+}
