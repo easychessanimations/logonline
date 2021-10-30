@@ -1,0 +1,33 @@
+{
+  "newplayeratchess_bot@lichess": {
+    "id": "newplayeratchess_bot",
+    "provider": "lichess",
+    "username": "newplayeratchess_bot",
+    "firstSeen": 1635590753194,
+    "lastSeen": 1635596236861,
+    "firstSeenTime": "10:45:53 AM",
+    "lastSeenTime": "11:08:13 AM",
+    "onlineDurationMins": 22.339166666666667
+  },
+  "ege0935@lichess": {
+    "id": "ege0935",
+    "provider": "lichess",
+    "username": "ege0935",
+    "firstSeen": 1635595519161,
+    "lastSeen": 1635596653354
+  },
+  "chess_pro960@lichess": {
+    "id": "chess_pro960",
+    "provider": "lichess",
+    "username": "Chess_pro960",
+    "firstSeen": 1635596515809,
+    "lastSeen": 1635596625136
+  },
+  "liveyourlife35@lichess": {
+    "id": "liveyourlife35",
+    "provider": "lichess",
+    "username": "LiveYourLife35",
+    "firstSeen": 1635596661009,
+    "lastSeen": 1635596661009
+  }
+}
