@@ -1,0 +1,23 @@
+{
+  "allgames_bot@lichess": {
+    "id": "allgames_bot",
+    "provider": "lichess",
+    "username": "Allgames_BOT",
+    "firstSeen": 1635692186218,
+    "lastSeen": 1635697564017
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1635692275944,
+    "lastSeen": 1635697592014
+  },
+  "imolcamlan@lichess": {
+    "id": "imolcamlan",
+    "provider": "lichess",
+    "username": "Imolcamlan",
+    "firstSeen": 1635697654625,
+    "lastSeen": 1635697654625
+  }
+}
