@@ -1,0 +1,26 @@
+{
+  "bothesap3@lichess": {
+    "id": "bothesap3",
+    "provider": "lichess",
+    "username": "bothesap3",
+    "firstSeen": 1635743732939,
+    "lastSeen": 1635767887783,
+    "firstSeenTime": "5:15:32 AM",
+    "lastSeenTime": "10:56:49 AM",
+    "onlineDurationMins": 341.26835
+  },
+  "bot-who-will-win@lichess": {
+    "id": "bot-who-will-win",
+    "provider": "lichess",
+    "username": "BOT-WHO-WILL-WIN",
+    "firstSeen": 1635767341089,
+    "lastSeen": 1635767521133
+  },
+  "no_any_player@lichess": {
+    "id": "no_any_player",
+    "provider": "lichess",
+    "username": "No_Any_Player",
+    "firstSeen": 1635767952572,
+    "lastSeen": 1635767952573
+  }
+}
