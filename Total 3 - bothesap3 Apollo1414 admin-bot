@@ -1,0 +1,29 @@
+{
+  "bothesap3@lichess": {
+    "id": "bothesap3",
+    "provider": "lichess",
+    "username": "bothesap3",
+    "firstSeen": 1635743732939,
+    "lastSeen": 1635772112331,
+    "firstSeenTime": "5:15:32 AM",
+    "lastSeenTime": "1:02:53 PM",
+    "onlineDurationMins": 467.3455333333333
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1635771984696,
+    "lastSeen": 1635771997228,
+    "firstSeenTime": "1:06:24 PM",
+    "lastSeenTime": "1:06:37 PM",
+    "onlineDurationMins": 0.20886666666666667
+  },
+  "admin-bot@lichess": {
+    "id": "admin-bot",
+    "provider": "lichess",
+    "username": "admin-bot",
+    "firstSeen": 1635772151508,
+    "lastSeen": 1635772151508
+  }
+}
