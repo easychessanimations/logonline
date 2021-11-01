@@ -4,16 +4,19 @@
     "provider": "lichess",
     "username": "bothesap3",
     "firstSeen": 1635743732939,
-    "lastSeen": 1635767191991,
+    "lastSeen": 1635768960083,
     "firstSeenTime": "5:15:32 AM",
-    "lastSeenTime": "10:56:49 AM",
-    "onlineDurationMins": 341.26835
+    "lastSeenTime": "12:09:39 PM",
+    "onlineDurationMins": 414.1118333333333
   },
   "bot-who-will-win@lichess": {
     "id": "bot-who-will-win",
     "provider": "lichess",
     "username": "BOT-WHO-WILL-WIN",
     "firstSeen": 1635767341089,
-    "lastSeen": 1635767341089
+    "lastSeen": 1635769081026,
+    "firstSeenTime": "11:49:01 AM",
+    "lastSeenTime": "11:59:46 AM",
+    "onlineDurationMins": 10.758333333333333
   }
 }
