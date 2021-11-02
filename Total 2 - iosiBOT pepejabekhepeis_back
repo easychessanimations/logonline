@@ -1,0 +1,22 @@
+{
+  "iosibot@lichess": {
+    "id": "iosibot",
+    "provider": "lichess",
+    "username": "iosiBOT",
+    "firstSeen": 1635865572377,
+    "lastSeen": 1635866253252,
+    "firstSeenTime": "3:06:12 PM",
+    "lastSeenTime": "3:17:33 PM",
+    "onlineDurationMins": 11.347916666666666
+  },
+  "pepejabekhepeis_back@lichess": {
+    "id": "pepejabekhepeis_back",
+    "provider": "lichess",
+    "username": "pepejabekhepeis_back",
+    "firstSeen": 1635866452232,
+    "lastSeen": 1635867068935,
+    "firstSeenTime": "3:20:52 PM",
+    "lastSeenTime": "3:21:02 PM",
+    "onlineDurationMins": 0.17128333333333334
+  }
+}
