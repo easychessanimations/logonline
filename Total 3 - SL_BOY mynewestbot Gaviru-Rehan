@@ -1,0 +1,26 @@
+{
+  "sl_boy@lichess": {
+    "id": "sl_boy",
+    "provider": "lichess",
+    "username": "SL_BOY",
+    "firstSeen": 1635824669514,
+    "lastSeen": 1635839730996,
+    "firstSeenTime": "3:44:29 AM",
+    "lastSeenTime": "5:28:51 AM",
+    "onlineDurationMins": 104.36995
+  },
+  "mynewestbot@lichess": {
+    "id": "mynewestbot",
+    "provider": "lichess",
+    "username": "mynewestbot",
+    "firstSeen": 1635839131987,
+    "lastSeen": 1635839847280
+  },
+  "gaviru-rehan@lichess": {
+    "id": "gaviru-rehan",
+    "provider": "lichess",
+    "username": "Gaviru-Rehan",
+    "firstSeen": 1635839992384,
+    "lastSeen": 1635839992384
+  }
+}
