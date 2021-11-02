@@ -1,0 +1,29 @@
+{
+  "mynewestbot@lichess": {
+    "id": "mynewestbot",
+    "provider": "lichess",
+    "username": "mynewestbot",
+    "firstSeen": 1635839131987,
+    "lastSeen": 1635857548058,
+    "firstSeenTime": "7:45:31 AM",
+    "lastSeenTime": "12:52:28 PM",
+    "onlineDurationMins": 306.93451666666664
+  },
+  "lokurarevoluchon2@lichess": {
+    "id": "lokurarevoluchon2",
+    "provider": "lichess",
+    "username": "Lokurarevoluchon2",
+    "firstSeen": 1635857078983,
+    "lastSeen": 1635857859953,
+    "firstSeenTime": "12:44:38 PM",
+    "lastSeenTime": "12:54:10 PM",
+    "onlineDurationMins": 9.521616666666667
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1635857985525,
+    "lastSeen": 1635857985525
+  }
+}
