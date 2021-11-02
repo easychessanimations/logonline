@@ -1,0 +1,26 @@
+{
+  "mynewestbot@lichess": {
+    "id": "mynewestbot",
+    "provider": "lichess",
+    "username": "mynewestbot",
+    "firstSeen": 1635839131987,
+    "lastSeen": 1635865824152,
+    "firstSeenTime": "7:45:31 AM",
+    "lastSeenTime": "2:20:24 PM",
+    "onlineDurationMins": 394.86828333333335
+  },
+  "iosibot@lichess": {
+    "id": "iosibot",
+    "provider": "lichess",
+    "username": "iosiBOT",
+    "firstSeen": 1635865572377,
+    "lastSeen": 1635865844331
+  },
+  "federationofplanets@lichess": {
+    "id": "federationofplanets",
+    "provider": "lichess",
+    "username": "FederationOfPlanets",
+    "firstSeen": 1635865864536,
+    "lastSeen": 1635865864536
+  }
+}
