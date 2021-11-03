@@ -1,0 +1,19 @@
+{
+  "iosibot@lichess": {
+    "id": "iosibot",
+    "provider": "lichess",
+    "username": "iosiBOT",
+    "firstSeen": 1635951587896,
+    "lastSeen": 1635953704670,
+    "firstSeenTime": "2:59:47 PM",
+    "lastSeenTime": "3:29:24 PM",
+    "onlineDurationMins": 29.60575
+  },
+  "chekp@lichess": {
+    "id": "chekp",
+    "provider": "lichess",
+    "username": "chekp",
+    "firstSeen": 1635953603260,
+    "lastSeen": 1635954545241
+  }
+}
