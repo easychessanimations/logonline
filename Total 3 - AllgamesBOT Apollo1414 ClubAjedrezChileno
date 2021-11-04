@@ -1,0 +1,32 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1636011261715,
+    "lastSeen": 1636030818802,
+    "firstSeenTime": "7:34:21 AM",
+    "lastSeenTime": "12:58:18 PM",
+    "onlineDurationMins": 323.95211666666665
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1636029972902,
+    "lastSeen": 1636030506791,
+    "firstSeenTime": "12:46:12 PM",
+    "lastSeenTime": "12:55:06 PM",
+    "onlineDurationMins": 8.89815
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1636030202717,
+    "lastSeen": 1636031049023,
+    "firstSeenTime": "12:50:02 PM",
+    "lastSeenTime": "12:56:49 PM",
+    "onlineDurationMins": 6.784833333333333
+  }
+}
