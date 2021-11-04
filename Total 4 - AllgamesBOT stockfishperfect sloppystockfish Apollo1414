@@ -1,0 +1,33 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1636011261715,
+    "lastSeen": 1636029378613,
+    "firstSeenTime": "7:34:21 AM",
+    "lastSeenTime": "11:45:18 AM",
+    "onlineDurationMins": 250.95433333333332
+  },
+  "stockfishperfect@lichess": {
+    "id": "stockfishperfect",
+    "provider": "lichess",
+    "username": "stockfishperfect",
+    "firstSeen": 1636029374001,
+    "lastSeen": 1636029387488
+  },
+  "sloppystockfish@lichess": {
+    "id": "sloppystockfish",
+    "provider": "lichess",
+    "username": "sloppystockfish",
+    "firstSeen": 1636029387965,
+    "lastSeen": 1636029481845
+  },
+  "apollo1414@lichess": {
+    "id": "apollo1414",
+    "provider": "lichess",
+    "username": "Apollo1414",
+    "firstSeen": 1636029972902,
+    "lastSeen": 1636029972902
+  }
+}
