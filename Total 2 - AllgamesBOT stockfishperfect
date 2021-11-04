@@ -1,0 +1,19 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1636011261715,
+    "lastSeen": 1636016538921,
+    "firstSeenTime": "7:34:21 AM",
+    "lastSeenTime": "8:07:18 AM",
+    "onlineDurationMins": 32.952616666666664
+  },
+  "stockfishperfect@lichess": {
+    "id": "stockfishperfect",
+    "provider": "lichess",
+    "username": "stockfishperfect",
+    "firstSeen": 1636016829768,
+    "lastSeen": 1636016829769
+  }
+}
