@@ -1,0 +1,19 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1636011261715,
+    "lastSeen": 1636023318895,
+    "firstSeenTime": "7:34:21 AM",
+    "lastSeenTime": "9:47:22 AM",
+    "onlineDurationMins": 133.00961666666666
+  },
+  "superdragonchess@lichess": {
+    "id": "superdragonchess",
+    "provider": "lichess",
+    "username": "SUPERDRAGONCHESS",
+    "firstSeen": 1636023724597,
+    "lastSeen": 1636023724597
+  }
+}
