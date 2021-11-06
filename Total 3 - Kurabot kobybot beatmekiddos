@@ -1,0 +1,23 @@
+{
+  "kurabot@lichess": {
+    "id": "kurabot",
+    "provider": "lichess",
+    "username": "Kurabot",
+    "firstSeen": 1636204587892,
+    "lastSeen": 1636205003869
+  },
+  "kobybot@lichess": {
+    "id": "kobybot",
+    "provider": "lichess",
+    "username": "kobybot",
+    "firstSeen": 1636205040602,
+    "lastSeen": 1636205437486
+  },
+  "beatmekiddos@lichess": {
+    "id": "beatmekiddos",
+    "provider": "lichess",
+    "username": "beatmekiddos",
+    "firstSeen": 1636205145707,
+    "lastSeen": 1636205156747
+  }
+}
