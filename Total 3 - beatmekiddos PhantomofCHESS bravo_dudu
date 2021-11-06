@@ -1,0 +1,26 @@
+{
+  "beatmekiddos@lichess": {
+    "id": "beatmekiddos",
+    "provider": "lichess",
+    "username": "beatmekiddos",
+    "firstSeen": 1636197866874,
+    "lastSeen": 1636199992909,
+    "firstSeenTime": "11:24:26 AM",
+    "lastSeenTime": "11:38:27 AM",
+    "onlineDurationMins": 14.0169
+  },
+  "phantomofchess@lichess": {
+    "id": "phantomofchess",
+    "provider": "lichess",
+    "username": "PhantomofCHESS",
+    "firstSeen": 1636199477423,
+    "lastSeen": 1636200135418
+  },
+  "bravo_dudu@lichess": {
+    "id": "bravo_dudu",
+    "provider": "lichess",
+    "username": "bravo_dudu",
+    "firstSeen": 1636199486426,
+    "lastSeen": 1636200314156
+  }
+}
