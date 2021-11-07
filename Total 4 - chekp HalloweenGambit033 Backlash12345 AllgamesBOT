@@ -1,0 +1,39 @@
+{
+  "chekp@lichess": {
+    "id": "chekp",
+    "provider": "lichess",
+    "username": "chekp",
+    "firstSeen": 1636283315584,
+    "lastSeen": 1636291717719,
+    "firstSeenTime": "11:08:35 AM",
+    "lastSeenTime": "1:17:34 PM",
+    "onlineDurationMins": 128.98368333333335
+  },
+  "halloweengambit033@lichess": {
+    "id": "halloweengambit033",
+    "provider": "lichess",
+    "username": "HalloweenGambit033",
+    "firstSeen": 1636291265368,
+    "lastSeen": 1636291697302,
+    "firstSeenTime": "1:21:05 PM",
+    "lastSeenTime": "1:27:07 PM",
+    "onlineDurationMins": 6.03895
+  },
+  "backlash12345@lichess": {
+    "id": "backlash12345",
+    "provider": "lichess",
+    "username": "Backlash12345",
+    "firstSeen": 1636291575370,
+    "lastSeen": 1636291681498,
+    "firstSeenTime": "1:26:15 PM",
+    "lastSeenTime": "1:27:17 PM",
+    "onlineDurationMins": 1.0348333333333333
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1636291741646,
+    "lastSeen": 1636291741646
+  }
+}
