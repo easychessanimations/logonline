@@ -1,0 +1,69 @@
+{
+  "botgameplayy@lichess": {
+    "id": "botgameplayy",
+    "provider": "lichess",
+    "username": "BotGamePlayy",
+    "firstSeen": 1636292279112,
+    "lastSeen": 1636303751667,
+    "firstSeenTime": "1:37:59 PM",
+    "lastSeenTime": "4:49:11 PM",
+    "onlineDurationMins": 191.20925
+  },
+  "chekp@lichess": {
+    "id": "chekp",
+    "provider": "lichess",
+    "username": "chekp",
+    "firstSeen": 1636298192095,
+    "lastSeen": 1636303715540,
+    "firstSeenTime": "3:16:32 PM",
+    "lastSeenTime": "4:48:35 PM",
+    "onlineDurationMins": 92.05741666666667
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1636301200604,
+    "lastSeen": 1636303918179,
+    "firstSeenTime": "4:06:40 PM",
+    "lastSeenTime": "4:51:58 PM",
+    "onlineDurationMins": 45.29291666666666
+  },
+  "real_mikhail_tal@lichess": {
+    "id": "real_mikhail_tal",
+    "provider": "lichess",
+    "username": "real_Mikhail_Tal",
+    "firstSeen": 1636303067943,
+    "lastSeen": 1636303955713,
+    "firstSeenTime": "4:37:47 PM",
+    "lastSeenTime": "4:52:35 PM",
+    "onlineDurationMins": 14.796166666666666
+  },
+  "iplayonlyrandom@lichess": {
+    "id": "iplayonlyrandom",
+    "provider": "lichess",
+    "username": "iplayonlyrandom",
+    "firstSeen": 1636303723714,
+    "lastSeen": 1636303959096,
+    "firstSeenTime": "4:48:43 PM",
+    "lastSeenTime": "4:52:39 PM",
+    "onlineDurationMins": 3.923033333333333
+  },
+  "thebotcheetah@lichess": {
+    "id": "thebotcheetah",
+    "provider": "lichess",
+    "username": "TheBOTCheetah",
+    "firstSeen": 1636303857241,
+    "lastSeen": 1636303965004,
+    "firstSeenTime": "4:50:57 PM",
+    "lastSeenTime": "4:51:20 PM",
+    "onlineDurationMins": 0.3833666666666667
+  },
+  "theonlybotcheetah@lichess": {
+    "id": "theonlybotcheetah",
+    "provider": "lichess",
+    "username": "TheOnlyBOTCheetah",
+    "firstSeen": 1636303970912,
+    "lastSeen": 1636303970912
+  }
+}
