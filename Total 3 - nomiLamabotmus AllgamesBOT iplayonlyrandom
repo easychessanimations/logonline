@@ -1,0 +1,26 @@
+{
+  "nomilamabotmus@lichess": {
+    "id": "nomilamabotmus",
+    "provider": "lichess",
+    "username": "nomiLamabotmus",
+    "firstSeen": 1636311137593,
+    "lastSeen": 1636312291255,
+    "firstSeenTime": "6:52:17 PM",
+    "lastSeenTime": "6:52:17 PM",
+    "onlineDurationMins": 0
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1636311238270,
+    "lastSeen": 1636311901564
+  },
+  "iplayonlyrandom@lichess": {
+    "id": "iplayonlyrandom",
+    "provider": "lichess",
+    "username": "iplayonlyrandom",
+    "firstSeen": 1636311607319,
+    "lastSeen": 1636311619845
+  }
+}
