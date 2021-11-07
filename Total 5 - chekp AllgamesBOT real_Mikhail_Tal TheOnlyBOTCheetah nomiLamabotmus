@@ -1,0 +1,49 @@
+{
+  "chekp@lichess": {
+    "id": "chekp",
+    "provider": "lichess",
+    "username": "chekp",
+    "firstSeen": 1636298192095,
+    "lastSeen": 1636308455823,
+    "firstSeenTime": "3:16:32 PM",
+    "lastSeenTime": "5:22:55 PM",
+    "onlineDurationMins": 126.38468333333333
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1636301200604,
+    "lastSeen": 1636307938178,
+    "firstSeenTime": "4:06:40 PM",
+    "lastSeenTime": "5:25:58 PM",
+    "onlineDurationMins": 79.29311666666666
+  },
+  "real_mikhail_tal@lichess": {
+    "id": "real_mikhail_tal",
+    "provider": "lichess",
+    "username": "real_Mikhail_Tal",
+    "firstSeen": 1636303067943,
+    "lastSeen": 1636308364756,
+    "firstSeenTime": "4:37:47 PM",
+    "lastSeenTime": "5:30:52 PM",
+    "onlineDurationMins": 53.07608333333334
+  },
+  "theonlybotcheetah@lichess": {
+    "id": "theonlybotcheetah",
+    "provider": "lichess",
+    "username": "TheOnlyBOTCheetah",
+    "firstSeen": 1636303970912,
+    "lastSeen": 1636308193211,
+    "firstSeenTime": "4:52:50 PM",
+    "lastSeenTime": "5:27:41 PM",
+    "onlineDurationMins": 34.8395
+  },
+  "nomilamabotmus@lichess": {
+    "id": "nomilamabotmus",
+    "provider": "lichess",
+    "username": "nomiLamabotmus",
+    "firstSeen": 1636308457741,
+    "lastSeen": 1636308457741
+  }
+}
