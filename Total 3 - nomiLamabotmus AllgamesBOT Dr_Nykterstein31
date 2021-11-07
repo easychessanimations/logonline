@@ -1,0 +1,29 @@
+{
+  "nomilamabotmus@lichess": {
+    "id": "nomilamabotmus",
+    "provider": "lichess",
+    "username": "nomiLamabotmus",
+    "firstSeen": 1636311137593,
+    "lastSeen": 1636313129514,
+    "firstSeenTime": "6:52:17 PM",
+    "lastSeenTime": "7:20:55 PM",
+    "onlineDurationMins": 28.625033333333334
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1636311238270,
+    "lastSeen": 1636313221615,
+    "firstSeenTime": "6:53:58 PM",
+    "lastSeenTime": "7:15:58 PM",
+    "onlineDurationMins": 21.999
+  },
+  "dr_nykterstein31@lichess": {
+    "id": "dr_nykterstein31",
+    "provider": "lichess",
+    "username": "Dr_Nykterstein31",
+    "firstSeen": 1636313237317,
+    "lastSeen": 1636313237317
+  }
+}
