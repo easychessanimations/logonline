@@ -1,0 +1,16 @@
+{
+  "kobybot@lichess": {
+    "id": "kobybot",
+    "provider": "lichess",
+    "username": "KobyBot",
+    "firstSeen": 1636271801145,
+    "lastSeen": 1636273313340
+  },
+  "blitzz_bot@lichess": {
+    "id": "blitzz_bot",
+    "provider": "lichess",
+    "username": "blitzz_bot",
+    "firstSeen": 1636272395871,
+    "lastSeen": 1636273150922
+  }
+}
