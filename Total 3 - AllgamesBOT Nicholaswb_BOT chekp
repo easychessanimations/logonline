@@ -1,0 +1,26 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1636385489469,
+    "lastSeen": 1636390194448,
+    "firstSeenTime": "3:31:29 PM",
+    "lastSeenTime": "4:27:54 PM",
+    "onlineDurationMins": 56.41786666666667
+  },
+  "nicholaswb_bot@lichess": {
+    "id": "nicholaswb_bot",
+    "provider": "lichess",
+    "username": "Nicholaswb_BOT",
+    "firstSeen": 1636389500112,
+    "lastSeen": 1636390450611
+  },
+  "chekp@lichess": {
+    "id": "chekp",
+    "provider": "lichess",
+    "username": "chekp",
+    "firstSeen": 1636390486768,
+    "lastSeen": 1636390486768
+  }
+}
