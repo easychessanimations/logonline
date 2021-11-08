@@ -1,0 +1,23 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1636385489469,
+    "lastSeen": 1636386439538
+  },
+  "twistb_official@lichess": {
+    "id": "twistb_official",
+    "provider": "lichess",
+    "username": "twistb_official",
+    "firstSeen": 1636386408134,
+    "lastSeen": 1636386419111
+  },
+  "nomilamabotmus@lichess": {
+    "id": "nomilamabotmus",
+    "provider": "lichess",
+    "username": "nomiLamabotmus",
+    "firstSeen": 1636386601403,
+    "lastSeen": 1636386601403
+  }
+}
