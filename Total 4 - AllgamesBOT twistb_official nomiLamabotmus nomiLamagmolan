@@ -1,0 +1,39 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1636385489469,
+    "lastSeen": 1636386991452,
+    "firstSeenTime": "3:31:29 PM",
+    "lastSeenTime": "3:53:57 PM",
+    "onlineDurationMins": 22.472483333333333
+  },
+  "twistb_official@lichess": {
+    "id": "twistb_official",
+    "provider": "lichess",
+    "username": "twistb_official",
+    "firstSeen": 1636386408134,
+    "lastSeen": 1636386419111,
+    "firstSeenTime": "3:46:48 PM",
+    "lastSeenTime": "3:46:59 PM",
+    "onlineDurationMins": 0.18295
+  },
+  "nomilamabotmus@lichess": {
+    "id": "nomilamabotmus",
+    "provider": "lichess",
+    "username": "nomiLamabotmus",
+    "firstSeen": 1636386601403,
+    "lastSeen": 1636387031954,
+    "firstSeenTime": "3:50:01 PM",
+    "lastSeenTime": "3:52:37 PM",
+    "onlineDurationMins": 2.607
+  },
+  "nomilamagmolan@lichess": {
+    "id": "nomilamagmolan",
+    "provider": "lichess",
+    "username": "nomiLamagmolan",
+    "firstSeen": 1636387032237,
+    "lastSeen": 1636387032237
+  }
+}
