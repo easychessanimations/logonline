@@ -1,0 +1,42 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1636447098655,
+    "lastSeen": 1636451872936,
+    "firstSeenTime": "8:38:18 AM",
+    "lastSeenTime": "9:43:56 AM",
+    "onlineDurationMins": 65.62568333333333
+  },
+  "youneverbeatme@lichess": {
+    "id": "youneverbeatme",
+    "provider": "lichess",
+    "username": "YOUNEVERBEATME",
+    "firstSeen": 1636449650933,
+    "lastSeen": 1636451746011,
+    "firstSeenTime": "9:20:50 AM",
+    "lastSeenTime": "9:48:29 AM",
+    "onlineDurationMins": 27.649733333333334
+  },
+  "robert1544bot@lichess": {
+    "id": "robert1544bot",
+    "provider": "lichess",
+    "username": "robert1544bot",
+    "firstSeen": 1636450798943,
+    "lastSeen": 1636451674738,
+    "firstSeenTime": "9:39:58 AM",
+    "lastSeenTime": "9:40:02 AM",
+    "onlineDurationMins": 0.05895
+  },
+  "sanjul_201o-3@lichess": {
+    "id": "sanjul_201o-3",
+    "provider": "lichess",
+    "username": "Sanjul_201O-3",
+    "firstSeen": 1636451366660,
+    "lastSeen": 1636452027164,
+    "firstSeenTime": "9:49:26 AM",
+    "lastSeenTime": "9:49:27 AM",
+    "onlineDurationMins": 0.01721666666666667
+  }
+}
