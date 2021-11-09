@@ -1,0 +1,43 @@
+{
+  "nicholaswb_bot@lichess": {
+    "id": "nicholaswb_bot",
+    "provider": "lichess",
+    "username": "Nicholaswb_BOT",
+    "firstSeen": 1636408130902,
+    "lastSeen": 1636433915025,
+    "firstSeenTime": "9:48:50 PM",
+    "lastSeenTime": "4:14:35 AM",
+    "onlineDurationMins": 385.73515
+  },
+  "robert1544bot@lichess": {
+    "id": "robert1544bot",
+    "provider": "lichess",
+    "username": "robert1544bot",
+    "firstSeen": 1636427883613,
+    "lastSeen": 1636433910623,
+    "firstSeenTime": "3:18:03 AM",
+    "lastSeenTime": "4:14:30 AM",
+    "onlineDurationMins": 56.45158333333333
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1636432234471,
+    "lastSeen": 1636433906904
+  },
+  "lord_of-death@lichess": {
+    "id": "lord_of-death",
+    "provider": "lichess",
+    "username": "Lord_Of-Death",
+    "firstSeen": 1636433141309,
+    "lastSeen": 1636433917116
+  },
+  "youneverbeatme@lichess": {
+    "id": "youneverbeatme",
+    "provider": "lichess",
+    "username": "YOUNEVERBEATME",
+    "firstSeen": 1636434128110,
+    "lastSeen": 1636434128110
+  }
+}
