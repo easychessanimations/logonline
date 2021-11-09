@@ -1,0 +1,29 @@
+{
+  "the_super_master88@lichess": {
+    "id": "the_super_master88",
+    "provider": "lichess",
+    "username": "the_super_master88",
+    "firstSeen": 1636454375754,
+    "lastSeen": 1636461128141,
+    "firstSeenTime": "10:39:35 AM",
+    "lastSeenTime": "11:33:27 AM",
+    "onlineDurationMins": 53.867016666666665
+  },
+  "maheswars_team@lichess": {
+    "id": "maheswars_team",
+    "provider": "lichess",
+    "username": "Maheswars_Team",
+    "firstSeen": 1636455341119,
+    "lastSeen": 1636461296107,
+    "firstSeenTime": "10:55:41 AM",
+    "lastSeenTime": "11:33:52 AM",
+    "onlineDurationMins": 38.19055
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1636461023200,
+    "lastSeen": 1636461520502
+  }
+}
