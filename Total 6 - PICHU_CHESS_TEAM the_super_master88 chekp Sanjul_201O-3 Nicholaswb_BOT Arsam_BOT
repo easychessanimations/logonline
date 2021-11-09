@@ -1,0 +1,44 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1636432234471,
+    "lastSeen": 1636445962055
+  },
+  "the_super_master88@lichess": {
+    "id": "the_super_master88",
+    "provider": "lichess",
+    "username": "the_super_master88",
+    "firstSeen": 1636438992236,
+    "lastSeen": 1636446171635
+  },
+  "chekp@lichess": {
+    "id": "chekp",
+    "provider": "lichess",
+    "username": "chekp",
+    "firstSeen": 1636443303165,
+    "lastSeen": 1636445843826
+  },
+  "sanjul_201o-3@lichess": {
+    "id": "sanjul_201o-3",
+    "provider": "lichess",
+    "username": "Sanjul_201O-3",
+    "firstSeen": 1636444315795,
+    "lastSeen": 1636445846982
+  },
+  "nicholaswb_bot@lichess": {
+    "id": "nicholaswb_bot",
+    "provider": "lichess",
+    "username": "Nicholaswb_BOT",
+    "firstSeen": 1636445195188,
+    "lastSeen": 1636445855120
+  },
+  "arsam_bot@lichess": {
+    "id": "arsam_bot",
+    "provider": "lichess",
+    "username": "Arsam_BOT",
+    "firstSeen": 1636445348297,
+    "lastSeen": 1636445359434
+  }
+}
