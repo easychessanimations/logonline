@@ -1,0 +1,36 @@
+{
+  "chekp@lichess": {
+    "id": "chekp",
+    "provider": "lichess",
+    "username": "chekp",
+    "firstSeen": 1636475588032,
+    "lastSeen": 1636482015700,
+    "firstSeenTime": "4:33:08 PM",
+    "lastSeenTime": "5:36:37 PM",
+    "onlineDurationMins": 63.49795
+  },
+  "botgameplayy@lichess": {
+    "id": "botgameplayy",
+    "provider": "lichess",
+    "username": "BotGamePlayy",
+    "firstSeen": 1636475624721,
+    "lastSeen": 1636482038250,
+    "firstSeenTime": "4:33:44 PM",
+    "lastSeenTime": "5:32:08 PM",
+    "onlineDurationMins": 58.4012
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1636481846734,
+    "lastSeen": 1636482271233
+  },
+  "dexis_bot@lichess": {
+    "id": "dexis_bot",
+    "provider": "lichess",
+    "username": "DEXIS_BOT",
+    "firstSeen": 1636481921425,
+    "lastSeen": 1636482018270
+  }
+}
