@@ -1,0 +1,49 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1636452948296,
+    "lastSeen": 1636458178521,
+    "firstSeenTime": "10:15:48 AM",
+    "lastSeenTime": "11:32:17 AM",
+    "onlineDurationMins": 76.49488333333333
+  },
+  "youneverbeatme@lichess": {
+    "id": "youneverbeatme",
+    "provider": "lichess",
+    "username": "YOUNEVERBEATME",
+    "firstSeen": 1636453122347,
+    "lastSeen": 1636458407897,
+    "firstSeenTime": "10:18:42 AM",
+    "lastSeenTime": "11:29:51 AM",
+    "onlineDurationMins": 71.15393333333333
+  },
+  "the_super_master88@lichess": {
+    "id": "the_super_master88",
+    "provider": "lichess",
+    "username": "the_super_master88",
+    "firstSeen": 1636454375754,
+    "lastSeen": 1636458064328,
+    "firstSeenTime": "10:39:35 AM",
+    "lastSeenTime": "11:33:27 AM",
+    "onlineDurationMins": 53.867016666666665
+  },
+  "maheswars_team@lichess": {
+    "id": "maheswars_team",
+    "provider": "lichess",
+    "username": "Maheswars_Team",
+    "firstSeen": 1636455341119,
+    "lastSeen": 1636458415341,
+    "firstSeenTime": "10:55:41 AM",
+    "lastSeenTime": "11:33:52 AM",
+    "onlineDurationMins": 38.19055
+  },
+  "sanjul_201o-3@lichess": {
+    "id": "sanjul_201o-3",
+    "provider": "lichess",
+    "username": "Sanjul_201O-3",
+    "firstSeen": 1636458436781,
+    "lastSeen": 1636458436781
+  }
+}
