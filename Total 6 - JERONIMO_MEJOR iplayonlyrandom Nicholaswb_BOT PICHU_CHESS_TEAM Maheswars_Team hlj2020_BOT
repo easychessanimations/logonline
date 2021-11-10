@@ -1,0 +1,59 @@
+{
+  "jeronimo_mejor@lichess": {
+    "id": "jeronimo_mejor",
+    "provider": "lichess",
+    "username": "JERONIMO_MEJOR",
+    "firstSeen": 1636545581655,
+    "lastSeen": 1636560147208,
+    "firstSeenTime": "11:59:41 AM",
+    "lastSeenTime": "4:00:40 PM",
+    "onlineDurationMins": 240.98061666666666
+  },
+  "iplayonlyrandom@lichess": {
+    "id": "iplayonlyrandom",
+    "provider": "lichess",
+    "username": "iplayonlyrandom",
+    "firstSeen": 1636557906714,
+    "lastSeen": 1636559885963,
+    "firstSeenTime": "3:25:06 PM",
+    "lastSeenTime": "3:58:05 PM",
+    "onlineDurationMins": 32.98748333333333
+  },
+  "nicholaswb_bot@lichess": {
+    "id": "nicholaswb_bot",
+    "provider": "lichess",
+    "username": "Nicholaswb_BOT",
+    "firstSeen": 1636558769937,
+    "lastSeen": 1636560272192,
+    "firstSeenTime": "3:39:29 PM",
+    "lastSeenTime": "3:58:44 PM",
+    "onlineDurationMins": 19.23945
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1636559741052,
+    "lastSeen": 1636559763933,
+    "firstSeenTime": "3:55:41 PM",
+    "lastSeenTime": "3:56:03 PM",
+    "onlineDurationMins": 0.38135
+  },
+  "maheswars_team@lichess": {
+    "id": "maheswars_team",
+    "provider": "lichess",
+    "username": "Maheswars_Team",
+    "firstSeen": 1636559773621,
+    "lastSeen": 1636560004348,
+    "firstSeenTime": "3:56:13 PM",
+    "lastSeenTime": "4:00:04 PM",
+    "onlineDurationMins": 3.84545
+  },
+  "hlj2020_bot@lichess": {
+    "id": "hlj2020_bot",
+    "provider": "lichess",
+    "username": "hlj2020_BOT",
+    "firstSeen": 1636560313185,
+    "lastSeen": 1636560313185
+  }
+}
