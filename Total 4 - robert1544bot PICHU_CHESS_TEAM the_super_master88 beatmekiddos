@@ -1,0 +1,39 @@
+{
+  "robert1544bot@lichess": {
+    "id": "robert1544bot",
+    "provider": "lichess",
+    "username": "robert1544bot",
+    "firstSeen": 1636514562235,
+    "lastSeen": 1636527143918,
+    "firstSeenTime": "3:22:42 AM",
+    "lastSeenTime": "6:30:24 AM",
+    "onlineDurationMins": 187.69843333333333
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1636514720406,
+    "lastSeen": 1636526741131,
+    "firstSeenTime": "3:25:20 AM",
+    "lastSeenTime": "6:25:20 AM",
+    "onlineDurationMins": 180.00056666666666
+  },
+  "the_super_master88@lichess": {
+    "id": "the_super_master88",
+    "provider": "lichess",
+    "username": "the_super_master88",
+    "firstSeen": 1636522669463,
+    "lastSeen": 1636526473505,
+    "firstSeenTime": "5:37:49 AM",
+    "lastSeenTime": "6:32:54 AM",
+    "onlineDurationMins": 55.091
+  },
+  "beatmekiddos@lichess": {
+    "id": "beatmekiddos",
+    "provider": "lichess",
+    "username": "beatmekiddos",
+    "firstSeen": 1636527211280,
+    "lastSeen": 1636527211280
+  }
+}
