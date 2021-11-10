@@ -1,0 +1,37 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1636538473650,
+    "lastSeen": 1636545465434
+  },
+  "maheswars_team@lichess": {
+    "id": "maheswars_team",
+    "provider": "lichess",
+    "username": "Maheswars_Team",
+    "firstSeen": 1636538998276,
+    "lastSeen": 1636545171849
+  },
+  "youneverbeatme@lichess": {
+    "id": "youneverbeatme",
+    "provider": "lichess",
+    "username": "YOUNEVERBEATME",
+    "firstSeen": 1636544150821,
+    "lastSeen": 1636545440829
+  },
+  "jeronimo_mejor@lichess": {
+    "id": "jeronimo_mejor",
+    "provider": "lichess",
+    "username": "JERONIMO_MEJOR",
+    "firstSeen": 1636545581655,
+    "lastSeen": 1636545592570
+  },
+  "jo_thedragonmaster@lichess": {
+    "id": "jo_thedragonmaster",
+    "provider": "lichess",
+    "username": "jo_thedragonmaster",
+    "firstSeen": 1636545635157,
+    "lastSeen": 1636545635157
+  }
+}
