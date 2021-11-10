@@ -1,0 +1,39 @@
+{
+  "jeronimo_mejor@lichess": {
+    "id": "jeronimo_mejor",
+    "provider": "lichess",
+    "username": "JERONIMO_MEJOR",
+    "firstSeen": 1636545581655,
+    "lastSeen": 1636582073497,
+    "firstSeenTime": "11:59:41 AM",
+    "lastSeenTime": "10:07:53 PM",
+    "onlineDurationMins": 608.1973666666667
+  },
+  "robert1544@lichess": {
+    "id": "robert1544",
+    "provider": "lichess",
+    "username": "Robert1544",
+    "firstSeen": 1636581345073,
+    "lastSeen": 1636581371145,
+    "firstSeenTime": "9:55:45 PM",
+    "lastSeenTime": "9:56:11 PM",
+    "onlineDurationMins": 0.4345333333333333
+  },
+  "robert1544bot@lichess": {
+    "id": "robert1544bot",
+    "provider": "lichess",
+    "username": "robert1544bot",
+    "firstSeen": 1636581371717,
+    "lastSeen": 1636582035386,
+    "firstSeenTime": "9:56:11 PM",
+    "lastSeenTime": "10:07:15 PM",
+    "onlineDurationMins": 11.06115
+  },
+  "nicholaswb_bot@lichess": {
+    "id": "nicholaswb_bot",
+    "provider": "lichess",
+    "username": "Nicholaswb_BOT",
+    "firstSeen": 1636582208502,
+    "lastSeen": 1636582208502
+  }
+}
