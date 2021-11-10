@@ -4,27 +4,39 @@
     "provider": "lichess",
     "username": "PICHU_CHESS_TEAM",
     "firstSeen": 1636538473650,
-    "lastSeen": 1636545465434
+    "lastSeen": 1636546361872,
+    "firstSeenTime": "10:01:13 AM",
+    "lastSeenTime": "12:12:41 PM",
+    "onlineDurationMins": 131.47036666666668
   },
   "maheswars_team@lichess": {
     "id": "maheswars_team",
     "provider": "lichess",
     "username": "Maheswars_Team",
     "firstSeen": 1636538998276,
-    "lastSeen": 1636545171849
+    "lastSeen": 1636546466052,
+    "firstSeenTime": "10:09:58 AM",
+    "lastSeenTime": "12:14:26 PM",
+    "onlineDurationMins": 124.46293333333334
   },
   "youneverbeatme@lichess": {
     "id": "youneverbeatme",
     "provider": "lichess",
     "username": "YOUNEVERBEATME",
     "firstSeen": 1636544150821,
-    "lastSeen": 1636545440829
+    "lastSeen": 1636546334994,
+    "firstSeenTime": "11:35:50 AM",
+    "lastSeenTime": "12:12:14 PM",
+    "onlineDurationMins": 36.402883333333335
   },
   "jeronimo_mejor@lichess": {
     "id": "jeronimo_mejor",
     "provider": "lichess",
     "username": "JERONIMO_MEJOR",
     "firstSeen": 1636545581655,
-    "lastSeen": 1636545581655
+    "lastSeen": 1636546589393,
+    "firstSeenTime": "11:59:41 AM",
+    "lastSeenTime": "12:14:10 PM",
+    "onlineDurationMins": 14.476733333333334
   }
 }
