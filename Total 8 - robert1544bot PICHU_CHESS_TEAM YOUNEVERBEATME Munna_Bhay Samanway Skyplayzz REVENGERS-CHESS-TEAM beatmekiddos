@@ -1,0 +1,79 @@
+{
+  "robert1544bot@lichess": {
+    "id": "robert1544bot",
+    "provider": "lichess",
+    "username": "robert1544bot",
+    "firstSeen": 1636514562235,
+    "lastSeen": 1636530141784,
+    "firstSeenTime": "3:22:42 AM",
+    "lastSeenTime": "7:42:21 AM",
+    "onlineDurationMins": 259.65915
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1636514720406,
+    "lastSeen": 1636530333658,
+    "firstSeenTime": "3:25:20 AM",
+    "lastSeenTime": "7:45:33 AM",
+    "onlineDurationMins": 260.22086666666667
+  },
+  "youneverbeatme@lichess": {
+    "id": "youneverbeatme",
+    "provider": "lichess",
+    "username": "YOUNEVERBEATME",
+    "firstSeen": 1636527831227,
+    "lastSeen": 1636530478177,
+    "firstSeenTime": "7:03:51 AM",
+    "lastSeenTime": "7:46:57 AM",
+    "onlineDurationMins": 43.096833333333336
+  },
+  "munna_bhay@lichess": {
+    "id": "munna_bhay",
+    "provider": "lichess",
+    "username": "Munna_Bhay",
+    "firstSeen": 1636529712648,
+    "lastSeen": 1636529739409,
+    "firstSeenTime": "7:35:12 AM",
+    "lastSeenTime": "7:35:39 AM",
+    "onlineDurationMins": 0.4460166666666667
+  },
+  "samanway@lichess": {
+    "id": "samanway",
+    "provider": "lichess",
+    "username": "Samanway",
+    "firstSeen": 1636529935692,
+    "lastSeen": 1636530173342,
+    "firstSeenTime": "7:38:55 AM",
+    "lastSeenTime": "7:42:53 AM",
+    "onlineDurationMins": 3.9608333333333334
+  },
+  "skyplayzz@lichess": {
+    "id": "skyplayzz",
+    "provider": "lichess",
+    "username": "Skyplayzz",
+    "firstSeen": 1636530196946,
+    "lastSeen": 1636530242088,
+    "firstSeenTime": "7:43:16 AM",
+    "lastSeenTime": "7:44:02 AM",
+    "onlineDurationMins": 0.7523666666666666
+  },
+  "revengers-chess-team@lichess": {
+    "id": "revengers-chess-team",
+    "provider": "lichess",
+    "username": "REVENGERS-CHESS-TEAM",
+    "firstSeen": 1636530305082,
+    "lastSeen": 1636530358744,
+    "firstSeenTime": "7:45:05 AM",
+    "lastSeenTime": "7:45:58 AM",
+    "onlineDurationMins": 0.8943666666666666
+  },
+  "beatmekiddos@lichess": {
+    "id": "beatmekiddos",
+    "provider": "lichess",
+    "username": "beatmekiddos",
+    "firstSeen": 1636530515738,
+    "lastSeen": 1636530515738
+  }
+}
