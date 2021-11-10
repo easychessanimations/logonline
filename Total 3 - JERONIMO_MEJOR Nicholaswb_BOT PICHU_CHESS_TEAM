@@ -1,0 +1,32 @@
+{
+  "jeronimo_mejor@lichess": {
+    "id": "jeronimo_mejor",
+    "provider": "lichess",
+    "username": "JERONIMO_MEJOR",
+    "firstSeen": 1636545581655,
+    "lastSeen": 1636562279265,
+    "firstSeenTime": "11:59:41 AM",
+    "lastSeenTime": "4:09:55 PM",
+    "onlineDurationMins": 250.23471666666666
+  },
+  "nicholaswb_bot@lichess": {
+    "id": "nicholaswb_bot",
+    "provider": "lichess",
+    "username": "Nicholaswb_BOT",
+    "firstSeen": 1636558769937,
+    "lastSeen": 1636561402651,
+    "firstSeenTime": "3:39:29 PM",
+    "lastSeenTime": "4:12:19 PM",
+    "onlineDurationMins": 32.82201666666667
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1636559741052,
+    "lastSeen": 1636561845110,
+    "firstSeenTime": "3:55:41 PM",
+    "lastSeenTime": "4:08:45 PM",
+    "onlineDurationMins": 13.067566666666666
+  }
+}
