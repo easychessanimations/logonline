@@ -1,0 +1,62 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1636616382223,
+    "lastSeen": 1636642741706,
+    "firstSeenTime": "7:39:42 AM",
+    "lastSeenTime": "2:59:01 PM",
+    "onlineDurationMins": 439.3247166666667
+  },
+  "chessfreak2122@lichess": {
+    "id": "chessfreak2122",
+    "provider": "lichess",
+    "username": "ChessFreak2122",
+    "firstSeen": 1636641183981,
+    "lastSeen": 1636642686749,
+    "firstSeenTime": "2:33:03 PM",
+    "lastSeenTime": "2:58:06 PM",
+    "onlineDurationMins": 25.046133333333334
+  },
+  "aarambhwagh@lichess": {
+    "id": "aarambhwagh",
+    "provider": "lichess",
+    "username": "Aarambhwagh",
+    "firstSeen": 1636641410607,
+    "lastSeen": 1636642663950,
+    "firstSeenTime": "2:36:50 PM",
+    "lastSeenTime": "2:57:43 PM",
+    "onlineDurationMins": 20.88905
+  },
+  "kingkong12345678@lichess": {
+    "id": "kingkong12345678",
+    "provider": "lichess",
+    "username": "Kingkong12345678",
+    "firstSeen": 1636641637707,
+    "lastSeen": 1636643522061,
+    "firstSeenTime": "2:40:37 PM",
+    "lastSeenTime": "3:11:33 PM",
+    "onlineDurationMins": 30.924416666666666
+  },
+  "jeronimo_mejor@lichess": {
+    "id": "jeronimo_mejor",
+    "provider": "lichess",
+    "username": "JERONIMO_MEJOR",
+    "firstSeen": 1636642298439,
+    "lastSeen": 1636643386011,
+    "firstSeenTime": "2:51:38 PM",
+    "lastSeenTime": "3:09:46 PM",
+    "onlineDurationMins": 18.1262
+  },
+  "aarambh_wagh@lichess": {
+    "id": "aarambh_wagh",
+    "provider": "lichess",
+    "username": "Aarambh_Wagh",
+    "firstSeen": 1636642681125,
+    "lastSeen": 1636642694337,
+    "firstSeenTime": "2:58:01 PM",
+    "lastSeenTime": "2:58:14 PM",
+    "onlineDurationMins": 0.2202
+  }
+}
