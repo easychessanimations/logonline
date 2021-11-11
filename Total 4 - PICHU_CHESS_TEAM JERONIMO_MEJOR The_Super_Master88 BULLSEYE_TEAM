@@ -1,0 +1,42 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1636616382223,
+    "lastSeen": 1636634333142,
+    "firstSeenTime": "7:39:42 AM",
+    "lastSeenTime": "12:20:45 PM",
+    "onlineDurationMins": 281.0521166666667
+  },
+  "jeronimo_mejor@lichess": {
+    "id": "jeronimo_mejor",
+    "provider": "lichess",
+    "username": "JERONIMO_MEJOR",
+    "firstSeen": 1636631857132,
+    "lastSeen": 1636634616361,
+    "firstSeenTime": "11:57:37 AM",
+    "lastSeenTime": "12:20:19 PM",
+    "onlineDurationMins": 22.711916666666667
+  },
+  "the_super_master88@lichess": {
+    "id": "the_super_master88",
+    "provider": "lichess",
+    "username": "The_Super_Master88",
+    "firstSeen": 1636632256580,
+    "lastSeen": 1636634518371,
+    "firstSeenTime": "12:04:16 PM",
+    "lastSeenTime": "12:18:26 PM",
+    "onlineDurationMins": 14.158766666666667
+  },
+  "bullseye_team@lichess": {
+    "id": "bullseye_team",
+    "provider": "lichess",
+    "username": "BULLSEYE_TEAM",
+    "firstSeen": 1636633071741,
+    "lastSeen": 1636634700879,
+    "firstSeenTime": "12:17:51 PM",
+    "lastSeenTime": "12:23:59 PM",
+    "onlineDurationMins": 6.125666666666667
+  }
+}
