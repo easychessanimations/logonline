@@ -1,0 +1,42 @@
+{
+  "passionate_bot@lichess": {
+    "id": "passionate_bot",
+    "provider": "lichess",
+    "username": "passionate_bot",
+    "firstSeen": 1636734992739,
+    "lastSeen": 1636737995262,
+    "firstSeenTime": "4:36:32 PM",
+    "lastSeenTime": "5:26:35 PM",
+    "onlineDurationMins": 50.04205
+  },
+  "dexis_bot@lichess": {
+    "id": "dexis_bot",
+    "provider": "lichess",
+    "username": "DEXIS_BOT",
+    "firstSeen": 1636736226954,
+    "lastSeen": 1636737654391,
+    "firstSeenTime": "4:57:06 PM",
+    "lastSeenTime": "5:20:54 PM",
+    "onlineDurationMins": 23.790616666666665
+  },
+  "nicholaswb_bot@lichess": {
+    "id": "nicholaswb_bot",
+    "provider": "lichess",
+    "username": "Nicholaswb_BOT",
+    "firstSeen": 1636736755139,
+    "lastSeen": 1636737412994,
+    "firstSeenTime": "5:05:55 PM",
+    "lastSeenTime": "5:16:52 PM",
+    "onlineDurationMins": 10.96425
+  },
+  "orhanberatbektas6565@lichess": {
+    "id": "orhanberatbektas6565",
+    "provider": "lichess",
+    "username": "orhanberatbektas6565",
+    "firstSeen": 1636737971271,
+    "lastSeen": 1636738117910,
+    "firstSeenTime": "5:26:11 PM",
+    "lastSeenTime": "5:28:13 PM",
+    "onlineDurationMins": 2.0302333333333333
+  }
+}
