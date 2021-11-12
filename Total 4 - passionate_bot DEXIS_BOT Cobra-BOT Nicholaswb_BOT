@@ -1,0 +1,33 @@
+{
+  "passionate_bot@lichess": {
+    "id": "passionate_bot",
+    "provider": "lichess",
+    "username": "passionate_bot",
+    "firstSeen": 1636734992739,
+    "lastSeen": 1636737639262,
+    "firstSeenTime": "4:36:32 PM",
+    "lastSeenTime": "4:47:43 PM",
+    "onlineDurationMins": 11.17235
+  },
+  "dexis_bot@lichess": {
+    "id": "dexis_bot",
+    "provider": "lichess",
+    "username": "DEXIS_BOT",
+    "firstSeen": 1636736226954,
+    "lastSeen": 1636737511731
+  },
+  "cobra-bot@lichess": {
+    "id": "cobra-bot",
+    "provider": "lichess",
+    "username": "Cobra-BOT",
+    "firstSeen": 1636736626148,
+    "lastSeen": 1636737214512
+  },
+  "nicholaswb_bot@lichess": {
+    "id": "nicholaswb_bot",
+    "provider": "lichess",
+    "username": "Nicholaswb_BOT",
+    "firstSeen": 1636736755139,
+    "lastSeen": 1636737412994
+  }
+}
