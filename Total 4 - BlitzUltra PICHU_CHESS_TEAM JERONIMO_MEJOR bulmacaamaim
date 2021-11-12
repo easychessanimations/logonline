@@ -1,0 +1,36 @@
+{
+  "blitzultra@lichess": {
+    "id": "blitzultra",
+    "provider": "lichess",
+    "username": "BlitzUltra",
+    "firstSeen": 1636711855280,
+    "lastSeen": 1636725260287,
+    "firstSeenTime": "10:10:55 AM",
+    "lastSeenTime": "12:19:16 PM",
+    "onlineDurationMins": 128.35445
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1636719844389,
+    "lastSeen": 1636725893149,
+    "firstSeenTime": "12:24:04 PM",
+    "lastSeenTime": "12:24:04 PM",
+    "onlineDurationMins": 0.0001
+  },
+  "jeronimo_mejor@lichess": {
+    "id": "jeronimo_mejor",
+    "provider": "lichess",
+    "username": "JERONIMO_MEJOR",
+    "firstSeen": 1636724530813,
+    "lastSeen": 1636725782649
+  },
+  "bulmacaamaim@lichess": {
+    "id": "bulmacaamaim",
+    "provider": "lichess",
+    "username": "bulmacaamaim",
+    "firstSeen": 1636725918710,
+    "lastSeen": 1636725918710
+  }
+}
