@@ -1,0 +1,49 @@
+{
+  "passionate_bot@lichess": {
+    "id": "passionate_bot",
+    "provider": "lichess",
+    "username": "passionate_bot",
+    "firstSeen": 1636734992739,
+    "lastSeen": 1636737642758,
+    "firstSeenTime": "4:36:32 PM",
+    "lastSeenTime": "5:20:42 PM",
+    "onlineDurationMins": 44.166983333333334
+  },
+  "dexis_bot@lichess": {
+    "id": "dexis_bot",
+    "provider": "lichess",
+    "username": "DEXIS_BOT",
+    "firstSeen": 1636736226954,
+    "lastSeen": 1636737654391,
+    "firstSeenTime": "4:57:06 PM",
+    "lastSeenTime": "5:20:54 PM",
+    "onlineDurationMins": 23.790616666666665
+  },
+  "cobra-bot@lichess": {
+    "id": "cobra-bot",
+    "provider": "lichess",
+    "username": "Cobra-BOT",
+    "firstSeen": 1636736626148,
+    "lastSeen": 1636737214512,
+    "firstSeenTime": "5:03:46 PM",
+    "lastSeenTime": "5:13:34 PM",
+    "onlineDurationMins": 9.806066666666666
+  },
+  "nicholaswb_bot@lichess": {
+    "id": "nicholaswb_bot",
+    "provider": "lichess",
+    "username": "Nicholaswb_BOT",
+    "firstSeen": 1636736755139,
+    "lastSeen": 1636737412994,
+    "firstSeenTime": "5:05:55 PM",
+    "lastSeenTime": "5:16:52 PM",
+    "onlineDurationMins": 10.96425
+  },
+  "orhanberatbektas6565@lichess": {
+    "id": "orhanberatbektas6565",
+    "provider": "lichess",
+    "username": "orhanberatbektas6565",
+    "firstSeen": 1636737971271,
+    "lastSeen": 1636737971271
+  }
+}
