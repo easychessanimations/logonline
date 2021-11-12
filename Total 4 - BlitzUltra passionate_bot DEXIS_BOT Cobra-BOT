@@ -1,0 +1,36 @@
+{
+  "blitzultra@lichess": {
+    "id": "blitzultra",
+    "provider": "lichess",
+    "username": "BlitzUltra",
+    "firstSeen": 1636732661905,
+    "lastSeen": 1636735966885,
+    "firstSeenTime": "3:57:41 PM",
+    "lastSeenTime": "4:51:01 PM",
+    "onlineDurationMins": 53.33415
+  },
+  "passionate_bot@lichess": {
+    "id": "passionate_bot",
+    "provider": "lichess",
+    "username": "passionate_bot",
+    "firstSeen": 1636734992739,
+    "lastSeen": 1636736495278,
+    "firstSeenTime": "4:36:32 PM",
+    "lastSeenTime": "4:47:43 PM",
+    "onlineDurationMins": 11.17235
+  },
+  "dexis_bot@lichess": {
+    "id": "dexis_bot",
+    "provider": "lichess",
+    "username": "DEXIS_BOT",
+    "firstSeen": 1636736226954,
+    "lastSeen": 1636736236691
+  },
+  "cobra-bot@lichess": {
+    "id": "cobra-bot",
+    "provider": "lichess",
+    "username": "Cobra-BOT",
+    "firstSeen": 1636736626148,
+    "lastSeen": 1636736626148
+  }
+}
