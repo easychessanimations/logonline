@@ -1,0 +1,23 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1636686527587,
+    "lastSeen": 1636695307052
+  },
+  "robert1544bot@lichess": {
+    "id": "robert1544bot",
+    "provider": "lichess",
+    "username": "robert1544bot",
+    "firstSeen": 1636691870896,
+    "lastSeen": 1636695417581
+  },
+  "skyplayzz@lichess": {
+    "id": "skyplayzz",
+    "provider": "lichess",
+    "username": "Skyplayzz",
+    "firstSeen": 1636695880282,
+    "lastSeen": 1636695880282
+  }
+}
