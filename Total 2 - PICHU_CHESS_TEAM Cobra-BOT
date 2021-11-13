@@ -1,0 +1,19 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1636781438843,
+    "lastSeen": 1636792072579,
+    "firstSeenTime": "5:30:38 AM",
+    "lastSeenTime": "8:27:52 AM",
+    "onlineDurationMins": 177.22893333333334
+  },
+  "cobra-bot@lichess": {
+    "id": "cobra-bot",
+    "provider": "lichess",
+    "username": "Cobra-BOT",
+    "firstSeen": 1636792406931,
+    "lastSeen": 1636792406931
+  }
+}
