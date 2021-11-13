@@ -1,0 +1,32 @@
+{
+  "ax2xb2@lichess": {
+    "id": "ax2xb2",
+    "provider": "lichess",
+    "username": "AX2XB2",
+    "firstSeen": 1636818279451,
+    "lastSeen": 1636820985021,
+    "firstSeenTime": "3:44:39 PM",
+    "lastSeenTime": "4:17:12 PM",
+    "onlineDurationMins": 32.558483333333335
+  },
+  "qqv@lichess": {
+    "id": "qqv",
+    "provider": "lichess",
+    "username": "qqv",
+    "firstSeen": 1636820078170,
+    "lastSeen": 1636820087897,
+    "firstSeenTime": "4:14:38 PM",
+    "lastSeenTime": "4:14:47 PM",
+    "onlineDurationMins": 0.16211666666666666
+  },
+  "agentbro@lichess": {
+    "id": "agentbro",
+    "provider": "lichess",
+    "username": "AgentBro",
+    "firstSeen": 1636820196101,
+    "lastSeen": 1636820206189,
+    "firstSeenTime": "4:16:36 PM",
+    "lastSeenTime": "4:16:46 PM",
+    "onlineDurationMins": 0.16813333333333333
+  }
+}
