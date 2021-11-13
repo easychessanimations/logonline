@@ -1,0 +1,23 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1636781438843,
+    "lastSeen": 1636784514646
+  },
+  "player_nlm@lichess": {
+    "id": "player_nlm",
+    "provider": "lichess",
+    "username": "Player_NLM",
+    "firstSeen": 1636784518119,
+    "lastSeen": 1636784523648
+  },
+  "atomic_fans@lichess": {
+    "id": "atomic_fans",
+    "provider": "lichess",
+    "username": "atomic_fans",
+    "firstSeen": 1636784524179,
+    "lastSeen": 1636784524180
+  }
+}
