@@ -1,0 +1,26 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1636805733574,
+    "lastSeen": 1636816615527,
+    "firstSeenTime": "12:15:33 PM",
+    "lastSeenTime": "2:53:55 PM",
+    "onlineDurationMins": 158.36805
+  },
+  "cobra-bot@lichess": {
+    "id": "cobra-bot",
+    "provider": "lichess",
+    "username": "Cobra-BOT",
+    "firstSeen": 1636816341677,
+    "lastSeen": 1636816736371
+  },
+  "issekai12345@lichess": {
+    "id": "issekai12345",
+    "provider": "lichess",
+    "username": "ISSEKAI12345",
+    "firstSeen": 1636816611137,
+    "lastSeen": 1636816613399
+  }
+}
