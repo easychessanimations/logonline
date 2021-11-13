@@ -1,0 +1,29 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1636805733574,
+    "lastSeen": 1636811872073,
+    "firstSeenTime": "12:15:33 PM",
+    "lastSeenTime": "12:48:55 PM",
+    "onlineDurationMins": 33.368966666666665
+  },
+  "thechessgame123@lichess": {
+    "id": "thechessgame123",
+    "provider": "lichess",
+    "username": "thechessgame123",
+    "firstSeen": 1636807314865,
+    "lastSeen": 1636811489235,
+    "firstSeenTime": "12:41:54 PM",
+    "lastSeenTime": "12:53:51 PM",
+    "onlineDurationMins": 11.951583333333334
+  },
+  "dilushana_2009@lichess": {
+    "id": "dilushana_2009",
+    "provider": "lichess",
+    "username": "Dilushana_2009",
+    "firstSeen": 1636811148007,
+    "lastSeen": 1636811168282
+  }
+}
