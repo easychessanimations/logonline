@@ -1,0 +1,30 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1636869712207,
+    "lastSeen": 1636871695704
+  },
+  "highratedbot@lichess": {
+    "id": "highratedbot",
+    "provider": "lichess",
+    "username": "hIGHRATEDBOT",
+    "firstSeen": 1636870902021,
+    "lastSeen": 1636872129426
+  },
+  "ax2xb2@lichess": {
+    "id": "ax2xb2",
+    "provider": "lichess",
+    "username": "AX2XB2",
+    "firstSeen": 1636870982502,
+    "lastSeen": 1636872180104
+  },
+  "iranian-champions@lichess": {
+    "id": "iranian-champions",
+    "provider": "lichess",
+    "username": "iranian-champions",
+    "firstSeen": 1636871430561,
+    "lastSeen": 1636871513667
+  }
+}
