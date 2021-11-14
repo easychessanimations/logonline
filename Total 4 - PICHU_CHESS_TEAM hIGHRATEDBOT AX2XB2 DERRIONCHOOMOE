@@ -1,0 +1,30 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1636869712207,
+    "lastSeen": 1636871032124
+  },
+  "highratedbot@lichess": {
+    "id": "highratedbot",
+    "provider": "lichess",
+    "username": "hIGHRATEDBOT",
+    "firstSeen": 1636870902021,
+    "lastSeen": 1636870907274
+  },
+  "ax2xb2@lichess": {
+    "id": "ax2xb2",
+    "provider": "lichess",
+    "username": "AX2XB2",
+    "firstSeen": 1636870982502,
+    "lastSeen": 1636871004599
+  },
+  "derrionchoomoe@lichess": {
+    "id": "derrionchoomoe",
+    "provider": "lichess",
+    "username": "DERRIONCHOOMOE",
+    "firstSeen": 1636871061956,
+    "lastSeen": 1636871061956
+  }
+}
