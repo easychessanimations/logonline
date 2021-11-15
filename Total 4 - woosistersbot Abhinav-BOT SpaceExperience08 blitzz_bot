@@ -1,0 +1,39 @@
+{
+  "woosistersbot@lichess": {
+    "id": "woosistersbot",
+    "provider": "lichess",
+    "username": "woosistersbot",
+    "firstSeen": 1636980523018,
+    "lastSeen": 1636994118467,
+    "firstSeenTime": "12:48:43 PM",
+    "lastSeenTime": "4:30:17 PM",
+    "onlineDurationMins": 221.58061666666666
+  },
+  "abhinav-bot@lichess": {
+    "id": "abhinav-bot",
+    "provider": "lichess",
+    "username": "Abhinav-BOT",
+    "firstSeen": 1636991351631,
+    "lastSeen": 1636994333621,
+    "firstSeenTime": "3:49:11 PM",
+    "lastSeenTime": "4:31:16 PM",
+    "onlineDurationMins": 42.0864
+  },
+  "spaceexperience08@lichess": {
+    "id": "spaceexperience08",
+    "provider": "lichess",
+    "username": "SpaceExperience08",
+    "firstSeen": 1636993815403,
+    "lastSeen": 1636993893838,
+    "firstSeenTime": "4:30:15 PM",
+    "lastSeenTime": "4:31:33 PM",
+    "onlineDurationMins": 1.30725
+  },
+  "blitzz_bot@lichess": {
+    "id": "blitzz_bot",
+    "provider": "lichess",
+    "username": "blitzz_bot",
+    "firstSeen": 1636994008426,
+    "lastSeen": 1636994162965
+  }
+}
