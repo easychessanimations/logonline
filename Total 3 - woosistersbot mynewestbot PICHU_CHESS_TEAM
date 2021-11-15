@@ -1,0 +1,26 @@
+{
+  "woosistersbot@lichess": {
+    "id": "woosistersbot",
+    "provider": "lichess",
+    "username": "woosistersbot",
+    "firstSeen": 1636980523018,
+    "lastSeen": 1636997720013,
+    "firstSeenTime": "12:48:43 PM",
+    "lastSeenTime": "4:59:31 PM",
+    "onlineDurationMins": 250.80738333333332
+  },
+  "mynewestbot@lichess": {
+    "id": "mynewestbot",
+    "provider": "lichess",
+    "username": "mynewestbot",
+    "firstSeen": 1636996853693,
+    "lastSeen": 1636997475110
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1636997967302,
+    "lastSeen": 1636997967302
+  }
+}
