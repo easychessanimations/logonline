@@ -1,0 +1,19 @@
+{
+  "woosistersbot@lichess": {
+    "id": "woosistersbot",
+    "provider": "lichess",
+    "username": "woosistersbot",
+    "firstSeen": 1636980523018,
+    "lastSeen": 1637000975892,
+    "firstSeenTime": "12:48:43 PM",
+    "lastSeenTime": "5:49:23 PM",
+    "onlineDurationMins": 300.67046666666664
+  },
+  "cobra-bot@lichess": {
+    "id": "cobra-bot",
+    "provider": "lichess",
+    "username": "Cobra-BOT",
+    "firstSeen": 1637001182267,
+    "lastSeen": 1637001649122
+  }
+}
