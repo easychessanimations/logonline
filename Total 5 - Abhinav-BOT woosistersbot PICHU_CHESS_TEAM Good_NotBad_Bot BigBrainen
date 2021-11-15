@@ -1,0 +1,46 @@
+{
+  "abhinav-bot@lichess": {
+    "id": "abhinav-bot",
+    "provider": "lichess",
+    "username": "Abhinav-BOT",
+    "firstSeen": 1636979001897,
+    "lastSeen": 1636988474238,
+    "firstSeenTime": "12:23:21 PM",
+    "lastSeenTime": "2:08:16 PM",
+    "onlineDurationMins": 104.91395
+  },
+  "woosistersbot@lichess": {
+    "id": "woosistersbot",
+    "provider": "lichess",
+    "username": "woosistersbot",
+    "firstSeen": 1636980523018,
+    "lastSeen": 1636988293699,
+    "firstSeenTime": "12:48:43 PM",
+    "lastSeenTime": "2:06:56 PM",
+    "onlineDurationMins": 78.22423333333333
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1636985015646,
+    "lastSeen": 1636988392468,
+    "firstSeenTime": "2:03:35 PM",
+    "lastSeenTime": "2:03:35 PM",
+    "onlineDurationMins": 0.002183333333333333
+  },
+  "good_notbad_bot@lichess": {
+    "id": "good_notbad_bot",
+    "provider": "lichess",
+    "username": "Good_NotBad_Bot",
+    "firstSeen": 1636987533618,
+    "lastSeen": 1636988115965
+  },
+  "bigbrainen@lichess": {
+    "id": "bigbrainen",
+    "provider": "lichess",
+    "username": "BigBrainen",
+    "firstSeen": 1636988481380,
+    "lastSeen": 1636988481380
+  }
+}
