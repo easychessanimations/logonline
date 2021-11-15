@@ -1,0 +1,46 @@
+{
+  "abhinav-bot@lichess": {
+    "id": "abhinav-bot",
+    "provider": "lichess",
+    "username": "Abhinav-BOT",
+    "firstSeen": 1636979001897,
+    "lastSeen": 1636983966038,
+    "firstSeenTime": "12:23:21 PM",
+    "lastSeenTime": "12:56:34 PM",
+    "onlineDurationMins": 33.2145
+  },
+  "abhinavkrishnas2022@lichess": {
+    "id": "abhinavkrishnas2022",
+    "provider": "lichess",
+    "username": "AbhinavKrishnas2022",
+    "firstSeen": 1636979972863,
+    "lastSeen": 1636983949192,
+    "firstSeenTime": "12:39:32 PM",
+    "lastSeenTime": "1:04:46 PM",
+    "onlineDurationMins": 25.219566666666665
+  },
+  "woosistersbot@lichess": {
+    "id": "woosistersbot",
+    "provider": "lichess",
+    "username": "woosistersbot",
+    "firstSeen": 1636980523018,
+    "lastSeen": 1636983610518,
+    "firstSeenTime": "12:48:43 PM",
+    "lastSeenTime": "1:02:45 PM",
+    "onlineDurationMins": 14.035516666666666
+  },
+  "cool-pro-bot@lichess": {
+    "id": "cool-pro-bot",
+    "provider": "lichess",
+    "username": "Cool-Pro-Bot",
+    "firstSeen": 1636981860139,
+    "lastSeen": 1636983839087
+  },
+  "slbot@lichess": {
+    "id": "slbot",
+    "provider": "lichess",
+    "username": "Slbot",
+    "firstSeen": 1636983670207,
+    "lastSeen": 1636983949091
+  }
+}
