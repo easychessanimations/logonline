@@ -1,0 +1,37 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1636964072582,
+    "lastSeen": 1636968832161
+  },
+  "slbot@lichess": {
+    "id": "slbot",
+    "provider": "lichess",
+    "username": "Slbot",
+    "firstSeen": 1636964309885,
+    "lastSeen": 1636968825640
+  },
+  "ax2xb2@lichess": {
+    "id": "ax2xb2",
+    "provider": "lichess",
+    "username": "AX2XB2",
+    "firstSeen": 1636968480705,
+    "lastSeen": 1636969199198
+  },
+  "carokannwastebyshaun@lichess": {
+    "id": "carokannwastebyshaun",
+    "provider": "lichess",
+    "username": "carokannwastebyshaun",
+    "firstSeen": 1636968592643,
+    "lastSeen": 1636968623334
+  },
+  "jonamama@lichess": {
+    "id": "jonamama",
+    "provider": "lichess",
+    "username": "Jonamama",
+    "firstSeen": 1636968895452,
+    "lastSeen": 1636969371966
+  }
+}
