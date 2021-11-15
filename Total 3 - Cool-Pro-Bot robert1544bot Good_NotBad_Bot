@@ -1,0 +1,23 @@
+{
+  "cool-pro-bot@lichess": {
+    "id": "cool-pro-bot",
+    "provider": "lichess",
+    "username": "Cool-Pro-Bot",
+    "firstSeen": 1636951586665,
+    "lastSeen": 1636954988570
+  },
+  "robert1544bot@lichess": {
+    "id": "robert1544bot",
+    "provider": "lichess",
+    "username": "robert1544bot",
+    "firstSeen": 1636954632072,
+    "lastSeen": 1636955311413
+  },
+  "good_notbad_bot@lichess": {
+    "id": "good_notbad_bot",
+    "provider": "lichess",
+    "username": "Good_NotBad_Bot",
+    "firstSeen": 1636955375016,
+    "lastSeen": 1636955375016
+  }
+}
