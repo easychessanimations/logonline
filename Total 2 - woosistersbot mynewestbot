@@ -1,0 +1,19 @@
+{
+  "woosistersbot@lichess": {
+    "id": "woosistersbot",
+    "provider": "lichess",
+    "username": "woosistersbot",
+    "firstSeen": 1636980523018,
+    "lastSeen": 1636996804903,
+    "firstSeenTime": "12:48:43 PM",
+    "lastSeenTime": "4:59:31 PM",
+    "onlineDurationMins": 250.80738333333332
+  },
+  "mynewestbot@lichess": {
+    "id": "mynewestbot",
+    "provider": "lichess",
+    "username": "mynewestbot",
+    "firstSeen": 1636996853693,
+    "lastSeen": 1636996894508
+  }
+}
