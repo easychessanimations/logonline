@@ -1,0 +1,52 @@
+{
+  "abhinav-bot@lichess": {
+    "id": "abhinav-bot",
+    "provider": "lichess",
+    "username": "Abhinav-BOT",
+    "firstSeen": 1636979001897,
+    "lastSeen": 1636986068433,
+    "firstSeenTime": "12:23:21 PM",
+    "lastSeenTime": "2:08:16 PM",
+    "onlineDurationMins": 104.91395
+  },
+  "abhinavkrishnas2022@lichess": {
+    "id": "abhinavkrishnas2022",
+    "provider": "lichess",
+    "username": "AbhinavKrishnas2022",
+    "firstSeen": 1636979972863,
+    "lastSeen": 1636985810554,
+    "firstSeenTime": "12:39:32 PM",
+    "lastSeenTime": "2:07:24 PM",
+    "onlineDurationMins": 87.86766666666666
+  },
+  "woosistersbot@lichess": {
+    "id": "woosistersbot",
+    "provider": "lichess",
+    "username": "woosistersbot",
+    "firstSeen": 1636980523018,
+    "lastSeen": 1636985987551,
+    "firstSeenTime": "12:48:43 PM",
+    "lastSeenTime": "2:06:56 PM",
+    "onlineDurationMins": 78.22423333333333
+  },
+  "slbot@lichess": {
+    "id": "slbot",
+    "provider": "lichess",
+    "username": "Slbot",
+    "firstSeen": 1636983670207,
+    "lastSeen": 1636985965390,
+    "firstSeenTime": "1:41:10 PM",
+    "lastSeenTime": "2:06:25 PM",
+    "onlineDurationMins": 25.24745
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1636985015646,
+    "lastSeen": 1636985696114,
+    "firstSeenTime": "2:03:35 PM",
+    "lastSeenTime": "2:03:35 PM",
+    "onlineDurationMins": 0.002183333333333333
+  }
+}
