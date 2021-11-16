@@ -1,0 +1,16 @@
+{
+  "grf-bot@lichess": {
+    "id": "grf-bot",
+    "provider": "lichess",
+    "username": "GRF-BOT",
+    "firstSeen": 1637026368178,
+    "lastSeen": 1637027027678
+  },
+  "ytgbot@lichess": {
+    "id": "ytgbot",
+    "provider": "lichess",
+    "username": "YTGBot",
+    "firstSeen": 1637027644850,
+    "lastSeen": 1637027644850
+  }
+}
