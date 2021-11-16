@@ -1,0 +1,33 @@
+{
+  "maheswars_team@lichess": {
+    "id": "maheswars_team",
+    "provider": "lichess",
+    "username": "Maheswars_Team",
+    "firstSeen": 1637051551190,
+    "lastSeen": 1637055895789,
+    "firstSeenTime": "8:32:31 AM",
+    "lastSeenTime": "8:49:03 AM",
+    "onlineDurationMins": 16.5323
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1637053459953,
+    "lastSeen": 1637055531986
+  },
+  "woosistersbot@lichess": {
+    "id": "woosistersbot",
+    "provider": "lichess",
+    "username": "woosistersbot",
+    "firstSeen": 1637054010993,
+    "lastSeen": 1637055648278
+  },
+  "abhinav-bot@lichess": {
+    "id": "abhinav-bot",
+    "provider": "lichess",
+    "username": "Abhinav-BOT",
+    "firstSeen": 1637054219092,
+    "lastSeen": 1637055722894
+  }
+}
