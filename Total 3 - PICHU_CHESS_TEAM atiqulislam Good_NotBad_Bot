@@ -1,0 +1,32 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1637069984123,
+    "lastSeen": 1637077314872,
+    "firstSeenTime": "1:39:44 PM",
+    "lastSeenTime": "3:41:54 PM",
+    "onlineDurationMins": 122.17915
+  },
+  "atiqulislam@lichess": {
+    "id": "atiqulislam",
+    "provider": "lichess",
+    "username": "atiqulislam",
+    "firstSeen": 1637074079914,
+    "lastSeen": 1637077545495,
+    "firstSeenTime": "2:47:59 PM",
+    "lastSeenTime": "3:38:05 PM",
+    "onlineDurationMins": 50.08768333333333
+  },
+  "good_notbad_bot@lichess": {
+    "id": "good_notbad_bot",
+    "provider": "lichess",
+    "username": "Good_NotBad_Bot",
+    "firstSeen": 1637074147305,
+    "lastSeen": 1637077997829,
+    "firstSeenTime": "2:49:07 PM",
+    "lastSeenTime": "3:38:00 PM",
+    "onlineDurationMins": 48.887883333333335
+  }
+}
