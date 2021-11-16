@@ -4,23 +4,26 @@
     "provider": "lichess",
     "username": "PICHU_CHESS_TEAM",
     "firstSeen": 1637053459953,
-    "lastSeen": 1637063035719,
+    "lastSeen": 1637065795564,
     "firstSeenTime": "9:04:19 AM",
-    "lastSeenTime": "11:02:09 AM",
-    "onlineDurationMins": 117.81753333333333
+    "lastSeenTime": "12:07:55 PM",
+    "onlineDurationMins": 183.58885
   },
   "abhinav-bot@lichess": {
     "id": "abhinav-bot",
     "provider": "lichess",
     "username": "Abhinav-BOT",
     "firstSeen": 1637062278495,
-    "lastSeen": 1637063030936
+    "lastSeen": 1637066580610,
+    "firstSeenTime": "11:31:18 AM",
+    "lastSeenTime": "12:07:42 PM",
+    "onlineDurationMins": 36.39683333333333
   },
   "slbot@lichess": {
     "id": "slbot",
     "provider": "lichess",
     "username": "Slbot",
-    "firstSeen": 1637063111885,
-    "lastSeen": 1637063111885
+    "firstSeen": 1637066648292,
+    "lastSeen": 1637066648292
   }
 }
