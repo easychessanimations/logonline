@@ -1,0 +1,37 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1637035645968,
+    "lastSeen": 1637046355032
+  },
+  "slbot@lichess": {
+    "id": "slbot",
+    "provider": "lichess",
+    "username": "Slbot",
+    "firstSeen": 1637040872315,
+    "lastSeen": 1637046373227
+  },
+  "abhinav-bot@lichess": {
+    "id": "abhinav-bot",
+    "provider": "lichess",
+    "username": "Abhinav-BOT",
+    "firstSeen": 1637044957106,
+    "lastSeen": 1637046717750
+  },
+  "passionate_bot@lichess": {
+    "id": "passionate_bot",
+    "provider": "lichess",
+    "username": "passionate_bot",
+    "firstSeen": 1637045514847,
+    "lastSeen": 1637046151214
+  },
+  "good_notbad_bot@lichess": {
+    "id": "good_notbad_bot",
+    "provider": "lichess",
+    "username": "Good_NotBad_Bot",
+    "firstSeen": 1637046718718,
+    "lastSeen": 1637046718718
+  }
+}
