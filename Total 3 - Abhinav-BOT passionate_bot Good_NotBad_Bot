@@ -1,0 +1,29 @@
+{
+  "abhinav-bot@lichess": {
+    "id": "abhinav-bot",
+    "provider": "lichess",
+    "username": "Abhinav-BOT",
+    "firstSeen": 1637117843140,
+    "lastSeen": 1637120708133,
+    "firstSeenTime": "2:57:23 AM",
+    "lastSeenTime": "3:34:57 AM",
+    "onlineDurationMins": 37.57118333333333
+  },
+  "passionate_bot@lichess": {
+    "id": "passionate_bot",
+    "provider": "lichess",
+    "username": "passionate_bot",
+    "firstSeen": 1637118055398,
+    "lastSeen": 1637120716277,
+    "firstSeenTime": "3:00:55 AM",
+    "lastSeenTime": "3:34:27 AM",
+    "onlineDurationMins": 33.5304
+  },
+  "good_notbad_bot@lichess": {
+    "id": "good_notbad_bot",
+    "provider": "lichess",
+    "username": "Good_NotBad_Bot",
+    "firstSeen": 1637120816938,
+    "lastSeen": 1637120816938
+  }
+}
