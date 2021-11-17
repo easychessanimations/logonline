@@ -1,0 +1,56 @@
+{
+  "ladyabot@lichess": {
+    "id": "ladyabot",
+    "provider": "lichess",
+    "username": "LadyaBOT",
+    "firstSeen": 1637155480090,
+    "lastSeen": 1637161964192,
+    "firstSeenTime": "1:24:40 PM",
+    "lastSeenTime": "2:50:40 PM",
+    "onlineDurationMins": 86.01235
+  },
+  "revengers-chess-team@lichess": {
+    "id": "revengers-chess-team",
+    "provider": "lichess",
+    "username": "REVENGERS-CHESS-TEAM",
+    "firstSeen": 1637160161450,
+    "lastSeen": 1637161887268,
+    "firstSeenTime": "2:42:41 PM",
+    "lastSeenTime": "2:50:59 PM",
+    "onlineDurationMins": 8.29335
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1637160263380,
+    "lastSeen": 1637161784919,
+    "firstSeenTime": "2:44:23 PM",
+    "lastSeenTime": "2:45:04 PM",
+    "onlineDurationMins": 0.67795
+  },
+  "chess_is_lifes_team@lichess": {
+    "id": "chess_is_lifes_team",
+    "provider": "lichess",
+    "username": "chess_is_lifes_team",
+    "firstSeen": 1637160654046,
+    "lastSeen": 1637161932683,
+    "firstSeenTime": "2:50:54 PM",
+    "lastSeenTime": "2:51:06 PM",
+    "onlineDurationMins": 0.19986666666666666
+  },
+  "atomicworldchampion@lichess": {
+    "id": "atomicworldchampion",
+    "provider": "lichess",
+    "username": "AtomicWorldChampion",
+    "firstSeen": 1637161705345,
+    "lastSeen": 1637161946013
+  },
+  "ax2xb2@lichess": {
+    "id": "ax2xb2",
+    "provider": "lichess",
+    "username": "AX2XB2",
+    "firstSeen": 1637162009522,
+    "lastSeen": 1637162009522
+  }
+}
