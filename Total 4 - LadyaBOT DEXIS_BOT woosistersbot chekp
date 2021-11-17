@@ -1,0 +1,42 @@
+{
+  "ladyabot@lichess": {
+    "id": "ladyabot",
+    "provider": "lichess",
+    "username": "LadyaBOT",
+    "firstSeen": 1637155480090,
+    "lastSeen": 1637169944191,
+    "firstSeenTime": "1:24:40 PM",
+    "lastSeenTime": "5:14:40 PM",
+    "onlineDurationMins": 230.0115
+  },
+  "dexis_bot@lichess": {
+    "id": "dexis_bot",
+    "provider": "lichess",
+    "username": "DEXIS_BOT",
+    "firstSeen": 1637162238457,
+    "lastSeen": 1637169548260,
+    "firstSeenTime": "3:17:18 PM",
+    "lastSeenTime": "5:19:08 PM",
+    "onlineDurationMins": 121.83005
+  },
+  "woosistersbot@lichess": {
+    "id": "woosistersbot",
+    "provider": "lichess",
+    "username": "woosistersbot",
+    "firstSeen": 1637168146132,
+    "lastSeen": 1637169648166,
+    "firstSeenTime": "4:55:46 PM",
+    "lastSeenTime": "5:20:48 PM",
+    "onlineDurationMins": 25.0339
+  },
+  "chekp@lichess": {
+    "id": "chekp",
+    "provider": "lichess",
+    "username": "chekp",
+    "firstSeen": 1637168906722,
+    "lastSeen": 1637170029827,
+    "firstSeenTime": "5:08:26 PM",
+    "lastSeenTime": "5:19:22 PM",
+    "onlineDurationMins": 10.928066666666666
+  }
+}
