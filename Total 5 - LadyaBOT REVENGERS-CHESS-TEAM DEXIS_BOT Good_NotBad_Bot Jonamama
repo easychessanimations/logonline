@@ -1,0 +1,49 @@
+{
+  "ladyabot@lichess": {
+    "id": "ladyabot",
+    "provider": "lichess",
+    "username": "LadyaBOT",
+    "firstSeen": 1637155480090,
+    "lastSeen": 1637167305297,
+    "firstSeenTime": "1:24:40 PM",
+    "lastSeenTime": "4:41:45 PM",
+    "onlineDurationMins": 197.08678333333333
+  },
+  "revengers-chess-team@lichess": {
+    "id": "revengers-chess-team",
+    "provider": "lichess",
+    "username": "REVENGERS-CHESS-TEAM",
+    "firstSeen": 1637160161450,
+    "lastSeen": 1637167009269,
+    "firstSeenTime": "2:42:41 PM",
+    "lastSeenTime": "4:36:49 PM",
+    "onlineDurationMins": 114.13031666666667
+  },
+  "dexis_bot@lichess": {
+    "id": "dexis_bot",
+    "provider": "lichess",
+    "username": "DEXIS_BOT",
+    "firstSeen": 1637162238457,
+    "lastSeen": 1637167507968,
+    "firstSeenTime": "3:17:18 PM",
+    "lastSeenTime": "4:42:20 PM",
+    "onlineDurationMins": 85.02658333333333
+  },
+  "good_notbad_bot@lichess": {
+    "id": "good_notbad_bot",
+    "provider": "lichess",
+    "username": "Good_NotBad_Bot",
+    "firstSeen": 1637166853974,
+    "lastSeen": 1637167531103,
+    "firstSeenTime": "4:34:13 PM",
+    "lastSeenTime": "4:41:21 PM",
+    "onlineDurationMins": 7.117933333333333
+  },
+  "jonamama@lichess": {
+    "id": "jonamama",
+    "provider": "lichess",
+    "username": "Jonamama",
+    "firstSeen": 1637167544030,
+    "lastSeen": 1637167544030
+  }
+}
