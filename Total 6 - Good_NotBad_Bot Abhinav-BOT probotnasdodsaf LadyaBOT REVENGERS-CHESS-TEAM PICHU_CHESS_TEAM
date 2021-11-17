@@ -1,0 +1,62 @@
+{
+  "good_notbad_bot@lichess": {
+    "id": "good_notbad_bot",
+    "provider": "lichess",
+    "username": "Good_NotBad_Bot",
+    "firstSeen": 1637144305744,
+    "lastSeen": 1637155815847,
+    "firstSeenTime": "10:18:25 AM",
+    "lastSeenTime": "1:30:15 PM",
+    "onlineDurationMins": 191.83505
+  },
+  "abhinav-bot@lichess": {
+    "id": "abhinav-bot",
+    "provider": "lichess",
+    "username": "Abhinav-BOT",
+    "firstSeen": 1637148763250,
+    "lastSeen": 1637156173582,
+    "firstSeenTime": "11:32:43 AM",
+    "lastSeenTime": "1:31:07 PM",
+    "onlineDurationMins": 118.39943333333333
+  },
+  "probotnasdodsaf@lichess": {
+    "id": "probotnasdodsaf",
+    "provider": "lichess",
+    "username": "probotnasdodsaf",
+    "firstSeen": 1637151638816,
+    "lastSeen": 1637155734685,
+    "firstSeenTime": "12:20:38 PM",
+    "lastSeenTime": "1:28:54 PM",
+    "onlineDurationMins": 68.26448333333333
+  },
+  "ladyabot@lichess": {
+    "id": "ladyabot",
+    "provider": "lichess",
+    "username": "LadyaBOT",
+    "firstSeen": 1637155480090,
+    "lastSeen": 1637156173464,
+    "firstSeenTime": "1:24:40 PM",
+    "lastSeenTime": "1:31:15 PM",
+    "onlineDurationMins": 6.59495
+  },
+  "revengers-chess-team@lichess": {
+    "id": "revengers-chess-team",
+    "provider": "lichess",
+    "username": "REVENGERS-CHESS-TEAM",
+    "firstSeen": 1637155650665,
+    "lastSeen": 1637155991856,
+    "firstSeenTime": "1:27:30 PM",
+    "lastSeenTime": "1:30:49 PM",
+    "onlineDurationMins": 3.3070666666666666
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1637155828999,
+    "lastSeen": 1637156110438,
+    "firstSeenTime": "1:30:28 PM",
+    "lastSeenTime": "1:31:17 PM",
+    "onlineDurationMins": 0.8131833333333334
+  }
+}
