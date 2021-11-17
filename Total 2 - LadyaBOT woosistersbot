@@ -1,0 +1,22 @@
+{
+  "ladyabot@lichess": {
+    "id": "ladyabot",
+    "provider": "lichess",
+    "username": "LadyaBOT",
+    "firstSeen": 1637155480090,
+    "lastSeen": 1637171264235,
+    "firstSeenTime": "1:24:40 PM",
+    "lastSeenTime": "5:37:40 PM",
+    "onlineDurationMins": 253.01123333333334
+  },
+  "woosistersbot@lichess": {
+    "id": "woosistersbot",
+    "provider": "lichess",
+    "username": "woosistersbot",
+    "firstSeen": 1637168146132,
+    "lastSeen": 1637171148211,
+    "firstSeenTime": "4:55:46 PM",
+    "lastSeenTime": "5:45:48 PM",
+    "onlineDurationMins": 50.03465
+  }
+}
