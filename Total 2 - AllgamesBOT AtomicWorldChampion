@@ -1,0 +1,22 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1637235651776,
+    "lastSeen": 1637258802315,
+    "firstSeenTime": "11:40:51 AM",
+    "lastSeenTime": "6:06:42 PM",
+    "onlineDurationMins": 385.84231666666665
+  },
+  "atomicworldchampion@lichess": {
+    "id": "atomicworldchampion",
+    "provider": "lichess",
+    "username": "AtomicWorldChampion",
+    "firstSeen": 1637257087364,
+    "lastSeen": 1637258593955,
+    "firstSeenTime": "5:38:07 PM",
+    "lastSeenTime": "6:03:13 PM",
+    "onlineDurationMins": 25.10985
+  }
+}
