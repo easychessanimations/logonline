@@ -1,0 +1,23 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1637213677469,
+    "lastSeen": 1637215657629
+  },
+  "banana_monkey@lichess": {
+    "id": "banana_monkey",
+    "provider": "lichess",
+    "username": "Banana_Monkey",
+    "firstSeen": 1637214902198,
+    "lastSeen": 1637214954873
+  },
+  "youneverbeatme@lichess": {
+    "id": "youneverbeatme",
+    "provider": "lichess",
+    "username": "YOUNEVERBEATME",
+    "firstSeen": 1637215821420,
+    "lastSeen": 1637215821420
+  }
+}
