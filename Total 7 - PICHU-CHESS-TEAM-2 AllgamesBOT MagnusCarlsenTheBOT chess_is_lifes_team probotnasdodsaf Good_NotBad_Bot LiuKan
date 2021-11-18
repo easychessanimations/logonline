@@ -1,0 +1,69 @@
+{
+  "pichu-chess-team-2@lichess": {
+    "id": "pichu-chess-team-2",
+    "provider": "lichess",
+    "username": "PICHU-CHESS-TEAM-2",
+    "firstSeen": 1637228527264,
+    "lastSeen": 1637249917052,
+    "firstSeenTime": "9:42:07 AM",
+    "lastSeenTime": "3:16:36 PM",
+    "onlineDurationMins": 334.4870833333333
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1637235651776,
+    "lastSeen": 1637249922176,
+    "firstSeenTime": "11:40:51 AM",
+    "lastSeenTime": "3:16:41 PM",
+    "onlineDurationMins": 215.83676666666668
+  },
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1637240492175,
+    "lastSeen": 1637249874799,
+    "firstSeenTime": "1:01:32 PM",
+    "lastSeenTime": "3:14:58 PM",
+    "onlineDurationMins": 133.4388
+  },
+  "chess_is_lifes_team@lichess": {
+    "id": "chess_is_lifes_team",
+    "provider": "lichess",
+    "username": "chess_is_lifes_team",
+    "firstSeen": 1637247184075,
+    "lastSeen": 1637249916090,
+    "firstSeenTime": "2:53:04 PM",
+    "lastSeenTime": "3:18:14 PM",
+    "onlineDurationMins": 25.1656
+  },
+  "probotnasdodsaf@lichess": {
+    "id": "probotnasdodsaf",
+    "provider": "lichess",
+    "username": "probotnasdodsaf",
+    "firstSeen": 1637248269053,
+    "lastSeen": 1637249921019,
+    "firstSeenTime": "3:11:09 PM",
+    "lastSeenTime": "3:20:36 PM",
+    "onlineDurationMins": 9.455366666666666
+  },
+  "good_notbad_bot@lichess": {
+    "id": "good_notbad_bot",
+    "provider": "lichess",
+    "username": "Good_NotBad_Bot",
+    "firstSeen": 1637248278418,
+    "lastSeen": 1637249926239,
+    "firstSeenTime": "3:11:18 PM",
+    "lastSeenTime": "3:17:28 PM",
+    "onlineDurationMins": 6.166616666666667
+  },
+  "liukan@lichess": {
+    "id": "liukan",
+    "provider": "lichess",
+    "username": "LiuKan",
+    "firstSeen": 1637249926691,
+    "lastSeen": 1637249926691
+  }
+}
