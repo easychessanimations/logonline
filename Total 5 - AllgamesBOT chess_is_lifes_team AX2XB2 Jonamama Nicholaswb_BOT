@@ -1,0 +1,49 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1637235651776,
+    "lastSeen": 1637256101984,
+    "firstSeenTime": "11:40:51 AM",
+    "lastSeenTime": "5:10:42 PM",
+    "onlineDurationMins": 329.83975
+  },
+  "chess_is_lifes_team@lichess": {
+    "id": "chess_is_lifes_team",
+    "provider": "lichess",
+    "username": "chess_is_lifes_team",
+    "firstSeen": 1637247184075,
+    "lastSeen": 1637256197901,
+    "firstSeenTime": "2:53:04 PM",
+    "lastSeenTime": "5:10:26 PM",
+    "onlineDurationMins": 137.37566666666666
+  },
+  "ax2xb2@lichess": {
+    "id": "ax2xb2",
+    "provider": "lichess",
+    "username": "AX2XB2",
+    "firstSeen": 1637250025787,
+    "lastSeen": 1637256082719,
+    "firstSeenTime": "3:40:25 PM",
+    "lastSeenTime": "5:12:34 PM",
+    "onlineDurationMins": 92.15275
+  },
+  "jonamama@lichess": {
+    "id": "jonamama",
+    "provider": "lichess",
+    "username": "Jonamama",
+    "firstSeen": 1637255662509,
+    "lastSeen": 1637256313169,
+    "firstSeenTime": "5:14:22 PM",
+    "lastSeenTime": "5:16:34 PM",
+    "onlineDurationMins": 2.2074666666666665
+  },
+  "nicholaswb_bot@lichess": {
+    "id": "nicholaswb_bot",
+    "provider": "lichess",
+    "username": "Nicholaswb_BOT",
+    "firstSeen": 1637256329847,
+    "lastSeen": 1637256329847
+  }
+}
