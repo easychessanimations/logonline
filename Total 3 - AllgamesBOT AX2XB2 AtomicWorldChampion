@@ -1,0 +1,32 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1637235651776,
+    "lastSeen": 1637258142236,
+    "firstSeenTime": "11:40:51 AM",
+    "lastSeenTime": "5:55:42 PM",
+    "onlineDurationMins": 374.841
+  },
+  "ax2xb2@lichess": {
+    "id": "ax2xb2",
+    "provider": "lichess",
+    "username": "AX2XB2",
+    "firstSeen": 1637250025787,
+    "lastSeen": 1637258119595,
+    "firstSeenTime": "3:40:25 PM",
+    "lastSeenTime": "5:55:19 PM",
+    "onlineDurationMins": 134.8968
+  },
+  "atomicworldchampion@lichess": {
+    "id": "atomicworldchampion",
+    "provider": "lichess",
+    "username": "AtomicWorldChampion",
+    "firstSeen": 1637257087364,
+    "lastSeen": 1637257908132,
+    "firstSeenTime": "5:38:07 PM",
+    "lastSeenTime": "5:51:48 PM",
+    "onlineDurationMins": 13.679466666666666
+  }
+}
