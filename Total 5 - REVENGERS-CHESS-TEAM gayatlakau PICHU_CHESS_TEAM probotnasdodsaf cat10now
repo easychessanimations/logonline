@@ -1,0 +1,49 @@
+{
+  "revengers-chess-team@lichess": {
+    "id": "revengers-chess-team",
+    "provider": "lichess",
+    "username": "REVENGERS-CHESS-TEAM",
+    "firstSeen": 1637217371012,
+    "lastSeen": 1637226988918,
+    "firstSeenTime": "6:36:11 AM",
+    "lastSeenTime": "9:05:32 AM",
+    "onlineDurationMins": 149.35311666666666
+  },
+  "gayatlakau@lichess": {
+    "id": "gayatlakau",
+    "provider": "lichess",
+    "username": "gayatlakau",
+    "firstSeen": 1637222319340,
+    "lastSeen": 1637226518294,
+    "firstSeenTime": "7:58:39 AM",
+    "lastSeenTime": "9:01:52 AM",
+    "onlineDurationMins": 63.2159
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1637223610551,
+    "lastSeen": 1637227000466,
+    "firstSeenTime": "8:20:10 AM",
+    "lastSeenTime": "9:05:40 AM",
+    "onlineDurationMins": 45.49265
+  },
+  "probotnasdodsaf@lichess": {
+    "id": "probotnasdodsaf",
+    "provider": "lichess",
+    "username": "probotnasdodsaf",
+    "firstSeen": 1637223790227,
+    "lastSeen": 1637227373360,
+    "firstSeenTime": "8:23:10 AM",
+    "lastSeenTime": "9:01:16 AM",
+    "onlineDurationMins": 38.09771666666666
+  },
+  "900965596215250984@discord": {
+    "id": "900965596215250984",
+    "provider": "discord",
+    "username": "cat10now",
+    "firstSeen": 1637226519011,
+    "lastSeen": 1637226694752
+  }
+}
