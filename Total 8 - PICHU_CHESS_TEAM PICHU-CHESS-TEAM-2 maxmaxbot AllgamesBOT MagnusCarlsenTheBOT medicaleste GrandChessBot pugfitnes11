@@ -1,0 +1,61 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1637223610551,
+    "lastSeen": 1637242477202,
+    "firstSeenTime": "8:20:10 AM",
+    "lastSeenTime": "9:05:40 AM",
+    "onlineDurationMins": 45.49265
+  },
+  "pichu-chess-team-2@lichess": {
+    "id": "pichu-chess-team-2",
+    "provider": "lichess",
+    "username": "PICHU-CHESS-TEAM-2",
+    "firstSeen": 1637228527264,
+    "lastSeen": 1637242597060
+  },
+  "maxmaxbot@lichess": {
+    "id": "maxmaxbot",
+    "provider": "lichess",
+    "username": "maxmaxbot",
+    "firstSeen": 1637230639687,
+    "lastSeen": 1637242656757
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1637235651776,
+    "lastSeen": 1637242602188
+  },
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1637240492175,
+    "lastSeen": 1637242437848
+  },
+  "medicaleste@lichess": {
+    "id": "medicaleste",
+    "provider": "lichess",
+    "username": "medicaleste",
+    "firstSeen": 1637242795556,
+    "lastSeen": 1637242827941
+  },
+  "grandchessbot@lichess": {
+    "id": "grandchessbot",
+    "provider": "lichess",
+    "username": "GrandChessBot",
+    "firstSeen": 1637242825739,
+    "lastSeen": 1637242829134
+  },
+  "pugfitnes11@lichess": {
+    "id": "pugfitnes11",
+    "provider": "lichess",
+    "username": "pugfitnes11",
+    "firstSeen": 1637242832831,
+    "lastSeen": 1637242832831
+  }
+}
