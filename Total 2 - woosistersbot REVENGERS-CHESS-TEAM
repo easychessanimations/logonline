@@ -1,0 +1,22 @@
+{
+  "woosistersbot@lichess": {
+    "id": "woosistersbot",
+    "provider": "lichess",
+    "username": "woosistersbot",
+    "firstSeen": 1637314318116,
+    "lastSeen": 1637334711916,
+    "firstSeenTime": "9:31:58 AM",
+    "lastSeenTime": "2:49:51 PM",
+    "onlineDurationMins": 317.8958666666667
+  },
+  "revengers-chess-team@lichess": {
+    "id": "revengers-chess-team",
+    "provider": "lichess",
+    "username": "REVENGERS-CHESS-TEAM",
+    "firstSeen": 1637330923717,
+    "lastSeen": 1637334317083,
+    "firstSeenTime": "2:08:43 PM",
+    "lastSeenTime": "2:54:20 PM",
+    "onlineDurationMins": 45.608266666666665
+  }
+}
