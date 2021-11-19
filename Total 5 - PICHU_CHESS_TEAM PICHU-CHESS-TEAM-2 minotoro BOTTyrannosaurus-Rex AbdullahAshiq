@@ -1,0 +1,46 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1637298395266,
+    "lastSeen": 1637300499841,
+    "firstSeenTime": "5:06:35 AM",
+    "lastSeenTime": "5:18:39 AM",
+    "onlineDurationMins": 12.0713
+  },
+  "pichu-chess-team-2@lichess": {
+    "id": "pichu-chess-team-2",
+    "provider": "lichess",
+    "username": "PICHU-CHESS-TEAM-2",
+    "firstSeen": 1637298463514,
+    "lastSeen": 1637300499526,
+    "firstSeenTime": "5:07:43 AM",
+    "lastSeenTime": "5:18:39 AM",
+    "onlineDurationMins": 10.934133333333333
+  },
+  "minotoro@lichess": {
+    "id": "minotoro",
+    "provider": "lichess",
+    "username": "minotoro",
+    "firstSeen": 1637298890201,
+    "lastSeen": 1637300881662,
+    "firstSeenTime": "5:14:50 AM",
+    "lastSeenTime": "5:16:58 AM",
+    "onlineDurationMins": 2.1384833333333333
+  },
+  "bottyrannosaurus-rex@lichess": {
+    "id": "bottyrannosaurus-rex",
+    "provider": "lichess",
+    "username": "BOTTyrannosaurus-Rex",
+    "firstSeen": 1637300839866,
+    "lastSeen": 1637300920887
+  },
+  "abdullahashiq@lichess": {
+    "id": "abdullahashiq",
+    "provider": "lichess",
+    "username": "AbdullahAshiq",
+    "firstSeen": 1637300951076,
+    "lastSeen": 1637300951076
+  }
+}
