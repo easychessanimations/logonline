@@ -1,0 +1,40 @@
+{
+  "woosistersbot@lichess": {
+    "id": "woosistersbot",
+    "provider": "lichess",
+    "username": "woosistersbot",
+    "firstSeen": 1637314318116,
+    "lastSeen": 1637330088629,
+    "firstSeenTime": "9:31:58 AM",
+    "lastSeenTime": "1:24:38 PM",
+    "onlineDurationMins": 232.67346666666666
+  },
+  "rkyop@lichess": {
+    "id": "rkyop",
+    "provider": "lichess",
+    "username": "RkyOP",
+    "firstSeen": 1637328935220,
+    "lastSeen": 1637329989009
+  },
+  "abhinav-bot@lichess": {
+    "id": "abhinav-bot",
+    "provider": "lichess",
+    "username": "Abhinav-BOT",
+    "firstSeen": 1637329829557,
+    "lastSeen": 1637330630973
+  },
+  "dasecondbotking@lichess": {
+    "id": "dasecondbotking",
+    "provider": "lichess",
+    "username": "DaSecondBotKing",
+    "firstSeen": 1637330521755,
+    "lastSeen": 1637330630325
+  },
+  "aaron805@lichess": {
+    "id": "aaron805",
+    "provider": "lichess",
+    "username": "AARON805",
+    "firstSeen": 1637330716750,
+    "lastSeen": 1637330716750
+  }
+}
