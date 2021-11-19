@@ -1,0 +1,26 @@
+{
+  "woosistersbot@lichess": {
+    "id": "woosistersbot",
+    "provider": "lichess",
+    "username": "woosistersbot",
+    "firstSeen": 1637314318116,
+    "lastSeen": 1637335788849,
+    "firstSeenTime": "9:31:58 AM",
+    "lastSeenTime": "3:11:51 PM",
+    "onlineDurationMins": 339.89666666666665
+  },
+  "boteshan2007@lichess": {
+    "id": "boteshan2007",
+    "provider": "lichess",
+    "username": "BOTeshan2007",
+    "firstSeen": 1637335380995,
+    "lastSeen": 1637335735505
+  },
+  "abhinav-bot@lichess": {
+    "id": "abhinav-bot",
+    "provider": "lichess",
+    "username": "Abhinav-BOT",
+    "firstSeen": 1637335835383,
+    "lastSeen": 1637335835383
+  }
+}
