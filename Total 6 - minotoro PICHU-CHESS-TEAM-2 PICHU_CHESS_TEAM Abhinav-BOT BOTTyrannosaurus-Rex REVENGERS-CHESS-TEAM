@@ -1,0 +1,44 @@
+{
+  "minotoro@lichess": {
+    "id": "minotoro",
+    "provider": "lichess",
+    "username": "minotoro",
+    "firstSeen": 1637302263470,
+    "lastSeen": 1637303591165
+  },
+  "pichu-chess-team-2@lichess": {
+    "id": "pichu-chess-team-2",
+    "provider": "lichess",
+    "username": "PICHU-CHESS-TEAM-2",
+    "firstSeen": 1637302476285,
+    "lastSeen": 1637303859567
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1637302476299,
+    "lastSeen": 1637303856410
+  },
+  "abhinav-bot@lichess": {
+    "id": "abhinav-bot",
+    "provider": "lichess",
+    "username": "Abhinav-BOT",
+    "firstSeen": 1637302512377,
+    "lastSeen": 1637303855084
+  },
+  "bottyrannosaurus-rex@lichess": {
+    "id": "bottyrannosaurus-rex",
+    "provider": "lichess",
+    "username": "BOTTyrannosaurus-Rex",
+    "firstSeen": 1637302631217,
+    "lastSeen": 1637303339706
+  },
+  "revengers-chess-team@lichess": {
+    "id": "revengers-chess-team",
+    "provider": "lichess",
+    "username": "REVENGERS-CHESS-TEAM",
+    "firstSeen": 1637303948713,
+    "lastSeen": 1637303948714
+  }
+}
