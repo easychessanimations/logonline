@@ -1,0 +1,49 @@
+{
+  "blitzz_bot@lichess": {
+    "id": "blitzz_bot",
+    "provider": "lichess",
+    "username": "blitzz_bot",
+    "firstSeen": 1637417686727,
+    "lastSeen": 1637423627032,
+    "firstSeenTime": "2:14:46 PM",
+    "lastSeenTime": "3:53:47 PM",
+    "onlineDurationMins": 99.00508333333333
+  },
+  "happydeepawali@lichess": {
+    "id": "happydeepawali",
+    "provider": "lichess",
+    "username": "HappyDeepawali",
+    "firstSeen": 1637417738885,
+    "lastSeen": 1637423829343,
+    "firstSeenTime": "2:15:38 PM",
+    "lastSeenTime": "3:57:09 PM",
+    "onlineDurationMins": 101.50763333333333
+  },
+  "atomicworldchampion@lichess": {
+    "id": "atomicworldchampion",
+    "provider": "lichess",
+    "username": "AtomicWorldChampion",
+    "firstSeen": 1637419404965,
+    "lastSeen": 1637423881633,
+    "firstSeenTime": "2:43:24 PM",
+    "lastSeenTime": "3:58:01 PM",
+    "onlineDurationMins": 74.61113333333333
+  },
+  "progamer123123@lichess": {
+    "id": "progamer123123",
+    "provider": "lichess",
+    "username": "ProGamer123123",
+    "firstSeen": 1637422794394,
+    "lastSeen": 1637423667520,
+    "firstSeenTime": "3:39:54 PM",
+    "lastSeenTime": "3:54:27 PM",
+    "onlineDurationMins": 14.5521
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1637423918715,
+    "lastSeen": 1637423918715
+  }
+}
