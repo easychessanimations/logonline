@@ -1,0 +1,26 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1637384111372,
+    "lastSeen": 1637386086254,
+    "firstSeenTime": "4:55:11 AM",
+    "lastSeenTime": "5:16:16 AM",
+    "onlineDurationMins": 21.08615
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1637386172526,
+    "lastSeen": 1637386172527
+  },
+  "pichu-chess-team-2@lichess": {
+    "id": "pichu-chess-team-2",
+    "provider": "lichess",
+    "username": "PICHU-CHESS-TEAM-2",
+    "firstSeen": 1637386172546,
+    "lastSeen": 1637386172546
+  }
+}
