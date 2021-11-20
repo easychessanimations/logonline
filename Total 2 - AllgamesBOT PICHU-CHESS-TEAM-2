@@ -1,0 +1,19 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1637384111372,
+    "lastSeen": 1637393859096,
+    "firstSeenTime": "4:55:11 AM",
+    "lastSeenTime": "5:35:39 AM",
+    "onlineDurationMins": 40.461416666666665
+  },
+  "pichu-chess-team-2@lichess": {
+    "id": "pichu-chess-team-2",
+    "provider": "lichess",
+    "username": "PICHU-CHESS-TEAM-2",
+    "firstSeen": 1637394513743,
+    "lastSeen": 1637394513744
+  }
+}
