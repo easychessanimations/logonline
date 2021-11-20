@@ -1,0 +1,19 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1637408805809,
+    "lastSeen": 1637413355048,
+    "firstSeenTime": "11:46:45 AM",
+    "lastSeenTime": "12:32:35 PM",
+    "onlineDurationMins": 45.82973333333333
+  },
+  "revengers-chess-team@lichess": {
+    "id": "revengers-chess-team",
+    "provider": "lichess",
+    "username": "REVENGERS-CHESS-TEAM",
+    "firstSeen": 1637413482387,
+    "lastSeen": 1637413482387
+  }
+}
