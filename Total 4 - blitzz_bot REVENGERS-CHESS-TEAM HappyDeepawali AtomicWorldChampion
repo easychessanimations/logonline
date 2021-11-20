@@ -1,0 +1,42 @@
+{
+  "blitzz_bot@lichess": {
+    "id": "blitzz_bot",
+    "provider": "lichess",
+    "username": "blitzz_bot",
+    "firstSeen": 1637417686727,
+    "lastSeen": 1637420743813,
+    "firstSeenTime": "2:14:46 PM",
+    "lastSeenTime": "2:54:46 PM",
+    "onlineDurationMins": 40.00095
+  },
+  "revengers-chess-team@lichess": {
+    "id": "revengers-chess-team",
+    "provider": "lichess",
+    "username": "REVENGERS-CHESS-TEAM",
+    "firstSeen": 1637417695927,
+    "lastSeen": 1637420716800,
+    "firstSeenTime": "2:14:55 PM",
+    "lastSeenTime": "2:54:17 PM",
+    "onlineDurationMins": 39.35776666666667
+  },
+  "happydeepawali@lichess": {
+    "id": "happydeepawali",
+    "provider": "lichess",
+    "username": "HappyDeepawali",
+    "firstSeen": 1637417738885,
+    "lastSeen": 1637420829295,
+    "firstSeenTime": "2:15:38 PM",
+    "lastSeenTime": "2:54:36 PM",
+    "onlineDurationMins": 38.959966666666666
+  },
+  "atomicworldchampion@lichess": {
+    "id": "atomicworldchampion",
+    "provider": "lichess",
+    "username": "AtomicWorldChampion",
+    "firstSeen": 1637419404965,
+    "lastSeen": 1637420847008,
+    "firstSeenTime": "2:43:24 PM",
+    "lastSeenTime": "2:59:59 PM",
+    "onlineDurationMins": 16.582516666666667
+  }
+}
