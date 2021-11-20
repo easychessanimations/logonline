@@ -1,0 +1,39 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1637408805809,
+    "lastSeen": 1637416412082,
+    "firstSeenTime": "11:46:45 AM",
+    "lastSeenTime": "1:49:32 PM",
+    "onlineDurationMins": 122.77245
+  },
+  "revengers-chess-team@lichess": {
+    "id": "revengers-chess-team",
+    "provider": "lichess",
+    "username": "REVENGERS-CHESS-TEAM",
+    "firstSeen": 1637413482387,
+    "lastSeen": 1637416569342,
+    "firstSeenTime": "1:04:42 PM",
+    "lastSeenTime": "1:52:19 PM",
+    "onlineDurationMins": 47.62533333333333
+  },
+  "probotnasdodsaf@lichess": {
+    "id": "probotnasdodsaf",
+    "provider": "lichess",
+    "username": "probotnasdodsaf",
+    "firstSeen": 1637414636349,
+    "lastSeen": 1637416673260,
+    "firstSeenTime": "1:23:56 PM",
+    "lastSeenTime": "1:52:38 PM",
+    "onlineDurationMins": 28.7051
+  },
+  "altug_01@lichess": {
+    "id": "altug_01",
+    "provider": "lichess",
+    "username": "altug_01",
+    "firstSeen": 1637416820849,
+    "lastSeen": 1637416820849
+  }
+}
