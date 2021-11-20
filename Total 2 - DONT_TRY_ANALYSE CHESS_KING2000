@@ -1,0 +1,16 @@
+{
+  "dont_try_analyse@lichess": {
+    "id": "dont_try_analyse",
+    "provider": "lichess",
+    "username": "DONT_TRY_ANALYSE",
+    "firstSeen": 1637397946383,
+    "lastSeen": 1637398070693
+  },
+  "chess_king2000@lichess": {
+    "id": "chess_king2000",
+    "provider": "lichess",
+    "username": "CHESS_KING2000",
+    "firstSeen": 1637398416778,
+    "lastSeen": 1637398416778
+  }
+}
