@@ -1,0 +1,73 @@
+{
+  "kobybot@lichess": {
+    "id": "kobybot",
+    "provider": "lichess",
+    "username": "KobyBot",
+    "firstSeen": 1637470081590,
+    "lastSeen": 1637492023936,
+    "firstSeenTime": "4:48:01 AM",
+    "lastSeenTime": "9:43:58 AM",
+    "onlineDurationMins": 295.94458333333336
+  },
+  "altugbots_01@lichess": {
+    "id": "altugbots_01",
+    "provider": "lichess",
+    "username": "altugbots_01",
+    "firstSeen": 1637478216205,
+    "lastSeen": 1637492290640,
+    "firstSeenTime": "7:03:36 AM",
+    "lastSeenTime": "9:44:37 AM",
+    "onlineDurationMins": 161.02813333333333
+  },
+  "botumbenxd@lichess": {
+    "id": "botumbenxd",
+    "provider": "lichess",
+    "username": "BotumBenXd",
+    "firstSeen": 1637481484333,
+    "lastSeen": 1637492011123,
+    "firstSeenTime": "7:58:04 AM",
+    "lastSeenTime": "9:44:30 AM",
+    "onlineDurationMins": 106.44078333333333
+  },
+  "locksojapaness@lichess": {
+    "id": "locksojapaness",
+    "provider": "lichess",
+    "username": "LockSoJapaness",
+    "firstSeen": 1637485230978,
+    "lastSeen": 1637491626467,
+    "firstSeenTime": "9:00:30 AM",
+    "lastSeenTime": "9:47:15 AM",
+    "onlineDurationMins": 46.74993333333333
+  },
+  "bullseye_team@lichess": {
+    "id": "bullseye_team",
+    "provider": "lichess",
+    "username": "BULLSEYE_TEAM",
+    "firstSeen": 1637486231025,
+    "lastSeen": 1637492299827,
+    "firstSeenTime": "9:17:11 AM",
+    "lastSeenTime": "9:39:54 AM",
+    "onlineDurationMins": 22.730316666666667
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1637490172710,
+    "lastSeen": 1637491591749
+  },
+  "drfreestyle@lichess": {
+    "id": "drfreestyle",
+    "provider": "lichess",
+    "username": "DrFreestyle",
+    "firstSeen": 1637491684524,
+    "lastSeen": 1637491731167
+  },
+  "altugbots_02@lichess": {
+    "id": "altugbots_02",
+    "provider": "lichess",
+    "username": "altugbots_02",
+    "firstSeen": 1637492301181,
+    "lastSeen": 1637492301181
+  }
+}
