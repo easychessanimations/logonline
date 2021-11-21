@@ -1,0 +1,29 @@
+{
+  "lucpug2022@lichess": {
+    "id": "lucpug2022",
+    "provider": "lichess",
+    "username": "lucpug2022",
+    "firstSeen": 1637466259236,
+    "lastSeen": 1637476179021,
+    "firstSeenTime": "3:44:19 AM",
+    "lastSeenTime": "6:29:39 AM",
+    "onlineDurationMins": 165.32975
+  },
+  "kobybot@lichess": {
+    "id": "kobybot",
+    "provider": "lichess",
+    "username": "KobyBot",
+    "firstSeen": 1637470081590,
+    "lastSeen": 1637476138007,
+    "firstSeenTime": "4:48:01 AM",
+    "lastSeenTime": "6:28:58 AM",
+    "onlineDurationMins": 100.94028333333333
+  },
+  "blitzz_bot@lichess": {
+    "id": "blitzz_bot",
+    "provider": "lichess",
+    "username": "blitzz_bot",
+    "firstSeen": 1637476766591,
+    "lastSeen": 1637476766591
+  }
+}
