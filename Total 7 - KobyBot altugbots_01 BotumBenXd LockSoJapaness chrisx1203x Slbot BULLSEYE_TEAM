@@ -1,0 +1,69 @@
+{
+  "kobybot@lichess": {
+    "id": "kobybot",
+    "provider": "lichess",
+    "username": "KobyBot",
+    "firstSeen": 1637470081590,
+    "lastSeen": 1637485797947,
+    "firstSeenTime": "4:48:01 AM",
+    "lastSeenTime": "9:09:57 AM",
+    "onlineDurationMins": 261.9392833333333
+  },
+  "altugbots_01@lichess": {
+    "id": "altugbots_01",
+    "provider": "lichess",
+    "username": "altugbots_01",
+    "firstSeen": 1637478216205,
+    "lastSeen": 1637485718066,
+    "firstSeenTime": "7:03:36 AM",
+    "lastSeenTime": "9:08:38 AM",
+    "onlineDurationMins": 125.03101666666667
+  },
+  "botumbenxd@lichess": {
+    "id": "botumbenxd",
+    "provider": "lichess",
+    "username": "BotumBenXd",
+    "firstSeen": 1637481484333,
+    "lastSeen": 1637485986852,
+    "firstSeenTime": "7:58:04 AM",
+    "lastSeenTime": "9:13:06 AM",
+    "onlineDurationMins": 75.04198333333333
+  },
+  "locksojapaness@lichess": {
+    "id": "locksojapaness",
+    "provider": "lichess",
+    "username": "LockSoJapaness",
+    "firstSeen": 1637485230978,
+    "lastSeen": 1637486065784,
+    "firstSeenTime": "9:00:30 AM",
+    "lastSeenTime": "9:14:25 AM",
+    "onlineDurationMins": 13.913433333333334
+  },
+  "chrisx1203x@lichess": {
+    "id": "chrisx1203x",
+    "provider": "lichess",
+    "username": "chrisx1203x",
+    "firstSeen": 1637485348224,
+    "lastSeen": 1637486160250,
+    "firstSeenTime": "9:02:28 AM",
+    "lastSeenTime": "9:16:00 AM",
+    "onlineDurationMins": 13.533766666666667
+  },
+  "slbot@lichess": {
+    "id": "slbot",
+    "provider": "lichess",
+    "username": "Slbot",
+    "firstSeen": 1637486151358,
+    "lastSeen": 1637486213590,
+    "firstSeenTime": "9:15:51 AM",
+    "lastSeenTime": "9:16:53 AM",
+    "onlineDurationMins": 1.0372
+  },
+  "bullseye_team@lichess": {
+    "id": "bullseye_team",
+    "provider": "lichess",
+    "username": "BULLSEYE_TEAM",
+    "firstSeen": 1637486231025,
+    "lastSeen": 1637486231025
+  }
+}
