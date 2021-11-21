@@ -1,0 +1,32 @@
+{
+  "kobybot@lichess": {
+    "id": "kobybot",
+    "provider": "lichess",
+    "username": "KobyBot",
+    "firstSeen": 1637470081590,
+    "lastSeen": 1637484178088,
+    "firstSeenTime": "4:48:01 AM",
+    "lastSeenTime": "8:09:58 AM",
+    "onlineDurationMins": 201.94103333333334
+  },
+  "altugbots_01@lichess": {
+    "id": "altugbots_01",
+    "provider": "lichess",
+    "username": "altugbots_01",
+    "firstSeen": 1637478216205,
+    "lastSeen": 1637483558099,
+    "firstSeenTime": "7:03:36 AM",
+    "lastSeenTime": "8:10:38 AM",
+    "onlineDurationMins": 67.03281666666666
+  },
+  "botumbenxd@lichess": {
+    "id": "botumbenxd",
+    "provider": "lichess",
+    "username": "BotumBenXd",
+    "firstSeen": 1637481484333,
+    "lastSeen": 1637483554141,
+    "firstSeenTime": "7:58:04 AM",
+    "lastSeenTime": "8:10:34 AM",
+    "onlineDurationMins": 12.500366666666666
+  }
+}
