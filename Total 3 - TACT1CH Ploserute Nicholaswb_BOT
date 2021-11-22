@@ -1,0 +1,29 @@
+{
+  "tact1ch@lichess": {
+    "id": "tact1ch",
+    "provider": "lichess",
+    "username": "TACT1CH",
+    "firstSeen": 1637596945641,
+    "lastSeen": 1637600755746,
+    "firstSeenTime": "4:02:25 PM",
+    "lastSeenTime": "5:03:29 PM",
+    "onlineDurationMins": 61.061283333333336
+  },
+  "ploserute@lichess": {
+    "id": "ploserute",
+    "provider": "lichess",
+    "username": "Ploserute",
+    "firstSeen": 1637597311737,
+    "lastSeen": 1637600364117,
+    "firstSeenTime": "4:08:31 PM",
+    "lastSeenTime": "4:59:24 PM",
+    "onlineDurationMins": 50.873
+  },
+  "nicholaswb_bot@lichess": {
+    "id": "nicholaswb_bot",
+    "provider": "lichess",
+    "username": "Nicholaswb_BOT",
+    "firstSeen": 1637600775703,
+    "lastSeen": 1637600775703
+  }
+}
