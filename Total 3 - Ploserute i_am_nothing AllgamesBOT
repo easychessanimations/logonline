@@ -1,0 +1,26 @@
+{
+  "ploserute@lichess": {
+    "id": "ploserute",
+    "provider": "lichess",
+    "username": "Ploserute",
+    "firstSeen": 1637597311737,
+    "lastSeen": 1637602343869,
+    "firstSeenTime": "4:08:31 PM",
+    "lastSeenTime": "4:59:24 PM",
+    "onlineDurationMins": 50.873
+  },
+  "i_am_nothing@lichess": {
+    "id": "i_am_nothing",
+    "provider": "lichess",
+    "username": "i_am_nothing",
+    "firstSeen": 1637601631615,
+    "lastSeen": 1637602407118
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1637601891857,
+    "lastSeen": 1637602062278
+  }
+}
