@@ -1,0 +1,29 @@
+{
+  "i_am_nothing@lichess": {
+    "id": "i_am_nothing",
+    "provider": "lichess",
+    "username": "i_am_nothing",
+    "firstSeen": 1637609719223,
+    "lastSeen": 1637615810319,
+    "firstSeenTime": "7:35:19 PM",
+    "lastSeenTime": "9:02:05 PM",
+    "onlineDurationMins": 86.76726666666667
+  },
+  "ilovechess7183i@lichess": {
+    "id": "ilovechess7183i",
+    "provider": "lichess",
+    "username": "Ilovechess7183I",
+    "firstSeen": 1637611164406,
+    "lastSeen": 1637615548287,
+    "firstSeenTime": "7:59:24 PM",
+    "lastSeenTime": "9:02:02 PM",
+    "onlineDurationMins": 62.62951666666667
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1637615899063,
+    "lastSeen": 1637615899063
+  }
+}
