@@ -1,0 +1,30 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1637574489308,
+    "lastSeen": 1637579301169
+  },
+  "pichu-chess-team-2@lichess": {
+    "id": "pichu-chess-team-2",
+    "provider": "lichess",
+    "username": "PICHU-CHESS-TEAM-2",
+    "firstSeen": 1637574560919,
+    "lastSeen": 1637579301163
+  },
+  "jonamama@lichess": {
+    "id": "jonamama",
+    "provider": "lichess",
+    "username": "Jonamama",
+    "firstSeen": 1637575353482,
+    "lastSeen": 1637579243255
+  },
+  "boteshan2007@lichess": {
+    "id": "boteshan2007",
+    "provider": "lichess",
+    "username": "BOTeshan2007",
+    "firstSeen": 1637579481053,
+    "lastSeen": 1637579518236
+  }
+}
