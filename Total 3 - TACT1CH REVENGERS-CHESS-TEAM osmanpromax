@@ -1,0 +1,32 @@
+{
+  "tact1ch@lichess": {
+    "id": "tact1ch",
+    "provider": "lichess",
+    "username": "TACT1CH",
+    "firstSeen": 1637586753215,
+    "lastSeen": 1637594090745,
+    "firstSeenTime": "1:12:33 PM",
+    "lastSeenTime": "3:14:50 PM",
+    "onlineDurationMins": 122.29216666666666
+  },
+  "revengers-chess-team@lichess": {
+    "id": "revengers-chess-team",
+    "provider": "lichess",
+    "username": "REVENGERS-CHESS-TEAM",
+    "firstSeen": 1637590225559,
+    "lastSeen": 1637594049384,
+    "firstSeenTime": "2:10:25 PM",
+    "lastSeenTime": "3:14:09 PM",
+    "onlineDurationMins": 63.73041666666666
+  },
+  "osmanpromax@lichess": {
+    "id": "osmanpromax",
+    "provider": "lichess",
+    "username": "osmanpromax",
+    "firstSeen": 1637594003701,
+    "lastSeen": 1637594022330,
+    "firstSeenTime": "3:13:23 PM",
+    "lastSeenTime": "3:13:42 PM",
+    "onlineDurationMins": 0.31048333333333333
+  }
+}
