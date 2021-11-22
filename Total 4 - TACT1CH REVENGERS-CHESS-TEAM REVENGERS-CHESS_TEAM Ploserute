@@ -1,0 +1,42 @@
+{
+  "tact1ch@lichess": {
+    "id": "tact1ch",
+    "provider": "lichess",
+    "username": "TACT1CH",
+    "firstSeen": 1637586753215,
+    "lastSeen": 1637592431249,
+    "firstSeenTime": "1:12:33 PM",
+    "lastSeenTime": "2:47:11 PM",
+    "onlineDurationMins": 94.6339
+  },
+  "revengers-chess-team@lichess": {
+    "id": "revengers-chess-team",
+    "provider": "lichess",
+    "username": "REVENGERS-CHESS-TEAM",
+    "firstSeen": 1637590225559,
+    "lastSeen": 1637592379588,
+    "firstSeenTime": "2:10:25 PM",
+    "lastSeenTime": "2:46:19 PM",
+    "onlineDurationMins": 35.900483333333334
+  },
+  "revengers-chess_team@lichess": {
+    "id": "revengers-chess_team",
+    "provider": "lichess",
+    "username": "REVENGERS-CHESS_TEAM",
+    "firstSeen": 1637590420329,
+    "lastSeen": 1637592379600,
+    "firstSeenTime": "2:13:40 PM",
+    "lastSeenTime": "2:46:19 PM",
+    "onlineDurationMins": 32.654516666666666
+  },
+  "ploserute@lichess": {
+    "id": "ploserute",
+    "provider": "lichess",
+    "username": "Ploserute",
+    "firstSeen": 1637590477760,
+    "lastSeen": 1637592184430,
+    "firstSeenTime": "2:14:37 PM",
+    "lastSeenTime": "2:43:04 PM",
+    "onlineDurationMins": 28.4445
+  }
+}
