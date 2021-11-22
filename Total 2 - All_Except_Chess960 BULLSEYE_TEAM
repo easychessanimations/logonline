@@ -1,0 +1,16 @@
+{
+  "all_except_chess960@lichess": {
+    "id": "all_except_chess960",
+    "provider": "lichess",
+    "username": "All_Except_Chess960",
+    "firstSeen": 1637553025688,
+    "lastSeen": 1637553691751
+  },
+  "bullseye_team@lichess": {
+    "id": "bullseye_team",
+    "provider": "lichess",
+    "username": "BULLSEYE_TEAM",
+    "firstSeen": 1637554315733,
+    "lastSeen": 1637554315733
+  }
+}
