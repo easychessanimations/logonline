@@ -1,0 +1,30 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1637579686328,
+    "lastSeen": 1637586585817
+  },
+  "pichu-chess-team-2@lichess": {
+    "id": "pichu-chess-team-2",
+    "provider": "lichess",
+    "username": "PICHU-CHESS-TEAM-2",
+    "firstSeen": 1637580226346,
+    "lastSeen": 1637586949882
+  },
+  "coolmaster21@lichess": {
+    "id": "coolmaster21",
+    "provider": "lichess",
+    "username": "CoolMaster21",
+    "firstSeen": 1637581565608,
+    "lastSeen": 1637586735370
+  },
+  "tact1ch@lichess": {
+    "id": "tact1ch",
+    "provider": "lichess",
+    "username": "TACT1CH",
+    "firstSeen": 1637586753215,
+    "lastSeen": 1637587023874
+  }
+}
