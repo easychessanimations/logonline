@@ -1,0 +1,49 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1637579686328,
+    "lastSeen": 1637588026382,
+    "firstSeenTime": "11:14:46 AM",
+    "lastSeenTime": "1:20:46 PM",
+    "onlineDurationMins": 126.00091666666667
+  },
+  "pichu-chess-team-2@lichess": {
+    "id": "pichu-chess-team-2",
+    "provider": "lichess",
+    "username": "PICHU-CHESS-TEAM-2",
+    "firstSeen": 1637580226346,
+    "lastSeen": 1637587606410,
+    "firstSeenTime": "11:23:46 AM",
+    "lastSeenTime": "1:15:49 PM",
+    "onlineDurationMins": 112.05893333333333
+  },
+  "coolmaster21@lichess": {
+    "id": "coolmaster21",
+    "provider": "lichess",
+    "username": "CoolMaster21",
+    "firstSeen": 1637581565608,
+    "lastSeen": 1637587695160,
+    "firstSeenTime": "11:46:05 AM",
+    "lastSeenTime": "1:25:10 PM",
+    "onlineDurationMins": 99.08171666666667
+  },
+  "tact1ch@lichess": {
+    "id": "tact1ch",
+    "provider": "lichess",
+    "username": "TACT1CH",
+    "firstSeen": 1637586753215,
+    "lastSeen": 1637587604757,
+    "firstSeenTime": "1:12:33 PM",
+    "lastSeenTime": "1:23:59 PM",
+    "onlineDurationMins": 11.4309
+  },
+  "jonamama@lichess": {
+    "id": "jonamama",
+    "provider": "lichess",
+    "username": "Jonamama",
+    "firstSeen": 1637588028518,
+    "lastSeen": 1637588028518
+  }
+}
