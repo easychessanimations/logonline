@@ -1,0 +1,39 @@
+{
+  "pichu-chess-team-2@lichess": {
+    "id": "pichu-chess-team-2",
+    "provider": "lichess",
+    "username": "PICHU-CHESS-TEAM-2",
+    "firstSeen": 1637648145706,
+    "lastSeen": 1637653670725,
+    "firstSeenTime": "6:15:45 AM",
+    "lastSeenTime": "7:23:49 AM",
+    "onlineDurationMins": 68.05733333333333
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1637648265778,
+    "lastSeen": 1637653551197,
+    "firstSeenTime": "6:17:45 AM",
+    "lastSeenTime": "7:25:45 AM",
+    "onlineDurationMins": 67.9969
+  },
+  "ploserute@lichess": {
+    "id": "ploserute",
+    "provider": "lichess",
+    "username": "Ploserute",
+    "firstSeen": 1637649559984,
+    "lastSeen": 1637653876008,
+    "firstSeenTime": "6:39:19 AM",
+    "lastSeenTime": "7:23:23 AM",
+    "onlineDurationMins": 44.0574
+  },
+  "qabbales@lichess": {
+    "id": "qabbales",
+    "provider": "lichess",
+    "username": "Qabbales",
+    "firstSeen": 1637653265251,
+    "lastSeen": 1637653305115
+  }
+}
