@@ -1,0 +1,43 @@
+{
+  "ploserute@lichess": {
+    "id": "ploserute",
+    "provider": "lichess",
+    "username": "Ploserute",
+    "firstSeen": 1637649559984,
+    "lastSeen": 1637659343594,
+    "firstSeenTime": "6:39:19 AM",
+    "lastSeenTime": "8:41:17 AM",
+    "onlineDurationMins": 121.96088333333333
+  },
+  "nicetohityou2000@lichess": {
+    "id": "nicetohityou2000",
+    "provider": "lichess",
+    "username": "NiceToHitYou2000",
+    "firstSeen": 1637656418842,
+    "lastSeen": 1637658927615,
+    "firstSeenTime": "8:33:38 AM",
+    "lastSeenTime": "8:42:06 AM",
+    "onlineDurationMins": 8.458633333333333
+  },
+  "pichu-chess-team-2@lichess": {
+    "id": "pichu-chess-team-2",
+    "provider": "lichess",
+    "username": "PICHU-CHESS-TEAM-2",
+    "firstSeen": 1637657284411,
+    "lastSeen": 1637659071427
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1637659071496,
+    "lastSeen": 1637659071816
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1637659417251,
+    "lastSeen": 1637659417251
+  }
+}
