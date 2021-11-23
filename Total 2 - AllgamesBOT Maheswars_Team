@@ -1,0 +1,19 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1637659417251,
+    "lastSeen": 1637662094880,
+    "firstSeenTime": "9:23:37 AM",
+    "lastSeenTime": "9:28:45 AM",
+    "onlineDurationMins": 5.130333333333334
+  },
+  "maheswars_team@lichess": {
+    "id": "maheswars_team",
+    "provider": "lichess",
+    "username": "Maheswars_Team",
+    "firstSeen": 1637662243495,
+    "lastSeen": 1637662243495
+  }
+}
