@@ -1,0 +1,23 @@
+{
+  "predictor321@lichess": {
+    "id": "predictor321",
+    "provider": "lichess",
+    "username": "Predictor321",
+    "firstSeen": 1637727536121,
+    "lastSeen": 1637727546811
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1637727544622,
+    "lastSeen": 1637727657236
+  },
+  "examplebot@lichess": {
+    "id": "examplebot",
+    "provider": "lichess",
+    "username": "ExampleBot",
+    "firstSeen": 1637727886136,
+    "lastSeen": 1637727886136
+  }
+}
