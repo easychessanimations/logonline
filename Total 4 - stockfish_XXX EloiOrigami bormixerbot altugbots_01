@@ -1,0 +1,30 @@
+{
+  "stockfish_xxx@lichess": {
+    "id": "stockfish_xxx",
+    "provider": "lichess",
+    "username": "stockfish_XXX",
+    "firstSeen": 1637765681497,
+    "lastSeen": 1637767660472
+  },
+  "eloiorigami@lichess": {
+    "id": "eloiorigami",
+    "provider": "lichess",
+    "username": "EloiOrigami",
+    "firstSeen": 1637767491271,
+    "lastSeen": 1637767500743
+  },
+  "bormixerbot@lichess": {
+    "id": "bormixerbot",
+    "provider": "lichess",
+    "username": "bormixerbot",
+    "firstSeen": 1637767757346,
+    "lastSeen": 1637767781982
+  },
+  "altugbots_01@lichess": {
+    "id": "altugbots_01",
+    "provider": "lichess",
+    "username": "altugbots_01",
+    "firstSeen": 1637767782467,
+    "lastSeen": 1637767782467
+  }
+}
