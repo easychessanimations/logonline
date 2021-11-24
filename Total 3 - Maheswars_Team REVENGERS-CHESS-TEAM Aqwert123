@@ -1,0 +1,29 @@
+{
+  "maheswars_team@lichess": {
+    "id": "maheswars_team",
+    "provider": "lichess",
+    "username": "Maheswars_Team",
+    "firstSeen": 1637750393802,
+    "lastSeen": 1637755876429,
+    "firstSeenTime": "10:39:53 AM",
+    "lastSeenTime": "11:37:00 AM",
+    "onlineDurationMins": 57.10675
+  },
+  "revengers-chess-team@lichess": {
+    "id": "revengers-chess-team",
+    "provider": "lichess",
+    "username": "REVENGERS-CHESS-TEAM",
+    "firstSeen": 1637754035023,
+    "lastSeen": 1637756099789,
+    "firstSeenTime": "11:40:35 AM",
+    "lastSeenTime": "11:40:38 AM",
+    "onlineDurationMins": 0.05605
+  },
+  "aqwert123@lichess": {
+    "id": "aqwert123",
+    "provider": "lichess",
+    "username": "Aqwert123",
+    "firstSeen": 1637756364018,
+    "lastSeen": 1637756364019
+  }
+}
