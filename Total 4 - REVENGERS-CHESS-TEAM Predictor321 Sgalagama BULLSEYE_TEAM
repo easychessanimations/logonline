@@ -1,0 +1,33 @@
+{
+  "revengers-chess-team@lichess": {
+    "id": "revengers-chess-team",
+    "provider": "lichess",
+    "username": "REVENGERS-CHESS-TEAM",
+    "firstSeen": 1637734684599,
+    "lastSeen": 1637745007188,
+    "firstSeenTime": "6:18:04 AM",
+    "lastSeenTime": "7:16:06 AM",
+    "onlineDurationMins": 58.02915
+  },
+  "predictor321@lichess": {
+    "id": "predictor321",
+    "provider": "lichess",
+    "username": "Predictor321",
+    "firstSeen": 1637744643043,
+    "lastSeen": 1637744682599
+  },
+  "sgalagama@lichess": {
+    "id": "sgalagama",
+    "provider": "lichess",
+    "username": "Sgalagama",
+    "firstSeen": 1637744683041,
+    "lastSeen": 1637744737556
+  },
+  "bullseye_team@lichess": {
+    "id": "bullseye_team",
+    "provider": "lichess",
+    "username": "BULLSEYE_TEAM",
+    "firstSeen": 1637745562433,
+    "lastSeen": 1637745562433
+  }
+}
