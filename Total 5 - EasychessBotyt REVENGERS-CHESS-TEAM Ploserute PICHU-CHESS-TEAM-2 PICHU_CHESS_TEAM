@@ -1,0 +1,46 @@
+{
+  "easychessbotyt@lichess": {
+    "id": "easychessbotyt",
+    "provider": "lichess",
+    "username": "EasychessBotyt",
+    "firstSeen": 1637734064483,
+    "lastSeen": 1637738709043,
+    "firstSeenTime": "6:07:44 AM",
+    "lastSeenTime": "7:22:46 AM",
+    "onlineDurationMins": 75.04061666666666
+  },
+  "revengers-chess-team@lichess": {
+    "id": "revengers-chess-team",
+    "provider": "lichess",
+    "username": "REVENGERS-CHESS-TEAM",
+    "firstSeen": 1637734684599,
+    "lastSeen": 1637738709133,
+    "firstSeenTime": "6:18:04 AM",
+    "lastSeenTime": "7:16:06 AM",
+    "onlineDurationMins": 58.02915
+  },
+  "ploserute@lichess": {
+    "id": "ploserute",
+    "provider": "lichess",
+    "username": "Ploserute",
+    "firstSeen": 1637736579727,
+    "lastSeen": 1637738545851,
+    "firstSeenTime": "6:49:39 AM",
+    "lastSeenTime": "7:22:25 AM",
+    "onlineDurationMins": 32.76873333333333
+  },
+  "pichu-chess-team-2@lichess": {
+    "id": "pichu-chess-team-2",
+    "provider": "lichess",
+    "username": "PICHU-CHESS-TEAM-2",
+    "firstSeen": 1637738768145,
+    "lastSeen": 1637738776764
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1637738778760,
+    "lastSeen": 1637738778760
+  }
+}
