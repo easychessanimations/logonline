@@ -1,0 +1,23 @@
+{
+  "humanbot_1@lichess": {
+    "id": "humanbot_1",
+    "provider": "lichess",
+    "username": "HumanBot_1",
+    "firstSeen": 1638263145611,
+    "lastSeen": 1638265274610
+  },
+  "auserthatinow@lichess": {
+    "id": "auserthatinow",
+    "provider": "lichess",
+    "username": "auserthatinow",
+    "firstSeen": 1638264720377,
+    "lastSeen": 1638265417791
+  },
+  "eagleeye2021@lichess": {
+    "id": "eagleeye2021",
+    "provider": "lichess",
+    "username": "EagleEye2021",
+    "firstSeen": 1638265517448,
+    "lastSeen": 1638265517448
+  }
+}
