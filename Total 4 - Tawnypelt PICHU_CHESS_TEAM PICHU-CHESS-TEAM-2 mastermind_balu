@@ -1,0 +1,30 @@
+{
+  "tawnypelt@lichess": {
+    "id": "tawnypelt",
+    "provider": "lichess",
+    "username": "Tawnypelt",
+    "firstSeen": 1638354710114,
+    "lastSeen": 1638359305315
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1638359077155,
+    "lastSeen": 1638359727058
+  },
+  "pichu-chess-team-2@lichess": {
+    "id": "pichu-chess-team-2",
+    "provider": "lichess",
+    "username": "PICHU-CHESS-TEAM-2",
+    "firstSeen": 1638359260654,
+    "lastSeen": 1638359964204
+  },
+  "mastermind_balu@lichess": {
+    "id": "mastermind_balu",
+    "provider": "lichess",
+    "username": "mastermind_balu",
+    "firstSeen": 1638359627511,
+    "lastSeen": 1638359692811
+  }
+}
