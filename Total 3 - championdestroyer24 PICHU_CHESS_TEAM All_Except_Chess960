@@ -1,0 +1,26 @@
+{
+  "championdestroyer24@lichess": {
+    "id": "championdestroyer24",
+    "provider": "lichess",
+    "username": "championdestroyer24",
+    "firstSeen": 1638435199848,
+    "lastSeen": 1638441366013,
+    "firstSeenTime": "8:53:19 AM",
+    "lastSeenTime": "9:51:53 AM",
+    "onlineDurationMins": 58.5651
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1638441521149,
+    "lastSeen": 1638441521174
+  },
+  "all_except_chess960@lichess": {
+    "id": "all_except_chess960",
+    "provider": "lichess",
+    "username": "All_Except_Chess960",
+    "firstSeen": 1638441621050,
+    "lastSeen": 1638441621050
+  }
+}
