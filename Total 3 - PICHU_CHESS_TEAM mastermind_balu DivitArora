@@ -1,0 +1,23 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1638443724262,
+    "lastSeen": 1638451948158
+  },
+  "mastermind_balu@lichess": {
+    "id": "mastermind_balu",
+    "provider": "lichess",
+    "username": "mastermind_balu",
+    "firstSeen": 1638444005510,
+    "lastSeen": 1638451868656
+  },
+  "divitarora@lichess": {
+    "id": "divitarora",
+    "provider": "lichess",
+    "username": "DivitArora",
+    "firstSeen": 1638449959173,
+    "lastSeen": 1638452100194
+  }
+}
