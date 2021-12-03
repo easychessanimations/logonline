@@ -1,0 +1,32 @@
+{
+  "mmm657@lichess": {
+    "id": "mmm657",
+    "provider": "lichess",
+    "username": "MMM657",
+    "firstSeen": 1638527861382,
+    "lastSeen": 1638528465476,
+    "firstSeenTime": "10:37:41 AM",
+    "lastSeenTime": "10:47:45 AM",
+    "onlineDurationMins": 10.068233333333334
+  },
+  "abel121@lichess": {
+    "id": "abel121",
+    "provider": "lichess",
+    "username": "abel121",
+    "firstSeen": 1638528093518,
+    "lastSeen": 1638528159737,
+    "firstSeenTime": "10:41:33 AM",
+    "lastSeenTime": "10:42:39 AM",
+    "onlineDurationMins": 1.10365
+  },
+  "viyana_bot@lichess": {
+    "id": "viyana_bot",
+    "provider": "lichess",
+    "username": "Viyana_Bot",
+    "firstSeen": 1638528663503,
+    "lastSeen": 1638528779417,
+    "firstSeenTime": "10:51:03 AM",
+    "lastSeenTime": "10:52:59 AM",
+    "onlineDurationMins": 1.9319
+  }
+}
