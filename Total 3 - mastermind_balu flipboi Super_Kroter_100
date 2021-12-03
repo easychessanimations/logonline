@@ -1,0 +1,29 @@
+{
+  "mastermind_balu@lichess": {
+    "id": "mastermind_balu",
+    "provider": "lichess",
+    "username": "mastermind_balu",
+    "firstSeen": 1638532839018,
+    "lastSeen": 1638537597033,
+    "firstSeenTime": "12:00:39 PM",
+    "lastSeenTime": "1:15:59 PM",
+    "onlineDurationMins": 75.33755
+  },
+  "flipboi@lichess": {
+    "id": "flipboi",
+    "provider": "lichess",
+    "username": "flipboi",
+    "firstSeen": 1638537371201,
+    "lastSeen": 1638537381772,
+    "firstSeenTime": "1:16:11 PM",
+    "lastSeenTime": "1:16:21 PM",
+    "onlineDurationMins": 0.17618333333333333
+  },
+  "super_kroter_100@lichess": {
+    "id": "super_kroter_100",
+    "provider": "lichess",
+    "username": "Super_Kroter_100",
+    "firstSeen": 1638537968360,
+    "lastSeen": 1638537968360
+  }
+}
