@@ -1,0 +1,33 @@
+{
+  "revengers-chess-team@lichess": {
+    "id": "revengers-chess-team",
+    "provider": "lichess",
+    "username": "REVENGERS-CHESS-TEAM",
+    "firstSeen": 1638623672008,
+    "lastSeen": 1638629674772,
+    "firstSeenTime": "1:14:32 PM",
+    "lastSeenTime": "1:15:13 PM",
+    "onlineDurationMins": 0.6860833333333334
+  },
+  "altugbots_02@lichess": {
+    "id": "altugbots_02",
+    "provider": "lichess",
+    "username": "altugbots_02",
+    "firstSeen": 1638628702418,
+    "lastSeen": 1638628944949
+  },
+  "botwery12343@lichess": {
+    "id": "botwery12343",
+    "provider": "lichess",
+    "username": "BOTwery12343",
+    "firstSeen": 1638629364529,
+    "lastSeen": 1638629815717
+  },
+  "sl_boy@lichess": {
+    "id": "sl_boy",
+    "provider": "lichess",
+    "username": "SL_BOY",
+    "firstSeen": 1638629832055,
+    "lastSeen": 1638629832055
+  }
+}
