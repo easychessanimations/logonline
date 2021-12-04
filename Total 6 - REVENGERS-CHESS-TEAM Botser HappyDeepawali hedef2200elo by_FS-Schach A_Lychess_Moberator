@@ -1,0 +1,47 @@
+{
+  "revengers-chess-team@lichess": {
+    "id": "revengers-chess-team",
+    "provider": "lichess",
+    "username": "REVENGERS-CHESS-TEAM",
+    "firstSeen": 1638623672008,
+    "lastSeen": 1638633707605,
+    "firstSeenTime": "1:14:32 PM",
+    "lastSeenTime": "1:15:13 PM",
+    "onlineDurationMins": 0.6860833333333334
+  },
+  "botser@lichess": {
+    "id": "botser",
+    "provider": "lichess",
+    "username": "Botser",
+    "firstSeen": 1638630652892,
+    "lastSeen": 1638633967468
+  },
+  "happydeepawali@lichess": {
+    "id": "happydeepawali",
+    "provider": "lichess",
+    "username": "HappyDeepawali",
+    "firstSeen": 1638631478701,
+    "lastSeen": 1638633484623
+  },
+  "hedef2200elo@lichess": {
+    "id": "hedef2200elo",
+    "provider": "lichess",
+    "username": "hedef2200elo",
+    "firstSeen": 1638633585446,
+    "lastSeen": 1638634005585
+  },
+  "by_fs-schach@lichess": {
+    "id": "by_fs-schach",
+    "provider": "lichess",
+    "username": "by_FS-Schach",
+    "firstSeen": 1638633806633,
+    "lastSeen": 1638633957158
+  },
+  "a_lychess_moberator@lichess": {
+    "id": "a_lychess_moberator",
+    "provider": "lichess",
+    "username": "A_Lychess_Moberator",
+    "firstSeen": 1638634010057,
+    "lastSeen": 1638634010057
+  }
+}
