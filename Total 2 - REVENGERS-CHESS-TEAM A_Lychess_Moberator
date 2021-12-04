@@ -1,0 +1,19 @@
+{
+  "revengers-chess-team@lichess": {
+    "id": "revengers-chess-team",
+    "provider": "lichess",
+    "username": "REVENGERS-CHESS-TEAM",
+    "firstSeen": 1638623672008,
+    "lastSeen": 1638628307482,
+    "firstSeenTime": "1:14:32 PM",
+    "lastSeenTime": "1:15:13 PM",
+    "onlineDurationMins": 0.6860833333333334
+  },
+  "a_lychess_moberator@lichess": {
+    "id": "a_lychess_moberator",
+    "provider": "lichess",
+    "username": "A_Lychess_Moberator",
+    "firstSeen": 1638628371684,
+    "lastSeen": 1638628371684
+  }
+}
