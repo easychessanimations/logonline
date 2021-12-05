@@ -1,0 +1,26 @@
+{
+  "rare-player1@lichess": {
+    "id": "rare-player1",
+    "provider": "lichess",
+    "username": "Rare-Player1",
+    "firstSeen": 1638694817001,
+    "lastSeen": 1638695336497,
+    "firstSeenTime": "9:00:17 AM",
+    "lastSeenTime": "9:01:10 AM",
+    "onlineDurationMins": 0.8882666666666666
+  },
+  "testingrobottester@lichess": {
+    "id": "testingrobottester",
+    "provider": "lichess",
+    "username": "TestingrobotTester",
+    "firstSeen": 1638695275900,
+    "lastSeen": 1638695920209
+  },
+  "boteshan2007@lichess": {
+    "id": "boteshan2007",
+    "provider": "lichess",
+    "username": "BOTeshan2007",
+    "firstSeen": 1638695785590,
+    "lastSeen": 1638695998412
+  }
+}
