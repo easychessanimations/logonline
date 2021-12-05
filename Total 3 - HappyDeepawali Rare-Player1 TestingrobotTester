@@ -1,0 +1,29 @@
+{
+  "happydeepawali@lichess": {
+    "id": "happydeepawali",
+    "provider": "lichess",
+    "username": "HappyDeepawali",
+    "firstSeen": 1638682736428,
+    "lastSeen": 1638695094443,
+    "firstSeenTime": "5:38:56 AM",
+    "lastSeenTime": "8:52:58 AM",
+    "onlineDurationMins": 194.03026666666668
+  },
+  "rare-player1@lichess": {
+    "id": "rare-player1",
+    "provider": "lichess",
+    "username": "Rare-Player1",
+    "firstSeen": 1638694817001,
+    "lastSeen": 1638695336497,
+    "firstSeenTime": "9:00:17 AM",
+    "lastSeenTime": "9:01:10 AM",
+    "onlineDurationMins": 0.8882666666666666
+  },
+  "testingrobottester@lichess": {
+    "id": "testingrobottester",
+    "provider": "lichess",
+    "username": "TestingrobotTester",
+    "firstSeen": 1638695275900,
+    "lastSeen": 1638695336855
+  }
+}
