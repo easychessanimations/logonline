@@ -1,0 +1,30 @@
+{
+  "botser@lichess": {
+    "id": "botser",
+    "provider": "lichess",
+    "username": "Botser",
+    "firstSeen": 1638714059784,
+    "lastSeen": 1638718147456
+  },
+  "revengers-chess-team@lichess": {
+    "id": "revengers-chess-team",
+    "provider": "lichess",
+    "username": "REVENGERS-CHESS-TEAM",
+    "firstSeen": 1638717098466,
+    "lastSeen": 1638717766912
+  },
+  "superedgar@lichess": {
+    "id": "superedgar",
+    "provider": "lichess",
+    "username": "SUPEREDGAR",
+    "firstSeen": 1638717755312,
+    "lastSeen": 1638717826225
+  },
+  "gmavangard-est@lichess": {
+    "id": "gmavangard-est",
+    "provider": "lichess",
+    "username": "gmavangard-est",
+    "firstSeen": 1638717872012,
+    "lastSeen": 1638718403370
+  }
+}
