@@ -1,0 +1,32 @@
+{
+  "happydeepawali@lichess": {
+    "id": "happydeepawali",
+    "provider": "lichess",
+    "username": "HappyDeepawali",
+    "firstSeen": 1638682736428,
+    "lastSeen": 1638693714764,
+    "firstSeenTime": "5:38:56 AM",
+    "lastSeenTime": "8:29:57 AM",
+    "onlineDurationMins": 171.01856666666666
+  },
+  "marques-brownlee@lichess": {
+    "id": "marques-brownlee",
+    "provider": "lichess",
+    "username": "Marques-Brownlee",
+    "firstSeen": 1638689191428,
+    "lastSeen": 1638693342108,
+    "firstSeenTime": "7:26:31 AM",
+    "lastSeenTime": "8:32:42 AM",
+    "onlineDurationMins": 66.18646666666666
+  },
+  "magic_maimo@lichess": {
+    "id": "magic_maimo",
+    "provider": "lichess",
+    "username": "Magic_Maimo",
+    "firstSeen": 1638692831728,
+    "lastSeen": 1638693357260,
+    "firstSeenTime": "8:27:11 AM",
+    "lastSeenTime": "8:30:31 AM",
+    "onlineDurationMins": 3.3299
+  }
+}
