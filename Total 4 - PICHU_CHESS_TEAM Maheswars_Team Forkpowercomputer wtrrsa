@@ -1,0 +1,36 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1638872510053,
+    "lastSeen": 1638878636112,
+    "firstSeenTime": "10:21:50 AM",
+    "lastSeenTime": "11:30:42 AM",
+    "onlineDurationMins": 68.88121666666666
+  },
+  "maheswars_team@lichess": {
+    "id": "maheswars_team",
+    "provider": "lichess",
+    "username": "Maheswars_Team",
+    "firstSeen": 1638875416114,
+    "lastSeen": 1638878235464,
+    "firstSeenTime": "11:10:16 AM",
+    "lastSeenTime": "11:24:28 AM",
+    "onlineDurationMins": 14.199216666666667
+  },
+  "forkpowercomputer@lichess": {
+    "id": "forkpowercomputer",
+    "provider": "lichess",
+    "username": "Forkpowercomputer",
+    "firstSeen": 1638877202358,
+    "lastSeen": 1638878704510
+  },
+  "wtrrsa@lichess": {
+    "id": "wtrrsa",
+    "provider": "lichess",
+    "username": "wtrrsa",
+    "firstSeen": 1638878896332,
+    "lastSeen": 1638878896332
+  }
+}
