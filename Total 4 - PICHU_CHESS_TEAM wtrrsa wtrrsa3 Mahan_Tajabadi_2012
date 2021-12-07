@@ -1,0 +1,33 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1638872510053,
+    "lastSeen": 1638880429585,
+    "firstSeenTime": "10:21:50 AM",
+    "lastSeenTime": "11:30:42 AM",
+    "onlineDurationMins": 68.88121666666666
+  },
+  "wtrrsa@lichess": {
+    "id": "wtrrsa",
+    "provider": "lichess",
+    "username": "wtrrsa",
+    "firstSeen": 1638878896332,
+    "lastSeen": 1638880828940
+  },
+  "wtrrsa3@lichess": {
+    "id": "wtrrsa3",
+    "provider": "lichess",
+    "username": "wtrrsa3",
+    "firstSeen": 1638880840875,
+    "lastSeen": 1638881150423
+  },
+  "mahan_tajabadi_2012@lichess": {
+    "id": "mahan_tajabadi_2012",
+    "provider": "lichess",
+    "username": "Mahan_Tajabadi_2012",
+    "firstSeen": 1638881154365,
+    "lastSeen": 1638881154365
+  }
+}
