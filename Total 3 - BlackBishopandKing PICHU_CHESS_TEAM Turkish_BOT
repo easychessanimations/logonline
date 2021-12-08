@@ -1,0 +1,29 @@
+{
+  "95125535@github": {
+    "id": "95125535",
+    "provider": "github",
+    "username": "BlackBishopandKing",
+    "firstSeen": 1638956787024,
+    "lastSeen": 1638958128734,
+    "firstSeenTime": "9:46:27 AM",
+    "lastSeenTime": "9:57:49 AM",
+    "onlineDurationMins": 11.373883333333334
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1638957108622,
+    "lastSeen": 1638958126566,
+    "firstSeenTime": "9:51:48 AM",
+    "lastSeenTime": "10:03:31 AM",
+    "onlineDurationMins": 11.71135
+  },
+  "turkish_bot@lichess": {
+    "id": "turkish_bot",
+    "provider": "lichess",
+    "username": "Turkish_BOT",
+    "firstSeen": 1638958183280,
+    "lastSeen": 1638958183280
+  }
+}
