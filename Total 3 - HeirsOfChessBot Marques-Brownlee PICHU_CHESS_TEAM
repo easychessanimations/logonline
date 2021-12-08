@@ -1,0 +1,29 @@
+{
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1638946954033,
+    "lastSeen": 1638954264473,
+    "firstSeenTime": "7:02:34 AM",
+    "lastSeenTime": "8:01:51 AM",
+    "onlineDurationMins": 59.28431666666667
+  },
+  "marques-brownlee@lichess": {
+    "id": "marques-brownlee",
+    "provider": "lichess",
+    "username": "Marques-Brownlee",
+    "firstSeen": 1638947051162,
+    "lastSeen": 1638954440898,
+    "firstSeenTime": "7:04:11 AM",
+    "lastSeenTime": "8:03:34 AM",
+    "onlineDurationMins": 59.390633333333334
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1638953741251,
+    "lastSeen": 1638954417459
+  }
+}
