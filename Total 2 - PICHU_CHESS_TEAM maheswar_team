@@ -1,0 +1,19 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1638963114372,
+    "lastSeen": 1638967634428,
+    "firstSeenTime": "11:31:54 AM",
+    "lastSeenTime": "12:22:14 PM",
+    "onlineDurationMins": 50.33323333333333
+  },
+  "maheswar_team@lichess": {
+    "id": "maheswar_team",
+    "provider": "lichess",
+    "username": "maheswar_team",
+    "firstSeen": 1638966790271,
+    "lastSeen": 1638967542975
+  }
+}
