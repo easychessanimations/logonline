@@ -1,0 +1,29 @@
+{
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1638946954033,
+    "lastSeen": 1638950511092,
+    "firstSeenTime": "7:02:34 AM",
+    "lastSeenTime": "8:01:51 AM",
+    "onlineDurationMins": 59.28431666666667
+  },
+  "marques-brownlee@lichess": {
+    "id": "marques-brownlee",
+    "provider": "lichess",
+    "username": "Marques-Brownlee",
+    "firstSeen": 1638947051162,
+    "lastSeen": 1638950614600,
+    "firstSeenTime": "7:04:11 AM",
+    "lastSeenTime": "8:03:34 AM",
+    "onlineDurationMins": 59.390633333333334
+  },
+  "revengers-chess_team@lichess": {
+    "id": "revengers-chess_team",
+    "provider": "lichess",
+    "username": "REVENGERS-CHESS_TEAM",
+    "firstSeen": 1638950869085,
+    "lastSeen": 1638950869086
+  }
+}
