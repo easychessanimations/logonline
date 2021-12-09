@@ -1,0 +1,50 @@
+{
+  "m_k_bot@lichess": {
+    "id": "m_k_bot",
+    "provider": "lichess",
+    "username": "M_K_BOT",
+    "firstSeen": 1639050932693,
+    "lastSeen": 1639057842067,
+    "firstSeenTime": "11:55:32 AM",
+    "lastSeenTime": "12:32:43 PM",
+    "onlineDurationMins": 37.185433333333336
+  },
+  "maheswar_team@lichess": {
+    "id": "maheswar_team",
+    "provider": "lichess",
+    "username": "maheswar_team",
+    "firstSeen": 1639051385740,
+    "lastSeen": 1639057868115,
+    "firstSeenTime": "12:03:05 PM",
+    "lastSeenTime": "12:32:31 PM",
+    "onlineDurationMins": 29.422116666666668
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1639054387431,
+    "lastSeen": 1639057392407
+  },
+  "i-love_atomicbot@lichess": {
+    "id": "i-love_atomicbot",
+    "provider": "lichess",
+    "username": "I-Love_atomicBOT",
+    "firstSeen": 1639058043198,
+    "lastSeen": 1639058043198
+  },
+  "m_k_bot_lk@lichess": {
+    "id": "m_k_bot_lk",
+    "provider": "lichess",
+    "username": "M_K_BOT_LK",
+    "firstSeen": 1639058047505,
+    "lastSeen": 1639058071958
+  },
+  "i-love-atomic@lichess": {
+    "id": "i-love-atomic",
+    "provider": "lichess",
+    "username": "I-Love-Atomic",
+    "firstSeen": 1639058162968,
+    "lastSeen": 1639058162968
+  }
+}
