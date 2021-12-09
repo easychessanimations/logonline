@@ -1,0 +1,26 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1639020241755,
+    "lastSeen": 1639032293928,
+    "firstSeenTime": "3:24:01 AM",
+    "lastSeenTime": "4:18:57 AM",
+    "onlineDurationMins": 54.9285
+  },
+  "sl_boy@lichess": {
+    "id": "sl_boy",
+    "provider": "lichess",
+    "username": "SL_BOY",
+    "firstSeen": 1639031241839,
+    "lastSeen": 1639032595960
+  },
+  "royalminiac-ii@lichess": {
+    "id": "royalminiac-ii",
+    "provider": "lichess",
+    "username": "RoyalMiniac-II",
+    "firstSeen": 1639031712364,
+    "lastSeen": 1639032670855
+  }
+}
