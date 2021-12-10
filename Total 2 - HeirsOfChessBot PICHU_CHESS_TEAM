@@ -1,0 +1,19 @@
+{
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1639109997439,
+    "lastSeen": 1639111342431,
+    "firstSeenTime": "4:19:57 AM",
+    "lastSeenTime": "4:36:50 AM",
+    "onlineDurationMins": 16.887283333333333
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1639111532728,
+    "lastSeen": 1639111532728
+  }
+}
