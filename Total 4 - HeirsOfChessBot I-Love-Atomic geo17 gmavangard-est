@@ -1,0 +1,39 @@
+{
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1639126795307,
+    "lastSeen": 1639134040039,
+    "firstSeenTime": "8:59:55 AM",
+    "lastSeenTime": "11:00:40 AM",
+    "onlineDurationMins": 120.74553333333333
+  },
+  "i-love-atomic@lichess": {
+    "id": "i-love-atomic",
+    "provider": "lichess",
+    "username": "I-Love-Atomic",
+    "firstSeen": 1639130539819,
+    "lastSeen": 1639134098334,
+    "firstSeenTime": "10:02:19 AM",
+    "lastSeenTime": "11:01:38 AM",
+    "onlineDurationMins": 59.30858333333333
+  },
+  "geo17@lichess": {
+    "id": "geo17",
+    "provider": "lichess",
+    "username": "geo17",
+    "firstSeen": 1639133573087,
+    "lastSeen": 1639133599544,
+    "firstSeenTime": "10:52:53 AM",
+    "lastSeenTime": "10:53:19 AM",
+    "onlineDurationMins": 0.44095
+  },
+  "gmavangard-est@lichess": {
+    "id": "gmavangard-est",
+    "provider": "lichess",
+    "username": "gmavangard-est",
+    "firstSeen": 1639134369069,
+    "lastSeen": 1639134369069
+  }
+}
