@@ -1,0 +1,23 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1639113522703,
+    "lastSeen": 1639115517536
+  },
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1639115229111,
+    "lastSeen": 1639115689199
+  },
+  "purrfecttmeow@lichess": {
+    "id": "purrfecttmeow",
+    "provider": "lichess",
+    "username": "PurrFecttMeow",
+    "firstSeen": 1639115749139,
+    "lastSeen": 1639115749139
+  }
+}
