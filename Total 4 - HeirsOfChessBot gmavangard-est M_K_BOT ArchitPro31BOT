@@ -1,0 +1,30 @@
+{
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1639136080009,
+    "lastSeen": 1639153102947
+  },
+  "gmavangard-est@lichess": {
+    "id": "gmavangard-est",
+    "provider": "lichess",
+    "username": "gmavangard-est",
+    "firstSeen": 1639136254728,
+    "lastSeen": 1639153153940
+  },
+  "m_k_bot@lichess": {
+    "id": "m_k_bot",
+    "provider": "lichess",
+    "username": "M_K_BOT",
+    "firstSeen": 1639147743175,
+    "lastSeen": 1639153161279
+  },
+  "architpro31bot@lichess": {
+    "id": "architpro31bot",
+    "provider": "lichess",
+    "username": "ArchitPro31BOT",
+    "firstSeen": 1639153318414,
+    "lastSeen": 1639153716688
+  }
+}
