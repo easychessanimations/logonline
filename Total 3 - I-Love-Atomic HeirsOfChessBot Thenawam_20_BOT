@@ -1,0 +1,29 @@
+{
+  "i-love-atomic@lichess": {
+    "id": "i-love-atomic",
+    "provider": "lichess",
+    "username": "I-Love-Atomic",
+    "firstSeen": 1639126593400,
+    "lastSeen": 1639126610715,
+    "firstSeenTime": "8:56:33 AM",
+    "lastSeenTime": "8:56:50 AM",
+    "onlineDurationMins": 0.28858333333333336
+  },
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1639126795307,
+    "lastSeen": 1639126800123,
+    "firstSeenTime": "8:59:55 AM",
+    "lastSeenTime": "9:00:00 AM",
+    "onlineDurationMins": 0.08026666666666667
+  },
+  "thenawam_20_bot@lichess": {
+    "id": "thenawam_20_bot",
+    "provider": "lichess",
+    "username": "Thenawam_20_BOT",
+    "firstSeen": 1639127074376,
+    "lastSeen": 1639127074376
+  }
+}
