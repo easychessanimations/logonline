@@ -1,0 +1,37 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1639113522703,
+    "lastSeen": 1639116526210
+  },
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1639115229111,
+    "lastSeen": 1639116354956
+  },
+  "purrfecttmeow@lichess": {
+    "id": "purrfecttmeow",
+    "provider": "lichess",
+    "username": "PurrFecttMeow",
+    "firstSeen": 1639115749139,
+    "lastSeen": 1639116540898
+  },
+  "m_k_bot@lichess": {
+    "id": "m_k_bot",
+    "provider": "lichess",
+    "username": "M_K_BOT",
+    "firstSeen": 1639115911830,
+    "lastSeen": 1639116485174
+  },
+  "m_k_bot_lk@lichess": {
+    "id": "m_k_bot_lk",
+    "provider": "lichess",
+    "username": "M_K_BOT_LK",
+    "firstSeen": 1639116541316,
+    "lastSeen": 1639116541316
+  }
+}
