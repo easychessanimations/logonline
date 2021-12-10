@@ -1,0 +1,36 @@
+{
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1639115229111,
+    "lastSeen": 1639122523512,
+    "firstSeenTime": "5:47:09 AM",
+    "lastSeenTime": "7:27:56 AM",
+    "onlineDurationMins": 100.78215
+  },
+  "m_k_bot@lichess": {
+    "id": "m_k_bot",
+    "provider": "lichess",
+    "username": "M_K_BOT",
+    "firstSeen": 1639115911830,
+    "lastSeen": 1639122128230,
+    "firstSeenTime": "5:58:31 AM",
+    "lastSeenTime": "7:29:32 AM",
+    "onlineDurationMins": 91.01706666666666
+  },
+  "m_k_bot_lk@lichess": {
+    "id": "m_k_bot_lk",
+    "provider": "lichess",
+    "username": "M_K_BOT_LK",
+    "firstSeen": 1639122086466,
+    "lastSeen": 1639122088244
+  },
+  "thenawam_20_bot@lichess": {
+    "id": "thenawam_20_bot",
+    "provider": "lichess",
+    "username": "Thenawam_20_BOT",
+    "firstSeen": 1639122217779,
+    "lastSeen": 1639122251853
+  }
+}
