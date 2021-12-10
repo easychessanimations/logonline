@@ -1,0 +1,23 @@
+{
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1639115229111,
+    "lastSeen": 1639119238011
+  },
+  "m_k_bot@lichess": {
+    "id": "m_k_bot",
+    "provider": "lichess",
+    "username": "M_K_BOT",
+    "firstSeen": 1639115911830,
+    "lastSeen": 1639119224665
+  },
+  "chessplayer_royal_2@lichess": {
+    "id": "chessplayer_royal_2",
+    "provider": "lichess",
+    "username": "ChessPlayer_Royal_2",
+    "firstSeen": 1639119251301,
+    "lastSeen": 1639119251301
+  }
+}
