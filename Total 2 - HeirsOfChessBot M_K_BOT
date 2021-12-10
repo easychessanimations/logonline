@@ -4,13 +4,19 @@
     "provider": "lichess",
     "username": "HeirsOfChessBot",
     "firstSeen": 1639115229111,
-    "lastSeen": 1639120071322
+    "lastSeen": 1639123177073,
+    "firstSeenTime": "5:47:09 AM",
+    "lastSeenTime": "7:48:43 AM",
+    "onlineDurationMins": 121.57335
   },
   "m_k_bot@lichess": {
     "id": "m_k_bot",
     "provider": "lichess",
     "username": "M_K_BOT",
     "firstSeen": 1639115911830,
-    "lastSeen": 1639120198227
+    "lastSeen": 1639122752676,
+    "firstSeenTime": "5:58:31 AM",
+    "lastSeenTime": "7:52:32 AM",
+    "onlineDurationMins": 114.0141
   }
 }
