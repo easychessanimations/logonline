@@ -1,0 +1,32 @@
+{
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1639224950661,
+    "lastSeen": 1639229550902,
+    "firstSeenTime": "12:15:50 PM",
+    "lastSeenTime": "1:29:36 PM",
+    "onlineDurationMins": 73.75825
+  },
+  "architpro31bot@lichess": {
+    "id": "architpro31bot",
+    "provider": "lichess",
+    "username": "ArchitPro31BOT",
+    "firstSeen": 1639227915841,
+    "lastSeen": 1639229419317,
+    "firstSeenTime": "1:05:15 PM",
+    "lastSeenTime": "1:30:19 PM",
+    "onlineDurationMins": 25.057933333333335
+  },
+  "boteshan2007@lichess": {
+    "id": "boteshan2007",
+    "provider": "lichess",
+    "username": "BOTeshan2007",
+    "firstSeen": 1639229133976,
+    "lastSeen": 1639229809260,
+    "firstSeenTime": "1:25:33 PM",
+    "lastSeenTime": "1:25:48 PM",
+    "onlineDurationMins": 0.24278333333333332
+  }
+}
