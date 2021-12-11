@@ -1,0 +1,40 @@
+{
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1639209160561,
+    "lastSeen": 1639213784290,
+    "firstSeenTime": "7:52:40 AM",
+    "lastSeenTime": "7:59:37 AM",
+    "onlineDurationMins": 6.956
+  },
+  "pichu_chess_team_2@lichess": {
+    "id": "pichu_chess_team_2",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM_2",
+    "firstSeen": 1639213286852,
+    "lastSeen": 1639213295669
+  },
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1639213428028,
+    "lastSeen": 1639213540530
+  },
+  "vladislavbotchenko@lichess": {
+    "id": "vladislavbotchenko",
+    "provider": "lichess",
+    "username": "VladislavBOTchenko",
+    "firstSeen": 1639213894938,
+    "lastSeen": 1639213894938
+  },
+  "chess_player7c@lichess": {
+    "id": "chess_player7c",
+    "provider": "lichess",
+    "username": "chess_player7c",
+    "firstSeen": 1639214000664,
+    "lastSeen": 1639214000664
+  }
+}
