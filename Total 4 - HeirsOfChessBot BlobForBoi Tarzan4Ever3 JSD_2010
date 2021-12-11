@@ -1,0 +1,36 @@
+{
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1639224950661,
+    "lastSeen": 1639230912069,
+    "firstSeenTime": "12:15:50 PM",
+    "lastSeenTime": "1:54:29 PM",
+    "onlineDurationMins": 98.64978333333333
+  },
+  "blobforboi@lichess": {
+    "id": "blobforboi",
+    "provider": "lichess",
+    "username": "BlobForBoi",
+    "firstSeen": 1639230062814,
+    "lastSeen": 1639230702191,
+    "firstSeenTime": "1:41:02 PM",
+    "lastSeenTime": "1:51:42 PM",
+    "onlineDurationMins": 10.656283333333333
+  },
+  "tarzan4ever3@lichess": {
+    "id": "tarzan4ever3",
+    "provider": "lichess",
+    "username": "Tarzan4Ever3",
+    "firstSeen": 1639231244747,
+    "lastSeen": 1639231254864
+  },
+  "jsd_2010@lichess": {
+    "id": "jsd_2010",
+    "provider": "lichess",
+    "username": "JSD_2010",
+    "firstSeen": 1639231290377,
+    "lastSeen": 1639231290377
+  }
+}
