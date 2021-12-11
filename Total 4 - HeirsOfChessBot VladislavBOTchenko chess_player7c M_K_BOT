@@ -1,0 +1,33 @@
+{
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1639209160561,
+    "lastSeen": 1639214440620,
+    "firstSeenTime": "7:52:40 AM",
+    "lastSeenTime": "7:59:37 AM",
+    "onlineDurationMins": 6.956
+  },
+  "vladislavbotchenko@lichess": {
+    "id": "vladislavbotchenko",
+    "provider": "lichess",
+    "username": "VladislavBOTchenko",
+    "firstSeen": 1639213894938,
+    "lastSeen": 1639214124805
+  },
+  "chess_player7c@lichess": {
+    "id": "chess_player7c",
+    "provider": "lichess",
+    "username": "chess_player7c",
+    "firstSeen": 1639214000664,
+    "lastSeen": 1639214366285
+  },
+  "m_k_bot@lichess": {
+    "id": "m_k_bot",
+    "provider": "lichess",
+    "username": "M_K_BOT",
+    "firstSeen": 1639214195937,
+    "lastSeen": 1639214206193
+  }
+}
