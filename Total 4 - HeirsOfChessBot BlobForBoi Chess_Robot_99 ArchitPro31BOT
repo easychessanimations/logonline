@@ -1,0 +1,39 @@
+{
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1639224950661,
+    "lastSeen": 1639227764892,
+    "firstSeenTime": "12:15:50 PM",
+    "lastSeenTime": "12:55:57 PM",
+    "onlineDurationMins": 40.114666666666665
+  },
+  "blobforboi@lichess": {
+    "id": "blobforboi",
+    "provider": "lichess",
+    "username": "BlobForBoi",
+    "firstSeen": 1639227006656,
+    "lastSeen": 1639227701700,
+    "firstSeenTime": "12:50:06 PM",
+    "lastSeenTime": "12:50:28 PM",
+    "onlineDurationMins": 0.36315
+  },
+  "chess_robot_99@lichess": {
+    "id": "chess_robot_99",
+    "provider": "lichess",
+    "username": "Chess_Robot_99",
+    "firstSeen": 1639227533863,
+    "lastSeen": 1639227643912,
+    "firstSeenTime": "12:58:53 PM",
+    "lastSeenTime": "1:00:09 PM",
+    "onlineDurationMins": 1.2529
+  },
+  "architpro31bot@lichess": {
+    "id": "architpro31bot",
+    "provider": "lichess",
+    "username": "ArchitPro31BOT",
+    "firstSeen": 1639227915841,
+    "lastSeen": 1639227915841
+  }
+}
