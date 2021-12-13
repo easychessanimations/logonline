@@ -1,0 +1,30 @@
+{
+  "its_game@lichess": {
+    "id": "its_game",
+    "provider": "lichess",
+    "username": "Its_game",
+    "firstSeen": 1639385676042,
+    "lastSeen": 1639395291944
+  },
+  "acaf_bot_legend@lichess": {
+    "id": "acaf_bot_legend",
+    "provider": "lichess",
+    "username": "Acaf_bot_legend",
+    "firstSeen": 1639394450532,
+    "lastSeen": 1639395057092
+  },
+  "abhinav-aakash-bot@lichess": {
+    "id": "abhinav-aakash-bot",
+    "provider": "lichess",
+    "username": "Abhinav-Aakash-Bot",
+    "firstSeen": 1639394997664,
+    "lastSeen": 1639395491478
+  },
+  "ac-ac-bot@lichess": {
+    "id": "ac-ac-bot",
+    "provider": "lichess",
+    "username": "AC-AC-Bot",
+    "firstSeen": 1639395692686,
+    "lastSeen": 1639395692686
+  }
+}
