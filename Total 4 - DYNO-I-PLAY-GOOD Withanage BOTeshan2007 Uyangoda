@@ -1,0 +1,33 @@
+{
+  "dyno-i-play-good@lichess": {
+    "id": "dyno-i-play-good",
+    "provider": "lichess",
+    "username": "DYNO-I-PLAY-GOOD",
+    "firstSeen": 1639484702688,
+    "lastSeen": 1639492223520,
+    "firstSeenTime": "12:25:02 PM",
+    "lastSeenTime": "1:34:24 PM",
+    "onlineDurationMins": 69.36523333333334
+  },
+  "withanage@lichess": {
+    "id": "withanage",
+    "provider": "lichess",
+    "username": "Withanage",
+    "firstSeen": 1639490767474,
+    "lastSeen": 1639492300068
+  },
+  "boteshan2007@lichess": {
+    "id": "boteshan2007",
+    "provider": "lichess",
+    "username": "BOTeshan2007",
+    "firstSeen": 1639491498851,
+    "lastSeen": 1639491759764
+  },
+  "uyangoda@lichess": {
+    "id": "uyangoda",
+    "provider": "lichess",
+    "username": "Uyangoda",
+    "firstSeen": 1639492030971,
+    "lastSeen": 1639492298664
+  }
+}
