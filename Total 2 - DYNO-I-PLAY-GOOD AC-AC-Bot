@@ -1,0 +1,19 @@
+{
+  "dyno-i-play-good@lichess": {
+    "id": "dyno-i-play-good",
+    "provider": "lichess",
+    "username": "DYNO-I-PLAY-GOOD",
+    "firstSeen": 1639465271683,
+    "lastSeen": 1639466522298,
+    "firstSeenTime": "7:01:11 AM",
+    "lastSeenTime": "7:07:31 AM",
+    "onlineDurationMins": 6.3238
+  },
+  "ac-ac-bot@lichess": {
+    "id": "ac-ac-bot",
+    "provider": "lichess",
+    "username": "AC-AC-Bot",
+    "firstSeen": 1639466525245,
+    "lastSeen": 1639466525245
+  }
+}
