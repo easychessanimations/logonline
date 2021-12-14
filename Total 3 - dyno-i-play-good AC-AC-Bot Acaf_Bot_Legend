@@ -1,0 +1,23 @@
+{
+  "dyno-i-play-good@lichess": {
+    "id": "dyno-i-play-good",
+    "provider": "lichess",
+    "username": "dyno-i-play-good",
+    "firstSeen": 1639453799142,
+    "lastSeen": 1639453921016
+  },
+  "ac-ac-bot@lichess": {
+    "id": "ac-ac-bot",
+    "provider": "lichess",
+    "username": "AC-AC-Bot",
+    "firstSeen": 1639453855123,
+    "lastSeen": 1639453882781
+  },
+  "acaf_bot_legend@lichess": {
+    "id": "acaf_bot_legend",
+    "provider": "lichess",
+    "username": "Acaf_Bot_Legend",
+    "firstSeen": 1639453924987,
+    "lastSeen": 1639453924987
+  }
+}
