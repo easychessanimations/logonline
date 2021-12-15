@@ -1,0 +1,23 @@
+{
+  "kindapassivebot@lichess": {
+    "id": "kindapassivebot",
+    "provider": "lichess",
+    "username": "KindaPassiveBot",
+    "firstSeen": 1639579326120,
+    "lastSeen": 1639580152296
+  },
+  "inspired_maths@lichess": {
+    "id": "inspired_maths",
+    "provider": "lichess",
+    "username": "Inspired_Maths",
+    "firstSeen": 1639579329510,
+    "lastSeen": 1639580627712
+  },
+  "blobforboi@lichess": {
+    "id": "blobforboi",
+    "provider": "lichess",
+    "username": "BlobForBoi",
+    "firstSeen": 1639579380144,
+    "lastSeen": 1639580704479
+  }
+}
