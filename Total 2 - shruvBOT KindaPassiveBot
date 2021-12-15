@@ -1,0 +1,16 @@
+{
+  "shruvbot@lichess": {
+    "id": "shruvbot",
+    "provider": "lichess",
+    "username": "shruvBOT",
+    "firstSeen": 1639604363687,
+    "lastSeen": 1639604430310
+  },
+  "kindapassivebot@lichess": {
+    "id": "kindapassivebot",
+    "provider": "lichess",
+    "username": "KindaPassiveBot",
+    "firstSeen": 1639604451982,
+    "lastSeen": 1639604451982
+  }
+}
