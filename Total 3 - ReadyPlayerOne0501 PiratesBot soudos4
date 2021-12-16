@@ -1,0 +1,23 @@
+{
+  "readyplayerone0501@lichess": {
+    "id": "readyplayerone0501",
+    "provider": "lichess",
+    "username": "ReadyPlayerOne0501",
+    "firstSeen": 1639646300812,
+    "lastSeen": 1639647823572
+  },
+  "piratesbot@lichess": {
+    "id": "piratesbot",
+    "provider": "lichess",
+    "username": "PiratesBot",
+    "firstSeen": 1639647058311,
+    "lastSeen": 1639647440477
+  },
+  "soudos4@lichess": {
+    "id": "soudos4",
+    "provider": "lichess",
+    "username": "soudos4",
+    "firstSeen": 1639647325807,
+    "lastSeen": 1639647931540
+  }
+}
