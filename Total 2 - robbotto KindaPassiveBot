@@ -1,0 +1,22 @@
+{
+  "robbotto@lichess": {
+    "id": "robbotto",
+    "provider": "lichess",
+    "username": "robbotto",
+    "firstSeen": 1639671160735,
+    "lastSeen": 1639671190273,
+    "firstSeenTime": "4:12:40 PM",
+    "lastSeenTime": "4:13:10 PM",
+    "onlineDurationMins": 0.4923
+  },
+  "kindapassivebot@lichess": {
+    "id": "kindapassivebot",
+    "provider": "lichess",
+    "username": "KindaPassiveBot",
+    "firstSeen": 1639671348678,
+    "lastSeen": 1639672009267,
+    "firstSeenTime": "4:15:48 PM",
+    "lastSeenTime": "4:24:26 PM",
+    "onlineDurationMins": 8.622783333333333
+  }
+}
