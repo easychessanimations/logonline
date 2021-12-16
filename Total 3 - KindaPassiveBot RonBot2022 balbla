@@ -1,0 +1,29 @@
+{
+  "kindapassivebot@lichess": {
+    "id": "kindapassivebot",
+    "provider": "lichess",
+    "username": "KindaPassiveBot",
+    "firstSeen": 1639671348678,
+    "lastSeen": 1639672391731,
+    "firstSeenTime": "4:15:48 PM",
+    "lastSeenTime": "4:33:11 PM",
+    "onlineDurationMins": 17.384216666666667
+  },
+  "ronbot2022@lichess": {
+    "id": "ronbot2022",
+    "provider": "lichess",
+    "username": "RonBot2022",
+    "firstSeen": 1639672214588,
+    "lastSeen": 1639672225364,
+    "firstSeenTime": "4:30:14 PM",
+    "lastSeenTime": "4:30:25 PM",
+    "onlineDurationMins": 0.1796
+  },
+  "balbla@lichess": {
+    "id": "balbla",
+    "provider": "lichess",
+    "username": "balbla",
+    "firstSeen": 1639672827004,
+    "lastSeen": 1639672827004
+  }
+}
