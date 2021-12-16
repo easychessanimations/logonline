@@ -1,0 +1,23 @@
+{
+  "balbla@lichess": {
+    "id": "balbla",
+    "provider": "lichess",
+    "username": "balbla",
+    "firstSeen": 1639670348517,
+    "lastSeen": 1639671099377
+  },
+  "robbotto@lichess": {
+    "id": "robbotto",
+    "provider": "lichess",
+    "username": "robbotto",
+    "firstSeen": 1639671160735,
+    "lastSeen": 1639671190273
+  },
+  "kindapassivebot@lichess": {
+    "id": "kindapassivebot",
+    "provider": "lichess",
+    "username": "KindaPassiveBot",
+    "firstSeen": 1639671348678,
+    "lastSeen": 1639671348678
+  }
+}
