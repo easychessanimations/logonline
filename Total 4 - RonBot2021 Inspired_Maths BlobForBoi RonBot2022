@@ -1,0 +1,36 @@
+{
+  "ronbot2021@lichess": {
+    "id": "ronbot2021",
+    "provider": "lichess",
+    "username": "RonBot2021",
+    "firstSeen": 1639633678717,
+    "lastSeen": 1639638658874,
+    "firstSeenTime": "5:47:58 AM",
+    "lastSeenTime": "7:05:15 AM",
+    "onlineDurationMins": 77.28516666666667
+  },
+  "inspired_maths@lichess": {
+    "id": "inspired_maths",
+    "provider": "lichess",
+    "username": "Inspired_Maths",
+    "firstSeen": 1639637754993,
+    "lastSeen": 1639639037864,
+    "firstSeenTime": "6:55:54 AM",
+    "lastSeenTime": "6:59:17 AM",
+    "onlineDurationMins": 3.3773666666666666
+  },
+  "blobforboi@lichess": {
+    "id": "blobforboi",
+    "provider": "lichess",
+    "username": "BlobForBoi",
+    "firstSeen": 1639638874797,
+    "lastSeen": 1639638999309
+  },
+  "ronbot2022@lichess": {
+    "id": "ronbot2022",
+    "provider": "lichess",
+    "username": "RonBot2022",
+    "firstSeen": 1639639043612,
+    "lastSeen": 1639639043612
+  }
+}
