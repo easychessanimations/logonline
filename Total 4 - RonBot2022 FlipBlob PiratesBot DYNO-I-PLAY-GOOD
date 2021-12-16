@@ -1,0 +1,30 @@
+{
+  "ronbot2022@lichess": {
+    "id": "ronbot2022",
+    "provider": "lichess",
+    "username": "RonBot2022",
+    "firstSeen": 1639639043612,
+    "lastSeen": 1639643103144
+  },
+  "flipblob@lichess": {
+    "id": "flipblob",
+    "provider": "lichess",
+    "username": "FlipBlob",
+    "firstSeen": 1639639865533,
+    "lastSeen": 1639642294292
+  },
+  "piratesbot@lichess": {
+    "id": "piratesbot",
+    "provider": "lichess",
+    "username": "PiratesBot",
+    "firstSeen": 1639642298988,
+    "lastSeen": 1639642691992
+  },
+  "dyno-i-play-good@lichess": {
+    "id": "dyno-i-play-good",
+    "provider": "lichess",
+    "username": "DYNO-I-PLAY-GOOD",
+    "firstSeen": 1639642318432,
+    "lastSeen": 1639643007117
+  }
+}
