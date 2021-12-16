@@ -1,0 +1,22 @@
+{
+  "ronbot2021@lichess": {
+    "id": "ronbot2021",
+    "provider": "lichess",
+    "username": "RonBot2021",
+    "firstSeen": 1639633678717,
+    "lastSeen": 1639638388513,
+    "firstSeenTime": "5:47:58 AM",
+    "lastSeenTime": "7:05:15 AM",
+    "onlineDurationMins": 77.28516666666667
+  },
+  "inspired_maths@lichess": {
+    "id": "inspired_maths",
+    "provider": "lichess",
+    "username": "Inspired_Maths",
+    "firstSeen": 1639637754993,
+    "lastSeen": 1639638447848,
+    "firstSeenTime": "6:55:54 AM",
+    "lastSeenTime": "6:59:17 AM",
+    "onlineDurationMins": 3.3773666666666666
+  }
+}
