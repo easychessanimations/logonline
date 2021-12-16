@@ -1,0 +1,36 @@
+{
+  "soudos4@lichess": {
+    "id": "soudos4",
+    "provider": "lichess",
+    "username": "soudos4",
+    "firstSeen": 1639647325807,
+    "lastSeen": 1639665865571,
+    "firstSeenTime": "9:35:25 AM",
+    "lastSeenTime": "1:34:45 PM",
+    "onlineDurationMins": 239.32338333333334
+  },
+  "piratesbot@lichess": {
+    "id": "piratesbot",
+    "provider": "lichess",
+    "username": "PiratesBot",
+    "firstSeen": 1639655100656,
+    "lastSeen": 1639666264376,
+    "firstSeenTime": "11:45:00 AM",
+    "lastSeenTime": "1:34:26 PM",
+    "onlineDurationMins": 109.42973333333333
+  },
+  "flipblob@lichess": {
+    "id": "flipblob",
+    "provider": "lichess",
+    "username": "FlipBlob",
+    "firstSeen": 1639665671612,
+    "lastSeen": 1639665687601
+  },
+  "flip_boi_is_good_boi@lichess": {
+    "id": "flip_boi_is_good_boi",
+    "provider": "lichess",
+    "username": "Flip_Boi_is_good_Boi",
+    "firstSeen": 1639665688110,
+    "lastSeen": 1639665970592
+  }
+}
