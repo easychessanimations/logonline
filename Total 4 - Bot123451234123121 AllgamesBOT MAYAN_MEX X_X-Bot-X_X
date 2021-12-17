@@ -1,0 +1,30 @@
+{
+  "bot123451234123121@lichess": {
+    "id": "bot123451234123121",
+    "provider": "lichess",
+    "username": "Bot123451234123121",
+    "firstSeen": 1639753555728,
+    "lastSeen": 1639764189035
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1639756924728,
+    "lastSeen": 1639764485814
+  },
+  "mayan_mex@lichess": {
+    "id": "mayan_mex",
+    "provider": "lichess",
+    "username": "MAYAN_MEX",
+    "firstSeen": 1639760780229,
+    "lastSeen": 1639764202843
+  },
+  "x_x-bot-x_x@lichess": {
+    "id": "x_x-bot-x_x",
+    "provider": "lichess",
+    "username": "X_X-Bot-X_X",
+    "firstSeen": 1639763640932,
+    "lastSeen": 1639764766291
+  }
+}
