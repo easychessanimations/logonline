@@ -3,21 +3,30 @@
     "id": "soudos4",
     "provider": "lichess",
     "username": "soudos4",
-    "firstSeen": 1639647325807,
-    "lastSeen": 1639657059056
+    "firstSeen": 1639703133372,
+    "lastSeen": 1639742672858,
+    "firstSeenTime": "1:05:33 AM",
+    "lastSeenTime": "11:53:33 AM",
+    "onlineDurationMins": 648.0093666666667
   },
   "dyno-i-play-good@lichess": {
     "id": "dyno-i-play-good",
     "provider": "lichess",
     "username": "DYNO-I-PLAY-GOOD",
-    "firstSeen": 1639652336980,
-    "lastSeen": 1639656747938
+    "firstSeen": 1639738267644,
+    "lastSeen": 1639742172144,
+    "firstSeenTime": "10:51:07 AM",
+    "lastSeenTime": "11:56:12 AM",
+    "onlineDurationMins": 65.075
   },
   "piratesbot@lichess": {
     "id": "piratesbot",
     "provider": "lichess",
     "username": "PiratesBot",
-    "firstSeen": 1639655100656,
-    "lastSeen": 1639657387400
+    "firstSeen": 1639741801241,
+    "lastSeen": 1639741842967,
+    "firstSeenTime": "11:50:01 AM",
+    "lastSeenTime": "11:50:42 AM",
+    "onlineDurationMins": 0.6954333333333333
   }
 }
