@@ -4,16 +4,19 @@
     "provider": "lichess",
     "username": "soudos4",
     "firstSeen": 1639703133372,
-    "lastSeen": 1639738232946,
+    "lastSeen": 1639740212860,
     "firstSeenTime": "1:05:33 AM",
-    "lastSeenTime": "9:44:32 AM",
-    "onlineDurationMins": 518.9865166666667
+    "lastSeenTime": "11:23:32 AM",
+    "onlineDurationMins": 617.9914666666666
   },
   "dyno-i-play-good@lichess": {
     "id": "dyno-i-play-good",
     "provider": "lichess",
     "username": "DYNO-I-PLAY-GOOD",
     "firstSeen": 1639738267644,
-    "lastSeen": 1639738267644
+    "lastSeen": 1639740505536,
+    "firstSeenTime": "10:51:07 AM",
+    "lastSeenTime": "11:18:35 AM",
+    "onlineDurationMins": 27.4652
   }
 }
