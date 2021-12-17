@@ -1,0 +1,23 @@
+{
+  "bot123451234123121@lichess": {
+    "id": "bot123451234123121",
+    "provider": "lichess",
+    "username": "Bot123451234123121",
+    "firstSeen": 1639753555728,
+    "lastSeen": 1639757353648
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1639756924728,
+    "lastSeen": 1639757588987
+  },
+  "destroyer_bot@lichess": {
+    "id": "destroyer_bot",
+    "provider": "lichess",
+    "username": "Destroyer_Bot",
+    "firstSeen": 1639757504583,
+    "lastSeen": 1639757515789
+  }
+}
