@@ -1,0 +1,33 @@
+{
+  "x_x-bot-x_x@lichess": {
+    "id": "x_x-bot-x_x",
+    "provider": "lichess",
+    "username": "X_X-Bot-X_X",
+    "firstSeen": 1639816433346,
+    "lastSeen": 1639818793192,
+    "firstSeenTime": "8:33:53 AM",
+    "lastSeenTime": "8:51:52 AM",
+    "onlineDurationMins": 17.989133333333335
+  },
+  "bot123451234123121@lichess": {
+    "id": "bot123451234123121",
+    "provider": "lichess",
+    "username": "BOT123451234123121",
+    "firstSeen": 1639818689218,
+    "lastSeen": 1639818734546
+  },
+  "adminatoring@lichess": {
+    "id": "adminatoring",
+    "provider": "lichess",
+    "username": "Adminatoring",
+    "firstSeen": 1639818850163,
+    "lastSeen": 1639818872116
+  },
+  "optoringink@lichess": {
+    "id": "optoringink",
+    "provider": "lichess",
+    "username": "Optoringink",
+    "firstSeen": 1639818872433,
+    "lastSeen": 1639818872433
+  }
+}
