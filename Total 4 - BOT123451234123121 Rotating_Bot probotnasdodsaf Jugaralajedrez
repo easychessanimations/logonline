@@ -1,0 +1,30 @@
+{
+  "bot123451234123121@lichess": {
+    "id": "bot123451234123121",
+    "provider": "lichess",
+    "username": "BOT123451234123121",
+    "firstSeen": 1639850102810,
+    "lastSeen": 1639850767281
+  },
+  "rotating_bot@lichess": {
+    "id": "rotating_bot",
+    "provider": "lichess",
+    "username": "Rotating_Bot",
+    "firstSeen": 1639850242559,
+    "lastSeen": 1639850267534
+  },
+  "probotnasdodsaf@lichess": {
+    "id": "probotnasdodsaf",
+    "provider": "lichess",
+    "username": "probotnasdodsaf",
+    "firstSeen": 1639850330523,
+    "lastSeen": 1639850700782
+  },
+  "jugaralajedrez@lichess": {
+    "id": "jugaralajedrez",
+    "provider": "lichess",
+    "username": "Jugaralajedrez",
+    "firstSeen": 1639850475580,
+    "lastSeen": 1639850710397
+  }
+}
