@@ -1,0 +1,52 @@
+{
+  "x_x-bot-x_x@lichess": {
+    "id": "x_x-bot-x_x",
+    "provider": "lichess",
+    "username": "X_X-Bot-X_X",
+    "firstSeen": 1639816433346,
+    "lastSeen": 1639830269759,
+    "firstSeenTime": "8:33:53 AM",
+    "lastSeenTime": "12:24:29 PM",
+    "onlineDurationMins": 230.60688333333334
+  },
+  "bot123451234123121@lichess": {
+    "id": "bot123451234123121",
+    "provider": "lichess",
+    "username": "BOT123451234123121",
+    "firstSeen": 1639818689218,
+    "lastSeen": 1639829583382,
+    "firstSeenTime": "9:11:29 AM",
+    "lastSeenTime": "12:13:03 PM",
+    "onlineDurationMins": 181.5694
+  },
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1639821757786,
+    "lastSeen": 1639830246878,
+    "firstSeenTime": "10:02:37 AM",
+    "lastSeenTime": "12:24:06 PM",
+    "onlineDurationMins": 141.48486666666668
+  },
+  "piratesbot@lichess": {
+    "id": "piratesbot",
+    "provider": "lichess",
+    "username": "PiratesBot",
+    "firstSeen": 1639829512836,
+    "lastSeen": 1639830399248,
+    "firstSeenTime": "12:11:52 PM",
+    "lastSeenTime": "12:25:41 PM",
+    "onlineDurationMins": 13.81025
+  },
+  "fernandoide@lichess": {
+    "id": "fernandoide",
+    "provider": "lichess",
+    "username": "fernandoide",
+    "firstSeen": 1639830039385,
+    "lastSeen": 1639830260173,
+    "firstSeenTime": "12:20:39 PM",
+    "lastSeenTime": "12:24:20 PM",
+    "onlineDurationMins": 3.6798
+  }
+}
