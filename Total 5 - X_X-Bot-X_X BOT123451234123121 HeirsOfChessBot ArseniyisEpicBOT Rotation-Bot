@@ -1,0 +1,49 @@
+{
+  "x_x-bot-x_x@lichess": {
+    "id": "x_x-bot-x_x",
+    "provider": "lichess",
+    "username": "X_X-Bot-X_X",
+    "firstSeen": 1639816433346,
+    "lastSeen": 1639826716912,
+    "firstSeenTime": "8:33:53 AM",
+    "lastSeenTime": "11:25:16 AM",
+    "onlineDurationMins": 171.39276666666666
+  },
+  "bot123451234123121@lichess": {
+    "id": "bot123451234123121",
+    "provider": "lichess",
+    "username": "BOT123451234123121",
+    "firstSeen": 1639818689218,
+    "lastSeen": 1639826863654,
+    "firstSeenTime": "9:11:29 AM",
+    "lastSeenTime": "11:27:43 AM",
+    "onlineDurationMins": 136.2406
+  },
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1639821757786,
+    "lastSeen": 1639826530506,
+    "firstSeenTime": "10:02:37 AM",
+    "lastSeenTime": "11:22:10 AM",
+    "onlineDurationMins": 79.54533333333333
+  },
+  "arseniyisepicbot@lichess": {
+    "id": "arseniyisepicbot",
+    "provider": "lichess",
+    "username": "ArseniyisEpicBOT",
+    "firstSeen": 1639825788947,
+    "lastSeen": 1639826484594,
+    "firstSeenTime": "11:09:48 AM",
+    "lastSeenTime": "11:21:24 AM",
+    "onlineDurationMins": 11.594116666666666
+  },
+  "rotation-bot@lichess": {
+    "id": "rotation-bot",
+    "provider": "lichess",
+    "username": "Rotation-Bot",
+    "firstSeen": 1639826952404,
+    "lastSeen": 1639826952404
+  }
+}
