@@ -1,0 +1,59 @@
+{
+  "x_x-bot-x_x@lichess": {
+    "id": "x_x-bot-x_x",
+    "provider": "lichess",
+    "username": "X_X-Bot-X_X",
+    "firstSeen": 1639816433346,
+    "lastSeen": 1639837072829,
+    "firstSeenTime": "8:33:53 AM",
+    "lastSeenTime": "2:07:53 PM",
+    "onlineDurationMins": 334.0022
+  },
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1639821757786,
+    "lastSeen": 1639837079829,
+    "firstSeenTime": "10:02:37 AM",
+    "lastSeenTime": "2:07:07 PM",
+    "onlineDurationMins": 244.48923333333335
+  },
+  "fernandoide@lichess": {
+    "id": "fernandoide",
+    "provider": "lichess",
+    "username": "fernandoide",
+    "firstSeen": 1639830039385,
+    "lastSeen": 1639836932219,
+    "firstSeenTime": "12:20:39 PM",
+    "lastSeenTime": "2:04:31 PM",
+    "onlineDurationMins": 103.87648333333334
+  },
+  "dyno-i-play-good@lichess": {
+    "id": "dyno-i-play-good",
+    "provider": "lichess",
+    "username": "DYNO-I-PLAY-GOOD",
+    "firstSeen": 1639831076022,
+    "lastSeen": 1639837145560,
+    "firstSeenTime": "12:37:56 PM",
+    "lastSeenTime": "2:07:10 PM",
+    "onlineDurationMins": 89.24396666666667
+  },
+  "t0ky0-gh0ul-japan@lichess": {
+    "id": "t0ky0-gh0ul-japan",
+    "provider": "lichess",
+    "username": "T0KY0-GH0UL-JAPAN",
+    "firstSeen": 1639835449950,
+    "lastSeen": 1639837082671,
+    "firstSeenTime": "1:50:49 PM",
+    "lastSeenTime": "2:07:38 PM",
+    "onlineDurationMins": 16.813983333333333
+  },
+  "bot_dot@lichess": {
+    "id": "bot_dot",
+    "provider": "lichess",
+    "username": "Bot_Dot",
+    "firstSeen": 1639837048769,
+    "lastSeen": 1639837059918
+  }
+}
