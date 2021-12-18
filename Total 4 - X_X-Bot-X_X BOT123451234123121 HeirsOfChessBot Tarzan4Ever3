@@ -1,0 +1,42 @@
+{
+  "x_x-bot-x_x@lichess": {
+    "id": "x_x-bot-x_x",
+    "provider": "lichess",
+    "username": "X_X-Bot-X_X",
+    "firstSeen": 1639816433346,
+    "lastSeen": 1639829348336,
+    "firstSeenTime": "8:33:53 AM",
+    "lastSeenTime": "11:57:41 AM",
+    "onlineDurationMins": 203.79885
+  },
+  "bot123451234123121@lichess": {
+    "id": "bot123451234123121",
+    "provider": "lichess",
+    "username": "BOT123451234123121",
+    "firstSeen": 1639818689218,
+    "lastSeen": 1639829195993,
+    "firstSeenTime": "9:11:29 AM",
+    "lastSeenTime": "12:06:35 PM",
+    "onlineDurationMins": 175.11291666666668
+  },
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1639821757786,
+    "lastSeen": 1639829166869,
+    "firstSeenTime": "10:02:37 AM",
+    "lastSeenTime": "12:06:06 PM",
+    "onlineDurationMins": 123.48471666666667
+  },
+  "tarzan4ever3@lichess": {
+    "id": "tarzan4ever3",
+    "provider": "lichess",
+    "username": "Tarzan4Ever3",
+    "firstSeen": 1639829283146,
+    "lastSeen": 1639829292382,
+    "firstSeenTime": "12:08:03 PM",
+    "lastSeenTime": "12:08:12 PM",
+    "onlineDurationMins": 0.15393333333333334
+  }
+}
