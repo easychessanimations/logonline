@@ -1,0 +1,46 @@
+{
+  "x_x-bot-x_x@lichess": {
+    "id": "x_x-bot-x_x",
+    "provider": "lichess",
+    "username": "X_X-Bot-X_X",
+    "firstSeen": 1639903463534,
+    "lastSeen": 1639923985487,
+    "firstSeenTime": "8:44:23 AM",
+    "lastSeenTime": "2:07:25 PM",
+    "onlineDurationMins": 323.0318
+  },
+  "dyno-i-play-good@lichess": {
+    "id": "dyno-i-play-good",
+    "provider": "lichess",
+    "username": "DYNO-I-PLAY-GOOD",
+    "firstSeen": 1639918610473,
+    "lastSeen": 1639923299979,
+    "firstSeenTime": "12:56:50 PM",
+    "lastSeenTime": "2:02:59 PM",
+    "onlineDurationMins": 66.15851666666667
+  },
+  "rotating_bot@lichess": {
+    "id": "rotating_bot",
+    "provider": "lichess",
+    "username": "Rotating_Bot",
+    "firstSeen": 1639922061745,
+    "lastSeen": 1639924019706,
+    "firstSeenTime": "1:54:21 PM",
+    "lastSeenTime": "2:06:38 PM",
+    "onlineDurationMins": 12.279766666666667
+  },
+  "magic_maimo@lichess": {
+    "id": "magic_maimo",
+    "provider": "lichess",
+    "username": "Magic_Maimo",
+    "firstSeen": 1639923474914,
+    "lastSeen": 1639923572366
+  },
+  "icon-master@lichess": {
+    "id": "icon-master",
+    "provider": "lichess",
+    "username": "Icon-Master",
+    "firstSeen": 1639923585937,
+    "lastSeen": 1639923613156
+  }
+}
