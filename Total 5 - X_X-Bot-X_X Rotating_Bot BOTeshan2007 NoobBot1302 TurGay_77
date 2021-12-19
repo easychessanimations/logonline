@@ -1,0 +1,46 @@
+{
+  "x_x-bot-x_x@lichess": {
+    "id": "x_x-bot-x_x",
+    "provider": "lichess",
+    "username": "X_X-Bot-X_X",
+    "firstSeen": 1639903463534,
+    "lastSeen": 1639915737284,
+    "firstSeenTime": "8:44:23 AM",
+    "lastSeenTime": "12:08:57 PM",
+    "onlineDurationMins": 204.5625
+  },
+  "rotating_bot@lichess": {
+    "id": "rotating_bot",
+    "provider": "lichess",
+    "username": "Rotating_Bot",
+    "firstSeen": 1639913699061,
+    "lastSeen": 1639916138579,
+    "firstSeenTime": "11:34:59 AM",
+    "lastSeenTime": "12:11:42 PM",
+    "onlineDurationMins": 36.721783333333335
+  },
+  "boteshan2007@lichess": {
+    "id": "boteshan2007",
+    "provider": "lichess",
+    "username": "BOTeshan2007",
+    "firstSeen": 1639914938672,
+    "lastSeen": 1639916284087,
+    "firstSeenTime": "11:55:38 AM",
+    "lastSeenTime": "12:08:22 PM",
+    "onlineDurationMins": 12.737183333333334
+  },
+  "noobbot1302@lichess": {
+    "id": "noobbot1302",
+    "provider": "lichess",
+    "username": "NoobBot1302",
+    "firstSeen": 1639915969192,
+    "lastSeen": 1639916330793
+  },
+  "turgay_77@lichess": {
+    "id": "turgay_77",
+    "provider": "lichess",
+    "username": "TurGay_77",
+    "firstSeen": 1639916349512,
+    "lastSeen": 1639916349512
+  }
+}
