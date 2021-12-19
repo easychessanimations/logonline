@@ -4,23 +4,29 @@
     "provider": "lichess",
     "username": "X_X-Bot-X_X",
     "firstSeen": 1639903463534,
-    "lastSeen": 1639918393113,
+    "lastSeen": 1639926344560,
     "firstSeenTime": "8:44:23 AM",
-    "lastSeenTime": "12:20:43 PM",
-    "onlineDurationMins": 216.33555
+    "lastSeenTime": "3:04:43 PM",
+    "onlineDurationMins": 380.33366666666666
   },
   "rotating_bot@lichess": {
     "id": "rotating_bot",
     "provider": "lichess",
     "username": "Rotating_Bot",
-    "firstSeen": 1639918389591,
-    "lastSeen": 1639918474011
+    "firstSeen": 1639922061745,
+    "lastSeen": 1639926093131,
+    "firstSeenTime": "1:54:21 PM",
+    "lastSeenTime": "3:01:33 PM",
+    "onlineDurationMins": 67.18976666666667
   },
   "super_fighter_2011@lichess": {
     "id": "super_fighter_2011",
     "provider": "lichess",
     "username": "super_fighter_2011",
-    "firstSeen": 1639918488156,
-    "lastSeen": 1639918488156
+    "firstSeen": 1639924117534,
+    "lastSeen": 1639926372768,
+    "firstSeenTime": "2:28:37 PM",
+    "lastSeenTime": "2:57:20 PM",
+    "onlineDurationMins": 28.716616666666667
   }
 }
