@@ -1,0 +1,29 @@
+{
+  "vive_2_chess_pro@lichess": {
+    "id": "vive_2_chess_pro",
+    "provider": "lichess",
+    "username": "ViVe_2_chess_pro",
+    "firstSeen": 1639900036520,
+    "lastSeen": 1639900551362,
+    "firstSeenTime": "7:47:16 AM",
+    "lastSeenTime": "7:47:26 AM",
+    "onlineDurationMins": 0.1647
+  },
+  "chess_robot_99@lichess": {
+    "id": "chess_robot_99",
+    "provider": "lichess",
+    "username": "Chess_Robot_99",
+    "firstSeen": 1639900175294,
+    "lastSeen": 1639900615446,
+    "firstSeenTime": "7:49:35 AM",
+    "lastSeenTime": "7:50:33 AM",
+    "onlineDurationMins": 0.9635333333333334
+  },
+  "super_fighter_2011@lichess": {
+    "id": "super_fighter_2011",
+    "provider": "lichess",
+    "username": "super_fighter_2011",
+    "firstSeen": 1639900616110,
+    "lastSeen": 1639900616110
+  }
+}
