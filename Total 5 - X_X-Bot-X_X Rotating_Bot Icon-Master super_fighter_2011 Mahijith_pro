@@ -1,0 +1,43 @@
+{
+  "x_x-bot-x_x@lichess": {
+    "id": "x_x-bot-x_x",
+    "provider": "lichess",
+    "username": "X_X-Bot-X_X",
+    "firstSeen": 1639903463534,
+    "lastSeen": 1639923985487,
+    "firstSeenTime": "8:44:23 AM",
+    "lastSeenTime": "2:07:25 PM",
+    "onlineDurationMins": 323.0318
+  },
+  "rotating_bot@lichess": {
+    "id": "rotating_bot",
+    "provider": "lichess",
+    "username": "Rotating_Bot",
+    "firstSeen": 1639922061745,
+    "lastSeen": 1639924246234,
+    "firstSeenTime": "1:54:21 PM",
+    "lastSeenTime": "2:06:38 PM",
+    "onlineDurationMins": 12.279766666666667
+  },
+  "icon-master@lichess": {
+    "id": "icon-master",
+    "provider": "lichess",
+    "username": "Icon-Master",
+    "firstSeen": 1639923585937,
+    "lastSeen": 1639923613156
+  },
+  "super_fighter_2011@lichess": {
+    "id": "super_fighter_2011",
+    "provider": "lichess",
+    "username": "super_fighter_2011",
+    "firstSeen": 1639924117534,
+    "lastSeen": 1639924127981
+  },
+  "mahijith_pro@lichess": {
+    "id": "mahijith_pro",
+    "provider": "lichess",
+    "username": "Mahijith_pro",
+    "firstSeen": 1639924122164,
+    "lastSeen": 1639924475323
+  }
+}
