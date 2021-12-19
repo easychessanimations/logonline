@@ -1,0 +1,29 @@
+{
+  "x_x-bot-x_x@lichess": {
+    "id": "x_x-bot-x_x",
+    "provider": "lichess",
+    "username": "X_X-Bot-X_X",
+    "firstSeen": 1639903463534,
+    "lastSeen": 1639914401777,
+    "firstSeenTime": "8:44:23 AM",
+    "lastSeenTime": "11:46:41 AM",
+    "onlineDurationMins": 182.30405
+  },
+  "rotating_bot@lichess": {
+    "id": "rotating_bot",
+    "provider": "lichess",
+    "username": "Rotating_Bot",
+    "firstSeen": 1639913699061,
+    "lastSeen": 1639914384393,
+    "firstSeenTime": "11:34:59 AM",
+    "lastSeenTime": "11:46:24 AM",
+    "onlineDurationMins": 11.4222
+  },
+  "boteshan2007@lichess": {
+    "id": "boteshan2007",
+    "provider": "lichess",
+    "username": "BOTeshan2007",
+    "firstSeen": 1639914938672,
+    "lastSeen": 1639914938672
+  }
+}
