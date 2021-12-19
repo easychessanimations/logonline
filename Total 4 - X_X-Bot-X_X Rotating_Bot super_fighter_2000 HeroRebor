@@ -1,0 +1,36 @@
+{
+  "x_x-bot-x_x@lichess": {
+    "id": "x_x-bot-x_x",
+    "provider": "lichess",
+    "username": "X_X-Bot-X_X",
+    "firstSeen": 1639903463534,
+    "lastSeen": 1639931407612,
+    "firstSeenTime": "8:44:23 AM",
+    "lastSeenTime": "3:38:00 PM",
+    "onlineDurationMins": 413.61086666666665
+  },
+  "rotating_bot@lichess": {
+    "id": "rotating_bot",
+    "provider": "lichess",
+    "username": "Rotating_Bot",
+    "firstSeen": 1639922061745,
+    "lastSeen": 1639930915545,
+    "firstSeenTime": "1:54:21 PM",
+    "lastSeenTime": "3:37:38 PM",
+    "onlineDurationMins": 103.27341666666666
+  },
+  "super_fighter_2000@lichess": {
+    "id": "super_fighter_2000",
+    "provider": "lichess",
+    "username": "super_fighter_2000",
+    "firstSeen": 1639928607087,
+    "lastSeen": 1639931451962
+  },
+  "96386317@github": {
+    "id": "96386317",
+    "provider": "github",
+    "username": "HeroRebor",
+    "firstSeen": 1639931732982,
+    "lastSeen": 1639931732983
+  }
+}
