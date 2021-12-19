@@ -4,39 +4,36 @@
     "provider": "lichess",
     "username": "X_X-Bot-X_X",
     "firstSeen": 1639903463534,
-    "lastSeen": 1639919710702,
+    "lastSeen": 1639925439550,
     "firstSeenTime": "8:44:23 AM",
-    "lastSeenTime": "12:56:47 PM",
-    "onlineDurationMins": 252.39165
+    "lastSeenTime": "2:35:14 PM",
+    "onlineDurationMins": 350.84725
   },
   "rotating_bot@lichess": {
     "id": "rotating_bot",
     "provider": "lichess",
     "username": "Rotating_Bot",
-    "firstSeen": 1639918389591,
-    "lastSeen": 1639919885379,
-    "firstSeenTime": "12:53:09 PM",
-    "lastSeenTime": "12:54:53 PM",
-    "onlineDurationMins": 1.7301666666666666
+    "firstSeen": 1639922061745,
+    "lastSeen": 1639925342787,
+    "firstSeenTime": "1:54:21 PM",
+    "lastSeenTime": "2:37:11 PM",
+    "onlineDurationMins": 42.82895
   },
   "super_fighter_2011@lichess": {
     "id": "super_fighter_2011",
     "provider": "lichess",
     "username": "super_fighter_2011",
-    "firstSeen": 1639918488156,
-    "lastSeen": 1639919605516,
-    "firstSeenTime": "12:54:48 PM",
-    "lastSeenTime": "12:55:42 PM",
-    "onlineDurationMins": 0.9072333333333333
+    "firstSeen": 1639924117534,
+    "lastSeen": 1639924970662,
+    "firstSeenTime": "2:28:37 PM",
+    "lastSeenTime": "2:36:49 PM",
+    "onlineDurationMins": 8.204866666666666
   },
   "dyno-i-play-good@lichess": {
     "id": "dyno-i-play-good",
     "provider": "lichess",
     "username": "DYNO-I-PLAY-GOOD",
-    "firstSeen": 1639918610473,
-    "lastSeen": 1639919703872,
-    "firstSeenTime": "12:56:50 PM",
-    "lastSeenTime": "12:57:01 PM",
-    "onlineDurationMins": 0.18415
+    "firstSeen": 1639925304649,
+    "lastSeen": 1639925304657
   }
 }
