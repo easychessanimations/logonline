@@ -1,0 +1,32 @@
+{
+  "biotrikx@lichess": {
+    "id": "biotrikx",
+    "provider": "lichess",
+    "username": "BIOTRIKX",
+    "firstSeen": 1639989006991,
+    "lastSeen": 1639989769734,
+    "firstSeenTime": "8:30:06 AM",
+    "lastSeenTime": "8:42:49 AM",
+    "onlineDurationMins": 12.712383333333333
+  },
+  "botonlyid@lichess": {
+    "id": "botonlyid",
+    "provider": "lichess",
+    "username": "botonlyid",
+    "firstSeen": 1639989052739,
+    "lastSeen": 1639990113085,
+    "firstSeenTime": "8:30:52 AM",
+    "lastSeenTime": "8:47:54 AM",
+    "onlineDurationMins": 17.036766666666665
+  },
+  "utsa-bot@lichess": {
+    "id": "utsa-bot",
+    "provider": "lichess",
+    "username": "Utsa-Bot",
+    "firstSeen": 1639989095159,
+    "lastSeen": 1639989702841,
+    "firstSeenTime": "8:31:35 AM",
+    "lastSeenTime": "8:41:42 AM",
+    "onlineDurationMins": 10.128033333333333
+  }
+}
