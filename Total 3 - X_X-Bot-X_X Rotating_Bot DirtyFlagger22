@@ -1,0 +1,29 @@
+{
+  "x_x-bot-x_x@lichess": {
+    "id": "x_x-bot-x_x",
+    "provider": "lichess",
+    "username": "X_X-Bot-X_X",
+    "firstSeen": 1639996037266,
+    "lastSeen": 1640000286408,
+    "firstSeenTime": "10:27:17 AM",
+    "lastSeenTime": "11:30:00 AM",
+    "onlineDurationMins": 62.72815
+  },
+  "rotating_bot@lichess": {
+    "id": "rotating_bot",
+    "provider": "lichess",
+    "username": "Rotating_Bot",
+    "firstSeen": 1639997398944,
+    "lastSeen": 1640000280211,
+    "firstSeenTime": "10:49:58 AM",
+    "lastSeenTime": "11:25:11 AM",
+    "onlineDurationMins": 35.20838333333333
+  },
+  "dirtyflagger22@lichess": {
+    "id": "dirtyflagger22",
+    "provider": "lichess",
+    "username": "DirtyFlagger22",
+    "firstSeen": 1640000346915,
+    "lastSeen": 1640000346915
+  }
+}
