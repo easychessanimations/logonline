@@ -1,0 +1,29 @@
+{
+  "utsa-bot@lichess": {
+    "id": "utsa-bot",
+    "provider": "lichess",
+    "username": "Utsa-Bot",
+    "firstSeen": 1639989095159,
+    "lastSeen": 1639990674893,
+    "firstSeenTime": "8:31:35 AM",
+    "lastSeenTime": "8:57:54 AM",
+    "onlineDurationMins": 26.3289
+  },
+  "96386317@github": {
+    "id": "96386317",
+    "provider": "github",
+    "username": "HeroRebor",
+    "firstSeen": 1639990645224,
+    "lastSeen": 1639990663825,
+    "firstSeenTime": "8:57:25 AM",
+    "lastSeenTime": "8:57:43 AM",
+    "onlineDurationMins": 0.31001666666666666
+  },
+  "bat9izovisosedei2@lichess": {
+    "id": "bat9izovisosedei2",
+    "provider": "lichess",
+    "username": "Bat9Izovisosedei2",
+    "firstSeen": 1639991166185,
+    "lastSeen": 1639991166185
+  }
+}
