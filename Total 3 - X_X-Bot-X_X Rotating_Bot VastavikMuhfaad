@@ -1,0 +1,29 @@
+{
+  "x_x-bot-x_x@lichess": {
+    "id": "x_x-bot-x_x",
+    "provider": "lichess",
+    "username": "X_X-Bot-X_X",
+    "firstSeen": 1639996037266,
+    "lastSeen": 1639998040485,
+    "firstSeenTime": "10:27:17 AM",
+    "lastSeenTime": "10:51:02 AM",
+    "onlineDurationMins": 23.7531
+  },
+  "rotating_bot@lichess": {
+    "id": "rotating_bot",
+    "provider": "lichess",
+    "username": "Rotating_Bot",
+    "firstSeen": 1639997398944,
+    "lastSeen": 1639997422654,
+    "firstSeenTime": "10:49:58 AM",
+    "lastSeenTime": "10:50:22 AM",
+    "onlineDurationMins": 0.39516666666666667
+  },
+  "vastavikmuhfaad@lichess": {
+    "id": "vastavikmuhfaad",
+    "provider": "lichess",
+    "username": "VastavikMuhfaad",
+    "firstSeen": 1639997502746,
+    "lastSeen": 1639997787695
+  }
+}
