@@ -1,0 +1,32 @@
+{
+  "mahijith_pro@lichess": {
+    "id": "mahijith_pro",
+    "provider": "lichess",
+    "username": "Mahijith_pro",
+    "firstSeen": 1639974173099,
+    "lastSeen": 1639974821439,
+    "firstSeenTime": "4:22:53 AM",
+    "lastSeenTime": "4:30:30 AM",
+    "onlineDurationMins": 7.631633333333333
+  },
+  "veervarma2@lichess": {
+    "id": "veervarma2",
+    "provider": "lichess",
+    "username": "VeerVarma2",
+    "firstSeen": 1639974513719,
+    "lastSeen": 1639974533010,
+    "firstSeenTime": "4:28:33 AM",
+    "lastSeenTime": "4:28:53 AM",
+    "onlineDurationMins": 0.3215166666666667
+  },
+  "rotating_bot@lichess": {
+    "id": "rotating_bot",
+    "provider": "lichess",
+    "username": "Rotating_Bot",
+    "firstSeen": 1639974590876,
+    "lastSeen": 1639974822640,
+    "firstSeenTime": "4:29:50 AM",
+    "lastSeenTime": "4:31:35 AM",
+    "onlineDurationMins": 1.7512833333333333
+  }
+}
