@@ -1,0 +1,33 @@
+{
+  "rotating_bot@lichess": {
+    "id": "rotating_bot",
+    "provider": "lichess",
+    "username": "Rotating_Bot",
+    "firstSeen": 1639974590876,
+    "lastSeen": 1639975702900,
+    "firstSeenTime": "4:29:50 AM",
+    "lastSeenTime": "4:31:35 AM",
+    "onlineDurationMins": 1.7512833333333333
+  },
+  "96386317@github": {
+    "id": "96386317",
+    "provider": "github",
+    "username": "HeroRebor",
+    "firstSeen": 1639976278053,
+    "lastSeen": 1639976295275
+  },
+  "utsa-super-bot@lichess": {
+    "id": "utsa-super-bot",
+    "provider": "lichess",
+    "username": "Utsa-Super-Bot",
+    "firstSeen": 1639976295709,
+    "lastSeen": 1639976309871
+  },
+  "x_x-bot-x_x@lichess": {
+    "id": "x_x-bot-x_x",
+    "provider": "lichess",
+    "username": "X_X-Bot-X_X",
+    "firstSeen": 1639976522368,
+    "lastSeen": 1639976522368
+  }
+}
