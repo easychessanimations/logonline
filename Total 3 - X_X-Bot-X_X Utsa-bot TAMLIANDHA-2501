@@ -1,0 +1,29 @@
+{
+  "x_x-bot-x_x@lichess": {
+    "id": "x_x-bot-x_x",
+    "provider": "lichess",
+    "username": "X_X-Bot-X_X",
+    "firstSeen": 1639976522368,
+    "lastSeen": 1639982948751,
+    "firstSeenTime": "5:02:02 AM",
+    "lastSeenTime": "6:28:44 AM",
+    "onlineDurationMins": 86.70255
+  },
+  "utsa-bot@lichess": {
+    "id": "utsa-bot",
+    "provider": "lichess",
+    "username": "Utsa-bot",
+    "firstSeen": 1639976684471,
+    "lastSeen": 1639982821888,
+    "firstSeenTime": "5:04:44 AM",
+    "lastSeenTime": "6:26:07 AM",
+    "onlineDurationMins": 81.38548333333334
+  },
+  "tamliandha-2501@lichess": {
+    "id": "tamliandha-2501",
+    "provider": "lichess",
+    "username": "TAMLIANDHA-2501",
+    "firstSeen": 1639981847967,
+    "lastSeen": 1639983045946
+  }
+}
