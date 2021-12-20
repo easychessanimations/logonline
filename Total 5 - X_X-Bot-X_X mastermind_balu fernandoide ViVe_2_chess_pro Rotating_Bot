@@ -1,0 +1,40 @@
+{
+  "x_x-bot-x_x@lichess": {
+    "id": "x_x-bot-x_x",
+    "provider": "lichess",
+    "username": "X_X-Bot-X_X",
+    "firstSeen": 1639996037266,
+    "lastSeen": 1640009270986,
+    "firstSeenTime": "10:27:17 AM",
+    "lastSeenTime": "12:33:26 PM",
+    "onlineDurationMins": 126.1508
+  },
+  "mastermind_balu@lichess": {
+    "id": "mastermind_balu",
+    "provider": "lichess",
+    "username": "mastermind_balu",
+    "firstSeen": 1640004458777,
+    "lastSeen": 1640009115529
+  },
+  "fernandoide@lichess": {
+    "id": "fernandoide",
+    "provider": "lichess",
+    "username": "fernandoide",
+    "firstSeen": 1640007104863,
+    "lastSeen": 1640009122493
+  },
+  "vive_2_chess_pro@lichess": {
+    "id": "vive_2_chess_pro",
+    "provider": "lichess",
+    "username": "ViVe_2_chess_pro",
+    "firstSeen": 1640008368958,
+    "lastSeen": 1640009112695
+  },
+  "rotating_bot@lichess": {
+    "id": "rotating_bot",
+    "provider": "lichess",
+    "username": "Rotating_Bot",
+    "firstSeen": 1640009337410,
+    "lastSeen": 1640009337410
+  }
+}
