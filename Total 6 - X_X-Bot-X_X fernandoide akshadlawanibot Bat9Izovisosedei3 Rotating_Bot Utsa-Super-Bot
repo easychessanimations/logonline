@@ -1,0 +1,47 @@
+{
+  "x_x-bot-x_x@lichess": {
+    "id": "x_x-bot-x_x",
+    "provider": "lichess",
+    "username": "X_X-Bot-X_X",
+    "firstSeen": 1639996037266,
+    "lastSeen": 1640018127953,
+    "firstSeenTime": "10:27:17 AM",
+    "lastSeenTime": "12:33:26 PM",
+    "onlineDurationMins": 126.1508
+  },
+  "fernandoide@lichess": {
+    "id": "fernandoide",
+    "provider": "lichess",
+    "username": "fernandoide",
+    "firstSeen": 1640007104863,
+    "lastSeen": 1640018122494
+  },
+  "akshadlawanibot@lichess": {
+    "id": "akshadlawanibot",
+    "provider": "lichess",
+    "username": "akshadlawanibot",
+    "firstSeen": 1640016373277,
+    "lastSeen": 1640018286848
+  },
+  "bat9izovisosedei3@lichess": {
+    "id": "bat9izovisosedei3",
+    "provider": "lichess",
+    "username": "Bat9Izovisosedei3",
+    "firstSeen": 1640016715548,
+    "lastSeen": 1640018298099
+  },
+  "rotating_bot@lichess": {
+    "id": "rotating_bot",
+    "provider": "lichess",
+    "username": "Rotating_Bot",
+    "firstSeen": 1640018040142,
+    "lastSeen": 1640018461327
+  },
+  "utsa-super-bot@lichess": {
+    "id": "utsa-super-bot",
+    "provider": "lichess",
+    "username": "Utsa-Super-Bot",
+    "firstSeen": 1640018506586,
+    "lastSeen": 1640018506586
+  }
+}
