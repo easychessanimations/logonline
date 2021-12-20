@@ -1,0 +1,26 @@
+{
+  "x_x-bot-x_x@lichess": {
+    "id": "x_x-bot-x_x",
+    "provider": "lichess",
+    "username": "X_X-Bot-X_X",
+    "firstSeen": 1639996037266,
+    "lastSeen": 1640004392838,
+    "firstSeenTime": "10:27:17 AM",
+    "lastSeenTime": "12:33:26 PM",
+    "onlineDurationMins": 126.1508
+  },
+  "rotating_bot@lichess": {
+    "id": "rotating_bot",
+    "provider": "lichess",
+    "username": "Rotating_Bot",
+    "firstSeen": 1640003871322,
+    "lastSeen": 1640004101135
+  },
+  "mastermind_balu@lichess": {
+    "id": "mastermind_balu",
+    "provider": "lichess",
+    "username": "mastermind_balu",
+    "firstSeen": 1640004458777,
+    "lastSeen": 1640004458777
+  }
+}
