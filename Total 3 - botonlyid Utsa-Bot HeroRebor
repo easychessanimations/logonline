@@ -1,0 +1,29 @@
+{
+  "botonlyid@lichess": {
+    "id": "botonlyid",
+    "provider": "lichess",
+    "username": "botonlyid",
+    "firstSeen": 1639989052739,
+    "lastSeen": 1639990254828,
+    "firstSeenTime": "8:30:52 AM",
+    "lastSeenTime": "8:49:51 AM",
+    "onlineDurationMins": 18.9751
+  },
+  "utsa-bot@lichess": {
+    "id": "utsa-bot",
+    "provider": "lichess",
+    "username": "Utsa-Bot",
+    "firstSeen": 1639989095159,
+    "lastSeen": 1639990673096,
+    "firstSeenTime": "8:31:35 AM",
+    "lastSeenTime": "8:41:42 AM",
+    "onlineDurationMins": 10.128033333333333
+  },
+  "96386317@github": {
+    "id": "96386317",
+    "provider": "github",
+    "username": "HeroRebor",
+    "firstSeen": 1639990645224,
+    "lastSeen": 1639990663825
+  }
+}
