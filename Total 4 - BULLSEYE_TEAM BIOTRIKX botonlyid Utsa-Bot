@@ -1,0 +1,30 @@
+{
+  "bullseye_team@lichess": {
+    "id": "bullseye_team",
+    "provider": "lichess",
+    "username": "BULLSEYE_TEAM",
+    "firstSeen": 1639986793455,
+    "lastSeen": 1639989211238
+  },
+  "biotrikx@lichess": {
+    "id": "biotrikx",
+    "provider": "lichess",
+    "username": "BIOTRIKX",
+    "firstSeen": 1639989006991,
+    "lastSeen": 1639989769734
+  },
+  "botonlyid@lichess": {
+    "id": "botonlyid",
+    "provider": "lichess",
+    "username": "botonlyid",
+    "firstSeen": 1639989052739,
+    "lastSeen": 1639990073541
+  },
+  "utsa-bot@lichess": {
+    "id": "utsa-bot",
+    "provider": "lichess",
+    "username": "Utsa-Bot",
+    "firstSeen": 1639989095159,
+    "lastSeen": 1639989702841
+  }
+}
