@@ -3,17 +3,20 @@
     "id": "x_x-bot-x_x",
     "provider": "lichess",
     "username": "X_X-Bot-X_X",
-    "firstSeen": 1639903463534,
-    "lastSeen": 1639931874651,
-    "firstSeenTime": "8:44:23 AM",
-    "lastSeenTime": "3:38:00 PM",
-    "onlineDurationMins": 413.61086666666665
+    "firstSeen": 1639996037266,
+    "lastSeen": 1639998190556,
+    "firstSeenTime": "10:27:17 AM",
+    "lastSeenTime": "11:03:10 AM",
+    "onlineDurationMins": 35.88816666666666
   },
   "rotating_bot@lichess": {
     "id": "rotating_bot",
     "provider": "lichess",
     "username": "Rotating_Bot",
-    "firstSeen": 1639931872044,
-    "lastSeen": 1639932702215
+    "firstSeen": 1639997398944,
+    "lastSeen": 1639998720312,
+    "firstSeenTime": "10:49:58 AM",
+    "lastSeenTime": "11:03:10 AM",
+    "onlineDurationMins": 13.18925
   }
 }
