@@ -1,0 +1,19 @@
+{
+  "utsa-bot@lichess": {
+    "id": "utsa-bot",
+    "provider": "lichess",
+    "username": "Utsa-bot",
+    "firstSeen": 1639976684471,
+    "lastSeen": 1639985089528,
+    "firstSeenTime": "5:04:44 AM",
+    "lastSeenTime": "7:00:19 AM",
+    "onlineDurationMins": 115.58746666666667
+  },
+  "casperw_kiwi1@lichess": {
+    "id": "casperw_kiwi1",
+    "provider": "lichess",
+    "username": "Casperw_Kiwi1",
+    "firstSeen": 1639984721918,
+    "lastSeen": 1639985327715
+  }
+}
