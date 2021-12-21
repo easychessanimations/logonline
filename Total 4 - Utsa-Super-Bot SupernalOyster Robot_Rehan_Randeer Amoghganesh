@@ -1,0 +1,42 @@
+{
+  "utsa-super-bot@lichess": {
+    "id": "utsa-super-bot",
+    "provider": "lichess",
+    "username": "Utsa-Super-Bot",
+    "firstSeen": 1640060624832,
+    "lastSeen": 1640068559205,
+    "firstSeenTime": "4:23:44 AM",
+    "lastSeenTime": "6:35:59 AM",
+    "onlineDurationMins": 132.23955
+  },
+  "supernaloyster@lichess": {
+    "id": "supernaloyster",
+    "provider": "lichess",
+    "username": "SupernalOyster",
+    "firstSeen": 1640067655858,
+    "lastSeen": 1640069087868,
+    "firstSeenTime": "6:20:55 AM",
+    "lastSeenTime": "6:33:51 AM",
+    "onlineDurationMins": 12.921216666666666
+  },
+  "robot_rehan_randeer@lichess": {
+    "id": "robot_rehan_randeer",
+    "provider": "lichess",
+    "username": "Robot_Rehan_Randeer",
+    "firstSeen": 1640068245452,
+    "lastSeen": 1640068955676,
+    "firstSeenTime": "6:30:45 AM",
+    "lastSeenTime": "6:40:18 AM",
+    "onlineDurationMins": 9.5435
+  },
+  "amoghganesh@lichess": {
+    "id": "amoghganesh",
+    "provider": "lichess",
+    "username": "Amoghganesh",
+    "firstSeen": 1640068653393,
+    "lastSeen": 1640068817506,
+    "firstSeenTime": "6:37:33 AM",
+    "lastSeenTime": "6:40:17 AM",
+    "onlineDurationMins": 2.7352166666666666
+  }
+}
