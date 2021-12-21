@@ -1,0 +1,32 @@
+{
+  "utsa-super-bot@lichess": {
+    "id": "utsa-super-bot",
+    "provider": "lichess",
+    "username": "Utsa-Super-Bot",
+    "firstSeen": 1640073944857,
+    "lastSeen": 1640083540654,
+    "firstSeenTime": "8:05:44 AM",
+    "lastSeenTime": "10:35:51 AM",
+    "onlineDurationMins": 150.10585
+  },
+  "bggbro@lichess": {
+    "id": "bggbro",
+    "provider": "lichess",
+    "username": "BGGBro",
+    "firstSeen": 1640075377320,
+    "lastSeen": 1640083719736,
+    "firstSeenTime": "8:29:37 AM",
+    "lastSeenTime": "10:32:33 AM",
+    "onlineDurationMins": 122.93331666666667
+  },
+  "x_x-bot-x_x@lichess": {
+    "id": "x_x-bot-x_x",
+    "provider": "lichess",
+    "username": "X_X-Bot-X_X",
+    "firstSeen": 1640082572425,
+    "lastSeen": 1640083614914,
+    "firstSeenTime": "10:29:32 AM",
+    "lastSeenTime": "10:36:02 AM",
+    "onlineDurationMins": 6.49525
+  }
+}
