@@ -1,0 +1,39 @@
+{
+  "osmanpromax@lichess": {
+    "id": "osmanpromax",
+    "provider": "lichess",
+    "username": "osmanpromax",
+    "firstSeen": 1640092437337,
+    "lastSeen": 1640097744812,
+    "firstSeenTime": "1:13:57 PM",
+    "lastSeenTime": "2:20:46 PM",
+    "onlineDurationMins": 66.81263333333334
+  },
+  "vyshnavmv@lichess": {
+    "id": "vyshnavmv",
+    "provider": "lichess",
+    "username": "VyshnavMV",
+    "firstSeen": 1640095481476,
+    "lastSeen": 1640097441448,
+    "firstSeenTime": "2:04:41 PM",
+    "lastSeenTime": "2:26:18 PM",
+    "onlineDurationMins": 21.612783333333333
+  },
+  "akshadlawanibot@lichess": {
+    "id": "akshadlawanibot",
+    "provider": "lichess",
+    "username": "akshadlawanibot",
+    "firstSeen": 1640095934309,
+    "lastSeen": 1640097200585,
+    "firstSeenTime": "2:12:14 PM",
+    "lastSeenTime": "2:23:34 PM",
+    "onlineDurationMins": 11.336633333333333
+  },
+  "bggbro@lichess": {
+    "id": "bggbro",
+    "provider": "lichess",
+    "username": "BGGBro",
+    "firstSeen": 1640097095856,
+    "lastSeen": 1640097359765
+  }
+}
