@@ -1,0 +1,30 @@
+{
+  "utsa-super-bot@lichess": {
+    "id": "utsa-super-bot",
+    "provider": "lichess",
+    "username": "Utsa-Super-Bot",
+    "firstSeen": 1640073944857,
+    "lastSeen": 1640075664627
+  },
+  "stockfish_xxx@lichess": {
+    "id": "stockfish_xxx",
+    "provider": "lichess",
+    "username": "stockfish_XXX",
+    "firstSeen": 1640074813481,
+    "lastSeen": 1640075972004
+  },
+  "bggbro@lichess": {
+    "id": "bggbro",
+    "provider": "lichess",
+    "username": "BGGBro",
+    "firstSeen": 1640075377320,
+    "lastSeen": 1640076296492
+  },
+  "dancing-hippo@lichess": {
+    "id": "dancing-hippo",
+    "provider": "lichess",
+    "username": "Dancing-Hippo",
+    "firstSeen": 1640075532174,
+    "lastSeen": 1640075577524
+  }
+}
