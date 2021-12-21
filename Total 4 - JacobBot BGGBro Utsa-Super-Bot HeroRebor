@@ -1,0 +1,30 @@
+{
+  "jacobbot@lichess": {
+    "id": "jacobbot",
+    "provider": "lichess",
+    "username": "JacobBot",
+    "firstSeen": 1640102795995,
+    "lastSeen": 1640104773486
+  },
+  "bggbro@lichess": {
+    "id": "bggbro",
+    "provider": "lichess",
+    "username": "BGGBro",
+    "firstSeen": 1640103178017,
+    "lastSeen": 1640104704674
+  },
+  "utsa-super-bot@lichess": {
+    "id": "utsa-super-bot",
+    "provider": "lichess",
+    "username": "Utsa-Super-Bot",
+    "firstSeen": 1640104754207,
+    "lastSeen": 1640104773911
+  },
+  "96386317@github": {
+    "id": "96386317",
+    "provider": "github",
+    "username": "HeroRebor",
+    "firstSeen": 1640104774806,
+    "lastSeen": 1640104774806
+  }
+}
