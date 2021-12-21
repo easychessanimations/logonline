@@ -1,0 +1,53 @@
+{
+  "utsa-super-bot@lichess": {
+    "id": "utsa-super-bot",
+    "provider": "lichess",
+    "username": "Utsa-Super-Bot",
+    "firstSeen": 1640073944857,
+    "lastSeen": 1640086845795,
+    "firstSeenTime": "8:05:44 AM",
+    "lastSeenTime": "10:45:40 AM",
+    "onlineDurationMins": 159.92995
+  },
+  "bggbro@lichess": {
+    "id": "bggbro",
+    "provider": "lichess",
+    "username": "BGGBro",
+    "firstSeen": 1640075377320,
+    "lastSeen": 1640086808069,
+    "firstSeenTime": "8:29:37 AM",
+    "lastSeenTime": "10:48:39 AM",
+    "onlineDurationMins": 139.04026666666667
+  },
+  "x_x-bot-x_x@lichess": {
+    "id": "x_x-bot-x_x",
+    "provider": "lichess",
+    "username": "X_X-Bot-X_X",
+    "firstSeen": 1640082572425,
+    "lastSeen": 1640086323960,
+    "firstSeenTime": "10:29:32 AM",
+    "lastSeenTime": "10:46:54 AM",
+    "onlineDurationMins": 17.374816666666668
+  },
+  "lejker_bot@lichess": {
+    "id": "lejker_bot",
+    "provider": "lichess",
+    "username": "lejker_bot",
+    "firstSeen": 1640085926770,
+    "lastSeen": 1640086673905
+  },
+  "asvivaan@lichess": {
+    "id": "asvivaan",
+    "provider": "lichess",
+    "username": "ASVivaan",
+    "firstSeen": 1640086472463,
+    "lastSeen": 1640086476321
+  },
+  "rotating_bot@lichess": {
+    "id": "rotating_bot",
+    "provider": "lichess",
+    "username": "Rotating_Bot",
+    "firstSeen": 1640086683552,
+    "lastSeen": 1640086758115
+  }
+}
