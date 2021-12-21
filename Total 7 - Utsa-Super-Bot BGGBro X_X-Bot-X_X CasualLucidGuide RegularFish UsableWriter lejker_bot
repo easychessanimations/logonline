@@ -1,0 +1,60 @@
+{
+  "utsa-super-bot@lichess": {
+    "id": "utsa-super-bot",
+    "provider": "lichess",
+    "username": "Utsa-Super-Bot",
+    "firstSeen": 1640073944857,
+    "lastSeen": 1640085873273,
+    "firstSeenTime": "8:05:44 AM",
+    "lastSeenTime": "10:45:40 AM",
+    "onlineDurationMins": 159.92995
+  },
+  "bggbro@lichess": {
+    "id": "bggbro",
+    "provider": "lichess",
+    "username": "BGGBro",
+    "firstSeen": 1640075377320,
+    "lastSeen": 1640085889514,
+    "firstSeenTime": "8:29:37 AM",
+    "lastSeenTime": "10:48:39 AM",
+    "onlineDurationMins": 139.04026666666667
+  },
+  "x_x-bot-x_x@lichess": {
+    "id": "x_x-bot-x_x",
+    "provider": "lichess",
+    "username": "X_X-Bot-X_X",
+    "firstSeen": 1640082572425,
+    "lastSeen": 1640085654985,
+    "firstSeenTime": "10:29:32 AM",
+    "lastSeenTime": "10:46:54 AM",
+    "onlineDurationMins": 17.374816666666668
+  },
+  "casuallucidguide@lichess": {
+    "id": "casuallucidguide",
+    "provider": "lichess",
+    "username": "CasualLucidGuide",
+    "firstSeen": 1640085367188,
+    "lastSeen": 1640085454949
+  },
+  "regularfish@lichess": {
+    "id": "regularfish",
+    "provider": "lichess",
+    "username": "RegularFish",
+    "firstSeen": 1640085455311,
+    "lastSeen": 1640085517251
+  },
+  "usablewriter@lichess": {
+    "id": "usablewriter",
+    "provider": "lichess",
+    "username": "UsableWriter",
+    "firstSeen": 1640085517534,
+    "lastSeen": 1640085926515
+  },
+  "lejker_bot@lichess": {
+    "id": "lejker_bot",
+    "provider": "lichess",
+    "username": "lejker_bot",
+    "firstSeen": 1640085926770,
+    "lastSeen": 1640085926770
+  }
+}
