@@ -1,0 +1,33 @@
+{
+  "x_x-bot-x_x@lichess": {
+    "id": "x_x-bot-x_x",
+    "provider": "lichess",
+    "username": "X_X-Bot-X_X",
+    "firstSeen": 1640082572425,
+    "lastSeen": 1640088298508,
+    "firstSeenTime": "10:29:32 AM",
+    "lastSeenTime": "10:46:54 AM",
+    "onlineDurationMins": 17.374816666666668
+  },
+  "rotating_bot@lichess": {
+    "id": "rotating_bot",
+    "provider": "lichess",
+    "username": "Rotating_Bot",
+    "firstSeen": 1640086683552,
+    "lastSeen": 1640087894493
+  },
+  "soudos4@lichess": {
+    "id": "soudos4",
+    "provider": "lichess",
+    "username": "soudos4",
+    "firstSeen": 1640087448758,
+    "lastSeen": 1640088544533
+  },
+  "wowchess872@lichess": {
+    "id": "wowchess872",
+    "provider": "lichess",
+    "username": "Wowchess872",
+    "firstSeen": 1640087599923,
+    "lastSeen": 1640087948291
+  }
+}
