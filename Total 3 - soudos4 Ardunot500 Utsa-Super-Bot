@@ -1,0 +1,29 @@
+{
+  "soudos4@lichess": {
+    "id": "soudos4",
+    "provider": "lichess",
+    "username": "soudos4",
+    "firstSeen": 1640135728154,
+    "lastSeen": 1640145251753,
+    "firstSeenTime": "1:15:28 AM",
+    "lastSeenTime": "3:45:30 AM",
+    "onlineDurationMins": 150.0314
+  },
+  "ardunot500@lichess": {
+    "id": "ardunot500",
+    "provider": "lichess",
+    "username": "Ardunot500",
+    "firstSeen": 1640143755883,
+    "lastSeen": 1640145359125,
+    "firstSeenTime": "3:29:15 AM",
+    "lastSeenTime": "3:53:43 AM",
+    "onlineDurationMins": 24.4632
+  },
+  "utsa-super-bot@lichess": {
+    "id": "utsa-super-bot",
+    "provider": "lichess",
+    "username": "Utsa-Super-Bot",
+    "firstSeen": 1640145769375,
+    "lastSeen": 1640145769375
+  }
+}
