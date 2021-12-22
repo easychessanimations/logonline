@@ -1,0 +1,40 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1640190070004,
+    "lastSeen": 1640196658584,
+    "firstSeenTime": "4:21:10 PM",
+    "lastSeenTime": "4:46:11 PM",
+    "onlineDurationMins": 25.028216666666665
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1640192292342,
+    "lastSeen": 1640196220263
+  },
+  "x_x-bot-x_x@lichess": {
+    "id": "x_x-bot-x_x",
+    "provider": "lichess",
+    "username": "X_X-Bot-X_X",
+    "firstSeen": 1640193584303,
+    "lastSeen": 1640196589891
+  },
+  "bot123451234123121@lichess": {
+    "id": "bot123451234123121",
+    "provider": "lichess",
+    "username": "BOT123451234123121",
+    "firstSeen": 1640196283788,
+    "lastSeen": 1640196290032
+  },
+  "super_fighter_2000@lichess": {
+    "id": "super_fighter_2000",
+    "provider": "lichess",
+    "username": "super_fighter_2000",
+    "firstSeen": 1640196667914,
+    "lastSeen": 1640196924408
+  }
+}
