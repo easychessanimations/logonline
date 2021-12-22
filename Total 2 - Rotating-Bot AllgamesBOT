@@ -1,0 +1,22 @@
+{
+  "rotating-bot@lichess": {
+    "id": "rotating-bot",
+    "provider": "lichess",
+    "username": "Rotating-Bot",
+    "firstSeen": 1640186020628,
+    "lastSeen": 1640192178307,
+    "firstSeenTime": "3:13:40 PM",
+    "lastSeenTime": "4:42:45 PM",
+    "onlineDurationMins": 89.07901666666666
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1640190070004,
+    "lastSeen": 1640192038852,
+    "firstSeenTime": "4:21:10 PM",
+    "lastSeenTime": "4:46:11 PM",
+    "onlineDurationMins": 25.028216666666665
+  }
+}
