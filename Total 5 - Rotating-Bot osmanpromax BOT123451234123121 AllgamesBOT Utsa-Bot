@@ -1,0 +1,49 @@
+{
+  "rotating-bot@lichess": {
+    "id": "rotating-bot",
+    "provider": "lichess",
+    "username": "Rotating-Bot",
+    "firstSeen": 1640186020628,
+    "lastSeen": 1640190078227,
+    "firstSeenTime": "3:13:40 PM",
+    "lastSeenTime": "4:21:18 PM",
+    "onlineDurationMins": 67.62665
+  },
+  "osmanpromax@lichess": {
+    "id": "osmanpromax",
+    "provider": "lichess",
+    "username": "osmanpromax",
+    "firstSeen": 1640188680841,
+    "lastSeen": 1640190182015,
+    "firstSeenTime": "3:58:00 PM",
+    "lastSeenTime": "4:23:02 PM",
+    "onlineDurationMins": 25.019566666666666
+  },
+  "bot123451234123121@lichess": {
+    "id": "bot123451234123121",
+    "provider": "lichess",
+    "username": "BOT123451234123121",
+    "firstSeen": 1640190028081,
+    "lastSeen": 1640190340003,
+    "firstSeenTime": "4:20:28 PM",
+    "lastSeenTime": "4:25:40 PM",
+    "onlineDurationMins": 5.1987
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1640190070004,
+    "lastSeen": 1640190079419,
+    "firstSeenTime": "4:21:10 PM",
+    "lastSeenTime": "4:21:19 PM",
+    "onlineDurationMins": 0.15691666666666668
+  },
+  "utsa-bot@lichess": {
+    "id": "utsa-bot",
+    "provider": "lichess",
+    "username": "Utsa-Bot",
+    "firstSeen": 1640190507429,
+    "lastSeen": 1640190507429
+  }
+}
