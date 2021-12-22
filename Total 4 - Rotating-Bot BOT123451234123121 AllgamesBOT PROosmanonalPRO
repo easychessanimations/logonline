@@ -1,0 +1,39 @@
+{
+  "rotating-bot@lichess": {
+    "id": "rotating-bot",
+    "provider": "lichess",
+    "username": "Rotating-Bot",
+    "firstSeen": 1640186020628,
+    "lastSeen": 1640191365369,
+    "firstSeenTime": "3:13:40 PM",
+    "lastSeenTime": "4:21:18 PM",
+    "onlineDurationMins": 67.62665
+  },
+  "bot123451234123121@lichess": {
+    "id": "bot123451234123121",
+    "provider": "lichess",
+    "username": "BOT123451234123121",
+    "firstSeen": 1640190028081,
+    "lastSeen": 1640190701072,
+    "firstSeenTime": "4:20:28 PM",
+    "lastSeenTime": "4:25:40 PM",
+    "onlineDurationMins": 5.1987
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1640190070004,
+    "lastSeen": 1640191382016,
+    "firstSeenTime": "4:21:10 PM",
+    "lastSeenTime": "4:21:19 PM",
+    "onlineDurationMins": 0.15691666666666668
+  },
+  "proosmanonalpro@lichess": {
+    "id": "proosmanonalpro",
+    "provider": "lichess",
+    "username": "PROosmanonalPRO",
+    "firstSeen": 1640190608069,
+    "lastSeen": 1640191277854
+  }
+}
