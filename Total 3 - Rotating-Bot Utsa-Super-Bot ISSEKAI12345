@@ -1,0 +1,23 @@
+{
+  "rotating-bot@lichess": {
+    "id": "rotating-bot",
+    "provider": "lichess",
+    "username": "Rotating-Bot",
+    "firstSeen": 1640183469062,
+    "lastSeen": 1640184172323
+  },
+  "utsa-super-bot@lichess": {
+    "id": "utsa-super-bot",
+    "provider": "lichess",
+    "username": "Utsa-Super-Bot",
+    "firstSeen": 1640183682830,
+    "lastSeen": 1640184153162
+  },
+  "issekai12345@lichess": {
+    "id": "issekai12345",
+    "provider": "lichess",
+    "username": "ISSEKAI12345",
+    "firstSeen": 1640184194102,
+    "lastSeen": 1640184194102
+  }
+}
