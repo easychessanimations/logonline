@@ -1,0 +1,39 @@
+{
+  "soudos4@lichess": {
+    "id": "soudos4",
+    "provider": "lichess",
+    "username": "soudos4",
+    "firstSeen": 1640157676344,
+    "lastSeen": 1640162179906,
+    "firstSeenTime": "7:21:16 AM",
+    "lastSeenTime": "8:36:19 AM",
+    "onlineDurationMins": 75.05936666666666
+  },
+  "bggbro@lichess": {
+    "id": "bggbro",
+    "provider": "lichess",
+    "username": "BGGBro",
+    "firstSeen": 1640159548265,
+    "lastSeen": 1640162253219,
+    "firstSeenTime": "7:52:28 AM",
+    "lastSeenTime": "8:37:33 AM",
+    "onlineDurationMins": 45.082566666666665
+  },
+  "utsa-super-bot@lichess": {
+    "id": "utsa-super-bot",
+    "provider": "lichess",
+    "username": "Utsa-Super-Bot",
+    "firstSeen": 1640162291693,
+    "lastSeen": 1640162548185,
+    "firstSeenTime": "8:38:11 AM",
+    "lastSeenTime": "8:42:28 AM",
+    "onlineDurationMins": 4.274866666666667
+  },
+  "kop2009@lichess": {
+    "id": "kop2009",
+    "provider": "lichess",
+    "username": "kop2009",
+    "firstSeen": 1640162969217,
+    "lastSeen": 1640162969217
+  }
+}
