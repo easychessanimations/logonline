@@ -1,0 +1,29 @@
+{
+  "rotating-bot@lichess": {
+    "id": "rotating-bot",
+    "provider": "lichess",
+    "username": "Rotating-Bot",
+    "firstSeen": 1640186020628,
+    "lastSeen": 1640188658653,
+    "firstSeenTime": "3:13:40 PM",
+    "lastSeenTime": "3:46:38 PM",
+    "onlineDurationMins": 32.96658333333333
+  },
+  "utsa-super-bot@lichess": {
+    "id": "utsa-super-bot",
+    "provider": "lichess",
+    "username": "Utsa-Super-Bot",
+    "firstSeen": 1640187964483,
+    "lastSeen": 1640188056693,
+    "firstSeenTime": "3:46:04 PM",
+    "lastSeenTime": "3:47:36 PM",
+    "onlineDurationMins": 1.5368333333333333
+  },
+  "osmanpromax@lichess": {
+    "id": "osmanpromax",
+    "provider": "lichess",
+    "username": "osmanpromax",
+    "firstSeen": 1640188680841,
+    "lastSeen": 1640188680841
+  }
+}
