@@ -1,0 +1,47 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1640190070004,
+    "lastSeen": 1640194678600,
+    "firstSeenTime": "4:21:10 PM",
+    "lastSeenTime": "4:46:11 PM",
+    "onlineDurationMins": 25.028216666666665
+  },
+  "clubajedrezchileno@lichess": {
+    "id": "clubajedrezchileno",
+    "provider": "lichess",
+    "username": "ClubAjedrezChileno",
+    "firstSeen": 1640192292342,
+    "lastSeen": 1640194356665
+  },
+  "soyunbotenajedrez_20@lichess": {
+    "id": "soyunbotenajedrez_20",
+    "provider": "lichess",
+    "username": "soyunbotenajedrez_20",
+    "firstSeen": 1640192602862,
+    "lastSeen": 1640194709217
+  },
+  "x_x-bot-x_x@lichess": {
+    "id": "x_x-bot-x_x",
+    "provider": "lichess",
+    "username": "X_X-Bot-X_X",
+    "firstSeen": 1640193584303,
+    "lastSeen": 1640194439085
+  },
+  "majo-bot@lichess": {
+    "id": "majo-bot",
+    "provider": "lichess",
+    "username": "majo-bot",
+    "firstSeen": 1640193940253,
+    "lastSeen": 1640194709003
+  },
+  "chess-is-life-2021@lichess": {
+    "id": "chess-is-life-2021",
+    "provider": "lichess",
+    "username": "CHESS-IS-LIFE-2021",
+    "firstSeen": 1640194790007,
+    "lastSeen": 1640194790007
+  }
+}
