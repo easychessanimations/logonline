@@ -1,0 +1,30 @@
+{
+  "lejkerbot@lichess": {
+    "id": "lejkerbot",
+    "provider": "lichess",
+    "username": "LejkerBOT",
+    "firstSeen": 1640157385606,
+    "lastSeen": 1640161595807
+  },
+  "soudos4@lichess": {
+    "id": "soudos4",
+    "provider": "lichess",
+    "username": "soudos4",
+    "firstSeen": 1640157676344,
+    "lastSeen": 1640162179906
+  },
+  "bggbro@lichess": {
+    "id": "bggbro",
+    "provider": "lichess",
+    "username": "BGGBro",
+    "firstSeen": 1640159548265,
+    "lastSeen": 1640162253219
+  },
+  "utsa-super-bot@lichess": {
+    "id": "utsa-super-bot",
+    "provider": "lichess",
+    "username": "Utsa-Super-Bot",
+    "firstSeen": 1640162291693,
+    "lastSeen": 1640162291694
+  }
+}
