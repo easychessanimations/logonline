@@ -1,0 +1,40 @@
+{
+  "soudos4@lichess": {
+    "id": "soudos4",
+    "provider": "lichess",
+    "username": "soudos4",
+    "firstSeen": 1640166342840,
+    "lastSeen": 1640177969796,
+    "firstSeenTime": "9:45:42 AM",
+    "lastSeenTime": "11:05:08 AM",
+    "onlineDurationMins": 79.42666666666666
+  },
+  "rotating-bot@lichess": {
+    "id": "rotating-bot",
+    "provider": "lichess",
+    "username": "Rotating-Bot",
+    "firstSeen": 1640174483744,
+    "lastSeen": 1640177987168
+  },
+  "utsa-super-bot@lichess": {
+    "id": "utsa-super-bot",
+    "provider": "lichess",
+    "username": "Utsa-Super-Bot",
+    "firstSeen": 1640177743922,
+    "lastSeen": 1640177763503
+  },
+  "vive_2_chess_pro@lichess": {
+    "id": "vive_2_chess_pro",
+    "provider": "lichess",
+    "username": "ViVe_2_chess_pro",
+    "firstSeen": 1640177744948,
+    "lastSeen": 1640178008572
+  },
+  "fernandoide@lichess": {
+    "id": "fernandoide",
+    "provider": "lichess",
+    "username": "fernandoide",
+    "firstSeen": 1640178037090,
+    "lastSeen": 1640178037090
+  }
+}
