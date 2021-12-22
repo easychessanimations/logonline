@@ -1,0 +1,58 @@
+{
+  "lejkerbot@lichess": {
+    "id": "lejkerbot",
+    "provider": "lichess",
+    "username": "LejkerBOT",
+    "firstSeen": 1640157385606,
+    "lastSeen": 1640160399687
+  },
+  "soudos4@lichess": {
+    "id": "soudos4",
+    "provider": "lichess",
+    "username": "soudos4",
+    "firstSeen": 1640157676344,
+    "lastSeen": 1640160393615
+  },
+  "ardunot500@lichess": {
+    "id": "ardunot500",
+    "provider": "lichess",
+    "username": "Ardunot500",
+    "firstSeen": 1640157706893,
+    "lastSeen": 1640160611870
+  },
+  "utsa-bot@lichess": {
+    "id": "utsa-bot",
+    "provider": "lichess",
+    "username": "Utsa-Bot",
+    "firstSeen": 1640158207922,
+    "lastSeen": 1640160465427
+  },
+  "bggbro@lichess": {
+    "id": "bggbro",
+    "provider": "lichess",
+    "username": "BGGBro",
+    "firstSeen": 1640159548265,
+    "lastSeen": 1640160653878
+  },
+  "utsa-super-bot@lichess": {
+    "id": "utsa-super-bot",
+    "provider": "lichess",
+    "username": "Utsa-Super-Bot",
+    "firstSeen": 1640159762070,
+    "lastSeen": 1640160219637
+  },
+  "bot_monster@lichess": {
+    "id": "bot_monster",
+    "provider": "lichess",
+    "username": "Bot_Monster",
+    "firstSeen": 1640159896056,
+    "lastSeen": 1640160184073
+  },
+  "nguru10@lichess": {
+    "id": "nguru10",
+    "provider": "lichess",
+    "username": "nguru10",
+    "firstSeen": 1640159971038,
+    "lastSeen": 1640160480368
+  }
+}
