@@ -1,0 +1,23 @@
+{
+  "utsa-super-bot@lichess": {
+    "id": "utsa-super-bot",
+    "provider": "lichess",
+    "username": "Utsa-Super-Bot",
+    "firstSeen": 1640154841009,
+    "lastSeen": 1640157376865
+  },
+  "bestchessbot@lichess": {
+    "id": "bestchessbot",
+    "provider": "lichess",
+    "username": "bestchessbot",
+    "firstSeen": 1640156309407,
+    "lastSeen": 1640157350852
+  },
+  "lejkerbot@lichess": {
+    "id": "lejkerbot",
+    "provider": "lichess",
+    "username": "LejkerBOT",
+    "firstSeen": 1640157385606,
+    "lastSeen": 1640157385606
+  }
+}
