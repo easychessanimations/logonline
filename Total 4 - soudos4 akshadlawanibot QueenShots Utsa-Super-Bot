@@ -1,0 +1,42 @@
+{
+  "soudos4@lichess": {
+    "id": "soudos4",
+    "provider": "lichess",
+    "username": "soudos4",
+    "firstSeen": 1640232951658,
+    "lastSeen": 1640246282482,
+    "firstSeenTime": "4:15:51 AM",
+    "lastSeenTime": "7:58:02 AM",
+    "onlineDurationMins": 222.1804
+  },
+  "akshadlawanibot@lichess": {
+    "id": "akshadlawanibot",
+    "provider": "lichess",
+    "username": "akshadlawanibot",
+    "firstSeen": 1640242843083,
+    "lastSeen": 1640246435773,
+    "firstSeenTime": "7:00:43 AM",
+    "lastSeenTime": "8:00:35 AM",
+    "onlineDurationMins": 59.878166666666665
+  },
+  "queenshots@lichess": {
+    "id": "queenshots",
+    "provider": "lichess",
+    "username": "QueenShots",
+    "firstSeen": 1640243036778,
+    "lastSeen": 1640246413716,
+    "firstSeenTime": "7:03:56 AM",
+    "lastSeenTime": "8:00:13 AM",
+    "onlineDurationMins": 56.2823
+  },
+  "utsa-super-bot@lichess": {
+    "id": "utsa-super-bot",
+    "provider": "lichess",
+    "username": "Utsa-Super-Bot",
+    "firstSeen": 1640243897534,
+    "lastSeen": 1640246347743,
+    "firstSeenTime": "7:18:17 AM",
+    "lastSeenTime": "7:59:07 AM",
+    "onlineDurationMins": 40.836816666666664
+  }
+}
