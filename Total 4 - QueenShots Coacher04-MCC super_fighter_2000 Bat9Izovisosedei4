@@ -1,0 +1,42 @@
+{
+  "queenshots@lichess": {
+    "id": "queenshots",
+    "provider": "lichess",
+    "username": "QueenShots",
+    "firstSeen": 1640243036778,
+    "lastSeen": 1640257823492,
+    "firstSeenTime": "7:03:56 AM",
+    "lastSeenTime": "11:10:23 AM",
+    "onlineDurationMins": 246.44523333333333
+  },
+  "coacher04-mcc@lichess": {
+    "id": "coacher04-mcc",
+    "provider": "lichess",
+    "username": "Coacher04-MCC",
+    "firstSeen": 1640254137627,
+    "lastSeen": 1640257946296,
+    "firstSeenTime": "10:08:57 AM",
+    "lastSeenTime": "11:12:26 AM",
+    "onlineDurationMins": 63.47781666666667
+  },
+  "super_fighter_2000@lichess": {
+    "id": "super_fighter_2000",
+    "provider": "lichess",
+    "username": "super_fighter_2000",
+    "firstSeen": 1640256865761,
+    "lastSeen": 1640258000439,
+    "firstSeenTime": "10:54:25 AM",
+    "lastSeenTime": "11:13:20 AM",
+    "onlineDurationMins": 18.9113
+  },
+  "bat9izovisosedei4@lichess": {
+    "id": "bat9izovisosedei4",
+    "provider": "lichess",
+    "username": "Bat9Izovisosedei4",
+    "firstSeen": 1640257035940,
+    "lastSeen": 1640258127240,
+    "firstSeenTime": "10:57:15 AM",
+    "lastSeenTime": "11:13:10 AM",
+    "onlineDurationMins": 15.913833333333333
+  }
+}
