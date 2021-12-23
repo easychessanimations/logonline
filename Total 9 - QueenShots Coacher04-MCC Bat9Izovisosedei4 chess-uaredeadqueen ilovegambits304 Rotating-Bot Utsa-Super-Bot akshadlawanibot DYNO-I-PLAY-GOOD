@@ -1,0 +1,89 @@
+{
+  "queenshots@lichess": {
+    "id": "queenshots",
+    "provider": "lichess",
+    "username": "QueenShots",
+    "firstSeen": 1640243036778,
+    "lastSeen": 1640260579881,
+    "firstSeenTime": "7:03:56 AM",
+    "lastSeenTime": "11:44:19 AM",
+    "onlineDurationMins": 280.38615
+  },
+  "coacher04-mcc@lichess": {
+    "id": "coacher04-mcc",
+    "provider": "lichess",
+    "username": "Coacher04-MCC",
+    "firstSeen": 1640254137627,
+    "lastSeen": 1640259868903,
+    "firstSeenTime": "10:08:57 AM",
+    "lastSeenTime": "11:44:28 AM",
+    "onlineDurationMins": 95.52126666666666
+  },
+  "bat9izovisosedei4@lichess": {
+    "id": "bat9izovisosedei4",
+    "provider": "lichess",
+    "username": "Bat9Izovisosedei4",
+    "firstSeen": 1640257035940,
+    "lastSeen": 1640260494137,
+    "firstSeenTime": "10:57:15 AM",
+    "lastSeenTime": "11:54:54 AM",
+    "onlineDurationMins": 57.63661666666667
+  },
+  "chess-uaredeadqueen@lichess": {
+    "id": "chess-uaredeadqueen",
+    "provider": "lichess",
+    "username": "chess-uaredeadqueen",
+    "firstSeen": 1640259221631,
+    "lastSeen": 1640260291853,
+    "firstSeenTime": "11:33:41 AM",
+    "lastSeenTime": "11:51:31 AM",
+    "onlineDurationMins": 17.837033333333334
+  },
+  "ilovegambits304@lichess": {
+    "id": "ilovegambits304",
+    "provider": "lichess",
+    "username": "ilovegambits304",
+    "firstSeen": 1640259919810,
+    "lastSeen": 1640260423142,
+    "firstSeenTime": "11:45:19 AM",
+    "lastSeenTime": "11:53:43 AM",
+    "onlineDurationMins": 8.388866666666667
+  },
+  "rotating-bot@lichess": {
+    "id": "rotating-bot",
+    "provider": "lichess",
+    "username": "Rotating-Bot",
+    "firstSeen": 1640260045511,
+    "lastSeen": 1640260563515,
+    "firstSeenTime": "11:47:25 AM",
+    "lastSeenTime": "11:56:03 AM",
+    "onlineDurationMins": 8.6334
+  },
+  "utsa-super-bot@lichess": {
+    "id": "utsa-super-bot",
+    "provider": "lichess",
+    "username": "Utsa-Super-Bot",
+    "firstSeen": 1640260215822,
+    "lastSeen": 1640260563065,
+    "firstSeenTime": "11:50:15 AM",
+    "lastSeenTime": "11:56:03 AM",
+    "onlineDurationMins": 5.7873833333333335
+  },
+  "akshadlawanibot@lichess": {
+    "id": "akshadlawanibot",
+    "provider": "lichess",
+    "username": "akshadlawanibot",
+    "firstSeen": 1640260454747,
+    "lastSeen": 1640260465271,
+    "firstSeenTime": "11:54:14 AM",
+    "lastSeenTime": "11:54:25 AM",
+    "onlineDurationMins": 0.1754
+  },
+  "dyno-i-play-good@lichess": {
+    "id": "dyno-i-play-good",
+    "provider": "lichess",
+    "username": "DYNO-I-PLAY-GOOD",
+    "firstSeen": 1640260584829,
+    "lastSeen": 1640260584829
+  }
+}
