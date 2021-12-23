@@ -1,0 +1,49 @@
+{
+  "botviraviral@lichess": {
+    "id": "botviraviral",
+    "provider": "lichess",
+    "username": "Botviraviral",
+    "firstSeen": 1640222918582,
+    "lastSeen": 1640228217915,
+    "firstSeenTime": "1:28:38 AM",
+    "lastSeenTime": "2:56:57 AM",
+    "onlineDurationMins": 88.32221666666666
+  },
+  "inspired_maths@lichess": {
+    "id": "inspired_maths",
+    "provider": "lichess",
+    "username": "Inspired_Maths",
+    "firstSeen": 1640227027567,
+    "lastSeen": 1640227852947,
+    "firstSeenTime": "2:37:07 AM",
+    "lastSeenTime": "2:50:52 AM",
+    "onlineDurationMins": 13.756333333333334
+  },
+  "asplus_bot@lichess": {
+    "id": "asplus_bot",
+    "provider": "lichess",
+    "username": "Asplus_bot",
+    "firstSeen": 1640227103745,
+    "lastSeen": 1640227606293,
+    "firstSeenTime": "2:38:23 AM",
+    "lastSeenTime": "2:46:46 AM",
+    "onlineDurationMins": 8.3758
+  },
+  "wearechesswarrior@lichess": {
+    "id": "wearechesswarrior",
+    "provider": "lichess",
+    "username": "WEARECHESSWARRIOR",
+    "firstSeen": 1640227949352,
+    "lastSeen": 1640227958941,
+    "firstSeenTime": "2:52:29 AM",
+    "lastSeenTime": "2:52:38 AM",
+    "onlineDurationMins": 0.15981666666666666
+  },
+  "qwert900@lichess": {
+    "id": "qwert900",
+    "provider": "lichess",
+    "username": "Qwert900",
+    "firstSeen": 1640228336166,
+    "lastSeen": 1640228336166
+  }
+}
