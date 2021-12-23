@@ -1,0 +1,52 @@
+{
+  "soudos4@lichess": {
+    "id": "soudos4",
+    "provider": "lichess",
+    "username": "soudos4",
+    "firstSeen": 1640232951658,
+    "lastSeen": 1640234583610,
+    "firstSeenTime": "4:15:51 AM",
+    "lastSeenTime": "4:43:03 AM",
+    "onlineDurationMins": 27.1992
+  },
+  "rotating-bot@lichess": {
+    "id": "rotating-bot",
+    "provider": "lichess",
+    "username": "Rotating-Bot",
+    "firstSeen": 1640233943716,
+    "lastSeen": 1640234612167,
+    "firstSeenTime": "4:32:23 AM",
+    "lastSeenTime": "4:43:12 AM",
+    "onlineDurationMins": 10.819416666666667
+  },
+  "supernaloyster@lichess": {
+    "id": "supernaloyster",
+    "provider": "lichess",
+    "username": "SupernalOyster",
+    "firstSeen": 1640234169910,
+    "lastSeen": 1640234396886,
+    "firstSeenTime": "4:36:09 AM",
+    "lastSeenTime": "4:39:56 AM",
+    "onlineDurationMins": 3.7829333333333333
+  },
+  "bot_umika@lichess": {
+    "id": "bot_umika",
+    "provider": "lichess",
+    "username": "Bot_Umika",
+    "firstSeen": 1640234407380,
+    "lastSeen": 1640234433905,
+    "firstSeenTime": "4:40:07 AM",
+    "lastSeenTime": "4:40:33 AM",
+    "onlineDurationMins": 0.44208333333333333
+  },
+  "utsa-super-bot@lichess": {
+    "id": "utsa-super-bot",
+    "provider": "lichess",
+    "username": "Utsa-Super-Bot",
+    "firstSeen": 1640234578447,
+    "lastSeen": 1640234591794,
+    "firstSeenTime": "4:42:58 AM",
+    "lastSeenTime": "4:43:11 AM",
+    "onlineDurationMins": 0.22245
+  }
+}
