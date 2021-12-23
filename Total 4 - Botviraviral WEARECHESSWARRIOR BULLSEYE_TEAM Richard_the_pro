@@ -1,0 +1,36 @@
+{
+  "botviraviral@lichess": {
+    "id": "botviraviral",
+    "provider": "lichess",
+    "username": "Botviraviral",
+    "firstSeen": 1640222918582,
+    "lastSeen": 1640230437821,
+    "firstSeenTime": "1:28:38 AM",
+    "lastSeenTime": "3:33:57 AM",
+    "onlineDurationMins": 125.32065
+  },
+  "wearechesswarrior@lichess": {
+    "id": "wearechesswarrior",
+    "provider": "lichess",
+    "username": "WEARECHESSWARRIOR",
+    "firstSeen": 1640227949352,
+    "lastSeen": 1640230887825,
+    "firstSeenTime": "2:52:29 AM",
+    "lastSeenTime": "3:36:21 AM",
+    "onlineDurationMins": 43.87571666666667
+  },
+  "bullseye_team@lichess": {
+    "id": "bullseye_team",
+    "provider": "lichess",
+    "username": "BULLSEYE_TEAM",
+    "firstSeen": 1640230872274,
+    "lastSeen": 1640230884425
+  },
+  "richard_the_pro@lichess": {
+    "id": "richard_the_pro",
+    "provider": "lichess",
+    "username": "Richard_the_pro",
+    "firstSeen": 1640230888218,
+    "lastSeen": 1640230888219
+  }
+}
