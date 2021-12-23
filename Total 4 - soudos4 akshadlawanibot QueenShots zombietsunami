@@ -1,0 +1,39 @@
+{
+  "soudos4@lichess": {
+    "id": "soudos4",
+    "provider": "lichess",
+    "username": "soudos4",
+    "firstSeen": 1640232951658,
+    "lastSeen": 1640243643123,
+    "firstSeenTime": "4:15:51 AM",
+    "lastSeenTime": "7:14:03 AM",
+    "onlineDurationMins": 178.19108333333332
+  },
+  "akshadlawanibot@lichess": {
+    "id": "akshadlawanibot",
+    "provider": "lichess",
+    "username": "akshadlawanibot",
+    "firstSeen": 1640242843083,
+    "lastSeen": 1640243495539,
+    "firstSeenTime": "7:00:43 AM",
+    "lastSeenTime": "7:11:35 AM",
+    "onlineDurationMins": 10.874266666666667
+  },
+  "queenshots@lichess": {
+    "id": "queenshots",
+    "provider": "lichess",
+    "username": "QueenShots",
+    "firstSeen": 1640243036778,
+    "lastSeen": 1640243766865,
+    "firstSeenTime": "7:03:56 AM",
+    "lastSeenTime": "7:07:55 AM",
+    "onlineDurationMins": 3.9709666666666665
+  },
+  "zombietsunami@lichess": {
+    "id": "zombietsunami",
+    "provider": "lichess",
+    "username": "zombietsunami",
+    "firstSeen": 1640243788748,
+    "lastSeen": 1640243788748
+  }
+}
