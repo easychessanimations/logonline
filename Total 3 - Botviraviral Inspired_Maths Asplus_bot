@@ -1,0 +1,23 @@
+{
+  "botviraviral@lichess": {
+    "id": "botviraviral",
+    "provider": "lichess",
+    "username": "Botviraviral",
+    "firstSeen": 1640222918582,
+    "lastSeen": 1640227422763
+  },
+  "inspired_maths@lichess": {
+    "id": "inspired_maths",
+    "provider": "lichess",
+    "username": "Inspired_Maths",
+    "firstSeen": 1640227027567,
+    "lastSeen": 1640227506533
+  },
+  "asplus_bot@lichess": {
+    "id": "asplus_bot",
+    "provider": "lichess",
+    "username": "Asplus_bot",
+    "firstSeen": 1640227103745,
+    "lastSeen": 1640227426138
+  }
+}
