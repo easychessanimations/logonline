@@ -4,16 +4,19 @@
     "provider": "lichess",
     "username": "ChessSmashTable",
     "firstSeen": 1640332084159,
-    "lastSeen": 1640340059852,
+    "lastSeen": 1640341379686,
     "firstSeenTime": "7:48:04 AM",
-    "lastSeenTime": "9:53:59 AM",
-    "onlineDurationMins": 125.92455
+    "lastSeenTime": "10:18:59 AM",
+    "onlineDurationMins": 150.92591666666667
   },
   "utsa-super-bot@lichess": {
     "id": "utsa-super-bot",
     "provider": "lichess",
     "username": "Utsa-Super-Bot",
     "firstSeen": 1640340328012,
-    "lastSeen": 1640340328013
+    "lastSeen": 1640341414185,
+    "firstSeenTime": "10:05:28 AM",
+    "lastSeenTime": "10:19:34 AM",
+    "onlineDurationMins": 14.1069
   }
 }
