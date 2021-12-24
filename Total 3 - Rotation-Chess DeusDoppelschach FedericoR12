@@ -1,0 +1,23 @@
+{
+  "rotation-chess@lichess": {
+    "id": "rotation-chess",
+    "provider": "lichess",
+    "username": "Rotation-Chess",
+    "firstSeen": 1640344297889,
+    "lastSeen": 1640346580425
+  },
+  "deusdoppelschach@lichess": {
+    "id": "deusdoppelschach",
+    "provider": "lichess",
+    "username": "DeusDoppelschach",
+    "firstSeen": 1640345982341,
+    "lastSeen": 1640345991403
+  },
+  "federicor12@lichess": {
+    "id": "federicor12",
+    "provider": "lichess",
+    "username": "FedericoR12",
+    "firstSeen": 1640346143976,
+    "lastSeen": 1640346250112
+  }
+}
