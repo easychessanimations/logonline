@@ -1,0 +1,36 @@
+{
+  "chesssmashtable@lichess": {
+    "id": "chesssmashtable",
+    "provider": "lichess",
+    "username": "ChessSmashTable",
+    "firstSeen": 1640332084159,
+    "lastSeen": 1640341379686,
+    "firstSeenTime": "7:48:04 AM",
+    "lastSeenTime": "10:18:59 AM",
+    "onlineDurationMins": 150.92591666666667
+  },
+  "utsa-super-bot@lichess": {
+    "id": "utsa-super-bot",
+    "provider": "lichess",
+    "username": "Utsa-Super-Bot",
+    "firstSeen": 1640340328012,
+    "lastSeen": 1640341763564,
+    "firstSeenTime": "10:05:28 AM",
+    "lastSeenTime": "10:19:34 AM",
+    "onlineDurationMins": 14.1069
+  },
+  "dancingpolishcow@lichess": {
+    "id": "dancingpolishcow",
+    "provider": "lichess",
+    "username": "DancingPolishCow",
+    "firstSeen": 1640341796890,
+    "lastSeen": 1640342062545
+  },
+  "piranhachess@lichess": {
+    "id": "piranhachess",
+    "provider": "lichess",
+    "username": "PiranhaChess",
+    "firstSeen": 1640342074659,
+    "lastSeen": 1640342074659
+  }
+}
