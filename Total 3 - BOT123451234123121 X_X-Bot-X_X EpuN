@@ -1,0 +1,26 @@
+{
+  "bot123451234123121@lichess": {
+    "id": "bot123451234123121",
+    "provider": "lichess",
+    "username": "BOT123451234123121",
+    "firstSeen": 1640359187184,
+    "lastSeen": 1640366690719,
+    "firstSeenTime": "3:19:47 PM",
+    "lastSeenTime": "5:13:10 PM",
+    "onlineDurationMins": 113.38773333333333
+  },
+  "x_x-bot-x_x@lichess": {
+    "id": "x_x-bot-x_x",
+    "provider": "lichess",
+    "username": "X_X-Bot-X_X",
+    "firstSeen": 1640366588962,
+    "lastSeen": 1640367121243
+  },
+  "epun@lichess": {
+    "id": "epun",
+    "provider": "lichess",
+    "username": "EpuN",
+    "firstSeen": 1640367121557,
+    "lastSeen": 1640367121557
+  }
+}
