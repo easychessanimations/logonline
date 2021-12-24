@@ -1,0 +1,26 @@
+{
+  "bullseye_team@lichess": {
+    "id": "bullseye_team",
+    "provider": "lichess",
+    "username": "BULLSEYE_TEAM",
+    "firstSeen": 1640323388727,
+    "lastSeen": 1640324668043,
+    "firstSeenTime": "5:23:08 AM",
+    "lastSeenTime": "5:34:18 AM",
+    "onlineDurationMins": 11.17045
+  },
+  "hawaiibot@lichess": {
+    "id": "hawaiibot",
+    "provider": "lichess",
+    "username": "hawaiibot",
+    "firstSeen": 1640325181203,
+    "lastSeen": 1640325489759
+  },
+  "utsa-super-bot@lichess": {
+    "id": "utsa-super-bot",
+    "provider": "lichess",
+    "username": "Utsa-Super-Bot",
+    "firstSeen": 1640325497226,
+    "lastSeen": 1640325497226
+  }
+}
