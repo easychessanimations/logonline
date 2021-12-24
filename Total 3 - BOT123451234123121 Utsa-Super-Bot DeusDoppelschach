@@ -1,0 +1,26 @@
+{
+  "bot123451234123121@lichess": {
+    "id": "bot123451234123121",
+    "provider": "lichess",
+    "username": "BOT123451234123121",
+    "firstSeen": 1640350184018,
+    "lastSeen": 1640354790426,
+    "firstSeenTime": "12:49:44 PM",
+    "lastSeenTime": "12:52:13 PM",
+    "onlineDurationMins": 2.4976666666666665
+  },
+  "utsa-super-bot@lichess": {
+    "id": "utsa-super-bot",
+    "provider": "lichess",
+    "username": "Utsa-Super-Bot",
+    "firstSeen": 1640355150373,
+    "lastSeen": 1640355169176
+  },
+  "deusdoppelschach@lichess": {
+    "id": "deusdoppelschach",
+    "provider": "lichess",
+    "username": "DeusDoppelschach",
+    "firstSeen": 1640355182451,
+    "lastSeen": 1640355182451
+  }
+}
