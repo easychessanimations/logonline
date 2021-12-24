@@ -1,0 +1,39 @@
+{
+  "hawaiibot@lichess": {
+    "id": "hawaiibot",
+    "provider": "lichess",
+    "username": "hawaiibot",
+    "firstSeen": 1640325181203,
+    "lastSeen": 1640333053141,
+    "firstSeenTime": "5:53:01 AM",
+    "lastSeenTime": "8:04:13 AM",
+    "onlineDurationMins": 131.19896666666668
+  },
+  "utsa-super-bot@lichess": {
+    "id": "utsa-super-bot",
+    "provider": "lichess",
+    "username": "Utsa-Super-Bot",
+    "firstSeen": 1640330717435,
+    "lastSeen": 1640333163942,
+    "firstSeenTime": "7:25:17 AM",
+    "lastSeenTime": "8:05:57 AM",
+    "onlineDurationMins": 40.6651
+  },
+  "chesssmashtable@lichess": {
+    "id": "chesssmashtable",
+    "provider": "lichess",
+    "username": "ChessSmashTable",
+    "firstSeen": 1640332084159,
+    "lastSeen": 1640332989614,
+    "firstSeenTime": "7:48:04 AM",
+    "lastSeenTime": "8:03:09 AM",
+    "onlineDurationMins": 15.090916666666667
+  },
+  "tamliandha-2501@lichess": {
+    "id": "tamliandha-2501",
+    "provider": "lichess",
+    "username": "TAMLIANDHA-2501",
+    "firstSeen": 1640333186485,
+    "lastSeen": 1640333186485
+  }
+}
