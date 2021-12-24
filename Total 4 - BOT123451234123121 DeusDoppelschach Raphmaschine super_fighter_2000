@@ -1,0 +1,33 @@
+{
+  "bot123451234123121@lichess": {
+    "id": "bot123451234123121",
+    "provider": "lichess",
+    "username": "BOT123451234123121",
+    "firstSeen": 1640350184018,
+    "lastSeen": 1640356186891,
+    "firstSeenTime": "12:49:44 PM",
+    "lastSeenTime": "12:52:13 PM",
+    "onlineDurationMins": 2.4976666666666665
+  },
+  "deusdoppelschach@lichess": {
+    "id": "deusdoppelschach",
+    "provider": "lichess",
+    "username": "DeusDoppelschach",
+    "firstSeen": 1640355182451,
+    "lastSeen": 1640355447009
+  },
+  "raphmaschine@lichess": {
+    "id": "raphmaschine",
+    "provider": "lichess",
+    "username": "Raphmaschine",
+    "firstSeen": 1640355447374,
+    "lastSeen": 1640356334495
+  },
+  "super_fighter_2000@lichess": {
+    "id": "super_fighter_2000",
+    "provider": "lichess",
+    "username": "super_fighter_2000",
+    "firstSeen": 1640356347002,
+    "lastSeen": 1640356347002
+  }
+}
