@@ -1,0 +1,26 @@
+{
+  "utsa-super-bot@lichess": {
+    "id": "utsa-super-bot",
+    "provider": "lichess",
+    "username": "Utsa-Super-Bot",
+    "firstSeen": 1640340328012,
+    "lastSeen": 1640342289910,
+    "firstSeenTime": "10:05:28 AM",
+    "lastSeenTime": "10:19:34 AM",
+    "onlineDurationMins": 14.1069
+  },
+  "piranhachess@lichess": {
+    "id": "piranhachess",
+    "provider": "lichess",
+    "username": "PiranhaChess",
+    "firstSeen": 1640342074659,
+    "lastSeen": 1640342735400
+  },
+  "lordbot899@lichess": {
+    "id": "lordbot899",
+    "provider": "lichess",
+    "username": "Lordbot899",
+    "firstSeen": 1640343174888,
+    "lastSeen": 1640343174888
+  }
+}
