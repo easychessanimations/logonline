@@ -1,0 +1,16 @@
+{
+  "rotating-bot@lichess": {
+    "id": "rotating-bot",
+    "provider": "lichess",
+    "username": "Rotating-Bot",
+    "firstSeen": 1640318900132,
+    "lastSeen": 1640320074551
+  },
+  "rotation-chess@lichess": {
+    "id": "rotation-chess",
+    "provider": "lichess",
+    "username": "Rotation-Chess",
+    "firstSeen": 1640320119588,
+    "lastSeen": 1640320119588
+  }
+}
