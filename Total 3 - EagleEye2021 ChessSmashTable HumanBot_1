@@ -1,0 +1,29 @@
+{
+  "eagleeye2021@lichess": {
+    "id": "eagleeye2021",
+    "provider": "lichess",
+    "username": "EagleEye2021",
+    "firstSeen": 1640446005112,
+    "lastSeen": 1640450674871,
+    "firstSeenTime": "3:26:45 PM",
+    "lastSeenTime": "4:27:28 PM",
+    "onlineDurationMins": 60.723683333333334
+  },
+  "chesssmashtable@lichess": {
+    "id": "chesssmashtable",
+    "provider": "lichess",
+    "username": "ChessSmashTable",
+    "firstSeen": 1640448298560,
+    "lastSeen": 1640450641645,
+    "firstSeenTime": "4:04:58 PM",
+    "lastSeenTime": "4:29:49 PM",
+    "onlineDurationMins": 24.84113333333333
+  },
+  "humanbot_1@lichess": {
+    "id": "humanbot_1",
+    "provider": "lichess",
+    "username": "HumanBot_1",
+    "firstSeen": 1640450675150,
+    "lastSeen": 1640450675150
+  }
+}
