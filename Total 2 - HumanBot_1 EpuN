@@ -1,0 +1,19 @@
+{
+  "humanbot_1@lichess": {
+    "id": "humanbot_1",
+    "provider": "lichess",
+    "username": "HumanBot_1",
+    "firstSeen": 1640450675150,
+    "lastSeen": 1640458671506,
+    "firstSeenTime": "4:44:35 PM",
+    "lastSeenTime": "5:35:29 PM",
+    "onlineDurationMins": 50.907516666666666
+  },
+  "epun@lichess": {
+    "id": "epun",
+    "provider": "lichess",
+    "username": "EpuN",
+    "firstSeen": 1640458679889,
+    "lastSeen": 1640458679889
+  }
+}
