@@ -1,0 +1,23 @@
+{
+  "gladiatorbot@lichess": {
+    "id": "gladiatorbot",
+    "provider": "lichess",
+    "username": "GladiatorBot",
+    "firstSeen": 1641020886254,
+    "lastSeen": 1641021134671
+  },
+  "grandchessbot@lichess": {
+    "id": "grandchessbot",
+    "provider": "lichess",
+    "username": "GrandChessBot",
+    "firstSeen": 1641021091374,
+    "lastSeen": 1641021134581
+  },
+  "abel121@lichess": {
+    "id": "abel121",
+    "provider": "lichess",
+    "username": "abel121",
+    "firstSeen": 1641021149231,
+    "lastSeen": 1641021149231
+  }
+}
