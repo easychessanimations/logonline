@@ -1,0 +1,23 @@
+{
+  "royal-chess@lichess": {
+    "id": "royal-chess",
+    "provider": "lichess",
+    "username": "Royal-Chess",
+    "firstSeen": 1641026316738,
+    "lastSeen": 1641031628745
+  },
+  "legend_dragon_bot@lichess": {
+    "id": "legend_dragon_bot",
+    "provider": "lichess",
+    "username": "Legend_Dragon_Bot",
+    "firstSeen": 1641029196300,
+    "lastSeen": 1641032055781
+  },
+  "utsa-super-bot@lichess": {
+    "id": "utsa-super-bot",
+    "provider": "lichess",
+    "username": "Utsa-Super-Bot",
+    "firstSeen": 1641032072680,
+    "lastSeen": 1641032072680
+  }
+}
