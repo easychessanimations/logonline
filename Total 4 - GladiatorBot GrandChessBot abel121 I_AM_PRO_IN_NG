@@ -1,0 +1,30 @@
+{
+  "gladiatorbot@lichess": {
+    "id": "gladiatorbot",
+    "provider": "lichess",
+    "username": "GladiatorBot",
+    "firstSeen": 1641020886254,
+    "lastSeen": 1641021165962
+  },
+  "grandchessbot@lichess": {
+    "id": "grandchessbot",
+    "provider": "lichess",
+    "username": "GrandChessBot",
+    "firstSeen": 1641021091374,
+    "lastSeen": 1641021165474
+  },
+  "abel121@lichess": {
+    "id": "abel121",
+    "provider": "lichess",
+    "username": "abel121",
+    "firstSeen": 1641021149231,
+    "lastSeen": 1641021267600
+  },
+  "i_am_pro_in_ng@lichess": {
+    "id": "i_am_pro_in_ng",
+    "provider": "lichess",
+    "username": "I_AM_PRO_IN_NG",
+    "firstSeen": 1641021797243,
+    "lastSeen": 1641021797244
+  }
+}
