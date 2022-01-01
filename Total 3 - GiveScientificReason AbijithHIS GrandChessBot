@@ -1,0 +1,29 @@
+{
+  "givescientificreason@lichess": {
+    "id": "givescientificreason",
+    "provider": "lichess",
+    "username": "GiveScientificReason",
+    "firstSeen": 1641012553688,
+    "lastSeen": 1641013503056,
+    "firstSeenTime": "4:49:13 AM",
+    "lastSeenTime": "5:05:03 AM",
+    "onlineDurationMins": 15.8228
+  },
+  "abijithhis@lichess": {
+    "id": "abijithhis",
+    "provider": "lichess",
+    "username": "AbijithHIS",
+    "firstSeen": 1641013473325,
+    "lastSeen": 1641013989405,
+    "firstSeenTime": "5:04:33 AM",
+    "lastSeenTime": "5:12:41 AM",
+    "onlineDurationMins": 8.1374
+  },
+  "grandchessbot@lichess": {
+    "id": "grandchessbot",
+    "provider": "lichess",
+    "username": "GrandChessBot",
+    "firstSeen": 1641014288334,
+    "lastSeen": 1641014288334
+  }
+}
