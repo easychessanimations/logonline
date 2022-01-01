@@ -1,0 +1,23 @@
+{
+  "royal-chess@lichess": {
+    "id": "royal-chess",
+    "provider": "lichess",
+    "username": "Royal-Chess",
+    "firstSeen": 1641026316738,
+    "lastSeen": 1641027552698
+  },
+  "r3r3r3r3r3@lichess": {
+    "id": "r3r3r3r3r3",
+    "provider": "lichess",
+    "username": "R3R3R3R3R3",
+    "firstSeen": 1641026906073,
+    "lastSeen": 1641027539506
+  },
+  "n3n3n3n3n3n@lichess": {
+    "id": "n3n3n3n3n3n",
+    "provider": "lichess",
+    "username": "N3N3N3N3N3N",
+    "firstSeen": 1641027539821,
+    "lastSeen": 1641027603477
+  }
+}
