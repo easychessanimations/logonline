@@ -1,0 +1,19 @@
+{
+  "variants-nkn@lichess": {
+    "id": "variants-nkn",
+    "provider": "lichess",
+    "username": "Variants-NKN",
+    "firstSeen": 1641050455071,
+    "lastSeen": 1641055504532,
+    "firstSeenTime": "3:20:55 PM",
+    "lastSeenTime": "4:16:00 PM",
+    "onlineDurationMins": 55.0975
+  },
+  "chess_king2000@lichess": {
+    "id": "chess_king2000",
+    "provider": "lichess",
+    "username": "CHESS_KING2000",
+    "firstSeen": 1641055165246,
+    "lastSeen": 1641055892841
+  }
+}
