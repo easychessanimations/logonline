@@ -1,0 +1,16 @@
+{
+  "grandchessbot@lichess": {
+    "id": "grandchessbot",
+    "provider": "lichess",
+    "username": "GrandChessBot",
+    "firstSeen": 1641020164537,
+    "lastSeen": 1641020186897
+  },
+  "gladiatorbot@lichess": {
+    "id": "gladiatorbot",
+    "provider": "lichess",
+    "username": "GladiatorBot",
+    "firstSeen": 1641020886254,
+    "lastSeen": 1641020886254
+  }
+}
