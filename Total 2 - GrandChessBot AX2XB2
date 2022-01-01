@@ -1,0 +1,22 @@
+{
+  "grandchessbot@lichess": {
+    "id": "grandchessbot",
+    "provider": "lichess",
+    "username": "GrandChessBot",
+    "firstSeen": 1641014288334,
+    "lastSeen": 1641014936128,
+    "firstSeenTime": "5:18:08 AM",
+    "lastSeenTime": "5:19:50 AM",
+    "onlineDurationMins": 1.7055666666666667
+  },
+  "ax2xb2@lichess": {
+    "id": "ax2xb2",
+    "provider": "lichess",
+    "username": "AX2XB2",
+    "firstSeen": 1641014587493,
+    "lastSeen": 1641014626969,
+    "firstSeenTime": "5:23:07 AM",
+    "lastSeenTime": "5:23:11 AM",
+    "onlineDurationMins": 0.06845
+  }
+}
