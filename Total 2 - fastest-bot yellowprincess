@@ -1,0 +1,19 @@
+{
+  "fastest-bot@lichess": {
+    "id": "fastest-bot",
+    "provider": "lichess",
+    "username": "fastest-bot",
+    "firstSeen": 1641098761440,
+    "lastSeen": 1641098775890,
+    "firstSeenTime": "4:46:01 AM",
+    "lastSeenTime": "4:46:15 AM",
+    "onlineDurationMins": 0.24083333333333334
+  },
+  "yellowprincess@lichess": {
+    "id": "yellowprincess",
+    "provider": "lichess",
+    "username": "yellowprincess",
+    "firstSeen": 1641099123556,
+    "lastSeen": 1641099123556
+  }
+}
