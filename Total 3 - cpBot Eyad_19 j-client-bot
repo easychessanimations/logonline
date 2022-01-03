@@ -1,0 +1,23 @@
+{
+  "cpbot@lichess": {
+    "id": "cpbot",
+    "provider": "lichess",
+    "username": "cpBot",
+    "firstSeen": 1641237573054,
+    "lastSeen": 1641239358324
+  },
+  "eyad_19@lichess": {
+    "id": "eyad_19",
+    "provider": "lichess",
+    "username": "Eyad_19",
+    "firstSeen": 1641239035527,
+    "lastSeen": 1641239913827
+  },
+  "j-client-bot@lichess": {
+    "id": "j-client-bot",
+    "provider": "lichess",
+    "username": "j-client-bot",
+    "firstSeen": 1641240008616,
+    "lastSeen": 1641240008616
+  }
+}
