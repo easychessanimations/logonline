@@ -1,0 +1,56 @@
+{
+  "marlia123456@lichess": {
+    "id": "marlia123456",
+    "provider": "lichess",
+    "username": "Marlia123456",
+    "firstSeen": 1641218182277,
+    "lastSeen": 1641223096401,
+    "firstSeenTime": "1:56:22 PM",
+    "lastSeenTime": "3:18:16 PM",
+    "onlineDurationMins": 81.90206666666667
+  },
+  "akshadlawanibot@lichess": {
+    "id": "akshadlawanibot",
+    "provider": "lichess",
+    "username": "akshadlawanibot",
+    "firstSeen": 1641218212416,
+    "lastSeen": 1641223666936,
+    "firstSeenTime": "1:56:52 PM",
+    "lastSeenTime": "3:21:22 PM",
+    "onlineDurationMins": 84.50876666666667
+  },
+  "critez-342@lichess": {
+    "id": "critez-342",
+    "provider": "lichess",
+    "username": "Critez-342",
+    "firstSeen": 1641218452673,
+    "lastSeen": 1641223112624,
+    "firstSeenTime": "2:00:52 PM",
+    "lastSeenTime": "3:18:32 PM",
+    "onlineDurationMins": 77.66585
+  },
+  "deusdoppelschach@lichess": {
+    "id": "deusdoppelschach",
+    "provider": "lichess",
+    "username": "DeusDoppelschach",
+    "firstSeen": 1641223454737,
+    "lastSeen": 1641223464491,
+    "firstSeenTime": "3:24:14 PM",
+    "lastSeenTime": "3:24:21 PM",
+    "onlineDurationMins": 0.10835
+  },
+  "raphmaschine@lichess": {
+    "id": "raphmaschine",
+    "provider": "lichess",
+    "username": "Raphmaschine",
+    "firstSeen": 1641223464786,
+    "lastSeen": 1641223666312
+  },
+  "aspirer@lichess": {
+    "id": "aspirer",
+    "provider": "lichess",
+    "username": "Aspirer",
+    "firstSeen": 1641223669597,
+    "lastSeen": 1641223669597
+  }
+}
