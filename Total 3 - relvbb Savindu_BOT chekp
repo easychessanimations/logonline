@@ -1,0 +1,29 @@
+{
+  "relvbb@lichess": {
+    "id": "relvbb",
+    "provider": "lichess",
+    "username": "relvbb",
+    "firstSeen": 1641214682272,
+    "lastSeen": 1641215243445,
+    "firstSeenTime": "12:58:02 PM",
+    "lastSeenTime": "1:00:13 PM",
+    "onlineDurationMins": 2.1856
+  },
+  "savindu_bot@lichess": {
+    "id": "savindu_bot",
+    "provider": "lichess",
+    "username": "Savindu_BOT",
+    "firstSeen": 1641214786048,
+    "lastSeen": 1641215276793,
+    "firstSeenTime": "12:59:46 PM",
+    "lastSeenTime": "12:59:57 PM",
+    "onlineDurationMins": 0.19061666666666666
+  },
+  "chekp@lichess": {
+    "id": "chekp",
+    "provider": "lichess",
+    "username": "chekp",
+    "firstSeen": 1641215323749,
+    "lastSeen": 1641215323749
+  }
+}
