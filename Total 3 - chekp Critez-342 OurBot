@@ -1,0 +1,26 @@
+{
+  "chekp@lichess": {
+    "id": "chekp",
+    "provider": "lichess",
+    "username": "chekp",
+    "firstSeen": 1641205816410,
+    "lastSeen": 1641207677124,
+    "firstSeenTime": "10:30:16 AM",
+    "lastSeenTime": "10:30:16 AM",
+    "onlineDurationMins": 0.0042
+  },
+  "critez-342@lichess": {
+    "id": "critez-342",
+    "provider": "lichess",
+    "username": "Critez-342",
+    "firstSeen": 1641206032744,
+    "lastSeen": 1641208316135
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1641206527647,
+    "lastSeen": 1641207855198
+  }
+}
