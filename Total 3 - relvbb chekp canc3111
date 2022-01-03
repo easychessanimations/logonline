@@ -1,0 +1,32 @@
+{
+  "relvbb@lichess": {
+    "id": "relvbb",
+    "provider": "lichess",
+    "username": "relvbb",
+    "firstSeen": 1641214682272,
+    "lastSeen": 1641216297609,
+    "firstSeenTime": "12:58:02 PM",
+    "lastSeenTime": "1:20:16 PM",
+    "onlineDurationMins": 22.24285
+  },
+  "chekp@lichess": {
+    "id": "chekp",
+    "provider": "lichess",
+    "username": "chekp",
+    "firstSeen": 1641215323749,
+    "lastSeen": 1641215997936,
+    "firstSeenTime": "1:08:43 PM",
+    "lastSeenTime": "1:19:57 PM",
+    "onlineDurationMins": 11.23645
+  },
+  "canc3111@lichess": {
+    "id": "canc3111",
+    "provider": "lichess",
+    "username": "canc3111",
+    "firstSeen": 1641215624008,
+    "lastSeen": 1641215635385,
+    "firstSeenTime": "1:13:44 PM",
+    "lastSeenTime": "1:13:55 PM",
+    "onlineDurationMins": 0.18961666666666666
+  }
+}
