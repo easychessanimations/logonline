@@ -1,0 +1,16 @@
+{
+  "cpbot@lichess": {
+    "id": "cpbot",
+    "provider": "lichess",
+    "username": "cpBot",
+    "firstSeen": 1641237573054,
+    "lastSeen": 1641244856664
+  },
+  "botmicah@lichess": {
+    "id": "botmicah",
+    "provider": "lichess",
+    "username": "BotMicah",
+    "firstSeen": 1641245163013,
+    "lastSeen": 1641245163013
+  }
+}
