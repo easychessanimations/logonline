@@ -1,0 +1,32 @@
+{
+  "pengxiaozhu3@lichess": {
+    "id": "pengxiaozhu3",
+    "provider": "lichess",
+    "username": "pengxiaozhu3",
+    "firstSeen": 1641305758530,
+    "lastSeen": 1641309751977,
+    "firstSeenTime": "2:15:58 PM",
+    "lastSeenTime": "3:05:58 PM",
+    "onlineDurationMins": 49.99411666666666
+  },
+  "serviplus_bot@lichess": {
+    "id": "serviplus_bot",
+    "provider": "lichess",
+    "username": "Serviplus_BOT",
+    "firstSeen": 1641306016856,
+    "lastSeen": 1641309440735,
+    "firstSeenTime": "2:20:16 PM",
+    "lastSeenTime": "3:06:17 PM",
+    "onlineDurationMins": 46.0095
+  },
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1641306221583,
+    "lastSeen": 1641309274567,
+    "firstSeenTime": "2:23:41 PM",
+    "lastSeenTime": "3:00:34 PM",
+    "onlineDurationMins": 36.8827
+  }
+}
