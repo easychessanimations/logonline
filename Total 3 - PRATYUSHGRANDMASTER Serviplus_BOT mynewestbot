@@ -1,0 +1,32 @@
+{
+  "pratyushgrandmaster@lichess": {
+    "id": "pratyushgrandmaster",
+    "provider": "lichess",
+    "username": "PRATYUSHGRANDMASTER",
+    "firstSeen": 1641293076805,
+    "lastSeen": 1641295176327,
+    "firstSeenTime": "10:44:36 AM",
+    "lastSeenTime": "11:19:36 AM",
+    "onlineDurationMins": 34.99203333333333
+  },
+  "serviplus_bot@lichess": {
+    "id": "serviplus_bot",
+    "provider": "lichess",
+    "username": "Serviplus_BOT",
+    "firstSeen": 1641294112253,
+    "lastSeen": 1641295232320,
+    "firstSeenTime": "11:01:52 AM",
+    "lastSeenTime": "11:20:32 AM",
+    "onlineDurationMins": 18.667783333333333
+  },
+  "mynewestbot@lichess": {
+    "id": "mynewestbot",
+    "provider": "lichess",
+    "username": "mynewestbot",
+    "firstSeen": 1641294933183,
+    "lastSeen": 1641295283727,
+    "firstSeenTime": "11:15:33 AM",
+    "lastSeenTime": "11:21:23 AM",
+    "onlineDurationMins": 5.8424
+  }
+}
