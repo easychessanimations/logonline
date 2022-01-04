@@ -1,0 +1,26 @@
+{
+  "serviplus_bot@lichess": {
+    "id": "serviplus_bot",
+    "provider": "lichess",
+    "username": "Serviplus_BOT",
+    "firstSeen": 1641291568235,
+    "lastSeen": 1641292387938,
+    "firstSeenTime": "10:19:28 AM",
+    "lastSeenTime": "10:33:07 AM",
+    "onlineDurationMins": 13.661716666666667
+  },
+  "opdoomer@lichess": {
+    "id": "opdoomer",
+    "provider": "lichess",
+    "username": "opdoomer",
+    "firstSeen": 1641292662517,
+    "lastSeen": 1641292671389
+  },
+  "pratyushgrandmaster@lichess": {
+    "id": "pratyushgrandmaster",
+    "provider": "lichess",
+    "username": "PRATYUSHGRANDMASTER",
+    "firstSeen": 1641293076805,
+    "lastSeen": 1641293076805
+  }
+}
