@@ -1,0 +1,52 @@
+{
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1641301254564,
+    "lastSeen": 1641303221478,
+    "firstSeenTime": "1:00:54 PM",
+    "lastSeenTime": "1:33:41 PM",
+    "onlineDurationMins": 32.7819
+  },
+  "relvbb@lichess": {
+    "id": "relvbb",
+    "provider": "lichess",
+    "username": "relvbb",
+    "firstSeen": 1641301320769,
+    "lastSeen": 1641303084314,
+    "firstSeenTime": "1:02:00 PM",
+    "lastSeenTime": "1:31:24 PM",
+    "onlineDurationMins": 29.392416666666666
+  },
+  "serviplus_bot@lichess": {
+    "id": "serviplus_bot",
+    "provider": "lichess",
+    "username": "Serviplus_BOT",
+    "firstSeen": 1641301323488,
+    "lastSeen": 1641303296434,
+    "firstSeenTime": "1:02:03 PM",
+    "lastSeenTime": "1:34:56 PM",
+    "onlineDurationMins": 32.88243333333333
+  },
+  "soudos4@lichess": {
+    "id": "soudos4",
+    "provider": "lichess",
+    "username": "soudos4",
+    "firstSeen": 1641301541201,
+    "lastSeen": 1641302924329,
+    "firstSeenTime": "1:05:41 PM",
+    "lastSeenTime": "1:28:44 PM",
+    "onlineDurationMins": 23.052133333333334
+  },
+  "akshadlawanibot@lichess": {
+    "id": "akshadlawanibot",
+    "provider": "lichess",
+    "username": "akshadlawanibot",
+    "firstSeen": 1641302088961,
+    "lastSeen": 1641303549465,
+    "firstSeenTime": "1:14:48 PM",
+    "lastSeenTime": "1:32:04 PM",
+    "onlineDurationMins": 17.2664
+  }
+}
