@@ -1,0 +1,26 @@
+{
+  "serviplus_bot@lichess": {
+    "id": "serviplus_bot",
+    "provider": "lichess",
+    "username": "Serviplus_BOT",
+    "firstSeen": 1641306016856,
+    "lastSeen": 1641314117507,
+    "firstSeenTime": "2:20:16 PM",
+    "lastSeenTime": "3:28:17 PM",
+    "onlineDurationMins": 68.01101666666666
+  },
+  "jacobbot@lichess": {
+    "id": "jacobbot",
+    "provider": "lichess",
+    "username": "JacobBot",
+    "firstSeen": 1641312676488,
+    "lastSeen": 1641314178388
+  },
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1641314474035,
+    "lastSeen": 1641314474035
+  }
+}
