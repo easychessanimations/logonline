@@ -1,0 +1,19 @@
+{
+  "serviplus_bot@lichess": {
+    "id": "serviplus_bot",
+    "provider": "lichess",
+    "username": "Serviplus_BOT",
+    "firstSeen": 1641306016856,
+    "lastSeen": 1641314780681,
+    "firstSeenTime": "2:20:16 PM",
+    "lastSeenTime": "3:28:17 PM",
+    "onlineDurationMins": 68.01101666666666
+  },
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1641314474035,
+    "lastSeen": 1641315139308
+  }
+}
