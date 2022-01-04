@@ -4,13 +4,19 @@
     "provider": "lichess",
     "username": "hawaiibot",
     "firstSeen": 1641266639767,
-    "lastSeen": 1641271800475
+    "lastSeen": 1641275081461,
+    "firstSeenTime": "3:23:59 AM",
+    "lastSeenTime": "4:57:09 AM",
+    "onlineDurationMins": 93.1651
   },
   "panfressco@lichess": {
     "id": "panfressco",
     "provider": "lichess",
     "username": "Panfressco",
     "firstSeen": 1641271816101,
-    "lastSeen": 1641271816101
+    "lastSeen": 1641274403557,
+    "firstSeenTime": "4:50:16 AM",
+    "lastSeenTime": "5:00:24 AM",
+    "onlineDurationMins": 10.1407
   }
 }
