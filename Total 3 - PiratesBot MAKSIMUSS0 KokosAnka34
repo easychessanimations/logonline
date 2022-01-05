@@ -1,0 +1,29 @@
+{
+  "piratesbot@lichess": {
+    "id": "piratesbot",
+    "provider": "lichess",
+    "username": "PiratesBot",
+    "firstSeen": 1641368288977,
+    "lastSeen": 1641369992519,
+    "firstSeenTime": "7:38:08 AM",
+    "lastSeenTime": "8:06:32 AM",
+    "onlineDurationMins": 28.392366666666668
+  },
+  "maksimuss0@lichess": {
+    "id": "maksimuss0",
+    "provider": "lichess",
+    "username": "MAKSIMUSS0",
+    "firstSeen": 1641368476691,
+    "lastSeen": 1641370235936,
+    "firstSeenTime": "7:41:16 AM",
+    "lastSeenTime": "8:07:24 AM",
+    "onlineDurationMins": 26.128566666666668
+  },
+  "kokosanka34@lichess": {
+    "id": "kokosanka34",
+    "provider": "lichess",
+    "username": "KokosAnka34",
+    "firstSeen": 1641370236282,
+    "lastSeen": 1641370236282
+  }
+}
