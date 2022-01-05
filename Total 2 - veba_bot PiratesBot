@@ -1,0 +1,19 @@
+{
+  "veba_bot@lichess": {
+    "id": "veba_bot",
+    "provider": "lichess",
+    "username": "veba_bot",
+    "firstSeen": 1641365553826,
+    "lastSeen": 1641368216018,
+    "firstSeenTime": "6:52:33 AM",
+    "lastSeenTime": "7:36:56 AM",
+    "onlineDurationMins": 44.36986666666667
+  },
+  "piratesbot@lichess": {
+    "id": "piratesbot",
+    "provider": "lichess",
+    "username": "PiratesBot",
+    "firstSeen": 1641368288977,
+    "lastSeen": 1641368288977
+  }
+}
