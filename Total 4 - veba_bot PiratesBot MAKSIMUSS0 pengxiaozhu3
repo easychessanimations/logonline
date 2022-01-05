@@ -1,0 +1,36 @@
+{
+  "veba_bot@lichess": {
+    "id": "veba_bot",
+    "provider": "lichess",
+    "username": "veba_bot",
+    "firstSeen": 1641365553826,
+    "lastSeen": 1641368216018,
+    "firstSeenTime": "6:52:33 AM",
+    "lastSeenTime": "7:36:56 AM",
+    "onlineDurationMins": 44.36986666666667
+  },
+  "piratesbot@lichess": {
+    "id": "piratesbot",
+    "provider": "lichess",
+    "username": "PiratesBot",
+    "firstSeen": 1641368288977,
+    "lastSeen": 1641368491181,
+    "firstSeenTime": "7:38:08 AM",
+    "lastSeenTime": "7:40:44 AM",
+    "onlineDurationMins": 2.5987
+  },
+  "maksimuss0@lichess": {
+    "id": "maksimuss0",
+    "provider": "lichess",
+    "username": "MAKSIMUSS0",
+    "firstSeen": 1641368476691,
+    "lastSeen": 1641368479309
+  },
+  "pengxiaozhu3@lichess": {
+    "id": "pengxiaozhu3",
+    "provider": "lichess",
+    "username": "pengxiaozhu3",
+    "firstSeen": 1641368491361,
+    "lastSeen": 1641368491361
+  }
+}
