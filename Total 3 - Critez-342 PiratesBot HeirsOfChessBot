@@ -1,0 +1,29 @@
+{
+  "critez-342@lichess": {
+    "id": "critez-342",
+    "provider": "lichess",
+    "username": "Critez-342",
+    "firstSeen": 1641377711567,
+    "lastSeen": 1641378504324,
+    "firstSeenTime": "10:15:11 AM",
+    "lastSeenTime": "10:28:24 AM",
+    "onlineDurationMins": 13.212616666666667
+  },
+  "piratesbot@lichess": {
+    "id": "piratesbot",
+    "provider": "lichess",
+    "username": "PiratesBot",
+    "firstSeen": 1641378712245,
+    "lastSeen": 1641378944452,
+    "firstSeenTime": "10:31:52 AM",
+    "lastSeenTime": "10:35:14 AM",
+    "onlineDurationMins": 3.3659333333333334
+  },
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1641378958286,
+    "lastSeen": 1641378958286
+  }
+}
