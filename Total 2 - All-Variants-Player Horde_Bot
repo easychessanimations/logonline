@@ -1,0 +1,16 @@
+{
+  "all-variants-player@lichess": {
+    "id": "all-variants-player",
+    "provider": "lichess",
+    "username": "All-Variants-Player",
+    "firstSeen": 1641461632816,
+    "lastSeen": 1641462761781
+  },
+  "horde_bot@lichess": {
+    "id": "horde_bot",
+    "provider": "lichess",
+    "username": "Horde_Bot",
+    "firstSeen": 1641462890180,
+    "lastSeen": 1641462890180
+  }
+}
