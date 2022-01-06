@@ -1,0 +1,29 @@
+{
+  "ronbot2022@lichess": {
+    "id": "ronbot2022",
+    "provider": "lichess",
+    "username": "RonBot2022",
+    "firstSeen": 1641442769429,
+    "lastSeen": 1641454349964,
+    "firstSeenTime": "4:19:29 AM",
+    "lastSeenTime": "7:28:32 AM",
+    "onlineDurationMins": 189.04345
+  },
+  "pengxiaozhu3@lichess": {
+    "id": "pengxiaozhu3",
+    "provider": "lichess",
+    "username": "pengxiaozhu3",
+    "firstSeen": 1641453537777,
+    "lastSeen": 1641454232062,
+    "firstSeenTime": "7:18:57 AM",
+    "lastSeenTime": "7:26:21 AM",
+    "onlineDurationMins": 7.392233333333333
+  },
+  "alpha-zero-clone@lichess": {
+    "id": "alpha-zero-clone",
+    "provider": "lichess",
+    "username": "Alpha-Zero-Clone",
+    "firstSeen": 1641454525384,
+    "lastSeen": 1641454525384
+  }
+}
