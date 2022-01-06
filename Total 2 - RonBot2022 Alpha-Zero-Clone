@@ -4,13 +4,16 @@
     "provider": "lichess",
     "username": "RonBot2022",
     "firstSeen": 1641442769429,
-    "lastSeen": 1641451519270
+    "lastSeen": 1641455178542,
+    "firstSeenTime": "4:19:29 AM",
+    "lastSeenTime": "7:28:32 AM",
+    "onlineDurationMins": 189.04345
   },
   "alpha-zero-clone@lichess": {
     "id": "alpha-zero-clone",
     "provider": "lichess",
     "username": "Alpha-Zero-Clone",
-    "firstSeen": 1641451549114,
-    "lastSeen": 1641451549114
+    "firstSeen": 1641454525384,
+    "lastSeen": 1641455967728
   }
 }
