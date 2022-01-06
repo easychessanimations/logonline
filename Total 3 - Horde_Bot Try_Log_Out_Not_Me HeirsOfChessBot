@@ -1,0 +1,23 @@
+{
+  "horde_bot@lichess": {
+    "id": "horde_bot",
+    "provider": "lichess",
+    "username": "Horde_Bot",
+    "firstSeen": 1641485739413,
+    "lastSeen": 1641485749439
+  },
+  "try_log_out_not_me@lichess": {
+    "id": "try_log_out_not_me",
+    "provider": "lichess",
+    "username": "Try_Log_Out_Not_Me",
+    "firstSeen": 1641485749816,
+    "lastSeen": 1641486416265
+  },
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1641486622283,
+    "lastSeen": 1641486622283
+  }
+}
