@@ -1,0 +1,32 @@
+{
+  "midnightshadow_03@lichess": {
+    "id": "midnightshadow_03",
+    "provider": "lichess",
+    "username": "midnightshadow_03",
+    "firstSeen": 1641522306049,
+    "lastSeen": 1641535551272,
+    "firstSeenTime": "2:25:06 AM",
+    "lastSeenTime": "5:54:50 AM",
+    "onlineDurationMins": 209.73691666666667
+  },
+  "all-variants-player@lichess": {
+    "id": "all-variants-player",
+    "provider": "lichess",
+    "username": "All-Variants-Player",
+    "firstSeen": 1641530267624,
+    "lastSeen": 1641535975321,
+    "firstSeenTime": "4:37:47 AM",
+    "lastSeenTime": "5:59:45 AM",
+    "onlineDurationMins": 81.96481666666666
+  },
+  "soudos4@lichess": {
+    "id": "soudos4",
+    "provider": "lichess",
+    "username": "soudos4",
+    "firstSeen": 1641532085855,
+    "lastSeen": 1641535601534,
+    "firstSeenTime": "5:08:05 AM",
+    "lastSeenTime": "5:58:32 AM",
+    "onlineDurationMins": 50.447116666666666
+  }
+}
