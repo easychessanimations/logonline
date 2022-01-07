@@ -1,0 +1,29 @@
+{
+  "all-variants-player@lichess": {
+    "id": "all-variants-player",
+    "provider": "lichess",
+    "username": "All-Variants-Player",
+    "firstSeen": 1641546817037,
+    "lastSeen": 1641553050038,
+    "firstSeenTime": "9:13:37 AM",
+    "lastSeenTime": "10:57:30 AM",
+    "onlineDurationMins": 103.88335
+  },
+  "soudos4@lichess": {
+    "id": "soudos4",
+    "provider": "lichess",
+    "username": "soudos4",
+    "firstSeen": 1641546982590,
+    "lastSeen": 1641553046370,
+    "firstSeenTime": "9:16:22 AM",
+    "lastSeenTime": "10:57:26 AM",
+    "onlineDurationMins": 101.063
+  },
+  "atomicsatranc@lichess": {
+    "id": "atomicsatranc",
+    "provider": "lichess",
+    "username": "atomicsatranc",
+    "firstSeen": 1641553318115,
+    "lastSeen": 1641553318115
+  }
+}
