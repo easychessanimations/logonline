@@ -1,0 +1,29 @@
+{
+  "king12345678910bot@lichess": {
+    "id": "king12345678910bot",
+    "provider": "lichess",
+    "username": "king12345678910BOT",
+    "firstSeen": 1641569232855,
+    "lastSeen": 1641576717532,
+    "firstSeenTime": "3:27:12 PM",
+    "lastSeenTime": "5:20:47 PM",
+    "onlineDurationMins": 113.58173333333333
+  },
+  "please-join-my-team@lichess": {
+    "id": "please-join-my-team",
+    "provider": "lichess",
+    "username": "PLEASE-JOIN-MY-TEAM",
+    "firstSeen": 1641575468378,
+    "lastSeen": 1641576366412,
+    "firstSeenTime": "5:11:08 PM",
+    "lastSeenTime": "5:24:14 PM",
+    "onlineDurationMins": 13.107383333333333
+  },
+  "easy_chess_bot@lichess": {
+    "id": "easy_chess_bot",
+    "provider": "lichess",
+    "username": "Easy_Chess_Bot",
+    "firstSeen": 1641576878053,
+    "lastSeen": 1641576878053
+  }
+}
