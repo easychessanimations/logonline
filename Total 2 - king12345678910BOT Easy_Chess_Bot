@@ -1,0 +1,19 @@
+{
+  "king12345678910bot@lichess": {
+    "id": "king12345678910bot",
+    "provider": "lichess",
+    "username": "king12345678910BOT",
+    "firstSeen": 1641569232855,
+    "lastSeen": 1641576717532,
+    "firstSeenTime": "3:27:12 PM",
+    "lastSeenTime": "5:20:47 PM",
+    "onlineDurationMins": 113.58173333333333
+  },
+  "easy_chess_bot@lichess": {
+    "id": "easy_chess_bot",
+    "provider": "lichess",
+    "username": "Easy_Chess_Bot",
+    "firstSeen": 1641576878053,
+    "lastSeen": 1641577303326
+  }
+}
