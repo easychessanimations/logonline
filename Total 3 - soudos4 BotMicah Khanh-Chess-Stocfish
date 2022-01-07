@@ -1,0 +1,29 @@
+{
+  "soudos4@lichess": {
+    "id": "soudos4",
+    "provider": "lichess",
+    "username": "soudos4",
+    "firstSeen": 1641546982590,
+    "lastSeen": 1641556346451,
+    "firstSeenTime": "9:16:22 AM",
+    "lastSeenTime": "11:52:26 AM",
+    "onlineDurationMins": 156.06435
+  },
+  "botmicah@lichess": {
+    "id": "botmicah",
+    "provider": "lichess",
+    "username": "BotMicah",
+    "firstSeen": 1641556443058,
+    "lastSeen": 1641556490543,
+    "firstSeenTime": "11:54:03 AM",
+    "lastSeenTime": "11:54:50 AM",
+    "onlineDurationMins": 0.7914166666666667
+  },
+  "khanh-chess-stocfish@lichess": {
+    "id": "khanh-chess-stocfish",
+    "provider": "lichess",
+    "username": "Khanh-Chess-Stocfish",
+    "firstSeen": 1641556690161,
+    "lastSeen": 1641556690161
+  }
+}
