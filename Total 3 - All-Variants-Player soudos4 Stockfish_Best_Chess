@@ -1,0 +1,29 @@
+{
+  "all-variants-player@lichess": {
+    "id": "all-variants-player",
+    "provider": "lichess",
+    "username": "All-Variants-Player",
+    "firstSeen": 1641546817037,
+    "lastSeen": 1641552142546,
+    "firstSeenTime": "9:13:37 AM",
+    "lastSeenTime": "10:31:17 AM",
+    "onlineDurationMins": 77.66918333333334
+  },
+  "soudos4@lichess": {
+    "id": "soudos4",
+    "provider": "lichess",
+    "username": "soudos4",
+    "firstSeen": 1641546982590,
+    "lastSeen": 1641551606346,
+    "firstSeenTime": "9:16:22 AM",
+    "lastSeenTime": "10:33:26 AM",
+    "onlineDurationMins": 77.0626
+  },
+  "stockfish_best_chess@lichess": {
+    "id": "stockfish_best_chess",
+    "provider": "lichess",
+    "username": "Stockfish_Best_Chess",
+    "firstSeen": 1641552146690,
+    "lastSeen": 1641552146690
+  }
+}
