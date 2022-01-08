@@ -1,0 +1,49 @@
+{
+  "qallupilluit@lichess": {
+    "id": "qallupilluit",
+    "provider": "lichess",
+    "username": "Qallupilluit",
+    "firstSeen": 1641607588871,
+    "lastSeen": 1641631366890,
+    "firstSeenTime": "2:06:28 AM",
+    "lastSeenTime": "8:42:46 AM",
+    "onlineDurationMins": 396.3003166666667
+  },
+  "midnightshadow_03@lichess": {
+    "id": "midnightshadow_03",
+    "provider": "lichess",
+    "username": "midnightshadow_03",
+    "firstSeen": 1641616878116,
+    "lastSeen": 1641631899659,
+    "firstSeenTime": "4:41:18 AM",
+    "lastSeenTime": "8:36:36 AM",
+    "onlineDurationMins": 235.30066666666667
+  },
+  "nightweaponmaster@lichess": {
+    "id": "nightweaponmaster",
+    "provider": "lichess",
+    "username": "Nightweaponmaster",
+    "firstSeen": 1641622851769,
+    "lastSeen": 1641631964569,
+    "firstSeenTime": "6:20:51 AM",
+    "lastSeenTime": "8:46:51 AM",
+    "onlineDurationMins": 145.99123333333333
+  },
+  "piratesbot@lichess": {
+    "id": "piratesbot",
+    "provider": "lichess",
+    "username": "PiratesBot",
+    "firstSeen": 1641630643277,
+    "lastSeen": 1641631128782,
+    "firstSeenTime": "8:30:43 AM",
+    "lastSeenTime": "8:38:48 AM",
+    "onlineDurationMins": 8.09175
+  },
+  "alpha-zero-clone@lichess": {
+    "id": "alpha-zero-clone",
+    "provider": "lichess",
+    "username": "Alpha-Zero-Clone",
+    "firstSeen": 1641631977218,
+    "lastSeen": 1641631977218
+  }
+}
