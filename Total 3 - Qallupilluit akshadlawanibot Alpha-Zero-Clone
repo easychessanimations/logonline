@@ -1,0 +1,29 @@
+{
+  "qallupilluit@lichess": {
+    "id": "qallupilluit",
+    "provider": "lichess",
+    "username": "Qallupilluit",
+    "firstSeen": 1641607588871,
+    "lastSeen": 1641640066705,
+    "firstSeenTime": "2:06:28 AM",
+    "lastSeenTime": "10:34:49 AM",
+    "onlineDurationMins": 508.34835
+  },
+  "akshadlawanibot@lichess": {
+    "id": "akshadlawanibot",
+    "provider": "lichess",
+    "username": "akshadlawanibot",
+    "firstSeen": 1641636105204,
+    "lastSeen": 1641640212944,
+    "firstSeenTime": "10:01:45 AM",
+    "lastSeenTime": "10:37:15 AM",
+    "onlineDurationMins": 35.509083333333336
+  },
+  "alpha-zero-clone@lichess": {
+    "id": "alpha-zero-clone",
+    "provider": "lichess",
+    "username": "Alpha-Zero-Clone",
+    "firstSeen": 1641640366186,
+    "lastSeen": 1641640366186
+  }
+}
