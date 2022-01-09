@@ -1,0 +1,39 @@
+{
+  "st6090@lichess": {
+    "id": "st6090",
+    "provider": "lichess",
+    "username": "St6090",
+    "firstSeen": 1641721942154,
+    "lastSeen": 1641725902204,
+    "firstSeenTime": "9:52:22 AM",
+    "lastSeenTime": "10:41:56 AM",
+    "onlineDurationMins": 49.5682
+  },
+  "noob_ff@lichess": {
+    "id": "noob_ff",
+    "provider": "lichess",
+    "username": "NOOB_FF",
+    "firstSeen": 1641724433708,
+    "lastSeen": 1641725936855,
+    "firstSeenTime": "10:33:53 AM",
+    "lastSeenTime": "10:37:14 AM",
+    "onlineDurationMins": 3.346033333333333
+  },
+  "pragnan_malick@lichess": {
+    "id": "pragnan_malick",
+    "provider": "lichess",
+    "username": "Pragnan_Malick",
+    "firstSeen": 1641724702899,
+    "lastSeen": 1641725341909,
+    "firstSeenTime": "10:38:22 AM",
+    "lastSeenTime": "10:39:46 AM",
+    "onlineDurationMins": 1.3862333333333334
+  },
+  "silver_viper@lichess": {
+    "id": "silver_viper",
+    "provider": "lichess",
+    "username": "Silver_Viper",
+    "firstSeen": 1641725329385,
+    "lastSeen": 1641725413695
+  }
+}
