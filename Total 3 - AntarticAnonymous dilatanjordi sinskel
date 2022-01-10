@@ -1,0 +1,29 @@
+{
+  "antarticanonymous@lichess": {
+    "id": "antarticanonymous",
+    "provider": "lichess",
+    "username": "AntarticAnonymous",
+    "firstSeen": 1641835923659,
+    "lastSeen": 1641841259934,
+    "firstSeenTime": "5:32:03 PM",
+    "lastSeenTime": "6:54:03 PM",
+    "onlineDurationMins": 82.00201666666666
+  },
+  "dilatanjordi@lichess": {
+    "id": "dilatanjordi",
+    "provider": "lichess",
+    "username": "dilatanjordi",
+    "firstSeen": 1641840459347,
+    "lastSeen": 1641841349914,
+    "firstSeenTime": "6:47:39 PM",
+    "lastSeenTime": "7:00:22 PM",
+    "onlineDurationMins": 12.719583333333333
+  },
+  "sinskel@lichess": {
+    "id": "sinskel",
+    "provider": "lichess",
+    "username": "sinskel",
+    "firstSeen": 1641841350261,
+    "lastSeen": 1641841350261
+  }
+}
