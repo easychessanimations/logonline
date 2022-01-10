@@ -1,0 +1,22 @@
+{
+  "stockfishlevel_8@lichess": {
+    "id": "stockfishlevel_8",
+    "provider": "lichess",
+    "username": "stockfishlevel_8",
+    "firstSeen": 1641794563228,
+    "lastSeen": 1641795723025,
+    "firstSeenTime": "6:02:43 AM",
+    "lastSeenTime": "6:14:45 AM",
+    "onlineDurationMins": 12.032166666666667
+  },
+  "binary-bot@lichess": {
+    "id": "binary-bot",
+    "provider": "lichess",
+    "username": "Binary-Bot",
+    "firstSeen": 1641795399272,
+    "lastSeen": 1641796323811,
+    "firstSeenTime": "6:16:39 AM",
+    "lastSeenTime": "6:20:08 AM",
+    "onlineDurationMins": 3.4864
+  }
+}
