@@ -1,0 +1,39 @@
+{
+  "binary-bot@lichess": {
+    "id": "binary-bot",
+    "provider": "lichess",
+    "username": "Binary-Bot",
+    "firstSeen": 1641795399272,
+    "lastSeen": 1641802478995,
+    "firstSeenTime": "6:16:39 AM",
+    "lastSeenTime": "8:07:23 AM",
+    "onlineDurationMins": 110.74178333333333
+  },
+  "swapnabha2011@lichess": {
+    "id": "swapnabha2011",
+    "provider": "lichess",
+    "username": "Swapnabha2011",
+    "firstSeen": 1641801187417,
+    "lastSeen": 1641802403976,
+    "firstSeenTime": "7:53:07 AM",
+    "lastSeenTime": "8:13:23 AM",
+    "onlineDurationMins": 20.275983333333333
+  },
+  "eagleeye2021@lichess": {
+    "id": "eagleeye2021",
+    "provider": "lichess",
+    "username": "EagleEye2021",
+    "firstSeen": 1641802200348,
+    "lastSeen": 1641802222070,
+    "firstSeenTime": "8:10:00 AM",
+    "lastSeenTime": "8:10:22 AM",
+    "onlineDurationMins": 0.3620333333333333
+  },
+  "midnightshadow_03@lichess": {
+    "id": "midnightshadow_03",
+    "provider": "lichess",
+    "username": "midnightshadow_03",
+    "firstSeen": 1641802480593,
+    "lastSeen": 1641802480593
+  }
+}
