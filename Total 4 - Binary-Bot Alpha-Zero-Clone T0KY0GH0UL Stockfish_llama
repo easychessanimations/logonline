@@ -1,0 +1,42 @@
+{
+  "binary-bot@lichess": {
+    "id": "binary-bot",
+    "provider": "lichess",
+    "username": "Binary-Bot",
+    "firstSeen": 1641795399272,
+    "lastSeen": 1641798707108,
+    "firstSeenTime": "6:16:39 AM",
+    "lastSeenTime": "6:50:10 AM",
+    "onlineDurationMins": 33.52786666666667
+  },
+  "alpha-zero-clone@lichess": {
+    "id": "alpha-zero-clone",
+    "provider": "lichess",
+    "username": "Alpha-Zero-Clone",
+    "firstSeen": 1641797215924,
+    "lastSeen": 1641797878695,
+    "firstSeenTime": "6:46:55 AM",
+    "lastSeenTime": "6:57:58 AM",
+    "onlineDurationMins": 11.046183333333333
+  },
+  "t0ky0gh0ul@lichess": {
+    "id": "t0ky0gh0ul",
+    "provider": "lichess",
+    "username": "T0KY0GH0UL",
+    "firstSeen": 1641797337915,
+    "lastSeen": 1641798064509,
+    "firstSeenTime": "6:48:57 AM",
+    "lastSeenTime": "7:01:04 AM",
+    "onlineDurationMins": 12.1099
+  },
+  "stockfish_llama@lichess": {
+    "id": "stockfish_llama",
+    "provider": "lichess",
+    "username": "Stockfish_llama",
+    "firstSeen": 1641797774354,
+    "lastSeen": 1641798122238,
+    "firstSeenTime": "6:56:14 AM",
+    "lastSeenTime": "7:00:42 AM",
+    "onlineDurationMins": 4.462933333333333
+  }
+}
