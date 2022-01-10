@@ -1,0 +1,19 @@
+{
+  "alpha-zero-clone@lichess": {
+    "id": "alpha-zero-clone",
+    "provider": "lichess",
+    "username": "Alpha-Zero-Clone",
+    "firstSeen": 1641821000083,
+    "lastSeen": 1641822504844,
+    "firstSeenTime": "1:23:20 PM",
+    "lastSeenTime": "1:40:32 PM",
+    "onlineDurationMins": 17.208266666666667
+  },
+  "gas-gas-gasbot@lichess": {
+    "id": "gas-gas-gasbot",
+    "provider": "lichess",
+    "username": "Gas-Gas-GasBot",
+    "firstSeen": 1641823354394,
+    "lastSeen": 1641823354394
+  }
+}
