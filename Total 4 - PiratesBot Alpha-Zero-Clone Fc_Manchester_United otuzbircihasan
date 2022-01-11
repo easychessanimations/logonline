@@ -1,0 +1,30 @@
+{
+  "piratesbot@lichess": {
+    "id": "piratesbot",
+    "provider": "lichess",
+    "username": "PiratesBot",
+    "firstSeen": 1641905830955,
+    "lastSeen": 1641907333282
+  },
+  "alpha-zero-clone@lichess": {
+    "id": "alpha-zero-clone",
+    "provider": "lichess",
+    "username": "Alpha-Zero-Clone",
+    "firstSeen": 1641906628966,
+    "lastSeen": 1641907332695
+  },
+  "fc_manchester_united@lichess": {
+    "id": "fc_manchester_united",
+    "provider": "lichess",
+    "username": "Fc_Manchester_United",
+    "firstSeen": 1641906921820,
+    "lastSeen": 1641906927788
+  },
+  "otuzbircihasan@lichess": {
+    "id": "otuzbircihasan",
+    "provider": "lichess",
+    "username": "otuzbircihasan",
+    "firstSeen": 1641907508964,
+    "lastSeen": 1641907508964
+  }
+}
