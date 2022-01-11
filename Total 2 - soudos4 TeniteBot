@@ -1,0 +1,22 @@
+{
+  "soudos4@lichess": {
+    "id": "soudos4",
+    "provider": "lichess",
+    "username": "soudos4",
+    "firstSeen": 1641899317401,
+    "lastSeen": 1641902580547,
+    "firstSeenTime": "11:08:37 AM",
+    "lastSeenTime": "12:03:00 PM",
+    "onlineDurationMins": 54.38576666666667
+  },
+  "tenitebot@lichess": {
+    "id": "tenitebot",
+    "provider": "lichess",
+    "username": "TeniteBot",
+    "firstSeen": 1641901605363,
+    "lastSeen": 1641902795670,
+    "firstSeenTime": "11:46:45 AM",
+    "lastSeenTime": "12:03:21 PM",
+    "onlineDurationMins": 16.5959
+  }
+}
