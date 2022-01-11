@@ -1,0 +1,50 @@
+{
+  "soudos4@lichess": {
+    "id": "soudos4",
+    "provider": "lichess",
+    "username": "soudos4",
+    "firstSeen": 1641899317401,
+    "lastSeen": 1641906203161,
+    "firstSeenTime": "11:08:37 AM",
+    "lastSeenTime": "12:52:19 PM",
+    "onlineDurationMins": 103.70855
+  },
+  "soudos5@lichess": {
+    "id": "soudos5",
+    "provider": "lichess",
+    "username": "Soudos5",
+    "firstSeen": 1641904573623,
+    "lastSeen": 1641906176556,
+    "firstSeenTime": "12:36:13 PM",
+    "lastSeenTime": "12:53:48 PM",
+    "onlineDurationMins": 17.577666666666666
+  },
+  "piratesbot@lichess": {
+    "id": "piratesbot",
+    "provider": "lichess",
+    "username": "PiratesBot",
+    "firstSeen": 1641905830955,
+    "lastSeen": 1641906494762
+  },
+  "kharo0n@lichess": {
+    "id": "kharo0n",
+    "provider": "lichess",
+    "username": "Kharo0n",
+    "firstSeen": 1641906004704,
+    "lastSeen": 1641906235651
+  },
+  "alpha-zero-clone@lichess": {
+    "id": "alpha-zero-clone",
+    "provider": "lichess",
+    "username": "Alpha-Zero-Clone",
+    "firstSeen": 1641906628966,
+    "lastSeen": 1641906725327
+  },
+  "fc_manchester_united@lichess": {
+    "id": "fc_manchester_united",
+    "provider": "lichess",
+    "username": "Fc_Manchester_United",
+    "firstSeen": 1641906921820,
+    "lastSeen": 1641906921820
+  }
+}
