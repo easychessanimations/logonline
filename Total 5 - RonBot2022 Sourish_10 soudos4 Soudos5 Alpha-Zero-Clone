@@ -1,0 +1,49 @@
+{
+  "ronbot2022@lichess": {
+    "id": "ronbot2022",
+    "provider": "lichess",
+    "username": "RonBot2022",
+    "firstSeen": 1641963159917,
+    "lastSeen": 1641969699969,
+    "firstSeenTime": "4:52:39 AM",
+    "lastSeenTime": "6:41:39 AM",
+    "onlineDurationMins": 109.00086666666667
+  },
+  "sourish_10@lichess": {
+    "id": "sourish_10",
+    "provider": "lichess",
+    "username": "Sourish_10",
+    "firstSeen": 1641966984921,
+    "lastSeen": 1641969878606,
+    "firstSeenTime": "5:56:24 AM",
+    "lastSeenTime": "6:41:35 AM",
+    "onlineDurationMins": 45.18115
+  },
+  "soudos4@lichess": {
+    "id": "soudos4",
+    "provider": "lichess",
+    "username": "soudos4",
+    "firstSeen": 1641968008336,
+    "lastSeen": 1641969489944,
+    "firstSeenTime": "6:13:28 AM",
+    "lastSeenTime": "6:38:09 AM",
+    "onlineDurationMins": 24.693466666666666
+  },
+  "soudos5@lichess": {
+    "id": "soudos5",
+    "provider": "lichess",
+    "username": "Soudos5",
+    "firstSeen": 1641968050066,
+    "lastSeen": 1641969872753,
+    "firstSeenTime": "6:14:10 AM",
+    "lastSeenTime": "6:42:48 AM",
+    "onlineDurationMins": 28.647316666666665
+  },
+  "alpha-zero-clone@lichess": {
+    "id": "alpha-zero-clone",
+    "provider": "lichess",
+    "username": "Alpha-Zero-Clone",
+    "firstSeen": 1641969895650,
+    "lastSeen": 1641969895650
+  }
+}
