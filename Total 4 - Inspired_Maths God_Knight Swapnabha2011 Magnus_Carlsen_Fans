@@ -1,0 +1,42 @@
+{
+  "inspired_maths@lichess": {
+    "id": "inspired_maths",
+    "provider": "lichess",
+    "username": "Inspired_Maths",
+    "firstSeen": 1641980957890,
+    "lastSeen": 1641984346143,
+    "firstSeenTime": "9:49:17 AM",
+    "lastSeenTime": "10:45:46 AM",
+    "onlineDurationMins": 56.47088333333333
+  },
+  "god_knight@lichess": {
+    "id": "god_knight",
+    "provider": "lichess",
+    "username": "God_Knight",
+    "firstSeen": 1641982537091,
+    "lastSeen": 1641984515635,
+    "firstSeenTime": "10:15:37 AM",
+    "lastSeenTime": "10:48:35 AM",
+    "onlineDurationMins": 32.97573333333333
+  },
+  "swapnabha2011@lichess": {
+    "id": "swapnabha2011",
+    "provider": "lichess",
+    "username": "Swapnabha2011",
+    "firstSeen": 1641983102678,
+    "lastSeen": 1641985144908,
+    "firstSeenTime": "10:25:02 AM",
+    "lastSeenTime": "10:52:29 AM",
+    "onlineDurationMins": 27.45345
+  },
+  "magnus_carlsen_fans@lichess": {
+    "id": "magnus_carlsen_fans",
+    "provider": "lichess",
+    "username": "Magnus_Carlsen_Fans",
+    "firstSeen": 1641984374387,
+    "lastSeen": 1641984395309,
+    "firstSeenTime": "10:46:14 AM",
+    "lastSeenTime": "10:46:35 AM",
+    "onlineDurationMins": 0.3487
+  }
+}
