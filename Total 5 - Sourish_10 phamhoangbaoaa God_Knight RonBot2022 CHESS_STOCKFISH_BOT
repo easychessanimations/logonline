@@ -1,0 +1,52 @@
+{
+  "sourish_10@lichess": {
+    "id": "sourish_10",
+    "provider": "lichess",
+    "username": "Sourish_10",
+    "firstSeen": 1641972678811,
+    "lastSeen": 1641977525081,
+    "firstSeenTime": "7:31:18 AM",
+    "lastSeenTime": "8:52:05 AM",
+    "onlineDurationMins": 80.77116666666667
+  },
+  "phamhoangbaoaa@lichess": {
+    "id": "phamhoangbaoaa",
+    "provider": "lichess",
+    "username": "phamhoangbaoaa",
+    "firstSeen": 1641972889313,
+    "lastSeen": 1641977512982,
+    "firstSeenTime": "7:34:49 AM",
+    "lastSeenTime": "8:51:52 AM",
+    "onlineDurationMins": 77.06115
+  },
+  "god_knight@lichess": {
+    "id": "god_knight",
+    "provider": "lichess",
+    "username": "God_Knight",
+    "firstSeen": 1641974896760,
+    "lastSeen": 1641977598285,
+    "firstSeenTime": "8:08:16 AM",
+    "lastSeenTime": "8:51:26 AM",
+    "onlineDurationMins": 43.166516666666666
+  },
+  "ronbot2022@lichess": {
+    "id": "ronbot2022",
+    "provider": "lichess",
+    "username": "RonBot2022",
+    "firstSeen": 1641975686551,
+    "lastSeen": 1641977547793,
+    "firstSeenTime": "8:21:26 AM",
+    "lastSeenTime": "8:52:27 AM",
+    "onlineDurationMins": 31.0207
+  },
+  "chess_stockfish_bot@lichess": {
+    "id": "chess_stockfish_bot",
+    "provider": "lichess",
+    "username": "CHESS_STOCKFISH_BOT",
+    "firstSeen": 1641977373272,
+    "lastSeen": 1641977397448,
+    "firstSeenTime": "8:49:33 AM",
+    "lastSeenTime": "8:49:57 AM",
+    "onlineDurationMins": 0.4029333333333333
+  }
+}
