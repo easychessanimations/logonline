@@ -1,0 +1,32 @@
+{
+  "god_knight@lichess": {
+    "id": "god_knight",
+    "provider": "lichess",
+    "username": "God_Knight",
+    "firstSeen": 1641982537091,
+    "lastSeen": 1641985175170,
+    "firstSeenTime": "10:15:37 AM",
+    "lastSeenTime": "10:59:35 AM",
+    "onlineDurationMins": 43.967983333333336
+  },
+  "swapnabha2011@lichess": {
+    "id": "swapnabha2011",
+    "provider": "lichess",
+    "username": "Swapnabha2011",
+    "firstSeen": 1641983102678,
+    "lastSeen": 1641985148532,
+    "firstSeenTime": "10:25:02 AM",
+    "lastSeenTime": "10:59:08 AM",
+    "onlineDurationMins": 34.097566666666665
+  },
+  "magnus_carlsen_fans@lichess": {
+    "id": "magnus_carlsen_fans",
+    "provider": "lichess",
+    "username": "Magnus_Carlsen_Fans",
+    "firstSeen": 1641984374387,
+    "lastSeen": 1641984395309,
+    "firstSeenTime": "10:46:14 AM",
+    "lastSeenTime": "10:46:35 AM",
+    "onlineDurationMins": 0.3487
+  }
+}
