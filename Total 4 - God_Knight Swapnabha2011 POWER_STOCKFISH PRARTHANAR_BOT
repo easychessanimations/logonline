@@ -1,0 +1,36 @@
+{
+  "god_knight@lichess": {
+    "id": "god_knight",
+    "provider": "lichess",
+    "username": "God_Knight",
+    "firstSeen": 1641982537091,
+    "lastSeen": 1641991936438,
+    "firstSeenTime": "10:15:37 AM",
+    "lastSeenTime": "12:32:07 PM",
+    "onlineDurationMins": 136.50551666666667
+  },
+  "swapnabha2011@lichess": {
+    "id": "swapnabha2011",
+    "provider": "lichess",
+    "username": "Swapnabha2011",
+    "firstSeen": 1641983102678,
+    "lastSeen": 1641991785346,
+    "firstSeenTime": "10:25:02 AM",
+    "lastSeenTime": "12:30:26 PM",
+    "onlineDurationMins": 125.40363333333333
+  },
+  "power_stockfish@lichess": {
+    "id": "power_stockfish",
+    "provider": "lichess",
+    "username": "POWER_STOCKFISH",
+    "firstSeen": 1641991193904,
+    "lastSeen": 1641991322248
+  },
+  "prarthanar_bot@lichess": {
+    "id": "prarthanar_bot",
+    "provider": "lichess",
+    "username": "PRARTHANAR_BOT",
+    "firstSeen": 1641991969102,
+    "lastSeen": 1641991969102
+  }
+}
