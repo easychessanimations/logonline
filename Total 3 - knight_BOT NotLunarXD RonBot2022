@@ -1,0 +1,29 @@
+{
+  "knight_bot@lichess": {
+    "id": "knight_bot",
+    "provider": "lichess",
+    "username": "knight_BOT",
+    "firstSeen": 1641955035676,
+    "lastSeen": 1641962594402,
+    "firstSeenTime": "2:37:15 AM",
+    "lastSeenTime": "4:43:14 AM",
+    "onlineDurationMins": 125.97876666666667
+  },
+  "notlunarxd@lichess": {
+    "id": "notlunarxd",
+    "provider": "lichess",
+    "username": "NotLunarXD",
+    "firstSeen": 1641962697410,
+    "lastSeen": 1641962857042,
+    "firstSeenTime": "4:44:57 AM",
+    "lastSeenTime": "4:47:37 AM",
+    "onlineDurationMins": 2.6605333333333334
+  },
+  "ronbot2022@lichess": {
+    "id": "ronbot2022",
+    "provider": "lichess",
+    "username": "RonBot2022",
+    "firstSeen": 1641963159917,
+    "lastSeen": 1641963159917
+  }
+}
