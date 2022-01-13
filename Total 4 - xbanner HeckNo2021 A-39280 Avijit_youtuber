@@ -1,0 +1,39 @@
+{
+  "xbanner@lichess": {
+    "id": "xbanner",
+    "provider": "lichess",
+    "username": "xbanner",
+    "firstSeen": 1642076303216,
+    "lastSeen": 1642083138206,
+    "firstSeenTime": "12:18:23 PM",
+    "lastSeenTime": "2:12:18 PM",
+    "onlineDurationMins": 113.9165
+  },
+  "heckno2021@lichess": {
+    "id": "heckno2021",
+    "provider": "lichess",
+    "username": "HeckNo2021",
+    "firstSeen": 1642079767522,
+    "lastSeen": 1642083149586,
+    "firstSeenTime": "1:16:07 PM",
+    "lastSeenTime": "2:12:29 PM",
+    "onlineDurationMins": 56.367733333333334
+  },
+  "a-39280@lichess": {
+    "id": "a-39280",
+    "provider": "lichess",
+    "username": "A-39280",
+    "firstSeen": 1642080693220,
+    "lastSeen": 1642083398128,
+    "firstSeenTime": "1:31:33 PM",
+    "lastSeenTime": "2:16:38 PM",
+    "onlineDurationMins": 45.0818
+  },
+  "avijit_youtuber@lichess": {
+    "id": "avijit_youtuber",
+    "provider": "lichess",
+    "username": "Avijit_youtuber",
+    "firstSeen": 1642083564438,
+    "lastSeen": 1642083564438
+  }
+}
