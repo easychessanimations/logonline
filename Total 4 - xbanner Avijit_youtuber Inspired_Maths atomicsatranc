@@ -1,0 +1,39 @@
+{
+  "xbanner@lichess": {
+    "id": "xbanner",
+    "provider": "lichess",
+    "username": "xbanner",
+    "firstSeen": 1642069175953,
+    "lastSeen": 1642071438280,
+    "firstSeenTime": "10:19:35 AM",
+    "lastSeenTime": "10:46:29 AM",
+    "onlineDurationMins": 26.886833333333332
+  },
+  "avijit_youtuber@lichess": {
+    "id": "avijit_youtuber",
+    "provider": "lichess",
+    "username": "Avijit_youtuber",
+    "firstSeen": 1642069259563,
+    "lastSeen": 1642070805744,
+    "firstSeenTime": "10:20:59 AM",
+    "lastSeenTime": "10:46:45 AM",
+    "onlineDurationMins": 25.769683333333333
+  },
+  "inspired_maths@lichess": {
+    "id": "inspired_maths",
+    "provider": "lichess",
+    "username": "Inspired_Maths",
+    "firstSeen": 1642069603787,
+    "lastSeen": 1642071112327,
+    "firstSeenTime": "10:26:43 AM",
+    "lastSeenTime": "10:51:52 AM",
+    "onlineDurationMins": 25.142333333333333
+  },
+  "atomicsatranc@lichess": {
+    "id": "atomicsatranc",
+    "provider": "lichess",
+    "username": "atomicsatranc",
+    "firstSeen": 1642071519356,
+    "lastSeen": 1642071519356
+  }
+}
