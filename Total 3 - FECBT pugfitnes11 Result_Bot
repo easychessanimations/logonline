@@ -1,0 +1,26 @@
+{
+  "fecbt@lichess": {
+    "id": "fecbt",
+    "provider": "lichess",
+    "username": "FECBT",
+    "firstSeen": 1642092140314,
+    "lastSeen": 1642094424041,
+    "firstSeenTime": "4:42:20 PM",
+    "lastSeenTime": "4:58:09 PM",
+    "onlineDurationMins": 15.818433333333333
+  },
+  "pugfitnes11@lichess": {
+    "id": "pugfitnes11",
+    "provider": "lichess",
+    "username": "pugfitnes11",
+    "firstSeen": 1642093372680,
+    "lastSeen": 1642094466537
+  },
+  "result_bot@lichess": {
+    "id": "result_bot",
+    "provider": "lichess",
+    "username": "Result_Bot",
+    "firstSeen": 1642094240936,
+    "lastSeen": 1642094505526
+  }
+}
