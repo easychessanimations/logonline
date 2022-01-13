@@ -4,20 +4,29 @@
     "provider": "lichess",
     "username": "Raphamaschine",
     "firstSeen": 1642065261030,
-    "lastSeen": 1642065902190
+    "lastSeen": 1642067274482,
+    "firstSeenTime": "9:14:21 AM",
+    "lastSeenTime": "9:36:26 AM",
+    "onlineDurationMins": 22.09515
   },
   "xbanner@lichess": {
     "id": "xbanner",
     "provider": "lichess",
     "username": "xbanner",
     "firstSeen": 1642065331473,
-    "lastSeen": 1642065936512
+    "lastSeen": 1642067357904,
+    "firstSeenTime": "9:15:31 AM",
+    "lastSeenTime": "9:37:51 AM",
+    "onlineDurationMins": 22.3388
   },
   "god_knight@lichess": {
     "id": "god_knight",
     "provider": "lichess",
     "username": "God_Knight",
     "firstSeen": 1642065965597,
-    "lastSeen": 1642065965597
+    "lastSeen": 1642067469544,
+    "firstSeenTime": "9:26:05 AM",
+    "lastSeenTime": "9:39:28 AM",
+    "onlineDurationMins": 13.388466666666666
   }
 }
