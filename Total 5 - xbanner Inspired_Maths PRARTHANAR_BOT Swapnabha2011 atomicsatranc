@@ -1,0 +1,49 @@
+{
+  "xbanner@lichess": {
+    "id": "xbanner",
+    "provider": "lichess",
+    "username": "xbanner",
+    "firstSeen": 1642072329569,
+    "lastSeen": 1642072697785,
+    "firstSeenTime": "11:12:09 AM",
+    "lastSeenTime": "11:13:41 AM",
+    "onlineDurationMins": 1.5311
+  },
+  "inspired_maths@lichess": {
+    "id": "inspired_maths",
+    "provider": "lichess",
+    "username": "Inspired_Maths",
+    "firstSeen": 1642072404092,
+    "lastSeen": 1642072845035,
+    "firstSeenTime": "11:13:24 AM",
+    "lastSeenTime": "11:15:50 AM",
+    "onlineDurationMins": 2.4453666666666667
+  },
+  "prarthanar_bot@lichess": {
+    "id": "prarthanar_bot",
+    "provider": "lichess",
+    "username": "PRARTHANAR_BOT",
+    "firstSeen": 1642072425445,
+    "lastSeen": 1642072441296,
+    "firstSeenTime": "11:13:45 AM",
+    "lastSeenTime": "11:14:01 AM",
+    "onlineDurationMins": 0.2641833333333333
+  },
+  "swapnabha2011@lichess": {
+    "id": "swapnabha2011",
+    "provider": "lichess",
+    "username": "Swapnabha2011",
+    "firstSeen": 1642072431653,
+    "lastSeen": 1642072754855,
+    "firstSeenTime": "11:13:51 AM",
+    "lastSeenTime": "11:14:01 AM",
+    "onlineDurationMins": 0.15795
+  },
+  "atomicsatranc@lichess": {
+    "id": "atomicsatranc",
+    "provider": "lichess",
+    "username": "atomicsatranc",
+    "firstSeen": 1642072845822,
+    "lastSeen": 1642072845822
+  }
+}
