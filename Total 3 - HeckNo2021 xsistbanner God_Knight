@@ -4,20 +4,29 @@
     "provider": "lichess",
     "username": "HeckNo2021",
     "firstSeen": 1642162660364,
-    "lastSeen": 1642162679288
+    "lastSeen": 1642164911520,
+    "firstSeenTime": "12:17:40 PM",
+    "lastSeenTime": "12:55:11 PM",
+    "onlineDurationMins": 37.51926666666667
   },
   "xsistbanner@lichess": {
     "id": "xsistbanner",
     "provider": "lichess",
     "username": "xsistbanner",
     "firstSeen": 1642162743100,
-    "lastSeen": 1642162977648
+    "lastSeen": 1642164889096,
+    "firstSeenTime": "12:19:03 PM",
+    "lastSeenTime": "12:54:49 PM",
+    "onlineDurationMins": 35.7666
   },
   "god_knight@lichess": {
     "id": "god_knight",
     "provider": "lichess",
     "username": "God_Knight",
     "firstSeen": 1642163007643,
-    "lastSeen": 1642163007643
+    "lastSeen": 1642164249439,
+    "firstSeenTime": "12:23:27 PM",
+    "lastSeenTime": "12:44:09 PM",
+    "onlineDurationMins": 20.6966
   }
 }
