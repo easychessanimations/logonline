@@ -1,0 +1,32 @@
+{
+  "fritz-chessbot@lichess": {
+    "id": "fritz-chessbot",
+    "provider": "lichess",
+    "username": "Fritz-ChessBOT",
+    "firstSeen": 1642150746707,
+    "lastSeen": 1642161515206,
+    "firstSeenTime": "8:59:06 AM",
+    "lastSeenTime": "11:58:04 AM",
+    "onlineDurationMins": 178.96128333333334
+  },
+  "heckno2021@lichess": {
+    "id": "heckno2021",
+    "provider": "lichess",
+    "username": "HeckNo2021",
+    "firstSeen": 1642157367099,
+    "lastSeen": 1642161783499,
+    "firstSeenTime": "10:49:27 AM",
+    "lastSeenTime": "11:55:33 AM",
+    "onlineDurationMins": 66.11298333333333
+  },
+  "action_kamen1205@lichess": {
+    "id": "action_kamen1205",
+    "provider": "lichess",
+    "username": "Action_kamen1205",
+    "firstSeen": 1642161405172,
+    "lastSeen": 1642161444900,
+    "firstSeenTime": "11:56:45 AM",
+    "lastSeenTime": "11:57:24 AM",
+    "onlineDurationMins": 0.6621333333333334
+  }
+}
