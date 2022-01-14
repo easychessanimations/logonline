@@ -1,0 +1,47 @@
+{
+  "xbanner@lichess": {
+    "id": "xbanner",
+    "provider": "lichess",
+    "username": "xbanner",
+    "firstSeen": 1642139095151,
+    "lastSeen": 1642145052046,
+    "firstSeenTime": "5:44:55 AM",
+    "lastSeenTime": "6:17:04 AM",
+    "onlineDurationMins": 32.148383333333335
+  },
+  "try_to_beat_me_kiddo@lichess": {
+    "id": "try_to_beat_me_kiddo",
+    "provider": "lichess",
+    "username": "Try_To_Beat_Me_Kiddo",
+    "firstSeen": 1642144568018,
+    "lastSeen": 1642145020655
+  },
+  "ardunot500@lichess": {
+    "id": "ardunot500",
+    "provider": "lichess",
+    "username": "Ardunot500",
+    "firstSeen": 1642144714765,
+    "lastSeen": 1642144749417
+  },
+  "god_knight@lichess": {
+    "id": "god_knight",
+    "provider": "lichess",
+    "username": "God_Knight",
+    "firstSeen": 1642144745577,
+    "lastSeen": 1642144764939
+  },
+  "sourish_10@lichess": {
+    "id": "sourish_10",
+    "provider": "lichess",
+    "username": "Sourish_10",
+    "firstSeen": 1642144785850,
+    "lastSeen": 1642144895141
+  },
+  "vive_2_chess_pro@lichess": {
+    "id": "vive_2_chess_pro",
+    "provider": "lichess",
+    "username": "ViVe_2_chess_pro",
+    "firstSeen": 1642145028569,
+    "lastSeen": 1642145045836
+  }
+}
