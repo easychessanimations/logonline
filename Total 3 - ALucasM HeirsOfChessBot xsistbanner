@@ -1,0 +1,23 @@
+{
+  "alucasm@lichess": {
+    "id": "alucasm",
+    "provider": "lichess",
+    "username": "ALucasM",
+    "firstSeen": 1642165911874,
+    "lastSeen": 1642169363393
+  },
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1642166626488,
+    "lastSeen": 1642169366522
+  },
+  "xsistbanner@lichess": {
+    "id": "xsistbanner",
+    "provider": "lichess",
+    "username": "xsistbanner",
+    "firstSeen": 1642169492876,
+    "lastSeen": 1642169492876
+  }
+}
