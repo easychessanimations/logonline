@@ -1,0 +1,39 @@
+{
+  "fritz-chessbot@lichess": {
+    "id": "fritz-chessbot",
+    "provider": "lichess",
+    "username": "Fritz-ChessBOT",
+    "firstSeen": 1642150746707,
+    "lastSeen": 1642160191247,
+    "firstSeenTime": "8:59:06 AM",
+    "lastSeenTime": "11:35:17 AM",
+    "onlineDurationMins": 156.17491666666666
+  },
+  "heckno2021@lichess": {
+    "id": "heckno2021",
+    "provider": "lichess",
+    "username": "HeckNo2021",
+    "firstSeen": 1642157367099,
+    "lastSeen": 1642160373496,
+    "firstSeenTime": "10:49:27 AM",
+    "lastSeenTime": "11:30:56 AM",
+    "onlineDurationMins": 41.49185
+  },
+  "phamhoangbaoaa@lichess": {
+    "id": "phamhoangbaoaa",
+    "provider": "lichess",
+    "username": "phamhoangbaoaa",
+    "firstSeen": 1642160076255,
+    "lastSeen": 1642160201072,
+    "firstSeenTime": "11:34:36 AM",
+    "lastSeenTime": "11:35:18 AM",
+    "onlineDurationMins": 0.7071333333333333
+  },
+  "avijit_youtuber@lichess": {
+    "id": "avijit_youtuber",
+    "provider": "lichess",
+    "username": "Avijit_youtuber",
+    "firstSeen": 1642160464572,
+    "lastSeen": 1642160464572
+  }
+}
