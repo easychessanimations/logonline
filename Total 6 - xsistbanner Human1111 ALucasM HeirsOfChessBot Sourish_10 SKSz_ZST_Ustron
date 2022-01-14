@@ -1,0 +1,50 @@
+{
+  "xsistbanner@lichess": {
+    "id": "xsistbanner",
+    "provider": "lichess",
+    "username": "xsistbanner",
+    "firstSeen": 1642162743100,
+    "lastSeen": 1642167255599,
+    "firstSeenTime": "12:19:03 PM",
+    "lastSeenTime": "1:08:13 PM",
+    "onlineDurationMins": 49.18098333333333
+  },
+  "human1111@lichess": {
+    "id": "human1111",
+    "provider": "lichess",
+    "username": "Human1111",
+    "firstSeen": 1642165269712,
+    "lastSeen": 1642166793197,
+    "firstSeenTime": "1:01:09 PM",
+    "lastSeenTime": "1:08:13 PM",
+    "onlineDurationMins": 7.056516666666667
+  },
+  "alucasm@lichess": {
+    "id": "alucasm",
+    "provider": "lichess",
+    "username": "ALucasM",
+    "firstSeen": 1642165911874,
+    "lastSeen": 1642167414838
+  },
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1642166626488,
+    "lastSeen": 1642167293040
+  },
+  "sourish_10@lichess": {
+    "id": "sourish_10",
+    "provider": "lichess",
+    "username": "Sourish_10",
+    "firstSeen": 1642166851329,
+    "lastSeen": 1642166902614
+  },
+  "sksz_zst_ustron@lichess": {
+    "id": "sksz_zst_ustron",
+    "provider": "lichess",
+    "username": "SKSz_ZST_Ustron",
+    "firstSeen": 1642167467398,
+    "lastSeen": 1642167467398
+  }
+}
