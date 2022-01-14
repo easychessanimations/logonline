@@ -1,0 +1,19 @@
+{
+  "xbanner@lichess": {
+    "id": "xbanner",
+    "provider": "lichess",
+    "username": "xbanner",
+    "firstSeen": 1642139095151,
+    "lastSeen": 1642142167381,
+    "firstSeenTime": "5:44:55 AM",
+    "lastSeenTime": "6:17:04 AM",
+    "onlineDurationMins": 32.148383333333335
+  },
+  "try_to_beat_me_kiddo@lichess": {
+    "id": "try_to_beat_me_kiddo",
+    "provider": "lichess",
+    "username": "Try_To_Beat_Me_Kiddo",
+    "firstSeen": 1642141417818,
+    "lastSeen": 1642142188926
+  }
+}
