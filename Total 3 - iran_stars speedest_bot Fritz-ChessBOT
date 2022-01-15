@@ -1,0 +1,23 @@
+{
+  "iran_stars@lichess": {
+    "id": "iran_stars",
+    "provider": "lichess",
+    "username": "iran_stars",
+    "firstSeen": 1642246025057,
+    "lastSeen": 1642247649049
+  },
+  "speedest_bot@lichess": {
+    "id": "speedest_bot",
+    "provider": "lichess",
+    "username": "speedest_bot",
+    "firstSeen": 1642246958547,
+    "lastSeen": 1642247021012
+  },
+  "fritz-chessbot@lichess": {
+    "id": "fritz-chessbot",
+    "provider": "lichess",
+    "username": "Fritz-ChessBOT",
+    "firstSeen": 1642247757202,
+    "lastSeen": 1642247757202
+  }
+}
