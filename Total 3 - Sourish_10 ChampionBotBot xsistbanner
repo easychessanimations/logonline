@@ -3,21 +3,27 @@
     "id": "sourish_10",
     "provider": "lichess",
     "username": "Sourish_10",
-    "firstSeen": 1642223288620,
-    "lastSeen": 1642224926237
+    "firstSeen": 1642231408981,
+    "lastSeen": 1642234303192,
+    "firstSeenTime": "7:23:28 AM",
+    "lastSeenTime": "8:03:35 AM",
+    "onlineDurationMins": 40.116
   },
   "championbotbot@lichess": {
     "id": "championbotbot",
     "provider": "lichess",
     "username": "ChampionBotBot",
-    "firstSeen": 1642223631209,
-    "lastSeen": 1642225000268
+    "firstSeen": 1642231600731,
+    "lastSeen": 1642233909024,
+    "firstSeenTime": "7:26:40 AM",
+    "lastSeenTime": "7:53:47 AM",
+    "onlineDurationMins": 27.115866666666665
   },
   "xsistbanner@lichess": {
     "id": "xsistbanner",
     "provider": "lichess",
     "username": "xsistbanner",
-    "firstSeen": 1642223852011,
-    "lastSeen": 1642225121455
+    "firstSeen": 1642234473590,
+    "lastSeen": 1642234473590
   }
 }
