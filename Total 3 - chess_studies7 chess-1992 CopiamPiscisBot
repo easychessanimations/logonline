@@ -1,0 +1,32 @@
+{
+  "chess_studies7@lichess": {
+    "id": "chess_studies7",
+    "provider": "lichess",
+    "username": "chess_studies7",
+    "firstSeen": 1642275358851,
+    "lastSeen": 1642276287866,
+    "firstSeenTime": "7:35:58 PM",
+    "lastSeenTime": "7:51:27 PM",
+    "onlineDurationMins": 15.483583333333334
+  },
+  "chess-1992@lichess": {
+    "id": "chess-1992",
+    "provider": "lichess",
+    "username": "chess-1992",
+    "firstSeen": 1642276297228,
+    "lastSeen": 1642276421953,
+    "firstSeenTime": "7:51:37 PM",
+    "lastSeenTime": "7:53:41 PM",
+    "onlineDurationMins": 2.07875
+  },
+  "copiampiscisbot@lichess": {
+    "id": "copiampiscisbot",
+    "provider": "lichess",
+    "username": "CopiamPiscisBot",
+    "firstSeen": 1642276661239,
+    "lastSeen": 1642276719054,
+    "firstSeenTime": "7:57:41 PM",
+    "lastSeenTime": "7:58:39 PM",
+    "onlineDurationMins": 0.9635833333333333
+  }
+}
