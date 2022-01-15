@@ -1,0 +1,33 @@
+{
+  "championbotbot@lichess": {
+    "id": "championbotbot",
+    "provider": "lichess",
+    "username": "ChampionBotBot",
+    "firstSeen": 1642223631209,
+    "lastSeen": 1642227706066,
+    "firstSeenTime": "5:13:51 AM",
+    "lastSeenTime": "5:58:43 AM",
+    "onlineDurationMins": 44.87473333333333
+  },
+  "xsistbanner@lichess": {
+    "id": "xsistbanner",
+    "provider": "lichess",
+    "username": "xsistbanner",
+    "firstSeen": 1642226564062,
+    "lastSeen": 1642228214007
+  },
+  "sourish_10@lichess": {
+    "id": "sourish_10",
+    "provider": "lichess",
+    "username": "Sourish_10",
+    "firstSeen": 1642227811444,
+    "lastSeen": 1642227962822
+  },
+  "b-c-p-g-follow@lichess": {
+    "id": "b-c-p-g-follow",
+    "provider": "lichess",
+    "username": "B-C-P-G-FOLLOW",
+    "firstSeen": 1642228222065,
+    "lastSeen": 1642228222065
+  }
+}
