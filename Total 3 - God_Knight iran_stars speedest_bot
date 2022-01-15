@@ -1,0 +1,23 @@
+{
+  "god_knight@lichess": {
+    "id": "god_knight",
+    "provider": "lichess",
+    "username": "God_Knight",
+    "firstSeen": 1642245703344,
+    "lastSeen": 1642246534850
+  },
+  "iran_stars@lichess": {
+    "id": "iran_stars",
+    "provider": "lichess",
+    "username": "iran_stars",
+    "firstSeen": 1642246025057,
+    "lastSeen": 1642246894258
+  },
+  "speedest_bot@lichess": {
+    "id": "speedest_bot",
+    "provider": "lichess",
+    "username": "speedest_bot",
+    "firstSeen": 1642246958547,
+    "lastSeen": 1642246958547
+  }
+}
