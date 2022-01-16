@@ -1,0 +1,29 @@
+{
+  "a-39280@lichess": {
+    "id": "a-39280",
+    "provider": "lichess",
+    "username": "A-39280",
+    "firstSeen": 1642314850908,
+    "lastSeen": 1642316776062,
+    "firstSeenTime": "6:34:10 AM",
+    "lastSeenTime": "7:06:16 AM",
+    "onlineDurationMins": 32.0859
+  },
+  "fecbt@lichess": {
+    "id": "fecbt",
+    "provider": "lichess",
+    "username": "FECBT",
+    "firstSeen": 1642316439848,
+    "lastSeen": 1642317071060,
+    "firstSeenTime": "7:00:39 AM",
+    "lastSeenTime": "7:04:51 AM",
+    "onlineDurationMins": 4.188
+  },
+  "god_knight@lichess": {
+    "id": "god_knight",
+    "provider": "lichess",
+    "username": "God_Knight",
+    "firstSeen": 1642317179698,
+    "lastSeen": 1642317208557
+  }
+}
