@@ -1,0 +1,43 @@
+{
+  "fritz-chessbot@lichess": {
+    "id": "fritz-chessbot",
+    "provider": "lichess",
+    "username": "Fritz-ChessBOT",
+    "firstSeen": 1642421540071,
+    "lastSeen": 1642429340357,
+    "firstSeenTime": "12:12:20 PM",
+    "lastSeenTime": "1:59:49 PM",
+    "onlineDurationMins": 107.4851
+  },
+  "skybeam@lichess": {
+    "id": "skybeam",
+    "provider": "lichess",
+    "username": "Skybeam",
+    "firstSeen": 1642422681757,
+    "lastSeen": 1642429011942,
+    "firstSeenTime": "12:31:21 PM",
+    "lastSeenTime": "1:55:03 PM",
+    "onlineDurationMins": 83.7012
+  },
+  "sl-stokfish@lichess": {
+    "id": "sl-stokfish",
+    "provider": "lichess",
+    "username": "SL-Stokfish",
+    "firstSeen": 1642428600694,
+    "lastSeen": 1642429071510
+  },
+  "fidemasterbrasil@lichess": {
+    "id": "fidemasterbrasil",
+    "provider": "lichess",
+    "username": "FideMasterBrasil",
+    "firstSeen": 1642429183088,
+    "lastSeen": 1642429491607
+  },
+  "sourish_10@lichess": {
+    "id": "sourish_10",
+    "provider": "lichess",
+    "username": "Sourish_10",
+    "firstSeen": 1642429549469,
+    "lastSeen": 1642429574109
+  }
+}
