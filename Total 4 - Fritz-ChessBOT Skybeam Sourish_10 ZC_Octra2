@@ -1,0 +1,42 @@
+{
+  "fritz-chessbot@lichess": {
+    "id": "fritz-chessbot",
+    "provider": "lichess",
+    "username": "Fritz-ChessBOT",
+    "firstSeen": 1642421540071,
+    "lastSeen": 1642425542121,
+    "firstSeenTime": "12:12:20 PM",
+    "lastSeenTime": "1:19:02 PM",
+    "onlineDurationMins": 66.70083333333334
+  },
+  "skybeam@lichess": {
+    "id": "skybeam",
+    "provider": "lichess",
+    "username": "Skybeam",
+    "firstSeen": 1642422681757,
+    "lastSeen": 1642425356822,
+    "firstSeenTime": "12:31:21 PM",
+    "lastSeenTime": "1:15:56 PM",
+    "onlineDurationMins": 44.58441666666667
+  },
+  "sourish_10@lichess": {
+    "id": "sourish_10",
+    "provider": "lichess",
+    "username": "Sourish_10",
+    "firstSeen": 1642423025447,
+    "lastSeen": 1642425658287,
+    "firstSeenTime": "12:37:05 PM",
+    "lastSeenTime": "1:13:06 PM",
+    "onlineDurationMins": 36.01723333333333
+  },
+  "zc_octra2@lichess": {
+    "id": "zc_octra2",
+    "provider": "lichess",
+    "username": "ZC_Octra2",
+    "firstSeen": 1642425367338,
+    "lastSeen": 1642425557074,
+    "firstSeenTime": "1:16:07 PM",
+    "lastSeenTime": "1:19:03 PM",
+    "onlineDurationMins": 2.93765
+  }
+}
