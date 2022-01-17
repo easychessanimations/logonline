@@ -1,0 +1,23 @@
+{
+  "srv1806chess@lichess": {
+    "id": "srv1806chess",
+    "provider": "lichess",
+    "username": "srv1806chess",
+    "firstSeen": 1642400024398,
+    "lastSeen": 1642401177420
+  },
+  "ducminhnguyen@lichess": {
+    "id": "ducminhnguyen",
+    "provider": "lichess",
+    "username": "DucMinhNguyen",
+    "firstSeen": 1642401020237,
+    "lastSeen": 1642401163722
+  },
+  "watchmysupergames@lichess": {
+    "id": "watchmysupergames",
+    "provider": "lichess",
+    "username": "WatchMySuperGames",
+    "firstSeen": 1642401197901,
+    "lastSeen": 1642401197901
+  }
+}
