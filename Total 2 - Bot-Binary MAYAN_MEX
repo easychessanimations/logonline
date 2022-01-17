@@ -1,0 +1,19 @@
+{
+  "bot-binary@lichess": {
+    "id": "bot-binary",
+    "provider": "lichess",
+    "username": "Bot-Binary",
+    "firstSeen": 1642459765683,
+    "lastSeen": 1642463134881,
+    "firstSeenTime": "10:49:25 PM",
+    "lastSeenTime": "10:51:59 PM",
+    "onlineDurationMins": 2.557516666666667
+  },
+  "mayan_mex@lichess": {
+    "id": "mayan_mex",
+    "provider": "lichess",
+    "username": "MAYAN_MEX",
+    "firstSeen": 1642463581814,
+    "lastSeen": 1642463581814
+  }
+}
