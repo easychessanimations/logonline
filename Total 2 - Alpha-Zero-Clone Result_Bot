@@ -1,0 +1,16 @@
+{
+  "alpha-zero-clone@lichess": {
+    "id": "alpha-zero-clone",
+    "provider": "lichess",
+    "username": "Alpha-Zero-Clone",
+    "firstSeen": 1642486727272,
+    "lastSeen": 1642487151292
+  },
+  "result_bot@lichess": {
+    "id": "result_bot",
+    "provider": "lichess",
+    "username": "Result_Bot",
+    "firstSeen": 1642487220063,
+    "lastSeen": 1642487220063
+  }
+}
