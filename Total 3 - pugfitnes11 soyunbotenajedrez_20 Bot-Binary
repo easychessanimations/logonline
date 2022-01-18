@@ -1,0 +1,29 @@
+{
+  "pugfitnes11@lichess": {
+    "id": "pugfitnes11",
+    "provider": "lichess",
+    "username": "pugfitnes11",
+    "firstSeen": 1642539745815,
+    "lastSeen": 1642540409156,
+    "firstSeenTime": "9:02:25 PM",
+    "lastSeenTime": "9:13:29 PM",
+    "onlineDurationMins": 11.055683333333333
+  },
+  "soyunbotenajedrez_20@lichess": {
+    "id": "soyunbotenajedrez_20",
+    "provider": "lichess",
+    "username": "soyunbotenajedrez_20",
+    "firstSeen": 1642540857055,
+    "lastSeen": 1642540917387,
+    "firstSeenTime": "9:20:57 PM",
+    "lastSeenTime": "9:21:57 PM",
+    "onlineDurationMins": 1.0055333333333334
+  },
+  "bot-binary@lichess": {
+    "id": "bot-binary",
+    "provider": "lichess",
+    "username": "Bot-Binary",
+    "firstSeen": 1642541010051,
+    "lastSeen": 1642541010051
+  }
+}
