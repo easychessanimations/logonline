@@ -1,0 +1,32 @@
+{
+  "watchmysupergames@lichess": {
+    "id": "watchmysupergames",
+    "provider": "lichess",
+    "username": "WatchMySuperGames",
+    "firstSeen": 1642512066064,
+    "lastSeen": 1642515436146,
+    "firstSeenTime": "1:21:06 PM",
+    "lastSeenTime": "2:17:16 PM",
+    "onlineDurationMins": 56.168033333333334
+  },
+  "a-39280@lichess": {
+    "id": "a-39280",
+    "provider": "lichess",
+    "username": "A-39280",
+    "firstSeen": 1642513362339,
+    "lastSeen": 1642515550491,
+    "firstSeenTime": "1:42:42 PM",
+    "lastSeenTime": "2:18:32 PM",
+    "onlineDurationMins": 35.830866666666665
+  },
+  "leadermygames@lichess": {
+    "id": "leadermygames",
+    "provider": "lichess",
+    "username": "LeaderMyGames",
+    "firstSeen": 1642513607083,
+    "lastSeen": 1642515343304,
+    "firstSeenTime": "1:46:47 PM",
+    "lastSeenTime": "2:15:43 PM",
+    "onlineDurationMins": 28.93701666666667
+  }
+}
