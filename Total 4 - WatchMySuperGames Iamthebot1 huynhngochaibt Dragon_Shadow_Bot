@@ -1,0 +1,42 @@
+{
+  "watchmysupergames@lichess": {
+    "id": "watchmysupergames",
+    "provider": "lichess",
+    "username": "WatchMySuperGames",
+    "firstSeen": 1642512066064,
+    "lastSeen": 1642512874342,
+    "firstSeenTime": "1:21:06 PM",
+    "lastSeenTime": "1:34:34 PM",
+    "onlineDurationMins": 13.4713
+  },
+  "iamthebot1@lichess": {
+    "id": "iamthebot1",
+    "provider": "lichess",
+    "username": "Iamthebot1",
+    "firstSeen": 1642512473403,
+    "lastSeen": 1642512997735,
+    "firstSeenTime": "1:27:53 PM",
+    "lastSeenTime": "1:36:25 PM",
+    "onlineDurationMins": 8.531316666666667
+  },
+  "huynhngochaibt@lichess": {
+    "id": "huynhngochaibt",
+    "provider": "lichess",
+    "username": "huynhngochaibt",
+    "firstSeen": 1642512595155,
+    "lastSeen": 1642512604747,
+    "firstSeenTime": "1:29:55 PM",
+    "lastSeenTime": "1:30:04 PM",
+    "onlineDurationMins": 0.15986666666666666
+  },
+  "dragon_shadow_bot@lichess": {
+    "id": "dragon_shadow_bot",
+    "provider": "lichess",
+    "username": "Dragon_Shadow_Bot",
+    "firstSeen": 1642512608306,
+    "lastSeen": 1642512633072,
+    "firstSeenTime": "1:30:08 PM",
+    "lastSeenTime": "1:30:33 PM",
+    "onlineDurationMins": 0.41276666666666667
+  }
+}
