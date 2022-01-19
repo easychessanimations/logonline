@@ -1,0 +1,19 @@
+{
+  "snow_reader@lichess": {
+    "id": "snow_reader",
+    "provider": "lichess",
+    "username": "Snow_Reader",
+    "firstSeen": 1642581913926,
+    "lastSeen": 1642588182929,
+    "firstSeenTime": "8:45:13 AM",
+    "lastSeenTime": "9:55:52 AM",
+    "onlineDurationMins": 70.63915
+  },
+  "leadermygames@lichess": {
+    "id": "leadermygames",
+    "provider": "lichess",
+    "username": "LeaderMyGames",
+    "firstSeen": 1642587518006,
+    "lastSeen": 1642587785634
+  }
+}
