@@ -1,0 +1,49 @@
+{
+  "snow_reader@lichess": {
+    "id": "snow_reader",
+    "provider": "lichess",
+    "username": "Snow_Reader",
+    "firstSeen": 1642581913926,
+    "lastSeen": 1642588691025,
+    "firstSeenTime": "8:45:13 AM",
+    "lastSeenTime": "10:35:49 AM",
+    "onlineDurationMins": 110.5975
+  },
+  "leadermygames@lichess": {
+    "id": "leadermygames",
+    "provider": "lichess",
+    "username": "LeaderMyGames",
+    "firstSeen": 1642587518006,
+    "lastSeen": 1642588754405,
+    "firstSeenTime": "10:18:38 AM",
+    "lastSeenTime": "10:35:56 AM",
+    "onlineDurationMins": 17.31025
+  },
+  "road-to-uturnn@lichess": {
+    "id": "road-to-uturnn",
+    "provider": "lichess",
+    "username": "Road-to-Uturnn",
+    "firstSeen": 1642588216122,
+    "lastSeen": 1642588231807,
+    "firstSeenTime": "10:30:16 AM",
+    "lastSeenTime": "10:30:31 AM",
+    "onlineDurationMins": 0.2614166666666667
+  },
+  "weakbutstrong@lichess": {
+    "id": "weakbutstrong",
+    "provider": "lichess",
+    "username": "WEAKBUTSTRONG",
+    "firstSeen": 1642588305416,
+    "lastSeen": 1642588533747,
+    "firstSeenTime": "10:31:45 AM",
+    "lastSeenTime": "10:35:33 AM",
+    "onlineDurationMins": 3.8055166666666667
+  },
+  "ujwal1001@lichess": {
+    "id": "ujwal1001",
+    "provider": "lichess",
+    "username": "Ujwal1001",
+    "firstSeen": 1642588758985,
+    "lastSeen": 1642588758985
+  }
+}
