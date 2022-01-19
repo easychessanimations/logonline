@@ -1,0 +1,39 @@
+{
+  "snow_reader@lichess": {
+    "id": "snow_reader",
+    "provider": "lichess",
+    "username": "Snow_Reader",
+    "firstSeen": 1642581913926,
+    "lastSeen": 1642586754328,
+    "firstSeenTime": "8:45:13 AM",
+    "lastSeenTime": "9:55:52 AM",
+    "onlineDurationMins": 70.63915
+  },
+  "road-to-uturnn@lichess": {
+    "id": "road-to-uturnn",
+    "provider": "lichess",
+    "username": "Road-to-Uturnn",
+    "firstSeen": 1642585955896,
+    "lastSeen": 1642586069627,
+    "firstSeenTime": "9:52:35 AM",
+    "lastSeenTime": "9:54:29 AM",
+    "onlineDurationMins": 1.8955166666666667
+  },
+  "aarohandatta_ivws@lichess": {
+    "id": "aarohandatta_ivws",
+    "provider": "lichess",
+    "username": "aarohandatta_ivws",
+    "firstSeen": 1642585969050,
+    "lastSeen": 1642586022287,
+    "firstSeenTime": "9:52:49 AM",
+    "lastSeenTime": "9:53:42 AM",
+    "onlineDurationMins": 0.8872833333333333
+  },
+  "weakbutstrong@lichess": {
+    "id": "weakbutstrong",
+    "provider": "lichess",
+    "username": "WEAKBUTSTRONG",
+    "firstSeen": 1642586760750,
+    "lastSeen": 1642586760750
+  }
+}
