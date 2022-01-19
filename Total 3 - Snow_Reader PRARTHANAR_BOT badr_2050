@@ -1,0 +1,23 @@
+{
+  "snow_reader@lichess": {
+    "id": "snow_reader",
+    "provider": "lichess",
+    "username": "Snow_Reader",
+    "firstSeen": 1642581913926,
+    "lastSeen": 1642583926504
+  },
+  "prarthanar_bot@lichess": {
+    "id": "prarthanar_bot",
+    "provider": "lichess",
+    "username": "PRARTHANAR_BOT",
+    "firstSeen": 1642583657441,
+    "lastSeen": 1642584076704
+  },
+  "badr_2050@lichess": {
+    "id": "badr_2050",
+    "provider": "lichess",
+    "username": "badr_2050",
+    "firstSeen": 1642584187307,
+    "lastSeen": 1642584187307
+  }
+}
