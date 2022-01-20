@@ -1,0 +1,19 @@
+{
+  "skybeam@lichess": {
+    "id": "skybeam",
+    "provider": "lichess",
+    "username": "Skybeam",
+    "firstSeen": 1642685178647,
+    "lastSeen": 1642688360793,
+    "firstSeenTime": "1:26:18 PM",
+    "lastSeenTime": "2:09:31 PM",
+    "onlineDurationMins": 43.2186
+  },
+  "bot-binary@lichess": {
+    "id": "bot-binary",
+    "provider": "lichess",
+    "username": "Bot-Binary",
+    "firstSeen": 1642688624775,
+    "lastSeen": 1642688768253
+  }
+}
