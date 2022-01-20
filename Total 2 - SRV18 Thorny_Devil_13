@@ -1,0 +1,19 @@
+{
+  "srv18@lichess": {
+    "id": "srv18",
+    "provider": "lichess",
+    "username": "SRV18",
+    "firstSeen": 1642669415024,
+    "lastSeen": 1642672491665,
+    "firstSeenTime": "9:03:35 AM",
+    "lastSeenTime": "9:41:49 AM",
+    "onlineDurationMins": 38.24861666666666
+  },
+  "thorny_devil_13@lichess": {
+    "id": "thorny_devil_13",
+    "provider": "lichess",
+    "username": "Thorny_Devil_13",
+    "firstSeen": 1642672770905,
+    "lastSeen": 1642672770905
+  }
+}
