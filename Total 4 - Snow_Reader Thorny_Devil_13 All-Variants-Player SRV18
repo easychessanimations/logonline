@@ -1,0 +1,39 @@
+{
+  "snow_reader@lichess": {
+    "id": "snow_reader",
+    "provider": "lichess",
+    "username": "Snow_Reader",
+    "firstSeen": 1642666958918,
+    "lastSeen": 1642668933956,
+    "firstSeenTime": "8:22:38 AM",
+    "lastSeenTime": "8:55:33 AM",
+    "onlineDurationMins": 32.9173
+  },
+  "thorny_devil_13@lichess": {
+    "id": "thorny_devil_13",
+    "provider": "lichess",
+    "username": "Thorny_Devil_13",
+    "firstSeen": 1642668189428,
+    "lastSeen": 1642669036999,
+    "firstSeenTime": "8:43:09 AM",
+    "lastSeenTime": "8:57:16 AM",
+    "onlineDurationMins": 14.126183333333334
+  },
+  "all-variants-player@lichess": {
+    "id": "all-variants-player",
+    "provider": "lichess",
+    "username": "All-Variants-Player",
+    "firstSeen": 1642668579750,
+    "lastSeen": 1642669373597,
+    "firstSeenTime": "8:49:39 AM",
+    "lastSeenTime": "8:56:33 AM",
+    "onlineDurationMins": 6.887783333333333
+  },
+  "srv18@lichess": {
+    "id": "srv18",
+    "provider": "lichess",
+    "username": "SRV18",
+    "firstSeen": 1642669415024,
+    "lastSeen": 1642669415024
+  }
+}
