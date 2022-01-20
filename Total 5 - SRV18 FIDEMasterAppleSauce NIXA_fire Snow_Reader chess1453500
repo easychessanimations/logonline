@@ -1,0 +1,40 @@
+{
+  "srv18@lichess": {
+    "id": "srv18",
+    "provider": "lichess",
+    "username": "SRV18",
+    "firstSeen": 1642669415024,
+    "lastSeen": 1642676150556,
+    "firstSeenTime": "9:03:35 AM",
+    "lastSeenTime": "10:41:25 AM",
+    "onlineDurationMins": 97.83718333333333
+  },
+  "fidemasterapplesauce@lichess": {
+    "id": "fidemasterapplesauce",
+    "provider": "lichess",
+    "username": "FIDEMasterAppleSauce",
+    "firstSeen": 1642675351463,
+    "lastSeen": 1642676554687
+  },
+  "nixa_fire@lichess": {
+    "id": "nixa_fire",
+    "provider": "lichess",
+    "username": "NIXA_fire",
+    "firstSeen": 1642676242006,
+    "lastSeen": 1642676299369
+  },
+  "snow_reader@lichess": {
+    "id": "snow_reader",
+    "provider": "lichess",
+    "username": "Snow_Reader",
+    "firstSeen": 1642676497389,
+    "lastSeen": 1642676646998
+  },
+  "chess1453500@lichess": {
+    "id": "chess1453500",
+    "provider": "lichess",
+    "username": "chess1453500",
+    "firstSeen": 1642676674404,
+    "lastSeen": 1642676674404
+  }
+}
