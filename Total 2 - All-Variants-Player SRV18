@@ -1,0 +1,19 @@
+{
+  "all-variants-player@lichess": {
+    "id": "all-variants-player",
+    "provider": "lichess",
+    "username": "All-Variants-Player",
+    "firstSeen": 1642668579750,
+    "lastSeen": 1642670583201,
+    "firstSeenTime": "8:49:39 AM",
+    "lastSeenTime": "8:56:33 AM",
+    "onlineDurationMins": 6.887783333333333
+  },
+  "srv18@lichess": {
+    "id": "srv18",
+    "provider": "lichess",
+    "username": "SRV18",
+    "firstSeen": 1642669415024,
+    "lastSeen": 1642670654800
+  }
+}
