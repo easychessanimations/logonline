@@ -1,0 +1,29 @@
+{
+  "chess1000bot@lichess": {
+    "id": "chess1000bot",
+    "provider": "lichess",
+    "username": "CHESS1000BOT",
+    "firstSeen": 1642690990101,
+    "lastSeen": 1642695715215,
+    "firstSeenTime": "3:03:10 PM",
+    "lastSeenTime": "4:19:15 PM",
+    "onlineDurationMins": 76.0905
+  },
+  "soyunbotenajedrez_20@lichess": {
+    "id": "soyunbotenajedrez_20",
+    "provider": "lichess",
+    "username": "soyunbotenajedrez_20",
+    "firstSeen": 1642693806245,
+    "lastSeen": 1642695741737,
+    "firstSeenTime": "3:50:06 PM",
+    "lastSeenTime": "4:08:38 PM",
+    "onlineDurationMins": 18.538716666666666
+  },
+  "pugfitnes11@lichess": {
+    "id": "pugfitnes11",
+    "provider": "lichess",
+    "username": "pugfitnes11",
+    "firstSeen": 1642695757287,
+    "lastSeen": 1642695757287
+  }
+}
