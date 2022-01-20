@@ -1,0 +1,26 @@
+{
+  "skybeam@lichess": {
+    "id": "skybeam",
+    "provider": "lichess",
+    "username": "Skybeam",
+    "firstSeen": 1642685178647,
+    "lastSeen": 1642690955603,
+    "firstSeenTime": "1:26:18 PM",
+    "lastSeenTime": "2:45:53 PM",
+    "onlineDurationMins": 79.57968333333334
+  },
+  "masterfideelo1900@lichess": {
+    "id": "masterfideelo1900",
+    "provider": "lichess",
+    "username": "MasterFideElo1900",
+    "firstSeen": 1642690779799,
+    "lastSeen": 1642690900659
+  },
+  "chess1000bot@lichess": {
+    "id": "chess1000bot",
+    "provider": "lichess",
+    "username": "CHESS1000BOT",
+    "firstSeen": 1642690990101,
+    "lastSeen": 1642691003841
+  }
+}
