@@ -1,0 +1,29 @@
+{
+  "thorny_devil_13@lichess": {
+    "id": "thorny_devil_13",
+    "provider": "lichess",
+    "username": "Thorny_Devil_13",
+    "firstSeen": 1642668189428,
+    "lastSeen": 1642669723801,
+    "firstSeenTime": "8:43:09 AM",
+    "lastSeenTime": "8:57:16 AM",
+    "onlineDurationMins": 14.126183333333334
+  },
+  "all-variants-player@lichess": {
+    "id": "all-variants-player",
+    "provider": "lichess",
+    "username": "All-Variants-Player",
+    "firstSeen": 1642668579750,
+    "lastSeen": 1642670583201,
+    "firstSeenTime": "8:49:39 AM",
+    "lastSeenTime": "8:56:33 AM",
+    "onlineDurationMins": 6.887783333333333
+  },
+  "srv18@lichess": {
+    "id": "srv18",
+    "provider": "lichess",
+    "username": "SRV18",
+    "firstSeen": 1642669415024,
+    "lastSeen": 1642670363695
+  }
+}
