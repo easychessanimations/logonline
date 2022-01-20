@@ -1,0 +1,23 @@
+{
+  "chess1000bot@lichess": {
+    "id": "chess1000bot",
+    "provider": "lichess",
+    "username": "CHESS1000BOT",
+    "firstSeen": 1642698424284,
+    "lastSeen": 1642707205640
+  },
+  "soyunbotenajedrez_20@lichess": {
+    "id": "soyunbotenajedrez_20",
+    "provider": "lichess",
+    "username": "soyunbotenajedrez_20",
+    "firstSeen": 1642705202355,
+    "lastSeen": 1642707221713
+  },
+  "veba_bot@lichess": {
+    "id": "veba_bot",
+    "provider": "lichess",
+    "username": "veba_bot",
+    "firstSeen": 1642707222929,
+    "lastSeen": 1642707222929
+  }
+}
