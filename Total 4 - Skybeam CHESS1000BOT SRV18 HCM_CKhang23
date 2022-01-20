@@ -1,0 +1,39 @@
+{
+  "skybeam@lichess": {
+    "id": "skybeam",
+    "provider": "lichess",
+    "username": "Skybeam",
+    "firstSeen": 1642685178647,
+    "lastSeen": 1642693125799,
+    "firstSeenTime": "1:26:18 PM",
+    "lastSeenTime": "3:13:36 PM",
+    "onlineDurationMins": 107.29943333333334
+  },
+  "chess1000bot@lichess": {
+    "id": "chess1000bot",
+    "provider": "lichess",
+    "username": "CHESS1000BOT",
+    "firstSeen": 1642690990101,
+    "lastSeen": 1642693237773,
+    "firstSeenTime": "3:03:10 PM",
+    "lastSeenTime": "3:19:17 PM",
+    "onlineDurationMins": 16.127416666666665
+  },
+  "srv18@lichess": {
+    "id": "srv18",
+    "provider": "lichess",
+    "username": "SRV18",
+    "firstSeen": 1642691573389,
+    "lastSeen": 1642693077304,
+    "firstSeenTime": "3:12:53 PM",
+    "lastSeenTime": "3:16:22 PM",
+    "onlineDurationMins": 3.47725
+  },
+  "hcm_ckhang23@lichess": {
+    "id": "hcm_ckhang23",
+    "provider": "lichess",
+    "username": "HCM_CKhang23",
+    "firstSeen": 1642692269965,
+    "lastSeen": 1642692479663
+  }
+}
