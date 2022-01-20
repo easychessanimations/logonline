@@ -1,0 +1,19 @@
+{
+  "srv18@lichess": {
+    "id": "srv18",
+    "provider": "lichess",
+    "username": "SRV18",
+    "firstSeen": 1642669415024,
+    "lastSeen": 1642675285255,
+    "firstSeenTime": "9:03:35 AM",
+    "lastSeenTime": "10:41:25 AM",
+    "onlineDurationMins": 97.83718333333333
+  },
+  "fidemasterapplesauce@lichess": {
+    "id": "fidemasterapplesauce",
+    "provider": "lichess",
+    "username": "FIDEMasterAppleSauce",
+    "firstSeen": 1642675351463,
+    "lastSeen": 1642675351463
+  }
+}
