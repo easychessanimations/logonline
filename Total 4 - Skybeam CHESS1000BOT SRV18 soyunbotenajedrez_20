@@ -1,0 +1,39 @@
+{
+  "skybeam@lichess": {
+    "id": "skybeam",
+    "provider": "lichess",
+    "username": "Skybeam",
+    "firstSeen": 1642685178647,
+    "lastSeen": 1642693724389,
+    "firstSeenTime": "1:26:18 PM",
+    "lastSeenTime": "3:13:36 PM",
+    "onlineDurationMins": 107.29943333333334
+  },
+  "chess1000bot@lichess": {
+    "id": "chess1000bot",
+    "provider": "lichess",
+    "username": "CHESS1000BOT",
+    "firstSeen": 1642690990101,
+    "lastSeen": 1642693628242,
+    "firstSeenTime": "3:03:10 PM",
+    "lastSeenTime": "3:19:17 PM",
+    "onlineDurationMins": 16.127416666666665
+  },
+  "srv18@lichess": {
+    "id": "srv18",
+    "provider": "lichess",
+    "username": "SRV18",
+    "firstSeen": 1642691573389,
+    "lastSeen": 1642693740746,
+    "firstSeenTime": "3:12:53 PM",
+    "lastSeenTime": "3:16:22 PM",
+    "onlineDurationMins": 3.47725
+  },
+  "soyunbotenajedrez_20@lichess": {
+    "id": "soyunbotenajedrez_20",
+    "provider": "lichess",
+    "username": "soyunbotenajedrez_20",
+    "firstSeen": 1642693806245,
+    "lastSeen": 1642693806245
+  }
+}
