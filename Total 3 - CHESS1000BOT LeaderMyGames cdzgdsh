@@ -1,0 +1,23 @@
+{
+  "chess1000bot@lichess": {
+    "id": "chess1000bot",
+    "provider": "lichess",
+    "username": "CHESS1000BOT",
+    "firstSeen": 1642734469103,
+    "lastSeen": 1642738143588
+  },
+  "leadermygames@lichess": {
+    "id": "leadermygames",
+    "provider": "lichess",
+    "username": "LeaderMyGames",
+    "firstSeen": 1642738095113,
+    "lastSeen": 1642738258671
+  },
+  "cdzgdsh@lichess": {
+    "id": "cdzgdsh",
+    "provider": "lichess",
+    "username": "cdzgdsh",
+    "firstSeen": 1642738261772,
+    "lastSeen": 1642738261772
+  }
+}
