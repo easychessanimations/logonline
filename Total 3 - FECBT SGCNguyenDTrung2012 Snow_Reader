@@ -1,0 +1,32 @@
+{
+  "fecbt@lichess": {
+    "id": "fecbt",
+    "provider": "lichess",
+    "username": "FECBT",
+    "firstSeen": 1642755846411,
+    "lastSeen": 1642761849367,
+    "firstSeenTime": "9:04:06 AM",
+    "lastSeenTime": "10:44:09 AM",
+    "onlineDurationMins": 100.04926666666667
+  },
+  "sgcnguyendtrung2012@lichess": {
+    "id": "sgcnguyendtrung2012",
+    "provider": "lichess",
+    "username": "SGCNguyenDTrung2012",
+    "firstSeen": 1642761299456,
+    "lastSeen": 1642761397121,
+    "firstSeenTime": "10:34:59 AM",
+    "lastSeenTime": "10:36:37 AM",
+    "onlineDurationMins": 1.62775
+  },
+  "snow_reader@lichess": {
+    "id": "snow_reader",
+    "provider": "lichess",
+    "username": "Snow_Reader",
+    "firstSeen": 1642761640782,
+    "lastSeen": 1642761660986,
+    "firstSeenTime": "10:40:40 AM",
+    "lastSeenTime": "10:41:00 AM",
+    "onlineDurationMins": 0.33673333333333333
+  }
+}
