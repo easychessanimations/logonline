@@ -1,0 +1,51 @@
+{
+  "chess1000bot@lichess": {
+    "id": "chess1000bot",
+    "provider": "lichess",
+    "username": "CHESS1000BOT",
+    "firstSeen": 1642734469103,
+    "lastSeen": 1642745368312
+  },
+  "leadermygames@lichess": {
+    "id": "leadermygames",
+    "provider": "lichess",
+    "username": "LeaderMyGames",
+    "firstSeen": 1642738095113,
+    "lastSeen": 1642745949538
+  },
+  "srv18@lichess": {
+    "id": "srv18",
+    "provider": "lichess",
+    "username": "SRV18",
+    "firstSeen": 1642738654547,
+    "lastSeen": 1642745897555
+  },
+  "watchmysupergames@lichess": {
+    "id": "watchmysupergames",
+    "provider": "lichess",
+    "username": "WatchMySuperGames",
+    "firstSeen": 1642739329562,
+    "lastSeen": 1642745691028
+  },
+  "midnightshadow_03@lichess": {
+    "id": "midnightshadow_03",
+    "provider": "lichess",
+    "username": "midnightshadow_03",
+    "firstSeen": 1642741299716,
+    "lastSeen": 1642745804735
+  },
+  "utsa-bot@lichess": {
+    "id": "utsa-bot",
+    "provider": "lichess",
+    "username": "Utsa-Bot",
+    "firstSeen": 1642745778687,
+    "lastSeen": 1642745790629
+  },
+  "chess2022200@lichess": {
+    "id": "chess2022200",
+    "provider": "lichess",
+    "username": "chess2022200",
+    "firstSeen": 1642745965561,
+    "lastSeen": 1642745965561
+  }
+}
