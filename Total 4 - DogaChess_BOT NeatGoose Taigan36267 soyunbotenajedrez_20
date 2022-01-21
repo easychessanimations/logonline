@@ -1,0 +1,30 @@
+{
+  "dogachess_bot@lichess": {
+    "id": "dogachess_bot",
+    "provider": "lichess",
+    "username": "DogaChess_BOT",
+    "firstSeen": 1642780519913,
+    "lastSeen": 1642780804496
+  },
+  "neatgoose@lichess": {
+    "id": "neatgoose",
+    "provider": "lichess",
+    "username": "NeatGoose",
+    "firstSeen": 1642780519974,
+    "lastSeen": 1642780733913
+  },
+  "taigan36267@lichess": {
+    "id": "taigan36267",
+    "provider": "lichess",
+    "username": "Taigan36267",
+    "firstSeen": 1642780555413,
+    "lastSeen": 1642780726595
+  },
+  "soyunbotenajedrez_20@lichess": {
+    "id": "soyunbotenajedrez_20",
+    "provider": "lichess",
+    "username": "soyunbotenajedrez_20",
+    "firstSeen": 1642781036172,
+    "lastSeen": 1642781036172
+  }
+}
