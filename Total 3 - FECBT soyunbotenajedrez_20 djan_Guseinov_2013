@@ -1,0 +1,32 @@
+{
+  "fecbt@lichess": {
+    "id": "fecbt",
+    "provider": "lichess",
+    "username": "FECBT",
+    "firstSeen": 1642775963650,
+    "lastSeen": 1642778723270,
+    "firstSeenTime": "2:39:23 PM",
+    "lastSeenTime": "3:25:23 PM",
+    "onlineDurationMins": 45.99366666666667
+  },
+  "soyunbotenajedrez_20@lichess": {
+    "id": "soyunbotenajedrez_20",
+    "provider": "lichess",
+    "username": "soyunbotenajedrez_20",
+    "firstSeen": 1642777078551,
+    "lastSeen": 1642778884925,
+    "firstSeenTime": "2:57:58 PM",
+    "lastSeenTime": "3:28:04 PM",
+    "onlineDurationMins": 30.106233333333332
+  },
+  "djan_guseinov_2013@lichess": {
+    "id": "djan_guseinov_2013",
+    "provider": "lichess",
+    "username": "djan_Guseinov_2013",
+    "firstSeen": 1642778775855,
+    "lastSeen": 1642778777912,
+    "firstSeenTime": "3:26:15 PM",
+    "lastSeenTime": "3:26:17 PM",
+    "onlineDurationMins": 0.03428333333333333
+  }
+}
