@@ -1,0 +1,51 @@
+{
+  "chess1000bot@lichess": {
+    "id": "chess1000bot",
+    "provider": "lichess",
+    "username": "CHESS1000BOT",
+    "firstSeen": 1642734469103,
+    "lastSeen": 1642740145157
+  },
+  "leadermygames@lichess": {
+    "id": "leadermygames",
+    "provider": "lichess",
+    "username": "LeaderMyGames",
+    "firstSeen": 1642738095113,
+    "lastSeen": 1642739991780
+  },
+  "srv18@lichess": {
+    "id": "srv18",
+    "provider": "lichess",
+    "username": "SRV18",
+    "firstSeen": 1642738654547,
+    "lastSeen": 1642740159374
+  },
+  "watchmysupergames@lichess": {
+    "id": "watchmysupergames",
+    "provider": "lichess",
+    "username": "WatchMySuperGames",
+    "firstSeen": 1642739329562,
+    "lastSeen": 1642739996740
+  },
+  "thorny_devil_13@lichess": {
+    "id": "thorny_devil_13",
+    "provider": "lichess",
+    "username": "Thorny_Devil_13",
+    "firstSeen": 1642739959569,
+    "lastSeen": 1642740158818
+  },
+  "snow_reader@lichess": {
+    "id": "snow_reader",
+    "provider": "lichess",
+    "username": "Snow_Reader",
+    "firstSeen": 1642740063121,
+    "lastSeen": 1642740158840
+  },
+  "gdaditya@lichess": {
+    "id": "gdaditya",
+    "provider": "lichess",
+    "username": "gdaditya",
+    "firstSeen": 1642740230281,
+    "lastSeen": 1642740230281
+  }
+}
