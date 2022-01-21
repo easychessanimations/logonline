@@ -1,0 +1,29 @@
+{
+  "leadermygames@lichess": {
+    "id": "leadermygames",
+    "provider": "lichess",
+    "username": "LeAdErMyGaMeS",
+    "firstSeen": 1642766412307,
+    "lastSeen": 1642771674105,
+    "firstSeenTime": "12:00:12 PM",
+    "lastSeenTime": "12:38:10 PM",
+    "onlineDurationMins": 37.9646
+  },
+  "fecbt@lichess": {
+    "id": "fecbt",
+    "provider": "lichess",
+    "username": "FECBT",
+    "firstSeen": 1642766422089,
+    "lastSeen": 1642771103181,
+    "firstSeenTime": "12:00:22 PM",
+    "lastSeenTime": "12:34:27 PM",
+    "onlineDurationMins": 34.0832
+  },
+  "sl-bot-2022@lichess": {
+    "id": "sl-bot-2022",
+    "provider": "lichess",
+    "username": "SL-BOT-2022",
+    "firstSeen": 1642771679085,
+    "lastSeen": 1642771679085
+  }
+}
