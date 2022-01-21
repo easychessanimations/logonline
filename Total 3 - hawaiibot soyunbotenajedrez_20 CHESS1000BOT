@@ -1,0 +1,26 @@
+{
+  "hawaiibot@lichess": {
+    "id": "hawaiibot",
+    "provider": "lichess",
+    "username": "hawaiibot",
+    "firstSeen": 1642729109114,
+    "lastSeen": 1642730612723,
+    "firstSeenTime": "1:38:29 AM",
+    "lastSeenTime": "1:51:20 AM",
+    "onlineDurationMins": 12.860566666666667
+  },
+  "soyunbotenajedrez_20@lichess": {
+    "id": "soyunbotenajedrez_20",
+    "provider": "lichess",
+    "username": "soyunbotenajedrez_20",
+    "firstSeen": 1642730464549,
+    "lastSeen": 1642730490115
+  },
+  "chess1000bot@lichess": {
+    "id": "chess1000bot",
+    "provider": "lichess",
+    "username": "CHESS1000BOT",
+    "firstSeen": 1642730627861,
+    "lastSeen": 1642730627861
+  }
+}
