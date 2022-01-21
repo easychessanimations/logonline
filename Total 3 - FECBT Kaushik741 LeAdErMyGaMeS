@@ -1,0 +1,29 @@
+{
+  "fecbt@lichess": {
+    "id": "fecbt",
+    "provider": "lichess",
+    "username": "FECBT",
+    "firstSeen": 1642764443352,
+    "lastSeen": 1642765103028,
+    "firstSeenTime": "11:27:23 AM",
+    "lastSeenTime": "11:38:23 AM",
+    "onlineDurationMins": 10.9946
+  },
+  "kaushik741@lichess": {
+    "id": "kaushik741",
+    "provider": "lichess",
+    "username": "Kaushik741",
+    "firstSeen": 1642765265723,
+    "lastSeen": 1642765280573,
+    "firstSeenTime": "11:41:05 AM",
+    "lastSeenTime": "11:41:20 AM",
+    "onlineDurationMins": 0.2475
+  },
+  "leadermygames@lichess": {
+    "id": "leadermygames",
+    "provider": "lichess",
+    "username": "LeAdErMyGaMeS",
+    "firstSeen": 1642765427804,
+    "lastSeen": 1642765427804
+  }
+}
