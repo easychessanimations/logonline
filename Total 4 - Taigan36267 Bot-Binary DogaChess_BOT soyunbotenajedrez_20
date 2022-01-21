@@ -1,0 +1,39 @@
+{
+  "taigan36267@lichess": {
+    "id": "taigan36267",
+    "provider": "lichess",
+    "username": "Taigan36267",
+    "firstSeen": 1642781400726,
+    "lastSeen": 1642781425494,
+    "firstSeenTime": "4:10:00 PM",
+    "lastSeenTime": "4:10:25 PM",
+    "onlineDurationMins": 0.4128
+  },
+  "bot-binary@lichess": {
+    "id": "bot-binary",
+    "provider": "lichess",
+    "username": "Bot-Binary",
+    "firstSeen": 1642781534155,
+    "lastSeen": 1642781833826,
+    "firstSeenTime": "4:12:14 PM",
+    "lastSeenTime": "4:13:57 PM",
+    "onlineDurationMins": 1.71575
+  },
+  "dogachess_bot@lichess": {
+    "id": "dogachess_bot",
+    "provider": "lichess",
+    "username": "DogaChess_BOT",
+    "firstSeen": 1642781544174,
+    "lastSeen": 1642781544984,
+    "firstSeenTime": "4:12:24 PM",
+    "lastSeenTime": "4:12:24 PM",
+    "onlineDurationMins": 0.0135
+  },
+  "soyunbotenajedrez_20@lichess": {
+    "id": "soyunbotenajedrez_20",
+    "provider": "lichess",
+    "username": "soyunbotenajedrez_20",
+    "firstSeen": 1642781881188,
+    "lastSeen": 1642781881188
+  }
+}
