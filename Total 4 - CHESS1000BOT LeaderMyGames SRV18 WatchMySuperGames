@@ -1,0 +1,30 @@
+{
+  "chess1000bot@lichess": {
+    "id": "chess1000bot",
+    "provider": "lichess",
+    "username": "CHESS1000BOT",
+    "firstSeen": 1642734469103,
+    "lastSeen": 1642739322850
+  },
+  "leadermygames@lichess": {
+    "id": "leadermygames",
+    "provider": "lichess",
+    "username": "LeaderMyGames",
+    "firstSeen": 1642738095113,
+    "lastSeen": 1642739109494
+  },
+  "srv18@lichess": {
+    "id": "srv18",
+    "provider": "lichess",
+    "username": "SRV18",
+    "firstSeen": 1642738654547,
+    "lastSeen": 1642739322776
+  },
+  "watchmysupergames@lichess": {
+    "id": "watchmysupergames",
+    "provider": "lichess",
+    "username": "WatchMySuperGames",
+    "firstSeen": 1642739329562,
+    "lastSeen": 1642739329562
+  }
+}
