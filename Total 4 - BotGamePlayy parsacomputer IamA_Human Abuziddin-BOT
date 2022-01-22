@@ -1,0 +1,39 @@
+{
+  "botgameplayy@lichess": {
+    "id": "botgameplayy",
+    "provider": "lichess",
+    "username": "BotGamePlayy",
+    "firstSeen": 1642866514706,
+    "lastSeen": 1642875753599,
+    "firstSeenTime": "3:48:34 PM",
+    "lastSeenTime": "6:11:43 PM",
+    "onlineDurationMins": 143.14883333333333
+  },
+  "parsacomputer@lichess": {
+    "id": "parsacomputer",
+    "provider": "lichess",
+    "username": "parsacomputer",
+    "firstSeen": 1642868368122,
+    "lastSeen": 1642875753189,
+    "firstSeenTime": "4:19:28 PM",
+    "lastSeenTime": "6:20:24 PM",
+    "onlineDurationMins": 120.93733333333333
+  },
+  "iama_human@lichess": {
+    "id": "iama_human",
+    "provider": "lichess",
+    "username": "IamA_Human",
+    "firstSeen": 1642874993523,
+    "lastSeen": 1642875035044,
+    "firstSeenTime": "6:09:53 PM",
+    "lastSeenTime": "6:10:35 PM",
+    "onlineDurationMins": 0.6920166666666666
+  },
+  "abuziddin-bot@lichess": {
+    "id": "abuziddin-bot",
+    "provider": "lichess",
+    "username": "Abuziddin-BOT",
+    "firstSeen": 1642875779330,
+    "lastSeen": 1642875779331
+  }
+}
