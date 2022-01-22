@@ -1,0 +1,32 @@
+{
+  "bot123451234123121@lichess": {
+    "id": "bot123451234123121",
+    "provider": "lichess",
+    "username": "BOT123451234123121",
+    "firstSeen": 1642853216345,
+    "lastSeen": 1642857759277,
+    "firstSeenTime": "12:06:56 PM",
+    "lastSeenTime": "12:58:07 PM",
+    "onlineDurationMins": 51.19113333333333
+  },
+  "nidabtto@lichess": {
+    "id": "nidabtto",
+    "provider": "lichess",
+    "username": "nidabtto",
+    "firstSeen": 1642853898454,
+    "lastSeen": 1642857990038,
+    "firstSeenTime": "12:18:18 PM",
+    "lastSeenTime": "1:04:30 PM",
+    "onlineDurationMins": 46.19586666666667
+  },
+  "robot-chaniru_perera@lichess": {
+    "id": "robot-chaniru_perera",
+    "provider": "lichess",
+    "username": "Robot-Chaniru_Perera",
+    "firstSeen": 1642855682233,
+    "lastSeen": 1642857096755,
+    "firstSeenTime": "12:48:02 PM",
+    "lastSeenTime": "1:06:09 PM",
+    "onlineDurationMins": 18.126166666666666
+  }
+}
