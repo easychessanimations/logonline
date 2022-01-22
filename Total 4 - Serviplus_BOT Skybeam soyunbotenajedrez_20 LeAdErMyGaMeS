@@ -1,0 +1,30 @@
+{
+  "serviplus_bot@lichess": {
+    "id": "serviplus_bot",
+    "provider": "lichess",
+    "username": "Serviplus_BOT",
+    "firstSeen": 1642807993124,
+    "lastSeen": 1642810851302
+  },
+  "skybeam@lichess": {
+    "id": "skybeam",
+    "provider": "lichess",
+    "username": "Skybeam",
+    "firstSeen": 1642808866448,
+    "lastSeen": 1642811242137
+  },
+  "soyunbotenajedrez_20@lichess": {
+    "id": "soyunbotenajedrez_20",
+    "provider": "lichess",
+    "username": "soyunbotenajedrez_20",
+    "firstSeen": 1642810068239,
+    "lastSeen": 1642811456612
+  },
+  "leadermygames@lichess": {
+    "id": "leadermygames",
+    "provider": "lichess",
+    "username": "LeAdErMyGaMeS",
+    "firstSeen": 1642811224345,
+    "lastSeen": 1642811510013
+  }
+}
