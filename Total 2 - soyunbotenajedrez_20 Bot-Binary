@@ -4,13 +4,16 @@
     "provider": "lichess",
     "username": "soyunbotenajedrez_20",
     "firstSeen": 1642975486558,
-    "lastSeen": 1642975497368
+    "lastSeen": 1642979023175,
+    "firstSeenTime": "10:04:46 PM",
+    "lastSeenTime": "10:51:43 PM",
+    "onlineDurationMins": 46.94388333333333
   },
   "bot-binary@lichess": {
     "id": "bot-binary",
     "provider": "lichess",
     "username": "Bot-Binary",
-    "firstSeen": 1642975497549,
-    "lastSeen": 1642975497549
+    "firstSeen": 1642979068482,
+    "lastSeen": 1642979347814
   }
 }
