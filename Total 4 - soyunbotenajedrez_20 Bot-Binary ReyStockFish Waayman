@@ -1,0 +1,30 @@
+{
+  "soyunbotenajedrez_20@lichess": {
+    "id": "soyunbotenajedrez_20",
+    "provider": "lichess",
+    "username": "soyunbotenajedrez_20",
+    "firstSeen": 1642975486558,
+    "lastSeen": 1642975498292
+  },
+  "bot-binary@lichess": {
+    "id": "bot-binary",
+    "provider": "lichess",
+    "username": "Bot-Binary",
+    "firstSeen": 1642975497549,
+    "lastSeen": 1642975509758
+  },
+  "reystockfish@lichess": {
+    "id": "reystockfish",
+    "provider": "lichess",
+    "username": "ReyStockFish",
+    "firstSeen": 1642975519814,
+    "lastSeen": 1642975704063
+  },
+  "waayman@lichess": {
+    "id": "waayman",
+    "provider": "lichess",
+    "username": "Waayman",
+    "firstSeen": 1642975723530,
+    "lastSeen": 1642975723530
+  }
+}
