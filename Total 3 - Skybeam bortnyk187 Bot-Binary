@@ -1,0 +1,29 @@
+{
+  "skybeam@lichess": {
+    "id": "skybeam",
+    "provider": "lichess",
+    "username": "Skybeam",
+    "firstSeen": 1642948596146,
+    "lastSeen": 1642950559339,
+    "firstSeenTime": "2:36:36 PM",
+    "lastSeenTime": "3:09:19 PM",
+    "onlineDurationMins": 32.719883333333335
+  },
+  "bortnyk187@lichess": {
+    "id": "bortnyk187",
+    "provider": "lichess",
+    "username": "bortnyk187",
+    "firstSeen": 1642950723411,
+    "lastSeen": 1642950841291,
+    "firstSeenTime": "3:12:03 PM",
+    "lastSeenTime": "3:14:01 PM",
+    "onlineDurationMins": 1.9646666666666666
+  },
+  "bot-binary@lichess": {
+    "id": "bot-binary",
+    "provider": "lichess",
+    "username": "Bot-Binary",
+    "firstSeen": 1642951008460,
+    "lastSeen": 1642951008460
+  }
+}
