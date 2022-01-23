@@ -4,16 +4,19 @@
     "provider": "lichess",
     "username": "king12345678910BOT",
     "firstSeen": 1642956706958,
-    "lastSeen": 1642956712328,
+    "lastSeen": 1642958211053,
     "firstSeenTime": "4:51:46 PM",
-    "lastSeenTime": "4:51:52 PM",
-    "onlineDurationMins": 0.0895
+    "lastSeenTime": "5:16:51 PM",
+    "onlineDurationMins": 25.06825
   },
   "tartarusbot@lichess": {
     "id": "tartarusbot",
     "provider": "lichess",
     "username": "TartarusBot",
     "firstSeen": 1642957366930,
-    "lastSeen": 1642957366930
+    "lastSeen": 1642958345540,
+    "firstSeenTime": "5:02:46 PM",
+    "lastSeenTime": "5:19:05 PM",
+    "onlineDurationMins": 16.310166666666667
   }
 }
