@@ -1,0 +1,19 @@
+{
+  "robot_rehan_randeer@lichess": {
+    "id": "robot_rehan_randeer",
+    "provider": "lichess",
+    "username": "Robot_Rehan_Randeer",
+    "firstSeen": 1642931400299,
+    "lastSeen": 1642931460815,
+    "firstSeenTime": "9:50:00 AM",
+    "lastSeenTime": "9:50:13 AM",
+    "onlineDurationMins": 0.22045
+  },
+  "ardunot500@lichess": {
+    "id": "ardunot500",
+    "provider": "lichess",
+    "username": "Ardunot500",
+    "firstSeen": 1642931586938,
+    "lastSeen": 1642931586938
+  }
+}
