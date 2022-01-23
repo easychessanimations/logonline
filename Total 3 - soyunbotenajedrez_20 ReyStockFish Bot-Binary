@@ -1,0 +1,29 @@
+{
+  "soyunbotenajedrez_20@lichess": {
+    "id": "soyunbotenajedrez_20",
+    "provider": "lichess",
+    "username": "soyunbotenajedrez_20",
+    "firstSeen": 1642975486558,
+    "lastSeen": 1642979023175,
+    "firstSeenTime": "10:04:46 PM",
+    "lastSeenTime": "10:51:43 PM",
+    "onlineDurationMins": 46.94388333333333
+  },
+  "reystockfish@lichess": {
+    "id": "reystockfish",
+    "provider": "lichess",
+    "username": "ReyStockFish",
+    "firstSeen": 1642975519814,
+    "lastSeen": 1642978348013,
+    "firstSeenTime": "10:05:19 PM",
+    "lastSeenTime": "10:52:28 PM",
+    "onlineDurationMins": 47.13665
+  },
+  "bot-binary@lichess": {
+    "id": "bot-binary",
+    "provider": "lichess",
+    "username": "Bot-Binary",
+    "firstSeen": 1642979068482,
+    "lastSeen": 1642979068482
+  }
+}
