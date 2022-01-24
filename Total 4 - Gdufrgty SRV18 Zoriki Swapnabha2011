@@ -1,0 +1,39 @@
+{
+  "gdufrgty@lichess": {
+    "id": "gdufrgty",
+    "provider": "lichess",
+    "username": "Gdufrgty",
+    "firstSeen": 1643023097269,
+    "lastSeen": 1643023287437,
+    "firstSeenTime": "11:18:17 AM",
+    "lastSeenTime": "11:18:18 AM",
+    "onlineDurationMins": 0.016616666666666665
+  },
+  "srv18@lichess": {
+    "id": "srv18",
+    "provider": "lichess",
+    "username": "SRV18",
+    "firstSeen": 1643023228214,
+    "lastSeen": 1643023229051,
+    "firstSeenTime": "11:20:28 AM",
+    "lastSeenTime": "11:20:29 AM",
+    "onlineDurationMins": 0.01395
+  },
+  "zoriki@lichess": {
+    "id": "zoriki",
+    "provider": "lichess",
+    "username": "Zoriki",
+    "firstSeen": 1643023239041,
+    "lastSeen": 1643023332236,
+    "firstSeenTime": "11:20:39 AM",
+    "lastSeenTime": "11:21:24 AM",
+    "onlineDurationMins": 0.7538333333333334
+  },
+  "swapnabha2011@lichess": {
+    "id": "swapnabha2011",
+    "provider": "lichess",
+    "username": "Swapnabha2011",
+    "firstSeen": 1643023332254,
+    "lastSeen": 1643023332254
+  }
+}
