@@ -1,0 +1,32 @@
+{
+  "threecheckgod@lichess": {
+    "id": "threecheckgod",
+    "provider": "lichess",
+    "username": "Threecheckgod",
+    "firstSeen": 1643023807678,
+    "lastSeen": 1643025023577,
+    "firstSeenTime": "11:30:07 AM",
+    "lastSeenTime": "11:40:13 AM",
+    "onlineDurationMins": 10.091716666666667
+  },
+  "swapnabha2011@lichess": {
+    "id": "swapnabha2011",
+    "provider": "lichess",
+    "username": "Swapnabha2011",
+    "firstSeen": 1643023968177,
+    "lastSeen": 1643024898212,
+    "firstSeenTime": "11:32:48 AM",
+    "lastSeenTime": "11:48:18 AM",
+    "onlineDurationMins": 15.500583333333333
+  },
+  "srv18@lichess": {
+    "id": "srv18",
+    "provider": "lichess",
+    "username": "SRV18",
+    "firstSeen": 1643024176787,
+    "lastSeen": 1643024899399,
+    "firstSeenTime": "11:36:16 AM",
+    "lastSeenTime": "11:48:19 AM",
+    "onlineDurationMins": 12.043533333333333
+  }
+}
