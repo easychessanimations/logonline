@@ -1,0 +1,22 @@
+{
+  "piratesbot@lichess": {
+    "id": "piratesbot",
+    "provider": "lichess",
+    "username": "PiratesBot",
+    "firstSeen": 1643013252148,
+    "lastSeen": 1643016555061,
+    "firstSeenTime": "8:34:12 AM",
+    "lastSeenTime": "9:18:18 AM",
+    "onlineDurationMins": 44.107166666666664
+  },
+  "threecheckgod@lichess": {
+    "id": "threecheckgod",
+    "provider": "lichess",
+    "username": "Threecheckgod",
+    "firstSeen": 1643015858433,
+    "lastSeen": 1643016384750,
+    "firstSeenTime": "9:17:38 AM",
+    "lastSeenTime": "9:19:20 AM",
+    "onlineDurationMins": 1.6960833333333334
+  }
+}
