@@ -1,0 +1,49 @@
+{
+  "glicht-v-bucks@lichess": {
+    "id": "glicht-v-bucks",
+    "provider": "lichess",
+    "username": "Glicht-V-Bucks",
+    "firstSeen": 1643018672855,
+    "lastSeen": 1643019466494,
+    "firstSeenTime": "10:04:32 AM",
+    "lastSeenTime": "10:17:46 AM",
+    "onlineDurationMins": 13.227316666666667
+  },
+  "dogachess_bot@lichess": {
+    "id": "dogachess_bot",
+    "provider": "lichess",
+    "username": "DogaChess_BOT",
+    "firstSeen": 1643018743056,
+    "lastSeen": 1643019389317,
+    "firstSeenTime": "10:05:43 AM",
+    "lastSeenTime": "10:16:29 AM",
+    "onlineDurationMins": 10.771016666666666
+  },
+  "threecheckgod@lichess": {
+    "id": "threecheckgod",
+    "provider": "lichess",
+    "username": "Threecheckgod",
+    "firstSeen": 1643018859185,
+    "lastSeen": 1643019564754,
+    "firstSeenTime": "10:07:39 AM",
+    "lastSeenTime": "10:19:24 AM",
+    "onlineDurationMins": 11.759483333333334
+  },
+  "ramachandran2012@lichess": {
+    "id": "ramachandran2012",
+    "provider": "lichess",
+    "username": "ramachandran2012",
+    "firstSeen": 1643019049405,
+    "lastSeen": 1643019673737,
+    "firstSeenTime": "10:10:49 AM",
+    "lastSeenTime": "10:21:13 AM",
+    "onlineDurationMins": 10.405533333333333
+  },
+  "deneme001@lichess": {
+    "id": "deneme001",
+    "provider": "lichess",
+    "username": "deneme001",
+    "firstSeen": 1643019900743,
+    "lastSeen": 1643019900743
+  }
+}
