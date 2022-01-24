@@ -1,0 +1,16 @@
+{
+  "bot-binary@lichess": {
+    "id": "bot-binary",
+    "provider": "lichess",
+    "username": "Bot-Binary",
+    "firstSeen": 1643046900288,
+    "lastSeen": 1643047363813
+  },
+  "retadme@lichess": {
+    "id": "retadme",
+    "provider": "lichess",
+    "username": "retadme",
+    "firstSeen": 1643047501631,
+    "lastSeen": 1643047501631
+  }
+}
