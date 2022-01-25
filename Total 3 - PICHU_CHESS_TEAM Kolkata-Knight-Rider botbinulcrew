@@ -1,0 +1,23 @@
+{
+  "pichu_chess_team@lichess": {
+    "id": "pichu_chess_team",
+    "provider": "lichess",
+    "username": "PICHU_CHESS_TEAM",
+    "firstSeen": 1643108279097,
+    "lastSeen": 1643109125995
+  },
+  "kolkata-knight-rider@lichess": {
+    "id": "kolkata-knight-rider",
+    "provider": "lichess",
+    "username": "Kolkata-Knight-Rider",
+    "firstSeen": 1643108351535,
+    "lastSeen": 1643109081375
+  },
+  "botbinulcrew@lichess": {
+    "id": "botbinulcrew",
+    "provider": "lichess",
+    "username": "botbinulcrew",
+    "firstSeen": 1643108762131,
+    "lastSeen": 1643109400571
+  }
+}
