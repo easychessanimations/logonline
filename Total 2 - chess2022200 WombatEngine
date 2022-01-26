@@ -1,0 +1,19 @@
+{
+  "chess2022200@lichess": {
+    "id": "chess2022200",
+    "provider": "lichess",
+    "username": "chess2022200",
+    "firstSeen": 1643218511294,
+    "lastSeen": 1643220842363,
+    "firstSeenTime": "5:35:11 PM",
+    "lastSeenTime": "6:14:02 PM",
+    "onlineDurationMins": 38.85115
+  },
+  "wombatengine@lichess": {
+    "id": "wombatengine",
+    "provider": "lichess",
+    "username": "WombatEngine",
+    "firstSeen": 1643220966816,
+    "lastSeen": 1643220966816
+  }
+}
