@@ -4,20 +4,29 @@
     "provider": "lichess",
     "username": "Abuziddin-BOT",
     "firstSeen": 1643200091291,
-    "lastSeen": 1643201100866
+    "lastSeen": 1643202721081,
+    "firstSeenTime": "12:28:11 PM",
+    "lastSeenTime": "1:01:22 PM",
+    "onlineDurationMins": 33.19371666666667
   },
   "sarvakchess2@lichess": {
     "id": "sarvakchess2",
     "provider": "lichess",
     "username": "sarvakchess2",
     "firstSeen": 1643200394657,
-    "lastSeen": 1643201078856
+    "lastSeen": 1643201898689,
+    "firstSeenTime": "12:33:14 PM",
+    "lastSeenTime": "12:58:18 PM",
+    "onlineDurationMins": 25.0672
   },
   "openingtrainerbot@lichess": {
     "id": "openingtrainerbot",
     "provider": "lichess",
     "username": "OpeningTrainerBOT",
     "firstSeen": 1643201277537,
-    "lastSeen": 1643201277537
+    "lastSeen": 1643201865181,
+    "firstSeenTime": "12:47:57 PM",
+    "lastSeenTime": "12:57:45 PM",
+    "onlineDurationMins": 9.794066666666666
   }
 }
