@@ -1,0 +1,29 @@
+{
+  "sarvakchess2@lichess": {
+    "id": "sarvakchess2",
+    "provider": "lichess",
+    "username": "sarvakchess2",
+    "firstSeen": 1643185093241,
+    "lastSeen": 1643186601624,
+    "firstSeenTime": "8:18:13 AM",
+    "lastSeenTime": "8:43:21 AM",
+    "onlineDurationMins": 25.139716666666665
+  },
+  "shrirambot@lichess": {
+    "id": "shrirambot",
+    "provider": "lichess",
+    "username": "shrirambot",
+    "firstSeen": 1643186593984,
+    "lastSeen": 1643186745173,
+    "firstSeenTime": "8:43:13 AM",
+    "lastSeenTime": "8:45:45 AM",
+    "onlineDurationMins": 2.519816666666667
+  },
+  "raphamaschine@lichess": {
+    "id": "raphamaschine",
+    "provider": "lichess",
+    "username": "Raphamaschine",
+    "firstSeen": 1643187140964,
+    "lastSeen": 1643187140964
+  }
+}
