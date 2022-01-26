@@ -4,16 +4,19 @@
     "provider": "lichess",
     "username": "sarvakchess2",
     "firstSeen": 1643185093241,
-    "lastSeen": 1643186601624,
+    "lastSeen": 1643188101677,
     "firstSeenTime": "8:18:13 AM",
-    "lastSeenTime": "8:41:38 AM",
-    "onlineDurationMins": 23.42135
+    "lastSeenTime": "9:08:21 AM",
+    "onlineDurationMins": 50.1406
   },
   "shrirambot@lichess": {
     "id": "shrirambot",
     "provider": "lichess",
     "username": "shrirambot",
     "firstSeen": 1643186593984,
-    "lastSeen": 1643186682531
+    "lastSeen": 1643188158748,
+    "firstSeenTime": "8:43:13 AM",
+    "lastSeenTime": "9:08:53 AM",
+    "onlineDurationMins": 25.6636
   }
 }
