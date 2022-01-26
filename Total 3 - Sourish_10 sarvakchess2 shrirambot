@@ -1,0 +1,29 @@
+{
+  "sourish_10@lichess": {
+    "id": "sourish_10",
+    "provider": "lichess",
+    "username": "Sourish_10",
+    "firstSeen": 1643184497817,
+    "lastSeen": 1643185781937,
+    "firstSeenTime": "8:08:17 AM",
+    "lastSeenTime": "8:29:41 AM",
+    "onlineDurationMins": 21.402
+  },
+  "sarvakchess2@lichess": {
+    "id": "sarvakchess2",
+    "provider": "lichess",
+    "username": "sarvakchess2",
+    "firstSeen": 1643185093241,
+    "lastSeen": 1643186498522,
+    "firstSeenTime": "8:18:13 AM",
+    "lastSeenTime": "8:41:38 AM",
+    "onlineDurationMins": 23.42135
+  },
+  "shrirambot@lichess": {
+    "id": "shrirambot",
+    "provider": "lichess",
+    "username": "shrirambot",
+    "firstSeen": 1643186593984,
+    "lastSeen": 1643186593984
+  }
+}
