@@ -1,0 +1,26 @@
+{
+  "fortnite-bot@lichess": {
+    "id": "fortnite-bot",
+    "provider": "lichess",
+    "username": "Fortnite-BOT",
+    "firstSeen": 1643299059782,
+    "lastSeen": 1643307826633,
+    "firstSeenTime": "3:57:39 PM",
+    "lastSeenTime": "5:06:43 PM",
+    "onlineDurationMins": 69.0611
+  },
+  "palpablebears_bot@lichess": {
+    "id": "palpablebears_bot",
+    "provider": "lichess",
+    "username": "Palpablebears_bot",
+    "firstSeen": 1643307504362,
+    "lastSeen": 1643308718461
+  },
+  "nidabtto@lichess": {
+    "id": "nidabtto",
+    "provider": "lichess",
+    "username": "Nidabtto",
+    "firstSeen": 1643307954782,
+    "lastSeen": 1643308700741
+  }
+}
