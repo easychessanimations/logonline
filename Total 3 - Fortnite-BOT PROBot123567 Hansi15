@@ -1,0 +1,29 @@
+{
+  "fortnite-bot@lichess": {
+    "id": "fortnite-bot",
+    "provider": "lichess",
+    "username": "Fortnite-BOT",
+    "firstSeen": 1643288506714,
+    "lastSeen": 1643293190773,
+    "firstSeenTime": "1:01:46 PM",
+    "lastSeenTime": "2:19:50 PM",
+    "onlineDurationMins": 78.06765
+  },
+  "probot123567@lichess": {
+    "id": "probot123567",
+    "provider": "lichess",
+    "username": "PROBot123567",
+    "firstSeen": 1643292908526,
+    "lastSeen": 1643293445394,
+    "firstSeenTime": "2:15:08 PM",
+    "lastSeenTime": "2:24:05 PM",
+    "onlineDurationMins": 8.9478
+  },
+  "hansi15@lichess": {
+    "id": "hansi15",
+    "provider": "lichess",
+    "username": "Hansi15",
+    "firstSeen": 1643293509354,
+    "lastSeen": 1643293509354
+  }
+}
