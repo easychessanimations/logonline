@@ -1,0 +1,32 @@
+{
+  "fortnite-bot@lichess": {
+    "id": "fortnite-bot",
+    "provider": "lichess",
+    "username": "Fortnite-BOT",
+    "firstSeen": 1643288506714,
+    "lastSeen": 1643296059809,
+    "firstSeenTime": "1:01:46 PM",
+    "lastSeenTime": "3:07:39 PM",
+    "onlineDurationMins": 125.88491666666667
+  },
+  "ravan-zz@lichess": {
+    "id": "ravan-zz",
+    "provider": "lichess",
+    "username": "ravan-zZ",
+    "firstSeen": 1643293950861,
+    "lastSeen": 1643295835305,
+    "firstSeenTime": "2:32:30 PM",
+    "lastSeenTime": "3:03:55 PM",
+    "onlineDurationMins": 31.4074
+  },
+  "firebeans@lichess": {
+    "id": "firebeans",
+    "provider": "lichess",
+    "username": "FireBeans",
+    "firstSeen": 1643295250095,
+    "lastSeen": 1643296030945,
+    "firstSeenTime": "2:54:10 PM",
+    "lastSeenTime": "3:07:10 PM",
+    "onlineDurationMins": 13.014166666666666
+  }
+}
