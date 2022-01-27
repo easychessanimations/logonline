@@ -1,0 +1,29 @@
+{
+  "probot123567@lichess": {
+    "id": "probot123567",
+    "provider": "lichess",
+    "username": "PROBot123567",
+    "firstSeen": 1643271150062,
+    "lastSeen": 1643276393022,
+    "firstSeenTime": "8:12:30 AM",
+    "lastSeenTime": "9:36:44 AM",
+    "onlineDurationMins": 84.23551666666667
+  },
+  "martinbot@lichess": {
+    "id": "martinbot",
+    "provider": "lichess",
+    "username": "MartinBot",
+    "firstSeen": 1643273402596,
+    "lastSeen": 1643276258859,
+    "firstSeenTime": "8:50:02 AM",
+    "lastSeenTime": "9:37:38 AM",
+    "onlineDurationMins": 47.60438333333333
+  },
+  "roadto_3000r@lichess": {
+    "id": "roadto_3000r",
+    "provider": "lichess",
+    "username": "RoadTo_3000r",
+    "firstSeen": 1643276425824,
+    "lastSeen": 1643276425824
+  }
+}
