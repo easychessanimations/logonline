@@ -1,0 +1,36 @@
+{
+  "probot123567@lichess": {
+    "id": "probot123567",
+    "provider": "lichess",
+    "username": "PROBot123567",
+    "firstSeen": 1643271150062,
+    "lastSeen": 1643273269095,
+    "firstSeenTime": "8:12:30 AM",
+    "lastSeenTime": "8:31:00 AM",
+    "onlineDurationMins": 18.509433333333334
+  },
+  "chess2022200@lichess": {
+    "id": "chess2022200",
+    "provider": "lichess",
+    "username": "chess2022200",
+    "firstSeen": 1643271836899,
+    "lastSeen": 1643273340442,
+    "firstSeenTime": "8:23:56 AM",
+    "lastSeenTime": "8:33:55 AM",
+    "onlineDurationMins": 9.975166666666667
+  },
+  "botbinulcrew@lichess": {
+    "id": "botbinulcrew",
+    "provider": "lichess",
+    "username": "botbinulcrew",
+    "firstSeen": 1643272684079,
+    "lastSeen": 1643272717049
+  },
+  "martinbot@lichess": {
+    "id": "martinbot",
+    "provider": "lichess",
+    "username": "MartinBot",
+    "firstSeen": 1643273402596,
+    "lastSeen": 1643273402596
+  }
+}
