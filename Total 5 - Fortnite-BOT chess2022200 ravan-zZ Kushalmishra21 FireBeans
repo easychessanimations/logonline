@@ -1,0 +1,49 @@
+{
+  "fortnite-bot@lichess": {
+    "id": "fortnite-bot",
+    "provider": "lichess",
+    "username": "Fortnite-BOT",
+    "firstSeen": 1643288506714,
+    "lastSeen": 1643295170830,
+    "firstSeenTime": "1:01:46 PM",
+    "lastSeenTime": "2:41:56 PM",
+    "onlineDurationMins": 100.16165
+  },
+  "chess2022200@lichess": {
+    "id": "chess2022200",
+    "provider": "lichess",
+    "username": "chess2022200",
+    "firstSeen": 1643293627722,
+    "lastSeen": 1643295132892,
+    "firstSeenTime": "2:27:07 PM",
+    "lastSeenTime": "2:38:38 PM",
+    "onlineDurationMins": 11.513566666666666
+  },
+  "ravan-zz@lichess": {
+    "id": "ravan-zz",
+    "provider": "lichess",
+    "username": "ravan-zZ",
+    "firstSeen": 1643293950861,
+    "lastSeen": 1643295231898,
+    "firstSeenTime": "2:32:30 PM",
+    "lastSeenTime": "2:43:20 PM",
+    "onlineDurationMins": 10.824683333333333
+  },
+  "kushalmishra21@lichess": {
+    "id": "kushalmishra21",
+    "provider": "lichess",
+    "username": "Kushalmishra21",
+    "firstSeen": 1643294007111,
+    "lastSeen": 1643295139791,
+    "firstSeenTime": "2:33:27 PM",
+    "lastSeenTime": "2:40:48 PM",
+    "onlineDurationMins": 7.350033333333333
+  },
+  "firebeans@lichess": {
+    "id": "firebeans",
+    "provider": "lichess",
+    "username": "FireBeans",
+    "firstSeen": 1643295250095,
+    "lastSeen": 1643295250095
+  }
+}
