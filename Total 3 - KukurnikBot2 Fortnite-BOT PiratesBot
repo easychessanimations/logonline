@@ -1,0 +1,29 @@
+{
+  "kukurnikbot2@lichess": {
+    "id": "kukurnikbot2",
+    "provider": "lichess",
+    "username": "KukurnikBot2",
+    "firstSeen": 1643353187550,
+    "lastSeen": 1643374810134,
+    "firstSeenTime": "6:59:47 AM",
+    "lastSeenTime": "12:45:06 PM",
+    "onlineDurationMins": 345.31805
+  },
+  "fortnite-bot@lichess": {
+    "id": "fortnite-bot",
+    "provider": "lichess",
+    "username": "Fortnite-BOT",
+    "firstSeen": 1643374038080,
+    "lastSeen": 1643374999086,
+    "firstSeenTime": "12:47:18 PM",
+    "lastSeenTime": "12:49:11 PM",
+    "onlineDurationMins": 1.8937
+  },
+  "piratesbot@lichess": {
+    "id": "piratesbot",
+    "provider": "lichess",
+    "username": "PiratesBot",
+    "firstSeen": 1643375199819,
+    "lastSeen": 1643375199819
+  }
+}
