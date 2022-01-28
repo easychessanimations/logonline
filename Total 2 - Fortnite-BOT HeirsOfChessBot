@@ -1,0 +1,19 @@
+{
+  "fortnite-bot@lichess": {
+    "id": "fortnite-bot",
+    "provider": "lichess",
+    "username": "Fortnite-BOT",
+    "firstSeen": 1643374038080,
+    "lastSeen": 1643380298121,
+    "firstSeenTime": "12:47:18 PM",
+    "lastSeenTime": "1:25:15 PM",
+    "onlineDurationMins": 37.95568333333333
+  },
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1643380033845,
+    "lastSeen": 1643380104638
+  }
+}
