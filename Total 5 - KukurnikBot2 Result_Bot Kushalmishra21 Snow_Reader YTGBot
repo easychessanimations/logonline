@@ -1,0 +1,49 @@
+{
+  "kukurnikbot2@lichess": {
+    "id": "kukurnikbot2",
+    "provider": "lichess",
+    "username": "KukurnikBot2",
+    "firstSeen": 1643353187550,
+    "lastSeen": 1643363288701,
+    "firstSeenTime": "6:59:47 AM",
+    "lastSeenTime": "9:48:08 AM",
+    "onlineDurationMins": 168.35251666666667
+  },
+  "result_bot@lichess": {
+    "id": "result_bot",
+    "provider": "lichess",
+    "username": "Result_Bot",
+    "firstSeen": 1643354137647,
+    "lastSeen": 1643363295130,
+    "firstSeenTime": "7:15:37 AM",
+    "lastSeenTime": "9:48:15 AM",
+    "onlineDurationMins": 152.62471666666667
+  },
+  "kushalmishra21@lichess": {
+    "id": "kushalmishra21",
+    "provider": "lichess",
+    "username": "Kushalmishra21",
+    "firstSeen": 1643360059141,
+    "lastSeen": 1643362503130,
+    "firstSeenTime": "8:54:19 AM",
+    "lastSeenTime": "9:35:03 AM",
+    "onlineDurationMins": 40.73315
+  },
+  "snow_reader@lichess": {
+    "id": "snow_reader",
+    "provider": "lichess",
+    "username": "Snow_Reader",
+    "firstSeen": 1643363192995,
+    "lastSeen": 1643363251806,
+    "firstSeenTime": "9:46:32 AM",
+    "lastSeenTime": "9:47:31 AM",
+    "onlineDurationMins": 0.9801833333333333
+  },
+  "ytgbot@lichess": {
+    "id": "ytgbot",
+    "provider": "lichess",
+    "username": "YTGBot",
+    "firstSeen": 1643363389563,
+    "lastSeen": 1643363389563
+  }
+}
