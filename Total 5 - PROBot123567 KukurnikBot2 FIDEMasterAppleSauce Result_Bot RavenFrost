@@ -1,0 +1,37 @@
+{
+  "probot123567@lichess": {
+    "id": "probot123567",
+    "provider": "lichess",
+    "username": "PROBot123567",
+    "firstSeen": 1643342985791,
+    "lastSeen": 1643355766208
+  },
+  "kukurnikbot2@lichess": {
+    "id": "kukurnikbot2",
+    "provider": "lichess",
+    "username": "KukurnikBot2",
+    "firstSeen": 1643353187550,
+    "lastSeen": 1643355714974
+  },
+  "fidemasterapplesauce@lichess": {
+    "id": "fidemasterapplesauce",
+    "provider": "lichess",
+    "username": "FIDEMasterAppleSauce",
+    "firstSeen": 1643353933091,
+    "lastSeen": 1643355507131
+  },
+  "result_bot@lichess": {
+    "id": "result_bot",
+    "provider": "lichess",
+    "username": "Result_Bot",
+    "firstSeen": 1643354137647,
+    "lastSeen": 1643355643833
+  },
+  "ravenfrost@lichess": {
+    "id": "ravenfrost",
+    "provider": "lichess",
+    "username": "RavenFrost",
+    "firstSeen": 1643355848665,
+    "lastSeen": 1643355848665
+  }
+}
