@@ -1,0 +1,59 @@
+{
+  "probot123567@lichess": {
+    "id": "probot123567",
+    "provider": "lichess",
+    "username": "PROBot123567",
+    "firstSeen": 1643342985791,
+    "lastSeen": 1643356339504,
+    "firstSeenTime": "4:09:45 AM",
+    "lastSeenTime": "7:48:33 AM",
+    "onlineDurationMins": 218.80265
+  },
+  "kukurnikbot2@lichess": {
+    "id": "kukurnikbot2",
+    "provider": "lichess",
+    "username": "KukurnikBot2",
+    "firstSeen": 1643353187550,
+    "lastSeen": 1643355714974,
+    "firstSeenTime": "6:59:47 AM",
+    "lastSeenTime": "7:41:54 AM",
+    "onlineDurationMins": 42.123733333333334
+  },
+  "fidemasterapplesauce@lichess": {
+    "id": "fidemasterapplesauce",
+    "provider": "lichess",
+    "username": "FIDEMasterAppleSauce",
+    "firstSeen": 1643353933091,
+    "lastSeen": 1643355507131,
+    "firstSeenTime": "7:12:13 AM",
+    "lastSeenTime": "7:38:27 AM",
+    "onlineDurationMins": 26.234
+  },
+  "result_bot@lichess": {
+    "id": "result_bot",
+    "provider": "lichess",
+    "username": "Result_Bot",
+    "firstSeen": 1643354137647,
+    "lastSeen": 1643355643833,
+    "firstSeenTime": "7:15:37 AM",
+    "lastSeenTime": "7:40:43 AM",
+    "onlineDurationMins": 25.1031
+  },
+  "ravenfrost@lichess": {
+    "id": "ravenfrost",
+    "provider": "lichess",
+    "username": "RavenFrost",
+    "firstSeen": 1643355848665,
+    "lastSeen": 1643355980456,
+    "firstSeenTime": "7:44:08 AM",
+    "lastSeenTime": "7:46:20 AM",
+    "onlineDurationMins": 2.1965166666666667
+  },
+  "botchesslejker@lichess": {
+    "id": "botchesslejker",
+    "provider": "lichess",
+    "username": "BotChessLejker",
+    "firstSeen": 1643356342724,
+    "lastSeen": 1643356342724
+  }
+}
