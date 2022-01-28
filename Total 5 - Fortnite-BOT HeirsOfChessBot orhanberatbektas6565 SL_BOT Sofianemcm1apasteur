@@ -1,0 +1,43 @@
+{
+  "fortnite-bot@lichess": {
+    "id": "fortnite-bot",
+    "provider": "lichess",
+    "username": "Fortnite-BOT",
+    "firstSeen": 1643374038080,
+    "lastSeen": 1643384255764,
+    "firstSeenTime": "12:47:18 PM",
+    "lastSeenTime": "2:45:15 PM",
+    "onlineDurationMins": 117.95693333333334
+  },
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1643380033845,
+    "lastSeen": 1643384168253,
+    "firstSeenTime": "2:27:13 PM",
+    "lastSeenTime": "2:38:08 PM",
+    "onlineDurationMins": 10.90595
+  },
+  "orhanberatbektas6565@lichess": {
+    "id": "orhanberatbektas6565",
+    "provider": "lichess",
+    "username": "orhanberatbektas6565",
+    "firstSeen": 1643382835131,
+    "lastSeen": 1643383789764
+  },
+  "sl_bot@lichess": {
+    "id": "sl_bot",
+    "provider": "lichess",
+    "username": "SL_BOT",
+    "firstSeen": 1643383380406,
+    "lastSeen": 1643384181936
+  },
+  "sofianemcm1apasteur@lichess": {
+    "id": "sofianemcm1apasteur",
+    "provider": "lichess",
+    "username": "Sofianemcm1apasteur",
+    "firstSeen": 1643383964335,
+    "lastSeen": 1643384042488
+  }
+}
