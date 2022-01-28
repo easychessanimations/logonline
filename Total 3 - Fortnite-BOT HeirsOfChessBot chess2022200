@@ -1,0 +1,29 @@
+{
+  "fortnite-bot@lichess": {
+    "id": "fortnite-bot",
+    "provider": "lichess",
+    "username": "Fortnite-BOT",
+    "firstSeen": 1643374038080,
+    "lastSeen": 1643382778968,
+    "firstSeenTime": "12:47:18 PM",
+    "lastSeenTime": "2:45:15 PM",
+    "onlineDurationMins": 117.95693333333334
+  },
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1643380033845,
+    "lastSeen": 1643382668142,
+    "firstSeenTime": "2:27:13 PM",
+    "lastSeenTime": "2:38:08 PM",
+    "onlineDurationMins": 10.90595
+  },
+  "chess2022200@lichess": {
+    "id": "chess2022200",
+    "provider": "lichess",
+    "username": "chess2022200",
+    "firstSeen": 1643382783571,
+    "lastSeen": 1643382783571
+  }
+}
