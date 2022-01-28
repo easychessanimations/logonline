@@ -1,0 +1,29 @@
+{
+  "kukurnikbot2@lichess": {
+    "id": "kukurnikbot2",
+    "provider": "lichess",
+    "username": "KukurnikBot2",
+    "firstSeen": 1643353187550,
+    "lastSeen": 1643364794897,
+    "firstSeenTime": "6:59:47 AM",
+    "lastSeenTime": "9:48:08 AM",
+    "onlineDurationMins": 168.35251666666667
+  },
+  "snow_reader@lichess": {
+    "id": "snow_reader",
+    "provider": "lichess",
+    "username": "Snow_Reader",
+    "firstSeen": 1643363192995,
+    "lastSeen": 1643364799310,
+    "firstSeenTime": "9:46:32 AM",
+    "lastSeenTime": "9:47:31 AM",
+    "onlineDurationMins": 0.9801833333333333
+  },
+  "sussybanka@lichess": {
+    "id": "sussybanka",
+    "provider": "lichess",
+    "username": "sussybanka",
+    "firstSeen": 1643364087563,
+    "lastSeen": 1643364772027
+  }
+}
