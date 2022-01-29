@@ -1,0 +1,32 @@
+{
+  "martinbot@lichess": {
+    "id": "martinbot",
+    "provider": "lichess",
+    "username": "MartinBot",
+    "firstSeen": 1643458410927,
+    "lastSeen": 1643461038343,
+    "firstSeenTime": "12:13:30 PM",
+    "lastSeenTime": "12:57:18 PM",
+    "onlineDurationMins": 43.79026666666667
+  },
+  "lucas_bot_bot@lichess": {
+    "id": "lucas_bot_bot",
+    "provider": "lichess",
+    "username": "Lucas_Bot_Bot",
+    "firstSeen": 1643459744672,
+    "lastSeen": 1643461247753,
+    "firstSeenTime": "12:35:44 PM",
+    "lastSeenTime": "1:00:47 PM",
+    "onlineDurationMins": 25.05135
+  },
+  "tawnypelt@lichess": {
+    "id": "tawnypelt",
+    "provider": "lichess",
+    "username": "Tawnypelt",
+    "firstSeen": 1643460427971,
+    "lastSeen": 1643461306295,
+    "firstSeenTime": "12:47:07 PM",
+    "lastSeenTime": "1:01:46 PM",
+    "onlineDurationMins": 14.638733333333333
+  }
+}
