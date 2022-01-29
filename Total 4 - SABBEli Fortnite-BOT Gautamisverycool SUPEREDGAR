@@ -1,0 +1,39 @@
+{
+  "sabbeli@lichess": {
+    "id": "sabbeli",
+    "provider": "lichess",
+    "username": "SABBEli",
+    "firstSeen": 1643473231517,
+    "lastSeen": 1643479475448,
+    "firstSeenTime": "4:20:31 PM",
+    "lastSeenTime": "5:52:34 PM",
+    "onlineDurationMins": 92.05655
+  },
+  "fortnite-bot@lichess": {
+    "id": "fortnite-bot",
+    "provider": "lichess",
+    "username": "Fortnite-BOT",
+    "firstSeen": 1643476968669,
+    "lastSeen": 1643479422978,
+    "firstSeenTime": "5:22:48 PM",
+    "lastSeenTime": "5:57:04 PM",
+    "onlineDurationMins": 34.263933333333334
+  },
+  "gautamisverycool@lichess": {
+    "id": "gautamisverycool",
+    "provider": "lichess",
+    "username": "Gautamisverycool",
+    "firstSeen": 1643477007761,
+    "lastSeen": 1643480035370,
+    "firstSeenTime": "5:23:27 PM",
+    "lastSeenTime": "5:56:58 PM",
+    "onlineDurationMins": 33.52023333333333
+  },
+  "superedgar@lichess": {
+    "id": "superedgar",
+    "provider": "lichess",
+    "username": "SUPEREDGAR",
+    "firstSeen": 1643480072983,
+    "lastSeen": 1643480072983
+  }
+}
