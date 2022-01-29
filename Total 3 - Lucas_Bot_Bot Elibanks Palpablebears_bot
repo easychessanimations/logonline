@@ -1,0 +1,29 @@
+{
+  "lucas_bot_bot@lichess": {
+    "id": "lucas_bot_bot",
+    "provider": "lichess",
+    "username": "Lucas_Bot_Bot",
+    "firstSeen": 1643410943254,
+    "lastSeen": 1643415274793,
+    "firstSeenTime": "11:02:23 PM",
+    "lastSeenTime": "12:10:38 AM",
+    "onlineDurationMins": 68.25165
+  },
+  "elibanks@lichess": {
+    "id": "elibanks",
+    "provider": "lichess",
+    "username": "Elibanks",
+    "firstSeen": 1643412842116,
+    "lastSeen": 1643415700493,
+    "firstSeenTime": "11:34:02 PM",
+    "lastSeenTime": "12:10:40 AM",
+    "onlineDurationMins": 36.637233333333334
+  },
+  "palpablebears_bot@lichess": {
+    "id": "palpablebears_bot",
+    "provider": "lichess",
+    "username": "Palpablebears_bot",
+    "firstSeen": 1643415763620,
+    "lastSeen": 1643415763620
+  }
+}
