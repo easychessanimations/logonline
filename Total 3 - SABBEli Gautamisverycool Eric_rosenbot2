@@ -1,0 +1,32 @@
+{
+  "sabbeli@lichess": {
+    "id": "sabbeli",
+    "provider": "lichess",
+    "username": "SABBEli",
+    "firstSeen": 1643473231517,
+    "lastSeen": 1643480855225,
+    "firstSeenTime": "4:20:31 PM",
+    "lastSeenTime": "6:27:35 PM",
+    "onlineDurationMins": 127.0618
+  },
+  "gautamisverycool@lichess": {
+    "id": "gautamisverycool",
+    "provider": "lichess",
+    "username": "Gautamisverycool",
+    "firstSeen": 1643477007761,
+    "lastSeen": 1643481227101,
+    "firstSeenTime": "5:23:27 PM",
+    "lastSeenTime": "6:33:47 PM",
+    "onlineDurationMins": 70.32233333333333
+  },
+  "eric_rosenbot2@lichess": {
+    "id": "eric_rosenbot2",
+    "provider": "lichess",
+    "username": "Eric_rosenbot2",
+    "firstSeen": 1643480371549,
+    "lastSeen": 1643481448183,
+    "firstSeenTime": "6:19:31 PM",
+    "lastSeenTime": "6:37:28 PM",
+    "onlineDurationMins": 17.9439
+  }
+}
