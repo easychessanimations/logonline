@@ -1,0 +1,26 @@
+{
+  "sabbeli@lichess": {
+    "id": "sabbeli",
+    "provider": "lichess",
+    "username": "SABBEli",
+    "firstSeen": 1643462726931,
+    "lastSeen": 1643463579284,
+    "firstSeenTime": "1:25:26 PM",
+    "lastSeenTime": "1:26:52 PM",
+    "onlineDurationMins": 1.4198333333333333
+  },
+  "palpablebear@lichess": {
+    "id": "palpablebear",
+    "provider": "lichess",
+    "username": "palpablebear",
+    "firstSeen": 1643463254915,
+    "lastSeen": 1643463298137
+  },
+  "martinbot@lichess": {
+    "id": "martinbot",
+    "provider": "lichess",
+    "username": "MartinBot",
+    "firstSeen": 1643463914326,
+    "lastSeen": 1643463914326
+  }
+}
