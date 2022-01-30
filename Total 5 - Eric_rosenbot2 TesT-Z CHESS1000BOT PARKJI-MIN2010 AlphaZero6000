@@ -1,0 +1,49 @@
+{
+  "eric_rosenbot2@lichess": {
+    "id": "eric_rosenbot2",
+    "provider": "lichess",
+    "username": "Eric_rosenbot2",
+    "firstSeen": 1643545883634,
+    "lastSeen": 1643552454336,
+    "firstSeenTime": "12:31:23 PM",
+    "lastSeenTime": "2:20:54 PM",
+    "onlineDurationMins": 109.5117
+  },
+  "test-z@lichess": {
+    "id": "test-z",
+    "provider": "lichess",
+    "username": "TesT-Z",
+    "firstSeen": 1643546120709,
+    "lastSeen": 1643551882458,
+    "firstSeenTime": "12:35:20 PM",
+    "lastSeenTime": "2:11:22 PM",
+    "onlineDurationMins": 96.02915
+  },
+  "chess1000bot@lichess": {
+    "id": "chess1000bot",
+    "provider": "lichess",
+    "username": "CHESS1000BOT",
+    "firstSeen": 1643551856989,
+    "lastSeen": 1643552564675,
+    "firstSeenTime": "2:10:56 PM",
+    "lastSeenTime": "2:22:44 PM",
+    "onlineDurationMins": 11.794766666666666
+  },
+  "parkji-min2010@lichess": {
+    "id": "parkji-min2010",
+    "provider": "lichess",
+    "username": "PARKJI-MIN2010",
+    "firstSeen": 1643552004202,
+    "lastSeen": 1643552006896,
+    "firstSeenTime": "2:13:24 PM",
+    "lastSeenTime": "2:13:26 PM",
+    "onlineDurationMins": 0.0449
+  },
+  "alphazero6000@lichess": {
+    "id": "alphazero6000",
+    "provider": "lichess",
+    "username": "AlphaZero6000",
+    "firstSeen": 1643552647588,
+    "lastSeen": 1643552647588
+  }
+}
