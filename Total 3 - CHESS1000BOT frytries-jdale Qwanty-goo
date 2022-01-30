@@ -1,0 +1,26 @@
+{
+  "chess1000bot@lichess": {
+    "id": "chess1000bot",
+    "provider": "lichess",
+    "username": "CHESS1000BOT",
+    "firstSeen": 1643525763913,
+    "lastSeen": 1643528024507,
+    "firstSeenTime": "6:56:03 AM",
+    "lastSeenTime": "7:18:40 AM",
+    "onlineDurationMins": 22.6083
+  },
+  "frytries-jdale@lichess": {
+    "id": "frytries-jdale",
+    "provider": "lichess",
+    "username": "frytries-jdale",
+    "firstSeen": 1643527272067,
+    "lastSeen": 1643527438215
+  },
+  "qwanty-goo@lichess": {
+    "id": "qwanty-goo",
+    "provider": "lichess",
+    "username": "Qwanty-goo",
+    "firstSeen": 1643527542308,
+    "lastSeen": 1643527932212
+  }
+}
