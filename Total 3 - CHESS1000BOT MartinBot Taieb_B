@@ -1,0 +1,29 @@
+{
+  "chess1000bot@lichess": {
+    "id": "chess1000bot",
+    "provider": "lichess",
+    "username": "CHESS1000BOT",
+    "firstSeen": 1643532041569,
+    "lastSeen": 1643534979722,
+    "firstSeenTime": "8:40:41 AM",
+    "lastSeenTime": "9:29:39 AM",
+    "onlineDurationMins": 48.96921666666667
+  },
+  "martinbot@lichess": {
+    "id": "martinbot",
+    "provider": "lichess",
+    "username": "MartinBot",
+    "firstSeen": 1643532333702,
+    "lastSeen": 1643534801772,
+    "firstSeenTime": "8:45:33 AM",
+    "lastSeenTime": "9:26:41 AM",
+    "onlineDurationMins": 41.1345
+  },
+  "taieb_b@lichess": {
+    "id": "taieb_b",
+    "provider": "lichess",
+    "username": "Taieb_B",
+    "firstSeen": 1643535049094,
+    "lastSeen": 1643535049094
+  }
+}
