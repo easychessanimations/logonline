@@ -4,20 +4,26 @@
     "provider": "lichess",
     "username": "Eric_rosenbot2",
     "firstSeen": 1643545883634,
-    "lastSeen": 1643551202037
+    "lastSeen": 1643553125813,
+    "firstSeenTime": "12:31:23 PM",
+    "lastSeenTime": "2:20:54 PM",
+    "onlineDurationMins": 109.5117
   },
   "chess1000bot@lichess": {
     "id": "chess1000bot",
     "provider": "lichess",
     "username": "CHESS1000BOT",
-    "firstSeen": 1643546004938,
-    "lastSeen": 1643550795069
+    "firstSeen": 1643551856989,
+    "lastSeen": 1643553112236,
+    "firstSeenTime": "2:10:56 PM",
+    "lastSeenTime": "2:22:44 PM",
+    "onlineDurationMins": 11.794766666666666
   },
   "test-z@lichess": {
     "id": "test-z",
     "provider": "lichess",
     "username": "TesT-Z",
-    "firstSeen": 1643546120709,
-    "lastSeen": 1643550562048
+    "firstSeen": 1643552901792,
+    "lastSeen": 1643553863105
   }
 }
