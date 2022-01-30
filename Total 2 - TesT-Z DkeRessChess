@@ -1,0 +1,19 @@
+{
+  "test-z@lichess": {
+    "id": "test-z",
+    "provider": "lichess",
+    "username": "TesT-Z",
+    "firstSeen": 1643559925249,
+    "lastSeen": 1643569849411,
+    "firstSeenTime": "4:25:25 PM",
+    "lastSeenTime": "5:46:16 PM",
+    "onlineDurationMins": 80.86016666666667
+  },
+  "dkeresschess@lichess": {
+    "id": "dkeresschess",
+    "provider": "lichess",
+    "username": "DkeRessChess",
+    "firstSeen": 1643569621147,
+    "lastSeen": 1643569692598
+  }
+}
