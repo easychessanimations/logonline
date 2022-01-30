@@ -1,0 +1,59 @@
+{
+  "chekp@lichess": {
+    "id": "chekp",
+    "provider": "lichess",
+    "username": "chekp",
+    "firstSeen": 1643530547508,
+    "lastSeen": 1643531666235,
+    "firstSeenTime": "8:15:47 AM",
+    "lastSeenTime": "8:31:06 AM",
+    "onlineDurationMins": 15.315683333333334
+  },
+  "chess1000bot@lichess": {
+    "id": "chess1000bot",
+    "provider": "lichess",
+    "username": "CHESS1000BOT",
+    "firstSeen": 1643530601190,
+    "lastSeen": 1643531588354,
+    "firstSeenTime": "8:16:41 AM",
+    "lastSeenTime": "8:29:45 AM",
+    "onlineDurationMins": 13.07055
+  },
+  "fortnite-bot@lichess": {
+    "id": "fortnite-bot",
+    "provider": "lichess",
+    "username": "Fortnite-BOT",
+    "firstSeen": 1643530675816,
+    "lastSeen": 1643531034448,
+    "firstSeenTime": "8:17:55 AM",
+    "lastSeenTime": "8:23:54 AM",
+    "onlineDurationMins": 5.9772
+  },
+  "martinbot@lichess": {
+    "id": "martinbot",
+    "provider": "lichess",
+    "username": "MartinBot",
+    "firstSeen": 1643530731481,
+    "lastSeen": 1643531673659,
+    "firstSeenTime": "8:18:51 AM",
+    "lastSeenTime": "8:21:33 AM",
+    "onlineDurationMins": 2.7027833333333335
+  },
+  "utsa-super-bot@lichess": {
+    "id": "utsa-super-bot",
+    "provider": "lichess",
+    "username": "Utsa-Super-Bot",
+    "firstSeen": 1643530940838,
+    "lastSeen": 1643531667345,
+    "firstSeenTime": "8:22:20 AM",
+    "lastSeenTime": "8:31:07 AM",
+    "onlineDurationMins": 8.769866666666667
+  },
+  "qwanty-goo@lichess": {
+    "id": "qwanty-goo",
+    "provider": "lichess",
+    "username": "Qwanty-goo",
+    "firstSeen": 1643531678160,
+    "lastSeen": 1643531678160
+  }
+}
