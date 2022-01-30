@@ -3,14 +3,17 @@
     "id": "chekp",
     "provider": "lichess",
     "username": "chekp",
-    "firstSeen": 1643530547508,
-    "lastSeen": 1643530548198
+    "firstSeen": 1643531821199,
+    "lastSeen": 1643531821199,
+    "firstSeenTime": "8:37:01 AM",
+    "lastSeenTime": "8:37:01 AM",
+    "onlineDurationMins": 0
   },
   "chess1000bot@lichess": {
     "id": "chess1000bot",
     "provider": "lichess",
     "username": "CHESS1000BOT",
-    "firstSeen": 1643530601190,
-    "lastSeen": 1643530601190
+    "firstSeen": 1643532041569,
+    "lastSeen": 1643532041569
   }
 }
