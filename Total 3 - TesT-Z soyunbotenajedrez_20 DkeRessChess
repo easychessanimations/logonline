@@ -1,0 +1,26 @@
+{
+  "test-z@lichess": {
+    "id": "test-z",
+    "provider": "lichess",
+    "username": "TesT-Z",
+    "firstSeen": 1643559925249,
+    "lastSeen": 1643569614088,
+    "firstSeenTime": "4:25:25 PM",
+    "lastSeenTime": "5:46:16 PM",
+    "onlineDurationMins": 80.86016666666667
+  },
+  "soyunbotenajedrez_20@lichess": {
+    "id": "soyunbotenajedrez_20",
+    "provider": "lichess",
+    "username": "soyunbotenajedrez_20",
+    "firstSeen": 1643567980586,
+    "lastSeen": 1643568901706
+  },
+  "dkeresschess@lichess": {
+    "id": "dkeresschess",
+    "provider": "lichess",
+    "username": "DkeRessChess",
+    "firstSeen": 1643569621147,
+    "lastSeen": 1643569621147
+  }
+}
