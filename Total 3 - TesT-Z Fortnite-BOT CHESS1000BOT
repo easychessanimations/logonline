@@ -1,0 +1,23 @@
+{
+  "test-z@lichess": {
+    "id": "test-z",
+    "provider": "lichess",
+    "username": "TesT-Z",
+    "firstSeen": 1643541911777,
+    "lastSeen": 1643542661385
+  },
+  "fortnite-bot@lichess": {
+    "id": "fortnite-bot",
+    "provider": "lichess",
+    "username": "Fortnite-BOT",
+    "firstSeen": 1643542162305,
+    "lastSeen": 1643542909856
+  },
+  "chess1000bot@lichess": {
+    "id": "chess1000bot",
+    "provider": "lichess",
+    "username": "CHESS1000BOT",
+    "firstSeen": 1643543014752,
+    "lastSeen": 1643543014752
+  }
+}
