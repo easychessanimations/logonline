@@ -1,0 +1,30 @@
+{
+  "eric_rosenbot2@lichess": {
+    "id": "eric_rosenbot2",
+    "provider": "lichess",
+    "username": "Eric_rosenbot2",
+    "firstSeen": 1643545883634,
+    "lastSeen": 1643551202037
+  },
+  "test-z@lichess": {
+    "id": "test-z",
+    "provider": "lichess",
+    "username": "TesT-Z",
+    "firstSeen": 1643546120709,
+    "lastSeen": 1643551401328
+  },
+  "utsa-super-bot@lichess": {
+    "id": "utsa-super-bot",
+    "provider": "lichess",
+    "username": "Utsa-Super-Bot",
+    "firstSeen": 1643551227022,
+    "lastSeen": 1643551236329
+  },
+  "chess1000bot@lichess": {
+    "id": "chess1000bot",
+    "provider": "lichess",
+    "username": "CHESS1000BOT",
+    "firstSeen": 1643551856989,
+    "lastSeen": 1643551856989
+  }
+}
