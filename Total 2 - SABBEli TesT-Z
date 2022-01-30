@@ -4,16 +4,19 @@
     "provider": "lichess",
     "username": "SABBEli",
     "firstSeen": 1643473231517,
-    "lastSeen": 1643494951923,
+    "lastSeen": 1643503595422,
     "firstSeenTime": "4:20:31 PM",
-    "lastSeenTime": "9:47:35 PM",
-    "onlineDurationMins": 327.06731666666667
+    "lastSeenTime": "11:15:31 PM",
+    "onlineDurationMins": 414.9997666666667
   },
   "test-z@lichess": {
     "id": "test-z",
     "provider": "lichess",
     "username": "TesT-Z",
     "firstSeen": 1643494565646,
-    "lastSeen": 1643494726212
+    "lastSeen": 1643504032524,
+    "firstSeenTime": "10:16:05 PM",
+    "lastSeenTime": "11:15:31 PM",
+    "onlineDurationMins": 59.435066666666664
   }
 }
