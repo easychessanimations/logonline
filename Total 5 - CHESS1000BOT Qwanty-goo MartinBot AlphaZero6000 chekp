@@ -1,0 +1,40 @@
+{
+  "chess1000bot@lichess": {
+    "id": "chess1000bot",
+    "provider": "lichess",
+    "username": "CHESS1000BOT",
+    "firstSeen": 1643525763913,
+    "lastSeen": 1643530021288,
+    "firstSeenTime": "6:56:03 AM",
+    "lastSeenTime": "7:18:40 AM",
+    "onlineDurationMins": 22.6083
+  },
+  "qwanty-goo@lichess": {
+    "id": "qwanty-goo",
+    "provider": "lichess",
+    "username": "Qwanty-goo",
+    "firstSeen": 1643527542308,
+    "lastSeen": 1643530091012
+  },
+  "martinbot@lichess": {
+    "id": "martinbot",
+    "provider": "lichess",
+    "username": "MartinBot",
+    "firstSeen": 1643528799009,
+    "lastSeen": 1643530177194
+  },
+  "alphazero6000@lichess": {
+    "id": "alphazero6000",
+    "provider": "lichess",
+    "username": "AlphaZero6000",
+    "firstSeen": 1643529178547,
+    "lastSeen": 1643529408222
+  },
+  "chekp@lichess": {
+    "id": "chekp",
+    "provider": "lichess",
+    "username": "chekp",
+    "firstSeen": 1643530203297,
+    "lastSeen": 1643530203297
+  }
+}
