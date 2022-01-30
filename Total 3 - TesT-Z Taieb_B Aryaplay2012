@@ -1,0 +1,29 @@
+{
+  "test-z@lichess": {
+    "id": "test-z",
+    "provider": "lichess",
+    "username": "TesT-Z",
+    "firstSeen": 1643552901792,
+    "lastSeen": 1643558064452,
+    "firstSeenTime": "2:28:21 PM",
+    "lastSeenTime": "3:54:24 PM",
+    "onlineDurationMins": 86.04433333333333
+  },
+  "taieb_b@lichess": {
+    "id": "taieb_b",
+    "provider": "lichess",
+    "username": "Taieb_B",
+    "firstSeen": 1643556986756,
+    "lastSeen": 1643558406738,
+    "firstSeenTime": "3:36:26 PM",
+    "lastSeenTime": "3:52:30 PM",
+    "onlineDurationMins": 16.065816666666667
+  },
+  "aryaplay2012@lichess": {
+    "id": "aryaplay2012",
+    "provider": "lichess",
+    "username": "Aryaplay2012",
+    "firstSeen": 1643558617303,
+    "lastSeen": 1643558617303
+  }
+}
