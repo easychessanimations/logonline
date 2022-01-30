@@ -1,0 +1,32 @@
+{
+  "roadto_3000r@lichess": {
+    "id": "roadto_3000r",
+    "provider": "lichess",
+    "username": "RoadTo_3000r",
+    "firstSeen": 1643559731904,
+    "lastSeen": 1643563693889,
+    "firstSeenTime": "4:22:11 PM",
+    "lastSeenTime": "5:28:13 PM",
+    "onlineDurationMins": 66.03308333333334
+  },
+  "test-z@lichess": {
+    "id": "test-z",
+    "provider": "lichess",
+    "username": "TesT-Z",
+    "firstSeen": 1643559925249,
+    "lastSeen": 1643564195672,
+    "firstSeenTime": "4:25:25 PM",
+    "lastSeenTime": "5:34:18 PM",
+    "onlineDurationMins": 68.88431666666666
+  },
+  "taieb_b@lichess": {
+    "id": "taieb_b",
+    "provider": "lichess",
+    "username": "Taieb_B",
+    "firstSeen": 1643564004967,
+    "lastSeen": 1643564125902,
+    "firstSeenTime": "5:33:24 PM",
+    "lastSeenTime": "5:34:15 PM",
+    "onlineDurationMins": 0.8483166666666667
+  }
+}
