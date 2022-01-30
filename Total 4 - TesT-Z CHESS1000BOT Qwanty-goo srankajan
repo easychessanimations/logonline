@@ -1,0 +1,30 @@
+{
+  "test-z@lichess": {
+    "id": "test-z",
+    "provider": "lichess",
+    "username": "TesT-Z",
+    "firstSeen": 1643541911777,
+    "lastSeen": 1643544514796
+  },
+  "chess1000bot@lichess": {
+    "id": "chess1000bot",
+    "provider": "lichess",
+    "username": "CHESS1000BOT",
+    "firstSeen": 1643543014752,
+    "lastSeen": 1643544536472
+  },
+  "qwanty-goo@lichess": {
+    "id": "qwanty-goo",
+    "provider": "lichess",
+    "username": "Qwanty-goo",
+    "firstSeen": 1643544544412,
+    "lastSeen": 1643544552695
+  },
+  "srankajan@lichess": {
+    "id": "srankajan",
+    "provider": "lichess",
+    "username": "srankajan",
+    "firstSeen": 1643544569052,
+    "lastSeen": 1643544569052
+  }
+}
