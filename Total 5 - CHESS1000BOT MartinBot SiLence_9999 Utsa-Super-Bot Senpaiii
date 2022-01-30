@@ -1,0 +1,40 @@
+{
+  "chess1000bot@lichess": {
+    "id": "chess1000bot",
+    "provider": "lichess",
+    "username": "CHESS1000BOT",
+    "firstSeen": 1643532041569,
+    "lastSeen": 1643533604153,
+    "firstSeenTime": "8:40:41 AM",
+    "lastSeenTime": "8:40:45 AM",
+    "onlineDurationMins": 0.05971666666666667
+  },
+  "martinbot@lichess": {
+    "id": "martinbot",
+    "provider": "lichess",
+    "username": "MartinBot",
+    "firstSeen": 1643532333702,
+    "lastSeen": 1643533301730
+  },
+  "silence_9999@lichess": {
+    "id": "silence_9999",
+    "provider": "lichess",
+    "username": "SiLence_9999",
+    "firstSeen": 1643532583159,
+    "lastSeen": 1643533014171
+  },
+  "utsa-super-bot@lichess": {
+    "id": "utsa-super-bot",
+    "provider": "lichess",
+    "username": "Utsa-Super-Bot",
+    "firstSeen": 1643532898781,
+    "lastSeen": 1643533186411
+  },
+  "935476669043576832@discord": {
+    "id": "935476669043576832",
+    "provider": "discord",
+    "username": "Senpaiii",
+    "firstSeen": 1643533014676,
+    "lastSeen": 1643533168393
+  }
+}
