@@ -1,0 +1,49 @@
+{
+  "haplopo@lichess": {
+    "id": "haplopo",
+    "provider": "lichess",
+    "username": "haplopo",
+    "firstSeen": 1643621886133,
+    "lastSeen": 1643639498438,
+    "firstSeenTime": "9:38:06 AM",
+    "lastSeenTime": "2:31:38 PM",
+    "onlineDurationMins": 293.53841666666665
+  },
+  "test-z@lichess": {
+    "id": "test-z",
+    "provider": "lichess",
+    "username": "TesT-Z",
+    "firstSeen": 1643626263870,
+    "lastSeen": 1643639926735,
+    "firstSeenTime": "10:51:03 AM",
+    "lastSeenTime": "2:38:46 PM",
+    "onlineDurationMins": 227.71441666666666
+  },
+  "akshadlawanibot@lichess": {
+    "id": "akshadlawanibot",
+    "provider": "lichess",
+    "username": "akshadlawanibot",
+    "firstSeen": 1643638630551,
+    "lastSeen": 1643639263850,
+    "firstSeenTime": "2:17:10 PM",
+    "lastSeenTime": "2:27:43 PM",
+    "onlineDurationMins": 10.554983333333332
+  },
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1643639796383,
+    "lastSeen": 1643639808787,
+    "firstSeenTime": "2:36:36 PM",
+    "lastSeenTime": "2:36:48 PM",
+    "onlineDurationMins": 0.20673333333333332
+  },
+  "macamafa1392@lichess": {
+    "id": "macamafa1392",
+    "provider": "lichess",
+    "username": "macamafa1392",
+    "firstSeen": 1643639933664,
+    "lastSeen": 1643639933665
+  }
+}
