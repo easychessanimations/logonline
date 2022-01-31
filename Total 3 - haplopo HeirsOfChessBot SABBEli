@@ -1,0 +1,32 @@
+{
+  "haplopo@lichess": {
+    "id": "haplopo",
+    "provider": "lichess",
+    "username": "haplopo",
+    "firstSeen": 1643621886133,
+    "lastSeen": 1643641334393,
+    "firstSeenTime": "9:38:06 AM",
+    "lastSeenTime": "2:50:14 PM",
+    "onlineDurationMins": 312.13623333333334
+  },
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1643639796383,
+    "lastSeen": 1643641779276,
+    "firstSeenTime": "2:36:36 PM",
+    "lastSeenTime": "2:47:43 PM",
+    "onlineDurationMins": 11.113933333333334
+  },
+  "sabbeli@lichess": {
+    "id": "sabbeli",
+    "provider": "lichess",
+    "username": "SABBEli",
+    "firstSeen": 1643640643919,
+    "lastSeen": 1643641292166,
+    "firstSeenTime": "2:50:43 PM",
+    "lastSeenTime": "2:50:55 PM",
+    "onlineDurationMins": 0.1906
+  }
+}
