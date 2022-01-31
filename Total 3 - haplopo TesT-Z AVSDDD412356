@@ -1,0 +1,32 @@
+{
+  "haplopo@lichess": {
+    "id": "haplopo",
+    "provider": "lichess",
+    "username": "haplopo",
+    "firstSeen": 1643621886133,
+    "lastSeen": 1643628259229,
+    "firstSeenTime": "9:38:06 AM",
+    "lastSeenTime": "11:24:19 AM",
+    "onlineDurationMins": 106.21826666666666
+  },
+  "test-z@lichess": {
+    "id": "test-z",
+    "provider": "lichess",
+    "username": "TesT-Z",
+    "firstSeen": 1643626263870,
+    "lastSeen": 1643628365807,
+    "firstSeenTime": "10:51:03 AM",
+    "lastSeenTime": "11:26:05 AM",
+    "onlineDurationMins": 35.03228333333333
+  },
+  "avsddd412356@lichess": {
+    "id": "avsddd412356",
+    "provider": "lichess",
+    "username": "AVSDDD412356",
+    "firstSeen": 1643627395404,
+    "lastSeen": 1643628196315,
+    "firstSeenTime": "11:09:55 AM",
+    "lastSeenTime": "11:23:16 AM",
+    "onlineDurationMins": 13.348516666666667
+  }
+}
