@@ -1,0 +1,46 @@
+{
+  "haplopo@lichess": {
+    "id": "haplopo",
+    "provider": "lichess",
+    "username": "haplopo",
+    "firstSeen": 1643621886133,
+    "lastSeen": 1643631554225,
+    "firstSeenTime": "9:38:06 AM",
+    "lastSeenTime": "11:57:17 AM",
+    "onlineDurationMins": 139.18718333333334
+  },
+  "test-z@lichess": {
+    "id": "test-z",
+    "provider": "lichess",
+    "username": "TesT-Z",
+    "firstSeen": 1643626263870,
+    "lastSeen": 1643631590205,
+    "firstSeenTime": "10:51:03 AM",
+    "lastSeenTime": "12:06:07 PM",
+    "onlineDurationMins": 75.05948333333333
+  },
+  "avsddd412356@lichess": {
+    "id": "avsddd412356",
+    "provider": "lichess",
+    "username": "AVSDDD412356",
+    "firstSeen": 1643627395404,
+    "lastSeen": 1643631446644,
+    "firstSeenTime": "11:09:55 AM",
+    "lastSeenTime": "12:04:28 PM",
+    "onlineDurationMins": 54.556416666666664
+  },
+  "umeshshak@lichess": {
+    "id": "umeshshak",
+    "provider": "lichess",
+    "username": "umeshshak",
+    "firstSeen": 1643631461269,
+    "lastSeen": 1643631540312
+  },
+  "sarvakchess2@lichess": {
+    "id": "sarvakchess2",
+    "provider": "lichess",
+    "username": "sarvakchess2",
+    "firstSeen": 1643631752206,
+    "lastSeen": 1643631752206
+  }
+}
