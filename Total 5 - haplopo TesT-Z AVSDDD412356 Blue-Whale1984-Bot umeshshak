@@ -1,0 +1,49 @@
+{
+  "haplopo@lichess": {
+    "id": "haplopo",
+    "provider": "lichess",
+    "username": "haplopo",
+    "firstSeen": 1643621886133,
+    "lastSeen": 1643631313918,
+    "firstSeenTime": "9:38:06 AM",
+    "lastSeenTime": "11:57:17 AM",
+    "onlineDurationMins": 139.18718333333334
+  },
+  "test-z@lichess": {
+    "id": "test-z",
+    "provider": "lichess",
+    "username": "TesT-Z",
+    "firstSeen": 1643626263870,
+    "lastSeen": 1643630905477,
+    "firstSeenTime": "10:51:03 AM",
+    "lastSeenTime": "12:06:07 PM",
+    "onlineDurationMins": 75.05948333333333
+  },
+  "avsddd412356@lichess": {
+    "id": "avsddd412356",
+    "provider": "lichess",
+    "username": "AVSDDD412356",
+    "firstSeen": 1643627395404,
+    "lastSeen": 1643631446644,
+    "firstSeenTime": "11:09:55 AM",
+    "lastSeenTime": "12:04:28 PM",
+    "onlineDurationMins": 54.556416666666664
+  },
+  "blue-whale1984-bot@lichess": {
+    "id": "blue-whale1984-bot",
+    "provider": "lichess",
+    "username": "Blue-Whale1984-Bot",
+    "firstSeen": 1643630701160,
+    "lastSeen": 1643630713738,
+    "firstSeenTime": "12:05:01 PM",
+    "lastSeenTime": "12:05:13 PM",
+    "onlineDurationMins": 0.20963333333333334
+  },
+  "umeshshak@lichess": {
+    "id": "umeshshak",
+    "provider": "lichess",
+    "username": "umeshshak",
+    "firstSeen": 1643631461269,
+    "lastSeen": 1643631461269
+  }
+}
