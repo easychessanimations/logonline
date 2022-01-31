@@ -1,0 +1,49 @@
+{
+  "haplopo@lichess": {
+    "id": "haplopo",
+    "provider": "lichess",
+    "username": "haplopo",
+    "firstSeen": 1643621886133,
+    "lastSeen": 1643636498299,
+    "firstSeenTime": "9:38:06 AM",
+    "lastSeenTime": "1:41:38 PM",
+    "onlineDurationMins": 243.5361
+  },
+  "test-z@lichess": {
+    "id": "test-z",
+    "provider": "lichess",
+    "username": "TesT-Z",
+    "firstSeen": 1643626263870,
+    "lastSeen": 1643636821103,
+    "firstSeenTime": "10:51:03 AM",
+    "lastSeenTime": "1:47:01 PM",
+    "onlineDurationMins": 175.95388333333332
+  },
+  "avsddd412356@lichess": {
+    "id": "avsddd412356",
+    "provider": "lichess",
+    "username": "AVSDDD412356",
+    "firstSeen": 1643633903531,
+    "lastSeen": 1643636668406,
+    "firstSeenTime": "12:58:23 PM",
+    "lastSeenTime": "1:44:28 PM",
+    "onlineDurationMins": 46.08125
+  },
+  "firebeans@lichess": {
+    "id": "firebeans",
+    "provider": "lichess",
+    "username": "FireBeans",
+    "firstSeen": 1643636221915,
+    "lastSeen": 1643636849975,
+    "firstSeenTime": "1:37:01 PM",
+    "lastSeenTime": "1:47:18 PM",
+    "onlineDurationMins": 10.271016666666666
+  },
+  "prodoganlich@lichess": {
+    "id": "prodoganlich",
+    "provider": "lichess",
+    "username": "prodoganlich",
+    "firstSeen": 1643636850675,
+    "lastSeen": 1643636850675
+  }
+}
