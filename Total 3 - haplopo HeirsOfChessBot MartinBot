@@ -1,0 +1,23 @@
+{
+  "haplopo@lichess": {
+    "id": "haplopo",
+    "provider": "lichess",
+    "username": "haplopo",
+    "firstSeen": 1643730746935,
+    "lastSeen": 1643731025433
+  },
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1643730990824,
+    "lastSeen": 1643731001561
+  },
+  "martinbot@lichess": {
+    "id": "martinbot",
+    "provider": "lichess",
+    "username": "MartinBot",
+    "firstSeen": 1643731590009,
+    "lastSeen": 1643731590009
+  }
+}
