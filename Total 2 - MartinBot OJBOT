@@ -1,0 +1,19 @@
+{
+  "martinbot@lichess": {
+    "id": "martinbot",
+    "provider": "lichess",
+    "username": "MartinBot",
+    "firstSeen": 1643733813556,
+    "lastSeen": 1643733851317,
+    "firstSeenTime": "4:43:33 PM",
+    "lastSeenTime": "4:43:33 PM",
+    "onlineDurationMins": 0.000016666666666666667
+  },
+  "ojbot@lichess": {
+    "id": "ojbot",
+    "provider": "lichess",
+    "username": "OJBOT",
+    "firstSeen": 1643733864850,
+    "lastSeen": 1643733864850
+  }
+}
