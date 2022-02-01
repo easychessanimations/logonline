@@ -1,0 +1,39 @@
+{
+  "martinbot@lichess": {
+    "id": "martinbot",
+    "provider": "lichess",
+    "username": "MartinBot",
+    "firstSeen": 1643731590009,
+    "lastSeen": 1643733144837,
+    "firstSeenTime": "4:06:30 PM",
+    "lastSeenTime": "4:32:24 PM",
+    "onlineDurationMins": 25.9138
+  },
+  "cyberjabo2345@lichess": {
+    "id": "cyberjabo2345",
+    "provider": "lichess",
+    "username": "Cyberjabo2345",
+    "firstSeen": 1643732755818,
+    "lastSeen": 1643732921111,
+    "firstSeenTime": "4:25:55 PM",
+    "lastSeenTime": "4:28:41 PM",
+    "onlineDurationMins": 2.7548833333333334
+  },
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1643732794677,
+    "lastSeen": 1643733559113,
+    "firstSeenTime": "4:26:34 PM",
+    "lastSeenTime": "4:26:38 PM",
+    "onlineDurationMins": 0.0642
+  },
+  "ojbot@lichess": {
+    "id": "ojbot",
+    "provider": "lichess",
+    "username": "OJBOT",
+    "firstSeen": 1643733584533,
+    "lastSeen": 1643733584533
+  }
+}
