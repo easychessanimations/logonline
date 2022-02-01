@@ -1,0 +1,29 @@
+{
+  "martinbot@lichess": {
+    "id": "martinbot",
+    "provider": "lichess",
+    "username": "MartinBot",
+    "firstSeen": 1643733813556,
+    "lastSeen": 1643733851317,
+    "firstSeenTime": "4:43:33 PM",
+    "lastSeenTime": "4:44:11 PM",
+    "onlineDurationMins": 0.62935
+  },
+  "ojbot@lichess": {
+    "id": "ojbot",
+    "provider": "lichess",
+    "username": "OJBOT",
+    "firstSeen": 1643733864850,
+    "lastSeen": 1643734096721,
+    "firstSeenTime": "4:44:24 PM",
+    "lastSeenTime": "4:44:25 PM",
+    "onlineDurationMins": 0.017666666666666667
+  },
+  "mc_thisalagamage925@lichess": {
+    "id": "mc_thisalagamage925",
+    "provider": "lichess",
+    "username": "MC_ThisalaGamage925",
+    "firstSeen": 1643734100588,
+    "lastSeen": 1643734100588
+  }
+}
