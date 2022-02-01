@@ -1,0 +1,39 @@
+{
+  "chessishard4you@lichess": {
+    "id": "chessishard4you",
+    "provider": "lichess",
+    "username": "chessishard4you",
+    "firstSeen": 1643702752952,
+    "lastSeen": 1643711674709,
+    "firstSeenTime": "8:05:52 AM",
+    "lastSeenTime": "10:22:25 AM",
+    "onlineDurationMins": 136.55046666666667
+  },
+  "ronbot2022@lichess": {
+    "id": "ronbot2022",
+    "provider": "lichess",
+    "username": "RonBot2022",
+    "firstSeen": 1643709417057,
+    "lastSeen": 1643710938576,
+    "firstSeenTime": "9:56:57 AM",
+    "lastSeenTime": "10:22:18 AM",
+    "onlineDurationMins": 25.35865
+  },
+  "taieb_b@lichess": {
+    "id": "taieb_b",
+    "provider": "lichess",
+    "username": "Taieb_B",
+    "firstSeen": 1643709975813,
+    "lastSeen": 1643711514827,
+    "firstSeenTime": "10:06:15 AM",
+    "lastSeenTime": "10:21:24 AM",
+    "onlineDurationMins": 15.139
+  },
+  "akshadlawanibot@lichess": {
+    "id": "akshadlawanibot",
+    "provider": "lichess",
+    "username": "akshadlawanibot",
+    "firstSeen": 1643711445290,
+    "lastSeen": 1643711639252
+  }
+}
