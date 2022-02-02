@@ -1,0 +1,22 @@
+{
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1643811551259,
+    "lastSeen": 1643816532872,
+    "firstSeenTime": "2:19:11 PM",
+    "lastSeenTime": "3:18:09 PM",
+    "onlineDurationMins": 58.97375
+  },
+  "chess2022200@lichess": {
+    "id": "chess2022200",
+    "provider": "lichess",
+    "username": "chess2022200",
+    "firstSeen": 1643815139655,
+    "lastSeen": 1643817250898,
+    "firstSeenTime": "3:18:59 PM",
+    "lastSeenTime": "3:19:22 PM",
+    "onlineDurationMins": 0.37938333333333335
+  }
+}
