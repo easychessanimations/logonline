@@ -1,0 +1,29 @@
+{
+  "tr_shadow123@lichess": {
+    "id": "tr_shadow123",
+    "provider": "lichess",
+    "username": "TR_Shadow123",
+    "firstSeen": 1643798596289,
+    "lastSeen": 1643807361993,
+    "firstSeenTime": "10:43:16 AM",
+    "lastSeenTime": "1:04:56 PM",
+    "onlineDurationMins": 141.66286666666667
+  },
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1643807047807,
+    "lastSeen": 1643807058734,
+    "firstSeenTime": "1:04:07 PM",
+    "lastSeenTime": "1:04:18 PM",
+    "onlineDurationMins": 0.18211666666666668
+  },
+  "satranctv_youtuber@lichess": {
+    "id": "satranctv_youtuber",
+    "provider": "lichess",
+    "username": "SatrancTV_YouTuber",
+    "firstSeen": 1643807372315,
+    "lastSeen": 1643807372315
+  }
+}
