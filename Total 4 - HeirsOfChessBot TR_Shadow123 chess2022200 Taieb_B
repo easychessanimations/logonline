@@ -1,0 +1,39 @@
+{
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1643811551259,
+    "lastSeen": 1643815809448,
+    "firstSeenTime": "2:19:11 PM",
+    "lastSeenTime": "3:18:09 PM",
+    "onlineDurationMins": 58.97375
+  },
+  "tr_shadow123@lichess": {
+    "id": "tr_shadow123",
+    "provider": "lichess",
+    "username": "TR_Shadow123",
+    "firstSeen": 1643814781210,
+    "lastSeen": 1643815451025,
+    "firstSeenTime": "3:13:01 PM",
+    "lastSeenTime": "3:14:03 PM",
+    "onlineDurationMins": 1.0457166666666666
+  },
+  "chess2022200@lichess": {
+    "id": "chess2022200",
+    "provider": "lichess",
+    "username": "chess2022200",
+    "firstSeen": 1643815139655,
+    "lastSeen": 1643815816897,
+    "firstSeenTime": "3:18:59 PM",
+    "lastSeenTime": "3:19:22 PM",
+    "onlineDurationMins": 0.37938333333333335
+  },
+  "taieb_b@lichess": {
+    "id": "taieb_b",
+    "provider": "lichess",
+    "username": "Taieb_B",
+    "firstSeen": 1643815870193,
+    "lastSeen": 1643815870193
+  }
+}
