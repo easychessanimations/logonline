@@ -1,0 +1,49 @@
+{
+  "chess2022200@lichess": {
+    "id": "chess2022200",
+    "provider": "lichess",
+    "username": "chess2022200",
+    "firstSeen": 1643815139655,
+    "lastSeen": 1643818216957,
+    "firstSeenTime": "3:18:59 PM",
+    "lastSeenTime": "4:09:02 PM",
+    "onlineDurationMins": 50.051516666666664
+  },
+  "prarthanar_bot@lichess": {
+    "id": "prarthanar_bot",
+    "provider": "lichess",
+    "username": "PRARTHANAR_BOT",
+    "firstSeen": 1643817799429,
+    "lastSeen": 1643817801695,
+    "firstSeenTime": "4:03:19 PM",
+    "lastSeenTime": "4:03:21 PM",
+    "onlineDurationMins": 0.037766666666666664
+  },
+  "cyberjabo3583@lichess": {
+    "id": "cyberjabo3583",
+    "provider": "lichess",
+    "username": "Cyberjabo3583",
+    "firstSeen": 1643817807895,
+    "lastSeen": 1643817814313,
+    "firstSeenTime": "4:03:27 PM",
+    "lastSeenTime": "4:03:34 PM",
+    "onlineDurationMins": 0.10696666666666667
+  },
+  "exmaterial@lichess": {
+    "id": "exmaterial",
+    "provider": "lichess",
+    "username": "exmaterial",
+    "firstSeen": 1643817822107,
+    "lastSeen": 1643818012061,
+    "firstSeenTime": "4:03:42 PM",
+    "lastSeenTime": "4:06:52 PM",
+    "onlineDurationMins": 3.1659
+  },
+  "heirsofchessbot@lichess": {
+    "id": "heirsofchessbot",
+    "provider": "lichess",
+    "username": "HeirsOfChessBot",
+    "firstSeen": 1643818271176,
+    "lastSeen": 1643818271176
+  }
+}
