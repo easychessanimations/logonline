@@ -1,0 +1,49 @@
+{
+  "awesome_stockfish@lichess": {
+    "id": "awesome_stockfish",
+    "provider": "lichess",
+    "username": "Awesome_Stockfish",
+    "firstSeen": 1643876832478,
+    "lastSeen": 1643884867103,
+    "firstSeenTime": "8:27:12 AM",
+    "lastSeenTime": "10:41:07 AM",
+    "onlineDurationMins": 133.91041666666666
+  },
+  "alphazero112@lichess": {
+    "id": "alphazero112",
+    "provider": "lichess",
+    "username": "AlphaZero112",
+    "firstSeen": 1643878790299,
+    "lastSeen": 1643884883275,
+    "firstSeenTime": "8:59:50 AM",
+    "lastSeenTime": "10:41:23 AM",
+    "onlineDurationMins": 101.5496
+  },
+  "mc_thisalagamage925@lichess": {
+    "id": "mc_thisalagamage925",
+    "provider": "lichess",
+    "username": "MC_ThisalaGamage925",
+    "firstSeen": 1643882051826,
+    "lastSeen": 1643884824350,
+    "firstSeenTime": "9:54:11 AM",
+    "lastSeenTime": "10:40:24 AM",
+    "onlineDurationMins": 46.208733333333335
+  },
+  "magnuscarlsen1507@lichess": {
+    "id": "magnuscarlsen1507",
+    "provider": "lichess",
+    "username": "MagnusCarlsen1507",
+    "firstSeen": 1643884075382,
+    "lastSeen": 1643884970128,
+    "firstSeenTime": "10:27:55 AM",
+    "lastSeenTime": "10:36:53 AM",
+    "onlineDurationMins": 8.96955
+  },
+  "cankayhan@lichess": {
+    "id": "cankayhan",
+    "provider": "lichess",
+    "username": "cankayhan",
+    "firstSeen": 1643884987494,
+    "lastSeen": 1643884987494
+  }
+}
