@@ -1,0 +1,26 @@
+{
+  "alphazero112@lichess": {
+    "id": "alphazero112",
+    "provider": "lichess",
+    "username": "AlphaZero112",
+    "firstSeen": 1643892056320,
+    "lastSeen": 1643901206582,
+    "firstSeenTime": "12:40:56 PM",
+    "lastSeenTime": "2:38:52 PM",
+    "onlineDurationMins": 117.94373333333333
+  },
+  "baokhoa@lichess": {
+    "id": "baokhoa",
+    "provider": "lichess",
+    "username": "BaoKhoa",
+    "firstSeen": 1643900272120,
+    "lastSeen": 1643900933496
+  },
+  "martinbot@lichess": {
+    "id": "martinbot",
+    "provider": "lichess",
+    "username": "MartinBot",
+    "firstSeen": 1643901190905,
+    "lastSeen": 1643901201040
+  }
+}
