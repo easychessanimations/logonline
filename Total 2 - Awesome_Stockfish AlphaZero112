@@ -1,0 +1,19 @@
+{
+  "awesome_stockfish@lichess": {
+    "id": "awesome_stockfish",
+    "provider": "lichess",
+    "username": "Awesome_Stockfish",
+    "firstSeen": 1643876832478,
+    "lastSeen": 1643878402945,
+    "firstSeenTime": "8:27:12 AM",
+    "lastSeenTime": "8:39:11 AM",
+    "onlineDurationMins": 11.976716666666666
+  },
+  "alphazero112@lichess": {
+    "id": "alphazero112",
+    "provider": "lichess",
+    "username": "AlphaZero112",
+    "firstSeen": 1643878790299,
+    "lastSeen": 1643878790299
+  }
+}
