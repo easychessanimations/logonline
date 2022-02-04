@@ -1,0 +1,23 @@
+{
+  "baokhoa@lichess": {
+    "id": "baokhoa",
+    "provider": "lichess",
+    "username": "BaoKhoa",
+    "firstSeen": 1643941043585,
+    "lastSeen": 1643950078622
+  },
+  "lejkerbot@lichess": {
+    "id": "lejkerbot",
+    "provider": "lichess",
+    "username": "LejkerBOT",
+    "firstSeen": 1643943517992,
+    "lastSeen": 1643950330979
+  },
+  "awesome_stockfish@lichess": {
+    "id": "awesome_stockfish",
+    "provider": "lichess",
+    "username": "Awesome_Stockfish",
+    "firstSeen": 1643945299579,
+    "lastSeen": 1643950092156
+  }
+}
