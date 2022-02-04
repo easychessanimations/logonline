@@ -1,0 +1,39 @@
+{
+  "awesome_stockfish@lichess": {
+    "id": "awesome_stockfish",
+    "provider": "lichess",
+    "username": "Awesome_Stockfish",
+    "firstSeen": 1643976121956,
+    "lastSeen": 1643986333151,
+    "firstSeenTime": "12:02:01 PM",
+    "lastSeenTime": "2:52:13 PM",
+    "onlineDurationMins": 170.18658333333335
+  },
+  "test111222222222@lichess": {
+    "id": "test111222222222",
+    "provider": "lichess",
+    "username": "test111222222222",
+    "firstSeen": 1643984705308,
+    "lastSeen": 1643986353091,
+    "firstSeenTime": "2:25:05 PM",
+    "lastSeenTime": "2:52:33 PM",
+    "onlineDurationMins": 27.46305
+  },
+  "prisonbreak234@lichess": {
+    "id": "prisonbreak234",
+    "provider": "lichess",
+    "username": "Prisonbreak234",
+    "firstSeen": 1643986304039,
+    "lastSeen": 1643986314841,
+    "firstSeenTime": "2:51:44 PM",
+    "lastSeenTime": "2:51:54 PM",
+    "onlineDurationMins": 0.18003333333333332
+  },
+  "nobody11892@lichess": {
+    "id": "nobody11892",
+    "provider": "lichess",
+    "username": "Nobody11892",
+    "firstSeen": 1643986577385,
+    "lastSeen": 1643986577385
+  }
+}
