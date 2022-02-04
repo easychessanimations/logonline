@@ -1,0 +1,29 @@
+{
+  "awesome_stockfish@lichess": {
+    "id": "awesome_stockfish",
+    "provider": "lichess",
+    "username": "Awesome_Stockfish",
+    "firstSeen": 1643950748426,
+    "lastSeen": 1643957528538,
+    "firstSeenTime": "4:59:08 AM",
+    "lastSeenTime": "6:49:08 AM",
+    "onlineDurationMins": 110.00256666666667
+  },
+  "baokhoa@lichess": {
+    "id": "baokhoa",
+    "provider": "lichess",
+    "username": "BaoKhoa",
+    "firstSeen": 1643955986046,
+    "lastSeen": 1643957382097,
+    "firstSeenTime": "6:26:26 AM",
+    "lastSeenTime": "6:49:42 AM",
+    "onlineDurationMins": 23.267516666666666
+  },
+  "exmaterial@lichess": {
+    "id": "exmaterial",
+    "provider": "lichess",
+    "username": "exmaterial",
+    "firstSeen": 1643957788891,
+    "lastSeen": 1643957788891
+  }
+}
