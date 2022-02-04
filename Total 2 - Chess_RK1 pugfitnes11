@@ -1,0 +1,22 @@
+{
+  "chess_rk1@lichess": {
+    "id": "chess_rk1",
+    "provider": "lichess",
+    "username": "Chess_RK1",
+    "firstSeen": 1643994241695,
+    "lastSeen": 1644000898365,
+    "firstSeenTime": "5:04:01 PM",
+    "lastSeenTime": "6:54:58 PM",
+    "onlineDurationMins": 110.9445
+  },
+  "pugfitnes11@lichess": {
+    "id": "pugfitnes11",
+    "provider": "lichess",
+    "username": "pugfitnes11",
+    "firstSeen": 1643994772692,
+    "lastSeen": 1644000893000,
+    "firstSeenTime": "5:12:52 PM",
+    "lastSeenTime": "6:54:53 PM",
+    "onlineDurationMins": 102.00513333333333
+  }
+}
