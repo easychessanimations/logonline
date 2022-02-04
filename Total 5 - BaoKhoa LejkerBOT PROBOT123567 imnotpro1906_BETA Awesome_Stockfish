@@ -1,0 +1,37 @@
+{
+  "baokhoa@lichess": {
+    "id": "baokhoa",
+    "provider": "lichess",
+    "username": "BaoKhoa",
+    "firstSeen": 1643941043585,
+    "lastSeen": 1643945264600
+  },
+  "lejkerbot@lichess": {
+    "id": "lejkerbot",
+    "provider": "lichess",
+    "username": "LejkerBOT",
+    "firstSeen": 1643943517992,
+    "lastSeen": 1643945020907
+  },
+  "probot123567@lichess": {
+    "id": "probot123567",
+    "provider": "lichess",
+    "username": "PROBOT123567",
+    "firstSeen": 1643944628774,
+    "lastSeen": 1643944672979
+  },
+  "imnotpro1906_beta@lichess": {
+    "id": "imnotpro1906_beta",
+    "provider": "lichess",
+    "username": "imnotpro1906_BETA",
+    "firstSeen": 1643945078748,
+    "lastSeen": 1643945291648
+  },
+  "awesome_stockfish@lichess": {
+    "id": "awesome_stockfish",
+    "provider": "lichess",
+    "username": "Awesome_Stockfish",
+    "firstSeen": 1643945299579,
+    "lastSeen": 1643945299579
+  }
+}
