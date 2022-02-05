@@ -1,0 +1,39 @@
+{
+  "bot123451234123121@lichess": {
+    "id": "bot123451234123121",
+    "provider": "lichess",
+    "username": "BOT123451234123121",
+    "firstSeen": 1644065811288,
+    "lastSeen": 1644069691233,
+    "firstSeenTime": "12:56:51 PM",
+    "lastSeenTime": "2:01:31 PM",
+    "onlineDurationMins": 64.66575
+  },
+  "happygurl28@lichess": {
+    "id": "happygurl28",
+    "provider": "lichess",
+    "username": "Happygurl28",
+    "firstSeen": 1644069951400,
+    "lastSeen": 1644069955365,
+    "firstSeenTime": "2:05:51 PM",
+    "lastSeenTime": "2:05:55 PM",
+    "onlineDurationMins": 0.06608333333333333
+  },
+  "ofhappygurl28@lichess": {
+    "id": "ofhappygurl28",
+    "provider": "lichess",
+    "username": "OfHappygurl28",
+    "firstSeen": 1644069996994,
+    "lastSeen": 1644070045283,
+    "firstSeenTime": "2:06:36 PM",
+    "lastSeenTime": "2:07:25 PM",
+    "onlineDurationMins": 0.8048166666666666
+  },
+  "lejkerbot@lichess": {
+    "id": "lejkerbot",
+    "provider": "lichess",
+    "username": "LejkerBOT",
+    "firstSeen": 1644070142347,
+    "lastSeen": 1644070142347
+  }
+}
