@@ -1,0 +1,29 @@
+{
+  "chess1000bot@lichess": {
+    "id": "chess1000bot",
+    "provider": "lichess",
+    "username": "CHESS1000BOT",
+    "firstSeen": 1644047802742,
+    "lastSeen": 1644051295187,
+    "firstSeenTime": "7:56:42 AM",
+    "lastSeenTime": "8:51:45 AM",
+    "onlineDurationMins": 55.0535
+  },
+  "mc_thisalagamage925@lichess": {
+    "id": "mc_thisalagamage925",
+    "provider": "lichess",
+    "username": "MC_ThisalaGamage925",
+    "firstSeen": 1644050752852,
+    "lastSeen": 1644050838249,
+    "firstSeenTime": "8:45:52 AM",
+    "lastSeenTime": "8:47:18 AM",
+    "onlineDurationMins": 1.4232833333333332
+  },
+  "cpt-official@lichess": {
+    "id": "cpt-official",
+    "provider": "lichess",
+    "username": "CPT-Official",
+    "firstSeen": 1644051333673,
+    "lastSeen": 1644051333673
+  }
+}
