@@ -1,0 +1,29 @@
+{
+  "botgarry_kasparov@lichess": {
+    "id": "botgarry_kasparov",
+    "provider": "lichess",
+    "username": "BOTGarry_Kasparov",
+    "firstSeen": 1644132286401,
+    "lastSeen": 1644134093740,
+    "firstSeenTime": "7:24:46 AM",
+    "lastSeenTime": "7:43:53 AM",
+    "onlineDurationMins": 19.11995
+  },
+  "mc_thisalagamage925@lichess": {
+    "id": "mc_thisalagamage925",
+    "provider": "lichess",
+    "username": "MC_ThisalaGamage925",
+    "firstSeen": 1644133514444,
+    "lastSeen": 1644134130034,
+    "firstSeenTime": "7:45:14 AM",
+    "lastSeenTime": "7:49:56 AM",
+    "onlineDurationMins": 4.693733333333333
+  },
+  "martinbot@lichess": {
+    "id": "martinbot",
+    "provider": "lichess",
+    "username": "MartinBot",
+    "firstSeen": 1644134243572,
+    "lastSeen": 1644134243572
+  }
+}
