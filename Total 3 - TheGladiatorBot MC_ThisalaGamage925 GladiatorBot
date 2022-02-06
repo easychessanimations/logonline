@@ -1,0 +1,32 @@
+{
+  "thegladiatorbot@lichess": {
+    "id": "thegladiatorbot",
+    "provider": "lichess",
+    "username": "TheGladiatorBot",
+    "firstSeen": 1644135902486,
+    "lastSeen": 1644137900626,
+    "firstSeenTime": "8:25:02 AM",
+    "lastSeenTime": "8:58:20 AM",
+    "onlineDurationMins": 33.30233333333333
+  },
+  "mc_thisalagamage925@lichess": {
+    "id": "mc_thisalagamage925",
+    "provider": "lichess",
+    "username": "MC_ThisalaGamage925",
+    "firstSeen": 1644136979271,
+    "lastSeen": 1644138390352,
+    "firstSeenTime": "8:42:59 AM",
+    "lastSeenTime": "9:06:30 AM",
+    "onlineDurationMins": 23.518016666666668
+  },
+  "gladiatorbot@lichess": {
+    "id": "gladiatorbot",
+    "provider": "lichess",
+    "username": "GladiatorBot",
+    "firstSeen": 1644137157795,
+    "lastSeen": 1644137794639,
+    "firstSeenTime": "8:45:57 AM",
+    "lastSeenTime": "8:56:34 AM",
+    "onlineDurationMins": 10.614066666666666
+  }
+}
