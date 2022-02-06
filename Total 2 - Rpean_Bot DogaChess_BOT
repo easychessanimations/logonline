@@ -1,0 +1,16 @@
+{
+  "rpean_bot@lichess": {
+    "id": "rpean_bot",
+    "provider": "lichess",
+    "username": "Rpean_Bot",
+    "firstSeen": 1644164063482,
+    "lastSeen": 1644166212678
+  },
+  "dogachess_bot@lichess": {
+    "id": "dogachess_bot",
+    "provider": "lichess",
+    "username": "DogaChess_BOT",
+    "firstSeen": 1644166346490,
+    "lastSeen": 1644166346490
+  }
+}
