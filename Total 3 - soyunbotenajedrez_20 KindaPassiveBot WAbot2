@@ -1,0 +1,26 @@
+{
+  "soyunbotenajedrez_20@lichess": {
+    "id": "soyunbotenajedrez_20",
+    "provider": "lichess",
+    "username": "soyunbotenajedrez_20",
+    "firstSeen": 1644105807274,
+    "lastSeen": 1644108430687,
+    "firstSeenTime": "12:03:27 AM",
+    "lastSeenTime": "12:14:49 AM",
+    "onlineDurationMins": 11.37055
+  },
+  "kindapassivebot@lichess": {
+    "id": "kindapassivebot",
+    "provider": "lichess",
+    "username": "KindaPassiveBot",
+    "firstSeen": 1644107518980,
+    "lastSeen": 1644108520864
+  },
+  "wabot2@lichess": {
+    "id": "wabot2",
+    "provider": "lichess",
+    "username": "WAbot2",
+    "firstSeen": 1644108642655,
+    "lastSeen": 1644108642655
+  }
+}
