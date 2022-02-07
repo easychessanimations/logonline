@@ -1,0 +1,29 @@
+{
+  "veba_bot@lichess": {
+    "id": "veba_bot",
+    "provider": "lichess",
+    "username": "veba_bot",
+    "firstSeen": 1644237397424,
+    "lastSeen": 1644244094028,
+    "firstSeenTime": "12:36:37 PM",
+    "lastSeenTime": "2:17:10 PM",
+    "onlineDurationMins": 100.54483333333333
+  },
+  "thisala_wakwella@lichess": {
+    "id": "thisala_wakwella",
+    "provider": "lichess",
+    "username": "Thisala_Wakwella",
+    "firstSeen": 1644243719655,
+    "lastSeen": 1644244318782,
+    "firstSeenTime": "2:21:59 PM",
+    "lastSeenTime": "2:24:37 PM",
+    "onlineDurationMins": 2.62425
+  },
+  "macamafa1392@lichess": {
+    "id": "macamafa1392",
+    "provider": "lichess",
+    "username": "macamafa1392",
+    "firstSeen": 1644244507170,
+    "lastSeen": 1644244507170
+  }
+}
