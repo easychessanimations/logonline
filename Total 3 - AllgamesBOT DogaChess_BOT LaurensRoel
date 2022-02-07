@@ -1,0 +1,29 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1644248773992,
+    "lastSeen": 1644250280761,
+    "firstSeenTime": "3:46:13 PM",
+    "lastSeenTime": "4:11:20 PM",
+    "onlineDurationMins": 25.112816666666667
+  },
+  "dogachess_bot@lichess": {
+    "id": "dogachess_bot",
+    "provider": "lichess",
+    "username": "DogaChess_BOT",
+    "firstSeen": 1644249058038,
+    "lastSeen": 1644250560376,
+    "firstSeenTime": "3:50:58 PM",
+    "lastSeenTime": "4:12:31 PM",
+    "onlineDurationMins": 21.555783333333334
+  },
+  "laurensroel@lichess": {
+    "id": "laurensroel",
+    "provider": "lichess",
+    "username": "LaurensRoel",
+    "firstSeen": 1644250530045,
+    "lastSeen": 1644250589073
+  }
+}
