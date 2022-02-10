@@ -1,0 +1,36 @@
+{
+  "piratesbot@lichess": {
+    "id": "piratesbot",
+    "provider": "lichess",
+    "username": "PiratesBot",
+    "firstSeen": 1644476658005,
+    "lastSeen": 1644478241882,
+    "firstSeenTime": "7:04:18 AM",
+    "lastSeenTime": "7:30:41 AM",
+    "onlineDurationMins": 26.39795
+  },
+  "bot_kyungtaek@lichess": {
+    "id": "bot_kyungtaek",
+    "provider": "lichess",
+    "username": "bot_kyungtaek",
+    "firstSeen": 1644477940631,
+    "lastSeen": 1644478538093,
+    "firstSeenTime": "7:25:40 AM",
+    "lastSeenTime": "7:29:58 AM",
+    "onlineDurationMins": 4.29155
+  },
+  "thisala_wakwella@lichess": {
+    "id": "thisala_wakwella",
+    "provider": "lichess",
+    "username": "Thisala_Wakwella",
+    "firstSeen": 1644478554498,
+    "lastSeen": 1644478562683
+  },
+  "blitzchessengine1-1@lichess": {
+    "id": "blitzchessengine1-1",
+    "provider": "lichess",
+    "username": "BlitzChessEngine1-1",
+    "firstSeen": 1644478562813,
+    "lastSeen": 1644478562813
+  }
+}
