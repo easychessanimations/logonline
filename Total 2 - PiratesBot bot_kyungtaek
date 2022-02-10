@@ -1,0 +1,16 @@
+{
+  "piratesbot@lichess": {
+    "id": "piratesbot",
+    "provider": "lichess",
+    "username": "PiratesBot",
+    "firstSeen": 1644476658005,
+    "lastSeen": 1644477647600
+  },
+  "bot_kyungtaek@lichess": {
+    "id": "bot_kyungtaek",
+    "provider": "lichess",
+    "username": "bot_kyungtaek",
+    "firstSeen": 1644477940631,
+    "lastSeen": 1644477940631
+  }
+}
