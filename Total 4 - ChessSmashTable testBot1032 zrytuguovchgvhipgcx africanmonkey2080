@@ -1,0 +1,33 @@
+{
+  "chesssmashtable@lichess": {
+    "id": "chesssmashtable",
+    "provider": "lichess",
+    "username": "ChessSmashTable",
+    "firstSeen": 1644585189257,
+    "lastSeen": 1644592573681,
+    "firstSeenTime": "1:13:09 PM",
+    "lastSeenTime": "2:25:13 PM",
+    "onlineDurationMins": 72.06881666666666
+  },
+  "testbot1032@lichess": {
+    "id": "testbot1032",
+    "provider": "lichess",
+    "username": "testBot1032",
+    "firstSeen": 1644590221985,
+    "lastSeen": 1644592570582
+  },
+  "zrytuguovchgvhipgcx@lichess": {
+    "id": "zrytuguovchgvhipgcx",
+    "provider": "lichess",
+    "username": "zrytuguovchgvhipgcx",
+    "firstSeen": 1644591106708,
+    "lastSeen": 1644592741284
+  },
+  "africanmonkey2080@lichess": {
+    "id": "africanmonkey2080",
+    "provider": "lichess",
+    "username": "africanmonkey2080",
+    "firstSeen": 1644592594033,
+    "lastSeen": 1644592597533
+  }
+}
