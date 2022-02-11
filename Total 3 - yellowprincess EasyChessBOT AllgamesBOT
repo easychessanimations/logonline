@@ -1,0 +1,23 @@
+{
+  "yellowprincess@lichess": {
+    "id": "yellowprincess",
+    "provider": "lichess",
+    "username": "yellowprincess",
+    "firstSeen": 1644601291625,
+    "lastSeen": 1644603272563
+  },
+  "easychessbot@lichess": {
+    "id": "easychessbot",
+    "provider": "lichess",
+    "username": "EasyChessBOT",
+    "firstSeen": 1644602192046,
+    "lastSeen": 1644603658281
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1644603056586,
+    "lastSeen": 1644603696156
+  }
+}
