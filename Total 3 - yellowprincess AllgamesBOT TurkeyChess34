@@ -1,0 +1,32 @@
+{
+  "yellowprincess@lichess": {
+    "id": "yellowprincess",
+    "provider": "lichess",
+    "username": "yellowprincess",
+    "firstSeen": 1644601291625,
+    "lastSeen": 1644604526406,
+    "firstSeenTime": "5:41:31 PM",
+    "lastSeenTime": "6:33:58 PM",
+    "onlineDurationMins": 52.44636666666667
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1644603056586,
+    "lastSeen": 1644604356283,
+    "firstSeenTime": "6:10:56 PM",
+    "lastSeenTime": "6:32:36 PM",
+    "onlineDurationMins": 21.661616666666667
+  },
+  "turkeychess34@lichess": {
+    "id": "turkeychess34",
+    "provider": "lichess",
+    "username": "TurkeyChess34",
+    "firstSeen": 1644603819000,
+    "lastSeen": 1644604587849,
+    "firstSeenTime": "6:23:39 PM",
+    "lastSeenTime": "6:34:58 PM",
+    "onlineDurationMins": 11.331166666666666
+  }
+}
