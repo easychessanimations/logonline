@@ -1,0 +1,36 @@
+{
+  "chesssmashtable@lichess": {
+    "id": "chesssmashtable",
+    "provider": "lichess",
+    "username": "ChessSmashTable",
+    "firstSeen": 1644585189257,
+    "lastSeen": 1644591912786,
+    "firstSeenTime": "1:13:09 PM",
+    "lastSeenTime": "2:25:13 PM",
+    "onlineDurationMins": 72.06881666666666
+  },
+  "thisala_wakwella@lichess": {
+    "id": "thisala_wakwella",
+    "provider": "lichess",
+    "username": "Thisala_Wakwella",
+    "firstSeen": 1644588493265,
+    "lastSeen": 1644591908173,
+    "firstSeenTime": "2:08:13 PM",
+    "lastSeenTime": "2:31:20 PM",
+    "onlineDurationMins": 23.12105
+  },
+  "testbot1032@lichess": {
+    "id": "testbot1032",
+    "provider": "lichess",
+    "username": "testBot1032",
+    "firstSeen": 1644590221985,
+    "lastSeen": 1644592565970
+  },
+  "zrytuguovchgvhipgcx@lichess": {
+    "id": "zrytuguovchgvhipgcx",
+    "provider": "lichess",
+    "username": "zrytuguovchgvhipgcx",
+    "firstSeen": 1644591106708,
+    "lastSeen": 1644592007770
+  }
+}
