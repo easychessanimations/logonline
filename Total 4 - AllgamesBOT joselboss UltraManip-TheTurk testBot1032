@@ -1,0 +1,30 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1644596805133,
+    "lastSeen": 1644598308590
+  },
+  "joselboss@lichess": {
+    "id": "joselboss",
+    "provider": "lichess",
+    "username": "joselboss",
+    "firstSeen": 1644597859841,
+    "lastSeen": 1644598186609
+  },
+  "ultramanip-theturk@lichess": {
+    "id": "ultramanip-theturk",
+    "provider": "lichess",
+    "username": "UltraManip-TheTurk",
+    "firstSeen": 1644598203535,
+    "lastSeen": 1644598214659
+  },
+  "testbot1032@lichess": {
+    "id": "testbot1032",
+    "provider": "lichess",
+    "username": "testBot1032",
+    "firstSeen": 1644598625691,
+    "lastSeen": 1644598625691
+  }
+}
