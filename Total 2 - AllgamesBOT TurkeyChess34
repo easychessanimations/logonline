@@ -1,0 +1,22 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1644603056586,
+    "lastSeen": 1644605140091,
+    "firstSeenTime": "6:10:56 PM",
+    "lastSeenTime": "6:45:40 PM",
+    "onlineDurationMins": 34.72508333333333
+  },
+  "turkeychess34@lichess": {
+    "id": "turkeychess34",
+    "provider": "lichess",
+    "username": "TurkeyChess34",
+    "firstSeen": 1644603819000,
+    "lastSeen": 1644605322129,
+    "firstSeenTime": "6:23:39 PM",
+    "lastSeenTime": "6:48:22 PM",
+    "onlineDurationMins": 24.720166666666668
+  }
+}
