@@ -1,0 +1,29 @@
+{
+  "kbr999@lichess": {
+    "id": "kbr999",
+    "provider": "lichess",
+    "username": "Kbr999",
+    "firstSeen": 1644692017427,
+    "lastSeen": 1644698731461,
+    "firstSeenTime": "6:53:37 PM",
+    "lastSeenTime": "8:34:31 PM",
+    "onlineDurationMins": 100.90416666666667
+  },
+  "aebroadusbotter@lichess": {
+    "id": "aebroadusbotter",
+    "provider": "lichess",
+    "username": "AEBROADUSBOTTER",
+    "firstSeen": 1644697974832,
+    "lastSeen": 1644698700745,
+    "firstSeenTime": "8:32:54 PM",
+    "lastSeenTime": "8:34:54 PM",
+    "onlineDurationMins": 1.9981833333333334
+  },
+  "sreeshbot@lichess": {
+    "id": "sreeshbot",
+    "provider": "lichess",
+    "username": "SreeshBOT",
+    "firstSeen": 1644698744186,
+    "lastSeen": 1644698744186
+  }
+}
