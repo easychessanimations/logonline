@@ -1,0 +1,30 @@
+{
+  "testbot1032@lichess": {
+    "id": "testbot1032",
+    "provider": "lichess",
+    "username": "testBot1032",
+    "firstSeen": 1644674987583,
+    "lastSeen": 1644676928694
+  },
+  "playchessplay16bot@lichess": {
+    "id": "playchessplay16bot",
+    "provider": "lichess",
+    "username": "playchessplay16bot",
+    "firstSeen": 1644676714375,
+    "lastSeen": 1644677587385
+  },
+  "tacticalcocon@lichess": {
+    "id": "tacticalcocon",
+    "provider": "lichess",
+    "username": "TacticalCocon",
+    "firstSeen": 1644677092100,
+    "lastSeen": 1644677283557
+  },
+  "dudexd@lichess": {
+    "id": "dudexd",
+    "provider": "lichess",
+    "username": "dudeXD",
+    "firstSeen": 1644677706096,
+    "lastSeen": 1644677716854
+  }
+}
