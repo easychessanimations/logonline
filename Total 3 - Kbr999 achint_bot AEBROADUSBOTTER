@@ -1,0 +1,32 @@
+{
+  "kbr999@lichess": {
+    "id": "kbr999",
+    "provider": "lichess",
+    "username": "Kbr999",
+    "firstSeen": 1644692017427,
+    "lastSeen": 1644698255877,
+    "firstSeenTime": "6:53:37 PM",
+    "lastSeenTime": "8:34:31 PM",
+    "onlineDurationMins": 100.90416666666667
+  },
+  "achint_bot@lichess": {
+    "id": "achint_bot",
+    "provider": "lichess",
+    "username": "achint_bot",
+    "firstSeen": 1644697140610,
+    "lastSeen": 1644697602121,
+    "firstSeenTime": "8:19:00 PM",
+    "lastSeenTime": "8:26:42 PM",
+    "onlineDurationMins": 7.69185
+  },
+  "aebroadusbotter@lichess": {
+    "id": "aebroadusbotter",
+    "provider": "lichess",
+    "username": "AEBROADUSBOTTER",
+    "firstSeen": 1644697974832,
+    "lastSeen": 1644698403945,
+    "firstSeenTime": "8:32:54 PM",
+    "lastSeenTime": "8:34:54 PM",
+    "onlineDurationMins": 1.9981833333333334
+  }
+}
