@@ -1,0 +1,26 @@
+{
+  "aebroadusbotter@lichess": {
+    "id": "aebroadusbotter",
+    "provider": "lichess",
+    "username": "AEBROADUSBOTTER",
+    "firstSeen": 1644697974832,
+    "lastSeen": 1644713008168,
+    "firstSeenTime": "8:32:54 PM",
+    "lastSeenTime": "8:34:54 PM",
+    "onlineDurationMins": 1.9981833333333334
+  },
+  "sreeshbot@lichess": {
+    "id": "sreeshbot",
+    "provider": "lichess",
+    "username": "SreeshBOT",
+    "firstSeen": 1644712738475,
+    "lastSeen": 1644713145149
+  },
+  "thunderstorm2010@lichess": {
+    "id": "thunderstorm2010",
+    "provider": "lichess",
+    "username": "thunderstorm2010",
+    "firstSeen": 1644713146070,
+    "lastSeen": 1644713146070
+  }
+}
