@@ -1,0 +1,26 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1644738717367,
+    "lastSeen": 1644744265946,
+    "firstSeenTime": "7:51:57 AM",
+    "lastSeenTime": "8:53:40 AM",
+    "onlineDurationMins": 61.71811666666667
+  },
+  "thread-of-the-game@lichess": {
+    "id": "thread-of-the-game",
+    "provider": "lichess",
+    "username": "thread-of-the-game",
+    "firstSeen": 1644744702250,
+    "lastSeen": 1644744713379
+  },
+  "world-chess-02@lichess": {
+    "id": "world-chess-02",
+    "provider": "lichess",
+    "username": "World-chess-02",
+    "firstSeen": 1644744745336,
+    "lastSeen": 1644744745336
+  }
+}
