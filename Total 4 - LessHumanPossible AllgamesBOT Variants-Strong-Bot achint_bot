@@ -1,0 +1,33 @@
+{
+  "lesshumanpossible@lichess": {
+    "id": "lesshumanpossible",
+    "provider": "lichess",
+    "username": "LessHumanPossible",
+    "firstSeen": 1644765872513,
+    "lastSeen": 1644773465504,
+    "firstSeenTime": "3:24:32 PM",
+    "lastSeenTime": "4:06:08 PM",
+    "onlineDurationMins": 41.59755
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1644772024674,
+    "lastSeen": 1644773366342
+  },
+  "variants-strong-bot@lichess": {
+    "id": "variants-strong-bot",
+    "provider": "lichess",
+    "username": "Variants-Strong-Bot",
+    "firstSeen": 1644773282468,
+    "lastSeen": 1644773502709
+  },
+  "achint_bot@lichess": {
+    "id": "achint_bot",
+    "provider": "lichess",
+    "username": "achint_bot",
+    "firstSeen": 1644773502758,
+    "lastSeen": 1644773502758
+  }
+}
