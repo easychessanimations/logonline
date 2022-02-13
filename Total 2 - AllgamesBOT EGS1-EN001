@@ -1,0 +1,22 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1644772024674,
+    "lastSeen": 1644779602788,
+    "firstSeenTime": "5:07:04 PM",
+    "lastSeenTime": "6:28:22 PM",
+    "onlineDurationMins": 81.30085
+  },
+  "egs1-en001@lichess": {
+    "id": "egs1-en001",
+    "provider": "lichess",
+    "username": "EGS1-EN001",
+    "firstSeen": 1644777045843,
+    "lastSeen": 1644779952856,
+    "firstSeenTime": "6:30:45 PM",
+    "lastSeenTime": "6:31:29 PM",
+    "onlineDurationMins": 0.7245166666666667
+  }
+}
