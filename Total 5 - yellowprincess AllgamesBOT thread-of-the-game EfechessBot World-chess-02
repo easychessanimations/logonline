@@ -1,0 +1,37 @@
+{
+  "yellowprincess@lichess": {
+    "id": "yellowprincess",
+    "provider": "lichess",
+    "username": "yellowprincess",
+    "firstSeen": 1644747845753,
+    "lastSeen": 1644750452701
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1644748511360,
+    "lastSeen": 1644750442987
+  },
+  "thread-of-the-game@lichess": {
+    "id": "thread-of-the-game",
+    "provider": "lichess",
+    "username": "thread-of-the-game",
+    "firstSeen": 1644749643988,
+    "lastSeen": 1644750315335
+  },
+  "efechessbot@lichess": {
+    "id": "efechessbot",
+    "provider": "lichess",
+    "username": "EfechessBot",
+    "firstSeen": 1644750331771,
+    "lastSeen": 1644750712680
+  },
+  "world-chess-02@lichess": {
+    "id": "world-chess-02",
+    "provider": "lichess",
+    "username": "World-chess-02",
+    "firstSeen": 1644750782441,
+    "lastSeen": 1644750782441
+  }
+}
