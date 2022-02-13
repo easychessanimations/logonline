@@ -1,0 +1,19 @@
+{
+  "thread-of-the-game@lichess": {
+    "id": "thread-of-the-game",
+    "provider": "lichess",
+    "username": "thread-of-the-game",
+    "firstSeen": 1644744702250,
+    "lastSeen": 1644746206644,
+    "firstSeenTime": "9:31:42 AM",
+    "lastSeenTime": "9:56:46 AM",
+    "onlineDurationMins": 25.073233333333334
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1644746685335,
+    "lastSeen": 1644746685335
+  }
+}
