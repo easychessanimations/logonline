@@ -1,0 +1,23 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1644748511360,
+    "lastSeen": 1644751765855
+  },
+  "thread-of-the-game@lichess": {
+    "id": "thread-of-the-game",
+    "provider": "lichess",
+    "username": "thread-of-the-game",
+    "firstSeen": 1644749643988,
+    "lastSeen": 1644751554811
+  },
+  "goodcode@lichess": {
+    "id": "goodcode",
+    "provider": "lichess",
+    "username": "GoodCode",
+    "firstSeen": 1644751576162,
+    "lastSeen": 1644752345717
+  }
+}
