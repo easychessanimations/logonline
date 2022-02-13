@@ -1,0 +1,39 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1644748511360,
+    "lastSeen": 1644753982051,
+    "firstSeenTime": "10:35:11 AM",
+    "lastSeenTime": "11:53:25 AM",
+    "onlineDurationMins": 78.24236666666667
+  },
+  "thread-of-the-game@lichess": {
+    "id": "thread-of-the-game",
+    "provider": "lichess",
+    "username": "thread-of-the-game",
+    "firstSeen": 1644752762911,
+    "lastSeen": 1644754151382,
+    "firstSeenTime": "11:46:02 AM",
+    "lastSeenTime": "11:57:15 AM",
+    "onlineDurationMins": 11.211483333333334
+  },
+  "efechessbot@lichess": {
+    "id": "efechessbot",
+    "provider": "lichess",
+    "username": "EfechessBot",
+    "firstSeen": 1644752981759,
+    "lastSeen": 1644753663679,
+    "firstSeenTime": "11:49:41 AM",
+    "lastSeenTime": "11:50:08 AM",
+    "onlineDurationMins": 0.4515
+  },
+  "botalpington@lichess": {
+    "id": "botalpington",
+    "provider": "lichess",
+    "username": "BotAlpington",
+    "firstSeen": 1644754209025,
+    "lastSeen": 1644754209025
+  }
+}
