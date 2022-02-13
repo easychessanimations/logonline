@@ -4,23 +4,29 @@
     "provider": "lichess",
     "username": "LessHumanPossible",
     "firstSeen": 1644765872513,
-    "lastSeen": 1644773222459,
+    "lastSeen": 1644774977478,
     "firstSeenTime": "3:24:32 PM",
-    "lastSeenTime": "4:06:08 PM",
-    "onlineDurationMins": 41.59755
+    "lastSeenTime": "5:56:17 PM",
+    "onlineDurationMins": 151.74941666666666
   },
   "allgamesbot@lichess": {
     "id": "allgamesbot",
     "provider": "lichess",
     "username": "AllgamesBOT",
     "firstSeen": 1644772024674,
-    "lastSeen": 1644772772235
+    "lastSeen": 1644775043686,
+    "firstSeenTime": "5:07:04 PM",
+    "lastSeenTime": "5:55:26 PM",
+    "onlineDurationMins": 48.36443333333333
   },
   "variants-strong-bot@lichess": {
     "id": "variants-strong-bot",
     "provider": "lichess",
     "username": "Variants-Strong-Bot",
     "firstSeen": 1644773282468,
-    "lastSeen": 1644773282468
+    "lastSeen": 1644775017045,
+    "firstSeenTime": "5:28:02 PM",
+    "lastSeenTime": "5:55:25 PM",
+    "onlineDurationMins": 27.38455
   }
 }
