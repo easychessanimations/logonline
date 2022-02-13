@@ -1,0 +1,29 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1644772024674,
+    "lastSeen": 1644776902725,
+    "firstSeenTime": "5:07:04 PM",
+    "lastSeenTime": "6:22:23 PM",
+    "onlineDurationMins": 75.31715
+  },
+  "variants-strong-bot@lichess": {
+    "id": "variants-strong-bot",
+    "provider": "lichess",
+    "username": "Variants-Strong-Bot",
+    "firstSeen": 1644773282468,
+    "lastSeen": 1644776901739,
+    "firstSeenTime": "5:28:02 PM",
+    "lastSeenTime": "6:21:56 PM",
+    "onlineDurationMins": 53.90593333333333
+  },
+  "egs1-en001@lichess": {
+    "id": "egs1-en001",
+    "provider": "lichess",
+    "username": "EGS1-EN001",
+    "firstSeen": 1644777045843,
+    "lastSeen": 1644777045843
+  }
+}
