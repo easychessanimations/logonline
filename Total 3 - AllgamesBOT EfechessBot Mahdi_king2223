@@ -1,0 +1,29 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1644738717367,
+    "lastSeen": 1644742582977,
+    "firstSeenTime": "7:51:57 AM",
+    "lastSeenTime": "8:53:40 AM",
+    "onlineDurationMins": 61.71811666666667
+  },
+  "efechessbot@lichess": {
+    "id": "efechessbot",
+    "provider": "lichess",
+    "username": "EfechessBot",
+    "firstSeen": 1644741169044,
+    "lastSeen": 1644742266038,
+    "firstSeenTime": "8:32:49 AM",
+    "lastSeenTime": "8:51:06 AM",
+    "onlineDurationMins": 18.28323333333333
+  },
+  "mahdi_king2223@lichess": {
+    "id": "mahdi_king2223",
+    "provider": "lichess",
+    "username": "Mahdi_king2223",
+    "firstSeen": 1644742678210,
+    "lastSeen": 1644742678210
+  }
+}
