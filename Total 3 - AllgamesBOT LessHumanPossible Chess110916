@@ -1,0 +1,23 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1644765752183,
+    "lastSeen": 1644765860839
+  },
+  "lesshumanpossible@lichess": {
+    "id": "lesshumanpossible",
+    "provider": "lichess",
+    "username": "LessHumanPossible",
+    "firstSeen": 1644765872513,
+    "lastSeen": 1644765889669
+  },
+  "chess110916@lichess": {
+    "id": "chess110916",
+    "provider": "lichess",
+    "username": "Chess110916",
+    "firstSeen": 1644765890568,
+    "lastSeen": 1644765890568
+  }
+}
