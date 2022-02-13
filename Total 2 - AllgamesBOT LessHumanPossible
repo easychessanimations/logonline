@@ -4,13 +4,19 @@
     "provider": "lichess",
     "username": "AllgamesBOT",
     "firstSeen": 1644765752183,
-    "lastSeen": 1644765860839
+    "lastSeen": 1644766795375,
+    "firstSeenTime": "3:22:32 PM",
+    "lastSeenTime": "3:37:32 PM",
+    "onlineDurationMins": 15.002533333333334
   },
   "lesshumanpossible@lichess": {
     "id": "lesshumanpossible",
     "provider": "lichess",
     "username": "LessHumanPossible",
     "firstSeen": 1644765872513,
-    "lastSeen": 1644765872513
+    "lastSeen": 1644766988718,
+    "firstSeenTime": "3:24:32 PM",
+    "lastSeenTime": "3:39:02 PM",
+    "onlineDurationMins": 14.492166666666666
   }
 }
