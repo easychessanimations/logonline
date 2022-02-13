@@ -1,0 +1,30 @@
+{
+  "aebroadusbotter@lichess": {
+    "id": "aebroadusbotter",
+    "provider": "lichess",
+    "username": "AEBROADUSBOTTER",
+    "firstSeen": 1644731848490,
+    "lastSeen": 1644740727946
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1644738717367,
+    "lastSeen": 1644741436155
+  },
+  "efechessbot@lichess": {
+    "id": "efechessbot",
+    "provider": "lichess",
+    "username": "EfechessBot",
+    "firstSeen": 1644741169044,
+    "lastSeen": 1644741371502
+  },
+  "pawn-queen-bot@lichess": {
+    "id": "pawn-queen-bot",
+    "provider": "lichess",
+    "username": "Pawn-Queen-BOT",
+    "firstSeen": 1644741454172,
+    "lastSeen": 1644741454172
+  }
+}
