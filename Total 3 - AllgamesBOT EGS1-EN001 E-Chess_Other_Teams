@@ -1,0 +1,29 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1644772024674,
+    "lastSeen": 1644778886185,
+    "firstSeenTime": "5:07:04 PM",
+    "lastSeenTime": "6:28:22 PM",
+    "onlineDurationMins": 81.30085
+  },
+  "egs1-en001@lichess": {
+    "id": "egs1-en001",
+    "provider": "lichess",
+    "username": "EGS1-EN001",
+    "firstSeen": 1644777045843,
+    "lastSeen": 1644779293735,
+    "firstSeenTime": "6:30:45 PM",
+    "lastSeenTime": "6:31:29 PM",
+    "onlineDurationMins": 0.7245166666666667
+  },
+  "e-chess_other_teams@lichess": {
+    "id": "e-chess_other_teams",
+    "provider": "lichess",
+    "username": "E-Chess_Other_Teams",
+    "firstSeen": 1644778710038,
+    "lastSeen": 1644778752407
+  }
+}
