@@ -1,0 +1,22 @@
+{
+  "apraz@lichess": {
+    "id": "apraz",
+    "provider": "lichess",
+    "username": "apraz",
+    "firstSeen": 1644833183987,
+    "lastSeen": 1644836605023,
+    "firstSeenTime": "10:06:23 AM",
+    "lastSeenTime": "11:03:25 AM",
+    "onlineDurationMins": 57.017266666666664
+  },
+  "thrmarkbench@lichess": {
+    "id": "thrmarkbench",
+    "provider": "lichess",
+    "username": "thrmarkbench",
+    "firstSeen": 1644836651219,
+    "lastSeen": 1644836955110,
+    "firstSeenTime": "11:04:11 AM",
+    "lastSeenTime": "11:07:11 AM",
+    "onlineDurationMins": 3.0009
+  }
+}
