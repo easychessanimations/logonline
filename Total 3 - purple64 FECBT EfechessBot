@@ -1,0 +1,29 @@
+{
+  "purple64@lichess": {
+    "id": "purple64",
+    "provider": "lichess",
+    "username": "purple64",
+    "firstSeen": 1644848912441,
+    "lastSeen": 1644848921847,
+    "firstSeenTime": "2:28:32 PM",
+    "lastSeenTime": "2:28:41 PM",
+    "onlineDurationMins": 0.15676666666666667
+  },
+  "fecbt@lichess": {
+    "id": "fecbt",
+    "provider": "lichess",
+    "username": "FECBT",
+    "firstSeen": 1644849387468,
+    "lastSeen": 1644849683247,
+    "firstSeenTime": "2:36:27 PM",
+    "lastSeenTime": "2:40:52 PM",
+    "onlineDurationMins": 4.421666666666667
+  },
+  "efechessbot@lichess": {
+    "id": "efechessbot",
+    "provider": "lichess",
+    "username": "EfechessBot",
+    "firstSeen": 1644849744767,
+    "lastSeen": 1644849744767
+  }
+}
