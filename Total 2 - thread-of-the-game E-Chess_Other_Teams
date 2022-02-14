@@ -1,0 +1,19 @@
+{
+  "thread-of-the-game@lichess": {
+    "id": "thread-of-the-game",
+    "provider": "lichess",
+    "username": "thread-of-the-game",
+    "firstSeen": 1644860256727,
+    "lastSeen": 1644864889314,
+    "firstSeenTime": "5:37:36 PM",
+    "lastSeenTime": "5:37:50 PM",
+    "onlineDurationMins": 0.23065
+  },
+  "e-chess_other_teams@lichess": {
+    "id": "e-chess_other_teams",
+    "provider": "lichess",
+    "username": "E-Chess_Other_Teams",
+    "firstSeen": 1644865023595,
+    "lastSeen": 1644865023596
+  }
+}
