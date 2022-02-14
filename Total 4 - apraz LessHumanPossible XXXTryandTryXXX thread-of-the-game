@@ -1,0 +1,33 @@
+{
+  "apraz@lichess": {
+    "id": "apraz",
+    "provider": "lichess",
+    "username": "apraz",
+    "firstSeen": 1644850417438,
+    "lastSeen": 1644851202422,
+    "firstSeenTime": "2:53:37 PM",
+    "lastSeenTime": "2:54:15 PM",
+    "onlineDurationMins": 0.6333666666666666
+  },
+  "lesshumanpossible@lichess": {
+    "id": "lesshumanpossible",
+    "provider": "lichess",
+    "username": "LessHumanPossible",
+    "firstSeen": 1644850526049,
+    "lastSeen": 1644851090035
+  },
+  "xxxtryandtryxxx@lichess": {
+    "id": "xxxtryandtryxxx",
+    "provider": "lichess",
+    "username": "XXXTryandTryXXX",
+    "firstSeen": 1644850757070,
+    "lastSeen": 1644851220969
+  },
+  "thread-of-the-game@lichess": {
+    "id": "thread-of-the-game",
+    "provider": "lichess",
+    "username": "thread-of-the-game",
+    "firstSeen": 1644851259497,
+    "lastSeen": 1644851419620
+  }
+}
