@@ -1,0 +1,29 @@
+{
+  "thread-of-the-game@lichess": {
+    "id": "thread-of-the-game",
+    "provider": "lichess",
+    "username": "thread-of-the-game",
+    "firstSeen": 1644869690977,
+    "lastSeen": 1644876169872,
+    "firstSeenTime": "8:14:50 PM",
+    "lastSeenTime": "9:28:53 PM",
+    "onlineDurationMins": 74.0367
+  },
+  "kingb0t@lichess": {
+    "id": "kingb0t",
+    "provider": "lichess",
+    "username": "KingB0t",
+    "firstSeen": 1644870724143,
+    "lastSeen": 1644876216201,
+    "firstSeenTime": "8:32:04 PM",
+    "lastSeenTime": "9:29:36 PM",
+    "onlineDurationMins": 57.53698333333333
+  },
+  "jpsbot@lichess": {
+    "id": "jpsbot",
+    "provider": "lichess",
+    "username": "JPSBOT",
+    "firstSeen": 1644876340063,
+    "lastSeen": 1644876340063
+  }
+}
