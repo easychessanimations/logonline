@@ -1,0 +1,63 @@
+{
+  "fecbt@lichess": {
+    "id": "fecbt",
+    "provider": "lichess",
+    "username": "FECBT",
+    "firstSeen": 1644849387468,
+    "lastSeen": 1644850482583,
+    "firstSeenTime": "2:36:27 PM",
+    "lastSeenTime": "2:54:42 PM",
+    "onlineDurationMins": 18.251916666666666
+  },
+  "efechessbot@lichess": {
+    "id": "efechessbot",
+    "provider": "lichess",
+    "username": "EfechessBot",
+    "firstSeen": 1644849744767,
+    "lastSeen": 1644850437012,
+    "firstSeenTime": "2:42:24 PM",
+    "lastSeenTime": "2:53:57 PM",
+    "onlineDurationMins": 11.537416666666667
+  },
+  "thrmarkbench@lichess": {
+    "id": "thrmarkbench",
+    "provider": "lichess",
+    "username": "thrmarkbench",
+    "firstSeen": 1644850380049,
+    "lastSeen": 1644850416165,
+    "firstSeenTime": "2:53:00 PM",
+    "lastSeenTime": "2:53:36 PM",
+    "onlineDurationMins": 0.6019333333333333
+  },
+  "apraz@lichess": {
+    "id": "apraz",
+    "provider": "lichess",
+    "username": "apraz",
+    "firstSeen": 1644850417438,
+    "lastSeen": 1644851202422,
+    "firstSeenTime": "2:53:37 PM",
+    "lastSeenTime": "2:54:15 PM",
+    "onlineDurationMins": 0.6333666666666666
+  },
+  "lesshumanpossible@lichess": {
+    "id": "lesshumanpossible",
+    "provider": "lichess",
+    "username": "LessHumanPossible",
+    "firstSeen": 1644850526049,
+    "lastSeen": 1644851090035
+  },
+  "xxxtryandtryxxx@lichess": {
+    "id": "xxxtryandtryxxx",
+    "provider": "lichess",
+    "username": "XXXTryandTryXXX",
+    "firstSeen": 1644850757070,
+    "lastSeen": 1644851220969
+  },
+  "thread-of-the-game@lichess": {
+    "id": "thread-of-the-game",
+    "provider": "lichess",
+    "username": "thread-of-the-game",
+    "firstSeen": 1644851259497,
+    "lastSeen": 1644851259497
+  }
+}
