@@ -1,0 +1,29 @@
+{
+  "fecbt@lichess": {
+    "id": "fecbt",
+    "provider": "lichess",
+    "username": "FECBT",
+    "firstSeen": 1644849387468,
+    "lastSeen": 1644850287097,
+    "firstSeenTime": "2:36:27 PM",
+    "lastSeenTime": "2:51:27 PM",
+    "onlineDurationMins": 14.993816666666667
+  },
+  "efechessbot@lichess": {
+    "id": "efechessbot",
+    "provider": "lichess",
+    "username": "EfechessBot",
+    "firstSeen": 1644849744767,
+    "lastSeen": 1644850137158,
+    "firstSeenTime": "2:42:24 PM",
+    "lastSeenTime": "2:48:57 PM",
+    "onlineDurationMins": 6.53985
+  },
+  "thrmarkbench@lichess": {
+    "id": "thrmarkbench",
+    "provider": "lichess",
+    "username": "thrmarkbench",
+    "firstSeen": 1644850380049,
+    "lastSeen": 1644850380049
+  }
+}
