@@ -1,0 +1,23 @@
+{
+  "kings_defense@lichess": {
+    "id": "kings_defense",
+    "provider": "lichess",
+    "username": "Kings_Defense",
+    "firstSeen": 1644909263010,
+    "lastSeen": 1644913983618
+  },
+  "apraz@lichess": {
+    "id": "apraz",
+    "provider": "lichess",
+    "username": "apraz",
+    "firstSeen": 1644911629829,
+    "lastSeen": 1644913992217
+  },
+  "bot-stonger@lichess": {
+    "id": "bot-stonger",
+    "provider": "lichess",
+    "username": "BOT-Stonger",
+    "firstSeen": 1644914032126,
+    "lastSeen": 1644914032126
+  }
+}
