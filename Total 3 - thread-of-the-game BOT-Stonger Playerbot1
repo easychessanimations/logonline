@@ -1,0 +1,23 @@
+{
+  "thread-of-the-game@lichess": {
+    "id": "thread-of-the-game",
+    "provider": "lichess",
+    "username": "thread-of-the-game",
+    "firstSeen": 1644933629050,
+    "lastSeen": 1644939030365
+  },
+  "bot-stonger@lichess": {
+    "id": "bot-stonger",
+    "provider": "lichess",
+    "username": "BOT-Stonger",
+    "firstSeen": 1644938257929,
+    "lastSeen": 1644939016320
+  },
+  "playerbot1@lichess": {
+    "id": "playerbot1",
+    "provider": "lichess",
+    "username": "Playerbot1",
+    "firstSeen": 1644938589719,
+    "lastSeen": 1644939023478
+  }
+}
