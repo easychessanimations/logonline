@@ -1,0 +1,26 @@
+{
+  "lejkerbot@lichess": {
+    "id": "lejkerbot",
+    "provider": "lichess",
+    "username": "LejkerBOT",
+    "firstSeen": 1644954093419,
+    "lastSeen": 1644956077080,
+    "firstSeenTime": "7:41:33 PM",
+    "lastSeenTime": "8:14:37 PM",
+    "onlineDurationMins": 33.06101666666667
+  },
+  "efechessbot@lichess": {
+    "id": "efechessbot",
+    "provider": "lichess",
+    "username": "EfechessBot",
+    "firstSeen": 1644956302610,
+    "lastSeen": 1644956312796
+  },
+  "aprazz@lichess": {
+    "id": "aprazz",
+    "provider": "lichess",
+    "username": "aprazz",
+    "firstSeen": 1644956409294,
+    "lastSeen": 1644956409294
+  }
+}
