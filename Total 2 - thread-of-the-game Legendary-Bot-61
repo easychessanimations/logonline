@@ -1,0 +1,22 @@
+{
+  "thread-of-the-game@lichess": {
+    "id": "thread-of-the-game",
+    "provider": "lichess",
+    "username": "thread-of-the-game",
+    "firstSeen": 1644917108079,
+    "lastSeen": 1644925228973,
+    "firstSeenTime": "9:25:08 AM",
+    "lastSeenTime": "11:30:28 AM",
+    "onlineDurationMins": 125.34831666666666
+  },
+  "legendary-bot-61@lichess": {
+    "id": "legendary-bot-61",
+    "provider": "lichess",
+    "username": "Legendary-Bot-61",
+    "firstSeen": 1644923728823,
+    "lastSeen": 1644925355470,
+    "firstSeenTime": "11:15:28 AM",
+    "lastSeenTime": "11:31:44 AM",
+    "onlineDurationMins": 16.259
+  }
+}
