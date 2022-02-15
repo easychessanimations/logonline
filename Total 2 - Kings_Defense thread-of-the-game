@@ -1,0 +1,22 @@
+{
+  "kings_defense@lichess": {
+    "id": "kings_defense",
+    "provider": "lichess",
+    "username": "Kings_Defense",
+    "firstSeen": 1644915854739,
+    "lastSeen": 1644919438383,
+    "firstSeenTime": "9:04:14 AM",
+    "lastSeenTime": "9:42:03 AM",
+    "onlineDurationMins": 37.81613333333333
+  },
+  "thread-of-the-game@lichess": {
+    "id": "thread-of-the-game",
+    "provider": "lichess",
+    "username": "thread-of-the-game",
+    "firstSeen": 1644917108079,
+    "lastSeen": 1644919337014,
+    "firstSeenTime": "9:25:08 AM",
+    "lastSeenTime": "9:39:32 AM",
+    "onlineDurationMins": 14.405116666666666
+  }
+}
