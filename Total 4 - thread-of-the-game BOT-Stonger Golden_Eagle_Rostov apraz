@@ -1,0 +1,33 @@
+{
+  "thread-of-the-game@lichess": {
+    "id": "thread-of-the-game",
+    "provider": "lichess",
+    "username": "thread-of-the-game",
+    "firstSeen": 1644917108079,
+    "lastSeen": 1644931078353,
+    "firstSeenTime": "9:25:08 AM",
+    "lastSeenTime": "11:40:28 AM",
+    "onlineDurationMins": 135.34823333333333
+  },
+  "bot-stonger@lichess": {
+    "id": "bot-stonger",
+    "provider": "lichess",
+    "username": "BOT-Stonger",
+    "firstSeen": 1644927538579,
+    "lastSeen": 1644931457981
+  },
+  "golden_eagle_rostov@lichess": {
+    "id": "golden_eagle_rostov",
+    "provider": "lichess",
+    "username": "Golden_Eagle_Rostov",
+    "firstSeen": 1644929049089,
+    "lastSeen": 1644931493367
+  },
+  "apraz@lichess": {
+    "id": "apraz",
+    "provider": "lichess",
+    "username": "apraz",
+    "firstSeen": 1644930908844,
+    "lastSeen": 1644931484490
+  }
+}
