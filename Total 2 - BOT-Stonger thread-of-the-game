@@ -1,0 +1,16 @@
+{
+  "bot-stonger@lichess": {
+    "id": "bot-stonger",
+    "provider": "lichess",
+    "username": "BOT-Stonger",
+    "firstSeen": 1644933427018,
+    "lastSeen": 1644935466840
+  },
+  "thread-of-the-game@lichess": {
+    "id": "thread-of-the-game",
+    "provider": "lichess",
+    "username": "thread-of-the-game",
+    "firstSeen": 1644933629050,
+    "lastSeen": 1644935492694
+  }
+}
