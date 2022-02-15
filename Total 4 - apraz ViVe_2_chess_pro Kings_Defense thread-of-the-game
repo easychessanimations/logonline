@@ -1,0 +1,42 @@
+{
+  "apraz@lichess": {
+    "id": "apraz",
+    "provider": "lichess",
+    "username": "apraz",
+    "firstSeen": 1644911629829,
+    "lastSeen": 1644917655317,
+    "firstSeenTime": "7:53:49 AM",
+    "lastSeenTime": "9:34:15 AM",
+    "onlineDurationMins": 100.4248
+  },
+  "vive_2_chess_pro@lichess": {
+    "id": "vive_2_chess_pro",
+    "provider": "lichess",
+    "username": "ViVe_2_chess_pro",
+    "firstSeen": 1644915575299,
+    "lastSeen": 1644917697289,
+    "firstSeenTime": "8:59:35 AM",
+    "lastSeenTime": "9:34:57 AM",
+    "onlineDurationMins": 35.3665
+  },
+  "kings_defense@lichess": {
+    "id": "kings_defense",
+    "provider": "lichess",
+    "username": "Kings_Defense",
+    "firstSeen": 1644915854739,
+    "lastSeen": 1644918123707,
+    "firstSeenTime": "9:04:14 AM",
+    "lastSeenTime": "9:42:03 AM",
+    "onlineDurationMins": 37.81613333333333
+  },
+  "thread-of-the-game@lichess": {
+    "id": "thread-of-the-game",
+    "provider": "lichess",
+    "username": "thread-of-the-game",
+    "firstSeen": 1644917108079,
+    "lastSeen": 1644917972386,
+    "firstSeenTime": "9:25:08 AM",
+    "lastSeenTime": "9:39:32 AM",
+    "onlineDurationMins": 14.405116666666666
+  }
+}
