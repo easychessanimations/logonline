@@ -1,0 +1,29 @@
+{
+  "thread-of-the-game@lichess": {
+    "id": "thread-of-the-game",
+    "provider": "lichess",
+    "username": "thread-of-the-game",
+    "firstSeen": 1644917108079,
+    "lastSeen": 1644927136678,
+    "firstSeenTime": "9:25:08 AM",
+    "lastSeenTime": "11:40:28 AM",
+    "onlineDurationMins": 135.34823333333333
+  },
+  "legendary-bot-61@lichess": {
+    "id": "legendary-bot-61",
+    "provider": "lichess",
+    "username": "Legendary-Bot-61",
+    "firstSeen": 1644923728823,
+    "lastSeen": 1644927132495,
+    "firstSeenTime": "11:15:28 AM",
+    "lastSeenTime": "11:42:35 AM",
+    "onlineDurationMins": 27.110783333333334
+  },
+  "bot-stonger@lichess": {
+    "id": "bot-stonger",
+    "provider": "lichess",
+    "username": "BOT-Stonger",
+    "firstSeen": 1644927538579,
+    "lastSeen": 1644927538579
+  }
+}
