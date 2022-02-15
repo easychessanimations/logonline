@@ -1,0 +1,19 @@
+{
+  "sreeshbot@lichess": {
+    "id": "sreeshbot",
+    "provider": "lichess",
+    "username": "SreeshBOT",
+    "firstSeen": 1644963139356,
+    "lastSeen": 1644967946359,
+    "firstSeenTime": "10:12:19 PM",
+    "lastSeenTime": "11:14:47 PM",
+    "onlineDurationMins": 62.47666666666667
+  },
+  "palpablebears_bot@lichess": {
+    "id": "palpablebears_bot",
+    "provider": "lichess",
+    "username": "Palpablebears_bot",
+    "firstSeen": 1644968041066,
+    "lastSeen": 1644968041066
+  }
+}
