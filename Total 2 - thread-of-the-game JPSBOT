@@ -1,0 +1,16 @@
+{
+  "thread-of-the-game@lichess": {
+    "id": "thread-of-the-game",
+    "provider": "lichess",
+    "username": "thread-of-the-game",
+    "firstSeen": 1644933629050,
+    "lastSeen": 1644940353022
+  },
+  "jpsbot@lichess": {
+    "id": "jpsbot",
+    "provider": "lichess",
+    "username": "JPSBOT",
+    "firstSeen": 1644940031535,
+    "lastSeen": 1644940605134
+  }
+}
