@@ -4,16 +4,19 @@
     "provider": "lichess",
     "username": "LejkerBOT",
     "firstSeen": 1644954093419,
-    "lastSeen": 1644956077080,
+    "lastSeen": 1644957393340,
     "firstSeenTime": "7:41:33 PM",
-    "lastSeenTime": "8:14:37 PM",
-    "onlineDurationMins": 33.06101666666667
+    "lastSeenTime": "8:25:33 PM",
+    "onlineDurationMins": 44.00106666666667
   },
   "efechessbot@lichess": {
     "id": "efechessbot",
     "provider": "lichess",
     "username": "EfechessBot",
     "firstSeen": 1644956302610,
-    "lastSeen": 1644956302610
+    "lastSeen": 1644956869184,
+    "firstSeenTime": "8:18:22 PM",
+    "lastSeenTime": "8:27:49 PM",
+    "onlineDurationMins": 9.4429
   }
 }
