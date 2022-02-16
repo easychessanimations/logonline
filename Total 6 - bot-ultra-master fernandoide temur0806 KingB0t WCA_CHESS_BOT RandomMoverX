@@ -1,0 +1,44 @@
+{
+  "bot-ultra-master@lichess": {
+    "id": "bot-ultra-master",
+    "provider": "lichess",
+    "username": "bot-ultra-master",
+    "firstSeen": 1645024705758,
+    "lastSeen": 1645032687460
+  },
+  "fernandoide@lichess": {
+    "id": "fernandoide",
+    "provider": "lichess",
+    "username": "fernandoide",
+    "firstSeen": 1645029408767,
+    "lastSeen": 1645032708831
+  },
+  "temur0806@lichess": {
+    "id": "temur0806",
+    "provider": "lichess",
+    "username": "temur0806",
+    "firstSeen": 1645030234122,
+    "lastSeen": 1645032334202
+  },
+  "kingb0t@lichess": {
+    "id": "kingb0t",
+    "provider": "lichess",
+    "username": "KingB0t",
+    "firstSeen": 1645031144939,
+    "lastSeen": 1645031856135
+  },
+  "wca_chess_bot@lichess": {
+    "id": "wca_chess_bot",
+    "provider": "lichess",
+    "username": "WCA_CHESS_BOT",
+    "firstSeen": 1645031382331,
+    "lastSeen": 1645032233834
+  },
+  "randommoverx@lichess": {
+    "id": "randommoverx",
+    "provider": "lichess",
+    "username": "RandomMoverX",
+    "firstSeen": 1645032340194,
+    "lastSeen": 1645032642316
+  }
+}
