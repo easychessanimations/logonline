@@ -1,0 +1,49 @@
+{
+  "bot-ultra-master@lichess": {
+    "id": "bot-ultra-master",
+    "provider": "lichess",
+    "username": "bot-ultra-master",
+    "firstSeen": 1645024705758,
+    "lastSeen": 1645045639882,
+    "firstSeenTime": "3:18:25 PM",
+    "lastSeenTime": "9:00:23 PM",
+    "onlineDurationMins": 341.9579166666667
+  },
+  "randommoverx@lichess": {
+    "id": "randommoverx",
+    "provider": "lichess",
+    "username": "RandomMoverX",
+    "firstSeen": 1645032340194,
+    "lastSeen": 1645045243935,
+    "firstSeenTime": "5:25:40 PM",
+    "lastSeenTime": "9:00:43 PM",
+    "onlineDurationMins": 215.06235
+  },
+  "icysharkbot@lichess": {
+    "id": "icysharkbot",
+    "provider": "lichess",
+    "username": "IcySharkBOT",
+    "firstSeen": 1645038137643,
+    "lastSeen": 1645045681600,
+    "firstSeenTime": "7:02:17 PM",
+    "lastSeenTime": "9:06:04 PM",
+    "onlineDurationMins": 123.78815
+  },
+  "b_e_n_c_e@lichess": {
+    "id": "b_e_n_c_e",
+    "provider": "lichess",
+    "username": "B_e_n_c_e",
+    "firstSeen": 1645045140909,
+    "lastSeen": 1645045759914,
+    "firstSeenTime": "8:59:00 PM",
+    "lastSeenTime": "9:02:20 PM",
+    "onlineDurationMins": 3.3229166666666665
+  },
+  "iamabotlol@lichess": {
+    "id": "iamabotlol",
+    "provider": "lichess",
+    "username": "iamabotlol",
+    "firstSeen": 1645045760864,
+    "lastSeen": 1645045760864
+  }
+}
