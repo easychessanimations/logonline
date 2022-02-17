@@ -1,0 +1,29 @@
+{
+  "bot-ultra-master@lichess": {
+    "id": "bot-ultra-master",
+    "provider": "lichess",
+    "username": "bot-ultra-master",
+    "firstSeen": 1645078953637,
+    "lastSeen": 1645104322355,
+    "firstSeenTime": "6:22:33 AM",
+    "lastSeenTime": "1:20:19 PM",
+    "onlineDurationMins": 417.75946666666664
+  },
+  "lionheartedwarrior12@lichess": {
+    "id": "lionheartedwarrior12",
+    "provider": "lichess",
+    "username": "LionHeartedWarrior12",
+    "firstSeen": 1645103163922,
+    "lastSeen": 1645104425422,
+    "firstSeenTime": "1:06:03 PM",
+    "lastSeenTime": "1:20:54 PM",
+    "onlineDurationMins": 14.83725
+  },
+  "aprazz@lichess": {
+    "id": "aprazz",
+    "provider": "lichess",
+    "username": "aprazz",
+    "firstSeen": 1645104430756,
+    "lastSeen": 1645104453971
+  }
+}
