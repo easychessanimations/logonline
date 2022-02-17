@@ -1,0 +1,36 @@
+{
+  "bot-ultra-master@lichess": {
+    "id": "bot-ultra-master",
+    "provider": "lichess",
+    "username": "bot-ultra-master",
+    "firstSeen": 1645078953637,
+    "lastSeen": 1645101018466,
+    "firstSeenTime": "6:22:33 AM",
+    "lastSeenTime": "12:09:21 PM",
+    "onlineDurationMins": 346.7961833333333
+  },
+  "brainypratyush3@lichess": {
+    "id": "brainypratyush3",
+    "provider": "lichess",
+    "username": "Brainypratyush3",
+    "firstSeen": 1645098110650,
+    "lastSeen": 1645100964103,
+    "firstSeenTime": "11:41:50 AM",
+    "lastSeenTime": "12:03:56 PM",
+    "onlineDurationMins": 22.091266666666666
+  },
+  "emrebeytm@lichess": {
+    "id": "emrebeytm",
+    "provider": "lichess",
+    "username": "EmreBeyTM",
+    "firstSeen": 1645100664235,
+    "lastSeen": 1645100848598
+  },
+  "aprazz@lichess": {
+    "id": "aprazz",
+    "provider": "lichess",
+    "username": "aprazz",
+    "firstSeen": 1645100746124,
+    "lastSeen": 1645100950654
+  }
+}
