@@ -1,0 +1,49 @@
+{
+  "bot-ultra-master@lichess": {
+    "id": "bot-ultra-master",
+    "provider": "lichess",
+    "username": "bot-ultra-master",
+    "firstSeen": 1645078953637,
+    "lastSeen": 1645101502562,
+    "firstSeenTime": "6:22:33 AM",
+    "lastSeenTime": "12:30:18 PM",
+    "onlineDurationMins": 367.74715
+  },
+  "brainypratyush3@lichess": {
+    "id": "brainypratyush3",
+    "provider": "lichess",
+    "username": "Brainypratyush3",
+    "firstSeen": 1645098110650,
+    "lastSeen": 1645100964103,
+    "firstSeenTime": "11:41:50 AM",
+    "lastSeenTime": "12:29:24 PM",
+    "onlineDurationMins": 47.55755
+  },
+  "emrebeytm@lichess": {
+    "id": "emrebeytm",
+    "provider": "lichess",
+    "username": "EmreBeyTM",
+    "firstSeen": 1645100664235,
+    "lastSeen": 1645101532644,
+    "firstSeenTime": "12:24:24 PM",
+    "lastSeenTime": "12:27:28 PM",
+    "onlineDurationMins": 3.0727166666666665
+  },
+  "aprazz@lichess": {
+    "id": "aprazz",
+    "provider": "lichess",
+    "username": "aprazz",
+    "firstSeen": 1645100746124,
+    "lastSeen": 1645100950654,
+    "firstSeenTime": "12:25:46 PM",
+    "lastSeenTime": "12:29:10 PM",
+    "onlineDurationMins": 3.4088333333333334
+  },
+  "wins-chess-academy@lichess": {
+    "id": "wins-chess-academy",
+    "provider": "lichess",
+    "username": "WINS-CHESS-ACADEMY",
+    "firstSeen": 1645101631735,
+    "lastSeen": 1645101631735
+  }
+}
