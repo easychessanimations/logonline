@@ -1,0 +1,36 @@
+{
+  "bot-ultra-master@lichess": {
+    "id": "bot-ultra-master",
+    "provider": "lichess",
+    "username": "bot-ultra-master",
+    "firstSeen": 1645078953637,
+    "lastSeen": 1645102519206,
+    "firstSeenTime": "6:22:33 AM",
+    "lastSeenTime": "12:30:18 PM",
+    "onlineDurationMins": 367.74715
+  },
+  "emrebeytm@lichess": {
+    "id": "emrebeytm",
+    "provider": "lichess",
+    "username": "EmreBeyTM",
+    "firstSeen": 1645100664235,
+    "lastSeen": 1645102448977,
+    "firstSeenTime": "12:24:24 PM",
+    "lastSeenTime": "12:27:28 PM",
+    "onlineDurationMins": 3.0727166666666665
+  },
+  "wins-chess-academy@lichess": {
+    "id": "wins-chess-academy",
+    "provider": "lichess",
+    "username": "WINS-CHESS-ACADEMY",
+    "firstSeen": 1645101631735,
+    "lastSeen": 1645101649154
+  },
+  "bot-stonger@lichess": {
+    "id": "bot-stonger",
+    "provider": "lichess",
+    "username": "BOT-Stonger",
+    "firstSeen": 1645102537989,
+    "lastSeen": 1645102537989
+  }
+}
