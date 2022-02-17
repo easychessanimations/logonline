@@ -1,0 +1,62 @@
+{
+  "bot-ultra-master@lichess": {
+    "id": "bot-ultra-master",
+    "provider": "lichess",
+    "username": "bot-ultra-master",
+    "firstSeen": 1645078953637,
+    "lastSeen": 1645100400728,
+    "firstSeenTime": "6:22:33 AM",
+    "lastSeenTime": "12:09:21 PM",
+    "onlineDurationMins": 346.7961833333333
+  },
+  "brainypratyush3@lichess": {
+    "id": "brainypratyush3",
+    "provider": "lichess",
+    "username": "Brainypratyush3",
+    "firstSeen": 1645098110650,
+    "lastSeen": 1645100530613,
+    "firstSeenTime": "11:41:50 AM",
+    "lastSeenTime": "12:03:56 PM",
+    "onlineDurationMins": 22.091266666666666
+  },
+  "emre20012007@lichess": {
+    "id": "emre20012007",
+    "provider": "lichess",
+    "username": "Emre20012007",
+    "firstSeen": 1645099183558,
+    "lastSeen": 1645100391942,
+    "firstSeenTime": "11:59:43 AM",
+    "lastSeenTime": "12:01:48 PM",
+    "onlineDurationMins": 2.07795
+  },
+  "ntheanh2012@lichess": {
+    "id": "ntheanh2012",
+    "provider": "lichess",
+    "username": "NTheAnh2012",
+    "firstSeen": 1645099184218,
+    "lastSeen": 1645099792601,
+    "firstSeenTime": "11:59:44 AM",
+    "lastSeenTime": "12:09:52 PM",
+    "onlineDurationMins": 10.139716666666667
+  },
+  "wca_chess_bot@lichess": {
+    "id": "wca_chess_bot",
+    "provider": "lichess",
+    "username": "WCA_CHESS_BOT",
+    "firstSeen": 1645099627356,
+    "lastSeen": 1645099704428,
+    "firstSeenTime": "12:07:07 PM",
+    "lastSeenTime": "12:08:24 PM",
+    "onlineDurationMins": 1.2845333333333333
+  },
+  "stay_our_team@lichess": {
+    "id": "stay_our_team",
+    "provider": "lichess",
+    "username": "STAY_OUR_TEAM",
+    "firstSeen": 1645099705531,
+    "lastSeen": 1645099840152,
+    "firstSeenTime": "12:08:25 PM",
+    "lastSeenTime": "12:09:55 PM",
+    "onlineDurationMins": 1.4992166666666666
+  }
+}
