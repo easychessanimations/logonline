@@ -1,0 +1,49 @@
+{
+  "bot-ultra-master@lichess": {
+    "id": "bot-ultra-master",
+    "provider": "lichess",
+    "username": "bot-ultra-master",
+    "firstSeen": 1645078953637,
+    "lastSeen": 1645102519206,
+    "firstSeenTime": "6:22:33 AM",
+    "lastSeenTime": "12:55:19 PM",
+    "onlineDurationMins": 392.7594833333333
+  },
+  "emrebeytm@lichess": {
+    "id": "emrebeytm",
+    "provider": "lichess",
+    "username": "EmreBeyTM",
+    "firstSeen": 1645100664235,
+    "lastSeen": 1645102448977,
+    "firstSeenTime": "12:24:24 PM",
+    "lastSeenTime": "12:54:08 PM",
+    "onlineDurationMins": 29.7457
+  },
+  "bot-stonger@lichess": {
+    "id": "bot-stonger",
+    "provider": "lichess",
+    "username": "BOT-Stonger",
+    "firstSeen": 1645102537989,
+    "lastSeen": 1645102708681,
+    "firstSeenTime": "12:55:37 PM",
+    "lastSeenTime": "12:58:28 PM",
+    "onlineDurationMins": 2.844866666666667
+  },
+  "akshadlawanibot@lichess": {
+    "id": "akshadlawanibot",
+    "provider": "lichess",
+    "username": "akshadlawanibot",
+    "firstSeen": 1645102653637,
+    "lastSeen": 1645102664782,
+    "firstSeenTime": "12:57:33 PM",
+    "lastSeenTime": "12:57:44 PM",
+    "onlineDurationMins": 0.18575
+  },
+  "monster_queen@lichess": {
+    "id": "monster_queen",
+    "provider": "lichess",
+    "username": "Monster_Queen",
+    "firstSeen": 1645102736121,
+    "lastSeen": 1645102736121
+  }
+}
