@@ -1,0 +1,39 @@
+{
+  "bot-ultra-master@lichess": {
+    "id": "bot-ultra-master",
+    "provider": "lichess",
+    "username": "bot-ultra-master",
+    "firstSeen": 1645024705758,
+    "lastSeen": 1645057343261,
+    "firstSeenTime": "3:18:25 PM",
+    "lastSeenTime": "12:22:23 AM",
+    "onlineDurationMins": 543.9583833333334
+  },
+  "randommoverx@lichess": {
+    "id": "randommoverx",
+    "provider": "lichess",
+    "username": "RandomMoverX",
+    "firstSeen": 1645032340194,
+    "lastSeen": 1645057364839,
+    "firstSeenTime": "5:25:40 PM",
+    "lastSeenTime": "12:22:44 AM",
+    "onlineDurationMins": 417.0774166666667
+  },
+  "varient_eagle@lichess": {
+    "id": "varient_eagle",
+    "provider": "lichess",
+    "username": "Varient_Eagle",
+    "firstSeen": 1645055031988,
+    "lastSeen": 1645057427398,
+    "firstSeenTime": "11:43:51 PM",
+    "lastSeenTime": "12:23:47 AM",
+    "onlineDurationMins": 39.9235
+  },
+  "egs1-en001@lichess": {
+    "id": "egs1-en001",
+    "provider": "lichess",
+    "username": "EGS1-EN001",
+    "firstSeen": 1645057445976,
+    "lastSeen": 1645057445976
+  }
+}
