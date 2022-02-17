@@ -1,0 +1,36 @@
+{
+  "randommoverx@lichess": {
+    "id": "randommoverx",
+    "provider": "lichess",
+    "username": "RandomMoverX",
+    "firstSeen": 1645032340194,
+    "lastSeen": 1645072066876,
+    "firstSeenTime": "5:25:40 PM",
+    "lastSeenTime": "4:16:45 AM",
+    "onlineDurationMins": 651.0875
+  },
+  "pranavisthebest@lichess": {
+    "id": "pranavisthebest",
+    "provider": "lichess",
+    "username": "Pranavisthebest",
+    "firstSeen": 1645064623801,
+    "lastSeen": 1645071605639,
+    "firstSeenTime": "2:23:43 AM",
+    "lastSeenTime": "4:16:09 AM",
+    "onlineDurationMins": 112.43313333333333
+  },
+  "mr_pro_bot@lichess": {
+    "id": "mr_pro_bot",
+    "provider": "lichess",
+    "username": "Mr_Pro_BOT",
+    "firstSeen": 1645072043740,
+    "lastSeen": 1645072132263
+  },
+  "king-of-iran@lichess": {
+    "id": "king-of-iran",
+    "provider": "lichess",
+    "username": "king-of-iran",
+    "firstSeen": 1645072150225,
+    "lastSeen": 1645072150225
+  }
+}
