@@ -1,0 +1,29 @@
+{
+  "nikitosikbot@lichess": {
+    "id": "nikitosikbot",
+    "provider": "lichess",
+    "username": "Nikitosikbot",
+    "firstSeen": 1645191894796,
+    "lastSeen": 1645193922186,
+    "firstSeenTime": "1:44:54 PM",
+    "lastSeenTime": "1:56:03 PM",
+    "onlineDurationMins": 11.136783333333334
+  },
+  "botifiedmoyao@lichess": {
+    "id": "botifiedmoyao",
+    "provider": "lichess",
+    "username": "BotifiedMoyao",
+    "firstSeen": 1645192465611,
+    "lastSeen": 1645193643872,
+    "firstSeenTime": "1:54:25 PM",
+    "lastSeenTime": "1:58:26 PM",
+    "onlineDurationMins": 4.012416666666667
+  },
+  "varient_eagle@lichess": {
+    "id": "varient_eagle",
+    "provider": "lichess",
+    "username": "Varient_Eagle",
+    "firstSeen": 1645193970841,
+    "lastSeen": 1645193970841
+  }
+}
