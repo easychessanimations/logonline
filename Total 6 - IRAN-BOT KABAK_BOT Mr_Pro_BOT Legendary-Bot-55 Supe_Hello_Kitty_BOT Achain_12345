@@ -1,0 +1,56 @@
+{
+  "iran-bot@lichess": {
+    "id": "iran-bot",
+    "provider": "lichess",
+    "username": "IRAN-BOT",
+    "firstSeen": 1645274985669,
+    "lastSeen": 1645280187451,
+    "firstSeenTime": "12:49:45 PM",
+    "lastSeenTime": "1:46:32 PM",
+    "onlineDurationMins": 56.77451666666666
+  },
+  "kabak_bot@lichess": {
+    "id": "kabak_bot",
+    "provider": "lichess",
+    "username": "KABAK_BOT",
+    "firstSeen": 1645277774749,
+    "lastSeen": 1645279955853,
+    "firstSeenTime": "1:36:14 PM",
+    "lastSeenTime": "1:47:30 PM",
+    "onlineDurationMins": 11.260366666666666
+  },
+  "mr_pro_bot@lichess": {
+    "id": "mr_pro_bot",
+    "provider": "lichess",
+    "username": "Mr_Pro_BOT",
+    "firstSeen": 1645277863528,
+    "lastSeen": 1645279839824,
+    "firstSeenTime": "1:37:43 PM",
+    "lastSeenTime": "1:43:20 PM",
+    "onlineDurationMins": 5.608066666666667
+  },
+  "legendary-bot-55@lichess": {
+    "id": "legendary-bot-55",
+    "provider": "lichess",
+    "username": "Legendary-Bot-55",
+    "firstSeen": 1645277907999,
+    "lastSeen": 1645279843868,
+    "firstSeenTime": "1:38:27 PM",
+    "lastSeenTime": "1:46:21 PM",
+    "onlineDurationMins": 7.898016666666667
+  },
+  "supe_hello_kitty_bot@lichess": {
+    "id": "supe_hello_kitty_bot",
+    "provider": "lichess",
+    "username": "Supe_Hello_Kitty_BOT",
+    "firstSeen": 1645278872573,
+    "lastSeen": 1645279539426
+  },
+  "achain_12345@lichess": {
+    "id": "achain_12345",
+    "provider": "lichess",
+    "username": "Achain_12345",
+    "firstSeen": 1645279904232,
+    "lastSeen": 1645279976387
+  }
+}
