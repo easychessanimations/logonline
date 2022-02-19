@@ -1,0 +1,26 @@
+{
+  "iran-bot@lichess": {
+    "id": "iran-bot",
+    "provider": "lichess",
+    "username": "IRAN-BOT",
+    "firstSeen": 1645251888012,
+    "lastSeen": 1645257275750,
+    "firstSeenTime": "6:24:48 AM",
+    "lastSeenTime": "6:44:48 AM",
+    "onlineDurationMins": 20.000983333333334
+  },
+  "king-bot-bot@lichess": {
+    "id": "king-bot-bot",
+    "provider": "lichess",
+    "username": "king-bot-bot",
+    "firstSeen": 1645255980312,
+    "lastSeen": 1645256849255
+  },
+  "922100253065347122@discord": {
+    "id": "922100253065347122",
+    "provider": "discord",
+    "username": ".Ghost.",
+    "firstSeen": 1645257135055,
+    "lastSeen": 1645257346109
+  }
+}
