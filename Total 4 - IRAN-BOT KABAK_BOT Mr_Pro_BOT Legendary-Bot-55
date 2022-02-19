@@ -1,0 +1,33 @@
+{
+  "iran-bot@lichess": {
+    "id": "iran-bot",
+    "provider": "lichess",
+    "username": "IRAN-BOT",
+    "firstSeen": 1645274985669,
+    "lastSeen": 1645277905708,
+    "firstSeenTime": "12:49:45 PM",
+    "lastSeenTime": "12:53:07 PM",
+    "onlineDurationMins": 3.364533333333333
+  },
+  "kabak_bot@lichess": {
+    "id": "kabak_bot",
+    "provider": "lichess",
+    "username": "KABAK_BOT",
+    "firstSeen": 1645277774749,
+    "lastSeen": 1645277847188
+  },
+  "mr_pro_bot@lichess": {
+    "id": "mr_pro_bot",
+    "provider": "lichess",
+    "username": "Mr_Pro_BOT",
+    "firstSeen": 1645277863528,
+    "lastSeen": 1645277875250
+  },
+  "legendary-bot-55@lichess": {
+    "id": "legendary-bot-55",
+    "provider": "lichess",
+    "username": "Legendary-Bot-55",
+    "firstSeen": 1645277907999,
+    "lastSeen": 1645277907999
+  }
+}
