@@ -1,0 +1,39 @@
+{
+  "nikitosikbot@lichess": {
+    "id": "nikitosikbot",
+    "provider": "lichess",
+    "username": "Nikitosikbot",
+    "firstSeen": 1645247186406,
+    "lastSeen": 1645250515255,
+    "firstSeenTime": "5:06:26 AM",
+    "lastSeenTime": "6:01:05 AM",
+    "onlineDurationMins": 54.64488333333333
+  },
+  "iran-bot@lichess": {
+    "id": "iran-bot",
+    "provider": "lichess",
+    "username": "IRAN-BOT",
+    "firstSeen": 1645249963211,
+    "lastSeen": 1645250293277,
+    "firstSeenTime": "5:52:43 AM",
+    "lastSeenTime": "5:58:13 AM",
+    "onlineDurationMins": 5.5011
+  },
+  "kingbot3000@lichess": {
+    "id": "kingbot3000",
+    "provider": "lichess",
+    "username": "kingbot3000",
+    "firstSeen": 1645250330852,
+    "lastSeen": 1645250449665,
+    "firstSeenTime": "5:58:50 AM",
+    "lastSeenTime": "6:00:49 AM",
+    "onlineDurationMins": 1.9802166666666667
+  },
+  "efechessbot@lichess": {
+    "id": "efechessbot",
+    "provider": "lichess",
+    "username": "EfechessBot",
+    "firstSeen": 1645250591591,
+    "lastSeen": 1645250591591
+  }
+}
