@@ -1,0 +1,39 @@
+{
+  "iran-bot@lichess": {
+    "id": "iran-bot",
+    "provider": "lichess",
+    "username": "IRAN-BOT",
+    "firstSeen": 1645274985669,
+    "lastSeen": 1645281268660,
+    "firstSeenTime": "12:49:45 PM",
+    "lastSeenTime": "2:30:24 PM",
+    "onlineDurationMins": 100.64881666666666
+  },
+  "kabak_bot@lichess": {
+    "id": "kabak_bot",
+    "provider": "lichess",
+    "username": "KABAK_BOT",
+    "firstSeen": 1645277774749,
+    "lastSeen": 1645280675806,
+    "firstSeenTime": "1:36:14 PM",
+    "lastSeenTime": "2:24:35 PM",
+    "onlineDurationMins": 48.35095
+  },
+  "mr_pro_bot@lichess": {
+    "id": "mr_pro_bot",
+    "provider": "lichess",
+    "username": "Mr_Pro_BOT",
+    "firstSeen": 1645277863528,
+    "lastSeen": 1645280675824,
+    "firstSeenTime": "1:37:43 PM",
+    "lastSeenTime": "2:24:35 PM",
+    "onlineDurationMins": 46.8716
+  },
+  "opldksijfkj@lichess": {
+    "id": "opldksijfkj",
+    "provider": "lichess",
+    "username": "OpLdksijfKJ",
+    "firstSeen": 1645281218695,
+    "lastSeen": 1645281229561
+  }
+}
