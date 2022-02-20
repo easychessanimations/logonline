@@ -4,13 +4,19 @@
     "provider": "lichess",
     "username": "stocktopus_bot",
     "firstSeen": 1645381965494,
-    "lastSeen": 1645383511491
+    "lastSeen": 1645384695510,
+    "firstSeenTime": "6:32:45 PM",
+    "lastSeenTime": "6:58:31 PM",
+    "onlineDurationMins": 25.766616666666668
   },
   "nikitosikbot@lichess": {
     "id": "nikitosikbot",
     "provider": "lichess",
     "username": "Nikitosikbot",
     "firstSeen": 1645383588421,
-    "lastSeen": 1645383588421
+    "lastSeen": 1645384967467,
+    "firstSeenTime": "6:59:48 PM",
+    "lastSeenTime": "7:00:02 PM",
+    "onlineDurationMins": 0.23173333333333335
   }
 }
