@@ -1,0 +1,30 @@
+{
+  "nikitosikbot@lichess": {
+    "id": "nikitosikbot",
+    "provider": "lichess",
+    "username": "Nikitosikbot",
+    "firstSeen": 1645380626729,
+    "lastSeen": 1645381965459
+  },
+  "iran-bot@lichess": {
+    "id": "iran-bot",
+    "provider": "lichess",
+    "username": "IRAN-BOT",
+    "firstSeen": 1645381105662,
+    "lastSeen": 1645381951867
+  },
+  "world-bot@lichess": {
+    "id": "world-bot",
+    "provider": "lichess",
+    "username": "WORLD-BOT",
+    "firstSeen": 1645381107112,
+    "lastSeen": 1645381120088
+  },
+  "stocktopus_bot@lichess": {
+    "id": "stocktopus_bot",
+    "provider": "lichess",
+    "username": "stocktopus_bot",
+    "firstSeen": 1645381965494,
+    "lastSeen": 1645381965494
+  }
+}
