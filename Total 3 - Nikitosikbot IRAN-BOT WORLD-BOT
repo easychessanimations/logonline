@@ -1,0 +1,23 @@
+{
+  "nikitosikbot@lichess": {
+    "id": "nikitosikbot",
+    "provider": "lichess",
+    "username": "Nikitosikbot",
+    "firstSeen": 1645380626729,
+    "lastSeen": 1645381106756
+  },
+  "iran-bot@lichess": {
+    "id": "iran-bot",
+    "provider": "lichess",
+    "username": "IRAN-BOT",
+    "firstSeen": 1645381105662,
+    "lastSeen": 1645381105663
+  },
+  "world-bot@lichess": {
+    "id": "world-bot",
+    "provider": "lichess",
+    "username": "WORLD-BOT",
+    "firstSeen": 1645381107112,
+    "lastSeen": 1645381107112
+  }
+}
