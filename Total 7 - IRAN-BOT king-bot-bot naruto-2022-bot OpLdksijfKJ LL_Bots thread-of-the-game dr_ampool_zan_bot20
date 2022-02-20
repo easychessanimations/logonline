@@ -1,0 +1,57 @@
+{
+  "iran-bot@lichess": {
+    "id": "iran-bot",
+    "provider": "lichess",
+    "username": "IRAN-BOT",
+    "firstSeen": 1645337129618,
+    "lastSeen": 1645344134919,
+    "firstSeenTime": "6:05:29 AM",
+    "lastSeenTime": "6:29:44 AM",
+    "onlineDurationMins": 24.247733333333333
+  },
+  "king-bot-bot@lichess": {
+    "id": "king-bot-bot",
+    "provider": "lichess",
+    "username": "king-bot-bot",
+    "firstSeen": 1645337446301,
+    "lastSeen": 1645344534481,
+    "firstSeenTime": "6:10:46 AM",
+    "lastSeenTime": "6:29:13 AM",
+    "onlineDurationMins": 18.4522
+  },
+  "naruto-2022-bot@lichess": {
+    "id": "naruto-2022-bot",
+    "provider": "lichess",
+    "username": "naruto-2022-bot",
+    "firstSeen": 1645340398243,
+    "lastSeen": 1645344624374
+  },
+  "opldksijfkj@lichess": {
+    "id": "opldksijfkj",
+    "provider": "lichess",
+    "username": "OpLdksijfKJ",
+    "firstSeen": 1645343257466,
+    "lastSeen": 1645344877215
+  },
+  "ll_bots@lichess": {
+    "id": "ll_bots",
+    "provider": "lichess",
+    "username": "LL_Bots",
+    "firstSeen": 1645343604178,
+    "lastSeen": 1645344307783
+  },
+  "thread-of-the-game@lichess": {
+    "id": "thread-of-the-game",
+    "provider": "lichess",
+    "username": "thread-of-the-game",
+    "firstSeen": 1645343957664,
+    "lastSeen": 1645344641370
+  },
+  "dr_ampool_zan_bot20@lichess": {
+    "id": "dr_ampool_zan_bot20",
+    "provider": "lichess",
+    "username": "dr_ampool_zan_bot20",
+    "firstSeen": 1645345004797,
+    "lastSeen": 1645345004797
+  }
+}
