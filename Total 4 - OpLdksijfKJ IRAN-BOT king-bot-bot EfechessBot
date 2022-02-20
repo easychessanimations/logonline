@@ -1,0 +1,42 @@
+{
+  "opldksijfkj@lichess": {
+    "id": "opldksijfkj",
+    "provider": "lichess",
+    "username": "OpLdksijfKJ",
+    "firstSeen": 1645336275819,
+    "lastSeen": 1645338084213,
+    "firstSeenTime": "5:51:15 AM",
+    "lastSeenTime": "6:21:24 AM",
+    "onlineDurationMins": 30.1399
+  },
+  "iran-bot@lichess": {
+    "id": "iran-bot",
+    "provider": "lichess",
+    "username": "IRAN-BOT",
+    "firstSeen": 1645337129618,
+    "lastSeen": 1645338495009,
+    "firstSeenTime": "6:05:29 AM",
+    "lastSeenTime": "6:26:05 AM",
+    "onlineDurationMins": 20.597183333333334
+  },
+  "king-bot-bot@lichess": {
+    "id": "king-bot-bot",
+    "provider": "lichess",
+    "username": "king-bot-bot",
+    "firstSeen": 1645337446301,
+    "lastSeen": 1645338489152,
+    "firstSeenTime": "6:10:46 AM",
+    "lastSeenTime": "6:25:07 AM",
+    "onlineDurationMins": 14.356183333333334
+  },
+  "efechessbot@lichess": {
+    "id": "efechessbot",
+    "provider": "lichess",
+    "username": "EfechessBot",
+    "firstSeen": 1645337448106,
+    "lastSeen": 1645338095645,
+    "firstSeenTime": "6:10:48 AM",
+    "lastSeenTime": "6:21:35 AM",
+    "onlineDurationMins": 10.792316666666666
+  }
+}
