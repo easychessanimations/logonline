@@ -1,0 +1,29 @@
+{
+  "nikitosikbot@lichess": {
+    "id": "nikitosikbot",
+    "provider": "lichess",
+    "username": "Nikitosikbot",
+    "firstSeen": 1645371920924,
+    "lastSeen": 1645374431319,
+    "firstSeenTime": "3:45:20 PM",
+    "lastSeenTime": "4:03:09 PM",
+    "onlineDurationMins": 17.808583333333335
+  },
+  "iran-bot@lichess": {
+    "id": "iran-bot",
+    "provider": "lichess",
+    "username": "IRAN-BOT",
+    "firstSeen": 1645371968788,
+    "lastSeen": 1645374017855,
+    "firstSeenTime": "3:46:08 PM",
+    "lastSeenTime": "4:03:06 PM",
+    "onlineDurationMins": 16.965866666666667
+  },
+  "ultramanip-theturk@lichess": {
+    "id": "ultramanip-theturk",
+    "provider": "lichess",
+    "username": "UltraManip-TheTurk",
+    "firstSeen": 1645373994860,
+    "lastSeen": 1645374683641
+  }
+}
