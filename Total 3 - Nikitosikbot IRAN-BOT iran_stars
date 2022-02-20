@@ -1,0 +1,29 @@
+{
+  "nikitosikbot@lichess": {
+    "id": "nikitosikbot",
+    "provider": "lichess",
+    "username": "Nikitosikbot",
+    "firstSeen": 1645371920924,
+    "lastSeen": 1645372782360,
+    "firstSeenTime": "3:45:20 PM",
+    "lastSeenTime": "3:56:45 PM",
+    "onlineDurationMins": 11.405383333333333
+  },
+  "iran-bot@lichess": {
+    "id": "iran-bot",
+    "provider": "lichess",
+    "username": "IRAN-BOT",
+    "firstSeen": 1645371968788,
+    "lastSeen": 1645372772706,
+    "firstSeenTime": "3:46:08 PM",
+    "lastSeenTime": "3:56:38 PM",
+    "onlineDurationMins": 10.493616666666666
+  },
+  "iran_stars@lichess": {
+    "id": "iran_stars",
+    "provider": "lichess",
+    "username": "iran_stars",
+    "firstSeen": 1645372793217,
+    "lastSeen": 1645372793217
+  }
+}
