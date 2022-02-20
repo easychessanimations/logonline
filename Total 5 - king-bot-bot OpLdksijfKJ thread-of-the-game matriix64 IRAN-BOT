@@ -1,0 +1,40 @@
+{
+  "king-bot-bot@lichess": {
+    "id": "king-bot-bot",
+    "provider": "lichess",
+    "username": "king-bot-bot",
+    "firstSeen": 1645337446301,
+    "lastSeen": 1645347863111,
+    "firstSeenTime": "6:10:46 AM",
+    "lastSeenTime": "6:29:13 AM",
+    "onlineDurationMins": 18.4522
+  },
+  "opldksijfkj@lichess": {
+    "id": "opldksijfkj",
+    "provider": "lichess",
+    "username": "OpLdksijfKJ",
+    "firstSeen": 1645343257466,
+    "lastSeen": 1645347646737
+  },
+  "thread-of-the-game@lichess": {
+    "id": "thread-of-the-game",
+    "provider": "lichess",
+    "username": "thread-of-the-game",
+    "firstSeen": 1645343957664,
+    "lastSeen": 1645347878055
+  },
+  "matriix64@lichess": {
+    "id": "matriix64",
+    "provider": "lichess",
+    "username": "matriix64",
+    "firstSeen": 1645347619565,
+    "lastSeen": 1645347630191
+  },
+  "iran-bot@lichess": {
+    "id": "iran-bot",
+    "provider": "lichess",
+    "username": "IRAN-BOT",
+    "firstSeen": 1645347919903,
+    "lastSeen": 1645347919903
+  }
+}
