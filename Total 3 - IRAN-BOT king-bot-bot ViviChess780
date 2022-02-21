@@ -1,0 +1,23 @@
+{
+  "iran-bot@lichess": {
+    "id": "iran-bot",
+    "provider": "lichess",
+    "username": "IRAN-BOT",
+    "firstSeen": 1645418446359,
+    "lastSeen": 1645419746014
+  },
+  "king-bot-bot@lichess": {
+    "id": "king-bot-bot",
+    "provider": "lichess",
+    "username": "king-bot-bot",
+    "firstSeen": 1645420007949,
+    "lastSeen": 1645420332802
+  },
+  "vivichess780@lichess": {
+    "id": "vivichess780",
+    "provider": "lichess",
+    "username": "ViviChess780",
+    "firstSeen": 1645420469196,
+    "lastSeen": 1645420469196
+  }
+}
