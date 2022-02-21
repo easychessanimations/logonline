@@ -4,13 +4,19 @@
     "provider": "lichess",
     "username": "Hodi2010",
     "firstSeen": 1645457301896,
-    "lastSeen": 1645460676811
+    "lastSeen": 1645462418740,
+    "firstSeenTime": "3:28:21 PM",
+    "lastSeenTime": "4:38:37 PM",
+    "onlineDurationMins": 70.26786666666666
   },
   "nikitosikbot@lichess": {
     "id": "nikitosikbot",
     "provider": "lichess",
     "username": "Nikitosikbot",
     "firstSeen": 1645460912320,
-    "lastSeen": 1645460912320
+    "lastSeen": 1645462319020,
+    "firstSeenTime": "4:28:32 PM",
+    "lastSeenTime": "4:51:59 PM",
+    "onlineDurationMins": 23.445
   }
 }
