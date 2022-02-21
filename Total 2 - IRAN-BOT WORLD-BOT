@@ -1,0 +1,16 @@
+{
+  "iran-bot@lichess": {
+    "id": "iran-bot",
+    "provider": "lichess",
+    "username": "IRAN-BOT",
+    "firstSeen": 1645418446359,
+    "lastSeen": 1645418446359
+  },
+  "world-bot@lichess": {
+    "id": "world-bot",
+    "provider": "lichess",
+    "username": "WORLD-BOT",
+    "firstSeen": 1645418447702,
+    "lastSeen": 1645418447702
+  }
+}
