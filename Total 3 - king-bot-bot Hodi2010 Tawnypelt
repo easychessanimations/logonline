@@ -1,0 +1,26 @@
+{
+  "king-bot-bot@lichess": {
+    "id": "king-bot-bot",
+    "provider": "lichess",
+    "username": "king-bot-bot",
+    "firstSeen": 1645420007949,
+    "lastSeen": 1645434448701,
+    "firstSeenTime": "5:06:47 AM",
+    "lastSeenTime": "8:45:29 AM",
+    "onlineDurationMins": 218.68431666666666
+  },
+  "hodi2010@lichess": {
+    "id": "hodi2010",
+    "provider": "lichess",
+    "username": "Hodi2010",
+    "firstSeen": 1645434119265,
+    "lastSeen": 1645434879515
+  },
+  "tawnypelt@lichess": {
+    "id": "tawnypelt",
+    "provider": "lichess",
+    "username": "Tawnypelt",
+    "firstSeen": 1645434983218,
+    "lastSeen": 1645434983218
+  }
+}
