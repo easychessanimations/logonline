@@ -1,0 +1,29 @@
+{
+  "nikitosikbot@lichess": {
+    "id": "nikitosikbot",
+    "provider": "lichess",
+    "username": "Nikitosikbot",
+    "firstSeen": 1645530843409,
+    "lastSeen": 1645540013256,
+    "firstSeenTime": "11:54:03 AM",
+    "lastSeenTime": "2:26:53 PM",
+    "onlineDurationMins": 152.83078333333333
+  },
+  "i_am_froot@lichess": {
+    "id": "i_am_froot",
+    "provider": "lichess",
+    "username": "I_Am_froot",
+    "firstSeen": 1645539147575,
+    "lastSeen": 1645540371202,
+    "firstSeenTime": "2:12:27 PM",
+    "lastSeenTime": "2:29:35 PM",
+    "onlineDurationMins": 17.138383333333334
+  },
+  "frostbringer@lichess": {
+    "id": "frostbringer",
+    "provider": "lichess",
+    "username": "Frostbringer",
+    "firstSeen": 1645540493391,
+    "lastSeen": 1645540493391
+  }
+}
