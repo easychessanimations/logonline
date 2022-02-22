@@ -1,0 +1,36 @@
+{
+  "i_am_froot@lichess": {
+    "id": "i_am_froot",
+    "provider": "lichess",
+    "username": "I_Am_froot",
+    "firstSeen": 1645539147575,
+    "lastSeen": 1645541320663,
+    "firstSeenTime": "2:12:27 PM",
+    "lastSeenTime": "2:32:51 PM",
+    "onlineDurationMins": 20.39378333333333
+  },
+  "frostbringer@lichess": {
+    "id": "frostbringer",
+    "provider": "lichess",
+    "username": "Frostbringer",
+    "firstSeen": 1645540493391,
+    "lastSeen": 1645540624662,
+    "firstSeenTime": "2:34:53 PM",
+    "lastSeenTime": "2:34:59 PM",
+    "onlineDurationMins": 0.10355
+  },
+  "sabertron_theone@lichess": {
+    "id": "sabertron_theone",
+    "provider": "lichess",
+    "username": "Sabertron_TheOne",
+    "firstSeen": 1645540750265,
+    "lastSeen": 1645541372028
+  },
+  "efechessbot@lichess": {
+    "id": "efechessbot",
+    "provider": "lichess",
+    "username": "EfechessBot",
+    "firstSeen": 1645541421339,
+    "lastSeen": 1645541421340
+  }
+}
