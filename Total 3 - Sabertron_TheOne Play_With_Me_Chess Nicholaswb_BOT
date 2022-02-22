@@ -1,0 +1,26 @@
+{
+  "sabertron_theone@lichess": {
+    "id": "sabertron_theone",
+    "provider": "lichess",
+    "username": "Sabertron_TheOne",
+    "firstSeen": 1645540750265,
+    "lastSeen": 1645544666749,
+    "firstSeenTime": "2:39:10 PM",
+    "lastSeenTime": "3:32:39 PM",
+    "onlineDurationMins": 53.49368333333334
+  },
+  "play_with_me_chess@lichess": {
+    "id": "play_with_me_chess",
+    "provider": "lichess",
+    "username": "Play_With_Me_Chess",
+    "firstSeen": 1645544952648,
+    "lastSeen": 1645544962430
+  },
+  "nicholaswb_bot@lichess": {
+    "id": "nicholaswb_bot",
+    "provider": "lichess",
+    "username": "Nicholaswb_BOT",
+    "firstSeen": 1645545050585,
+    "lastSeen": 1645545053826
+  }
+}
