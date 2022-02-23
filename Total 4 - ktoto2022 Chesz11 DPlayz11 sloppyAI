@@ -1,0 +1,42 @@
+{
+  "ktoto2022@lichess": {
+    "id": "ktoto2022",
+    "provider": "lichess",
+    "username": "ktoto2022",
+    "firstSeen": 1645623861068,
+    "lastSeen": 1645625960406,
+    "firstSeenTime": "1:44:21 PM",
+    "lastSeenTime": "2:18:14 PM",
+    "onlineDurationMins": 33.88895
+  },
+  "chesz11@lichess": {
+    "id": "chesz11",
+    "provider": "lichess",
+    "username": "Chesz11",
+    "firstSeen": 1645624943894,
+    "lastSeen": 1645625765075,
+    "firstSeenTime": "2:02:23 PM",
+    "lastSeenTime": "2:16:05 PM",
+    "onlineDurationMins": 13.68635
+  },
+  "dplayz11@lichess": {
+    "id": "dplayz11",
+    "provider": "lichess",
+    "username": "DPlayz11",
+    "firstSeen": 1645625025295,
+    "lastSeen": 1645625910577,
+    "firstSeenTime": "2:03:45 PM",
+    "lastSeenTime": "2:18:30 PM",
+    "onlineDurationMins": 14.7547
+  },
+  "sloppyai@lichess": {
+    "id": "sloppyai",
+    "provider": "lichess",
+    "username": "sloppyAI",
+    "firstSeen": 1645625883073,
+    "lastSeen": 1645625893248,
+    "firstSeenTime": "2:18:03 PM",
+    "lastSeenTime": "2:18:13 PM",
+    "onlineDurationMins": 0.16958333333333334
+  }
+}
