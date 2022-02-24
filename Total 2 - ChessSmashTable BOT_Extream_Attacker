@@ -1,0 +1,22 @@
+{
+  "chesssmashtable@lichess": {
+    "id": "chesssmashtable",
+    "provider": "lichess",
+    "username": "ChessSmashTable",
+    "firstSeen": 1645717571084,
+    "lastSeen": 1645718478697,
+    "firstSeenTime": "3:46:11 PM",
+    "lastSeenTime": "3:56:11 PM",
+    "onlineDurationMins": 10.003333333333334
+  },
+  "bot_extream_attacker@lichess": {
+    "id": "bot_extream_attacker",
+    "provider": "lichess",
+    "username": "BOT_Extream_Attacker",
+    "firstSeen": 1645717720933,
+    "lastSeen": 1645718447392,
+    "firstSeenTime": "3:48:40 PM",
+    "lastSeenTime": "3:52:59 PM",
+    "onlineDurationMins": 4.30725
+  }
+}
