@@ -1,0 +1,19 @@
+{
+  "nikitosikbot@lichess": {
+    "id": "nikitosikbot",
+    "provider": "lichess",
+    "username": "Nikitosikbot",
+    "firstSeen": 1645722671706,
+    "lastSeen": 1645731278442,
+    "firstSeenTime": "5:11:11 PM",
+    "lastSeenTime": "5:21:10 PM",
+    "onlineDurationMins": 9.9845
+  },
+  "nikitosikrandombot@lichess": {
+    "id": "nikitosikrandombot",
+    "provider": "lichess",
+    "username": "NikitosikRandombot",
+    "firstSeen": 1645731279453,
+    "lastSeen": 1645731726156
+  }
+}
