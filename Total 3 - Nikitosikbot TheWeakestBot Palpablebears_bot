@@ -1,0 +1,26 @@
+{
+  "nikitosikbot@lichess": {
+    "id": "nikitosikbot",
+    "provider": "lichess",
+    "username": "Nikitosikbot",
+    "firstSeen": 1645722671706,
+    "lastSeen": 1645728063432,
+    "firstSeenTime": "5:11:11 PM",
+    "lastSeenTime": "5:21:10 PM",
+    "onlineDurationMins": 9.9845
+  },
+  "theweakestbot@lichess": {
+    "id": "theweakestbot",
+    "provider": "lichess",
+    "username": "TheWeakestBot",
+    "firstSeen": 1645727823218,
+    "lastSeen": 1645728020140
+  },
+  "palpablebears_bot@lichess": {
+    "id": "palpablebears_bot",
+    "provider": "lichess",
+    "username": "Palpablebears_bot",
+    "firstSeen": 1645728067152,
+    "lastSeen": 1645728067153
+  }
+}
