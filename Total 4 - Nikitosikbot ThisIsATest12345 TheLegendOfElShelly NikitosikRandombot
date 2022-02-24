@@ -1,0 +1,33 @@
+{
+  "nikitosikbot@lichess": {
+    "id": "nikitosikbot",
+    "provider": "lichess",
+    "username": "Nikitosikbot",
+    "firstSeen": 1645722671706,
+    "lastSeen": 1645731278442,
+    "firstSeenTime": "5:11:11 PM",
+    "lastSeenTime": "5:21:10 PM",
+    "onlineDurationMins": 9.9845
+  },
+  "thisisatest12345@lichess": {
+    "id": "thisisatest12345",
+    "provider": "lichess",
+    "username": "ThisIsATest12345",
+    "firstSeen": 1645730569777,
+    "lastSeen": 1645730801259
+  },
+  "thelegendofelshelly@lichess": {
+    "id": "thelegendofelshelly",
+    "provider": "lichess",
+    "username": "TheLegendOfElShelly",
+    "firstSeen": 1645730814414,
+    "lastSeen": 1645730823640
+  },
+  "nikitosikrandombot@lichess": {
+    "id": "nikitosikrandombot",
+    "provider": "lichess",
+    "username": "NikitosikRandombot",
+    "firstSeen": 1645731279453,
+    "lastSeen": 1645731279453
+  }
+}
