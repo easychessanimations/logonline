@@ -3,14 +3,17 @@
     "id": "nikitosikbot",
     "provider": "lichess",
     "username": "Nikitosikbot",
-    "firstSeen": 1645191894796,
-    "lastSeen": 1645192437457
+    "firstSeen": 1645722671706,
+    "lastSeen": 1645723571211,
+    "firstSeenTime": "5:11:11 PM",
+    "lastSeenTime": "5:21:10 PM",
+    "onlineDurationMins": 9.9845
   },
   "botifiedmoyao@lichess": {
     "id": "botifiedmoyao",
     "provider": "lichess",
     "username": "BotifiedMoyao",
-    "firstSeen": 1645192465611,
-    "lastSeen": 1645192465611
+    "firstSeen": 1645723707452,
+    "lastSeen": 1645723707453
   }
 }
