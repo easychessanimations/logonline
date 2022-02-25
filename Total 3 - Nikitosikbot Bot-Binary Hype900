@@ -1,0 +1,23 @@
+{
+  "nikitosikbot@lichess": {
+    "id": "nikitosikbot",
+    "provider": "lichess",
+    "username": "Nikitosikbot",
+    "firstSeen": 1645810559284,
+    "lastSeen": 1645811252398
+  },
+  "bot-binary@lichess": {
+    "id": "bot-binary",
+    "provider": "lichess",
+    "username": "Bot-Binary",
+    "firstSeen": 1645810596229,
+    "lastSeen": 1645811479223
+  },
+  "hype900@lichess": {
+    "id": "hype900",
+    "provider": "lichess",
+    "username": "Hype900",
+    "firstSeen": 1645810933753,
+    "lastSeen": 1645810937150
+  }
+}
