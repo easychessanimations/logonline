@@ -1,0 +1,30 @@
+{
+  "dino-bort@lichess": {
+    "id": "dino-bort",
+    "provider": "lichess",
+    "username": "dino-bort",
+    "firstSeen": 1645760627232,
+    "lastSeen": 1645768016676
+  },
+  "quirlextender@lichess": {
+    "id": "quirlextender",
+    "provider": "lichess",
+    "username": "Quirlextender",
+    "firstSeen": 1645760995045,
+    "lastSeen": 1645768177221
+  },
+  "fafeebot@lichess": {
+    "id": "fafeebot",
+    "provider": "lichess",
+    "username": "FafeeBot",
+    "firstSeen": 1645767630997,
+    "lastSeen": 1645768109675
+  },
+  "relaxer-bot@lichess": {
+    "id": "relaxer-bot",
+    "provider": "lichess",
+    "username": "Relaxer-Bot",
+    "firstSeen": 1645768182050,
+    "lastSeen": 1645768182050
+  }
+}
