@@ -1,0 +1,23 @@
+{
+  "dino-bort@lichess": {
+    "id": "dino-bort",
+    "provider": "lichess",
+    "username": "dino-bort",
+    "firstSeen": 1645760627232,
+    "lastSeen": 1645769013010
+  },
+  "quirlextender@lichess": {
+    "id": "quirlextender",
+    "provider": "lichess",
+    "username": "Quirlextender",
+    "firstSeen": 1645760995045,
+    "lastSeen": 1645768865231
+  },
+  "relaxer-bot@lichess": {
+    "id": "relaxer-bot",
+    "provider": "lichess",
+    "username": "Relaxer-Bot",
+    "firstSeen": 1645768182050,
+    "lastSeen": 1645768955041
+  }
+}
