@@ -1,0 +1,22 @@
+{
+  "quirlextender@lichess": {
+    "id": "quirlextender",
+    "provider": "lichess",
+    "username": "Quirlextender",
+    "firstSeen": 1645760995045,
+    "lastSeen": 1645770240504,
+    "firstSeenTime": "3:49:55 AM",
+    "lastSeenTime": "6:24:00 AM",
+    "onlineDurationMins": 154.09098333333333
+  },
+  "relaxer-bot@lichess": {
+    "id": "relaxer-bot",
+    "provider": "lichess",
+    "username": "Relaxer-Bot",
+    "firstSeen": 1645768182050,
+    "lastSeen": 1645770345583,
+    "firstSeenTime": "5:49:42 AM",
+    "lastSeenTime": "6:19:26 AM",
+    "onlineDurationMins": 29.73765
+  }
+}
