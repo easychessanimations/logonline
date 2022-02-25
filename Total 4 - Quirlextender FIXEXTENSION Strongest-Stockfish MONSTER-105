@@ -1,0 +1,30 @@
+{
+  "quirlextender@lichess": {
+    "id": "quirlextender",
+    "provider": "lichess",
+    "username": "Quirlextender",
+    "firstSeen": 1645773420364,
+    "lastSeen": 1645774272374
+  },
+  "fixextension@lichess": {
+    "id": "fixextension",
+    "provider": "lichess",
+    "username": "FIXEXTENSION",
+    "firstSeen": 1645774280718,
+    "lastSeen": 1645774298653
+  },
+  "strongest-stockfish@lichess": {
+    "id": "strongest-stockfish",
+    "provider": "lichess",
+    "username": "Strongest-Stockfish",
+    "firstSeen": 1645774417080,
+    "lastSeen": 1645774434447
+  },
+  "monster-105@lichess": {
+    "id": "monster-105",
+    "provider": "lichess",
+    "username": "MONSTER-105",
+    "firstSeen": 1645775003795,
+    "lastSeen": 1645775003795
+  }
+}
