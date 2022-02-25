@@ -4,20 +4,29 @@
     "provider": "lichess",
     "username": "Hype900",
     "firstSeen": 1645799533926,
-    "lastSeen": 1645804157236
+    "lastSeen": 1645806134099,
+    "firstSeenTime": "2:32:13 PM",
+    "lastSeenTime": "4:22:14 PM",
+    "onlineDurationMins": 110.00288333333333
   },
   "nikitosikbot@lichess": {
     "id": "nikitosikbot",
     "provider": "lichess",
     "username": "Nikitosikbot",
     "firstSeen": 1645804235328,
-    "lastSeen": 1645804235328
+    "lastSeen": 1645806058862,
+    "firstSeenTime": "3:50:35 PM",
+    "lastSeenTime": "4:20:58 PM",
+    "onlineDurationMins": 30.392233333333333
   },
   "nicholaswb_bot@lichess": {
     "id": "nicholaswb_bot",
     "provider": "lichess",
     "username": "Nicholaswb_BOT",
     "firstSeen": 1645804323647,
-    "lastSeen": 1645804323647
+    "lastSeen": 1645805893598,
+    "firstSeenTime": "3:52:03 PM",
+    "lastSeenTime": "4:18:13 PM",
+    "onlineDurationMins": 26.16585
   }
 }
