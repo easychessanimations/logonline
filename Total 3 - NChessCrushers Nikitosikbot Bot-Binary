@@ -1,0 +1,23 @@
+{
+  "nchesscrushers@lichess": {
+    "id": "nchesscrushers",
+    "provider": "lichess",
+    "username": "NChessCrushers",
+    "firstSeen": 1645810423198,
+    "lastSeen": 1645810445439
+  },
+  "nikitosikbot@lichess": {
+    "id": "nikitosikbot",
+    "provider": "lichess",
+    "username": "Nikitosikbot",
+    "firstSeen": 1645810559284,
+    "lastSeen": 1645810587868
+  },
+  "bot-binary@lichess": {
+    "id": "bot-binary",
+    "provider": "lichess",
+    "username": "Bot-Binary",
+    "firstSeen": 1645810596229,
+    "lastSeen": 1645810596229
+  }
+}
