@@ -1,0 +1,39 @@
+{
+  "nikitosikbot@lichess": {
+    "id": "nikitosikbot",
+    "provider": "lichess",
+    "username": "Nikitosikbot",
+    "firstSeen": 1645787124746,
+    "lastSeen": 1645794851231,
+    "firstSeenTime": "11:05:24 AM",
+    "lastSeenTime": "12:49:29 PM",
+    "onlineDurationMins": 104.08051666666667
+  },
+  "ecemnuratik@lichess": {
+    "id": "ecemnuratik",
+    "provider": "lichess",
+    "username": "EcemNurAtik",
+    "firstSeen": 1645787536611,
+    "lastSeen": 1645794910615,
+    "firstSeenTime": "11:12:16 AM",
+    "lastSeenTime": "12:55:43 PM",
+    "onlineDurationMins": 103.45606666666667
+  },
+  "hype900@lichess": {
+    "id": "hype900",
+    "provider": "lichess",
+    "username": "Hype900",
+    "firstSeen": 1645790474061,
+    "lastSeen": 1645794557346,
+    "firstSeenTime": "12:01:14 PM",
+    "lastSeenTime": "12:52:14 PM",
+    "onlineDurationMins": 50.99905
+  },
+  "nicholaswb_bot@lichess": {
+    "id": "nicholaswb_bot",
+    "provider": "lichess",
+    "username": "Nicholaswb_BOT",
+    "firstSeen": 1645794995509,
+    "lastSeen": 1645794995509
+  }
+}
