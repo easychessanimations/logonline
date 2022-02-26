@@ -1,0 +1,26 @@
+{
+  "hiddenl@lichess": {
+    "id": "hiddenl",
+    "provider": "lichess",
+    "username": "HiddeNL",
+    "firstSeen": 1645904128227,
+    "lastSeen": 1645913168691,
+    "firstSeenTime": "7:35:28 PM",
+    "lastSeenTime": "8:31:02 PM",
+    "onlineDurationMins": 55.5769
+  },
+  "theweakestbot@lichess": {
+    "id": "theweakestbot",
+    "provider": "lichess",
+    "username": "TheWeakestBot",
+    "firstSeen": 1645910429522,
+    "lastSeen": 1645913065743
+  },
+  "grypro@lichess": {
+    "id": "grypro",
+    "provider": "lichess",
+    "username": "GRYPRO",
+    "firstSeen": 1645913265594,
+    "lastSeen": 1645913265595
+  }
+}
