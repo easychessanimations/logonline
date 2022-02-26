@@ -1,0 +1,22 @@
+{
+  "bot-stonger@lichess": {
+    "id": "bot-stonger",
+    "provider": "lichess",
+    "username": "BOT-Stonger",
+    "firstSeen": 1645861199817,
+    "lastSeen": 1645862829617,
+    "firstSeenTime": "7:39:59 AM",
+    "lastSeenTime": "8:05:02 AM",
+    "onlineDurationMins": 25.045133333333332
+  },
+  "frostbringer@lichess": {
+    "id": "frostbringer",
+    "provider": "lichess",
+    "username": "Frostbringer",
+    "firstSeen": 1645862584481,
+    "lastSeen": 1645863200327,
+    "firstSeenTime": "8:03:04 AM",
+    "lastSeenTime": "8:03:16 AM",
+    "onlineDurationMins": 0.19315
+  }
+}
