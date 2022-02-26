@@ -4,16 +4,19 @@
     "provider": "lichess",
     "username": "HiddeNL",
     "firstSeen": 1645904128227,
-    "lastSeen": 1645912028688,
+    "lastSeen": 1645914132181,
     "firstSeenTime": "7:35:28 PM",
-    "lastSeenTime": "8:31:02 PM",
-    "onlineDurationMins": 55.5769
+    "lastSeenTime": "10:22:12 PM",
+    "onlineDurationMins": 166.73256666666666
   },
   "theweakestbot@lichess": {
     "id": "theweakestbot",
     "provider": "lichess",
     "username": "TheWeakestBot",
     "firstSeen": 1645910429522,
-    "lastSeen": 1645912154123
+    "lastSeen": 1645914600478,
+    "firstSeenTime": "9:20:29 PM",
+    "lastSeenTime": "10:17:55 PM",
+    "onlineDurationMins": 57.43885
   }
 }
