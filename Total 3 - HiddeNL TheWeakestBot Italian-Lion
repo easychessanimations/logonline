@@ -1,0 +1,29 @@
+{
+  "hiddenl@lichess": {
+    "id": "hiddenl",
+    "provider": "lichess",
+    "username": "HiddeNL",
+    "firstSeen": 1645904128227,
+    "lastSeen": 1645917669153,
+    "firstSeenTime": "7:35:28 PM",
+    "lastSeenTime": "10:57:08 PM",
+    "onlineDurationMins": 201.67821666666666
+  },
+  "theweakestbot@lichess": {
+    "id": "theweakestbot",
+    "provider": "lichess",
+    "username": "TheWeakestBot",
+    "firstSeen": 1645910429522,
+    "lastSeen": 1645918196817,
+    "firstSeenTime": "9:20:29 PM",
+    "lastSeenTime": "11:04:09 PM",
+    "onlineDurationMins": 103.67378333333333
+  },
+  "italian-lion@lichess": {
+    "id": "italian-lion",
+    "provider": "lichess",
+    "username": "Italian-Lion",
+    "firstSeen": 1645918232701,
+    "lastSeen": 1645918232701
+  }
+}
