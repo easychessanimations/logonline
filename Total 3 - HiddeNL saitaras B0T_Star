@@ -1,0 +1,32 @@
+{
+  "hiddenl@lichess": {
+    "id": "hiddenl",
+    "provider": "lichess",
+    "username": "HiddeNL",
+    "firstSeen": 1645951757625,
+    "lastSeen": 1645973469523,
+    "firstSeenTime": "8:49:17 AM",
+    "lastSeenTime": "2:51:09 PM",
+    "onlineDurationMins": 361.86496666666665
+  },
+  "saitaras@lichess": {
+    "id": "saitaras",
+    "provider": "lichess",
+    "username": "saitaras",
+    "firstSeen": 1645970416012,
+    "lastSeen": 1645973474825,
+    "firstSeenTime": "2:00:16 PM",
+    "lastSeenTime": "2:51:14 PM",
+    "onlineDurationMins": 50.980216666666664
+  },
+  "b0t_star@lichess": {
+    "id": "b0t_star",
+    "provider": "lichess",
+    "username": "B0T_Star",
+    "firstSeen": 1645972696720,
+    "lastSeen": 1645973607542,
+    "firstSeenTime": "2:38:16 PM",
+    "lastSeenTime": "2:50:56 PM",
+    "onlineDurationMins": 12.657983333333334
+  }
+}
