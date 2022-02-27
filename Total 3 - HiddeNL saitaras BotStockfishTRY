@@ -1,0 +1,29 @@
+{
+  "hiddenl@lichess": {
+    "id": "hiddenl",
+    "provider": "lichess",
+    "username": "HiddeNL",
+    "firstSeen": 1645951757625,
+    "lastSeen": 1645985184227,
+    "firstSeenTime": "8:49:17 AM",
+    "lastSeenTime": "6:05:31 PM",
+    "onlineDurationMins": 556.2324333333333
+  },
+  "saitaras@lichess": {
+    "id": "saitaras",
+    "provider": "lichess",
+    "username": "saitaras",
+    "firstSeen": 1645983026153,
+    "lastSeen": 1645984996217,
+    "firstSeenTime": "5:30:26 PM",
+    "lastSeenTime": "6:03:16 PM",
+    "onlineDurationMins": 32.8344
+  },
+  "botstockfishtry@lichess": {
+    "id": "botstockfishtry",
+    "provider": "lichess",
+    "username": "BotStockfishTRY",
+    "firstSeen": 1645985358283,
+    "lastSeen": 1645985358283
+  }
+}
