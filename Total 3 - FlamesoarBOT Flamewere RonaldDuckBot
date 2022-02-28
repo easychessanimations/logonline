@@ -1,0 +1,23 @@
+{
+  "flamesoarbot@lichess": {
+    "id": "flamesoarbot",
+    "provider": "lichess",
+    "username": "FlamesoarBOT",
+    "firstSeen": 1646044864135,
+    "lastSeen": 1646045267081
+  },
+  "flamewere@lichess": {
+    "id": "flamewere",
+    "provider": "lichess",
+    "username": "Flamewere",
+    "firstSeen": 1646045089167,
+    "lastSeen": 1646045243887
+  },
+  "ronaldduckbot@lichess": {
+    "id": "ronaldduckbot",
+    "provider": "lichess",
+    "username": "RonaldDuckBot",
+    "firstSeen": 1646045812993,
+    "lastSeen": 1646045812993
+  }
+}
