@@ -1,0 +1,26 @@
+{
+  "flamesoarbot@lichess": {
+    "id": "flamesoarbot",
+    "provider": "lichess",
+    "username": "FlamesoarBOT",
+    "firstSeen": 1646053162948,
+    "lastSeen": 1646057236555,
+    "firstSeenTime": "12:59:22 PM",
+    "lastSeenTime": "1:00:52 PM",
+    "onlineDurationMins": 1.4934166666666666
+  },
+  "rapid_worldchamp@lichess": {
+    "id": "rapid_worldchamp",
+    "provider": "lichess",
+    "username": "Rapid_WorldChamp",
+    "firstSeen": 1646055471833,
+    "lastSeen": 1646057147021
+  },
+  "frostbringer@lichess": {
+    "id": "frostbringer",
+    "provider": "lichess",
+    "username": "Frostbringer",
+    "firstSeen": 1646056672112,
+    "lastSeen": 1646057192349
+  }
+}
