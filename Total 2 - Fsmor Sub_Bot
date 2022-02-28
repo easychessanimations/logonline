@@ -1,0 +1,19 @@
+{
+  "fsmor@lichess": {
+    "id": "fsmor",
+    "provider": "lichess",
+    "username": "Fsmor",
+    "firstSeen": 1646071834085,
+    "lastSeen": 1646072019224,
+    "firstSeenTime": "6:10:34 PM",
+    "lastSeenTime": "6:12:31 PM",
+    "onlineDurationMins": 1.95835
+  },
+  "sub_bot@lichess": {
+    "id": "sub_bot",
+    "provider": "lichess",
+    "username": "Sub_Bot",
+    "firstSeen": 1646072490778,
+    "lastSeen": 1646072490778
+  }
+}
