@@ -1,0 +1,26 @@
+{
+  "flamesoarbot@lichess": {
+    "id": "flamesoarbot",
+    "provider": "lichess",
+    "username": "FlamesoarBOT",
+    "firstSeen": 1646053162948,
+    "lastSeen": 1646061258367,
+    "firstSeenTime": "12:59:22 PM",
+    "lastSeenTime": "1:00:52 PM",
+    "onlineDurationMins": 1.4934166666666666
+  },
+  "hiddenl@lichess": {
+    "id": "hiddenl",
+    "provider": "lichess",
+    "username": "HiddeNL",
+    "firstSeen": 1646061227583,
+    "lastSeen": 1646061273277
+  },
+  "thelegendofelprimo@lichess": {
+    "id": "thelegendofelprimo",
+    "provider": "lichess",
+    "username": "TheLegendOfElPrimo",
+    "firstSeen": 1646061318617,
+    "lastSeen": 1646061318617
+  }
+}
