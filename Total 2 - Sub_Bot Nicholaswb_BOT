@@ -1,0 +1,16 @@
+{
+  "sub_bot@lichess": {
+    "id": "sub_bot",
+    "provider": "lichess",
+    "username": "Sub_Bot",
+    "firstSeen": 1646072490778,
+    "lastSeen": 1646073595130
+  },
+  "nicholaswb_bot@lichess": {
+    "id": "nicholaswb_bot",
+    "provider": "lichess",
+    "username": "Nicholaswb_BOT",
+    "firstSeen": 1646074412777,
+    "lastSeen": 1646074412778
+  }
+}
