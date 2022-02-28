@@ -1,0 +1,23 @@
+{
+  "god_knight@lichess": {
+    "id": "god_knight",
+    "provider": "lichess",
+    "username": "God_Knight",
+    "firstSeen": 1646038740781,
+    "lastSeen": 1646041129326
+  },
+  "ultrawarriorsbot@lichess": {
+    "id": "ultrawarriorsbot",
+    "provider": "lichess",
+    "username": "UltraWarriorsBot",
+    "firstSeen": 1646041049675,
+    "lastSeen": 1646041520609
+  },
+  "waqartions@lichess": {
+    "id": "waqartions",
+    "provider": "lichess",
+    "username": "Waqartions",
+    "firstSeen": 1646041507202,
+    "lastSeen": 1646041526814
+  }
+}
