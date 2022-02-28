@@ -1,0 +1,30 @@
+{
+  "flamesoarbot@lichess": {
+    "id": "flamesoarbot",
+    "provider": "lichess",
+    "username": "FlamesoarBOT",
+    "firstSeen": 1646044864135,
+    "lastSeen": 1646048659305
+  },
+  "ecemnuratik@lichess": {
+    "id": "ecemnuratik",
+    "provider": "lichess",
+    "username": "EcemNurAtik",
+    "firstSeen": 1646045819597,
+    "lastSeen": 1646048827365
+  },
+  "ronaldduckbot@lichess": {
+    "id": "ronaldduckbot",
+    "provider": "lichess",
+    "username": "RonaldDuckBot",
+    "firstSeen": 1646047876916,
+    "lastSeen": 1646049077044
+  },
+  "frostbringer@lichess": {
+    "id": "frostbringer",
+    "provider": "lichess",
+    "username": "Frostbringer",
+    "firstSeen": 1646049116290,
+    "lastSeen": 1646049116291
+  }
+}
