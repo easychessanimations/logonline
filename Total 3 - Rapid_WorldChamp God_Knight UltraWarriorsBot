@@ -1,0 +1,23 @@
+{
+  "rapid_worldchamp@lichess": {
+    "id": "rapid_worldchamp",
+    "provider": "lichess",
+    "username": "Rapid_WorldChamp",
+    "firstSeen": 1646037907247,
+    "lastSeen": 1646040653533
+  },
+  "god_knight@lichess": {
+    "id": "god_knight",
+    "provider": "lichess",
+    "username": "God_Knight",
+    "firstSeen": 1646038740781,
+    "lastSeen": 1646041045644
+  },
+  "ultrawarriorsbot@lichess": {
+    "id": "ultrawarriorsbot",
+    "provider": "lichess",
+    "username": "UltraWarriorsBot",
+    "firstSeen": 1646041049675,
+    "lastSeen": 1646041049675
+  }
+}
