@@ -1,0 +1,32 @@
+{
+  "thatnerd_tryme@lichess": {
+    "id": "thatnerd_tryme",
+    "provider": "lichess",
+    "username": "ThatNerd_TryMe",
+    "firstSeen": 1646149678817,
+    "lastSeen": 1646153281616,
+    "firstSeenTime": "3:47:58 PM",
+    "lastSeenTime": "4:48:01 PM",
+    "onlineDurationMins": 60.04665
+  },
+  "gamage_ksca@lichess": {
+    "id": "gamage_ksca",
+    "provider": "lichess",
+    "username": "Gamage_KSCA",
+    "firstSeen": 1646152621729,
+    "lastSeen": 1646153483027,
+    "firstSeenTime": "4:37:01 PM",
+    "lastSeenTime": "4:46:40 PM",
+    "onlineDurationMins": 9.644883333333333
+  },
+  "ultrawarriorsbot@lichess": {
+    "id": "ultrawarriorsbot",
+    "provider": "lichess",
+    "username": "UltraWarriorsBot",
+    "firstSeen": 1646153031808,
+    "lastSeen": 1646153476445,
+    "firstSeenTime": "4:43:51 PM",
+    "lastSeenTime": "4:48:48 PM",
+    "onlineDurationMins": 4.952483333333333
+  }
+}
