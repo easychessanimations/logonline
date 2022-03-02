@@ -1,0 +1,23 @@
+{
+  "wakwellabot@lichess": {
+    "id": "wakwellabot",
+    "provider": "lichess",
+    "username": "WakwellaBot",
+    "firstSeen": 1646187235316,
+    "lastSeen": 1646188532519
+  },
+  "gamage_ksca@lichess": {
+    "id": "gamage_ksca",
+    "provider": "lichess",
+    "username": "Gamage_KSCA",
+    "firstSeen": 1646188012011,
+    "lastSeen": 1646188018800
+  },
+  "ranthulbot@lichess": {
+    "id": "ranthulbot",
+    "provider": "lichess",
+    "username": "RanthulBot",
+    "firstSeen": 1646188576614,
+    "lastSeen": 1646188576615
+  }
+}
