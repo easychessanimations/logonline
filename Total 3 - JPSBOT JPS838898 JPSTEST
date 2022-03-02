@@ -1,0 +1,29 @@
+{
+  "jpsbot@lichess": {
+    "id": "jpsbot",
+    "provider": "lichess",
+    "username": "JPSBOT",
+    "firstSeen": 1646196551063,
+    "lastSeen": 1646196905054,
+    "firstSeenTime": "4:49:11 AM",
+    "lastSeenTime": "4:55:05 AM",
+    "onlineDurationMins": 5.89985
+  },
+  "jps838898@lichess": {
+    "id": "jps838898",
+    "provider": "lichess",
+    "username": "JPS838898",
+    "firstSeen": 1646196905967,
+    "lastSeen": 1646197677148,
+    "firstSeenTime": "4:55:05 AM",
+    "lastSeenTime": "4:56:39 AM",
+    "onlineDurationMins": 1.56555
+  },
+  "jpstest@lichess": {
+    "id": "jpstest",
+    "provider": "lichess",
+    "username": "JPSTEST",
+    "firstSeen": 1646197677976,
+    "lastSeen": 1646197677976
+  }
+}
