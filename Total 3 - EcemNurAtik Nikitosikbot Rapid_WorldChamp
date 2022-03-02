@@ -4,20 +4,26 @@
     "provider": "lichess",
     "username": "EcemNurAtik",
     "firstSeen": 1646208307608,
-    "lastSeen": 1646217314398
+    "lastSeen": 1646224147868,
+    "firstSeenTime": "8:05:07 AM",
+    "lastSeenTime": "12:13:49 PM",
+    "onlineDurationMins": 248.69863333333333
   },
   "nikitosikbot@lichess": {
     "id": "nikitosikbot",
     "provider": "lichess",
     "username": "Nikitosikbot",
     "firstSeen": 1646214048373,
-    "lastSeen": 1646217480977
+    "lastSeen": 1646224168473,
+    "firstSeenTime": "9:40:48 AM",
+    "lastSeenTime": "12:20:22 PM",
+    "onlineDurationMins": 159.57648333333333
   },
   "rapid_worldchamp@lichess": {
     "id": "rapid_worldchamp",
     "provider": "lichess",
     "username": "Rapid_WorldChamp",
-    "firstSeen": 1646216528834,
-    "lastSeen": 1646216884942
+    "firstSeen": 1646224190937,
+    "lastSeen": 1646224190937
   }
 }
