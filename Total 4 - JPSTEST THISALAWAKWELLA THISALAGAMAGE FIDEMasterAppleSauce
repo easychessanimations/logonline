@@ -1,0 +1,33 @@
+{
+  "jpstest@lichess": {
+    "id": "jpstest",
+    "provider": "lichess",
+    "username": "JPSTEST",
+    "firstSeen": 1646197677976,
+    "lastSeen": 1646200327589,
+    "firstSeenTime": "5:07:57 AM",
+    "lastSeenTime": "5:08:22 AM",
+    "onlineDurationMins": 0.4008333333333333
+  },
+  "thisalawakwella@lichess": {
+    "id": "thisalawakwella",
+    "provider": "lichess",
+    "username": "THISALAWAKWELLA",
+    "firstSeen": 1646198277353,
+    "lastSeen": 1646199857075
+  },
+  "thisalagamage@lichess": {
+    "id": "thisalagamage",
+    "provider": "lichess",
+    "username": "THISALAGAMAGE",
+    "firstSeen": 1646199891531,
+    "lastSeen": 1646199989282
+  },
+  "fidemasterapplesauce@lichess": {
+    "id": "fidemasterapplesauce",
+    "provider": "lichess",
+    "username": "FIDEMasterAppleSauce",
+    "firstSeen": 1646200329240,
+    "lastSeen": 1646200329240
+  }
+}
