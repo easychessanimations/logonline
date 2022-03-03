@@ -1,0 +1,26 @@
+{
+  "wakwellakscabot@lichess": {
+    "id": "wakwellakscabot",
+    "provider": "lichess",
+    "username": "WAKWELLAKSCABOT",
+    "firstSeen": 1646313373554,
+    "lastSeen": 1646318252195,
+    "firstSeenTime": "1:16:13 PM",
+    "lastSeenTime": "1:17:15 PM",
+    "onlineDurationMins": 1.0397166666666666
+  },
+  "ege20@lichess": {
+    "id": "ege20",
+    "provider": "lichess",
+    "username": "Ege20",
+    "firstSeen": 1646315400706,
+    "lastSeen": 1646318235711
+  },
+  "efechessbot@lichess": {
+    "id": "efechessbot",
+    "provider": "lichess",
+    "username": "EfechessBot",
+    "firstSeen": 1646318360166,
+    "lastSeen": 1646318492208
+  }
+}
