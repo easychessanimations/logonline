@@ -1,0 +1,32 @@
+{
+  "chess_bot_account@lichess": {
+    "id": "chess_bot_account",
+    "provider": "lichess",
+    "username": "Chess_Bot_Account",
+    "firstSeen": 1646400257657,
+    "lastSeen": 1646400769926,
+    "firstSeenTime": "1:24:17 PM",
+    "lastSeenTime": "1:32:49 PM",
+    "onlineDurationMins": 8.537816666666666
+  },
+  "wakwellakscabot@lichess": {
+    "id": "wakwellakscabot",
+    "provider": "lichess",
+    "username": "WAKWELLAKSCABOT",
+    "firstSeen": 1646400659413,
+    "lastSeen": 1646401144338,
+    "firstSeenTime": "1:30:59 PM",
+    "lastSeenTime": "1:39:04 PM",
+    "onlineDurationMins": 8.082083333333333
+  },
+  "praky_chess@lichess": {
+    "id": "praky_chess",
+    "provider": "lichess",
+    "username": "praky_chess",
+    "firstSeen": 1646401087013,
+    "lastSeen": 1646401653961,
+    "firstSeenTime": "1:38:07 PM",
+    "lastSeenTime": "1:41:29 PM",
+    "onlineDurationMins": 3.3743166666666666
+  }
+}
