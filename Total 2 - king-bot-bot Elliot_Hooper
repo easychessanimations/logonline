@@ -1,0 +1,22 @@
+{
+  "king-bot-bot@lichess": {
+    "id": "king-bot-bot",
+    "provider": "lichess",
+    "username": "king-bot-bot",
+    "firstSeen": 1646458461239,
+    "lastSeen": 1646464637550,
+    "firstSeenTime": "5:34:21 AM",
+    "lastSeenTime": "7:14:25 AM",
+    "onlineDurationMins": 100.06756666666666
+  },
+  "elliot_hooper@lichess": {
+    "id": "elliot_hooper",
+    "provider": "lichess",
+    "username": "Elliot_Hooper",
+    "firstSeen": 1646463740239,
+    "lastSeen": 1646464537939,
+    "firstSeenTime": "7:02:20 AM",
+    "lastSeenTime": "7:15:34 AM",
+    "onlineDurationMins": 13.237516666666666
+  }
+}
