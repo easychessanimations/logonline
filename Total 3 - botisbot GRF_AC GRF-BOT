@@ -1,0 +1,23 @@
+{
+  "botisbot@lichess": {
+    "id": "botisbot",
+    "provider": "lichess",
+    "username": "botisbot",
+    "firstSeen": 1646475469367,
+    "lastSeen": 1646475484359
+  },
+  "grf_ac@lichess": {
+    "id": "grf_ac",
+    "provider": "lichess",
+    "username": "GRF_AC",
+    "firstSeen": 1646475838327,
+    "lastSeen": 1646475874153
+  },
+  "grf-bot@lichess": {
+    "id": "grf-bot",
+    "provider": "lichess",
+    "username": "GRF-BOT",
+    "firstSeen": 1646475875210,
+    "lastSeen": 1646475875210
+  }
+}
