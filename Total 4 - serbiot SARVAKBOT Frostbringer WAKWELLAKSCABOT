@@ -1,0 +1,33 @@
+{
+  "serbiot@lichess": {
+    "id": "serbiot",
+    "provider": "lichess",
+    "username": "serbiot",
+    "firstSeen": 1646414574607,
+    "lastSeen": 1646454295993,
+    "firstSeenTime": "5:22:54 PM",
+    "lastSeenTime": "12:11:52 AM",
+    "onlineDurationMins": 408.9628833333333
+  },
+  "sarvakbot@lichess": {
+    "id": "sarvakbot",
+    "provider": "lichess",
+    "username": "SARVAKBOT",
+    "firstSeen": 1646445054681,
+    "lastSeen": 1646454425551
+  },
+  "frostbringer@lichess": {
+    "id": "frostbringer",
+    "provider": "lichess",
+    "username": "Frostbringer",
+    "firstSeen": 1646453850656,
+    "lastSeen": 1646454718403
+  },
+  "wakwellakscabot@lichess": {
+    "id": "wakwellakscabot",
+    "provider": "lichess",
+    "username": "WAKWELLAKSCABOT",
+    "firstSeen": 1646454830450,
+    "lastSeen": 1646454830450
+  }
+}
