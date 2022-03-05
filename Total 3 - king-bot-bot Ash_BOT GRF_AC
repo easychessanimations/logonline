@@ -1,0 +1,23 @@
+{
+  "king-bot-bot@lichess": {
+    "id": "king-bot-bot",
+    "provider": "lichess",
+    "username": "king-bot-bot",
+    "firstSeen": 1646458461239,
+    "lastSeen": 1646462965207
+  },
+  "ash_bot@lichess": {
+    "id": "ash_bot",
+    "provider": "lichess",
+    "username": "Ash_BOT",
+    "firstSeen": 1646459571485,
+    "lastSeen": 1646462919221
+  },
+  "grf_ac@lichess": {
+    "id": "grf_ac",
+    "provider": "lichess",
+    "username": "GRF_AC",
+    "firstSeen": 1646463304114,
+    "lastSeen": 1646463304114
+  }
+}
