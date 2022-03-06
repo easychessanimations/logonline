@@ -1,0 +1,26 @@
+{
+  "king-bot-bot@lichess": {
+    "id": "king-bot-bot",
+    "provider": "lichess",
+    "username": "king-bot-bot",
+    "firstSeen": 1646547933587,
+    "lastSeen": 1646555432136,
+    "firstSeenTime": "6:25:33 AM",
+    "lastSeenTime": "6:32:22 AM",
+    "onlineDurationMins": 6.8121833333333335
+  },
+  "thx_for_ez_win@lichess": {
+    "id": "thx_for_ez_win",
+    "provider": "lichess",
+    "username": "Thx_For_Ez_win",
+    "firstSeen": 1646552414525,
+    "lastSeen": 1646555274018
+  },
+  "play_with_me_chess@lichess": {
+    "id": "play_with_me_chess",
+    "provider": "lichess",
+    "username": "Play_With_Me_Chess",
+    "firstSeen": 1646554239652,
+    "lastSeen": 1646555355564
+  }
+}
