@@ -1,0 +1,30 @@
+{
+  "play_with_me_chess@lichess": {
+    "id": "play_with_me_chess",
+    "provider": "lichess",
+    "username": "Play_With_Me_Chess",
+    "firstSeen": 1646554239652,
+    "lastSeen": 1646559429478
+  },
+  "ducngopro@lichess": {
+    "id": "ducngopro",
+    "provider": "lichess",
+    "username": "ducngopro",
+    "firstSeen": 1646559046858,
+    "lastSeen": 1646559808228
+  },
+  "officialkscabot@lichess": {
+    "id": "officialkscabot",
+    "provider": "lichess",
+    "username": "OFFICIALKSCABOT",
+    "firstSeen": 1646559231420,
+    "lastSeen": 1646559900725
+  },
+  "grf-bot@lichess": {
+    "id": "grf-bot",
+    "provider": "lichess",
+    "username": "GRF-BOT",
+    "firstSeen": 1646559392958,
+    "lastSeen": 1646559732531
+  }
+}
