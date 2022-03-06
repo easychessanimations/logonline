@@ -1,0 +1,39 @@
+{
+  "officialkscabot@lichess": {
+    "id": "officialkscabot",
+    "provider": "lichess",
+    "username": "OFFICIALKSCABOT",
+    "firstSeen": 1646539127205,
+    "lastSeen": 1646547746470,
+    "firstSeenTime": "3:58:47 AM",
+    "lastSeenTime": "6:22:26 AM",
+    "onlineDurationMins": 143.65441666666666
+  },
+  "nikitosikbot@lichess": {
+    "id": "nikitosikbot",
+    "provider": "lichess",
+    "username": "Nikitosikbot",
+    "firstSeen": 1646547688252,
+    "lastSeen": 1646548177995,
+    "firstSeenTime": "6:21:28 AM",
+    "lastSeenTime": "6:28:37 AM",
+    "onlineDurationMins": 7.16225
+  },
+  "king-bot-bot@lichess": {
+    "id": "king-bot-bot",
+    "provider": "lichess",
+    "username": "king-bot-bot",
+    "firstSeen": 1646547933587,
+    "lastSeen": 1646548190149,
+    "firstSeenTime": "6:25:33 AM",
+    "lastSeenTime": "6:27:50 AM",
+    "onlineDurationMins": 2.279516666666667
+  },
+  "botbot2023@lichess": {
+    "id": "botbot2023",
+    "provider": "lichess",
+    "username": "botbot2023",
+    "firstSeen": 1646548191098,
+    "lastSeen": 1646548191098
+  }
+}
