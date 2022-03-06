@@ -1,0 +1,52 @@
+{
+  "ecemnuratik@lichess": {
+    "id": "ecemnuratik",
+    "provider": "lichess",
+    "username": "EcemNurAtik",
+    "firstSeen": 1646562540551,
+    "lastSeen": 1646586991176,
+    "firstSeenTime": "10:29:00 AM",
+    "lastSeenTime": "5:16:31 PM",
+    "onlineDurationMins": 407.5104166666667
+  },
+  "official_ksca_mc_bot@lichess": {
+    "id": "official_ksca_mc_bot",
+    "provider": "lichess",
+    "username": "OFFICIAL_KSCA_MC_BOT",
+    "firstSeen": 1646582453249,
+    "lastSeen": 1646587101108,
+    "firstSeenTime": "4:00:53 PM",
+    "lastSeenTime": "5:18:21 PM",
+    "onlineDurationMins": 77.46431666666666
+  },
+  "nikitosikbot@lichess": {
+    "id": "nikitosikbot",
+    "provider": "lichess",
+    "username": "Nikitosikbot",
+    "firstSeen": 1646586740308,
+    "lastSeen": 1646586848792,
+    "firstSeenTime": "5:12:20 PM",
+    "lastSeenTime": "5:14:08 PM",
+    "onlineDurationMins": 1.8080666666666667
+  },
+  "official_thisala@lichess": {
+    "id": "official_thisala",
+    "provider": "lichess",
+    "username": "OFFICIAL_THISALA",
+    "firstSeen": 1646587108745,
+    "lastSeen": 1646587157513,
+    "firstSeenTime": "5:18:28 PM",
+    "lastSeenTime": "5:19:17 PM",
+    "onlineDurationMins": 0.8128
+  },
+  "johnbufkin@lichess": {
+    "id": "johnbufkin",
+    "provider": "lichess",
+    "username": "JohnBufkin",
+    "firstSeen": 1646587319685,
+    "lastSeen": 1646587364050,
+    "firstSeenTime": "5:21:59 PM",
+    "lastSeenTime": "5:22:39 PM",
+    "onlineDurationMins": 0.6674666666666667
+  }
+}
