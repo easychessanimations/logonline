@@ -1,0 +1,32 @@
+{
+  "nikitosikbot@lichess": {
+    "id": "nikitosikbot",
+    "provider": "lichess",
+    "username": "Nikitosikbot",
+    "firstSeen": 1646547688252,
+    "lastSeen": 1646548654593,
+    "firstSeenTime": "6:21:28 AM",
+    "lastSeenTime": "6:33:04 AM",
+    "onlineDurationMins": 11.597433333333333
+  },
+  "king-bot-bot@lichess": {
+    "id": "king-bot-bot",
+    "provider": "lichess",
+    "username": "king-bot-bot",
+    "firstSeen": 1646547933587,
+    "lastSeen": 1646548613493,
+    "firstSeenTime": "6:25:33 AM",
+    "lastSeenTime": "6:32:22 AM",
+    "onlineDurationMins": 6.8121833333333335
+  },
+  "botbot2023@lichess": {
+    "id": "botbot2023",
+    "provider": "lichess",
+    "username": "botbot2023",
+    "firstSeen": 1646548191098,
+    "lastSeen": 1646548327941,
+    "firstSeenTime": "6:29:51 AM",
+    "lastSeenTime": "6:32:07 AM",
+    "onlineDurationMins": 2.2807166666666667
+  }
+}
