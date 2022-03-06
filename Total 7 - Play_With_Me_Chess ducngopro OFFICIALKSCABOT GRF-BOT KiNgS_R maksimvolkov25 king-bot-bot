@@ -1,0 +1,51 @@
+{
+  "play_with_me_chess@lichess": {
+    "id": "play_with_me_chess",
+    "provider": "lichess",
+    "username": "Play_With_Me_Chess",
+    "firstSeen": 1646554239652,
+    "lastSeen": 1646560331773
+  },
+  "ducngopro@lichess": {
+    "id": "ducngopro",
+    "provider": "lichess",
+    "username": "ducngopro",
+    "firstSeen": 1646559046858,
+    "lastSeen": 1646559808228
+  },
+  "officialkscabot@lichess": {
+    "id": "officialkscabot",
+    "provider": "lichess",
+    "username": "OFFICIALKSCABOT",
+    "firstSeen": 1646559231420,
+    "lastSeen": 1646560104886
+  },
+  "grf-bot@lichess": {
+    "id": "grf-bot",
+    "provider": "lichess",
+    "username": "GRF-BOT",
+    "firstSeen": 1646559392958,
+    "lastSeen": 1646560203564
+  },
+  "kings_r@lichess": {
+    "id": "kings_r",
+    "provider": "lichess",
+    "username": "KiNgS_R",
+    "firstSeen": 1646559946885,
+    "lastSeen": 1646560249877
+  },
+  "maksimvolkov25@lichess": {
+    "id": "maksimvolkov25",
+    "provider": "lichess",
+    "username": "maksimvolkov25",
+    "firstSeen": 1646560086796,
+    "lastSeen": 1646560421256
+  },
+  "king-bot-bot@lichess": {
+    "id": "king-bot-bot",
+    "provider": "lichess",
+    "username": "king-bot-bot",
+    "firstSeen": 1646560422321,
+    "lastSeen": 1646560422321
+  }
+}
