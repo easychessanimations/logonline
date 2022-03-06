@@ -1,0 +1,44 @@
+{
+  "play_with_me_chess@lichess": {
+    "id": "play_with_me_chess",
+    "provider": "lichess",
+    "username": "Play_With_Me_Chess",
+    "firstSeen": 1646554239652,
+    "lastSeen": 1646566050143
+  },
+  "grf-bot@lichess": {
+    "id": "grf-bot",
+    "provider": "lichess",
+    "username": "GRF-BOT",
+    "firstSeen": 1646559392958,
+    "lastSeen": 1646565225184
+  },
+  "ecemnuratik@lichess": {
+    "id": "ecemnuratik",
+    "provider": "lichess",
+    "username": "EcemNurAtik",
+    "firstSeen": 1646562540551,
+    "lastSeen": 1646565810424
+  },
+  "ducngopro@lichess": {
+    "id": "ducngopro",
+    "provider": "lichess",
+    "username": "ducngopro",
+    "firstSeen": 1646565110393,
+    "lastSeen": 1646565806530
+  },
+  "asouldatos@lichess": {
+    "id": "asouldatos",
+    "provider": "lichess",
+    "username": "Asouldatos",
+    "firstSeen": 1646565137881,
+    "lastSeen": 1646565160201
+  },
+  "souldato20@lichess": {
+    "id": "souldato20",
+    "provider": "lichess",
+    "username": "souldato20",
+    "firstSeen": 1646565888454,
+    "lastSeen": 1646565906418
+  }
+}
