@@ -1,0 +1,22 @@
+{
+  "sarvakbot@lichess": {
+    "id": "sarvakbot",
+    "provider": "lichess",
+    "username": "SARVAKBOT",
+    "firstSeen": 1646637040346,
+    "lastSeen": 1646641037785,
+    "firstSeenTime": "7:10:40 AM",
+    "lastSeenTime": "8:17:17 AM",
+    "onlineDurationMins": 66.62398333333333
+  },
+  "champion_stocfish@lichess": {
+    "id": "champion_stocfish",
+    "provider": "lichess",
+    "username": "Champion_Stocfish",
+    "firstSeen": 1646640640280,
+    "lastSeen": 1646640773734,
+    "firstSeenTime": "8:10:40 AM",
+    "lastSeenTime": "8:12:53 AM",
+    "onlineDurationMins": 2.2242333333333333
+  }
+}
