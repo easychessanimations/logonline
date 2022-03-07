@@ -1,0 +1,19 @@
+{
+  "sarvakbot@lichess": {
+    "id": "sarvakbot",
+    "provider": "lichess",
+    "username": "SARVAKBOT",
+    "firstSeen": 1646635732747,
+    "lastSeen": 1646635830531,
+    "firstSeenTime": "6:48:52 AM",
+    "lastSeenTime": "6:50:30 AM",
+    "onlineDurationMins": 1.6297333333333333
+  },
+  "king-bot-bot@lichess": {
+    "id": "king-bot-bot",
+    "provider": "lichess",
+    "username": "king-bot-bot",
+    "firstSeen": 1646635961542,
+    "lastSeen": 1646635961542
+  }
+}
