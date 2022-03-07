@@ -1,0 +1,22 @@
+{
+  "sarvakchess2@lichess": {
+    "id": "sarvakchess2",
+    "provider": "lichess",
+    "username": "sarvakchess2",
+    "firstSeen": 1646636960536,
+    "lastSeen": 1646637622451,
+    "firstSeenTime": "7:09:20 AM",
+    "lastSeenTime": "7:20:22 AM",
+    "onlineDurationMins": 11.031916666666667
+  },
+  "sarvakbot@lichess": {
+    "id": "sarvakbot",
+    "provider": "lichess",
+    "username": "SARVAKBOT",
+    "firstSeen": 1646637040346,
+    "lastSeen": 1646637742450,
+    "firstSeenTime": "7:10:40 AM",
+    "lastSeenTime": "7:22:22 AM",
+    "onlineDurationMins": 11.701733333333333
+  }
+}
