@@ -1,0 +1,33 @@
+{
+  "ahmed_asser@lichess": {
+    "id": "ahmed_asser",
+    "provider": "lichess",
+    "username": "Ahmed_Asser",
+    "firstSeen": 1646642090894,
+    "lastSeen": 1646646534757,
+    "firstSeenTime": "8:34:50 AM",
+    "lastSeenTime": "8:46:51 AM",
+    "onlineDurationMins": 12.013633333333333
+  },
+  "nikitosikbot@lichess": {
+    "id": "nikitosikbot",
+    "provider": "lichess",
+    "username": "Nikitosikbot",
+    "firstSeen": 1646644838219,
+    "lastSeen": 1646646180202
+  },
+  "ash_bot@lichess": {
+    "id": "ash_bot",
+    "provider": "lichess",
+    "username": "Ash_BOT",
+    "firstSeen": 1646645707417,
+    "lastSeen": 1646646411425
+  },
+  "king-bot-bot@lichess": {
+    "id": "king-bot-bot",
+    "provider": "lichess",
+    "username": "king-bot-bot",
+    "firstSeen": 1646645731774,
+    "lastSeen": 1646646413907
+  }
+}
