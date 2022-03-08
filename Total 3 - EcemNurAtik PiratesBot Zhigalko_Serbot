@@ -1,0 +1,23 @@
+{
+  "ecemnuratik@lichess": {
+    "id": "ecemnuratik",
+    "provider": "lichess",
+    "username": "EcemNurAtik",
+    "firstSeen": 1646724502963,
+    "lastSeen": 1646730258977
+  },
+  "piratesbot@lichess": {
+    "id": "piratesbot",
+    "provider": "lichess",
+    "username": "PiratesBot",
+    "firstSeen": 1646726795983,
+    "lastSeen": 1646730462364
+  },
+  "zhigalko_serbot@lichess": {
+    "id": "zhigalko_serbot",
+    "provider": "lichess",
+    "username": "Zhigalko_Serbot",
+    "firstSeen": 1646730462411,
+    "lastSeen": 1646730462411
+  }
+}
