@@ -1,0 +1,33 @@
+{
+  "sarvakbot@lichess": {
+    "id": "sarvakbot",
+    "provider": "lichess",
+    "username": "SARVAKBOT",
+    "firstSeen": 1646716649292,
+    "lastSeen": 1646728140545,
+    "firstSeenTime": "5:17:29 AM",
+    "lastSeenTime": "7:14:06 AM",
+    "onlineDurationMins": 116.61766666666666
+  },
+  "ecemnuratik@lichess": {
+    "id": "ecemnuratik",
+    "provider": "lichess",
+    "username": "EcemNurAtik",
+    "firstSeen": 1646724502963,
+    "lastSeen": 1646728257714
+  },
+  "piratesbot@lichess": {
+    "id": "piratesbot",
+    "provider": "lichess",
+    "username": "PiratesBot",
+    "firstSeen": 1646726795983,
+    "lastSeen": 1646728255343
+  },
+  "mindtaker@lichess": {
+    "id": "mindtaker",
+    "provider": "lichess",
+    "username": "mindtaker",
+    "firstSeen": 1646727707750,
+    "lastSeen": 1646727972856
+  }
+}
