@@ -1,0 +1,39 @@
+{
+  "nikitosikbot@lichess": {
+    "id": "nikitosikbot",
+    "provider": "lichess",
+    "username": "Nikitosikbot",
+    "firstSeen": 1646744873360,
+    "lastSeen": 1646749060212,
+    "firstSeenTime": "1:07:53 PM",
+    "lastSeenTime": "2:17:40 PM",
+    "onlineDurationMins": 69.78086666666667
+  },
+  "ducngopro@lichess": {
+    "id": "ducngopro",
+    "provider": "lichess",
+    "username": "ducngopro",
+    "firstSeen": 1646748008065,
+    "lastSeen": 1646748676003,
+    "firstSeenTime": "2:00:08 PM",
+    "lastSeenTime": "2:11:16 PM",
+    "onlineDurationMins": 11.1323
+  },
+  "kbr999@lichess": {
+    "id": "kbr999",
+    "provider": "lichess",
+    "username": "Kbr999",
+    "firstSeen": 1646748205862,
+    "lastSeen": 1646749411647,
+    "firstSeenTime": "2:03:25 PM",
+    "lastSeenTime": "2:20:48 PM",
+    "onlineDurationMins": 17.3706
+  },
+  "officialthisalamc@lichess": {
+    "id": "officialthisalamc",
+    "provider": "lichess",
+    "username": "OFFICIALTHISALAMC",
+    "firstSeen": 1646749558666,
+    "lastSeen": 1646749558666
+  }
+}
