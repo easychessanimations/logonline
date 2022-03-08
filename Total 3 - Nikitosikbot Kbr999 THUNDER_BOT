@@ -1,0 +1,32 @@
+{
+  "nikitosikbot@lichess": {
+    "id": "nikitosikbot",
+    "provider": "lichess",
+    "username": "Nikitosikbot",
+    "firstSeen": 1646744873360,
+    "lastSeen": 1646752961052,
+    "firstSeenTime": "1:07:53 PM",
+    "lastSeenTime": "3:18:06 PM",
+    "onlineDurationMins": 130.2231
+  },
+  "kbr999@lichess": {
+    "id": "kbr999",
+    "provider": "lichess",
+    "username": "Kbr999",
+    "firstSeen": 1646748205862,
+    "lastSeen": 1646752709427,
+    "firstSeenTime": "2:03:25 PM",
+    "lastSeenTime": "3:18:29 PM",
+    "onlineDurationMins": 75.05941666666666
+  },
+  "thunder_bot@lichess": {
+    "id": "thunder_bot",
+    "provider": "lichess",
+    "username": "THUNDER_BOT",
+    "firstSeen": 1646751575252,
+    "lastSeen": 1646753079438,
+    "firstSeenTime": "2:59:35 PM",
+    "lastSeenTime": "3:15:14 PM",
+    "onlineDurationMins": 15.6584
+  }
+}
