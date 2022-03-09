@@ -4,13 +4,19 @@
     "provider": "lichess",
     "username": "EcemNurAtik",
     "firstSeen": 1646807145167,
-    "lastSeen": 1646809748474
+    "lastSeen": 1646811737036,
+    "firstSeenTime": "6:25:45 AM",
+    "lastSeenTime": "7:31:12 AM",
+    "onlineDurationMins": 65.46071666666667
   },
   "sarvakbot@lichess": {
     "id": "sarvakbot",
     "provider": "lichess",
     "username": "SARVAKBOT",
     "firstSeen": 1646809884769,
-    "lastSeen": 1646809884769
+    "lastSeen": 1646811948309,
+    "firstSeenTime": "7:11:24 AM",
+    "lastSeenTime": "7:36:32 AM",
+    "onlineDurationMins": 25.123716666666667
   }
 }
