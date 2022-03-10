@@ -1,0 +1,29 @@
+{
+  "chessdotcom-enjoyer@lichess": {
+    "id": "chessdotcom-enjoyer",
+    "provider": "lichess",
+    "username": "chessdotcom-enjoyer",
+    "firstSeen": 1646917778529,
+    "lastSeen": 1646944563794,
+    "firstSeenTime": "1:09:38 PM",
+    "lastSeenTime": "8:25:07 PM",
+    "onlineDurationMins": 435.48036666666667
+  },
+  "romobot@lichess": {
+    "id": "romobot",
+    "provider": "lichess",
+    "username": "romobot",
+    "firstSeen": 1646943938319,
+    "lastSeen": 1646944604355,
+    "firstSeenTime": "8:25:38 PM",
+    "lastSeenTime": "8:33:15 PM",
+    "onlineDurationMins": 7.6116
+  },
+  "p40toforget@lichess": {
+    "id": "p40toforget",
+    "provider": "lichess",
+    "username": "P40ToForget",
+    "firstSeen": 1646944672380,
+    "lastSeen": 1646944672380
+  }
+}
