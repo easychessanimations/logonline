@@ -1,0 +1,29 @@
+{
+  "chessdotcom-enjoyer@lichess": {
+    "id": "chessdotcom-enjoyer",
+    "provider": "lichess",
+    "username": "chessdotcom-enjoyer",
+    "firstSeen": 1646917778529,
+    "lastSeen": 1646943907351,
+    "firstSeenTime": "1:09:38 PM",
+    "lastSeenTime": "8:03:07 PM",
+    "onlineDurationMins": 413.4773333333333
+  },
+  "dx4iot_chessbot@lichess": {
+    "id": "dx4iot_chessbot",
+    "provider": "lichess",
+    "username": "dx4iot_chessbot",
+    "firstSeen": 1646934768171,
+    "lastSeen": 1646943708106,
+    "firstSeenTime": "5:52:48 PM",
+    "lastSeenTime": "8:11:06 PM",
+    "onlineDurationMins": 138.30778333333333
+  },
+  "romobot@lichess": {
+    "id": "romobot",
+    "provider": "lichess",
+    "username": "romobot",
+    "firstSeen": 1646943938319,
+    "lastSeen": 1646943938319
+  }
+}
