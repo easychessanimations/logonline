@@ -1,0 +1,16 @@
+{
+  "sarvakbot@lichess": {
+    "id": "sarvakbot",
+    "provider": "lichess",
+    "username": "SARVAKBOT",
+    "firstSeen": 1646972835408,
+    "lastSeen": 1646973476389
+  },
+  "dx4iot_chessbot@lichess": {
+    "id": "dx4iot_chessbot",
+    "provider": "lichess",
+    "username": "dx4iot_chessbot",
+    "firstSeen": 1646973993988,
+    "lastSeen": 1646973993988
+  }
+}
