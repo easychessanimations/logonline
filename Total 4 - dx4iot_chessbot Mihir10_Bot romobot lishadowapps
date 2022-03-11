@@ -1,0 +1,39 @@
+{
+  "dx4iot_chessbot@lichess": {
+    "id": "dx4iot_chessbot",
+    "provider": "lichess",
+    "username": "dx4iot_chessbot",
+    "firstSeen": 1646973993988,
+    "lastSeen": 1646977366014,
+    "firstSeenTime": "4:46:33 AM",
+    "lastSeenTime": "5:42:46 AM",
+    "onlineDurationMins": 56.200433333333336
+  },
+  "mihir10_bot@lichess": {
+    "id": "mihir10_bot",
+    "provider": "lichess",
+    "username": "Mihir10_Bot",
+    "firstSeen": 1646975942634,
+    "lastSeen": 1646976629777,
+    "firstSeenTime": "5:19:02 AM",
+    "lastSeenTime": "5:30:29 AM",
+    "onlineDurationMins": 11.452383333333334
+  },
+  "romobot@lichess": {
+    "id": "romobot",
+    "provider": "lichess",
+    "username": "romobot",
+    "firstSeen": 1646976685701,
+    "lastSeen": 1646977513619,
+    "firstSeenTime": "5:31:25 AM",
+    "lastSeenTime": "5:39:39 AM",
+    "onlineDurationMins": 8.22485
+  },
+  "lishadowapps@lichess": {
+    "id": "lishadowapps",
+    "provider": "lichess",
+    "username": "lishadowapps",
+    "firstSeen": 1646977527837,
+    "lastSeen": 1646977527837
+  }
+}
