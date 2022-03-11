@@ -1,0 +1,32 @@
+{
+  "romobot@lichess": {
+    "id": "romobot",
+    "provider": "lichess",
+    "username": "romobot",
+    "firstSeen": 1647012625528,
+    "lastSeen": 1647013362253,
+    "firstSeenTime": "3:30:25 PM",
+    "lastSeenTime": "3:42:42 PM",
+    "onlineDurationMins": 12.27875
+  },
+  "thunderofficial@lichess": {
+    "id": "thunderofficial",
+    "provider": "lichess",
+    "username": "THUNDEROFFICIAL",
+    "firstSeen": 1647012939741,
+    "lastSeen": 1647013661790,
+    "firstSeenTime": "3:35:39 PM",
+    "lastSeenTime": "3:45:56 PM",
+    "onlineDurationMins": 10.274716666666666
+  },
+  "lishadowapps@lichess": {
+    "id": "lishadowapps",
+    "provider": "lichess",
+    "username": "lishadowapps",
+    "firstSeen": 1647013617135,
+    "lastSeen": 1647014206290,
+    "firstSeenTime": "3:46:57 PM",
+    "lastSeenTime": "3:47:25 PM",
+    "onlineDurationMins": 0.4805
+  }
+}
