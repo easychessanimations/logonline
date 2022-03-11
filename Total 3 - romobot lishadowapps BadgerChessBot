@@ -1,0 +1,29 @@
+{
+  "romobot@lichess": {
+    "id": "romobot",
+    "provider": "lichess",
+    "username": "romobot",
+    "firstSeen": 1646978729887,
+    "lastSeen": 1646979637552,
+    "firstSeenTime": "6:05:29 AM",
+    "lastSeenTime": "6:20:37 AM",
+    "onlineDurationMins": 15.12775
+  },
+  "lishadowapps@lichess": {
+    "id": "lishadowapps",
+    "provider": "lichess",
+    "username": "lishadowapps",
+    "firstSeen": 1646978889424,
+    "lastSeen": 1646980220118,
+    "firstSeenTime": "6:08:09 AM",
+    "lastSeenTime": "6:30:19 AM",
+    "onlineDurationMins": 22.167766666666665
+  },
+  "badgerchessbot@lichess": {
+    "id": "badgerchessbot",
+    "provider": "lichess",
+    "username": "BadgerChessBot",
+    "firstSeen": 1646980483837,
+    "lastSeen": 1646980483837
+  }
+}
