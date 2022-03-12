@@ -1,0 +1,23 @@
+{
+  "mateuszzmigrodzki@lichess": {
+    "id": "mateuszzmigrodzki",
+    "provider": "lichess",
+    "username": "MateuszZmigrodzki",
+    "firstSeen": 1647082306595,
+    "lastSeen": 1647090263012
+  },
+  "ash_bot@lichess": {
+    "id": "ash_bot",
+    "provider": "lichess",
+    "username": "Ash_BOT",
+    "firstSeen": 1647088709509,
+    "lastSeen": 1647089367754
+  },
+  "winrate@lichess": {
+    "id": "winrate",
+    "provider": "lichess",
+    "username": "Winrate",
+    "firstSeen": 1647089755326,
+    "lastSeen": 1647089766375
+  }
+}
