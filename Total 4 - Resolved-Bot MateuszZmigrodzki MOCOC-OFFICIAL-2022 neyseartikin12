@@ -1,0 +1,30 @@
+{
+  "resolved-bot@lichess": {
+    "id": "resolved-bot",
+    "provider": "lichess",
+    "username": "Resolved-Bot",
+    "firstSeen": 1647091592317,
+    "lastSeen": 1647092700914
+  },
+  "mateuszzmigrodzki@lichess": {
+    "id": "mateuszzmigrodzki",
+    "provider": "lichess",
+    "username": "MateuszZmigrodzki",
+    "firstSeen": 1647092009372,
+    "lastSeen": 1647092019758
+  },
+  "mococ-official-2022@lichess": {
+    "id": "mococ-official-2022",
+    "provider": "lichess",
+    "username": "MOCOC-OFFICIAL-2022",
+    "firstSeen": 1647092045170,
+    "lastSeen": 1647092687828
+  },
+  "neyseartikin12@lichess": {
+    "id": "neyseartikin12",
+    "provider": "lichess",
+    "username": "neyseartikin12",
+    "firstSeen": 1647092701095,
+    "lastSeen": 1647092701095
+  }
+}
