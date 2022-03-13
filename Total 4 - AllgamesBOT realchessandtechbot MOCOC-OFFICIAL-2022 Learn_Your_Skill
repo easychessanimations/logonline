@@ -1,0 +1,30 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1647181341032,
+    "lastSeen": 1647183969613
+  },
+  "realchessandtechbot@lichess": {
+    "id": "realchessandtechbot",
+    "provider": "lichess",
+    "username": "realchessandtechbot",
+    "firstSeen": 1647182278287,
+    "lastSeen": 1647183873776
+  },
+  "mococ-official-2022@lichess": {
+    "id": "mococ-official-2022",
+    "provider": "lichess",
+    "username": "MOCOC-OFFICIAL-2022",
+    "firstSeen": 1647184125723,
+    "lastSeen": 1647184139626
+  },
+  "learn_your_skill@lichess": {
+    "id": "learn_your_skill",
+    "provider": "lichess",
+    "username": "Learn_Your_Skill",
+    "firstSeen": 1647184309301,
+    "lastSeen": 1647184309301
+  }
+}
