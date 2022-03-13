@@ -1,0 +1,23 @@
+{
+  "khurai_chess_robot@lichess": {
+    "id": "khurai_chess_robot",
+    "provider": "lichess",
+    "username": "KHURAI_CHESS_ROBOT",
+    "firstSeen": 1647161387183,
+    "lastSeen": 1647161910374
+  },
+  "ntheanh2012@lichess": {
+    "id": "ntheanh2012",
+    "provider": "lichess",
+    "username": "NTheAnh2012",
+    "firstSeen": 1647161913507,
+    "lastSeen": 1647162158091
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1647162675681,
+    "lastSeen": 1647162675681
+  }
+}
