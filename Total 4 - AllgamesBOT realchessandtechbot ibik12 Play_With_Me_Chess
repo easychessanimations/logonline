@@ -1,0 +1,30 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1647181341032,
+    "lastSeen": 1647185292553
+  },
+  "realchessandtechbot@lichess": {
+    "id": "realchessandtechbot",
+    "provider": "lichess",
+    "username": "realchessandtechbot",
+    "firstSeen": 1647182278287,
+    "lastSeen": 1647185692758
+  },
+  "ibik12@lichess": {
+    "id": "ibik12",
+    "provider": "lichess",
+    "username": "ibik12",
+    "firstSeen": 1647185259291,
+    "lastSeen": 1647185300879
+  },
+  "play_with_me_chess@lichess": {
+    "id": "play_with_me_chess",
+    "provider": "lichess",
+    "username": "Play_With_Me_Chess",
+    "firstSeen": 1647186026301,
+    "lastSeen": 1647186079184
+  }
+}
