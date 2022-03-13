@@ -1,0 +1,23 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1647181341032,
+    "lastSeen": 1647184688625
+  },
+  "realchessandtechbot@lichess": {
+    "id": "realchessandtechbot",
+    "provider": "lichess",
+    "username": "realchessandtechbot",
+    "firstSeen": 1647182278287,
+    "lastSeen": 1647185028242
+  },
+  "learn_your_skill@lichess": {
+    "id": "learn_your_skill",
+    "provider": "lichess",
+    "username": "Learn_Your_Skill",
+    "firstSeen": 1647184309301,
+    "lastSeen": 1647185172990
+  }
+}
