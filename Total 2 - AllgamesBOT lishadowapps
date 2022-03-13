@@ -1,0 +1,22 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1647169329028,
+    "lastSeen": 1647172032700,
+    "firstSeenTime": "11:02:09 AM",
+    "lastSeenTime": "11:47:12 AM",
+    "onlineDurationMins": 45.0612
+  },
+  "lishadowapps@lichess": {
+    "id": "lishadowapps",
+    "provider": "lichess",
+    "username": "lishadowapps",
+    "firstSeen": 1647171885902,
+    "lastSeen": 1647172448518,
+    "firstSeenTime": "11:44:45 AM",
+    "lastSeenTime": "11:51:08 AM",
+    "onlineDurationMins": 6.381233333333333
+  }
+}
