@@ -1,0 +1,30 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1647176285709,
+    "lastSeen": 1647176949193
+  },
+  "learn_your_skill@lichess": {
+    "id": "learn_your_skill",
+    "provider": "lichess",
+    "username": "Learn_Your_Skill",
+    "firstSeen": 1647176363804,
+    "lastSeen": 1647177133075
+  },
+  "p40toforget@lichess": {
+    "id": "p40toforget",
+    "provider": "lichess",
+    "username": "P40ToForget",
+    "firstSeen": 1647176373323,
+    "lastSeen": 1647176382819
+  },
+  "l_y_s_entries@lichess": {
+    "id": "l_y_s_entries",
+    "provider": "lichess",
+    "username": "L_Y_S_ENTRIES",
+    "firstSeen": 1647176909688,
+    "lastSeen": 1647177002057
+  }
+}
