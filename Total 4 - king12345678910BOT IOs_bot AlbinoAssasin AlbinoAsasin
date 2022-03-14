@@ -1,0 +1,30 @@
+{
+  "king12345678910bot@lichess": {
+    "id": "king12345678910bot",
+    "provider": "lichess",
+    "username": "king12345678910BOT",
+    "firstSeen": 1647266748980,
+    "lastSeen": 1647286758536
+  },
+  "ios_bot@lichess": {
+    "id": "ios_bot",
+    "provider": "lichess",
+    "username": "IOs_bot",
+    "firstSeen": 1647282075021,
+    "lastSeen": 1647287017836
+  },
+  "albinoassasin@lichess": {
+    "id": "albinoassasin",
+    "provider": "lichess",
+    "username": "AlbinoAssasin",
+    "firstSeen": 1647286929205,
+    "lastSeen": 1647286958997
+  },
+  "albinoasasin@lichess": {
+    "id": "albinoasasin",
+    "provider": "lichess",
+    "username": "AlbinoAsasin",
+    "firstSeen": 1647287113322,
+    "lastSeen": 1647287113322
+  }
+}
