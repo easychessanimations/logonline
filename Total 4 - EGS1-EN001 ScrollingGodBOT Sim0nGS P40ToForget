@@ -1,0 +1,30 @@
+{
+  "egs1-en001@lichess": {
+    "id": "egs1-en001",
+    "provider": "lichess",
+    "username": "EGS1-EN001",
+    "firstSeen": 1647301125341,
+    "lastSeen": 1647301389250
+  },
+  "scrollinggodbot@lichess": {
+    "id": "scrollinggodbot",
+    "provider": "lichess",
+    "username": "ScrollingGodBOT",
+    "firstSeen": 1647301581757,
+    "lastSeen": 1647301594722
+  },
+  "sim0ngs@lichess": {
+    "id": "sim0ngs",
+    "provider": "lichess",
+    "username": "Sim0nGS",
+    "firstSeen": 1647302169815,
+    "lastSeen": 1647302177713
+  },
+  "p40toforget@lichess": {
+    "id": "p40toforget",
+    "provider": "lichess",
+    "username": "P40ToForget",
+    "firstSeen": 1647302180363,
+    "lastSeen": 1647302180363
+  }
+}
