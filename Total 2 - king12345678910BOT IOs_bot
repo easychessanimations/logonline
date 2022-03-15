@@ -3,14 +3,17 @@
     "id": "king12345678910bot",
     "provider": "lichess",
     "username": "king12345678910BOT",
-    "firstSeen": 1647266748980,
-    "lastSeen": 1647288443082
+    "firstSeen": 1647341994150,
+    "lastSeen": 1647361577447,
+    "firstSeenTime": "10:59:54 AM",
+    "lastSeenTime": "12:38:17 PM",
+    "onlineDurationMins": 98.38816666666666
   },
   "ios_bot@lichess": {
     "id": "ios_bot",
     "provider": "lichess",
     "username": "IOs_bot",
-    "firstSeen": 1647282075021,
-    "lastSeen": 1647288839037
+    "firstSeen": 1647359397555,
+    "lastSeen": 1647361829719
   }
 }
