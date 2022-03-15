@@ -1,0 +1,30 @@
+{
+  "king12345678910bot@lichess": {
+    "id": "king12345678910bot",
+    "provider": "lichess",
+    "username": "king12345678910BOT",
+    "firstSeen": 1647369077502,
+    "lastSeen": 1647373397208
+  },
+  "ios_bot@lichess": {
+    "id": "ios_bot",
+    "provider": "lichess",
+    "username": "IOs_bot",
+    "firstSeen": 1647371592637,
+    "lastSeen": 1647373349767
+  },
+  "romobot@lichess": {
+    "id": "romobot",
+    "provider": "lichess",
+    "username": "romobot",
+    "firstSeen": 1647371809907,
+    "lastSeen": 1647373312684
+  },
+  "aprazz@lichess": {
+    "id": "aprazz",
+    "provider": "lichess",
+    "username": "aprazz",
+    "firstSeen": 1647373387374,
+    "lastSeen": 1647373423178
+  }
+}
