@@ -4,26 +4,29 @@
     "provider": "lichess",
     "username": "EcemNurAtik",
     "firstSeen": 1647337696543,
-    "lastSeen": 1647341361840,
+    "lastSeen": 1647343360420,
     "firstSeenTime": "9:48:16 AM",
-    "lastSeenTime": "10:49:21 AM",
-    "onlineDurationMins": 61.08828333333334
+    "lastSeenTime": "11:22:40 AM",
+    "onlineDurationMins": 94.39795
   },
   "ultrachessacc@lichess": {
     "id": "ultrachessacc",
     "provider": "lichess",
     "username": "Ultrachessacc",
     "firstSeen": 1647341367847,
-    "lastSeen": 1647341552171,
+    "lastSeen": 1647343044634,
     "firstSeenTime": "10:49:27 AM",
-    "lastSeenTime": "10:52:32 AM",
-    "onlineDurationMins": 3.0720666666666667
+    "lastSeenTime": "11:17:24 AM",
+    "onlineDurationMins": 27.94645
   },
   "king12345678910bot@lichess": {
     "id": "king12345678910bot",
     "provider": "lichess",
     "username": "king12345678910BOT",
     "firstSeen": 1647341994150,
-    "lastSeen": 1647341994150
+    "lastSeen": 1647343416691,
+    "firstSeenTime": "10:59:54 AM",
+    "lastSeenTime": "11:22:23 AM",
+    "onlineDurationMins": 22.482216666666666
   }
 }
