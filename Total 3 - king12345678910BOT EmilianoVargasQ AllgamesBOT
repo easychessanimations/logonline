@@ -1,0 +1,29 @@
+{
+  "king12345678910bot@lichess": {
+    "id": "king12345678910bot",
+    "provider": "lichess",
+    "username": "king12345678910BOT",
+    "firstSeen": 1647441351106,
+    "lastSeen": 1647451634314,
+    "firstSeenTime": "2:35:51 PM",
+    "lastSeenTime": "5:16:18 PM",
+    "onlineDurationMins": 160.44831666666667
+  },
+  "emilianovargasq@lichess": {
+    "id": "emilianovargasq",
+    "provider": "lichess",
+    "username": "EmilianoVargasQ",
+    "firstSeen": 1647448239643,
+    "lastSeen": 1647451648460,
+    "firstSeenTime": "4:30:39 PM",
+    "lastSeenTime": "5:16:31 PM",
+    "onlineDurationMins": 45.86293333333333
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1647451854282,
+    "lastSeen": 1647451854282
+  }
+}
