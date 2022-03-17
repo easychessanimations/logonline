@@ -1,0 +1,44 @@
+{
+  "sicilian_master_bot@lichess": {
+    "id": "sicilian_master_bot",
+    "provider": "lichess",
+    "username": "Sicilian_Master_Bot",
+    "firstSeen": 1647523814774,
+    "lastSeen": 1647525746959
+  },
+  "emilianovargasq@lichess": {
+    "id": "emilianovargasq",
+    "provider": "lichess",
+    "username": "EmilianoVargasQ",
+    "firstSeen": 1647525112745,
+    "lastSeen": 1647525983490
+  },
+  "oosteryoungkenkons@lichess": {
+    "id": "oosteryoungkenkons",
+    "provider": "lichess",
+    "username": "OosterYoungKenkons",
+    "firstSeen": 1647525115412,
+    "lastSeen": 1647525824633
+  },
+  "topikkiemas@lichess": {
+    "id": "topikkiemas",
+    "provider": "lichess",
+    "username": "topikkiemas",
+    "firstSeen": 1647525327339,
+    "lastSeen": 1647525366389
+  },
+  "kbr999@lichess": {
+    "id": "kbr999",
+    "provider": "lichess",
+    "username": "Kbr999",
+    "firstSeen": 1647525742129,
+    "lastSeen": 1647525745469
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1647525787547,
+    "lastSeen": 1647525791225
+  }
+}
