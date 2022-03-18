@@ -1,0 +1,16 @@
+{
+  "acc_bot@lichess": {
+    "id": "acc_bot",
+    "provider": "lichess",
+    "username": "ACC_Bot",
+    "firstSeen": 1647612878742,
+    "lastSeen": 1647613100677
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1647612925431,
+    "lastSeen": 1647613564059
+  }
+}
