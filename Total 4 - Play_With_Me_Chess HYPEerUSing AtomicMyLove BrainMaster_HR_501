@@ -1,0 +1,30 @@
+{
+  "play_with_me_chess@lichess": {
+    "id": "play_with_me_chess",
+    "provider": "lichess",
+    "username": "Play_With_Me_Chess",
+    "firstSeen": 1647615425479,
+    "lastSeen": 1647616928809
+  },
+  "hypeerusing@lichess": {
+    "id": "hypeerusing",
+    "provider": "lichess",
+    "username": "HYPEerUSing",
+    "firstSeen": 1647615457788,
+    "lastSeen": 1647617022391
+  },
+  "atomicmylove@lichess": {
+    "id": "atomicmylove",
+    "provider": "lichess",
+    "username": "AtomicMyLove",
+    "firstSeen": 1647616496033,
+    "lastSeen": 1647616519282
+  },
+  "brainmaster_hr_501@lichess": {
+    "id": "brainmaster_hr_501",
+    "provider": "lichess",
+    "username": "BrainMaster_HR_501",
+    "firstSeen": 1647616978494,
+    "lastSeen": 1647617007341
+  }
+}
