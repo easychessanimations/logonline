@@ -1,0 +1,37 @@
+{
+  "my_real_username@lichess": {
+    "id": "my_real_username",
+    "provider": "lichess",
+    "username": "MY_REAL_USERNAME",
+    "firstSeen": 1647601144572,
+    "lastSeen": 1647604406625
+  },
+  "ecemnuratik@lichess": {
+    "id": "ecemnuratik",
+    "provider": "lichess",
+    "username": "EcemNurAtik",
+    "firstSeen": 1647601351129,
+    "lastSeen": 1647604353050
+  },
+  "game-bot@lichess": {
+    "id": "game-bot",
+    "provider": "lichess",
+    "username": "game-bot",
+    "firstSeen": 1647601484307,
+    "lastSeen": 1647604474137
+  },
+  "chessismatter@lichess": {
+    "id": "chessismatter",
+    "provider": "lichess",
+    "username": "CheSSisMatter",
+    "firstSeen": 1647603777833,
+    "lastSeen": 1647603796826
+  },
+  "mom999@lichess": {
+    "id": "mom999",
+    "provider": "lichess",
+    "username": "MoM999",
+    "firstSeen": 1647604520490,
+    "lastSeen": 1647604520490
+  }
+}
