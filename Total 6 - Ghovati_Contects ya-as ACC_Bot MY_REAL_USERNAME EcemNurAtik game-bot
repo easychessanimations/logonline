@@ -1,0 +1,50 @@
+{
+  "ghovati_contects@lichess": {
+    "id": "ghovati_contects",
+    "provider": "lichess",
+    "username": "Ghovati_Contects",
+    "firstSeen": 1647600513775,
+    "lastSeen": 1647601484085,
+    "firstSeenTime": "10:48:33 AM",
+    "lastSeenTime": "10:49:47 AM",
+    "onlineDurationMins": 1.2299333333333333
+  },
+  "ya-as@lichess": {
+    "id": "ya-as",
+    "provider": "lichess",
+    "username": "ya-as",
+    "firstSeen": 1647600595020,
+    "lastSeen": 1647600731529,
+    "firstSeenTime": "10:49:55 AM",
+    "lastSeenTime": "10:52:11 AM",
+    "onlineDurationMins": 2.27515
+  },
+  "acc_bot@lichess": {
+    "id": "acc_bot",
+    "provider": "lichess",
+    "username": "ACC_Bot",
+    "firstSeen": 1647601041940,
+    "lastSeen": 1647601214478
+  },
+  "my_real_username@lichess": {
+    "id": "my_real_username",
+    "provider": "lichess",
+    "username": "MY_REAL_USERNAME",
+    "firstSeen": 1647601144572,
+    "lastSeen": 1647601394525
+  },
+  "ecemnuratik@lichess": {
+    "id": "ecemnuratik",
+    "provider": "lichess",
+    "username": "EcemNurAtik",
+    "firstSeen": 1647601351129,
+    "lastSeen": 1647601408976
+  },
+  "game-bot@lichess": {
+    "id": "game-bot",
+    "provider": "lichess",
+    "username": "game-bot",
+    "firstSeen": 1647601484307,
+    "lastSeen": 1647601484307
+  }
+}
