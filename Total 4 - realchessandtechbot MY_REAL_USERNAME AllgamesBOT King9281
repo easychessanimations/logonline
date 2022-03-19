@@ -1,0 +1,30 @@
+{
+  "realchessandtechbot@lichess": {
+    "id": "realchessandtechbot",
+    "provider": "lichess",
+    "username": "realchessandtechbot",
+    "firstSeen": 1647689662345,
+    "lastSeen": 1647692932841
+  },
+  "my_real_username@lichess": {
+    "id": "my_real_username",
+    "provider": "lichess",
+    "username": "MY_REAL_USERNAME",
+    "firstSeen": 1647690246112,
+    "lastSeen": 1647692394736
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1647692197996,
+    "lastSeen": 1647692602652
+  },
+  "king9281@lichess": {
+    "id": "king9281",
+    "provider": "lichess",
+    "username": "King9281",
+    "firstSeen": 1647692962207,
+    "lastSeen": 1647692962207
+  }
+}
