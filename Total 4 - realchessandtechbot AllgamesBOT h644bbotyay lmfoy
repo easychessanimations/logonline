@@ -1,0 +1,39 @@
+{
+  "realchessandtechbot@lichess": {
+    "id": "realchessandtechbot",
+    "provider": "lichess",
+    "username": "realchessandtechbot",
+    "firstSeen": 1647689662345,
+    "lastSeen": 1647698146218,
+    "firstSeenTime": "11:34:22 AM",
+    "lastSeenTime": "1:55:46 PM",
+    "onlineDurationMins": 141.39788333333334
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1647692197996,
+    "lastSeen": 1647698519082,
+    "firstSeenTime": "12:16:37 PM",
+    "lastSeenTime": "1:55:28 PM",
+    "onlineDurationMins": 98.84501666666667
+  },
+  "h644bbotyay@lichess": {
+    "id": "h644bbotyay",
+    "provider": "lichess",
+    "username": "h644bbotyay",
+    "firstSeen": 1647697815841,
+    "lastSeen": 1647698481342,
+    "firstSeenTime": "1:50:15 PM",
+    "lastSeenTime": "1:56:42 PM",
+    "onlineDurationMins": 6.450183333333333
+  },
+  "lmfoy@lichess": {
+    "id": "lmfoy",
+    "provider": "lichess",
+    "username": "lmfoy",
+    "firstSeen": 1647698521814,
+    "lastSeen": 1647698521814
+  }
+}
