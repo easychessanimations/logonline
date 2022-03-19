@@ -1,0 +1,49 @@
+{
+  "realchessandtechbot@lichess": {
+    "id": "realchessandtechbot",
+    "provider": "lichess",
+    "username": "realchessandtechbot",
+    "firstSeen": 1647689662345,
+    "lastSeen": 1647700883307,
+    "firstSeenTime": "11:34:22 AM",
+    "lastSeenTime": "2:17:52 PM",
+    "onlineDurationMins": 163.50433333333334
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1647692197996,
+    "lastSeen": 1647701155448,
+    "firstSeenTime": "12:16:37 PM",
+    "lastSeenTime": "2:23:59 PM",
+    "onlineDurationMins": 127.35211666666666
+  },
+  "kingmanking7bot@lichess": {
+    "id": "kingmanking7bot",
+    "provider": "lichess",
+    "username": "kingmanking7bot",
+    "firstSeen": 1647698944239,
+    "lastSeen": 1647700928669,
+    "firstSeenTime": "2:09:04 PM",
+    "lastSeenTime": "2:20:14 PM",
+    "onlineDurationMins": 11.166183333333333
+  },
+  "melenium-xxx@lichess": {
+    "id": "melenium-xxx",
+    "provider": "lichess",
+    "username": "Melenium-xxx",
+    "firstSeen": 1647699630089,
+    "lastSeen": 1647701133923,
+    "firstSeenTime": "2:20:30 PM",
+    "lastSeenTime": "2:24:21 PM",
+    "onlineDurationMins": 3.856533333333333
+  },
+  "atomicmylove@lichess": {
+    "id": "atomicmylove",
+    "provider": "lichess",
+    "username": "AtomicMyLove",
+    "firstSeen": 1647701418028,
+    "lastSeen": 1647701418028
+  }
+}
