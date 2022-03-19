@@ -1,0 +1,32 @@
+{
+  "realchessandtechbot@lichess": {
+    "id": "realchessandtechbot",
+    "provider": "lichess",
+    "username": "realchessandtechbot",
+    "firstSeen": 1647689662345,
+    "lastSeen": 1647704115157,
+    "firstSeenTime": "11:34:22 AM",
+    "lastSeenTime": "2:17:52 PM",
+    "onlineDurationMins": 163.50433333333334
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1647692197996,
+    "lastSeen": 1647703795550,
+    "firstSeenTime": "12:16:37 PM",
+    "lastSeenTime": "2:23:59 PM",
+    "onlineDurationMins": 127.35211666666666
+  },
+  "melenium-xxx@lichess": {
+    "id": "melenium-xxx",
+    "provider": "lichess",
+    "username": "Melenium-xxx",
+    "firstSeen": 1647699630089,
+    "lastSeen": 1647703692705,
+    "firstSeenTime": "2:20:30 PM",
+    "lastSeenTime": "2:24:21 PM",
+    "onlineDurationMins": 3.856533333333333
+  }
+}
