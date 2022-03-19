@@ -1,0 +1,52 @@
+{
+  "realchessandtechbot@lichess": {
+    "id": "realchessandtechbot",
+    "provider": "lichess",
+    "username": "realchessandtechbot",
+    "firstSeen": 1647689662345,
+    "lastSeen": 1647699383136,
+    "firstSeenTime": "11:34:22 AM",
+    "lastSeenTime": "2:06:50 PM",
+    "onlineDurationMins": 152.46148333333332
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1647692197996,
+    "lastSeen": 1647699175461,
+    "firstSeenTime": "12:16:37 PM",
+    "lastSeenTime": "2:12:55 PM",
+    "onlineDurationMins": 116.29108333333333
+  },
+  "lmfoy@lichess": {
+    "id": "lmfoy",
+    "provider": "lichess",
+    "username": "lmfoy",
+    "firstSeen": 1647698521814,
+    "lastSeen": 1647698552275,
+    "firstSeenTime": "2:02:01 PM",
+    "lastSeenTime": "2:02:32 PM",
+    "onlineDurationMins": 0.5076833333333334
+  },
+  "arsam_rajabzadeh_bot@lichess": {
+    "id": "arsam_rajabzadeh_bot",
+    "provider": "lichess",
+    "username": "Arsam_Rajabzadeh_Bot",
+    "firstSeen": 1647698915446,
+    "lastSeen": 1647698943310,
+    "firstSeenTime": "2:08:35 PM",
+    "lastSeenTime": "2:09:03 PM",
+    "onlineDurationMins": 0.4644
+  },
+  "kingmanking7bot@lichess": {
+    "id": "kingmanking7bot",
+    "provider": "lichess",
+    "username": "kingmanking7bot",
+    "firstSeen": 1647698944239,
+    "lastSeen": 1647698996680,
+    "firstSeenTime": "2:09:04 PM",
+    "lastSeenTime": "2:09:56 PM",
+    "onlineDurationMins": 0.8740166666666667
+  }
+}
