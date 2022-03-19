@@ -1,0 +1,26 @@
+{
+  "atomicmylove@lichess": {
+    "id": "atomicmylove",
+    "provider": "lichess",
+    "username": "AtomicMyLove",
+    "firstSeen": 1647678056484,
+    "lastSeen": 1647688741217,
+    "firstSeenTime": "8:20:56 AM",
+    "lastSeenTime": "10:09:01 AM",
+    "onlineDurationMins": 108.08061666666667
+  },
+  "fischerforplay@lichess": {
+    "id": "fischerforplay",
+    "provider": "lichess",
+    "username": "FischerForPlay",
+    "firstSeen": 1647687143926,
+    "lastSeen": 1647688651631
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1647688012833,
+    "lastSeen": 1647688896647
+  }
+}
