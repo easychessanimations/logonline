@@ -1,0 +1,59 @@
+{
+  "stockfish_wakwella@lichess": {
+    "id": "stockfish_wakwella",
+    "provider": "lichess",
+    "username": "STOCKFISH_WAKWELLA",
+    "firstSeen": 1647758799088,
+    "lastSeen": 1647760303648,
+    "firstSeenTime": "6:46:39 AM",
+    "lastSeenTime": "7:11:43 AM",
+    "onlineDurationMins": 25.076
+  },
+  "khag0kpam_r0nald0@lichess": {
+    "id": "khag0kpam_r0nald0",
+    "provider": "lichess",
+    "username": "KHAG0KPAM_R0NALD0",
+    "firstSeen": 1647758928499,
+    "lastSeen": 1647760374064,
+    "firstSeenTime": "6:48:48 AM",
+    "lastSeenTime": "7:12:25 AM",
+    "onlineDurationMins": 23.61215
+  },
+  "manipur_chess_robot@lichess": {
+    "id": "manipur_chess_robot",
+    "provider": "lichess",
+    "username": "MANIPUR_CHESS_ROBOT",
+    "firstSeen": 1647759084861,
+    "lastSeen": 1647760345272,
+    "firstSeenTime": "6:51:24 AM",
+    "lastSeenTime": "7:12:25 AM",
+    "onlineDurationMins": 21.00685
+  },
+  "navaneet02@lichess": {
+    "id": "navaneet02",
+    "provider": "lichess",
+    "username": "navaneet02",
+    "firstSeen": 1647759208958,
+    "lastSeen": 1647760384307,
+    "firstSeenTime": "6:53:28 AM",
+    "lastSeenTime": "7:00:16 AM",
+    "onlineDurationMins": 6.78915
+  },
+  "my_real_username@lichess": {
+    "id": "my_real_username",
+    "provider": "lichess",
+    "username": "MY_REAL_USERNAME",
+    "firstSeen": 1647759426506,
+    "lastSeen": 1647760290639,
+    "firstSeenTime": "6:57:06 AM",
+    "lastSeenTime": "7:11:30 AM",
+    "onlineDurationMins": 14.402216666666666
+  },
+  "rapid_worldchamp@lichess": {
+    "id": "rapid_worldchamp",
+    "provider": "lichess",
+    "username": "Rapid_WorldChamp",
+    "firstSeen": 1647760388987,
+    "lastSeen": 1647760388987
+  }
+}
