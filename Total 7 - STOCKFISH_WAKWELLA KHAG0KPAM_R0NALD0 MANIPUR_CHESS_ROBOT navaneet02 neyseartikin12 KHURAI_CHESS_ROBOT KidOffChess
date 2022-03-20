@@ -1,0 +1,72 @@
+{
+  "stockfish_wakwella@lichess": {
+    "id": "stockfish_wakwella",
+    "provider": "lichess",
+    "username": "STOCKFISH_WAKWELLA",
+    "firstSeen": 1647758799088,
+    "lastSeen": 1647761233385,
+    "firstSeenTime": "6:46:39 AM",
+    "lastSeenTime": "7:27:13 AM",
+    "onlineDurationMins": 40.571616666666664
+  },
+  "khag0kpam_r0nald0@lichess": {
+    "id": "khag0kpam_r0nald0",
+    "provider": "lichess",
+    "username": "KHAG0KPAM_R0NALD0",
+    "firstSeen": 1647758928499,
+    "lastSeen": 1647761892628,
+    "firstSeenTime": "6:48:48 AM",
+    "lastSeenTime": "7:37:17 AM",
+    "onlineDurationMins": 48.47805
+  },
+  "manipur_chess_robot@lichess": {
+    "id": "manipur_chess_robot",
+    "provider": "lichess",
+    "username": "MANIPUR_CHESS_ROBOT",
+    "firstSeen": 1647759084861,
+    "lastSeen": 1647760997890,
+    "firstSeenTime": "6:51:24 AM",
+    "lastSeenTime": "7:23:17 AM",
+    "onlineDurationMins": 31.883816666666668
+  },
+  "navaneet02@lichess": {
+    "id": "navaneet02",
+    "provider": "lichess",
+    "username": "navaneet02",
+    "firstSeen": 1647759208958,
+    "lastSeen": 1647761250291,
+    "firstSeenTime": "6:53:28 AM",
+    "lastSeenTime": "7:27:30 AM",
+    "onlineDurationMins": 34.022216666666665
+  },
+  "neyseartikin12@lichess": {
+    "id": "neyseartikin12",
+    "provider": "lichess",
+    "username": "neyseartikin12",
+    "firstSeen": 1647760562715,
+    "lastSeen": 1647761405175,
+    "firstSeenTime": "7:16:02 AM",
+    "lastSeenTime": "7:30:05 AM",
+    "onlineDurationMins": 14.041
+  },
+  "khurai_chess_robot@lichess": {
+    "id": "khurai_chess_robot",
+    "provider": "lichess",
+    "username": "KHURAI_CHESS_ROBOT",
+    "firstSeen": 1647760999115,
+    "lastSeen": 1647761766552,
+    "firstSeenTime": "7:23:19 AM",
+    "lastSeenTime": "7:36:06 AM",
+    "onlineDurationMins": 12.790616666666667
+  },
+  "kidoffchess@lichess": {
+    "id": "kidoffchess",
+    "provider": "lichess",
+    "username": "KidOffChess",
+    "firstSeen": 1647761000695,
+    "lastSeen": 1647761748990,
+    "firstSeenTime": "7:23:20 AM",
+    "lastSeenTime": "7:35:48 AM",
+    "onlineDurationMins": 12.471583333333333
+  }
+}
