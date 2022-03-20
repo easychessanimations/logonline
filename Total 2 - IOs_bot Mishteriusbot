@@ -1,0 +1,16 @@
+{
+  "ios_bot@lichess": {
+    "id": "ios_bot",
+    "provider": "lichess",
+    "username": "IOs_bot",
+    "firstSeen": 1647792745647,
+    "lastSeen": 1647800738324
+  },
+  "mishteriusbot@lichess": {
+    "id": "mishteriusbot",
+    "provider": "lichess",
+    "username": "Mishteriusbot",
+    "firstSeen": 1647800335414,
+    "lastSeen": 1647800463451
+  }
+}
