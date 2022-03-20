@@ -1,0 +1,43 @@
+{
+  "divenapawar_2013@lichess": {
+    "id": "divenapawar_2013",
+    "provider": "lichess",
+    "username": "DivenaPawar_2013",
+    "firstSeen": 1647766522206,
+    "lastSeen": 1647769535148,
+    "firstSeenTime": "8:55:22 AM",
+    "lastSeenTime": "8:56:58 AM",
+    "onlineDurationMins": 1.6113166666666667
+  },
+  "kidoffchess@lichess": {
+    "id": "kidoffchess",
+    "provider": "lichess",
+    "username": "KidOffChess",
+    "firstSeen": 1647766925666,
+    "lastSeen": 1647770199666,
+    "firstSeenTime": "9:02:05 AM",
+    "lastSeenTime": "9:02:40 AM",
+    "onlineDurationMins": 0.5863
+  },
+  "king12345678910bot@lichess": {
+    "id": "king12345678910bot",
+    "provider": "lichess",
+    "username": "king12345678910BOT",
+    "firstSeen": 1647767197349,
+    "lastSeen": 1647769995048
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1647769249169,
+    "lastSeen": 1647770255379
+  },
+  "play_with_me_chess@lichess": {
+    "id": "play_with_me_chess",
+    "provider": "lichess",
+    "username": "Play_With_Me_Chess",
+    "firstSeen": 1647770307776,
+    "lastSeen": 1647770307776
+  }
+}
