@@ -1,0 +1,30 @@
+{
+  "ios_bot@lichess": {
+    "id": "ios_bot",
+    "provider": "lichess",
+    "username": "IOs_bot",
+    "firstSeen": 1647792745647,
+    "lastSeen": 1647806790033
+  },
+  "mishteriusbot@lichess": {
+    "id": "mishteriusbot",
+    "provider": "lichess",
+    "username": "Mishteriusbot",
+    "firstSeen": 1647800335414,
+    "lastSeen": 1647807299826
+  },
+  "king12345678910bot@lichess": {
+    "id": "king12345678910bot",
+    "provider": "lichess",
+    "username": "king12345678910BOT",
+    "firstSeen": 1647801077469,
+    "lastSeen": 1647807191729
+  },
+  "xinsienna@lichess": {
+    "id": "xinsienna",
+    "provider": "lichess",
+    "username": "xinsienna",
+    "firstSeen": 1647807390906,
+    "lastSeen": 1647807390906
+  }
+}
