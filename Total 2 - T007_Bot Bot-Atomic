@@ -1,0 +1,16 @@
+{
+  "t007_bot@lichess": {
+    "id": "t007_bot",
+    "provider": "lichess",
+    "username": "T007_Bot",
+    "firstSeen": 1647818962571,
+    "lastSeen": 1647819122439
+  },
+  "bot-atomic@lichess": {
+    "id": "bot-atomic",
+    "provider": "lichess",
+    "username": "Bot-Atomic",
+    "firstSeen": 1647819230870,
+    "lastSeen": 1647819230870
+  }
+}
