@@ -1,0 +1,39 @@
+{
+  "khurai_chess_robot@lichess": {
+    "id": "khurai_chess_robot",
+    "provider": "lichess",
+    "username": "KHURAI_CHESS_ROBOT",
+    "firstSeen": 1647765550257,
+    "lastSeen": 1647766542782,
+    "firstSeenTime": "8:39:10 AM",
+    "lastSeenTime": "8:55:42 AM",
+    "onlineDurationMins": 16.542083333333334
+  },
+  "divenapawar_2013@lichess": {
+    "id": "divenapawar_2013",
+    "provider": "lichess",
+    "username": "DivenaPawar_2013",
+    "firstSeen": 1647766522206,
+    "lastSeen": 1647766618885,
+    "firstSeenTime": "8:55:22 AM",
+    "lastSeenTime": "8:56:58 AM",
+    "onlineDurationMins": 1.6113166666666667
+  },
+  "kidoffchess@lichess": {
+    "id": "kidoffchess",
+    "provider": "lichess",
+    "username": "KidOffChess",
+    "firstSeen": 1647766925666,
+    "lastSeen": 1647767096772,
+    "firstSeenTime": "9:02:05 AM",
+    "lastSeenTime": "9:02:40 AM",
+    "onlineDurationMins": 0.5863
+  },
+  "king12345678910bot@lichess": {
+    "id": "king12345678910bot",
+    "provider": "lichess",
+    "username": "king12345678910BOT",
+    "firstSeen": 1647767197349,
+    "lastSeen": 1647767197349
+  }
+}
