@@ -1,0 +1,29 @@
+{
+  "stockfish_wakwella@lichess": {
+    "id": "stockfish_wakwella",
+    "provider": "lichess",
+    "username": "STOCKFISH_WAKWELLA",
+    "firstSeen": 1647758799088,
+    "lastSeen": 1647758904054,
+    "firstSeenTime": "6:46:39 AM",
+    "lastSeenTime": "6:48:24 AM",
+    "onlineDurationMins": 1.7494333333333334
+  },
+  "khag0kpam_r0nald0@lichess": {
+    "id": "khag0kpam_r0nald0",
+    "provider": "lichess",
+    "username": "KHAG0KPAM_R0NALD0",
+    "firstSeen": 1647758928499,
+    "lastSeen": 1647759073944,
+    "firstSeenTime": "6:48:48 AM",
+    "lastSeenTime": "6:51:13 AM",
+    "onlineDurationMins": 2.4240833333333334
+  },
+  "manipur_chess_robot@lichess": {
+    "id": "manipur_chess_robot",
+    "provider": "lichess",
+    "username": "MANIPUR_CHESS_ROBOT",
+    "firstSeen": 1647759084861,
+    "lastSeen": 1647759084861
+  }
+}
