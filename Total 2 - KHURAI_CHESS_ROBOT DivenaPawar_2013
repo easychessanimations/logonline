@@ -1,0 +1,22 @@
+{
+  "khurai_chess_robot@lichess": {
+    "id": "khurai_chess_robot",
+    "provider": "lichess",
+    "username": "KHURAI_CHESS_ROBOT",
+    "firstSeen": 1647765550257,
+    "lastSeen": 1647766542782,
+    "firstSeenTime": "8:39:10 AM",
+    "lastSeenTime": "8:55:42 AM",
+    "onlineDurationMins": 16.542083333333334
+  },
+  "divenapawar_2013@lichess": {
+    "id": "divenapawar_2013",
+    "provider": "lichess",
+    "username": "DivenaPawar_2013",
+    "firstSeen": 1647766522206,
+    "lastSeen": 1647766618885,
+    "firstSeenTime": "8:55:22 AM",
+    "lastSeenTime": "8:55:41 AM",
+    "onlineDurationMins": 0.32675
+  }
+}
