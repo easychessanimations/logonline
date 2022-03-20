@@ -1,0 +1,82 @@
+{
+  "stockfish_wakwella@lichess": {
+    "id": "stockfish_wakwella",
+    "provider": "lichess",
+    "username": "STOCKFISH_WAKWELLA",
+    "firstSeen": 1647758799088,
+    "lastSeen": 1647761233385,
+    "firstSeenTime": "6:46:39 AM",
+    "lastSeenTime": "7:27:13 AM",
+    "onlineDurationMins": 40.571616666666664
+  },
+  "khag0kpam_r0nald0@lichess": {
+    "id": "khag0kpam_r0nald0",
+    "provider": "lichess",
+    "username": "KHAG0KPAM_R0NALD0",
+    "firstSeen": 1647758928499,
+    "lastSeen": 1647761339122,
+    "firstSeenTime": "6:48:48 AM",
+    "lastSeenTime": "7:27:02 AM",
+    "onlineDurationMins": 38.23035
+  },
+  "manipur_chess_robot@lichess": {
+    "id": "manipur_chess_robot",
+    "provider": "lichess",
+    "username": "MANIPUR_CHESS_ROBOT",
+    "firstSeen": 1647759084861,
+    "lastSeen": 1647760997890,
+    "firstSeenTime": "6:51:24 AM",
+    "lastSeenTime": "7:23:17 AM",
+    "onlineDurationMins": 31.883816666666668
+  },
+  "navaneet02@lichess": {
+    "id": "navaneet02",
+    "provider": "lichess",
+    "username": "navaneet02",
+    "firstSeen": 1647759208958,
+    "lastSeen": 1647761250291,
+    "firstSeenTime": "6:53:28 AM",
+    "lastSeenTime": "7:27:30 AM",
+    "onlineDurationMins": 34.022216666666665
+  },
+  "rapid_worldchamp@lichess": {
+    "id": "rapid_worldchamp",
+    "provider": "lichess",
+    "username": "Rapid_WorldChamp",
+    "firstSeen": 1647760388987,
+    "lastSeen": 1647760990037,
+    "firstSeenTime": "7:13:08 AM",
+    "lastSeenTime": "7:23:10 AM",
+    "onlineDurationMins": 10.0175
+  },
+  "neyseartikin12@lichess": {
+    "id": "neyseartikin12",
+    "provider": "lichess",
+    "username": "neyseartikin12",
+    "firstSeen": 1647760562715,
+    "lastSeen": 1647761223810,
+    "firstSeenTime": "7:16:02 AM",
+    "lastSeenTime": "7:27:03 AM",
+    "onlineDurationMins": 11.01825
+  },
+  "khurai_chess_robot@lichess": {
+    "id": "khurai_chess_robot",
+    "provider": "lichess",
+    "username": "KHURAI_CHESS_ROBOT",
+    "firstSeen": 1647760999115,
+    "lastSeen": 1647761353840,
+    "firstSeenTime": "7:23:19 AM",
+    "lastSeenTime": "7:27:03 AM",
+    "onlineDurationMins": 3.740866666666667
+  },
+  "kidoffchess@lichess": {
+    "id": "kidoffchess",
+    "provider": "lichess",
+    "username": "KidOffChess",
+    "firstSeen": 1647761000695,
+    "lastSeen": 1647761173607,
+    "firstSeenTime": "7:23:20 AM",
+    "lastSeenTime": "7:26:13 AM",
+    "onlineDurationMins": 2.881866666666667
+  }
+}
