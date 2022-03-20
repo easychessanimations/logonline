@@ -1,0 +1,30 @@
+{
+  "king12345678910bot@lichess": {
+    "id": "king12345678910bot",
+    "provider": "lichess",
+    "username": "king12345678910BOT",
+    "firstSeen": 1647789547124,
+    "lastSeen": 1647794407027
+  },
+  "ios_bot@lichess": {
+    "id": "ios_bot",
+    "provider": "lichess",
+    "username": "IOs_bot",
+    "firstSeen": 1647792745647,
+    "lastSeen": 1647794750009
+  },
+  "uzayer@lichess": {
+    "id": "uzayer",
+    "provider": "lichess",
+    "username": "uzayer",
+    "firstSeen": 1647794216715,
+    "lastSeen": 1647794749973
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1647794754776,
+    "lastSeen": 1647794754776
+  }
+}
