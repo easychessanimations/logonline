@@ -1,0 +1,50 @@
+{
+  "chessproua@lichess": {
+    "id": "chessproua",
+    "provider": "lichess",
+    "username": "ChessProUA",
+    "firstSeen": 1647851585822,
+    "lastSeen": 1647857514035,
+    "firstSeenTime": "8:33:05 AM",
+    "lastSeenTime": "8:48:45 AM",
+    "onlineDurationMins": 15.655716666666667
+  },
+  "ecemnuratik@lichess": {
+    "id": "ecemnuratik",
+    "provider": "lichess",
+    "username": "EcemNurAtik",
+    "firstSeen": 1647851719090,
+    "lastSeen": 1647857648903,
+    "firstSeenTime": "8:35:19 AM",
+    "lastSeenTime": "8:46:25 AM",
+    "onlineDurationMins": 11.105316666666667
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1647854738549,
+    "lastSeen": 1647857886725
+  },
+  "stockfish_wakwella@lichess": {
+    "id": "stockfish_wakwella",
+    "provider": "lichess",
+    "username": "STOCKFISH_WAKWELLA",
+    "firstSeen": 1647855670581,
+    "lastSeen": 1647857715073
+  },
+  "strongest_player@lichess": {
+    "id": "strongest_player",
+    "provider": "lichess",
+    "username": "Strongest_Player",
+    "firstSeen": 1647857329974,
+    "lastSeen": 1647857876194
+  },
+  "my_real_username@lichess": {
+    "id": "my_real_username",
+    "provider": "lichess",
+    "username": "MY_REAL_USERNAME",
+    "firstSeen": 1647857929760,
+    "lastSeen": 1647857929760
+  }
+}
