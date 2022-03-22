@@ -1,0 +1,16 @@
+{
+  "strongest_player@lichess": {
+    "id": "strongest_player",
+    "provider": "lichess",
+    "username": "Strongest_Player",
+    "firstSeen": 1647918109713,
+    "lastSeen": 1647918836399
+  },
+  "my_real_username@lichess": {
+    "id": "my_real_username",
+    "provider": "lichess",
+    "username": "MY_REAL_USERNAME",
+    "firstSeen": 1647919221905,
+    "lastSeen": 1647919221905
+  }
+}
