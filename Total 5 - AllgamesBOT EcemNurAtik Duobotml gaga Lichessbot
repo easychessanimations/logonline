@@ -1,0 +1,49 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1647941098872,
+    "lastSeen": 1647944898377,
+    "firstSeenTime": "9:24:58 AM",
+    "lastSeenTime": "10:24:40 AM",
+    "onlineDurationMins": 59.699133333333336
+  },
+  "ecemnuratik@lichess": {
+    "id": "ecemnuratik",
+    "provider": "lichess",
+    "username": "EcemNurAtik",
+    "firstSeen": 1647942023216,
+    "lastSeen": 1647944139591,
+    "firstSeenTime": "9:40:23 AM",
+    "lastSeenTime": "10:15:39 AM",
+    "onlineDurationMins": 35.27291666666667
+  },
+  "duobotml@lichess": {
+    "id": "duobotml",
+    "provider": "lichess",
+    "username": "Duobotml",
+    "firstSeen": 1647944258960,
+    "lastSeen": 1647944600272,
+    "firstSeenTime": "10:17:38 AM",
+    "lastSeenTime": "10:23:20 AM",
+    "onlineDurationMins": 5.688533333333333
+  },
+  "954575554034688010@discord": {
+    "id": "954575554034688010",
+    "provider": "discord",
+    "username": "gaga",
+    "firstSeen": 1647944600899,
+    "lastSeen": 1647944907289,
+    "firstSeenTime": "10:23:20 AM",
+    "lastSeenTime": "10:26:48 AM",
+    "onlineDurationMins": 3.455766666666667
+  },
+  "955774571200512040@discord": {
+    "id": "955774571200512040",
+    "provider": "discord",
+    "username": "Lichessbot",
+    "firstSeen": 1647944908075,
+    "lastSeen": 1647944908075
+  }
+}
