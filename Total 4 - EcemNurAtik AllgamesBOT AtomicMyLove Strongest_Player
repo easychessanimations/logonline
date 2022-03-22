@@ -1,0 +1,33 @@
+{
+  "ecemnuratik@lichess": {
+    "id": "ecemnuratik",
+    "provider": "lichess",
+    "username": "EcemNurAtik",
+    "firstSeen": 1647942023216,
+    "lastSeen": 1647963601330,
+    "firstSeenTime": "9:40:23 AM",
+    "lastSeenTime": "2:11:30 PM",
+    "onlineDurationMins": 271.12493333333333
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1647961574857,
+    "lastSeen": 1647963614771
+  },
+  "atomicmylove@lichess": {
+    "id": "atomicmylove",
+    "provider": "lichess",
+    "username": "AtomicMyLove",
+    "firstSeen": 1647962803716,
+    "lastSeen": 1647963517465
+  },
+  "strongest_player@lichess": {
+    "id": "strongest_player",
+    "provider": "lichess",
+    "username": "Strongest_Player",
+    "firstSeen": 1647963262826,
+    "lastSeen": 1647963442457
+  }
+}
