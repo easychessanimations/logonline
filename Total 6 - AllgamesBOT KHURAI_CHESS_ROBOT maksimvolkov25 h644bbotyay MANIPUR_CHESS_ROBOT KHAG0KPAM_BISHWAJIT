@@ -1,0 +1,47 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648033028239,
+    "lastSeen": 1648042513878,
+    "firstSeenTime": "10:57:08 AM",
+    "lastSeenTime": "12:26:14 PM",
+    "onlineDurationMins": 89.10381666666666
+  },
+  "khurai_chess_robot@lichess": {
+    "id": "khurai_chess_robot",
+    "provider": "lichess",
+    "username": "KHURAI_CHESS_ROBOT",
+    "firstSeen": 1648039823402,
+    "lastSeen": 1648043196982
+  },
+  "maksimvolkov25@lichess": {
+    "id": "maksimvolkov25",
+    "provider": "lichess",
+    "username": "maksimvolkov25",
+    "firstSeen": 1648040904434,
+    "lastSeen": 1648042988350
+  },
+  "h644bbotyay@lichess": {
+    "id": "h644bbotyay",
+    "provider": "lichess",
+    "username": "h644bbotyay",
+    "firstSeen": 1648041384546,
+    "lastSeen": 1648043123462
+  },
+  "manipur_chess_robot@lichess": {
+    "id": "manipur_chess_robot",
+    "provider": "lichess",
+    "username": "MANIPUR_CHESS_ROBOT",
+    "firstSeen": 1648041802130,
+    "lastSeen": 1648043077422
+  },
+  "khag0kpam_bishwajit@lichess": {
+    "id": "khag0kpam_bishwajit",
+    "provider": "lichess",
+    "username": "KHAG0KPAM_BISHWAJIT",
+    "firstSeen": 1648042298004,
+    "lastSeen": 1648042313110
+  }
+}
