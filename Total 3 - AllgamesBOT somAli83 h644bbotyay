@@ -1,0 +1,29 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648033028239,
+    "lastSeen": 1648038010874,
+    "firstSeenTime": "10:57:08 AM",
+    "lastSeenTime": "12:20:10 PM",
+    "onlineDurationMins": 83.04391666666666
+  },
+  "somali83@lichess": {
+    "id": "somali83",
+    "provider": "lichess",
+    "username": "somAli83",
+    "firstSeen": 1648037851832,
+    "lastSeen": 1648038229750,
+    "firstSeenTime": "12:17:31 PM",
+    "lastSeenTime": "12:18:54 PM",
+    "onlineDurationMins": 1.3706166666666666
+  },
+  "h644bbotyay@lichess": {
+    "id": "h644bbotyay",
+    "provider": "lichess",
+    "username": "h644bbotyay",
+    "firstSeen": 1648038265505,
+    "lastSeen": 1648038265505
+  }
+}
