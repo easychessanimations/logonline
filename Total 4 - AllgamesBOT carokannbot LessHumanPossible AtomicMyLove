@@ -1,0 +1,33 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648025831530,
+    "lastSeen": 1648029408423,
+    "firstSeenTime": "8:57:11 AM",
+    "lastSeenTime": "8:57:26 AM",
+    "onlineDurationMins": 0.24233333333333335
+  },
+  "carokannbot@lichess": {
+    "id": "carokannbot",
+    "provider": "lichess",
+    "username": "carokannbot",
+    "firstSeen": 1648028648884,
+    "lastSeen": 1648028887885
+  },
+  "lesshumanpossible@lichess": {
+    "id": "lesshumanpossible",
+    "provider": "lichess",
+    "username": "LessHumanPossible",
+    "firstSeen": 1648029063832,
+    "lastSeen": 1648029328056
+  },
+  "atomicmylove@lichess": {
+    "id": "atomicmylove",
+    "provider": "lichess",
+    "username": "AtomicMyLove",
+    "firstSeen": 1648029659581,
+    "lastSeen": 1648029659581
+  }
+}
