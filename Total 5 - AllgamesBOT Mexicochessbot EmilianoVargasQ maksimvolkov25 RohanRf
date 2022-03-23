@@ -1,0 +1,37 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648046650472,
+    "lastSeen": 1648060094156
+  },
+  "mexicochessbot@lichess": {
+    "id": "mexicochessbot",
+    "provider": "lichess",
+    "username": "Mexicochessbot",
+    "firstSeen": 1648046811352,
+    "lastSeen": 1648060484799
+  },
+  "emilianovargasq@lichess": {
+    "id": "emilianovargasq",
+    "provider": "lichess",
+    "username": "EmilianoVargasQ",
+    "firstSeen": 1648049031445,
+    "lastSeen": 1648060447539
+  },
+  "maksimvolkov25@lichess": {
+    "id": "maksimvolkov25",
+    "provider": "lichess",
+    "username": "maksimvolkov25",
+    "firstSeen": 1648058861462,
+    "lastSeen": 1648060447864
+  },
+  "915029259091861574@discord": {
+    "id": "915029259091861574",
+    "provider": "discord",
+    "username": "RohanRf",
+    "firstSeen": 1648060486244,
+    "lastSeen": 1648060486244
+  }
+}
