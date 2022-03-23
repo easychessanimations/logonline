@@ -1,0 +1,33 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648033028239,
+    "lastSeen": 1648041194734,
+    "firstSeenTime": "10:57:08 AM",
+    "lastSeenTime": "12:26:14 PM",
+    "onlineDurationMins": 89.10381666666666
+  },
+  "khurai_chess_robot@lichess": {
+    "id": "khurai_chess_robot",
+    "provider": "lichess",
+    "username": "KHURAI_CHESS_ROBOT",
+    "firstSeen": 1648039823402,
+    "lastSeen": 1648041379740
+  },
+  "maksimvolkov25@lichess": {
+    "id": "maksimvolkov25",
+    "provider": "lichess",
+    "username": "maksimvolkov25",
+    "firstSeen": 1648040904434,
+    "lastSeen": 1648041173374
+  },
+  "h644bbotyay@lichess": {
+    "id": "h644bbotyay",
+    "provider": "lichess",
+    "username": "h644bbotyay",
+    "firstSeen": 1648041384546,
+    "lastSeen": 1648041384546
+  }
+}
