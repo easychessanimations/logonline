@@ -4,26 +4,29 @@
     "provider": "lichess",
     "username": "KHURAI_CHESS_ROBOT",
     "firstSeen": 1648102198581,
-    "lastSeen": 1648103100060,
+    "lastSeen": 1648104362891,
     "firstSeenTime": "6:09:58 AM",
-    "lastSeenTime": "6:25:00 AM",
-    "onlineDurationMins": 15.02465
+    "lastSeenTime": "6:46:02 AM",
+    "onlineDurationMins": 36.07183333333333
   },
   "manipur_chess_robot@lichess": {
     "id": "manipur_chess_robot",
     "provider": "lichess",
     "username": "MANIPUR_CHESS_ROBOT",
     "firstSeen": 1648102567339,
-    "lastSeen": 1648103228832,
+    "lastSeen": 1648104546472,
     "firstSeenTime": "6:16:07 AM",
-    "lastSeenTime": "6:27:08 AM",
-    "onlineDurationMins": 11.024883333333333
+    "lastSeenTime": "6:49:06 AM",
+    "onlineDurationMins": 32.98555
   },
   "ecemnuratik@lichess": {
     "id": "ecemnuratik",
     "provider": "lichess",
     "username": "EcemNurAtik",
     "firstSeen": 1648103488719,
-    "lastSeen": 1648103488720
+    "lastSeen": 1648104250688,
+    "firstSeenTime": "6:31:28 AM",
+    "lastSeenTime": "6:44:10 AM",
+    "onlineDurationMins": 12.699483333333333
   }
 }
