@@ -1,0 +1,44 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648121773489,
+    "lastSeen": 1648128550518
+  },
+  "t_oofan@lichess": {
+    "id": "t_oofan",
+    "provider": "lichess",
+    "username": "T_oofan",
+    "firstSeen": 1648124821464,
+    "lastSeen": 1648128596186
+  },
+  "soudos4@lichess": {
+    "id": "soudos4",
+    "provider": "lichess",
+    "username": "soudos4",
+    "firstSeen": 1648125039559,
+    "lastSeen": 1648128544148
+  },
+  "thelegitlegend@lichess": {
+    "id": "thelegitlegend",
+    "provider": "lichess",
+    "username": "TheLegitLegend",
+    "firstSeen": 1648125616558,
+    "lastSeen": 1648128577269
+  },
+  "maksimvolkov25@lichess": {
+    "id": "maksimvolkov25",
+    "provider": "lichess",
+    "username": "maksimvolkov25",
+    "firstSeen": 1648126561618,
+    "lastSeen": 1648128544933
+  },
+  "eightbitbot@lichess": {
+    "id": "eightbitbot",
+    "provider": "lichess",
+    "username": "EightBitBot",
+    "firstSeen": 1648127705209,
+    "lastSeen": 1648128379663
+  }
+}
