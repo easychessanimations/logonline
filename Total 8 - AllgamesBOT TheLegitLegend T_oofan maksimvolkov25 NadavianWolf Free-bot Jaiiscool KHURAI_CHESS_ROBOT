@@ -1,0 +1,79 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648121773489,
+    "lastSeen": 1648136291268,
+    "firstSeenTime": "11:36:13 AM",
+    "lastSeenTime": "3:38:11 PM",
+    "onlineDurationMins": 241.96298333333334
+  },
+  "thelegitlegend@lichess": {
+    "id": "thelegitlegend",
+    "provider": "lichess",
+    "username": "TheLegitLegend",
+    "firstSeen": 1648132751440,
+    "lastSeen": 1648136723598,
+    "firstSeenTime": "2:39:11 PM",
+    "lastSeenTime": "3:42:04 PM",
+    "onlineDurationMins": 62.88336666666667
+  },
+  "t_oofan@lichess": {
+    "id": "t_oofan",
+    "provider": "lichess",
+    "username": "T_oofan",
+    "firstSeen": 1648132796401,
+    "lastSeen": 1648136023984,
+    "firstSeenTime": "2:39:56 PM",
+    "lastSeenTime": "3:33:43 PM",
+    "onlineDurationMins": 53.79305
+  },
+  "maksimvolkov25@lichess": {
+    "id": "maksimvolkov25",
+    "provider": "lichess",
+    "username": "maksimvolkov25",
+    "firstSeen": 1648134656732,
+    "lastSeen": 1648136652813,
+    "firstSeenTime": "3:10:56 PM",
+    "lastSeenTime": "3:44:12 PM",
+    "onlineDurationMins": 33.26801666666667
+  },
+  "nadavianwolf@lichess": {
+    "id": "nadavianwolf",
+    "provider": "lichess",
+    "username": "NadavianWolf",
+    "firstSeen": 1648136112433,
+    "lastSeen": 1648136641039,
+    "firstSeenTime": "3:35:12 PM",
+    "lastSeenTime": "3:44:01 PM",
+    "onlineDurationMins": 8.8101
+  },
+  "free-bot@lichess": {
+    "id": "free-bot",
+    "provider": "lichess",
+    "username": "Free-bot",
+    "firstSeen": 1648136204315,
+    "lastSeen": 1648136600774,
+    "firstSeenTime": "3:36:44 PM",
+    "lastSeenTime": "3:43:20 PM",
+    "onlineDurationMins": 6.60765
+  },
+  "jaiiscool@lichess": {
+    "id": "jaiiscool",
+    "provider": "lichess",
+    "username": "Jaiiscool",
+    "firstSeen": 1648136325225,
+    "lastSeen": 1648136682497,
+    "firstSeenTime": "3:38:45 PM",
+    "lastSeenTime": "3:44:42 PM",
+    "onlineDurationMins": 5.954533333333333
+  },
+  "khurai_chess_robot@lichess": {
+    "id": "khurai_chess_robot",
+    "provider": "lichess",
+    "username": "KHURAI_CHESS_ROBOT",
+    "firstSeen": 1648136725134,
+    "lastSeen": 1648136725134
+  }
+}
