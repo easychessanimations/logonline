@@ -1,0 +1,42 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648121773489,
+    "lastSeen": 1648135507730,
+    "firstSeenTime": "11:36:13 AM",
+    "lastSeenTime": "3:25:07 PM",
+    "onlineDurationMins": 228.90401666666668
+  },
+  "thelegitlegend@lichess": {
+    "id": "thelegitlegend",
+    "provider": "lichess",
+    "username": "TheLegitLegend",
+    "firstSeen": 1648132751440,
+    "lastSeen": 1648135538923,
+    "firstSeenTime": "2:39:11 PM",
+    "lastSeenTime": "3:25:15 PM",
+    "onlineDurationMins": 46.060116666666666
+  },
+  "t_oofan@lichess": {
+    "id": "t_oofan",
+    "provider": "lichess",
+    "username": "T_oofan",
+    "firstSeen": 1648132796401,
+    "lastSeen": 1648135328610,
+    "firstSeenTime": "2:39:56 PM",
+    "lastSeenTime": "3:22:08 PM",
+    "onlineDurationMins": 42.20348333333333
+  },
+  "maksimvolkov25@lichess": {
+    "id": "maksimvolkov25",
+    "provider": "lichess",
+    "username": "maksimvolkov25",
+    "firstSeen": 1648134656732,
+    "lastSeen": 1648135349648,
+    "firstSeenTime": "3:10:56 PM",
+    "lastSeenTime": "3:22:29 PM",
+    "onlineDurationMins": 11.5486
+  }
+}
