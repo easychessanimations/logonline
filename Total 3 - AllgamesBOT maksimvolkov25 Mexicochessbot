@@ -1,0 +1,29 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648121773489,
+    "lastSeen": 1648132027208,
+    "firstSeenTime": "11:36:13 AM",
+    "lastSeenTime": "2:27:07 PM",
+    "onlineDurationMins": 170.89531666666667
+  },
+  "maksimvolkov25@lichess": {
+    "id": "maksimvolkov25",
+    "provider": "lichess",
+    "username": "maksimvolkov25",
+    "firstSeen": 1648126561618,
+    "lastSeen": 1648132025037,
+    "firstSeenTime": "12:56:01 PM",
+    "lastSeenTime": "2:27:05 PM",
+    "onlineDurationMins": 91.05698333333333
+  },
+  "mexicochessbot@lichess": {
+    "id": "mexicochessbot",
+    "provider": "lichess",
+    "username": "Mexicochessbot",
+    "firstSeen": 1648132528188,
+    "lastSeen": 1648132528188
+  }
+}
