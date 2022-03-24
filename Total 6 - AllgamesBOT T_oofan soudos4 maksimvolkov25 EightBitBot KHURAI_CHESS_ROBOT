@@ -1,0 +1,62 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648121773489,
+    "lastSeen": 1648130047245,
+    "firstSeenTime": "11:36:13 AM",
+    "lastSeenTime": "1:54:07 PM",
+    "onlineDurationMins": 137.89593333333335
+  },
+  "t_oofan@lichess": {
+    "id": "t_oofan",
+    "provider": "lichess",
+    "username": "T_oofan",
+    "firstSeen": 1648124821464,
+    "lastSeen": 1648129968528,
+    "firstSeenTime": "12:27:01 PM",
+    "lastSeenTime": "1:52:48 PM",
+    "onlineDurationMins": 85.7844
+  },
+  "soudos4@lichess": {
+    "id": "soudos4",
+    "provider": "lichess",
+    "username": "soudos4",
+    "firstSeen": 1648125039559,
+    "lastSeen": 1648130242210,
+    "firstSeenTime": "12:30:39 PM",
+    "lastSeenTime": "1:52:07 PM",
+    "onlineDurationMins": 81.46641666666666
+  },
+  "maksimvolkov25@lichess": {
+    "id": "maksimvolkov25",
+    "provider": "lichess",
+    "username": "maksimvolkov25",
+    "firstSeen": 1648126561618,
+    "lastSeen": 1648129999522,
+    "firstSeenTime": "12:56:01 PM",
+    "lastSeenTime": "1:53:19 PM",
+    "onlineDurationMins": 57.2984
+  },
+  "eightbitbot@lichess": {
+    "id": "eightbitbot",
+    "provider": "lichess",
+    "username": "EightBitBot",
+    "firstSeen": 1648127705209,
+    "lastSeen": 1648130230490,
+    "firstSeenTime": "1:15:05 PM",
+    "lastSeenTime": "1:55:35 PM",
+    "onlineDurationMins": 40.51025
+  },
+  "khurai_chess_robot@lichess": {
+    "id": "khurai_chess_robot",
+    "provider": "lichess",
+    "username": "KHURAI_CHESS_ROBOT",
+    "firstSeen": 1648129232809,
+    "lastSeen": 1648130157853,
+    "firstSeenTime": "1:40:32 PM",
+    "lastSeenTime": "1:51:56 PM",
+    "onlineDurationMins": 11.389316666666666
+  }
+}
