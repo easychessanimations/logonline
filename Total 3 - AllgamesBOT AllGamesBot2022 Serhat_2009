@@ -1,0 +1,23 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648121773489,
+    "lastSeen": 1648123970516
+  },
+  "allgamesbot2022@lichess": {
+    "id": "allgamesbot2022",
+    "provider": "lichess",
+    "username": "AllGamesBot2022",
+    "firstSeen": 1648122339523,
+    "lastSeen": 1648123841525
+  },
+  "serhat_2009@lichess": {
+    "id": "serhat_2009",
+    "provider": "lichess",
+    "username": "Serhat_2009",
+    "firstSeen": 1648123710906,
+    "lastSeen": 1648123769009
+  }
+}
