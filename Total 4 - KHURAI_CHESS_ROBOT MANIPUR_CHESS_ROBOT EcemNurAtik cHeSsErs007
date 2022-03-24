@@ -1,0 +1,39 @@
+{
+  "khurai_chess_robot@lichess": {
+    "id": "khurai_chess_robot",
+    "provider": "lichess",
+    "username": "KHURAI_CHESS_ROBOT",
+    "firstSeen": 1648102198581,
+    "lastSeen": 1648103721085,
+    "firstSeenTime": "6:09:58 AM",
+    "lastSeenTime": "6:35:21 AM",
+    "onlineDurationMins": 25.375066666666665
+  },
+  "manipur_chess_robot@lichess": {
+    "id": "manipur_chess_robot",
+    "provider": "lichess",
+    "username": "MANIPUR_CHESS_ROBOT",
+    "firstSeen": 1648102567339,
+    "lastSeen": 1648103228832,
+    "firstSeenTime": "6:16:07 AM",
+    "lastSeenTime": "6:27:08 AM",
+    "onlineDurationMins": 11.024883333333333
+  },
+  "ecemnuratik@lichess": {
+    "id": "ecemnuratik",
+    "provider": "lichess",
+    "username": "EcemNurAtik",
+    "firstSeen": 1648103488719,
+    "lastSeen": 1648103503129,
+    "firstSeenTime": "6:31:28 AM",
+    "lastSeenTime": "6:31:43 AM",
+    "onlineDurationMins": 0.24016666666666667
+  },
+  "chessers007@lichess": {
+    "id": "chessers007",
+    "provider": "lichess",
+    "username": "cHeSsErs007",
+    "firstSeen": 1648103829332,
+    "lastSeen": 1648103829332
+  }
+}
