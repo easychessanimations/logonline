@@ -1,0 +1,59 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648121773489,
+    "lastSeen": 1648137547685,
+    "firstSeenTime": "11:36:13 AM",
+    "lastSeenTime": "3:52:07 PM",
+    "onlineDurationMins": 255.90698333333333
+  },
+  "thelegitlegend@lichess": {
+    "id": "thelegitlegend",
+    "provider": "lichess",
+    "username": "TheLegitLegend",
+    "firstSeen": 1648132751440,
+    "lastSeen": 1648137084620,
+    "firstSeenTime": "2:39:11 PM",
+    "lastSeenTime": "3:51:24 PM",
+    "onlineDurationMins": 72.21966666666667
+  },
+  "jaiiscool@lichess": {
+    "id": "jaiiscool",
+    "provider": "lichess",
+    "username": "Jaiiscool",
+    "firstSeen": 1648136325225,
+    "lastSeen": 1648136682497,
+    "firstSeenTime": "3:38:45 PM",
+    "lastSeenTime": "3:44:42 PM",
+    "onlineDurationMins": 5.954533333333333
+  },
+  "khurai_chess_robot@lichess": {
+    "id": "khurai_chess_robot",
+    "provider": "lichess",
+    "username": "KHURAI_CHESS_ROBOT",
+    "firstSeen": 1648136725134,
+    "lastSeen": 1648137422947,
+    "firstSeenTime": "3:45:25 PM",
+    "lastSeenTime": "3:57:02 PM",
+    "onlineDurationMins": 11.630216666666668
+  },
+  "learn_your_skill@lichess": {
+    "id": "learn_your_skill",
+    "provider": "lichess",
+    "username": "Learn_Your_Skill",
+    "firstSeen": 1648137027833,
+    "lastSeen": 1648137558795,
+    "firstSeenTime": "3:50:27 PM",
+    "lastSeenTime": "3:58:50 PM",
+    "onlineDurationMins": 8.3855
+  },
+  "maksimvolkov25@lichess": {
+    "id": "maksimvolkov25",
+    "provider": "lichess",
+    "username": "maksimvolkov25",
+    "firstSeen": 1648137562371,
+    "lastSeen": 1648137562371
+  }
+}
