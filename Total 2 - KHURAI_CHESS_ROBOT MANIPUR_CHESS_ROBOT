@@ -1,0 +1,22 @@
+{
+  "khurai_chess_robot@lichess": {
+    "id": "khurai_chess_robot",
+    "provider": "lichess",
+    "username": "KHURAI_CHESS_ROBOT",
+    "firstSeen": 1648102198581,
+    "lastSeen": 1648103100060,
+    "firstSeenTime": "6:09:58 AM",
+    "lastSeenTime": "6:25:00 AM",
+    "onlineDurationMins": 15.02465
+  },
+  "manipur_chess_robot@lichess": {
+    "id": "manipur_chess_robot",
+    "provider": "lichess",
+    "username": "MANIPUR_CHESS_ROBOT",
+    "firstSeen": 1648102567339,
+    "lastSeen": 1648103228832,
+    "firstSeenTime": "6:16:07 AM",
+    "lastSeenTime": "6:27:08 AM",
+    "onlineDurationMins": 11.024883333333333
+  }
+}
