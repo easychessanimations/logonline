@@ -1,0 +1,39 @@
+{
+  "t_oofan@lichess": {
+    "id": "t_oofan",
+    "provider": "lichess",
+    "username": "T_oofan",
+    "firstSeen": 1648223338406,
+    "lastSeen": 1648224532127,
+    "firstSeenTime": "3:48:58 PM",
+    "lastSeenTime": "4:04:17 PM",
+    "onlineDurationMins": 15.3207
+  },
+  "thelegitlegend@lichess": {
+    "id": "thelegitlegend",
+    "provider": "lichess",
+    "username": "TheLegitLegend",
+    "firstSeen": 1648223808341,
+    "lastSeen": 1648224460290,
+    "firstSeenTime": "3:56:48 PM",
+    "lastSeenTime": "3:57:02 PM",
+    "onlineDurationMins": 0.23261666666666667
+  },
+  "khurai_chess_robot@lichess": {
+    "id": "khurai_chess_robot",
+    "provider": "lichess",
+    "username": "KHURAI_CHESS_ROBOT",
+    "firstSeen": 1648224035161,
+    "lastSeen": 1648224059738,
+    "firstSeenTime": "4:00:35 PM",
+    "lastSeenTime": "4:00:59 PM",
+    "onlineDurationMins": 0.4096166666666667
+  },
+  "lchen9_botter@lichess": {
+    "id": "lchen9_botter",
+    "provider": "lichess",
+    "username": "Lchen9_Botter",
+    "firstSeen": 1648224870815,
+    "lastSeen": 1648224870815
+  }
+}
