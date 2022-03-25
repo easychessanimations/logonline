@@ -3,14 +3,17 @@
     "id": "allgamesbot",
     "provider": "lichess",
     "username": "AllgamesBOT",
-    "firstSeen": 1647162675681,
-    "lastSeen": 1647165497412
+    "firstSeen": 1648202824968,
+    "lastSeen": 1648211537204,
+    "firstSeenTime": "10:07:04 AM",
+    "lastSeenTime": "12:31:26 PM",
+    "onlineDurationMins": 144.3614
   },
   "admin-bot@lichess": {
     "id": "admin-bot",
     "provider": "lichess",
     "username": "admin-bot",
-    "firstSeen": 1647165665019,
-    "lastSeen": 1647165665019
+    "firstSeen": 1648211583009,
+    "lastSeen": 1648211583009
   }
 }
