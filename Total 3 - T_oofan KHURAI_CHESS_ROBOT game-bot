@@ -1,0 +1,29 @@
+{
+  "t_oofan@lichess": {
+    "id": "t_oofan",
+    "provider": "lichess",
+    "username": "T_oofan",
+    "firstSeen": 1648219415870,
+    "lastSeen": 1648221084697,
+    "firstSeenTime": "2:43:35 PM",
+    "lastSeenTime": "2:58:06 PM",
+    "onlineDurationMins": 14.511366666666667
+  },
+  "khurai_chess_robot@lichess": {
+    "id": "khurai_chess_robot",
+    "provider": "lichess",
+    "username": "KHURAI_CHESS_ROBOT",
+    "firstSeen": 1648219528819,
+    "lastSeen": 1648221042524,
+    "firstSeenTime": "2:45:28 PM",
+    "lastSeenTime": "2:56:37 PM",
+    "onlineDurationMins": 11.144166666666667
+  },
+  "game-bot@lichess": {
+    "id": "game-bot",
+    "provider": "lichess",
+    "username": "game-bot",
+    "firstSeen": 1648221129741,
+    "lastSeen": 1648221129741
+  }
+}
