@@ -1,0 +1,23 @@
+{
+  "my_real_username@lichess": {
+    "id": "my_real_username",
+    "provider": "lichess",
+    "username": "MY_REAL_USERNAME",
+    "firstSeen": 1648264108118,
+    "lastSeen": 1648264806122
+  },
+  "winner1234winner@lichess": {
+    "id": "winner1234winner",
+    "provider": "lichess",
+    "username": "Winner1234Winner",
+    "firstSeen": 1648264448058,
+    "lastSeen": 1648264480149
+  },
+  "winner342@lichess": {
+    "id": "winner342",
+    "provider": "lichess",
+    "username": "Winner342",
+    "firstSeen": 1648264822715,
+    "lastSeen": 1648264822715
+  }
+}
