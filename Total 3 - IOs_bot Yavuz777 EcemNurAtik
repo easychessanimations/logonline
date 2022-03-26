@@ -1,0 +1,29 @@
+{
+  "ios_bot@lichess": {
+    "id": "ios_bot",
+    "provider": "lichess",
+    "username": "IOs_bot",
+    "firstSeen": 1648286485131,
+    "lastSeen": 1648290992601,
+    "firstSeenTime": "9:21:25 AM",
+    "lastSeenTime": "10:36:32 AM",
+    "onlineDurationMins": 75.1245
+  },
+  "yavuz777@lichess": {
+    "id": "yavuz777",
+    "provider": "lichess",
+    "username": "Yavuz777",
+    "firstSeen": 1648288745922,
+    "lastSeen": 1648291671271,
+    "firstSeenTime": "9:59:05 AM",
+    "lastSeenTime": "10:44:55 AM",
+    "onlineDurationMins": 45.818583333333336
+  },
+  "ecemnuratik@lichess": {
+    "id": "ecemnuratik",
+    "provider": "lichess",
+    "username": "EcemNurAtik",
+    "firstSeen": 1648291703220,
+    "lastSeen": 1648291703220
+  }
+}
