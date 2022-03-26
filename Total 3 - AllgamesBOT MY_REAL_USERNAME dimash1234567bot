@@ -1,0 +1,23 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648300535426,
+    "lastSeen": 1648301881415
+  },
+  "my_real_username@lichess": {
+    "id": "my_real_username",
+    "provider": "lichess",
+    "username": "MY_REAL_USERNAME",
+    "firstSeen": 1648301792267,
+    "lastSeen": 1648302263183
+  },
+  "dimash1234567bot@lichess": {
+    "id": "dimash1234567bot",
+    "provider": "lichess",
+    "username": "dimash1234567bot",
+    "firstSeen": 1648302305964,
+    "lastSeen": 1648302305964
+  }
+}
