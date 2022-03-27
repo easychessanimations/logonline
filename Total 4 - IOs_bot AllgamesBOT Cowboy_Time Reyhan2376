@@ -1,0 +1,30 @@
+{
+  "ios_bot@lichess": {
+    "id": "ios_bot",
+    "provider": "lichess",
+    "username": "IOs_bot",
+    "firstSeen": 1648393544728,
+    "lastSeen": 1648402060000
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648394937043,
+    "lastSeen": 1648402022184
+  },
+  "cowboy_time@lichess": {
+    "id": "cowboy_time",
+    "provider": "lichess",
+    "username": "Cowboy_Time",
+    "firstSeen": 1648401495713,
+    "lastSeen": 1648401951120
+  },
+  "reyhan2376@lichess": {
+    "id": "reyhan2376",
+    "provider": "lichess",
+    "username": "Reyhan2376",
+    "firstSeen": 1648402155868,
+    "lastSeen": 1648402155868
+  }
+}
