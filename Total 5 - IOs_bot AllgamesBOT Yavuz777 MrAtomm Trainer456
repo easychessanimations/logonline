@@ -1,0 +1,37 @@
+{
+  "ios_bot@lichess": {
+    "id": "ios_bot",
+    "provider": "lichess",
+    "username": "IOs_bot",
+    "firstSeen": 1648393544728,
+    "lastSeen": 1648399058880
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648394937043,
+    "lastSeen": 1648398661486
+  },
+  "yavuz777@lichess": {
+    "id": "yavuz777",
+    "provider": "lichess",
+    "username": "Yavuz777",
+    "firstSeen": 1648397346695,
+    "lastSeen": 1648399085770
+  },
+  "mratomm@lichess": {
+    "id": "mratomm",
+    "provider": "lichess",
+    "username": "MrAtomm",
+    "firstSeen": 1648397985571,
+    "lastSeen": 1648398731975
+  },
+  "trainer456@lichess": {
+    "id": "trainer456",
+    "provider": "lichess",
+    "username": "Trainer456",
+    "firstSeen": 1648399268563,
+    "lastSeen": 1648399268563
+  }
+}
