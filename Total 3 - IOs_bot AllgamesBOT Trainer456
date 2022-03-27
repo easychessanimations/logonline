@@ -1,0 +1,23 @@
+{
+  "ios_bot@lichess": {
+    "id": "ios_bot",
+    "provider": "lichess",
+    "username": "IOs_bot",
+    "firstSeen": 1648393544728,
+    "lastSeen": 1648399556158
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648394937043,
+    "lastSeen": 1648399378045
+  },
+  "trainer456@lichess": {
+    "id": "trainer456",
+    "provider": "lichess",
+    "username": "Trainer456",
+    "firstSeen": 1648399268563,
+    "lastSeen": 1648399349004
+  }
+}
