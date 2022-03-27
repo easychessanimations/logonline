@@ -1,0 +1,23 @@
+{
+  "ios_bot@lichess": {
+    "id": "ios_bot",
+    "provider": "lichess",
+    "username": "IOs_bot",
+    "firstSeen": 1648418239470,
+    "lastSeen": 1648423581516
+  },
+  "lchen9_botter@lichess": {
+    "id": "lchen9_botter",
+    "provider": "lichess",
+    "username": "Lchen9_Botter",
+    "firstSeen": 1648423228913,
+    "lastSeen": 1648424141117
+  },
+  "coolkidchess@lichess": {
+    "id": "coolkidchess",
+    "provider": "lichess",
+    "username": "CoolKidChess",
+    "firstSeen": 1648424218899,
+    "lastSeen": 1648424218899
+  }
+}
