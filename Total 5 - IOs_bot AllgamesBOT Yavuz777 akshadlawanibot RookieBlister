@@ -1,0 +1,37 @@
+{
+  "ios_bot@lichess": {
+    "id": "ios_bot",
+    "provider": "lichess",
+    "username": "IOs_bot",
+    "firstSeen": 1648393544728,
+    "lastSeen": 1648397572371
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648394937043,
+    "lastSeen": 1648397101487
+  },
+  "yavuz777@lichess": {
+    "id": "yavuz777",
+    "provider": "lichess",
+    "username": "Yavuz777",
+    "firstSeen": 1648397346695,
+    "lastSeen": 1648397774744
+  },
+  "akshadlawanibot@lichess": {
+    "id": "akshadlawanibot",
+    "provider": "lichess",
+    "username": "akshadlawanibot",
+    "firstSeen": 1648397775305,
+    "lastSeen": 1648397777622
+  },
+  "rookieblister@lichess": {
+    "id": "rookieblister",
+    "provider": "lichess",
+    "username": "RookieBlister",
+    "firstSeen": 1648397786349,
+    "lastSeen": 1648397786349
+  }
+}
