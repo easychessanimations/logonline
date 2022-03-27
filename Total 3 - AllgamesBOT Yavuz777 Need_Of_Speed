@@ -1,0 +1,26 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648387754031,
+    "lastSeen": 1648391813406,
+    "firstSeenTime": "1:29:14 PM",
+    "lastSeenTime": "1:54:21 PM",
+    "onlineDurationMins": 25.128916666666665
+  },
+  "yavuz777@lichess": {
+    "id": "yavuz777",
+    "provider": "lichess",
+    "username": "Yavuz777",
+    "firstSeen": 1648392446908,
+    "lastSeen": 1648392464178
+  },
+  "need_of_speed@lichess": {
+    "id": "need_of_speed",
+    "provider": "lichess",
+    "username": "Need_Of_Speed",
+    "firstSeen": 1648392632775,
+    "lastSeen": 1648392632775
+  }
+}
