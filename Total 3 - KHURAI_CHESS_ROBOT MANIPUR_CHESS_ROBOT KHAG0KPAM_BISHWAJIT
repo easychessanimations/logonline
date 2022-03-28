@@ -1,0 +1,23 @@
+{
+  "khurai_chess_robot@lichess": {
+    "id": "khurai_chess_robot",
+    "provider": "lichess",
+    "username": "KHURAI_CHESS_ROBOT",
+    "firstSeen": 1648460373086,
+    "lastSeen": 1648461823771
+  },
+  "manipur_chess_robot@lichess": {
+    "id": "manipur_chess_robot",
+    "provider": "lichess",
+    "username": "MANIPUR_CHESS_ROBOT",
+    "firstSeen": 1648461911612,
+    "lastSeen": 1648461948039
+  },
+  "khag0kpam_bishwajit@lichess": {
+    "id": "khag0kpam_bishwajit",
+    "provider": "lichess",
+    "username": "KHAG0KPAM_BISHWAJIT",
+    "firstSeen": 1648461948703,
+    "lastSeen": 1648461948704
+  }
+}
