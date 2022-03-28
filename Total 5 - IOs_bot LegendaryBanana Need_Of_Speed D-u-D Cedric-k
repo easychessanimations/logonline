@@ -1,0 +1,37 @@
+{
+  "ios_bot@lichess": {
+    "id": "ios_bot",
+    "provider": "lichess",
+    "username": "IOs_bot",
+    "firstSeen": 1648418239470,
+    "lastSeen": 1648434004521
+  },
+  "legendarybanana@lichess": {
+    "id": "legendarybanana",
+    "provider": "lichess",
+    "username": "LegendaryBanana",
+    "firstSeen": 1648432668861,
+    "lastSeen": 1648433764789
+  },
+  "need_of_speed@lichess": {
+    "id": "need_of_speed",
+    "provider": "lichess",
+    "username": "Need_Of_Speed",
+    "firstSeen": 1648433031177,
+    "lastSeen": 1648433913781
+  },
+  "d-u-d@lichess": {
+    "id": "d-u-d",
+    "provider": "lichess",
+    "username": "D-u-D",
+    "firstSeen": 1648434079721,
+    "lastSeen": 1648434472066
+  },
+  "cedric-k@lichess": {
+    "id": "cedric-k",
+    "provider": "lichess",
+    "username": "Cedric-k",
+    "firstSeen": 1648434491321,
+    "lastSeen": 1648434491321
+  }
+}
