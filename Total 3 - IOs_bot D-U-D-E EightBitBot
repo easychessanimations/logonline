@@ -1,0 +1,23 @@
+{
+  "ios_bot@lichess": {
+    "id": "ios_bot",
+    "provider": "lichess",
+    "username": "IOs_bot",
+    "firstSeen": 1648418239470,
+    "lastSeen": 1648440186266
+  },
+  "d-u-d-e@lichess": {
+    "id": "d-u-d-e",
+    "provider": "lichess",
+    "username": "D-U-D-E",
+    "firstSeen": 1648435489995,
+    "lastSeen": 1648440228411
+  },
+  "eightbitbot@lichess": {
+    "id": "eightbitbot",
+    "provider": "lichess",
+    "username": "EightBitBot",
+    "firstSeen": 1648440402583,
+    "lastSeen": 1648440402583
+  }
+}
