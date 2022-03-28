@@ -1,0 +1,23 @@
+{
+  "ios_bot@lichess": {
+    "id": "ios_bot",
+    "provider": "lichess",
+    "username": "IOs_bot",
+    "firstSeen": 1648418239470,
+    "lastSeen": 1648435397640
+  },
+  "d-u-d@lichess": {
+    "id": "d-u-d",
+    "provider": "lichess",
+    "username": "D-u-D",
+    "firstSeen": 1648434079721,
+    "lastSeen": 1648434497928
+  },
+  "cedric-k@lichess": {
+    "id": "cedric-k",
+    "provider": "lichess",
+    "username": "Cedric-k",
+    "firstSeen": 1648434491321,
+    "lastSeen": 1648434503510
+  }
+}
