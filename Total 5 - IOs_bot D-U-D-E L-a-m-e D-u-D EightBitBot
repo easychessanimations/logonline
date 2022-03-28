@@ -1,0 +1,37 @@
+{
+  "ios_bot@lichess": {
+    "id": "ios_bot",
+    "provider": "lichess",
+    "username": "IOs_bot",
+    "firstSeen": 1648418239470,
+    "lastSeen": 1648438185931
+  },
+  "d-u-d-e@lichess": {
+    "id": "d-u-d-e",
+    "provider": "lichess",
+    "username": "D-U-D-E",
+    "firstSeen": 1648435489995,
+    "lastSeen": 1648438495378
+  },
+  "l-a-m-e@lichess": {
+    "id": "l-a-m-e",
+    "provider": "lichess",
+    "username": "L-a-m-e",
+    "firstSeen": 1648436850877,
+    "lastSeen": 1648438803808
+  },
+  "d-u-d@lichess": {
+    "id": "d-u-d",
+    "provider": "lichess",
+    "username": "D-u-D",
+    "firstSeen": 1648438230086,
+    "lastSeen": 1648438865542
+  },
+  "eightbitbot@lichess": {
+    "id": "eightbitbot",
+    "provider": "lichess",
+    "username": "EightBitBot",
+    "firstSeen": 1648438327487,
+    "lastSeen": 1648438411412
+  }
+}
