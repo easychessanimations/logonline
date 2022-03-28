@@ -1,0 +1,51 @@
+{
+  "ios_bot@lichess": {
+    "id": "ios_bot",
+    "provider": "lichess",
+    "username": "IOs_bot",
+    "firstSeen": 1648418239470,
+    "lastSeen": 1648432064572
+  },
+  "d-u-d@lichess": {
+    "id": "d-u-d",
+    "provider": "lichess",
+    "username": "D-u-D",
+    "firstSeen": 1648427107942,
+    "lastSeen": 1648432123910
+  },
+  "p40toforget@lichess": {
+    "id": "p40toforget",
+    "provider": "lichess",
+    "username": "P40ToForget",
+    "firstSeen": 1648428090779,
+    "lastSeen": 1648432040492
+  },
+  "d-u-d-e@lichess": {
+    "id": "d-u-d-e",
+    "provider": "lichess",
+    "username": "D-U-D-E",
+    "firstSeen": 1648429174350,
+    "lastSeen": 1648432271274
+  },
+  "sam-antha@lichess": {
+    "id": "sam-antha",
+    "provider": "lichess",
+    "username": "SaM-aNtHa",
+    "firstSeen": 1648431792069,
+    "lastSeen": 1648432492361
+  },
+  "cedric-k@lichess": {
+    "id": "cedric-k",
+    "provider": "lichess",
+    "username": "Cedric-k",
+    "firstSeen": 1648432283148,
+    "lastSeen": 1648432296084
+  },
+  "l-a-m-e@lichess": {
+    "id": "l-a-m-e",
+    "provider": "lichess",
+    "username": "L-a-m-e",
+    "firstSeen": 1648432586183,
+    "lastSeen": 1648432586183
+  }
+}
