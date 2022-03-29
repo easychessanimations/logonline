@@ -1,0 +1,26 @@
+{
+  "shinyornament@lichess": {
+    "id": "shinyornament",
+    "provider": "lichess",
+    "username": "ShinyOrnament",
+    "firstSeen": 1648521519269,
+    "lastSeen": 1648533757553,
+    "firstSeenTime": "2:38:39 AM",
+    "lastSeenTime": "4:54:43 AM",
+    "onlineDurationMins": 136.07861666666668
+  },
+  "grandmasteredbot@lichess": {
+    "id": "grandmasteredbot",
+    "provider": "lichess",
+    "username": "GrandMasteredBot",
+    "firstSeen": 1648533412301,
+    "lastSeen": 1648533871699
+  },
+  "l-a-m-e@lichess": {
+    "id": "l-a-m-e",
+    "provider": "lichess",
+    "username": "L-a-m-e",
+    "firstSeen": 1648534096541,
+    "lastSeen": 1648534096541
+  }
+}
