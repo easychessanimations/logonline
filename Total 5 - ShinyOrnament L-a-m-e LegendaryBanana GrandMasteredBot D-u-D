@@ -1,0 +1,43 @@
+{
+  "shinyornament@lichess": {
+    "id": "shinyornament",
+    "provider": "lichess",
+    "username": "ShinyOrnament",
+    "firstSeen": 1648521519269,
+    "lastSeen": 1648535078790,
+    "firstSeenTime": "2:38:39 AM",
+    "lastSeenTime": "6:02:37 AM",
+    "onlineDurationMins": 203.9714
+  },
+  "l-a-m-e@lichess": {
+    "id": "l-a-m-e",
+    "provider": "lichess",
+    "username": "L-a-m-e",
+    "firstSeen": 1648534096541,
+    "lastSeen": 1648534807290,
+    "firstSeenTime": "6:08:16 AM",
+    "lastSeenTime": "6:08:44 AM",
+    "onlineDurationMins": 0.4719
+  },
+  "legendarybanana@lichess": {
+    "id": "legendarybanana",
+    "provider": "lichess",
+    "username": "LegendaryBanana",
+    "firstSeen": 1648534407017,
+    "lastSeen": 1648535080778
+  },
+  "grandmasteredbot@lichess": {
+    "id": "grandmasteredbot",
+    "provider": "lichess",
+    "username": "GrandMasteredBot",
+    "firstSeen": 1648534956510,
+    "lastSeen": 1648535008064
+  },
+  "d-u-d@lichess": {
+    "id": "d-u-d",
+    "provider": "lichess",
+    "username": "D-u-D",
+    "firstSeen": 1648535217354,
+    "lastSeen": 1648535217354
+  }
+}
