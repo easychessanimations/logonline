@@ -1,0 +1,37 @@
+{
+  "chess-uaredeadqueen@lichess": {
+    "id": "chess-uaredeadqueen",
+    "provider": "lichess",
+    "username": "chess-uaredeadqueen",
+    "firstSeen": 1648623480107,
+    "lastSeen": 1648649359200
+  },
+  "khurai_chess_robot@lichess": {
+    "id": "khurai_chess_robot",
+    "provider": "lichess",
+    "username": "KHURAI_CHESS_ROBOT",
+    "firstSeen": 1648645079534,
+    "lastSeen": 1648649387172
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648645772997,
+    "lastSeen": 1648649364720
+  },
+  "bot-jakknel@lichess": {
+    "id": "bot-jakknel",
+    "provider": "lichess",
+    "username": "BOT-Jakknel",
+    "firstSeen": 1648648666085,
+    "lastSeen": 1648649212019
+  },
+  "manipur_chess_robot@lichess": {
+    "id": "manipur_chess_robot",
+    "provider": "lichess",
+    "username": "MANIPUR_CHESS_ROBOT",
+    "firstSeen": 1648649050268,
+    "lastSeen": 1648649064725
+  }
+}
