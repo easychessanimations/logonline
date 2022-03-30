@@ -1,0 +1,29 @@
+{
+  "dynomite123@lichess": {
+    "id": "dynomite123",
+    "provider": "lichess",
+    "username": "dynomite123",
+    "firstSeen": 1648594599008,
+    "lastSeen": 1648601197418,
+    "firstSeenTime": "10:56:39 PM",
+    "lastSeenTime": "12:46:37 AM",
+    "onlineDurationMins": 109.9735
+  },
+  "l-a-m-e@lichess": {
+    "id": "l-a-m-e",
+    "provider": "lichess",
+    "username": "L-a-m-e",
+    "firstSeen": 1648597872397,
+    "lastSeen": 1648601341870,
+    "firstSeenTime": "11:51:12 PM",
+    "lastSeenTime": "12:49:01 AM",
+    "onlineDurationMins": 57.82455
+  },
+  "need_of_speed@lichess": {
+    "id": "need_of_speed",
+    "provider": "lichess",
+    "username": "Need_Of_Speed",
+    "firstSeen": 1648601638965,
+    "lastSeen": 1648601638965
+  }
+}
