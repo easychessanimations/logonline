@@ -1,0 +1,30 @@
+{
+  "sparkly_unicorn@lichess": {
+    "id": "sparkly_unicorn",
+    "provider": "lichess",
+    "username": "Sparkly_Unicorn",
+    "firstSeen": 1648682514490,
+    "lastSeen": 1648700558093
+  },
+  "resolved_bot@lichess": {
+    "id": "resolved_bot",
+    "provider": "lichess",
+    "username": "Resolved_Bot",
+    "firstSeen": 1648699883336,
+    "lastSeen": 1648699906583
+  },
+  "of_sarvak@lichess": {
+    "id": "of_sarvak",
+    "provider": "lichess",
+    "username": "of_Sarvak",
+    "firstSeen": 1648700268836,
+    "lastSeen": 1648700294198
+  },
+  "probot123567@lichess": {
+    "id": "probot123567",
+    "provider": "lichess",
+    "username": "PROBOT123567",
+    "firstSeen": 1648700559064,
+    "lastSeen": 1648700559064
+  }
+}
