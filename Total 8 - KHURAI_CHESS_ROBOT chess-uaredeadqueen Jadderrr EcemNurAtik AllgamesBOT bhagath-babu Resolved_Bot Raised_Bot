@@ -1,0 +1,58 @@
+{
+  "khurai_chess_robot@lichess": {
+    "id": "khurai_chess_robot",
+    "provider": "lichess",
+    "username": "KHURAI_CHESS_ROBOT",
+    "firstSeen": 1648723995498,
+    "lastSeen": 1648730024472
+  },
+  "chess-uaredeadqueen@lichess": {
+    "id": "chess-uaredeadqueen",
+    "provider": "lichess",
+    "username": "chess-uaredeadqueen",
+    "firstSeen": 1648724134340,
+    "lastSeen": 1648730179005
+  },
+  "jadderrr@lichess": {
+    "id": "jadderrr",
+    "provider": "lichess",
+    "username": "Jadderrr",
+    "firstSeen": 1648724245588,
+    "lastSeen": 1648730278241
+  },
+  "ecemnuratik@lichess": {
+    "id": "ecemnuratik",
+    "provider": "lichess",
+    "username": "EcemNurAtik",
+    "firstSeen": 1648724467298,
+    "lastSeen": 1648729792925
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648728148186,
+    "lastSeen": 1648729880150
+  },
+  "bhagath-babu@lichess": {
+    "id": "bhagath-babu",
+    "provider": "lichess",
+    "username": "bhagath-babu",
+    "firstSeen": 1648729611182,
+    "lastSeen": 1648729870341
+  },
+  "resolved_bot@lichess": {
+    "id": "resolved_bot",
+    "provider": "lichess",
+    "username": "Resolved_Bot",
+    "firstSeen": 1648730212453,
+    "lastSeen": 1648730215723
+  },
+  "raised_bot@lichess": {
+    "id": "raised_bot",
+    "provider": "lichess",
+    "username": "Raised_Bot",
+    "firstSeen": 1648730280222,
+    "lastSeen": 1648730280222
+  }
+}
