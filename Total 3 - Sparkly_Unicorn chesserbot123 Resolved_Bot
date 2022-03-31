@@ -1,0 +1,23 @@
+{
+  "sparkly_unicorn@lichess": {
+    "id": "sparkly_unicorn",
+    "provider": "lichess",
+    "username": "Sparkly_Unicorn",
+    "firstSeen": 1648682514490,
+    "lastSeen": 1648699840947
+  },
+  "chesserbot123@lichess": {
+    "id": "chesserbot123",
+    "provider": "lichess",
+    "username": "chesserbot123",
+    "firstSeen": 1648694152128,
+    "lastSeen": 1648699551820
+  },
+  "resolved_bot@lichess": {
+    "id": "resolved_bot",
+    "provider": "lichess",
+    "username": "Resolved_Bot",
+    "firstSeen": 1648699883336,
+    "lastSeen": 1648699906583
+  }
+}
