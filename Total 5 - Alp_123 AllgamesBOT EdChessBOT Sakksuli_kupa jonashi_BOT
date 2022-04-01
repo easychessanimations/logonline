@@ -1,0 +1,37 @@
+{
+  "alp_123@lichess": {
+    "id": "alp_123",
+    "provider": "lichess",
+    "username": "Alp_123",
+    "firstSeen": 1648825162740,
+    "lastSeen": 1648833872795
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648828202869,
+    "lastSeen": 1648833677578
+  },
+  "edchessbot@lichess": {
+    "id": "edchessbot",
+    "provider": "lichess",
+    "username": "EdChessBOT",
+    "firstSeen": 1648831154966,
+    "lastSeen": 1648833913850
+  },
+  "sakksuli_kupa@lichess": {
+    "id": "sakksuli_kupa",
+    "provider": "lichess",
+    "username": "Sakksuli_kupa",
+    "firstSeen": 1648833209245,
+    "lastSeen": 1648834013745
+  },
+  "jonashi_bot@lichess": {
+    "id": "jonashi_bot",
+    "provider": "lichess",
+    "username": "jonashi_BOT",
+    "firstSeen": 1648833875340,
+    "lastSeen": 1648834154072
+  }
+}
