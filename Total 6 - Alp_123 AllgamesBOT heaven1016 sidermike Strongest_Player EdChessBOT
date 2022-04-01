@@ -1,0 +1,44 @@
+{
+  "alp_123@lichess": {
+    "id": "alp_123",
+    "provider": "lichess",
+    "username": "Alp_123",
+    "firstSeen": 1648825162740,
+    "lastSeen": 1648831128361
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648828202869,
+    "lastSeen": 1648831095532
+  },
+  "heaven1016@lichess": {
+    "id": "heaven1016",
+    "provider": "lichess",
+    "username": "heaven1016",
+    "firstSeen": 1648830433941,
+    "lastSeen": 1648830479697
+  },
+  "sidermike@lichess": {
+    "id": "sidermike",
+    "provider": "lichess",
+    "username": "sidermike",
+    "firstSeen": 1648830481035,
+    "lastSeen": 1648830657257
+  },
+  "strongest_player@lichess": {
+    "id": "strongest_player",
+    "provider": "lichess",
+    "username": "Strongest_Player",
+    "firstSeen": 1648830493875,
+    "lastSeen": 1648830581542
+  },
+  "edchessbot@lichess": {
+    "id": "edchessbot",
+    "provider": "lichess",
+    "username": "EdChessBOT",
+    "firstSeen": 1648831154966,
+    "lastSeen": 1648831154966
+  }
+}
