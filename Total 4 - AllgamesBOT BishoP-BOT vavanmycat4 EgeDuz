@@ -1,0 +1,30 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648919645367,
+    "lastSeen": 1648921508939
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1648919780112,
+    "lastSeen": 1648921312779
+  },
+  "vavanmycat4@lichess": {
+    "id": "vavanmycat4",
+    "provider": "lichess",
+    "username": "vavanmycat4",
+    "firstSeen": 1648920590744,
+    "lastSeen": 1648920983893
+  },
+  "egeduz@lichess": {
+    "id": "egeduz",
+    "provider": "lichess",
+    "username": "EgeDuz",
+    "firstSeen": 1648921721350,
+    "lastSeen": 1648921721350
+  }
+}
