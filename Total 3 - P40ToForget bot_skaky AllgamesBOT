@@ -1,0 +1,23 @@
+{
+  "p40toforget@lichess": {
+    "id": "p40toforget",
+    "provider": "lichess",
+    "username": "P40ToForget",
+    "firstSeen": 1648904308986,
+    "lastSeen": 1648905811431
+  },
+  "bot_skaky@lichess": {
+    "id": "bot_skaky",
+    "provider": "lichess",
+    "username": "bot_skaky",
+    "firstSeen": 1648905728237,
+    "lastSeen": 1648905854019
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648905938035,
+    "lastSeen": 1648905938035
+  }
+}
