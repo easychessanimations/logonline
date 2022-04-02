@@ -1,0 +1,37 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648905938035,
+    "lastSeen": 1648915291474
+  },
+  "chess_robot_level_14@lichess": {
+    "id": "chess_robot_level_14",
+    "provider": "lichess",
+    "username": "chess_robot_level_14",
+    "firstSeen": 1648913942356,
+    "lastSeen": 1648915466004
+  },
+  "authorizedbot@lichess": {
+    "id": "authorizedbot",
+    "provider": "lichess",
+    "username": "authorizedbot",
+    "firstSeen": 1648913954971,
+    "lastSeen": 1648915487307
+  },
+  "ter0ser@lichess": {
+    "id": "ter0ser",
+    "provider": "lichess",
+    "username": "ter0ser",
+    "firstSeen": 1648915112810,
+    "lastSeen": 1648915516406
+  },
+  "keyboardturbatorq18@lichess": {
+    "id": "keyboardturbatorq18",
+    "provider": "lichess",
+    "username": "keyboardturbatorQ18",
+    "firstSeen": 1648915517401,
+    "lastSeen": 1648915517401
+  }
+}
