@@ -1,0 +1,37 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648919645367,
+    "lastSeen": 1648922881375
+  },
+  "egeduz@lichess": {
+    "id": "egeduz",
+    "provider": "lichess",
+    "username": "EgeDuz",
+    "firstSeen": 1648921721350,
+    "lastSeen": 1648923327990
+  },
+  "why_berteres@lichess": {
+    "id": "why_berteres",
+    "provider": "lichess",
+    "username": "wHy_bErTeReS",
+    "firstSeen": 1648922497400,
+    "lastSeen": 1648922902120
+  },
+  "chess_robot_level_14@lichess": {
+    "id": "chess_robot_level_14",
+    "provider": "lichess",
+    "username": "chess_robot_level_14",
+    "firstSeen": 1648922820242,
+    "lastSeen": 1648922839443
+  },
+  "abuziddin@lichess": {
+    "id": "abuziddin",
+    "provider": "lichess",
+    "username": "Abuziddin",
+    "firstSeen": 1648922837578,
+    "lastSeen": 1648922847951
+  }
+}
