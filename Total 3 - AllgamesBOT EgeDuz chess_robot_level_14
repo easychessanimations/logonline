@@ -1,0 +1,23 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648919645367,
+    "lastSeen": 1648923728902
+  },
+  "egeduz@lichess": {
+    "id": "egeduz",
+    "provider": "lichess",
+    "username": "EgeDuz",
+    "firstSeen": 1648921721350,
+    "lastSeen": 1648923541542
+  },
+  "chess_robot_level_14@lichess": {
+    "id": "chess_robot_level_14",
+    "provider": "lichess",
+    "username": "chess_robot_level_14",
+    "firstSeen": 1648922820242,
+    "lastSeen": 1648923845151
+  }
+}
