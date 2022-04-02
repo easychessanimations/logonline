@@ -1,0 +1,30 @@
+{
+  "chess_robot_level_14@lichess": {
+    "id": "chess_robot_level_14",
+    "provider": "lichess",
+    "username": "chess_robot_level_14",
+    "firstSeen": 1648918093312,
+    "lastSeen": 1648920540477
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648919645367,
+    "lastSeen": 1648920365358
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1648919780112,
+    "lastSeen": 1648920522040
+  },
+  "vavanmycat4@lichess": {
+    "id": "vavanmycat4",
+    "provider": "lichess",
+    "username": "vavanmycat4",
+    "firstSeen": 1648920590744,
+    "lastSeen": 1648920590744
+  }
+}
