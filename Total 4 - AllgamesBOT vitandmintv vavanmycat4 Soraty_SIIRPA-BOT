@@ -1,0 +1,30 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648967020565,
+    "lastSeen": 1648994219916
+  },
+  "vitandmintv@lichess": {
+    "id": "vitandmintv",
+    "provider": "lichess",
+    "username": "vitandmintv",
+    "firstSeen": 1648980996134,
+    "lastSeen": 1648994339923
+  },
+  "vavanmycat4@lichess": {
+    "id": "vavanmycat4",
+    "provider": "lichess",
+    "username": "vavanmycat4",
+    "firstSeen": 1648981900802,
+    "lastSeen": 1648993920042
+  },
+  "soraty_siirpa-bot@lichess": {
+    "id": "soraty_siirpa-bot",
+    "provider": "lichess",
+    "username": "Soraty_SIIRPA-BOT",
+    "firstSeen": 1648993680353,
+    "lastSeen": 1648994105030
+  }
+}
