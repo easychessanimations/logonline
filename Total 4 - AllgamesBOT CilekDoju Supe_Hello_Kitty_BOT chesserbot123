@@ -1,0 +1,30 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648967020565,
+    "lastSeen": 1648973283530
+  },
+  "cilekdoju@lichess": {
+    "id": "cilekdoju",
+    "provider": "lichess",
+    "username": "CilekDoju",
+    "firstSeen": 1648972428362,
+    "lastSeen": 1648973532098
+  },
+  "supe_hello_kitty_bot@lichess": {
+    "id": "supe_hello_kitty_bot",
+    "provider": "lichess",
+    "username": "Supe_Hello_Kitty_BOT",
+    "firstSeen": 1648972500274,
+    "lastSeen": 1648973165625
+  },
+  "chesserbot123@lichess": {
+    "id": "chesserbot123",
+    "provider": "lichess",
+    "username": "chesserbot123",
+    "firstSeen": 1648973538185,
+    "lastSeen": 1648973538185
+  }
+}
