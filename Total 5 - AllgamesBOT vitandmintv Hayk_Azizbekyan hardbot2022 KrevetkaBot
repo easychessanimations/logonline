@@ -1,0 +1,37 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1648998180058,
+    "lastSeen": 1649007419943
+  },
+  "vitandmintv@lichess": {
+    "id": "vitandmintv",
+    "provider": "lichess",
+    "username": "vitandmintv",
+    "firstSeen": 1648998180113,
+    "lastSeen": 1649007239910
+  },
+  "hayk_azizbekyan@lichess": {
+    "id": "hayk_azizbekyan",
+    "provider": "lichess",
+    "username": "Hayk_Azizbekyan",
+    "firstSeen": 1649000642592,
+    "lastSeen": 1649007243606
+  },
+  "hardbot2022@lichess": {
+    "id": "hardbot2022",
+    "provider": "lichess",
+    "username": "hardbot2022",
+    "firstSeen": 1649001159916,
+    "lastSeen": 1649007368933
+  },
+  "krevetkabot@lichess": {
+    "id": "krevetkabot",
+    "provider": "lichess",
+    "username": "KrevetkaBot",
+    "firstSeen": 1649006500603,
+    "lastSeen": 1649006855920
+  }
+}
