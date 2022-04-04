@@ -1,0 +1,23 @@
+{
+  "serprocool@lichess": {
+    "id": "serprocool",
+    "provider": "lichess",
+    "username": "SerProCool",
+    "firstSeen": 1649090028862,
+    "lastSeen": 1649090028862
+  },
+  "chess_robot_level_14@lichess": {
+    "id": "chess_robot_level_14",
+    "provider": "lichess",
+    "username": "chess_robot_level_14",
+    "firstSeen": 1649090127218,
+    "lastSeen": 1649090142551
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1649090149273,
+    "lastSeen": 1649090149273
+  }
+}
