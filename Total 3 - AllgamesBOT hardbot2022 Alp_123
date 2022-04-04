@@ -1,0 +1,23 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1649087141567,
+    "lastSeen": 1649089833892
+  },
+  "hardbot2022@lichess": {
+    "id": "hardbot2022",
+    "provider": "lichess",
+    "username": "hardbot2022",
+    "firstSeen": 1649087217998,
+    "lastSeen": 1649089178212
+  },
+  "alp_123@lichess": {
+    "id": "alp_123",
+    "provider": "lichess",
+    "username": "Alp_123",
+    "firstSeen": 1649088871639,
+    "lastSeen": 1649089542247
+  }
+}
