@@ -1,0 +1,30 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1649087141567,
+    "lastSeen": 1649088648740
+  },
+  "hardbot2022@lichess": {
+    "id": "hardbot2022",
+    "provider": "lichess",
+    "username": "hardbot2022",
+    "firstSeen": 1649087217998,
+    "lastSeen": 1649088721862
+  },
+  "profesional_engine@lichess": {
+    "id": "profesional_engine",
+    "provider": "lichess",
+    "username": "Profesional_Engine",
+    "firstSeen": 1649087719670,
+    "lastSeen": 1649088673744
+  },
+  "alp_123@lichess": {
+    "id": "alp_123",
+    "provider": "lichess",
+    "username": "Alp_123",
+    "firstSeen": 1649088871639,
+    "lastSeen": 1649088871639
+  }
+}
