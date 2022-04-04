@@ -1,0 +1,22 @@
+{
+  "apl_bot@lichess": {
+    "id": "apl_bot",
+    "provider": "lichess",
+    "username": "APL_Bot",
+    "firstSeen": 1649080546946,
+    "lastSeen": 1649080554583,
+    "firstSeenTime": "1:55:46 PM",
+    "lastSeenTime": "1:55:54 PM",
+    "onlineDurationMins": 0.12728333333333333
+  },
+  "evg3n413429@lichess": {
+    "id": "evg3n413429",
+    "provider": "lichess",
+    "username": "Evg3n413429",
+    "firstSeen": 1649080637566,
+    "lastSeen": 1649080651852,
+    "firstSeenTime": "1:57:17 PM",
+    "lastSeenTime": "1:57:31 PM",
+    "onlineDurationMins": 0.2381
+  }
+}
