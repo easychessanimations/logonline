@@ -1,0 +1,42 @@
+{
+  "ecemnuratik@lichess": {
+    "id": "ecemnuratik",
+    "provider": "lichess",
+    "username": "EcemNurAtik",
+    "firstSeen": 1649139718390,
+    "lastSeen": 1649157770185,
+    "firstSeenTime": "6:21:58 AM",
+    "lastSeenTime": "11:22:50 AM",
+    "onlineDurationMins": 300.86325
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1649152303704,
+    "lastSeen": 1649157869739,
+    "firstSeenTime": "9:51:43 AM",
+    "lastSeenTime": "11:24:29 AM",
+    "onlineDurationMins": 92.76725
+  },
+  "chess_robot_level_14@lichess": {
+    "id": "chess_robot_level_14",
+    "provider": "lichess",
+    "username": "chess_robot_level_14",
+    "firstSeen": 1649157203020,
+    "lastSeen": 1649157387618,
+    "firstSeenTime": "11:13:23 AM",
+    "lastSeenTime": "11:16:27 AM",
+    "onlineDurationMins": 3.0766333333333336
+  },
+  "you_are_destroyed@lichess": {
+    "id": "you_are_destroyed",
+    "provider": "lichess",
+    "username": "you_are_destroyed",
+    "firstSeen": 1649157327844,
+    "lastSeen": 1649157897103,
+    "firstSeenTime": "11:15:27 AM",
+    "lastSeenTime": "11:19:51 AM",
+    "onlineDurationMins": 4.4014
+  }
+}
