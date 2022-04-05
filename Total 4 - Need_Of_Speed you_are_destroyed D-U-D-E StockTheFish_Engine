@@ -1,0 +1,30 @@
+{
+  "need_of_speed@lichess": {
+    "id": "need_of_speed",
+    "provider": "lichess",
+    "username": "Need_Of_Speed",
+    "firstSeen": 1649119536901,
+    "lastSeen": 1649124134360
+  },
+  "you_are_destroyed@lichess": {
+    "id": "you_are_destroyed",
+    "provider": "lichess",
+    "username": "you_are_destroyed",
+    "firstSeen": 1649122892797,
+    "lastSeen": 1649123986603
+  },
+  "d-u-d-e@lichess": {
+    "id": "d-u-d-e",
+    "provider": "lichess",
+    "username": "D-U-D-E",
+    "firstSeen": 1649124137111,
+    "lastSeen": 1649124152995
+  },
+  "stockthefish_engine@lichess": {
+    "id": "stockthefish_engine",
+    "provider": "lichess",
+    "username": "StockTheFish_Engine",
+    "firstSeen": 1649124174353,
+    "lastSeen": 1649124174353
+  }
+}
