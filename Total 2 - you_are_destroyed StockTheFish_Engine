@@ -1,0 +1,16 @@
+{
+  "you_are_destroyed@lichess": {
+    "id": "you_are_destroyed",
+    "provider": "lichess",
+    "username": "you_are_destroyed",
+    "firstSeen": 1649122892797,
+    "lastSeen": 1649128016152
+  },
+  "stockthefish_engine@lichess": {
+    "id": "stockthefish_engine",
+    "provider": "lichess",
+    "username": "StockTheFish_Engine",
+    "firstSeen": 1649128342278,
+    "lastSeen": 1649128342278
+  }
+}
