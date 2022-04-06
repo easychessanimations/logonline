@@ -1,0 +1,30 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1649264301316,
+    "lastSeen": 1649267836268
+  },
+  "lchen9_botter@lichess": {
+    "id": "lchen9_botter",
+    "provider": "lichess",
+    "username": "Lchen9_Botter",
+    "firstSeen": 1649266826971,
+    "lastSeen": 1649268237284
+  },
+  "nyiblaok@lichess": {
+    "id": "nyiblaok",
+    "provider": "lichess",
+    "username": "nyiblaok",
+    "firstSeen": 1649267481870,
+    "lastSeen": 1649267570227
+  },
+  "robotchessmaster@lichess": {
+    "id": "robotchessmaster",
+    "provider": "lichess",
+    "username": "robotchessmaster",
+    "firstSeen": 1649267917192,
+    "lastSeen": 1649268170277
+  }
+}
