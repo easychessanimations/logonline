@@ -1,0 +1,16 @@
+{
+  "stockthefish_engine@lichess": {
+    "id": "stockthefish_engine",
+    "provider": "lichess",
+    "username": "StockTheFish_Engine",
+    "firstSeen": 1649209039371,
+    "lastSeen": 1649209104188
+  },
+  "komodofish12@lichess": {
+    "id": "komodofish12",
+    "provider": "lichess",
+    "username": "KomodoFish12",
+    "firstSeen": 1649209105215,
+    "lastSeen": 1649209105215
+  }
+}
