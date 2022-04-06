@@ -1,0 +1,23 @@
+{
+  "chesserbot123@lichess": {
+    "id": "chesserbot123",
+    "provider": "lichess",
+    "username": "chesserbot123",
+    "firstSeen": 1649256289778,
+    "lastSeen": 1649259354526
+  },
+  "profesional_engine@lichess": {
+    "id": "profesional_engine",
+    "provider": "lichess",
+    "username": "Profesional_Engine",
+    "firstSeen": 1649257234967,
+    "lastSeen": 1649259251682
+  },
+  "danielchessza@lichess": {
+    "id": "danielchessza",
+    "provider": "lichess",
+    "username": "DanielChessZA",
+    "firstSeen": 1649259427039,
+    "lastSeen": 1649259436425
+  }
+}
