@@ -1,0 +1,30 @@
+{
+  "vavanmycat4@lichess": {
+    "id": "vavanmycat4",
+    "provider": "lichess",
+    "username": "vavanmycat4",
+    "firstSeen": 1649252202742,
+    "lastSeen": 1649254181459
+  },
+  "mrcalvabot@lichess": {
+    "id": "mrcalvabot",
+    "provider": "lichess",
+    "username": "MrCalvabot",
+    "firstSeen": 1649253745829,
+    "lastSeen": 1649254530715
+  },
+  "chess_robot_level_14@lichess": {
+    "id": "chess_robot_level_14",
+    "provider": "lichess",
+    "username": "chess_robot_level_14",
+    "firstSeen": 1649253855485,
+    "lastSeen": 1649254621250
+  },
+  "checkmatemealready@lichess": {
+    "id": "checkmatemealready",
+    "provider": "lichess",
+    "username": "Checkmatemealready",
+    "firstSeen": 1649254657004,
+    "lastSeen": 1649254657004
+  }
+}
