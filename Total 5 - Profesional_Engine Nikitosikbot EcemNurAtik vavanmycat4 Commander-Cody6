@@ -1,0 +1,52 @@
+{
+  "profesional_engine@lichess": {
+    "id": "profesional_engine",
+    "provider": "lichess",
+    "username": "Profesional_Engine",
+    "firstSeen": 1649225199644,
+    "lastSeen": 1649234442395,
+    "firstSeenTime": "6:06:39 AM",
+    "lastSeenTime": "8:32:11 AM",
+    "onlineDurationMins": 145.53028333333333
+  },
+  "nikitosikbot@lichess": {
+    "id": "nikitosikbot",
+    "provider": "lichess",
+    "username": "Nikitosikbot",
+    "firstSeen": 1649225485647,
+    "lastSeen": 1649234158175,
+    "firstSeenTime": "6:11:25 AM",
+    "lastSeenTime": "8:35:58 AM",
+    "onlineDurationMins": 144.54213333333334
+  },
+  "ecemnuratik@lichess": {
+    "id": "ecemnuratik",
+    "provider": "lichess",
+    "username": "EcemNurAtik",
+    "firstSeen": 1649226077209,
+    "lastSeen": 1649234163770,
+    "firstSeenTime": "6:21:17 AM",
+    "lastSeenTime": "8:36:03 AM",
+    "onlineDurationMins": 134.77601666666666
+  },
+  "vavanmycat4@lichess": {
+    "id": "vavanmycat4",
+    "provider": "lichess",
+    "username": "vavanmycat4",
+    "firstSeen": 1649231345262,
+    "lastSeen": 1649234348326,
+    "firstSeenTime": "7:49:05 AM",
+    "lastSeenTime": "8:35:52 AM",
+    "onlineDurationMins": 46.79128333333333
+  },
+  "commander-cody6@lichess": {
+    "id": "commander-cody6",
+    "provider": "lichess",
+    "username": "Commander-Cody6",
+    "firstSeen": 1649233629849,
+    "lastSeen": 1649233680560,
+    "firstSeenTime": "8:27:09 AM",
+    "lastSeenTime": "8:28:00 AM",
+    "onlineDurationMins": 0.8451833333333333
+  }
+}
