@@ -1,0 +1,59 @@
+{
+  "profesional_engine@lichess": {
+    "id": "profesional_engine",
+    "provider": "lichess",
+    "username": "Profesional_Engine",
+    "firstSeen": 1649225199644,
+    "lastSeen": 1649231798288,
+    "firstSeenTime": "6:06:39 AM",
+    "lastSeenTime": "7:46:46 AM",
+    "onlineDurationMins": 100.10785
+  },
+  "nikitosikbot@lichess": {
+    "id": "nikitosikbot",
+    "provider": "lichess",
+    "username": "Nikitosikbot",
+    "firstSeen": 1649225485647,
+    "lastSeen": 1649232181713,
+    "firstSeenTime": "6:11:25 AM",
+    "lastSeenTime": "7:51:28 AM",
+    "onlineDurationMins": 100.04126666666667
+  },
+  "ecemnuratik@lichess": {
+    "id": "ecemnuratik",
+    "provider": "lichess",
+    "username": "EcemNurAtik",
+    "firstSeen": 1649226077209,
+    "lastSeen": 1649232213536,
+    "firstSeenTime": "6:21:17 AM",
+    "lastSeenTime": "7:50:28 AM",
+    "onlineDurationMins": 89.18826666666666
+  },
+  "komodofish12@lichess": {
+    "id": "komodofish12",
+    "provider": "lichess",
+    "username": "KomodoFish12",
+    "firstSeen": 1649227116092,
+    "lastSeen": 1649231807170,
+    "firstSeenTime": "6:38:36 AM",
+    "lastSeenTime": "7:53:48 AM",
+    "onlineDurationMins": 75.19853333333333
+  },
+  "vavanmycat4@lichess": {
+    "id": "vavanmycat4",
+    "provider": "lichess",
+    "username": "vavanmycat4",
+    "firstSeen": 1649231345262,
+    "lastSeen": 1649232172744,
+    "firstSeenTime": "7:49:05 AM",
+    "lastSeenTime": "7:53:53 AM",
+    "onlineDurationMins": 4.799083333333333
+  },
+  "d-u-d-e@lichess": {
+    "id": "d-u-d-e",
+    "provider": "lichess",
+    "username": "D-U-D-E",
+    "firstSeen": 1649232393520,
+    "lastSeen": 1649232393520
+  }
+}
