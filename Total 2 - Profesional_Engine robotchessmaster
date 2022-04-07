@@ -1,0 +1,19 @@
+{
+  "profesional_engine@lichess": {
+    "id": "profesional_engine",
+    "provider": "lichess",
+    "username": "Profesional_Engine",
+    "firstSeen": 1649347012807,
+    "lastSeen": 1649350788050,
+    "firstSeenTime": "3:56:52 PM",
+    "lastSeenTime": "4:27:24 PM",
+    "onlineDurationMins": 30.535566666666668
+  },
+  "robotchessmaster@lichess": {
+    "id": "robotchessmaster",
+    "provider": "lichess",
+    "username": "robotchessmaster",
+    "firstSeen": 1649350893117,
+    "lastSeen": 1649350893117
+  }
+}
