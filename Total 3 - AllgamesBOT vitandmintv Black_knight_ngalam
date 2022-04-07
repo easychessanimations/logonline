@@ -1,0 +1,29 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1649356107792,
+    "lastSeen": 1649359113406,
+    "firstSeenTime": "6:28:27 PM",
+    "lastSeenTime": "7:02:18 PM",
+    "onlineDurationMins": 33.8443
+  },
+  "vitandmintv@lichess": {
+    "id": "vitandmintv",
+    "provider": "lichess",
+    "username": "vitandmintv",
+    "firstSeen": 1649356267014,
+    "lastSeen": 1649358915097,
+    "firstSeenTime": "6:31:07 PM",
+    "lastSeenTime": "7:04:18 PM",
+    "onlineDurationMins": 33.190866666666665
+  },
+  "black_knight_ngalam@lichess": {
+    "id": "black_knight_ngalam",
+    "provider": "lichess",
+    "username": "Black_knight_ngalam",
+    "firstSeen": 1649359142988,
+    "lastSeen": 1649359142988
+  }
+}
