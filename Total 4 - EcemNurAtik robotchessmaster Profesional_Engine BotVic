@@ -1,0 +1,42 @@
+{
+  "ecemnuratik@lichess": {
+    "id": "ecemnuratik",
+    "provider": "lichess",
+    "username": "EcemNurAtik",
+    "firstSeen": 1649316106617,
+    "lastSeen": 1649335975039,
+    "firstSeenTime": "7:21:46 AM",
+    "lastSeenTime": "12:52:55 PM",
+    "onlineDurationMins": 331.1403666666667
+  },
+  "robotchessmaster@lichess": {
+    "id": "robotchessmaster",
+    "provider": "lichess",
+    "username": "robotchessmaster",
+    "firstSeen": 1649333028481,
+    "lastSeen": 1649335926856,
+    "firstSeenTime": "12:03:48 PM",
+    "lastSeenTime": "12:52:06 PM",
+    "onlineDurationMins": 48.30625
+  },
+  "profesional_engine@lichess": {
+    "id": "profesional_engine",
+    "provider": "lichess",
+    "username": "Profesional_Engine",
+    "firstSeen": 1649333148570,
+    "lastSeen": 1649336626952,
+    "firstSeenTime": "12:05:48 PM",
+    "lastSeenTime": "12:52:49 PM",
+    "onlineDurationMins": 47.008433333333336
+  },
+  "botvic@lichess": {
+    "id": "botvic",
+    "provider": "lichess",
+    "username": "BotVic",
+    "firstSeen": 1649335825205,
+    "lastSeen": 1649336432601,
+    "firstSeenTime": "12:50:25 PM",
+    "lastSeenTime": "12:52:04 PM",
+    "onlineDurationMins": 1.6483666666666668
+  }
+}
