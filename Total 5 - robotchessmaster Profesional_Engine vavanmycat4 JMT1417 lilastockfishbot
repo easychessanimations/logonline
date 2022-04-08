@@ -1,0 +1,43 @@
+{
+  "robotchessmaster@lichess": {
+    "id": "robotchessmaster",
+    "provider": "lichess",
+    "username": "robotchessmaster",
+    "firstSeen": 1649430090877,
+    "lastSeen": 1649433033613,
+    "firstSeenTime": "3:01:30 PM",
+    "lastSeenTime": "3:25:59 PM",
+    "onlineDurationMins": 24.4712
+  },
+  "profesional_engine@lichess": {
+    "id": "profesional_engine",
+    "provider": "lichess",
+    "username": "Profesional_Engine",
+    "firstSeen": 1649431076590,
+    "lastSeen": 1649433093937,
+    "firstSeenTime": "3:17:56 PM",
+    "lastSeenTime": "3:19:56 PM",
+    "onlineDurationMins": 2.005916666666667
+  },
+  "vavanmycat4@lichess": {
+    "id": "vavanmycat4",
+    "provider": "lichess",
+    "username": "vavanmycat4",
+    "firstSeen": 1649432418407,
+    "lastSeen": 1649433122967
+  },
+  "jmt1417@lichess": {
+    "id": "jmt1417",
+    "provider": "lichess",
+    "username": "JMT1417",
+    "firstSeen": 1649432460291,
+    "lastSeen": 1649432690821
+  },
+  "lilastockfishbot@lichess": {
+    "id": "lilastockfishbot",
+    "provider": "lichess",
+    "username": "lilastockfishbot",
+    "firstSeen": 1649432834706,
+    "lastSeen": 1649433518548
+  }
+}
