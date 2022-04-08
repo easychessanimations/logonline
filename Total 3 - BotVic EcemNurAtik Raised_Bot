@@ -1,0 +1,23 @@
+{
+  "botvic@lichess": {
+    "id": "botvic",
+    "provider": "lichess",
+    "username": "BotVic",
+    "firstSeen": 1649392560133,
+    "lastSeen": 1649396102247
+  },
+  "ecemnuratik@lichess": {
+    "id": "ecemnuratik",
+    "provider": "lichess",
+    "username": "EcemNurAtik",
+    "firstSeen": 1649396209742,
+    "lastSeen": 1649396221791
+  },
+  "raised_bot@lichess": {
+    "id": "raised_bot",
+    "provider": "lichess",
+    "username": "Raised_Bot",
+    "firstSeen": 1649396224217,
+    "lastSeen": 1649396224217
+  }
+}
