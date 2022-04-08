@@ -1,0 +1,29 @@
+{
+  "ecemnuratik@lichess": {
+    "id": "ecemnuratik",
+    "provider": "lichess",
+    "username": "EcemNurAtik",
+    "firstSeen": 1649399215168,
+    "lastSeen": 1649400870101,
+    "firstSeenTime": "6:26:55 AM",
+    "lastSeenTime": "6:44:25 AM",
+    "onlineDurationMins": 17.506283333333332
+  },
+  "botvic@lichess": {
+    "id": "botvic",
+    "provider": "lichess",
+    "username": "BotVic",
+    "firstSeen": 1649399293359,
+    "lastSeen": 1649401370813,
+    "firstSeenTime": "6:28:13 AM",
+    "lastSeenTime": "6:43:52 AM",
+    "onlineDurationMins": 15.646066666666666
+  },
+  "allgamesbot2022@lichess": {
+    "id": "allgamesbot2022",
+    "provider": "lichess",
+    "username": "AllGamesBot2022",
+    "firstSeen": 1649401469301,
+    "lastSeen": 1649401469301
+  }
+}
