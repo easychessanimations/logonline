@@ -1,0 +1,26 @@
+{
+  "profesional_engine@lichess": {
+    "id": "profesional_engine",
+    "provider": "lichess",
+    "username": "Profesional_Engine",
+    "firstSeen": 1649431076590,
+    "lastSeen": 1649433757003,
+    "firstSeenTime": "3:17:56 PM",
+    "lastSeenTime": "3:19:56 PM",
+    "onlineDurationMins": 2.005916666666667
+  },
+  "vavanmycat4@lichess": {
+    "id": "vavanmycat4",
+    "provider": "lichess",
+    "username": "vavanmycat4",
+    "firstSeen": 1649432418407,
+    "lastSeen": 1649433921497
+  },
+  "lilastockfishbot@lichess": {
+    "id": "lilastockfishbot",
+    "provider": "lichess",
+    "username": "lilastockfishbot",
+    "firstSeen": 1649432834706,
+    "lastSeen": 1649433546858
+  }
+}
