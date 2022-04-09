@@ -1,0 +1,16 @@
+{
+  "serviplus_bot@lichess": {
+    "id": "serviplus_bot",
+    "provider": "lichess",
+    "username": "Serviplus_BOT",
+    "firstSeen": 1649503083118,
+    "lastSeen": 1649503091123
+  },
+  "profesional_engine@lichess": {
+    "id": "profesional_engine",
+    "provider": "lichess",
+    "username": "Profesional_Engine",
+    "firstSeen": 1649503212416,
+    "lastSeen": 1649503212416
+  }
+}
