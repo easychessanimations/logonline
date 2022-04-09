@@ -1,0 +1,26 @@
+{
+  "mr_botacik@lichess": {
+    "id": "mr_botacik",
+    "provider": "lichess",
+    "username": "mr_botacik",
+    "firstSeen": 1649489346173,
+    "lastSeen": 1649494617158,
+    "firstSeenTime": "7:29:06 AM",
+    "lastSeenTime": "8:07:24 AM",
+    "onlineDurationMins": 38.3084
+  },
+  "karakartal181903-bot@lichess": {
+    "id": "karakartal181903-bot",
+    "provider": "lichess",
+    "username": "karakartal181903-BOT",
+    "firstSeen": 1649494063445,
+    "lastSeen": 1649494629435
+  },
+  "extremerbot@lichess": {
+    "id": "extremerbot",
+    "provider": "lichess",
+    "username": "ExtremerBot",
+    "firstSeen": 1649494667602,
+    "lastSeen": 1649494667602
+  }
+}
