@@ -1,0 +1,33 @@
+{
+  "serviplus_bot@lichess": {
+    "id": "serviplus_bot",
+    "provider": "lichess",
+    "username": "Serviplus_BOT",
+    "firstSeen": 1649503083118,
+    "lastSeen": 1649507449818,
+    "firstSeenTime": "11:18:03 AM",
+    "lastSeenTime": "12:08:50 PM",
+    "onlineDurationMins": 50.786
+  },
+  "kung-fupanda@lichess": {
+    "id": "kung-fupanda",
+    "provider": "lichess",
+    "username": "Kung-fuPanda",
+    "firstSeen": 1649506928827,
+    "lastSeen": 1649507761978
+  },
+  "elephant-super@lichess": {
+    "id": "elephant-super",
+    "provider": "lichess",
+    "username": "Elephant-super",
+    "firstSeen": 1649507234483,
+    "lastSeen": 1649507341130
+  },
+  "mr_botacik@lichess": {
+    "id": "mr_botacik",
+    "provider": "lichess",
+    "username": "mr_botacik",
+    "firstSeen": 1649507827578,
+    "lastSeen": 1649507827578
+  }
+}
