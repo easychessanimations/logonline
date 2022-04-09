@@ -1,0 +1,26 @@
+{
+  "e-chess_other_teams@lichess": {
+    "id": "e-chess_other_teams",
+    "provider": "lichess",
+    "username": "E-Chess_Other_Teams",
+    "firstSeen": 1649511718701,
+    "lastSeen": 1649515653831,
+    "firstSeenTime": "1:41:58 PM",
+    "lastSeenTime": "2:05:31 PM",
+    "onlineDurationMins": 23.55345
+  },
+  "karakartal181903-bot@lichess": {
+    "id": "karakartal181903-bot",
+    "provider": "lichess",
+    "username": "karakartal181903-BOT",
+    "firstSeen": 1649515016191,
+    "lastSeen": 1649515926880
+  },
+  "sudanesechessplayers@lichess": {
+    "id": "sudanesechessplayers",
+    "provider": "lichess",
+    "username": "SudaneseChessPlayers",
+    "firstSeen": 1649515970918,
+    "lastSeen": 1649515970918
+  }
+}
