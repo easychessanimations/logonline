@@ -1,0 +1,36 @@
+{
+  "vavanmycat4@lichess": {
+    "id": "vavanmycat4",
+    "provider": "lichess",
+    "username": "vavanmycat4",
+    "firstSeen": 1649497761310,
+    "lastSeen": 1649499263814,
+    "firstSeenTime": "9:49:21 AM",
+    "lastSeenTime": "10:01:00 AM",
+    "onlineDurationMins": 11.648333333333333
+  },
+  "profesional_engine@lichess": {
+    "id": "profesional_engine",
+    "provider": "lichess",
+    "username": "Profesional_Engine",
+    "firstSeen": 1649498022042,
+    "lastSeen": 1649499323547,
+    "firstSeenTime": "9:53:42 AM",
+    "lastSeenTime": "10:00:57 AM",
+    "onlineDurationMins": 7.259833333333333
+  },
+  "black_knight2006@lichess": {
+    "id": "black_knight2006",
+    "provider": "lichess",
+    "username": "Black_Knight2006",
+    "firstSeen": 1649499223086,
+    "lastSeen": 1649499455228
+  },
+  "mr_botacik@lichess": {
+    "id": "mr_botacik",
+    "provider": "lichess",
+    "username": "mr_botacik",
+    "firstSeen": 1649499421228,
+    "lastSeen": 1649499464967
+  }
+}
