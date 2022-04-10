@@ -1,0 +1,29 @@
+{
+  "profesional_engine@lichess": {
+    "id": "profesional_engine",
+    "provider": "lichess",
+    "username": "Profesional_Engine",
+    "firstSeen": 1649606481874,
+    "lastSeen": 1649618751338,
+    "firstSeenTime": "4:01:21 PM",
+    "lastSeenTime": "7:25:51 PM",
+    "onlineDurationMins": 204.49106666666665
+  },
+  "srmaster2_2022a-1211@lichess": {
+    "id": "srmaster2_2022a-1211",
+    "provider": "lichess",
+    "username": "SrMaster2_2022a-1211",
+    "firstSeen": 1649618956364,
+    "lastSeen": 1649619294722,
+    "firstSeenTime": "7:29:16 PM",
+    "lastSeenTime": "7:34:46 PM",
+    "onlineDurationMins": 5.506516666666666
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1649619386781,
+    "lastSeen": 1649619386781
+  }
+}
