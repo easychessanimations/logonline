@@ -1,0 +1,30 @@
+{
+  "mr_botacik@lichess": {
+    "id": "mr_botacik",
+    "provider": "lichess",
+    "username": "mr_botacik",
+    "firstSeen": 1649599175709,
+    "lastSeen": 1649604435021
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1649600157205,
+    "lastSeen": 1649604939198
+  },
+  "chessrk-random@lichess": {
+    "id": "chessrk-random",
+    "provider": "lichess",
+    "username": "chessrk-random",
+    "firstSeen": 1649604264076,
+    "lastSeen": 1649604300325
+  },
+  "i_am_good_player42@lichess": {
+    "id": "i_am_good_player42",
+    "provider": "lichess",
+    "username": "I_am_Good_player42",
+    "firstSeen": 1649604589250,
+    "lastSeen": 1649604655121
+  }
+}
