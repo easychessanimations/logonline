@@ -1,0 +1,39 @@
+{
+  "mr_botacik@lichess": {
+    "id": "mr_botacik",
+    "provider": "lichess",
+    "username": "mr_botacik",
+    "firstSeen": 1649599175709,
+    "lastSeen": 1649610256667,
+    "firstSeenTime": "1:59:35 PM",
+    "lastSeenTime": "4:54:54 PM",
+    "onlineDurationMins": 175.30648333333335
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1649600157205,
+    "lastSeen": 1649610822497,
+    "firstSeenTime": "2:15:57 PM",
+    "lastSeenTime": "4:51:42 PM",
+    "onlineDurationMins": 155.75701666666666
+  },
+  "profesional_engine@lichess": {
+    "id": "profesional_engine",
+    "provider": "lichess",
+    "username": "Profesional_Engine",
+    "firstSeen": 1649606481874,
+    "lastSeen": 1649610651390,
+    "firstSeenTime": "4:01:21 PM",
+    "lastSeenTime": "4:55:17 PM",
+    "onlineDurationMins": 53.93281666666667
+  },
+  "vipbot11@lichess": {
+    "id": "vipbot11",
+    "provider": "lichess",
+    "username": "VipBOT11",
+    "firstSeen": 1649610897457,
+    "lastSeen": 1649610897458
+  }
+}
