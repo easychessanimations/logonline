@@ -3,14 +3,17 @@
     "id": "profesional_engine",
     "provider": "lichess",
     "username": "Profesional_Engine",
-    "firstSeen": 1649164281024,
-    "lastSeen": 1649181509086
+    "firstSeen": 1649606481874,
+    "lastSeen": 1649614088004,
+    "firstSeenTime": "4:01:21 PM",
+    "lastSeenTime": "4:55:17 PM",
+    "onlineDurationMins": 53.93281666666667
   },
   "allgamesbot@lichess": {
     "id": "allgamesbot",
     "provider": "lichess",
     "username": "AllgamesBOT",
-    "firstSeen": 1649175640241,
-    "lastSeen": 1649181387147
+    "firstSeen": 1649614175971,
+    "lastSeen": 1649614175971
   }
 }
