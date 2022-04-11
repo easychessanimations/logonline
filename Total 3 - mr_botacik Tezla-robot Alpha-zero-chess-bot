@@ -1,0 +1,23 @@
+{
+  "mr_botacik@lichess": {
+    "id": "mr_botacik",
+    "provider": "lichess",
+    "username": "mr_botacik",
+    "firstSeen": 1649677089487,
+    "lastSeen": 1649677821493
+  },
+  "tezla-robot@lichess": {
+    "id": "tezla-robot",
+    "provider": "lichess",
+    "username": "Tezla-robot",
+    "firstSeen": 1649677764167,
+    "lastSeen": 1649677801178
+  },
+  "alpha-zero-chess-bot@lichess": {
+    "id": "alpha-zero-chess-bot",
+    "provider": "lichess",
+    "username": "Alpha-zero-chess-bot",
+    "firstSeen": 1649677821707,
+    "lastSeen": 1649677821708
+  }
+}
