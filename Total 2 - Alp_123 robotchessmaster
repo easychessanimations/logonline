@@ -1,0 +1,19 @@
+{
+  "alp_123@lichess": {
+    "id": "alp_123",
+    "provider": "lichess",
+    "username": "Alp_123",
+    "firstSeen": 1649695824328,
+    "lastSeen": 1649702778999,
+    "firstSeenTime": "4:50:24 PM",
+    "lastSeenTime": "5:48:00 PM",
+    "onlineDurationMins": 57.60208333333333
+  },
+  "robotchessmaster@lichess": {
+    "id": "robotchessmaster",
+    "provider": "lichess",
+    "username": "robotchessmaster",
+    "firstSeen": 1649702809717,
+    "lastSeen": 1649702809717
+  }
+}
