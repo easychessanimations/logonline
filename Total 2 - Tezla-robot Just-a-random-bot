@@ -1,0 +1,16 @@
+{
+  "tezla-robot@lichess": {
+    "id": "tezla-robot",
+    "provider": "lichess",
+    "username": "Tezla-robot",
+    "firstSeen": 1649794939311,
+    "lastSeen": 1649796451171
+  },
+  "just-a-random-bot@lichess": {
+    "id": "just-a-random-bot",
+    "provider": "lichess",
+    "username": "Just-a-random-bot",
+    "firstSeen": 1649797004716,
+    "lastSeen": 1649797004716
+  }
+}
