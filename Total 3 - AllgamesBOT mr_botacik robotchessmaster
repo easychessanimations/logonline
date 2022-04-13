@@ -1,0 +1,23 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1649872430892,
+    "lastSeen": 1649873632058
+  },
+  "mr_botacik@lichess": {
+    "id": "mr_botacik",
+    "provider": "lichess",
+    "username": "mr_botacik",
+    "firstSeen": 1649872796316,
+    "lastSeen": 1649873455890
+  },
+  "robotchessmaster@lichess": {
+    "id": "robotchessmaster",
+    "provider": "lichess",
+    "username": "robotchessmaster",
+    "firstSeen": 1649873869065,
+    "lastSeen": 1649873869065
+  }
+}
