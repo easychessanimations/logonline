@@ -1,0 +1,23 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1649877843076,
+    "lastSeen": 1649878503048
+  },
+  "trinketfake@lichess": {
+    "id": "trinketfake",
+    "provider": "lichess",
+    "username": "TrinketFake",
+    "firstSeen": 1649878456092,
+    "lastSeen": 1649878465356
+  },
+  "karbey35@lichess": {
+    "id": "karbey35",
+    "provider": "lichess",
+    "username": "karbey35",
+    "firstSeen": 1649878882548,
+    "lastSeen": 1649878882548
+  }
+}
