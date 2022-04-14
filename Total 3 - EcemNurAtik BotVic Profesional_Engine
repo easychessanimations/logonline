@@ -1,0 +1,23 @@
+{
+  "ecemnuratik@lichess": {
+    "id": "ecemnuratik",
+    "provider": "lichess",
+    "username": "EcemNurAtik",
+    "firstSeen": 1649913991095,
+    "lastSeen": 1649922586663
+  },
+  "botvic@lichess": {
+    "id": "botvic",
+    "provider": "lichess",
+    "username": "BotVic",
+    "firstSeen": 1649922364956,
+    "lastSeen": 1649922376571
+  },
+  "profesional_engine@lichess": {
+    "id": "profesional_engine",
+    "provider": "lichess",
+    "username": "Profesional_Engine",
+    "firstSeen": 1649922971828,
+    "lastSeen": 1649922971828
+  }
+}
