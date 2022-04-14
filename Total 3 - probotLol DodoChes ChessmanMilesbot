@@ -1,0 +1,23 @@
+{
+  "probotlol@lichess": {
+    "id": "probotlol",
+    "provider": "lichess",
+    "username": "probotLol",
+    "firstSeen": 1649954045737,
+    "lastSeen": 1649955269972
+  },
+  "dodoches@lichess": {
+    "id": "dodoches",
+    "provider": "lichess",
+    "username": "DodoChes",
+    "firstSeen": 1649954863007,
+    "lastSeen": 1649955183532
+  },
+  "chessmanmilesbot@lichess": {
+    "id": "chessmanmilesbot",
+    "provider": "lichess",
+    "username": "ChessmanMilesbot",
+    "firstSeen": 1649955040639,
+    "lastSeen": 1649955221413
+  }
+}
