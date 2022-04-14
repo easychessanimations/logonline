@@ -1,0 +1,23 @@
+{
+  "alp_123@lichess": {
+    "id": "alp_123",
+    "provider": "lichess",
+    "username": "Alp_123",
+    "firstSeen": 1649949533337,
+    "lastSeen": 1649950847446
+  },
+  "chessmanmilesbot@lichess": {
+    "id": "chessmanmilesbot",
+    "provider": "lichess",
+    "username": "ChessmanMilesbot",
+    "firstSeen": 1649950796295,
+    "lastSeen": 1649950807270
+  },
+  "onlyfasttimes@lichess": {
+    "id": "onlyfasttimes",
+    "provider": "lichess",
+    "username": "OnlyFastTimes",
+    "firstSeen": 1649950918380,
+    "lastSeen": 1649950918380
+  }
+}
