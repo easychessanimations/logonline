@@ -1,0 +1,30 @@
+{
+  "chessmanmilesbot@lichess": {
+    "id": "chessmanmilesbot",
+    "provider": "lichess",
+    "username": "ChessmanMilesbot",
+    "firstSeen": 1649940969713,
+    "lastSeen": 1649943322402
+  },
+  "alp_123@lichess": {
+    "id": "alp_123",
+    "provider": "lichess",
+    "username": "Alp_123",
+    "firstSeen": 1649942306170,
+    "lastSeen": 1649943421528
+  },
+  "the-chess-king-bot@lichess": {
+    "id": "the-chess-king-bot",
+    "provider": "lichess",
+    "username": "The-Chess-King-Bot",
+    "firstSeen": 1649943151340,
+    "lastSeen": 1649943333175
+  },
+  "misodashibainu@lichess": {
+    "id": "misodashibainu",
+    "provider": "lichess",
+    "username": "MisoDaShibaInu",
+    "firstSeen": 1649943425534,
+    "lastSeen": 1649943425534
+  }
+}
