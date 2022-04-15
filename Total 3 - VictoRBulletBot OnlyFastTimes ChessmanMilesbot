@@ -1,0 +1,23 @@
+{
+  "victorbulletbot@lichess": {
+    "id": "victorbulletbot",
+    "provider": "lichess",
+    "username": "VictoRBulletBot",
+    "firstSeen": 1650024862414,
+    "lastSeen": 1650024909347
+  },
+  "onlyfasttimes@lichess": {
+    "id": "onlyfasttimes",
+    "provider": "lichess",
+    "username": "OnlyFastTimes",
+    "firstSeen": 1650024904790,
+    "lastSeen": 1650024978468
+  },
+  "chessmanmilesbot@lichess": {
+    "id": "chessmanmilesbot",
+    "provider": "lichess",
+    "username": "ChessmanMilesbot",
+    "firstSeen": 1650024999499,
+    "lastSeen": 1650024999500
+  }
+}
