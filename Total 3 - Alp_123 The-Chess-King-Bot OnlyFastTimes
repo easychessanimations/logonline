@@ -1,0 +1,29 @@
+{
+  "alp_123@lichess": {
+    "id": "alp_123",
+    "provider": "lichess",
+    "username": "Alp_123",
+    "firstSeen": 1650029528250,
+    "lastSeen": 1650034033940,
+    "firstSeenTime": "1:32:08 PM",
+    "lastSeenTime": "2:28:49 PM",
+    "onlineDurationMins": 56.69088333333333
+  },
+  "the-chess-king-bot@lichess": {
+    "id": "the-chess-king-bot",
+    "provider": "lichess",
+    "username": "The-Chess-King-Bot",
+    "firstSeen": 1650032806764,
+    "lastSeen": 1650033758875,
+    "firstSeenTime": "2:26:46 PM",
+    "lastSeenTime": "2:27:02 PM",
+    "onlineDurationMins": 0.26826666666666665
+  },
+  "onlyfasttimes@lichess": {
+    "id": "onlyfasttimes",
+    "provider": "lichess",
+    "username": "OnlyFastTimes",
+    "firstSeen": 1650033958590,
+    "lastSeen": 1650034223609
+  }
+}
