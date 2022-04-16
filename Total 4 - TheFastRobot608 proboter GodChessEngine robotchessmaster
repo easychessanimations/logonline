@@ -1,0 +1,30 @@
+{
+  "thefastrobot608@lichess": {
+    "id": "thefastrobot608",
+    "provider": "lichess",
+    "username": "TheFastRobot608",
+    "firstSeen": 1650120699359,
+    "lastSeen": 1650120985762
+  },
+  "proboter@lichess": {
+    "id": "proboter",
+    "provider": "lichess",
+    "username": "proboter",
+    "firstSeen": 1650120894109,
+    "lastSeen": 1650121418533
+  },
+  "godchessengine@lichess": {
+    "id": "godchessengine",
+    "provider": "lichess",
+    "username": "GodChessEngine",
+    "firstSeen": 1650121025965,
+    "lastSeen": 1650121418457
+  },
+  "robotchessmaster@lichess": {
+    "id": "robotchessmaster",
+    "provider": "lichess",
+    "username": "robotchessmaster",
+    "firstSeen": 1650121441297,
+    "lastSeen": 1650121441297
+  }
+}
