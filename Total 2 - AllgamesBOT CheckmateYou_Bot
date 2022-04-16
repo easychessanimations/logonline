@@ -1,0 +1,16 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1650134696367,
+    "lastSeen": 1650136711358
+  },
+  "checkmateyou_bot@lichess": {
+    "id": "checkmateyou_bot",
+    "provider": "lichess",
+    "username": "CheckmateYou_Bot",
+    "firstSeen": 1650137529316,
+    "lastSeen": 1650137529316
+  }
+}
