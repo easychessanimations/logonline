@@ -1,0 +1,16 @@
+{
+  "manipur_chess_robot@lichess": {
+    "id": "manipur_chess_robot",
+    "provider": "lichess",
+    "username": "MANIPUR_CHESS_ROBOT",
+    "firstSeen": 1650080939208,
+    "lastSeen": 1650083409433
+  },
+  "the-chess-king-bot@lichess": {
+    "id": "the-chess-king-bot",
+    "provider": "lichess",
+    "username": "The-Chess-King-Bot",
+    "firstSeen": 1650083814062,
+    "lastSeen": 1650083814062
+  }
+}
