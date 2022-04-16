@@ -1,0 +1,23 @@
+{
+  "proboter@lichess": {
+    "id": "proboter",
+    "provider": "lichess",
+    "username": "proboter",
+    "firstSeen": 1650120894109,
+    "lastSeen": 1650124410184
+  },
+  "drfahemstylen@lichess": {
+    "id": "drfahemstylen",
+    "provider": "lichess",
+    "username": "DrFahemStylen",
+    "firstSeen": 1650121828531,
+    "lastSeen": 1650124111163
+  },
+  "checkmateyou_bot@lichess": {
+    "id": "checkmateyou_bot",
+    "provider": "lichess",
+    "username": "CheckmateYou_Bot",
+    "firstSeen": 1650124154507,
+    "lastSeen": 1650124773413
+  }
+}
