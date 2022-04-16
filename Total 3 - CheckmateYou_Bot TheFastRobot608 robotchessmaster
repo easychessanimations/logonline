@@ -1,0 +1,23 @@
+{
+  "checkmateyou_bot@lichess": {
+    "id": "checkmateyou_bot",
+    "provider": "lichess",
+    "username": "CheckmateYou_Bot",
+    "firstSeen": 1650137529316,
+    "lastSeen": 1650139074126
+  },
+  "thefastrobot608@lichess": {
+    "id": "thefastrobot608",
+    "provider": "lichess",
+    "username": "TheFastRobot608",
+    "firstSeen": 1650139090223,
+    "lastSeen": 1650139133777
+  },
+  "robotchessmaster@lichess": {
+    "id": "robotchessmaster",
+    "provider": "lichess",
+    "username": "robotchessmaster",
+    "firstSeen": 1650139770268,
+    "lastSeen": 1650139770268
+  }
+}
