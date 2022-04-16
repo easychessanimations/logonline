@@ -1,0 +1,30 @@
+{
+  "proboter@lichess": {
+    "id": "proboter",
+    "provider": "lichess",
+    "username": "proboter",
+    "firstSeen": 1650120894109,
+    "lastSeen": 1650124078143
+  },
+  "godchessengine@lichess": {
+    "id": "godchessengine",
+    "provider": "lichess",
+    "username": "GodChessEngine",
+    "firstSeen": 1650121025965,
+    "lastSeen": 1650123519836
+  },
+  "drfahemstylen@lichess": {
+    "id": "drfahemstylen",
+    "provider": "lichess",
+    "username": "DrFahemStylen",
+    "firstSeen": 1650121828531,
+    "lastSeen": 1650123523749
+  },
+  "santhosh600@lichess": {
+    "id": "santhosh600",
+    "provider": "lichess",
+    "username": "Santhosh600",
+    "firstSeen": 1650123044358,
+    "lastSeen": 1650123789897
+  }
+}
