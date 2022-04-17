@@ -1,0 +1,23 @@
+{
+  "overpowered_bot@lichess": {
+    "id": "overpowered_bot",
+    "provider": "lichess",
+    "username": "Overpowered_Bot",
+    "firstSeen": 1650168969482,
+    "lastSeen": 1650173066404
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1650172564116,
+    "lastSeen": 1650173246841
+  },
+  "manipur_chess_robot@lichess": {
+    "id": "manipur_chess_robot",
+    "provider": "lichess",
+    "username": "MANIPUR_CHESS_ROBOT",
+    "firstSeen": 1650173367707,
+    "lastSeen": 1650173367707
+  }
+}
