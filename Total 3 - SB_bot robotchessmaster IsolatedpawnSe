@@ -1,0 +1,23 @@
+{
+  "sb_bot@lichess": {
+    "id": "sb_bot",
+    "provider": "lichess",
+    "username": "SB_bot",
+    "firstSeen": 1650196171110,
+    "lastSeen": 1650196563125
+  },
+  "robotchessmaster@lichess": {
+    "id": "robotchessmaster",
+    "provider": "lichess",
+    "username": "robotchessmaster",
+    "firstSeen": 1650196689750,
+    "lastSeen": 1650196920848
+  },
+  "isolatedpawnse@lichess": {
+    "id": "isolatedpawnse",
+    "provider": "lichess",
+    "username": "IsolatedpawnSe",
+    "firstSeen": 1650196922131,
+    "lastSeen": 1650196922131
+  }
+}
