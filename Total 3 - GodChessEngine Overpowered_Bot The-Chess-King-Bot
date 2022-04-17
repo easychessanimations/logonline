@@ -1,0 +1,23 @@
+{
+  "godchessengine@lichess": {
+    "id": "godchessengine",
+    "provider": "lichess",
+    "username": "GodChessEngine",
+    "firstSeen": 1650167119297,
+    "lastSeen": 1650170531139
+  },
+  "overpowered_bot@lichess": {
+    "id": "overpowered_bot",
+    "provider": "lichess",
+    "username": "Overpowered_Bot",
+    "firstSeen": 1650168969482,
+    "lastSeen": 1650170475780
+  },
+  "the-chess-king-bot@lichess": {
+    "id": "the-chess-king-bot",
+    "provider": "lichess",
+    "username": "The-Chess-King-Bot",
+    "firstSeen": 1650170947699,
+    "lastSeen": 1650170947699
+  }
+}
