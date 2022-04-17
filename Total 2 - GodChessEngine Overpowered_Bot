@@ -1,0 +1,16 @@
+{
+  "godchessengine@lichess": {
+    "id": "godchessengine",
+    "provider": "lichess",
+    "username": "GodChessEngine",
+    "firstSeen": 1650167119297,
+    "lastSeen": 1650168628593
+  },
+  "overpowered_bot@lichess": {
+    "id": "overpowered_bot",
+    "provider": "lichess",
+    "username": "Overpowered_Bot",
+    "firstSeen": 1650168969482,
+    "lastSeen": 1650168969482
+  }
+}
