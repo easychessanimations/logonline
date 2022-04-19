@@ -1,0 +1,30 @@
+{
+  "chessofqueen@lichess": {
+    "id": "chessofqueen",
+    "provider": "lichess",
+    "username": "CHESSOFQUEEN",
+    "firstSeen": 1650372658000,
+    "lastSeen": 1650374130370
+  },
+  "ecemnuratik@lichess": {
+    "id": "ecemnuratik",
+    "provider": "lichess",
+    "username": "EcemNurAtik",
+    "firstSeen": 1650372896266,
+    "lastSeen": 1650374228203
+  },
+  "catty_chess_bot@lichess": {
+    "id": "catty_chess_bot",
+    "provider": "lichess",
+    "username": "Catty_Chess_BOT",
+    "firstSeen": 1650373144075,
+    "lastSeen": 1650374478364
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1650373718204,
+    "lastSeen": 1650374394259
+  }
+}
