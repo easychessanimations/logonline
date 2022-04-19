@@ -1,0 +1,44 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1650378221676,
+    "lastSeen": 1650384650585
+  },
+  "hookedonbots@lichess": {
+    "id": "hookedonbots",
+    "provider": "lichess",
+    "username": "hookedonbots",
+    "firstSeen": 1650380877786,
+    "lastSeen": 1650384836174
+  },
+  "deva-narasimhan@lichess": {
+    "id": "deva-narasimhan",
+    "provider": "lichess",
+    "username": "Deva-Narasimhan",
+    "firstSeen": 1650381869801,
+    "lastSeen": 1650384877036
+  },
+  "catty_chess_bot@lichess": {
+    "id": "catty_chess_bot",
+    "provider": "lichess",
+    "username": "Catty_Chess_BOT",
+    "firstSeen": 1650381918518,
+    "lastSeen": 1650384640770
+  },
+  "wdmbot@lichess": {
+    "id": "wdmbot",
+    "provider": "lichess",
+    "username": "WDMBOT",
+    "firstSeen": 1650384788278,
+    "lastSeen": 1650384915247
+  },
+  "drfahemstylen@lichess": {
+    "id": "drfahemstylen",
+    "provider": "lichess",
+    "username": "DrFahemStylen",
+    "firstSeen": 1650384919909,
+    "lastSeen": 1650384919909
+  }
+}
