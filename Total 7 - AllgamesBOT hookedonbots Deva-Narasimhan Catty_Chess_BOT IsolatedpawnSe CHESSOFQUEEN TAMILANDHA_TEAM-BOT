@@ -1,0 +1,51 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1650378221676,
+    "lastSeen": 1650383636155
+  },
+  "hookedonbots@lichess": {
+    "id": "hookedonbots",
+    "provider": "lichess",
+    "username": "hookedonbots",
+    "firstSeen": 1650380877786,
+    "lastSeen": 1650383515984
+  },
+  "deva-narasimhan@lichess": {
+    "id": "deva-narasimhan",
+    "provider": "lichess",
+    "username": "Deva-Narasimhan",
+    "firstSeen": 1650381869801,
+    "lastSeen": 1650383374087
+  },
+  "catty_chess_bot@lichess": {
+    "id": "catty_chess_bot",
+    "provider": "lichess",
+    "username": "Catty_Chess_BOT",
+    "firstSeen": 1650381918518,
+    "lastSeen": 1650383314652
+  },
+  "isolatedpawnse@lichess": {
+    "id": "isolatedpawnse",
+    "provider": "lichess",
+    "username": "IsolatedpawnSe",
+    "firstSeen": 1650382655282,
+    "lastSeen": 1650383528133
+  },
+  "chessofqueen@lichess": {
+    "id": "chessofqueen",
+    "provider": "lichess",
+    "username": "CHESSOFQUEEN",
+    "firstSeen": 1650383512497,
+    "lastSeen": 1650383647140
+  },
+  "tamilandha_team-bot@lichess": {
+    "id": "tamilandha_team-bot",
+    "provider": "lichess",
+    "username": "TAMILANDHA_TEAM-BOT",
+    "firstSeen": 1650383701321,
+    "lastSeen": 1650383701321
+  }
+}
