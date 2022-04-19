@@ -1,0 +1,30 @@
+{
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1650378221676,
+    "lastSeen": 1650381656038
+  },
+  "hookedonbots@lichess": {
+    "id": "hookedonbots",
+    "provider": "lichess",
+    "username": "hookedonbots",
+    "firstSeen": 1650380877786,
+    "lastSeen": 1650381539436
+  },
+  "deva-narasimhan@lichess": {
+    "id": "deva-narasimhan",
+    "provider": "lichess",
+    "username": "Deva-Narasimhan",
+    "firstSeen": 1650381869801,
+    "lastSeen": 1650381914078
+  },
+  "catty_chess_bot@lichess": {
+    "id": "catty_chess_bot",
+    "provider": "lichess",
+    "username": "Catty_Chess_BOT",
+    "firstSeen": 1650381918518,
+    "lastSeen": 1650381918518
+  }
+}
