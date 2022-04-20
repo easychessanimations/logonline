@@ -1,0 +1,23 @@
+{
+  "one_joke@lichess": {
+    "id": "one_joke",
+    "provider": "lichess",
+    "username": "One_Joke",
+    "firstSeen": 1650472801982,
+    "lastSeen": 1650476415667
+  },
+  "sax_man@lichess": {
+    "id": "sax_man",
+    "provider": "lichess",
+    "username": "Sax_Man",
+    "firstSeen": 1650476454054,
+    "lastSeen": 1650476457746
+  },
+  "catty_chess_bot@lichess": {
+    "id": "catty_chess_bot",
+    "provider": "lichess",
+    "username": "Catty_Chess_BOT",
+    "firstSeen": 1650476473548,
+    "lastSeen": 1650476473548
+  }
+}
