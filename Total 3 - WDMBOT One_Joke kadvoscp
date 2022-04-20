@@ -1,0 +1,23 @@
+{
+  "wdmbot@lichess": {
+    "id": "wdmbot",
+    "provider": "lichess",
+    "username": "WDMBOT",
+    "firstSeen": 1650471535687,
+    "lastSeen": 1650473537301
+  },
+  "one_joke@lichess": {
+    "id": "one_joke",
+    "provider": "lichess",
+    "username": "One_Joke",
+    "firstSeen": 1650472801982,
+    "lastSeen": 1650474348370
+  },
+  "kadvoscp@lichess": {
+    "id": "kadvoscp",
+    "provider": "lichess",
+    "username": "kadvoscp",
+    "firstSeen": 1650473933613,
+    "lastSeen": 1650473990960
+  }
+}
