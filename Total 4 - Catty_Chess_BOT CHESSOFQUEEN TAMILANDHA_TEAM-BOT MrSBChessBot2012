@@ -1,0 +1,30 @@
+{
+  "catty_chess_bot@lichess": {
+    "id": "catty_chess_bot",
+    "provider": "lichess",
+    "username": "Catty_Chess_BOT",
+    "firstSeen": 1650546333910,
+    "lastSeen": 1650551299399
+  },
+  "chessofqueen@lichess": {
+    "id": "chessofqueen",
+    "provider": "lichess",
+    "username": "CHESSOFQUEEN",
+    "firstSeen": 1650547274757,
+    "lastSeen": 1650551420024
+  },
+  "tamilandha_team-bot@lichess": {
+    "id": "tamilandha_team-bot",
+    "provider": "lichess",
+    "username": "TAMILANDHA_TEAM-BOT",
+    "firstSeen": 1650551504064,
+    "lastSeen": 1650551508915
+  },
+  "mrsbchessbot2012@lichess": {
+    "id": "mrsbchessbot2012",
+    "provider": "lichess",
+    "username": "MrSBChessBot2012",
+    "firstSeen": 1650551647362,
+    "lastSeen": 1650551647362
+  }
+}
