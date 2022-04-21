@@ -1,0 +1,37 @@
+{
+  "one_joke@lichess": {
+    "id": "one_joke",
+    "provider": "lichess",
+    "username": "One_Joke",
+    "firstSeen": 1650530796950,
+    "lastSeen": 1650545920747
+  },
+  "ecemnuratik@lichess": {
+    "id": "ecemnuratik",
+    "provider": "lichess",
+    "username": "EcemNurAtik",
+    "firstSeen": 1650538712244,
+    "lastSeen": 1650546218397
+  },
+  "mr_botacik@lichess": {
+    "id": "mr_botacik",
+    "provider": "lichess",
+    "username": "mr_botacik",
+    "firstSeen": 1650545296253,
+    "lastSeen": 1650545437680
+  },
+  "vipbot11@lichess": {
+    "id": "vipbot11",
+    "provider": "lichess",
+    "username": "VipBOT11",
+    "firstSeen": 1650546192722,
+    "lastSeen": 1650546295874
+  },
+  "catty_chess_bot@lichess": {
+    "id": "catty_chess_bot",
+    "provider": "lichess",
+    "username": "Catty_Chess_BOT",
+    "firstSeen": 1650546333910,
+    "lastSeen": 1650546333910
+  }
+}
