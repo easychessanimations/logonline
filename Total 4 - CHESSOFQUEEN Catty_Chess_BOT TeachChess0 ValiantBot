@@ -1,0 +1,30 @@
+{
+  "chessofqueen@lichess": {
+    "id": "chessofqueen",
+    "provider": "lichess",
+    "username": "CHESSOFQUEEN",
+    "firstSeen": 1650552347295,
+    "lastSeen": 1650556601965
+  },
+  "catty_chess_bot@lichess": {
+    "id": "catty_chess_bot",
+    "provider": "lichess",
+    "username": "Catty_Chess_BOT",
+    "firstSeen": 1650555762259,
+    "lastSeen": 1650556457499
+  },
+  "teachchess0@lichess": {
+    "id": "teachchess0",
+    "provider": "lichess",
+    "username": "TeachChess0",
+    "firstSeen": 1650556748458,
+    "lastSeen": 1650556796709
+  },
+  "valiantbot@lichess": {
+    "id": "valiantbot",
+    "provider": "lichess",
+    "username": "ValiantBot",
+    "firstSeen": 1650556912178,
+    "lastSeen": 1650556912178
+  }
+}
