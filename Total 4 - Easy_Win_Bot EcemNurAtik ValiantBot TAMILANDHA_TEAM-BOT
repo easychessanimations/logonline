@@ -1,0 +1,30 @@
+{
+  "easy_win_bot@lichess": {
+    "id": "easy_win_bot",
+    "provider": "lichess",
+    "username": "Easy_Win_Bot",
+    "firstSeen": 1650614561875,
+    "lastSeen": 1650631092963
+  },
+  "ecemnuratik@lichess": {
+    "id": "ecemnuratik",
+    "provider": "lichess",
+    "username": "EcemNurAtik",
+    "firstSeen": 1650624205336,
+    "lastSeen": 1650631437759
+  },
+  "valiantbot@lichess": {
+    "id": "valiantbot",
+    "provider": "lichess",
+    "username": "ValiantBot",
+    "firstSeen": 1650629977862,
+    "lastSeen": 1650631481124
+  },
+  "tamilandha_team-bot@lichess": {
+    "id": "tamilandha_team-bot",
+    "provider": "lichess",
+    "username": "TAMILANDHA_TEAM-BOT",
+    "firstSeen": 1650631661836,
+    "lastSeen": 1650631661837
+  }
+}
