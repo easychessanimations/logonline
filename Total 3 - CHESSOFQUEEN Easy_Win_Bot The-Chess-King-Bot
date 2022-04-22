@@ -1,0 +1,23 @@
+{
+  "chessofqueen@lichess": {
+    "id": "chessofqueen",
+    "provider": "lichess",
+    "username": "CHESSOFQUEEN",
+    "firstSeen": 1650631773626,
+    "lastSeen": 1650637352486
+  },
+  "easy_win_bot@lichess": {
+    "id": "easy_win_bot",
+    "provider": "lichess",
+    "username": "Easy_Win_Bot",
+    "firstSeen": 1650636522676,
+    "lastSeen": 1650637148397
+  },
+  "the-chess-king-bot@lichess": {
+    "id": "the-chess-king-bot",
+    "provider": "lichess",
+    "username": "The-Chess-King-Bot",
+    "firstSeen": 1650637520157,
+    "lastSeen": 1650637520157
+  }
+}
