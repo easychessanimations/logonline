@@ -1,0 +1,23 @@
+{
+  "easy_win_bot@lichess": {
+    "id": "easy_win_bot",
+    "provider": "lichess",
+    "username": "Easy_Win_Bot",
+    "firstSeen": 1650614561875,
+    "lastSeen": 1650629774349
+  },
+  "ecemnuratik@lichess": {
+    "id": "ecemnuratik",
+    "provider": "lichess",
+    "username": "EcemNurAtik",
+    "firstSeen": 1650624205336,
+    "lastSeen": 1650629502022
+  },
+  "valiantbot@lichess": {
+    "id": "valiantbot",
+    "provider": "lichess",
+    "username": "ValiantBot",
+    "firstSeen": 1650629977862,
+    "lastSeen": 1650629977862
+  }
+}
