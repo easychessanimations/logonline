@@ -1,0 +1,23 @@
+{
+  "tczero@lichess": {
+    "id": "tczero",
+    "provider": "lichess",
+    "username": "TCZero",
+    "firstSeen": 1650611828513,
+    "lastSeen": 1650613332955
+  },
+  "profesional_engine@lichess": {
+    "id": "profesional_engine",
+    "provider": "lichess",
+    "username": "Profesional_Engine",
+    "firstSeen": 1650612732592,
+    "lastSeen": 1650613089479
+  },
+  "easy_win_bot@lichess": {
+    "id": "easy_win_bot",
+    "provider": "lichess",
+    "username": "Easy_Win_Bot",
+    "firstSeen": 1650612847679,
+    "lastSeen": 1650613173275
+  }
+}
