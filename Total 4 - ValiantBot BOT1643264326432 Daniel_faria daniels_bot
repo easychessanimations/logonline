@@ -1,0 +1,30 @@
+{
+  "valiantbot@lichess": {
+    "id": "valiantbot",
+    "provider": "lichess",
+    "username": "ValiantBot",
+    "firstSeen": 1650709352369,
+    "lastSeen": 1650732093487
+  },
+  "bot1643264326432@lichess": {
+    "id": "bot1643264326432",
+    "provider": "lichess",
+    "username": "BOT1643264326432",
+    "firstSeen": 1650718583380,
+    "lastSeen": 1650731451791
+  },
+  "daniel_faria@lichess": {
+    "id": "daniel_faria",
+    "provider": "lichess",
+    "username": "Daniel_faria",
+    "firstSeen": 1650731871954,
+    "lastSeen": 1650731897647
+  },
+  "daniels_bot@lichess": {
+    "id": "daniels_bot",
+    "provider": "lichess",
+    "username": "daniels_bot",
+    "firstSeen": 1650731898430,
+    "lastSeen": 1650732086931
+  }
+}
