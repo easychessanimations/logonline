@@ -1,0 +1,16 @@
+{
+  "valiantbot@lichess": {
+    "id": "valiantbot",
+    "provider": "lichess",
+    "username": "ValiantBot",
+    "firstSeen": 1650709352369,
+    "lastSeen": 1650709356132
+  },
+  "khurai_chess_robot@lichess": {
+    "id": "khurai_chess_robot",
+    "provider": "lichess",
+    "username": "KHURAI_CHESS_ROBOT",
+    "firstSeen": 1650709425636,
+    "lastSeen": 1650709425636
+  }
+}
