@@ -1,0 +1,30 @@
+{
+  "valiantbot@lichess": {
+    "id": "valiantbot",
+    "provider": "lichess",
+    "username": "ValiantBot",
+    "firstSeen": 1650709352369,
+    "lastSeen": 1650732813547
+  },
+  "bot1643264326432@lichess": {
+    "id": "bot1643264326432",
+    "provider": "lichess",
+    "username": "BOT1643264326432",
+    "firstSeen": 1650718583380,
+    "lastSeen": 1650732771811
+  },
+  "daniels_bot@lichess": {
+    "id": "daniels_bot",
+    "provider": "lichess",
+    "username": "daniels_bot",
+    "firstSeen": 1650731898430,
+    "lastSeen": 1650732768619
+  },
+  "catty_chess_bot@lichess": {
+    "id": "catty_chess_bot",
+    "provider": "lichess",
+    "username": "Catty_Chess_BOT",
+    "firstSeen": 1650732102408,
+    "lastSeen": 1650732774879
+  }
+}
