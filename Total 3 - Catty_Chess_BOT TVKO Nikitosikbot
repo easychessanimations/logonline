@@ -1,0 +1,23 @@
+{
+  "catty_chess_bot@lichess": {
+    "id": "catty_chess_bot",
+    "provider": "lichess",
+    "username": "Catty_Chess_BOT",
+    "firstSeen": 1650805332928,
+    "lastSeen": 1650806127900
+  },
+  "tvko@lichess": {
+    "id": "tvko",
+    "provider": "lichess",
+    "username": "TVKO",
+    "firstSeen": 1650805636180,
+    "lastSeen": 1650806291169
+  },
+  "nikitosikbot@lichess": {
+    "id": "nikitosikbot",
+    "provider": "lichess",
+    "username": "Nikitosikbot",
+    "firstSeen": 1650806650798,
+    "lastSeen": 1650806801825
+  }
+}
