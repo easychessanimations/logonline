@@ -1,0 +1,30 @@
+{
+  "chen_bot@lichess": {
+    "id": "chen_bot",
+    "provider": "lichess",
+    "username": "Chen_BOT",
+    "firstSeen": 1650790895338,
+    "lastSeen": 1650792210531
+  },
+  "mistybot@lichess": {
+    "id": "mistybot",
+    "provider": "lichess",
+    "username": "mistybot",
+    "firstSeen": 1650792449959,
+    "lastSeen": 1650792662047
+  },
+  "gleb_koinov@lichess": {
+    "id": "gleb_koinov",
+    "provider": "lichess",
+    "username": "Gleb_Koinov",
+    "firstSeen": 1650792747903,
+    "lastSeen": 1650792808079
+  },
+  "sloppycalc@lichess": {
+    "id": "sloppycalc",
+    "provider": "lichess",
+    "username": "sloppycalc",
+    "firstSeen": 1650792808729,
+    "lastSeen": 1650792808729
+  }
+}
