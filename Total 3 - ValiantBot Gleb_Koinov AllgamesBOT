@@ -1,0 +1,23 @@
+{
+  "valiantbot@lichess": {
+    "id": "valiantbot",
+    "provider": "lichess",
+    "username": "ValiantBot",
+    "firstSeen": 1650784533455,
+    "lastSeen": 1650786521031
+  },
+  "gleb_koinov@lichess": {
+    "id": "gleb_koinov",
+    "provider": "lichess",
+    "username": "Gleb_Koinov",
+    "firstSeen": 1650787105793,
+    "lastSeen": 1650787162602
+  },
+  "allgamesbot@lichess": {
+    "id": "allgamesbot",
+    "provider": "lichess",
+    "username": "AllgamesBOT",
+    "firstSeen": 1650787168691,
+    "lastSeen": 1650787168691
+  }
+}
