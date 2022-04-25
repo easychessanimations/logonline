@@ -1,0 +1,23 @@
+{
+  "proboter@lichess": {
+    "id": "proboter",
+    "provider": "lichess",
+    "username": "proboter",
+    "firstSeen": 1650910332740,
+    "lastSeen": 1650912821941
+  },
+  "wdmbot@lichess": {
+    "id": "wdmbot",
+    "provider": "lichess",
+    "username": "WDMBOT",
+    "firstSeen": 1650911364363,
+    "lastSeen": 1650912870403
+  },
+  "catty_chess_bot@lichess": {
+    "id": "catty_chess_bot",
+    "provider": "lichess",
+    "username": "Catty_Chess_BOT",
+    "firstSeen": 1650913221983,
+    "lastSeen": 1650913221983
+  }
+}
