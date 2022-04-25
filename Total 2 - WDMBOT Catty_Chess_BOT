@@ -1,0 +1,16 @@
+{
+  "wdmbot@lichess": {
+    "id": "wdmbot",
+    "provider": "lichess",
+    "username": "WDMBOT",
+    "firstSeen": 1650900591973,
+    "lastSeen": 1650908783185
+  },
+  "catty_chess_bot@lichess": {
+    "id": "catty_chess_bot",
+    "provider": "lichess",
+    "username": "Catty_Chess_BOT",
+    "firstSeen": 1650908979404,
+    "lastSeen": 1650908979404
+  }
+}
