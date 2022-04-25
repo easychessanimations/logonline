@@ -1,0 +1,30 @@
+{
+  "ecemnuratik@lichess": {
+    "id": "ecemnuratik",
+    "provider": "lichess",
+    "username": "EcemNurAtik",
+    "firstSeen": 1650873759831,
+    "lastSeen": 1650885769625
+  },
+  "valiantbot@lichess": {
+    "id": "valiantbot",
+    "provider": "lichess",
+    "username": "ValiantBot",
+    "firstSeen": 1650881107674,
+    "lastSeen": 1650885088687
+  },
+  "gleb_koinov@lichess": {
+    "id": "gleb_koinov",
+    "provider": "lichess",
+    "username": "Gleb_Koinov",
+    "firstSeen": 1650882428174,
+    "lastSeen": 1650885988341
+  },
+  "botvic@lichess": {
+    "id": "botvic",
+    "provider": "lichess",
+    "username": "BotVic",
+    "firstSeen": 1650883622099,
+    "lastSeen": 1650885646957
+  }
+}
