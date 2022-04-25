@@ -1,0 +1,23 @@
+{
+  "babaymax@lichess": {
+    "id": "babaymax",
+    "provider": "lichess",
+    "username": "BABAYMAX",
+    "firstSeen": 1650867138766,
+    "lastSeen": 1650868365167
+  },
+  "gleb_koinov@lichess": {
+    "id": "gleb_koinov",
+    "provider": "lichess",
+    "username": "Gleb_Koinov",
+    "firstSeen": 1650867652043,
+    "lastSeen": 1650868885656
+  },
+  "catty_chess_bot@lichess": {
+    "id": "catty_chess_bot",
+    "provider": "lichess",
+    "username": "Catty_Chess_BOT",
+    "firstSeen": 1650868898487,
+    "lastSeen": 1650868898487
+  }
+}
