@@ -1,0 +1,23 @@
+{
+  "botvic@lichess": {
+    "id": "botvic",
+    "provider": "lichess",
+    "username": "BotVic",
+    "firstSeen": 1651383431489,
+    "lastSeen": 1651385485293
+  },
+  "hellobot55@lichess": {
+    "id": "hellobot55",
+    "provider": "lichess",
+    "username": "HelloBot55",
+    "firstSeen": 1651384180452,
+    "lastSeen": 1651385406423
+  },
+  "botclassicbot@lichess": {
+    "id": "botclassicbot",
+    "provider": "lichess",
+    "username": "BOTClassicBOT",
+    "firstSeen": 1651385595970,
+    "lastSeen": 1651385595971
+  }
+}
