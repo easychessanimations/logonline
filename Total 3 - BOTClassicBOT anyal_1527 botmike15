@@ -1,0 +1,23 @@
+{
+  "botclassicbot@lichess": {
+    "id": "botclassicbot",
+    "provider": "lichess",
+    "username": "BOTClassicBOT",
+    "firstSeen": 1651392826963,
+    "lastSeen": 1651404129170
+  },
+  "anyal_1527@lichess": {
+    "id": "anyal_1527",
+    "provider": "lichess",
+    "username": "anyal_1527",
+    "firstSeen": 1651403673845,
+    "lastSeen": 1651403987497
+  },
+  "botmike15@lichess": {
+    "id": "botmike15",
+    "provider": "lichess",
+    "username": "botmike15",
+    "firstSeen": 1651404399759,
+    "lastSeen": 1651404399759
+  }
+}
