@@ -1,0 +1,23 @@
+{
+  "botclassicbot@lichess": {
+    "id": "botclassicbot",
+    "provider": "lichess",
+    "username": "BOTClassicBOT",
+    "firstSeen": 1651411512913,
+    "lastSeen": 1651412225538
+  },
+  "ttbotrush@lichess": {
+    "id": "ttbotrush",
+    "provider": "lichess",
+    "username": "TTBotRush",
+    "firstSeen": 1651412335667,
+    "lastSeen": 1651412430910
+  },
+  "magnata_r@lichess": {
+    "id": "magnata_r",
+    "provider": "lichess",
+    "username": "Magnata_R",
+    "firstSeen": 1651412861998,
+    "lastSeen": 1651412861998
+  }
+}
