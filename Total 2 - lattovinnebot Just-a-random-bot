@@ -1,0 +1,16 @@
+{
+  "lattovinnebot@lichess": {
+    "id": "lattovinnebot",
+    "provider": "lichess",
+    "username": "lattovinnebot",
+    "firstSeen": 1651521407585,
+    "lastSeen": 1651526027834
+  },
+  "just-a-random-bot@lichess": {
+    "id": "just-a-random-bot",
+    "provider": "lichess",
+    "username": "Just-a-random-bot",
+    "firstSeen": 1651526030875,
+    "lastSeen": 1651526030875
+  }
+}
