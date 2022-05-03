@@ -1,0 +1,23 @@
+{
+  "hellobot55@lichess": {
+    "id": "hellobot55",
+    "provider": "lichess",
+    "username": "HelloBot55",
+    "firstSeen": 1651556941021,
+    "lastSeen": 1651557713489
+  },
+  "profesional_engine@lichess": {
+    "id": "profesional_engine",
+    "provider": "lichess",
+    "username": "Profesional_Engine",
+    "firstSeen": 1651557462306,
+    "lastSeen": 1651558138440
+  },
+  "my_real_username@lichess": {
+    "id": "my_real_username",
+    "provider": "lichess",
+    "username": "MY_REAL_USERNAME",
+    "firstSeen": 1651558436479,
+    "lastSeen": 1651558436479
+  }
+}
