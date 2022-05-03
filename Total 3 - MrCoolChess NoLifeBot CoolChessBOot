@@ -1,0 +1,23 @@
+{
+  "mrcoolchess@lichess": {
+    "id": "mrcoolchess",
+    "provider": "lichess",
+    "username": "MrCoolChess",
+    "firstSeen": 1651574467629,
+    "lastSeen": 1651575712093
+  },
+  "nolifebot@lichess": {
+    "id": "nolifebot",
+    "provider": "lichess",
+    "username": "NoLifeBot",
+    "firstSeen": 1651574498257,
+    "lastSeen": 1651575828914
+  },
+  "coolchessboot@lichess": {
+    "id": "coolchessboot",
+    "provider": "lichess",
+    "username": "CoolChessBOot",
+    "firstSeen": 1651575983383,
+    "lastSeen": 1651575983383
+  }
+}
