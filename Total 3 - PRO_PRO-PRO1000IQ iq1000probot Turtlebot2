@@ -1,0 +1,23 @@
+{
+  "pro_pro-pro1000iq@lichess": {
+    "id": "pro_pro-pro1000iq",
+    "provider": "lichess",
+    "username": "PRO_PRO-PRO1000IQ",
+    "firstSeen": 1651658784151,
+    "lastSeen": 1651659502399
+  },
+  "iq1000probot@lichess": {
+    "id": "iq1000probot",
+    "provider": "lichess",
+    "username": "iq1000probot",
+    "firstSeen": 1651659503449,
+    "lastSeen": 1651659514316
+  },
+  "turtlebot2@lichess": {
+    "id": "turtlebot2",
+    "provider": "lichess",
+    "username": "Turtlebot2",
+    "firstSeen": 1651659678158,
+    "lastSeen": 1651659686730
+  }
+}
