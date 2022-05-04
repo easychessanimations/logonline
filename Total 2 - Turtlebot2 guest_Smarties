@@ -1,0 +1,16 @@
+{
+  "turtlebot2@lichess": {
+    "id": "turtlebot2",
+    "provider": "lichess",
+    "username": "Turtlebot2",
+    "firstSeen": 1651645912962,
+    "lastSeen": 1651647486097
+  },
+  "guest_smarties@lichess": {
+    "id": "guest_smarties",
+    "provider": "lichess",
+    "username": "guest_Smarties",
+    "firstSeen": 1651647424524,
+    "lastSeen": 1651647451839
+  }
+}
