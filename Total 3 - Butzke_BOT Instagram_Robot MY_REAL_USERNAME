@@ -1,0 +1,23 @@
+{
+  "butzke_bot@lichess": {
+    "id": "butzke_bot",
+    "provider": "lichess",
+    "username": "Butzke_BOT",
+    "firstSeen": 1651754017881,
+    "lastSeen": 1651754796582
+  },
+  "instagram_robot@lichess": {
+    "id": "instagram_robot",
+    "provider": "lichess",
+    "username": "Instagram_Robot",
+    "firstSeen": 1651755233904,
+    "lastSeen": 1651755282697
+  },
+  "my_real_username@lichess": {
+    "id": "my_real_username",
+    "provider": "lichess",
+    "username": "MY_REAL_USERNAME",
+    "firstSeen": 1651755307896,
+    "lastSeen": 1651755307897
+  }
+}
