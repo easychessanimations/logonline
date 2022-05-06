@@ -1,0 +1,23 @@
+{
+  "efechessbot@lichess": {
+    "id": "efechessbot",
+    "provider": "lichess",
+    "username": "EfechessBot",
+    "firstSeen": 1651862016882,
+    "lastSeen": 1651862274185
+  },
+  "botmike15@lichess": {
+    "id": "botmike15",
+    "provider": "lichess",
+    "username": "botmike15",
+    "firstSeen": 1651862017258,
+    "lastSeen": 1651862017258
+  },
+  "catty_chess_bot@lichess": {
+    "id": "catty_chess_bot",
+    "provider": "lichess",
+    "username": "Catty_Chess_BOT",
+    "firstSeen": 1651862343313,
+    "lastSeen": 1651862343313
+  }
+}
