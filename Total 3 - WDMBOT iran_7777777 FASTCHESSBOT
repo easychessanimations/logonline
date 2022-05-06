@@ -1,0 +1,23 @@
+{
+  "wdmbot@lichess": {
+    "id": "wdmbot",
+    "provider": "lichess",
+    "username": "WDMBOT",
+    "firstSeen": 1651851341604,
+    "lastSeen": 1651853320786
+  },
+  "iran_7777777@lichess": {
+    "id": "iran_7777777",
+    "provider": "lichess",
+    "username": "iran_7777777",
+    "firstSeen": 1651853904804,
+    "lastSeen": 1651853906904
+  },
+  "fastchessbot@lichess": {
+    "id": "fastchessbot",
+    "provider": "lichess",
+    "username": "FASTCHESSBOT",
+    "firstSeen": 1651853907038,
+    "lastSeen": 1651853907038
+  }
+}
