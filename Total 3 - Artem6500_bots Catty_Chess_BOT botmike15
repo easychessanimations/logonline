@@ -1,0 +1,23 @@
+{
+  "artem6500_bots@lichess": {
+    "id": "artem6500_bots",
+    "provider": "lichess",
+    "username": "Artem6500_bots",
+    "firstSeen": 1652016471935,
+    "lastSeen": 1652020104745
+  },
+  "catty_chess_bot@lichess": {
+    "id": "catty_chess_bot",
+    "provider": "lichess",
+    "username": "Catty_Chess_BOT",
+    "firstSeen": 1652019439998,
+    "lastSeen": 1652020257588
+  },
+  "botmike15@lichess": {
+    "id": "botmike15",
+    "provider": "lichess",
+    "username": "botmike15",
+    "firstSeen": 1652020295670,
+    "lastSeen": 1652020295670
+  }
+}
