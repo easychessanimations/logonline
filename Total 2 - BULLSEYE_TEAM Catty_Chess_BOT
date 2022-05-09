@@ -1,0 +1,16 @@
+{
+  "bullseye_team@lichess": {
+    "id": "bullseye_team",
+    "provider": "lichess",
+    "username": "BULLSEYE_TEAM",
+    "firstSeen": 1652113685661,
+    "lastSeen": 1652113766387
+  },
+  "catty_chess_bot@lichess": {
+    "id": "catty_chess_bot",
+    "provider": "lichess",
+    "username": "Catty_Chess_BOT",
+    "firstSeen": 1652113841391,
+    "lastSeen": 1652114119759
+  }
+}
