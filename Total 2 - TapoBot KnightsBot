@@ -1,0 +1,16 @@
+{
+  "tapobot@lichess": {
+    "id": "tapobot",
+    "provider": "lichess",
+    "username": "TapoBot",
+    "firstSeen": 1653319840943,
+    "lastSeen": 1653323565398
+  },
+  "knightsbot@lichess": {
+    "id": "knightsbot",
+    "provider": "lichess",
+    "username": "KnightsBot",
+    "firstSeen": 1653322862228,
+    "lastSeen": 1653323750279
+  }
+}
