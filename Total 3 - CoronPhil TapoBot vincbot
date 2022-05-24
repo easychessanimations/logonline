@@ -1,0 +1,23 @@
+{
+  "coronphil@lichess": {
+    "id": "coronphil",
+    "provider": "lichess",
+    "username": "CoronPhil",
+    "firstSeen": 1653400824285,
+    "lastSeen": 1653404836587
+  },
+  "tapobot@lichess": {
+    "id": "tapobot",
+    "provider": "lichess",
+    "username": "TapoBot",
+    "firstSeen": 1653404181733,
+    "lastSeen": 1653404726644
+  },
+  "vincbot@lichess": {
+    "id": "vincbot",
+    "provider": "lichess",
+    "username": "vincbot",
+    "firstSeen": 1653404856263,
+    "lastSeen": 1653404856263
+  }
+}
