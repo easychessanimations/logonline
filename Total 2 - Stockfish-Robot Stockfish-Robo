@@ -1,0 +1,16 @@
+{
+  "stockfish-robot@lichess": {
+    "id": "stockfish-robot",
+    "provider": "lichess",
+    "username": "Stockfish-Robot",
+    "firstSeen": 1653882717966,
+    "lastSeen": 1653884296389
+  },
+  "stockfish-robo@lichess": {
+    "id": "stockfish-robo",
+    "provider": "lichess",
+    "username": "Stockfish-Robo",
+    "firstSeen": 1653884643712,
+    "lastSeen": 1653884643712
+  }
+}
