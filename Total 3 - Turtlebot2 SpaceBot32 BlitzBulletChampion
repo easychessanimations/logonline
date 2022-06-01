@@ -1,0 +1,23 @@
+{
+  "turtlebot2@lichess": {
+    "id": "turtlebot2",
+    "provider": "lichess",
+    "username": "Turtlebot2",
+    "firstSeen": 1654082860606,
+    "lastSeen": 1654083660836
+  },
+  "spacebot32@lichess": {
+    "id": "spacebot32",
+    "provider": "lichess",
+    "username": "SpaceBot32",
+    "firstSeen": 1654083948568,
+    "lastSeen": 1654083952094
+  },
+  "blitzbulletchampion@lichess": {
+    "id": "blitzbulletchampion",
+    "provider": "lichess",
+    "username": "BlitzBulletChampion",
+    "firstSeen": 1654084227825,
+    "lastSeen": 1654084227825
+  }
+}
