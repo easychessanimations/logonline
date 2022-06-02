@@ -1,0 +1,16 @@
+{
+  "turtlebot2@lichess": {
+    "id": "turtlebot2",
+    "provider": "lichess",
+    "username": "Turtlebot2",
+    "firstSeen": 1654168237658,
+    "lastSeen": 1654168935200
+  },
+  "trafficlampbot@lichess": {
+    "id": "trafficlampbot",
+    "provider": "lichess",
+    "username": "TrafficlampBot",
+    "firstSeen": 1654169594222,
+    "lastSeen": 1654169594222
+  }
+}
