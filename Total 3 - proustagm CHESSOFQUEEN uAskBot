@@ -1,0 +1,23 @@
+{
+  "proustagm@lichess": {
+    "id": "proustagm",
+    "provider": "lichess",
+    "username": "proustagm",
+    "firstSeen": 1654268878178,
+    "lastSeen": 1654272276492
+  },
+  "chessofqueen@lichess": {
+    "id": "chessofqueen",
+    "provider": "lichess",
+    "username": "CHESSOFQUEEN",
+    "firstSeen": 1654269085175,
+    "lastSeen": 1654271782203
+  },
+  "uaskbot@lichess": {
+    "id": "uaskbot",
+    "provider": "lichess",
+    "username": "uAskBot",
+    "firstSeen": 1654272328777,
+    "lastSeen": 1654272328777
+  }
+}
