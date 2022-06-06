@@ -1,0 +1,16 @@
+{
+  "elite_bot@lichess": {
+    "id": "elite_bot",
+    "provider": "lichess",
+    "username": "Elite_BOT",
+    "firstSeen": 1654501930229,
+    "lastSeen": 1654518361898
+  },
+  "chess_shriyan-bot@lichess": {
+    "id": "chess_shriyan-bot",
+    "provider": "lichess",
+    "username": "Chess_Shriyan-Bot",
+    "firstSeen": 1654518935061,
+    "lastSeen": 1654518935061
+  }
+}
