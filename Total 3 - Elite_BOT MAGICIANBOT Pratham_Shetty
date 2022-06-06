@@ -1,0 +1,23 @@
+{
+  "elite_bot@lichess": {
+    "id": "elite_bot",
+    "provider": "lichess",
+    "username": "Elite_BOT",
+    "firstSeen": 1654501930229,
+    "lastSeen": 1654506718307
+  },
+  "magicianbot@lichess": {
+    "id": "magicianbot",
+    "provider": "lichess",
+    "username": "MAGICIANBOT",
+    "firstSeen": 1654502150231,
+    "lastSeen": 1654506626572
+  },
+  "pratham_shetty@lichess": {
+    "id": "pratham_shetty",
+    "provider": "lichess",
+    "username": "Pratham_Shetty",
+    "firstSeen": 1654506908049,
+    "lastSeen": 1654506908049
+  }
+}
