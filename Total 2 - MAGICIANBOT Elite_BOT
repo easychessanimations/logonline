@@ -1,0 +1,16 @@
+{
+  "magicianbot@lichess": {
+    "id": "magicianbot",
+    "provider": "lichess",
+    "username": "MAGICIANBOT",
+    "firstSeen": 1654587653698,
+    "lastSeen": 1654587991473
+  },
+  "elite_bot@lichess": {
+    "id": "elite_bot",
+    "provider": "lichess",
+    "username": "Elite_BOT",
+    "firstSeen": 1654588033724,
+    "lastSeen": 1654588033724
+  }
+}
