@@ -1,0 +1,16 @@
+{
+  "chess_variants_bot@lichess": {
+    "id": "chess_variants_bot",
+    "provider": "lichess",
+    "username": "Chess_Variants_Bot",
+    "firstSeen": 1654692214109,
+    "lastSeen": 1654695043929
+  },
+  "officialbot@lichess": {
+    "id": "officialbot",
+    "provider": "lichess",
+    "username": "OfficialBOT",
+    "firstSeen": 1654695156652,
+    "lastSeen": 1654695156652
+  }
+}
