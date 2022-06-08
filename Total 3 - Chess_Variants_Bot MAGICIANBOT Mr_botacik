@@ -1,0 +1,23 @@
+{
+  "chess_variants_bot@lichess": {
+    "id": "chess_variants_bot",
+    "provider": "lichess",
+    "username": "Chess_Variants_Bot",
+    "firstSeen": 1654692214109,
+    "lastSeen": 1654701353929
+  },
+  "magicianbot@lichess": {
+    "id": "magicianbot",
+    "provider": "lichess",
+    "username": "MAGICIANBOT",
+    "firstSeen": 1654699642771,
+    "lastSeen": 1654701354794
+  },
+  "mr_botacik@lichess": {
+    "id": "mr_botacik",
+    "provider": "lichess",
+    "username": "Mr_botacik",
+    "firstSeen": 1654701953979,
+    "lastSeen": 1654701953979
+  }
+}
