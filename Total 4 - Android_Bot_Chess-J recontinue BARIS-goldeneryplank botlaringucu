@@ -1,0 +1,30 @@
+{
+  "android_bot_chess-j@lichess": {
+    "id": "android_bot_chess-j",
+    "provider": "lichess",
+    "username": "Android_Bot_Chess-J",
+    "firstSeen": 1656341438662,
+    "lastSeen": 1656355503899
+  },
+  "recontinue@lichess": {
+    "id": "recontinue",
+    "provider": "lichess",
+    "username": "recontinue",
+    "firstSeen": 1656352569172,
+    "lastSeen": 1656355535100
+  },
+  "baris-goldeneryplank@lichess": {
+    "id": "baris-goldeneryplank",
+    "provider": "lichess",
+    "username": "BARIS-goldeneryplank",
+    "firstSeen": 1656355459105,
+    "lastSeen": 1656356166453
+  },
+  "botlaringucu@lichess": {
+    "id": "botlaringucu",
+    "provider": "lichess",
+    "username": "botlaringucu",
+    "firstSeen": 1656356208451,
+    "lastSeen": 1656356208451
+  }
+}
