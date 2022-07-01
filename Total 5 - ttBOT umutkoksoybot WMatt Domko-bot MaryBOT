@@ -1,0 +1,37 @@
+{
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1656662915922,
+    "lastSeen": 1656692949264
+  },
+  "umutkoksoybot@lichess": {
+    "id": "umutkoksoybot",
+    "provider": "lichess",
+    "username": "umutkoksoybot",
+    "firstSeen": 1656688508271,
+    "lastSeen": 1656693189489
+  },
+  "wmatt@lichess": {
+    "id": "wmatt",
+    "provider": "lichess",
+    "username": "WMatt",
+    "firstSeen": 1656690759677,
+    "lastSeen": 1656692947391
+  },
+  "domko-bot@lichess": {
+    "id": "domko-bot",
+    "provider": "lichess",
+    "username": "Domko-bot",
+    "firstSeen": 1656692981348,
+    "lastSeen": 1656693093754
+  },
+  "marybot@lichess": {
+    "id": "marybot",
+    "provider": "lichess",
+    "username": "MaryBOT",
+    "firstSeen": 1656693271279,
+    "lastSeen": 1656693271279
+  }
+}
