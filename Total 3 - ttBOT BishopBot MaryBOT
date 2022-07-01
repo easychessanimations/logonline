@@ -1,0 +1,23 @@
+{
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1656662915922,
+    "lastSeen": 1656684630968
+  },
+  "bishopbot@lichess": {
+    "id": "bishopbot",
+    "provider": "lichess",
+    "username": "BishopBot",
+    "firstSeen": 1656683358793,
+    "lastSeen": 1656684085049
+  },
+  "marybot@lichess": {
+    "id": "marybot",
+    "provider": "lichess",
+    "username": "MaryBOT",
+    "firstSeen": 1656684642070,
+    "lastSeen": 1656684642070
+  }
+}
