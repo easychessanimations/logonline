@@ -1,0 +1,23 @@
+{
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1656662915922,
+    "lastSeen": 1656691559720
+  },
+  "umutkoksoybot@lichess": {
+    "id": "umutkoksoybot",
+    "provider": "lichess",
+    "username": "umutkoksoybot",
+    "firstSeen": 1656688508271,
+    "lastSeen": 1656691513479
+  },
+  "wmatt@lichess": {
+    "id": "wmatt",
+    "provider": "lichess",
+    "username": "WMatt",
+    "firstSeen": 1656690759677,
+    "lastSeen": 1656691660289
+  }
+}
