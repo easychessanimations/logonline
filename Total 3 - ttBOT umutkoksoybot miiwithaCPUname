@@ -1,0 +1,23 @@
+{
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1656662915922,
+    "lastSeen": 1656690729288
+  },
+  "umutkoksoybot@lichess": {
+    "id": "umutkoksoybot",
+    "provider": "lichess",
+    "username": "umutkoksoybot",
+    "firstSeen": 1656688508271,
+    "lastSeen": 1656690544793
+  },
+  "miiwithacpuname@lichess": {
+    "id": "miiwithacpuname",
+    "provider": "lichess",
+    "username": "miiwithaCPUname",
+    "firstSeen": 1656690741246,
+    "lastSeen": 1656690741246
+  }
+}
