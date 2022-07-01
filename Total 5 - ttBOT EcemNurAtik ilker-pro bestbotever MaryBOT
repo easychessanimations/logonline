@@ -1,0 +1,37 @@
+{
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1656662915922,
+    "lastSeen": 1656674948989
+  },
+  "ecemnuratik@lichess": {
+    "id": "ecemnuratik",
+    "provider": "lichess",
+    "username": "EcemNurAtik",
+    "firstSeen": 1656663337402,
+    "lastSeen": 1656674778978
+  },
+  "ilker-pro@lichess": {
+    "id": "ilker-pro",
+    "provider": "lichess",
+    "username": "ilker-pro",
+    "firstSeen": 1656672626570,
+    "lastSeen": 1656674793333
+  },
+  "bestbotever@lichess": {
+    "id": "bestbotever",
+    "provider": "lichess",
+    "username": "bestbotever",
+    "firstSeen": 1656674001301,
+    "lastSeen": 1656674808386
+  },
+  "marybot@lichess": {
+    "id": "marybot",
+    "provider": "lichess",
+    "username": "MaryBOT",
+    "firstSeen": 1656675090925,
+    "lastSeen": 1656675090925
+  }
+}
