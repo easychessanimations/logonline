@@ -1,0 +1,30 @@
+{
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1656763407171,
+    "lastSeen": 1656780807613
+  },
+  "profesional_engine@lichess": {
+    "id": "profesional_engine",
+    "provider": "lichess",
+    "username": "Profesional_Engine",
+    "firstSeen": 1656779736930,
+    "lastSeen": 1656780766882
+  },
+  "vavanmycat4@lichess": {
+    "id": "vavanmycat4",
+    "provider": "lichess",
+    "username": "vavanmycat4",
+    "firstSeen": 1656780318570,
+    "lastSeen": 1656780813611
+  },
+  "strrazhalkovskyvova@lichess": {
+    "id": "strrazhalkovskyvova",
+    "provider": "lichess",
+    "username": "STrrazhalkovskyVova",
+    "firstSeen": 1656780837619,
+    "lastSeen": 1656780837619
+  }
+}
