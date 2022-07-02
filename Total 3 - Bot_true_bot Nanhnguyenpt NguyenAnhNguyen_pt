@@ -1,0 +1,23 @@
+{
+  "bot_true_bot@lichess": {
+    "id": "bot_true_bot",
+    "provider": "lichess",
+    "username": "Bot_true_bot",
+    "firstSeen": 1656724247373,
+    "lastSeen": 1656732084744
+  },
+  "nanhnguyenpt@lichess": {
+    "id": "nanhnguyenpt",
+    "provider": "lichess",
+    "username": "Nanhnguyenpt",
+    "firstSeen": 1656729555861,
+    "lastSeen": 1656731361606
+  },
+  "nguyenanhnguyen_pt@lichess": {
+    "id": "nguyenanhnguyen_pt",
+    "provider": "lichess",
+    "username": "NguyenAnhNguyen_pt",
+    "firstSeen": 1656731362579,
+    "lastSeen": 1656731877612
+  }
+}
