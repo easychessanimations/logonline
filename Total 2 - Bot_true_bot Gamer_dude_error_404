@@ -1,0 +1,16 @@
+{
+  "bot_true_bot@lichess": {
+    "id": "bot_true_bot",
+    "provider": "lichess",
+    "username": "Bot_true_bot",
+    "firstSeen": 1656724247373,
+    "lastSeen": 1656733939959
+  },
+  "gamer_dude_error_404@lichess": {
+    "id": "gamer_dude_error_404",
+    "provider": "lichess",
+    "username": "Gamer_dude_error_404",
+    "firstSeen": 1656733580286,
+    "lastSeen": 1656733591899
+  }
+}
