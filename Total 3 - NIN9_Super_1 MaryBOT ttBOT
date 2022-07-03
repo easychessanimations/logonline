@@ -1,0 +1,23 @@
+{
+  "nin9_super_1@lichess": {
+    "id": "nin9_super_1",
+    "provider": "lichess",
+    "username": "NIN9_Super_1",
+    "firstSeen": 1656851612140,
+    "lastSeen": 1656852445939
+  },
+  "marybot@lichess": {
+    "id": "marybot",
+    "provider": "lichess",
+    "username": "MaryBOT",
+    "firstSeen": 1656851693572,
+    "lastSeen": 1656852289221
+  },
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1656852451727,
+    "lastSeen": 1656852451727
+  }
+}
