@@ -1,0 +1,23 @@
+{
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1656852451727,
+    "lastSeen": 1656867167243
+  },
+  "elvinbot@lichess": {
+    "id": "elvinbot",
+    "provider": "lichess",
+    "username": "elvinbot",
+    "firstSeen": 1656866874348,
+    "lastSeen": 1656866957603
+  },
+  "d0pz1@lichess": {
+    "id": "d0pz1",
+    "provider": "lichess",
+    "username": "d0pz1",
+    "firstSeen": 1656867309527,
+    "lastSeen": 1656867309527
+  }
+}
