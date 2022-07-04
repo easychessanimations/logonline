@@ -1,0 +1,30 @@
+{
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1656925049789,
+    "lastSeen": 1656934398736
+  },
+  "akim3@lichess": {
+    "id": "akim3",
+    "provider": "lichess",
+    "username": "Akim3",
+    "firstSeen": 1656929445127,
+    "lastSeen": 1656934665437
+  },
+  "elvinbot@lichess": {
+    "id": "elvinbot",
+    "provider": "lichess",
+    "username": "elvinbot",
+    "firstSeen": 1656932079778,
+    "lastSeen": 1656934622446
+  },
+  "axcv123@lichess": {
+    "id": "axcv123",
+    "provider": "lichess",
+    "username": "axcv123",
+    "firstSeen": 1656934707057,
+    "lastSeen": 1656934707057
+  }
+}
