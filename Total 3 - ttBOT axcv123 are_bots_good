@@ -1,0 +1,23 @@
+{
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1656925049789,
+    "lastSeen": 1656943556274
+  },
+  "axcv123@lichess": {
+    "id": "axcv123",
+    "provider": "lichess",
+    "username": "axcv123",
+    "firstSeen": 1656943430609,
+    "lastSeen": 1656943430609
+  },
+  "are_bots_good@lichess": {
+    "id": "are_bots_good",
+    "provider": "lichess",
+    "username": "are_bots_good",
+    "firstSeen": 1656943647349,
+    "lastSeen": 1656943647349
+  }
+}
