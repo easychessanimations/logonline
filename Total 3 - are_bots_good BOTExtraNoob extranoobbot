@@ -1,0 +1,23 @@
+{
+  "are_bots_good@lichess": {
+    "id": "are_bots_good",
+    "provider": "lichess",
+    "username": "are_bots_good",
+    "firstSeen": 1656911151566,
+    "lastSeen": 1656917214127
+  },
+  "botextranoob@lichess": {
+    "id": "botextranoob",
+    "provider": "lichess",
+    "username": "BOTExtraNoob",
+    "firstSeen": 1656915096112,
+    "lastSeen": 1656917447553
+  },
+  "108523385@github": {
+    "id": "108523385",
+    "provider": "github",
+    "username": "extranoobbot",
+    "firstSeen": 1656917448289,
+    "lastSeen": 1656917448289
+  }
+}
