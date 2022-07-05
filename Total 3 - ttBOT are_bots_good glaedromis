@@ -1,0 +1,23 @@
+{
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1657015729060,
+    "lastSeen": 1657021875525
+  },
+  "are_bots_good@lichess": {
+    "id": "are_bots_good",
+    "provider": "lichess",
+    "username": "are_bots_good",
+    "firstSeen": 1657018794714,
+    "lastSeen": 1657022163907
+  },
+  "glaedromis@lichess": {
+    "id": "glaedromis",
+    "provider": "lichess",
+    "username": "glaedromis",
+    "firstSeen": 1657022299339,
+    "lastSeen": 1657022299339
+  }
+}
