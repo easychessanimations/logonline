@@ -1,0 +1,23 @@
+{
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1657038340432,
+    "lastSeen": 1657043055995
+  },
+  "chessbot232456@lichess": {
+    "id": "chessbot232456",
+    "provider": "lichess",
+    "username": "Chessbot232456",
+    "firstSeen": 1657041691352,
+    "lastSeen": 1657043309101
+  },
+  "gambitelephant@lichess": {
+    "id": "gambitelephant",
+    "provider": "lichess",
+    "username": "GambitElephant",
+    "firstSeen": 1657043388345,
+    "lastSeen": 1657043388345
+  }
+}
