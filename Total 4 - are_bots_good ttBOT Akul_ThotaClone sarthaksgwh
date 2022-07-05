@@ -1,0 +1,30 @@
+{
+  "are_bots_good@lichess": {
+    "id": "are_bots_good",
+    "provider": "lichess",
+    "username": "are_bots_good",
+    "firstSeen": 1657001058625,
+    "lastSeen": 1657006023480
+  },
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1657004613782,
+    "lastSeen": 1657006695179
+  },
+  "akul_thotaclone@lichess": {
+    "id": "akul_thotaclone",
+    "provider": "lichess",
+    "username": "Akul_ThotaClone",
+    "firstSeen": 1657006186952,
+    "lastSeen": 1657006322312
+  },
+  "sarthaksgwh@lichess": {
+    "id": "sarthaksgwh",
+    "provider": "lichess",
+    "username": "sarthaksgwh",
+    "firstSeen": 1657006448066,
+    "lastSeen": 1657006631075
+  }
+}
