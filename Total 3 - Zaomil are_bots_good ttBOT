@@ -1,0 +1,23 @@
+{
+  "zaomil@lichess": {
+    "id": "zaomil",
+    "provider": "lichess",
+    "username": "Zaomil",
+    "firstSeen": 1657029900692,
+    "lastSeen": 1657029973685
+  },
+  "are_bots_good@lichess": {
+    "id": "are_bots_good",
+    "provider": "lichess",
+    "username": "are_bots_good",
+    "firstSeen": 1657029901085,
+    "lastSeen": 1657029989116
+  },
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1657030049368,
+    "lastSeen": 1657030049369
+  }
+}
