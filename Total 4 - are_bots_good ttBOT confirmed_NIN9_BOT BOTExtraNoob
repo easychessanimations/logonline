@@ -1,0 +1,30 @@
+{
+  "are_bots_good@lichess": {
+    "id": "are_bots_good",
+    "provider": "lichess",
+    "username": "are_bots_good",
+    "firstSeen": 1657001058625,
+    "lastSeen": 1657008603234
+  },
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1657004613782,
+    "lastSeen": 1657008258685
+  },
+  "confirmed_nin9_bot@lichess": {
+    "id": "confirmed_nin9_bot",
+    "provider": "lichess",
+    "username": "confirmed_NIN9_BOT",
+    "firstSeen": 1657006810444,
+    "lastSeen": 1657008425472
+  },
+  "botextranoob@lichess": {
+    "id": "botextranoob",
+    "provider": "lichess",
+    "username": "BOTExtraNoob",
+    "firstSeen": 1657008850273,
+    "lastSeen": 1657008850273
+  }
+}
