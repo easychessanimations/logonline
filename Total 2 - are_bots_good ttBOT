@@ -1,0 +1,16 @@
+{
+  "are_bots_good@lichess": {
+    "id": "are_bots_good",
+    "provider": "lichess",
+    "username": "are_bots_good",
+    "firstSeen": 1657001058625,
+    "lastSeen": 1657009743616
+  },
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1657004613782,
+    "lastSeen": 1657009695297
+  }
+}
