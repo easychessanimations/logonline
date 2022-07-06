@@ -1,0 +1,23 @@
+{
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1657091179361,
+    "lastSeen": 1657121939882
+  },
+  "xx_umbreom_xx@lichess": {
+    "id": "xx_umbreom_xx",
+    "provider": "lichess",
+    "username": "Xx_umbreom_xX",
+    "firstSeen": 1657118553348,
+    "lastSeen": 1657121821175
+  },
+  "easychessiq@lichess": {
+    "id": "easychessiq",
+    "provider": "lichess",
+    "username": "EasyChessIQ",
+    "firstSeen": 1657122156108,
+    "lastSeen": 1657122156108
+  }
+}
