@@ -1,0 +1,23 @@
+{
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1657091179361,
+    "lastSeen": 1657123856663
+  },
+  "xx_umbreom_xx@lichess": {
+    "id": "xx_umbreom_xx",
+    "provider": "lichess",
+    "username": "Xx_umbreom_xX",
+    "firstSeen": 1657118553348,
+    "lastSeen": 1657123864563
+  },
+  "catty_chess_bot@lichess": {
+    "id": "catty_chess_bot",
+    "provider": "lichess",
+    "username": "Catty_Chess_BOT",
+    "firstSeen": 1657124126354,
+    "lastSeen": 1657124126354
+  }
+}
