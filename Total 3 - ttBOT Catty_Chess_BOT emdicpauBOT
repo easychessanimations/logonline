@@ -1,0 +1,23 @@
+{
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1657176899500,
+    "lastSeen": 1657194573888
+  },
+  "catty_chess_bot@lichess": {
+    "id": "catty_chess_bot",
+    "provider": "lichess",
+    "username": "Catty_Chess_BOT",
+    "firstSeen": 1657193400155,
+    "lastSeen": 1657194740391
+  },
+  "emdicpaubot@lichess": {
+    "id": "emdicpaubot",
+    "provider": "lichess",
+    "username": "emdicpauBOT",
+    "firstSeen": 1657194745795,
+    "lastSeen": 1657194745795
+  }
+}
