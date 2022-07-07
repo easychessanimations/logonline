@@ -1,0 +1,30 @@
+{
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1657176899500,
+    "lastSeen": 1657178401675
+  },
+  "are_bots_good@lichess": {
+    "id": "are_bots_good",
+    "provider": "lichess",
+    "username": "are_bots_good",
+    "firstSeen": 1657177290882,
+    "lastSeen": 1657178681784
+  },
+  "sinirsiz123@lichess": {
+    "id": "sinirsiz123",
+    "provider": "lichess",
+    "username": "SINIRSIZ123",
+    "firstSeen": 1657178011634,
+    "lastSeen": 1657178659475
+  },
+  "skynet_57@lichess": {
+    "id": "skynet_57",
+    "provider": "lichess",
+    "username": "skynet_57",
+    "firstSeen": 1657178777321,
+    "lastSeen": 1657178777321
+  }
+}
