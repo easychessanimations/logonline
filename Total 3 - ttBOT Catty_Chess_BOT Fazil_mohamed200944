@@ -1,0 +1,23 @@
+{
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1657276214215,
+    "lastSeen": 1657287503176
+  },
+  "catty_chess_bot@lichess": {
+    "id": "catty_chess_bot",
+    "provider": "lichess",
+    "username": "Catty_Chess_BOT",
+    "firstSeen": 1657287244828,
+    "lastSeen": 1657287263670
+  },
+  "fazil_mohamed200944@lichess": {
+    "id": "fazil_mohamed200944",
+    "provider": "lichess",
+    "username": "Fazil_mohamed200944",
+    "firstSeen": 1657287510286,
+    "lastSeen": 1657287510286
+  }
+}
