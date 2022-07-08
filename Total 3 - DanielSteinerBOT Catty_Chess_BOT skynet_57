@@ -1,0 +1,23 @@
+{
+  "danielsteinerbot@lichess": {
+    "id": "danielsteinerbot",
+    "provider": "lichess",
+    "username": "DanielSteinerBOT",
+    "firstSeen": 1657291218056,
+    "lastSeen": 1657292434239
+  },
+  "catty_chess_bot@lichess": {
+    "id": "catty_chess_bot",
+    "provider": "lichess",
+    "username": "Catty_Chess_BOT",
+    "firstSeen": 1657292408038,
+    "lastSeen": 1657292424877
+  },
+  "skynet_57@lichess": {
+    "id": "skynet_57",
+    "provider": "lichess",
+    "username": "skynet_57",
+    "firstSeen": 1657292439095,
+    "lastSeen": 1657292439095
+  }
+}
