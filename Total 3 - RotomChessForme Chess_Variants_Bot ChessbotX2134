@@ -1,0 +1,23 @@
+{
+  "rotomchessforme@lichess": {
+    "id": "rotomchessforme",
+    "provider": "lichess",
+    "username": "RotomChessForme",
+    "firstSeen": 1657389071435,
+    "lastSeen": 1657391870370
+  },
+  "chess_variants_bot@lichess": {
+    "id": "chess_variants_bot",
+    "provider": "lichess",
+    "username": "Chess_Variants_Bot",
+    "firstSeen": 1657391260243,
+    "lastSeen": 1657391901481
+  },
+  "chessbotx2134@lichess": {
+    "id": "chessbotx2134",
+    "provider": "lichess",
+    "username": "ChessbotX2134",
+    "firstSeen": 1657391999736,
+    "lastSeen": 1657391999736
+  }
+}
