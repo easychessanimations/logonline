@@ -1,0 +1,23 @@
+{
+  "smitebot2@lichess": {
+    "id": "smitebot2",
+    "provider": "lichess",
+    "username": "smitebot2",
+    "firstSeen": 1657369594534,
+    "lastSeen": 1657370382278
+  },
+  "dundu@lichess": {
+    "id": "dundu",
+    "provider": "lichess",
+    "username": "Dundu",
+    "firstSeen": 1657370627040,
+    "lastSeen": 1657370629813
+  },
+  "turtlebot2@lichess": {
+    "id": "turtlebot2",
+    "provider": "lichess",
+    "username": "Turtlebot2",
+    "firstSeen": 1657370629870,
+    "lastSeen": 1657370629870
+  }
+}
