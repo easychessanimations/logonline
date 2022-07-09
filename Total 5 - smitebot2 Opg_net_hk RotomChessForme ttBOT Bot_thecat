@@ -1,0 +1,37 @@
+{
+  "smitebot2@lichess": {
+    "id": "smitebot2",
+    "provider": "lichess",
+    "username": "smitebot2",
+    "firstSeen": 1657371049939,
+    "lastSeen": 1657373753011
+  },
+  "opg_net_hk@lichess": {
+    "id": "opg_net_hk",
+    "provider": "lichess",
+    "username": "Opg_net_hk",
+    "firstSeen": 1657373781240,
+    "lastSeen": 1657374412259
+  },
+  "rotomchessforme@lichess": {
+    "id": "rotomchessforme",
+    "provider": "lichess",
+    "username": "RotomChessForme",
+    "firstSeen": 1657373888554,
+    "lastSeen": 1657373953249
+  },
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1657374048664,
+    "lastSeen": 1657374058070
+  },
+  "bot_thecat@lichess": {
+    "id": "bot_thecat",
+    "provider": "lichess",
+    "username": "Bot_thecat",
+    "firstSeen": 1657374426487,
+    "lastSeen": 1657374426487
+  }
+}
