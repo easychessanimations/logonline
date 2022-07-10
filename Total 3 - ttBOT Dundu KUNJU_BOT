@@ -1,0 +1,23 @@
+{
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1657445856139,
+    "lastSeen": 1657446299306
+  },
+  "dundu@lichess": {
+    "id": "dundu",
+    "provider": "lichess",
+    "username": "Dundu",
+    "firstSeen": 1657446000450,
+    "lastSeen": 1657446271843
+  },
+  "kunju_bot@lichess": {
+    "id": "kunju_bot",
+    "provider": "lichess",
+    "username": "KUNJU_BOT",
+    "firstSeen": 1657446299341,
+    "lastSeen": 1657446299341
+  }
+}
