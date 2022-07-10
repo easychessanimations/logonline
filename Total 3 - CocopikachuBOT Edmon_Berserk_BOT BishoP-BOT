@@ -1,0 +1,23 @@
+{
+  "cocopikachubot@lichess": {
+    "id": "cocopikachubot",
+    "provider": "lichess",
+    "username": "CocopikachuBOT",
+    "firstSeen": 1657446345317,
+    "lastSeen": 1657451683007
+  },
+  "edmon_berserk_bot@lichess": {
+    "id": "edmon_berserk_bot",
+    "provider": "lichess",
+    "username": "Edmon_Berserk_BOT",
+    "firstSeen": 1657451291367,
+    "lastSeen": 1657452123729
+  },
+  "bishop-bot@lichess": {
+    "id": "bishop-bot",
+    "provider": "lichess",
+    "username": "BishoP-BOT",
+    "firstSeen": 1657451359007,
+    "lastSeen": 1657451826790
+  }
+}
