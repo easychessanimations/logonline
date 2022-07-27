@@ -1,0 +1,16 @@
+{
+  "rbotmaster@lichess": {
+    "id": "rbotmaster",
+    "provider": "lichess",
+    "username": "RBotMaster",
+    "firstSeen": 1658915236553,
+    "lastSeen": 1658915241049
+  },
+  "teslabot@lichess": {
+    "id": "teslabot",
+    "provider": "lichess",
+    "username": "TeslaBOT",
+    "firstSeen": 1658915243954,
+    "lastSeen": 1658915243954
+  }
+}
