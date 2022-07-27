@@ -1,0 +1,30 @@
+{
+  "stockfish100sl@lichess": {
+    "id": "stockfish100sl",
+    "provider": "lichess",
+    "username": "Stockfish100Sl",
+    "firstSeen": 1658916596300,
+    "lastSeen": 1658918427222
+  },
+  "teslabot_x@lichess": {
+    "id": "teslabot_x",
+    "provider": "lichess",
+    "username": "TeslaBOT_X",
+    "firstSeen": 1658916885672,
+    "lastSeen": 1658917874431
+  },
+  "teslabot@lichess": {
+    "id": "teslabot",
+    "provider": "lichess",
+    "username": "TeslaBOT",
+    "firstSeen": 1658917634004,
+    "lastSeen": 1658917874341
+  },
+  "yann-adam@lichess": {
+    "id": "yann-adam",
+    "provider": "lichess",
+    "username": "Yann-Adam",
+    "firstSeen": 1658918483004,
+    "lastSeen": 1658918483004
+  }
+}
