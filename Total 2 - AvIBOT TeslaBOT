@@ -1,0 +1,16 @@
+{
+  "avibot@lichess": {
+    "id": "avibot",
+    "provider": "lichess",
+    "username": "AvIBOT",
+    "firstSeen": 1659073975559,
+    "lastSeen": 1659075478182
+  },
+  "teslabot@lichess": {
+    "id": "teslabot",
+    "provider": "lichess",
+    "username": "TeslaBOT",
+    "firstSeen": 1659075804938,
+    "lastSeen": 1659075804938
+  }
+}
