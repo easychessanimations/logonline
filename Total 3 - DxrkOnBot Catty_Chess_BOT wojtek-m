@@ -1,0 +1,23 @@
+{
+  "dxrkonbot@lichess": {
+    "id": "dxrkonbot",
+    "provider": "lichess",
+    "username": "DxrkOnBot",
+    "firstSeen": 1659335219508,
+    "lastSeen": 1659345451033
+  },
+  "catty_chess_bot@lichess": {
+    "id": "catty_chess_bot",
+    "provider": "lichess",
+    "username": "Catty_Chess_BOT",
+    "firstSeen": 1659340947002,
+    "lastSeen": 1659345451507
+  },
+  "wojtek-m@lichess": {
+    "id": "wojtek-m",
+    "provider": "lichess",
+    "username": "wojtek-m",
+    "firstSeen": 1659345475296,
+    "lastSeen": 1659345475296
+  }
+}
