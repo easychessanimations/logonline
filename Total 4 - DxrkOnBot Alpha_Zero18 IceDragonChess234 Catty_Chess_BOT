@@ -1,0 +1,30 @@
+{
+  "dxrkonbot@lichess": {
+    "id": "dxrkonbot",
+    "provider": "lichess",
+    "username": "DxrkOnBot",
+    "firstSeen": 1659335219508,
+    "lastSeen": 1659353122487
+  },
+  "alpha_zero18@lichess": {
+    "id": "alpha_zero18",
+    "provider": "lichess",
+    "username": "Alpha_Zero18",
+    "firstSeen": 1659348667421,
+    "lastSeen": 1659353030065
+  },
+  "icedragonchess234@lichess": {
+    "id": "icedragonchess234",
+    "provider": "lichess",
+    "username": "IceDragonChess234",
+    "firstSeen": 1659350463243,
+    "lastSeen": 1659353030355
+  },
+  "catty_chess_bot@lichess": {
+    "id": "catty_chess_bot",
+    "provider": "lichess",
+    "username": "Catty_Chess_BOT",
+    "firstSeen": 1659353132499,
+    "lastSeen": 1659353132499
+  }
+}
