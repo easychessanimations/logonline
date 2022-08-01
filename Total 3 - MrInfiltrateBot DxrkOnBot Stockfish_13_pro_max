@@ -1,0 +1,23 @@
+{
+  "mrinfiltratebot@lichess": {
+    "id": "mrinfiltratebot",
+    "provider": "lichess",
+    "username": "MrInfiltrateBot",
+    "firstSeen": 1659360771640,
+    "lastSeen": 1659366779255
+  },
+  "dxrkonbot@lichess": {
+    "id": "dxrkonbot",
+    "provider": "lichess",
+    "username": "DxrkOnBot",
+    "firstSeen": 1659366588652,
+    "lastSeen": 1659366588754
+  },
+  "stockfish_13_pro_max@lichess": {
+    "id": "stockfish_13_pro_max",
+    "provider": "lichess",
+    "username": "Stockfish_13_pro_max",
+    "firstSeen": 1659366959009,
+    "lastSeen": 1659366959009
+  }
+}
