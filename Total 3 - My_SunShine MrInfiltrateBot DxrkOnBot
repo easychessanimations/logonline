@@ -1,0 +1,23 @@
+{
+  "my_sunshine@lichess": {
+    "id": "my_sunshine",
+    "provider": "lichess",
+    "username": "My_SunShine",
+    "firstSeen": 1659355448350,
+    "lastSeen": 1659363675580
+  },
+  "mrinfiltratebot@lichess": {
+    "id": "mrinfiltratebot",
+    "provider": "lichess",
+    "username": "MrInfiltrateBot",
+    "firstSeen": 1659360771640,
+    "lastSeen": 1659363776872
+  },
+  "dxrkonbot@lichess": {
+    "id": "dxrkonbot",
+    "provider": "lichess",
+    "username": "DxrkOnBot",
+    "firstSeen": 1659363456614,
+    "lastSeen": 1659363530587
+  }
+}
