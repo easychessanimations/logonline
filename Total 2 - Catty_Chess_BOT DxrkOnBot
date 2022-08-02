@@ -1,0 +1,16 @@
+{
+  "catty_chess_bot@lichess": {
+    "id": "catty_chess_bot",
+    "provider": "lichess",
+    "username": "Catty_Chess_BOT",
+    "firstSeen": 1659431109199,
+    "lastSeen": 1659431784788
+  },
+  "dxrkonbot@lichess": {
+    "id": "dxrkonbot",
+    "provider": "lichess",
+    "username": "DxrkOnBot",
+    "firstSeen": 1659432052530,
+    "lastSeen": 1659432052530
+  }
+}
