@@ -1,0 +1,23 @@
+{
+  "maiaonly@lichess": {
+    "id": "maiaonly",
+    "provider": "lichess",
+    "username": "maiaonly",
+    "firstSeen": 1659542731912,
+    "lastSeen": 1659547339611
+  },
+  "altoclef@lichess": {
+    "id": "altoclef",
+    "provider": "lichess",
+    "username": "AltoClef",
+    "firstSeen": 1659546352164,
+    "lastSeen": 1659546756444
+  },
+  "dxrkonbot@lichess": {
+    "id": "dxrkonbot",
+    "provider": "lichess",
+    "username": "DxrkOnBot",
+    "firstSeen": 1659547426642,
+    "lastSeen": 1659547426642
+  }
+}
