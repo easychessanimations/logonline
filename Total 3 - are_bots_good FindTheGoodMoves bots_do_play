@@ -1,0 +1,23 @@
+{
+  "are_bots_good@lichess": {
+    "id": "are_bots_good",
+    "provider": "lichess",
+    "username": "are_bots_good",
+    "firstSeen": 1659576894444,
+    "lastSeen": 1659578538194
+  },
+  "findthegoodmoves@lichess": {
+    "id": "findthegoodmoves",
+    "provider": "lichess",
+    "username": "FindTheGoodMoves",
+    "firstSeen": 1659578456212,
+    "lastSeen": 1659578456212
+  },
+  "bots_do_play@lichess": {
+    "id": "bots_do_play",
+    "provider": "lichess",
+    "username": "bots_do_play",
+    "firstSeen": 1659578539242,
+    "lastSeen": 1659578539242
+  }
+}
