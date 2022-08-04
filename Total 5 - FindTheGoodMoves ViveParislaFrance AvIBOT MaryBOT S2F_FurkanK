@@ -1,0 +1,37 @@
+{
+  "findthegoodmoves@lichess": {
+    "id": "findthegoodmoves",
+    "provider": "lichess",
+    "username": "FindTheGoodMoves",
+    "firstSeen": 1659621131220,
+    "lastSeen": 1659629531341
+  },
+  "viveparislafrance@lichess": {
+    "id": "viveparislafrance",
+    "provider": "lichess",
+    "username": "ViveParislaFrance",
+    "firstSeen": 1659621610115,
+    "lastSeen": 1659629532596
+  },
+  "avibot@lichess": {
+    "id": "avibot",
+    "provider": "lichess",
+    "username": "AvIBOT",
+    "firstSeen": 1659626408407,
+    "lastSeen": 1659629580626
+  },
+  "marybot@lichess": {
+    "id": "marybot",
+    "provider": "lichess",
+    "username": "MaryBOT",
+    "firstSeen": 1659629214530,
+    "lastSeen": 1659629222246
+  },
+  "s2f_furkank@lichess": {
+    "id": "s2f_furkank",
+    "provider": "lichess",
+    "username": "S2F_FurkanK",
+    "firstSeen": 1659629746496,
+    "lastSeen": 1659629746496
+  }
+}
