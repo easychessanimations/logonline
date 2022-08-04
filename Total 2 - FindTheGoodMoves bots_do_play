@@ -1,0 +1,16 @@
+{
+  "findthegoodmoves@lichess": {
+    "id": "findthegoodmoves",
+    "provider": "lichess",
+    "username": "FindTheGoodMoves",
+    "firstSeen": 1659578456212,
+    "lastSeen": 1659579377307
+  },
+  "bots_do_play@lichess": {
+    "id": "bots_do_play",
+    "provider": "lichess",
+    "username": "bots_do_play",
+    "firstSeen": 1659578539242,
+    "lastSeen": 1659579572651
+  }
+}
