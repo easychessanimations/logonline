@@ -1,0 +1,23 @@
+{
+  "findthegoodmoves@lichess": {
+    "id": "findthegoodmoves",
+    "provider": "lichess",
+    "username": "FindTheGoodMoves",
+    "firstSeen": 1659578456212,
+    "lastSeen": 1659614842128
+  },
+  "avibot@lichess": {
+    "id": "avibot",
+    "provider": "lichess",
+    "username": "AvIBOT",
+    "firstSeen": 1659614878601,
+    "lastSeen": 1659614894199
+  },
+  "my_sunshine@lichess": {
+    "id": "my_sunshine",
+    "provider": "lichess",
+    "username": "My_SunShine",
+    "firstSeen": 1659615613822,
+    "lastSeen": 1659615613822
+  }
+}
