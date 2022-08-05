@@ -1,0 +1,37 @@
+{
+  "bulletchess134@lichess": {
+    "id": "bulletchess134",
+    "provider": "lichess",
+    "username": "bulletchess134",
+    "firstSeen": 1659698657067,
+    "lastSeen": 1659700161333
+  },
+  "findthegoodmoves@lichess": {
+    "id": "findthegoodmoves",
+    "provider": "lichess",
+    "username": "FindTheGoodMoves",
+    "firstSeen": 1659698700862,
+    "lastSeen": 1659700239312
+  },
+  "keyisstuck@lichess": {
+    "id": "keyisstuck",
+    "provider": "lichess",
+    "username": "KeyIsStuck",
+    "firstSeen": 1659699716158,
+    "lastSeen": 1659699917031
+  },
+  "keybot@lichess": {
+    "id": "keybot",
+    "provider": "lichess",
+    "username": "KeyBot",
+    "firstSeen": 1659699917970,
+    "lastSeen": 1659700007474
+  },
+  "probot_vr_2@lichess": {
+    "id": "probot_vr_2",
+    "provider": "lichess",
+    "username": "PROBOT_VR_2",
+    "firstSeen": 1659700658845,
+    "lastSeen": 1659700658845
+  }
+}
