@@ -1,0 +1,23 @@
+{
+  "susbot@lichess": {
+    "id": "susbot",
+    "provider": "lichess",
+    "username": "susbot",
+    "firstSeen": 1659733612194,
+    "lastSeen": 1659735240089
+  },
+  "dxrkonbot@lichess": {
+    "id": "dxrkonbot",
+    "provider": "lichess",
+    "username": "DxrkOnBot",
+    "firstSeen": 1659735024221,
+    "lastSeen": 1659735410505
+  },
+  "betterthandxrk@lichess": {
+    "id": "betterthandxrk",
+    "provider": "lichess",
+    "username": "betterThanDxrk",
+    "firstSeen": 1659735264185,
+    "lastSeen": 1659735454611
+  }
+}
