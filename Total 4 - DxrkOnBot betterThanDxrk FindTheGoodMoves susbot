@@ -1,0 +1,30 @@
+{
+  "dxrkonbot@lichess": {
+    "id": "dxrkonbot",
+    "provider": "lichess",
+    "username": "DxrkOnBot",
+    "firstSeen": 1659735024221,
+    "lastSeen": 1659736161102
+  },
+  "betterthandxrk@lichess": {
+    "id": "betterthandxrk",
+    "provider": "lichess",
+    "username": "betterThanDxrk",
+    "firstSeen": 1659735264185,
+    "lastSeen": 1659736878039
+  },
+  "findthegoodmoves@lichess": {
+    "id": "findthegoodmoves",
+    "provider": "lichess",
+    "username": "FindTheGoodMoves",
+    "firstSeen": 1659736270090,
+    "lastSeen": 1659736503754
+  },
+  "susbot@lichess": {
+    "id": "susbot",
+    "provider": "lichess",
+    "username": "susbot",
+    "firstSeen": 1659736889736,
+    "lastSeen": 1659736889736
+  }
+}
