@@ -1,0 +1,16 @@
+{
+  "susbot@lichess": {
+    "id": "susbot",
+    "provider": "lichess",
+    "username": "susbot",
+    "firstSeen": 1659740592704,
+    "lastSeen": 1659741601010
+  },
+  "egs1-en001@lichess": {
+    "id": "egs1-en001",
+    "provider": "lichess",
+    "username": "EGS1-EN001",
+    "firstSeen": 1659741613927,
+    "lastSeen": 1659741613927
+  }
+}
