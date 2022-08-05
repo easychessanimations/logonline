@@ -1,0 +1,30 @@
+{
+  "probot_vr_2@lichess": {
+    "id": "probot_vr_2",
+    "provider": "lichess",
+    "username": "PROBOT_VR_2",
+    "firstSeen": 1659705178942,
+    "lastSeen": 1659707587705
+  },
+  "simpafteur@lichess": {
+    "id": "simpafteur",
+    "provider": "lichess",
+    "username": "Simpafteur",
+    "firstSeen": 1659705795381,
+    "lastSeen": 1659707305220
+  },
+  "findthegoodmoves@lichess": {
+    "id": "findthegoodmoves",
+    "provider": "lichess",
+    "username": "FindTheGoodMoves",
+    "firstSeen": 1659707147193,
+    "lastSeen": 1659707147193
+  },
+  "polskagurom3000@lichess": {
+    "id": "polskagurom3000",
+    "provider": "lichess",
+    "username": "POLSKAGUROM3000",
+    "firstSeen": 1659707588476,
+    "lastSeen": 1659707588476
+  }
+}
