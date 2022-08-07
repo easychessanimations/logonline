@@ -1,0 +1,16 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1659891587878,
+    "lastSeen": 1659891745886
+  },
+  "digibot@lichess": {
+    "id": "digibot",
+    "provider": "lichess",
+    "username": "DigiBot",
+    "firstSeen": 1659891747597,
+    "lastSeen": 1659891747597
+  }
+}
