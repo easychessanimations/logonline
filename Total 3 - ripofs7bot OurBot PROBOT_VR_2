@@ -1,0 +1,23 @@
+{
+  "ripofs7bot@lichess": {
+    "id": "ripofs7bot",
+    "provider": "lichess",
+    "username": "ripofs7bot",
+    "firstSeen": 1659873465510,
+    "lastSeen": 1659874853351
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1659873702785,
+    "lastSeen": 1659875334455
+  },
+  "probot_vr_2@lichess": {
+    "id": "probot_vr_2",
+    "provider": "lichess",
+    "username": "PROBOT_VR_2",
+    "firstSeen": 1659875108629,
+    "lastSeen": 1659875229986
+  }
+}
