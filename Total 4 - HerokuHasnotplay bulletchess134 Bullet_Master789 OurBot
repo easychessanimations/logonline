@@ -1,0 +1,30 @@
+{
+  "herokuhasnotplay@lichess": {
+    "id": "herokuhasnotplay",
+    "provider": "lichess",
+    "username": "HerokuHasnotplay",
+    "firstSeen": 1659880299113,
+    "lastSeen": 1659880375284
+  },
+  "bulletchess134@lichess": {
+    "id": "bulletchess134",
+    "provider": "lichess",
+    "username": "bulletchess134",
+    "firstSeen": 1659880335768,
+    "lastSeen": 1659880375856
+  },
+  "bullet_master789@lichess": {
+    "id": "bullet_master789",
+    "provider": "lichess",
+    "username": "Bullet_Master789",
+    "firstSeen": 1659880365634,
+    "lastSeen": 1659880365889
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1659880384879,
+    "lastSeen": 1659880384879
+  }
+}
