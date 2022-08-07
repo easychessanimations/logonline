@@ -1,0 +1,23 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1659873702785,
+    "lastSeen": 1659878964509
+  },
+  "probot_vr_2@lichess": {
+    "id": "probot_vr_2",
+    "provider": "lichess",
+    "username": "PROBOT_VR_2",
+    "firstSeen": 1659875108629,
+    "lastSeen": 1659878936658
+  },
+  "mrinfiltratebot@lichess": {
+    "id": "mrinfiltratebot",
+    "provider": "lichess",
+    "username": "MrInfiltrateBot",
+    "firstSeen": 1659878459991,
+    "lastSeen": 1659878935726
+  }
+}
