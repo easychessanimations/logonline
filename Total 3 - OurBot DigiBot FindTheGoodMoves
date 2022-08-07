@@ -1,0 +1,23 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1659891587878,
+    "lastSeen": 1659892951985
+  },
+  "digibot@lichess": {
+    "id": "digibot",
+    "provider": "lichess",
+    "username": "DigiBot",
+    "firstSeen": 1659891747597,
+    "lastSeen": 1659892094524
+  },
+  "findthegoodmoves@lichess": {
+    "id": "findthegoodmoves",
+    "provider": "lichess",
+    "username": "FindTheGoodMoves",
+    "firstSeen": 1659892954865,
+    "lastSeen": 1659892954865
+  }
+}
