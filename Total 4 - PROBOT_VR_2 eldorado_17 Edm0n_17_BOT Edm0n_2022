@@ -1,0 +1,30 @@
+{
+  "probot_vr_2@lichess": {
+    "id": "probot_vr_2",
+    "provider": "lichess",
+    "username": "PROBOT_VR_2",
+    "firstSeen": 1659843019141,
+    "lastSeen": 1659861938184
+  },
+  "eldorado_17@lichess": {
+    "id": "eldorado_17",
+    "provider": "lichess",
+    "username": "eldorado_17",
+    "firstSeen": 1659861535019,
+    "lastSeen": 1659861541323
+  },
+  "edm0n_17_bot@lichess": {
+    "id": "edm0n_17_bot",
+    "provider": "lichess",
+    "username": "Edm0n_17_BOT",
+    "firstSeen": 1659861551617,
+    "lastSeen": 1659861748695
+  },
+  "edm0n_2022@lichess": {
+    "id": "edm0n_2022",
+    "provider": "lichess",
+    "username": "Edm0n_2022",
+    "firstSeen": 1659861887198,
+    "lastSeen": 1659861965619
+  }
+}
