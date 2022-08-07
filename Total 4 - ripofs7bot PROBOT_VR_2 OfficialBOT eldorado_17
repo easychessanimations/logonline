@@ -1,0 +1,30 @@
+{
+  "ripofs7bot@lichess": {
+    "id": "ripofs7bot",
+    "provider": "lichess",
+    "username": "ripofs7bot",
+    "firstSeen": 1659834534344,
+    "lastSeen": 1659852268906
+  },
+  "probot_vr_2@lichess": {
+    "id": "probot_vr_2",
+    "provider": "lichess",
+    "username": "PROBOT_VR_2",
+    "firstSeen": 1659843019141,
+    "lastSeen": 1659852038855
+  },
+  "officialbot@lichess": {
+    "id": "officialbot",
+    "provider": "lichess",
+    "username": "OfficialBOT",
+    "firstSeen": 1659852343144,
+    "lastSeen": 1659852350846
+  },
+  "eldorado_17@lichess": {
+    "id": "eldorado_17",
+    "provider": "lichess",
+    "username": "eldorado_17",
+    "firstSeen": 1659852372350,
+    "lastSeen": 1659852372350
+  }
+}
