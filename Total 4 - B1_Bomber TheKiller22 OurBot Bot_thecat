@@ -1,0 +1,30 @@
+{
+  "b1_bomber@lichess": {
+    "id": "b1_bomber",
+    "provider": "lichess",
+    "username": "B1_Bomber",
+    "firstSeen": 1659972666072,
+    "lastSeen": 1659972999428
+  },
+  "thekiller22@lichess": {
+    "id": "thekiller22",
+    "provider": "lichess",
+    "username": "TheKiller22",
+    "firstSeen": 1659972673908,
+    "lastSeen": 1659973009376
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1659972799522,
+    "lastSeen": 1659972803113
+  },
+  "bot_thecat@lichess": {
+    "id": "bot_thecat",
+    "provider": "lichess",
+    "username": "Bot_thecat",
+    "firstSeen": 1659973154927,
+    "lastSeen": 1659973154927
+  }
+}
