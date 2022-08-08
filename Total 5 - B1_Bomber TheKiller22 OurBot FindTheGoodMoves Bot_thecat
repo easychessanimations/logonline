@@ -1,0 +1,37 @@
+{
+  "b1_bomber@lichess": {
+    "id": "b1_bomber",
+    "provider": "lichess",
+    "username": "B1_Bomber",
+    "firstSeen": 1659972666072,
+    "lastSeen": 1659977152924
+  },
+  "thekiller22@lichess": {
+    "id": "thekiller22",
+    "provider": "lichess",
+    "username": "TheKiller22",
+    "firstSeen": 1659972673908,
+    "lastSeen": 1659976877120
+  },
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1659972799522,
+    "lastSeen": 1659977067504
+  },
+  "findthegoodmoves@lichess": {
+    "id": "findthegoodmoves",
+    "provider": "lichess",
+    "username": "FindTheGoodMoves",
+    "firstSeen": 1659977109925,
+    "lastSeen": 1659977209864
+  },
+  "bot_thecat@lichess": {
+    "id": "bot_thecat",
+    "provider": "lichess",
+    "username": "Bot_thecat",
+    "firstSeen": 1659977211392,
+    "lastSeen": 1659977211392
+  }
+}
