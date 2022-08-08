@@ -1,0 +1,30 @@
+{
+  "ourbot@lichess": {
+    "id": "ourbot",
+    "provider": "lichess",
+    "username": "OurBot",
+    "firstSeen": 1659972799522,
+    "lastSeen": 1659981790140
+  },
+  "bulletchess134@lichess": {
+    "id": "bulletchess134",
+    "provider": "lichess",
+    "username": "bulletchess134",
+    "firstSeen": 1659977228136,
+    "lastSeen": 1659981247442
+  },
+  "thekiller22@lichess": {
+    "id": "thekiller22",
+    "provider": "lichess",
+    "username": "TheKiller22",
+    "firstSeen": 1659980763809,
+    "lastSeen": 1659981494971
+  },
+  "chessbot232456@lichess": {
+    "id": "chessbot232456",
+    "provider": "lichess",
+    "username": "Chessbot232456",
+    "firstSeen": 1659981828778,
+    "lastSeen": 1659981828778
+  }
+}
