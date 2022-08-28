@@ -1,0 +1,30 @@
+{
+  "k_shi_bot@lichess": {
+    "id": "k_shi_bot",
+    "provider": "lichess",
+    "username": "K_Shi_Bot",
+    "firstSeen": 1661677534245,
+    "lastSeen": 1661687570433
+  },
+  "tfrchessclub@lichess": {
+    "id": "tfrchessclub",
+    "provider": "lichess",
+    "username": "TFRChessClub",
+    "firstSeen": 1661678899773,
+    "lastSeen": 1661687883664
+  },
+  "lionsenuja@lichess": {
+    "id": "lionsenuja",
+    "provider": "lichess",
+    "username": "Lionsenuja",
+    "firstSeen": 1661686608342,
+    "lastSeen": 1661687770246
+  },
+  "blackhorsesl@lichess": {
+    "id": "blackhorsesl",
+    "provider": "lichess",
+    "username": "BlackhorseSL",
+    "firstSeen": 1661687315892,
+    "lastSeen": 1661687397035
+  }
+}
