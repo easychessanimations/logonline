@@ -1,0 +1,23 @@
+{
+  "khurai-chess-robot@lichess": {
+    "id": "khurai-chess-robot",
+    "provider": "lichess",
+    "username": "KHURAI-CHESS-ROBOT",
+    "firstSeen": 1662112826631,
+    "lastSeen": 1662120228079
+  },
+  "ehsan_bot@lichess": {
+    "id": "ehsan_bot",
+    "provider": "lichess",
+    "username": "Ehsan_BOT",
+    "firstSeen": 1662117714337,
+    "lastSeen": 1662119964548
+  },
+  "magnuscarlsenthebot@lichess": {
+    "id": "magnuscarlsenthebot",
+    "provider": "lichess",
+    "username": "MagnusCarlsenTheBOT",
+    "firstSeen": 1662120172596,
+    "lastSeen": 1662120183077
+  }
+}
