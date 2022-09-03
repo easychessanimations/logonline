@@ -1,0 +1,23 @@
+{
+  "peterfedotovbot1@lichess": {
+    "id": "peterfedotovbot1",
+    "provider": "lichess",
+    "username": "PeterFedotovBOT1",
+    "firstSeen": 1662206199434,
+    "lastSeen": 1662216678171
+  },
+  "goblinbot@lichess": {
+    "id": "goblinbot",
+    "provider": "lichess",
+    "username": "GoblinBot",
+    "firstSeen": 1662214208850,
+    "lastSeen": 1662216462526
+  },
+  "khurai-chess-robot@lichess": {
+    "id": "khurai-chess-robot",
+    "provider": "lichess",
+    "username": "KHURAI-CHESS-ROBOT",
+    "firstSeen": 1662214699062,
+    "lastSeen": 1662216426356
+  }
+}
