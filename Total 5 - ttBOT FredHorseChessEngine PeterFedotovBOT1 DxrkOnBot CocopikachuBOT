@@ -1,0 +1,37 @@
+{
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1662383416350,
+    "lastSeen": 1662393457599
+  },
+  "fredhorsechessengine@lichess": {
+    "id": "fredhorsechessengine",
+    "provider": "lichess",
+    "username": "FredHorseChessEngine",
+    "firstSeen": 1662390738529,
+    "lastSeen": 1662393147594
+  },
+  "peterfedotovbot1@lichess": {
+    "id": "peterfedotovbot1",
+    "provider": "lichess",
+    "username": "PeterFedotovBOT1",
+    "firstSeen": 1662391135161,
+    "lastSeen": 1662392840961
+  },
+  "dxrkonbot@lichess": {
+    "id": "dxrkonbot",
+    "provider": "lichess",
+    "username": "DxrkOnBot",
+    "firstSeen": 1662393221908,
+    "lastSeen": 1662393225916
+  },
+  "cocopikachubot@lichess": {
+    "id": "cocopikachubot",
+    "provider": "lichess",
+    "username": "CocopikachuBOT",
+    "firstSeen": 1662393473081,
+    "lastSeen": 1662393473081
+  }
+}
