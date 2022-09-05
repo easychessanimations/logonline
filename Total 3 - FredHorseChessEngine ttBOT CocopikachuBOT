@@ -1,0 +1,23 @@
+{
+  "fredhorsechessengine@lichess": {
+    "id": "fredhorsechessengine",
+    "provider": "lichess",
+    "username": "FredHorseChessEngine",
+    "firstSeen": 1662383014705,
+    "lastSeen": 1662383680326
+  },
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1662383416350,
+    "lastSeen": 1662383495345
+  },
+  "cocopikachubot@lichess": {
+    "id": "cocopikachubot",
+    "provider": "lichess",
+    "username": "CocopikachuBOT",
+    "firstSeen": 1662383731007,
+    "lastSeen": 1662383731007
+  }
+}
