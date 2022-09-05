@@ -1,0 +1,16 @@
+{
+  "fredhorsechessengine@lichess": {
+    "id": "fredhorsechessengine",
+    "provider": "lichess",
+    "username": "FredHorseChessEngine",
+    "firstSeen": 1662344408793,
+    "lastSeen": 1662350426177
+  },
+  "multipvhuman@lichess": {
+    "id": "multipvhuman",
+    "provider": "lichess",
+    "username": "multipvhuman",
+    "firstSeen": 1662350728460,
+    "lastSeen": 1662350728460
+  }
+}
