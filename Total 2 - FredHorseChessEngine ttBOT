@@ -1,0 +1,16 @@
+{
+  "fredhorsechessengine@lichess": {
+    "id": "fredhorsechessengine",
+    "provider": "lichess",
+    "username": "FredHorseChessEngine",
+    "firstSeen": 1662383014705,
+    "lastSeen": 1662383065071
+  },
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1662383416350,
+    "lastSeen": 1662383416351
+  }
+}
