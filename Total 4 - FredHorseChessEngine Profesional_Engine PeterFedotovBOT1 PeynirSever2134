@@ -1,0 +1,30 @@
+{
+  "fredhorsechessengine@lichess": {
+    "id": "fredhorsechessengine",
+    "provider": "lichess",
+    "username": "FredHorseChessEngine",
+    "firstSeen": 1662390738529,
+    "lastSeen": 1662400519348
+  },
+  "profesional_engine@lichess": {
+    "id": "profesional_engine",
+    "provider": "lichess",
+    "username": "Profesional_Engine",
+    "firstSeen": 1662398734843,
+    "lastSeen": 1662400244672
+  },
+  "peterfedotovbot1@lichess": {
+    "id": "peterfedotovbot1",
+    "provider": "lichess",
+    "username": "PeterFedotovBOT1",
+    "firstSeen": 1662400157374,
+    "lastSeen": 1662400163279
+  },
+  "peynirsever2134@lichess": {
+    "id": "peynirsever2134",
+    "provider": "lichess",
+    "username": "PeynirSever2134",
+    "firstSeen": 1662400340112,
+    "lastSeen": 1662400379770
+  }
+}
