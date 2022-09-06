@@ -1,0 +1,23 @@
+{
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1662452537201,
+    "lastSeen": 1662491316065
+  },
+  "nightgoldengod@lichess": {
+    "id": "nightgoldengod",
+    "provider": "lichess",
+    "username": "NightGoldenGod",
+    "firstSeen": 1662456464179,
+    "lastSeen": 1662491386545
+  },
+  "chessbot2156@lichess": {
+    "id": "chessbot2156",
+    "provider": "lichess",
+    "username": "ChessBot2156",
+    "firstSeen": 1662491516145,
+    "lastSeen": 1662491516145
+  }
+}
