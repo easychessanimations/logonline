@@ -1,0 +1,37 @@
+{
+  "simpafteur@lichess": {
+    "id": "simpafteur",
+    "provider": "lichess",
+    "username": "Simpafteur",
+    "firstSeen": 1662450785399,
+    "lastSeen": 1662456817019
+  },
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1662452537201,
+    "lastSeen": 1662457655222
+  },
+  "profesional_engine@lichess": {
+    "id": "profesional_engine",
+    "provider": "lichess",
+    "username": "Profesional_Engine",
+    "firstSeen": 1662455566510,
+    "lastSeen": 1662457658450
+  },
+  "nightgoldengod@lichess": {
+    "id": "nightgoldengod",
+    "provider": "lichess",
+    "username": "NightGoldenGod",
+    "firstSeen": 1662456464179,
+    "lastSeen": 1662457668303
+  },
+  "cocopikachubot@lichess": {
+    "id": "cocopikachubot",
+    "provider": "lichess",
+    "username": "CocopikachuBOT",
+    "firstSeen": 1662457714771,
+    "lastSeen": 1662457714771
+  }
+}
