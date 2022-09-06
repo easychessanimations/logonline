@@ -1,0 +1,37 @@
+{
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1662452537201,
+    "lastSeen": 1662486076519
+  },
+  "nightgoldengod@lichess": {
+    "id": "nightgoldengod",
+    "provider": "lichess",
+    "username": "NightGoldenGod",
+    "firstSeen": 1662456464179,
+    "lastSeen": 1662485815429
+  },
+  "antihackersantibotik@lichess": {
+    "id": "antihackersantibotik",
+    "provider": "lichess",
+    "username": "AntihackersANTIBotik",
+    "firstSeen": 1662485173781,
+    "lastSeen": 1662485390333
+  },
+  "boris_spassky12@lichess": {
+    "id": "boris_spassky12",
+    "provider": "lichess",
+    "username": "Boris_Spassky12",
+    "firstSeen": 1662485179551,
+    "lastSeen": 1662485663077
+  },
+  "w1w2w3w4w5w6w7@lichess": {
+    "id": "w1w2w3w4w5w6w7",
+    "provider": "lichess",
+    "username": "W1W2W3W4W5W6W7",
+    "firstSeen": 1662486285433,
+    "lastSeen": 1662486285433
+  }
+}
