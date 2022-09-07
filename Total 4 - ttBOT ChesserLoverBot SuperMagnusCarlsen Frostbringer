@@ -1,0 +1,30 @@
+{
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1662535793236,
+    "lastSeen": 1662560146815
+  },
+  "chesserloverbot@lichess": {
+    "id": "chesserloverbot",
+    "provider": "lichess",
+    "username": "ChesserLoverBot",
+    "firstSeen": 1662558622934,
+    "lastSeen": 1662560028459
+  },
+  "supermagnuscarlsen@lichess": {
+    "id": "supermagnuscarlsen",
+    "provider": "lichess",
+    "username": "SuperMagnusCarlsen",
+    "firstSeen": 1662560044016,
+    "lastSeen": 1662560153301
+  },
+  "frostbringer@lichess": {
+    "id": "frostbringer",
+    "provider": "lichess",
+    "username": "Frostbringer",
+    "firstSeen": 1662560161943,
+    "lastSeen": 1662560161943
+  }
+}
