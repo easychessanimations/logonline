@@ -1,0 +1,23 @@
+{
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1662623233078,
+    "lastSeen": 1662655358468
+  },
+  "chobotoroboto@lichess": {
+    "id": "chobotoroboto",
+    "provider": "lichess",
+    "username": "ChobotoRoboto",
+    "firstSeen": 1662647922984,
+    "lastSeen": 1662655423572
+  },
+  "profesional_engine@lichess": {
+    "id": "profesional_engine",
+    "provider": "lichess",
+    "username": "Profesional_Engine",
+    "firstSeen": 1662655483164,
+    "lastSeen": 1662655483164
+  }
+}
