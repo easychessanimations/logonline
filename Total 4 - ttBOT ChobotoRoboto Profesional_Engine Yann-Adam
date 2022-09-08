@@ -1,0 +1,30 @@
+{
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1662623233078,
+    "lastSeen": 1662659378176
+  },
+  "chobotoroboto@lichess": {
+    "id": "chobotoroboto",
+    "provider": "lichess",
+    "username": "ChobotoRoboto",
+    "firstSeen": 1662647922984,
+    "lastSeen": 1662659541183
+  },
+  "profesional_engine@lichess": {
+    "id": "profesional_engine",
+    "provider": "lichess",
+    "username": "Profesional_Engine",
+    "firstSeen": 1662657509262,
+    "lastSeen": 1662659536822
+  },
+  "yann-adam@lichess": {
+    "id": "yann-adam",
+    "provider": "lichess",
+    "username": "Yann-Adam",
+    "firstSeen": 1662659652388,
+    "lastSeen": 1662659652389
+  }
+}
