@@ -1,0 +1,30 @@
+{
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1662623233078,
+    "lastSeen": 1662644105001
+  },
+  "simpafteur@lichess": {
+    "id": "simpafteur",
+    "provider": "lichess",
+    "username": "Simpafteur",
+    "firstSeen": 1662643692072,
+    "lastSeen": 1662644058147
+  },
+  "cocopikachubot@lichess": {
+    "id": "cocopikachubot",
+    "provider": "lichess",
+    "username": "CocopikachuBOT",
+    "firstSeen": 1662643786154,
+    "lastSeen": 1662643975174
+  },
+  "squirrelbot@lichess": {
+    "id": "squirrelbot",
+    "provider": "lichess",
+    "username": "SquirrelBot",
+    "firstSeen": 1662644113516,
+    "lastSeen": 1662644113516
+  }
+}
