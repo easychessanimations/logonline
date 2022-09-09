@@ -1,0 +1,30 @@
+{
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1662709905679,
+    "lastSeen": 1662747969348
+  },
+  "fredhorsechessengine@lichess": {
+    "id": "fredhorsechessengine",
+    "provider": "lichess",
+    "username": "FredHorseChessEngine",
+    "firstSeen": 1662747030428,
+    "lastSeen": 1662747791808
+  },
+  "hasanerdem11@lichess": {
+    "id": "hasanerdem11",
+    "provider": "lichess",
+    "username": "hasanerdem11",
+    "firstSeen": 1662747247647,
+    "lastSeen": 1662747363437
+  },
+  "fishm0ley@lichess": {
+    "id": "fishm0ley",
+    "provider": "lichess",
+    "username": "fishm0ley",
+    "firstSeen": 1662747916426,
+    "lastSeen": 1662748133419
+  }
+}
