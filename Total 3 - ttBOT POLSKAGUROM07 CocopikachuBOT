@@ -1,0 +1,23 @@
+{
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1662709905679,
+    "lastSeen": 1662720552370
+  },
+  "polskagurom07@lichess": {
+    "id": "polskagurom07",
+    "provider": "lichess",
+    "username": "POLSKAGUROM07",
+    "firstSeen": 1662718808115,
+    "lastSeen": 1662720479869
+  },
+  "cocopikachubot@lichess": {
+    "id": "cocopikachubot",
+    "provider": "lichess",
+    "username": "CocopikachuBOT",
+    "firstSeen": 1662720845396,
+    "lastSeen": 1662720845396
+  }
+}
