@@ -1,0 +1,23 @@
+{
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1662709905679,
+    "lastSeen": 1662729613887
+  },
+  "teamleaderbot@lichess": {
+    "id": "teamleaderbot",
+    "provider": "lichess",
+    "username": "Teamleaderbot",
+    "firstSeen": 1662723005080,
+    "lastSeen": 1662729314877
+  },
+  "methsith@lichess": {
+    "id": "methsith",
+    "provider": "lichess",
+    "username": "Methsith",
+    "firstSeen": 1662729787410,
+    "lastSeen": 1662729787410
+  }
+}
