@@ -1,0 +1,30 @@
+{
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1662709905679,
+    "lastSeen": 1662729972121
+  },
+  "teamleaderbot@lichess": {
+    "id": "teamleaderbot",
+    "provider": "lichess",
+    "username": "Teamleaderbot",
+    "firstSeen": 1662723005080,
+    "lastSeen": 1662729970634
+  },
+  "methsith@lichess": {
+    "id": "methsith",
+    "provider": "lichess",
+    "username": "Methsith",
+    "firstSeen": 1662729787410,
+    "lastSeen": 1662730007568
+  },
+  "937252993429037116@discord": {
+    "id": "937252993429037116",
+    "provider": "discord",
+    "username": "Methsith",
+    "firstSeen": 1662730008362,
+    "lastSeen": 1662730008362
+  }
+}
