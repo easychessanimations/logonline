@@ -1,0 +1,16 @@
+{
+  "hawlibot@lichess": {
+    "id": "hawlibot",
+    "provider": "lichess",
+    "username": "HawliBot",
+    "firstSeen": 1664122091671,
+    "lastSeen": 1664123999867
+  },
+  "gknightbot@lichess": {
+    "id": "gknightbot",
+    "provider": "lichess",
+    "username": "GKnightBot",
+    "firstSeen": 1664124000225,
+    "lastSeen": 1664124000225
+  }
+}
