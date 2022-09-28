@@ -1,0 +1,16 @@
+{
+  "botscanwin@lichess": {
+    "id": "botscanwin",
+    "provider": "lichess",
+    "username": "BotsCanWin",
+    "firstSeen": 1664382135142,
+    "lastSeen": 1664383819403
+  },
+  "pinkpantherbot@lichess": {
+    "id": "pinkpantherbot",
+    "provider": "lichess",
+    "username": "PinkPantherBot",
+    "firstSeen": 1664383334902,
+    "lastSeen": 1664384190126
+  }
+}
