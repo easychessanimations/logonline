@@ -1,0 +1,16 @@
+{
+  "ttbot@lichess": {
+    "id": "ttbot",
+    "provider": "lichess",
+    "username": "ttBOT",
+    "firstSeen": 1664793641472,
+    "lastSeen": 1664793825029
+  },
+  "trueberryless-bot@lichess": {
+    "id": "trueberryless-bot",
+    "provider": "lichess",
+    "username": "trueberryless-bot",
+    "firstSeen": 1664794379460,
+    "lastSeen": 1664794379460
+  }
+}
