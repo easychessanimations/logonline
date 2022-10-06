@@ -1,0 +1,44 @@
+{
+  "legendg21@lichess": {
+    "id": "legendg21",
+    "provider": "lichess",
+    "username": "LegendG21",
+    "firstSeen": 1665058442344,
+    "lastSeen": 1665063230683
+  },
+  "yusufege1234@lichess": {
+    "id": "yusufege1234",
+    "provider": "lichess",
+    "username": "Yusufege1234",
+    "firstSeen": 1665058574066,
+    "lastSeen": 1665063616689
+  },
+  "carps5@lichess": {
+    "id": "carps5",
+    "provider": "lichess",
+    "username": "CARPS5",
+    "firstSeen": 1665060402707,
+    "lastSeen": 1665063255732
+  },
+  "carps6@lichess": {
+    "id": "carps6",
+    "provider": "lichess",
+    "username": "CARPS6",
+    "firstSeen": 1665061022780,
+    "lastSeen": 1665063250184
+  },
+  "hawlibot@lichess": {
+    "id": "hawlibot",
+    "provider": "lichess",
+    "username": "HawliBot",
+    "firstSeen": 1665063351670,
+    "lastSeen": 1665063570721
+  },
+  "catty_chess_bot@lichess": {
+    "id": "catty_chess_bot",
+    "provider": "lichess",
+    "username": "Catty_Chess_BOT",
+    "firstSeen": 1665063764361,
+    "lastSeen": 1665063764361
+  }
+}
