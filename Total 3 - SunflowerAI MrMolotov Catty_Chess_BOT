@@ -1,0 +1,23 @@
+{
+  "sunflowerai@lichess": {
+    "id": "sunflowerai",
+    "provider": "lichess",
+    "username": "SunflowerAI",
+    "firstSeen": 1665146391969,
+    "lastSeen": 1665149469046
+  },
+  "mrmolotov@lichess": {
+    "id": "mrmolotov",
+    "provider": "lichess",
+    "username": "MrMolotov",
+    "firstSeen": 1665147054828,
+    "lastSeen": 1665149665046
+  },
+  "catty_chess_bot@lichess": {
+    "id": "catty_chess_bot",
+    "provider": "lichess",
+    "username": "Catty_Chess_BOT",
+    "firstSeen": 1665148092845,
+    "lastSeen": 1665149596012
+  }
+}
