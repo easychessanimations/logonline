@@ -1,0 +1,23 @@
+{
+  "catty_chess_bot@lichess": {
+    "id": "catty_chess_bot",
+    "provider": "lichess",
+    "username": "Catty_Chess_BOT",
+    "firstSeen": 1665309062635,
+    "lastSeen": 1665309082383
+  },
+  "superbot440@lichess": {
+    "id": "superbot440",
+    "provider": "lichess",
+    "username": "SuperBot440",
+    "firstSeen": 1665309082245,
+    "lastSeen": 1665309518019
+  },
+  "kayra_bot@lichess": {
+    "id": "kayra_bot",
+    "provider": "lichess",
+    "username": "Kayra_BOT",
+    "firstSeen": 1665309706081,
+    "lastSeen": 1665309976758
+  }
+}
