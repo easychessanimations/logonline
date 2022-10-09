@@ -1,0 +1,23 @@
+{
+  "kayra_bot@lichess": {
+    "id": "kayra_bot",
+    "provider": "lichess",
+    "username": "Kayra_BOT",
+    "firstSeen": 1665309706081,
+    "lastSeen": 1665313501521
+  },
+  "catty_chess_bot@lichess": {
+    "id": "catty_chess_bot",
+    "provider": "lichess",
+    "username": "Catty_Chess_BOT",
+    "firstSeen": 1665313779513,
+    "lastSeen": 1665313793369
+  },
+  "thekiller22@lichess": {
+    "id": "thekiller22",
+    "provider": "lichess",
+    "username": "TheKiller22",
+    "firstSeen": 1665314032761,
+    "lastSeen": 1665314032761
+  }
+}
