@@ -1,0 +1,30 @@
+{
+  "efechessbot@lichess": {
+    "id": "efechessbot",
+    "provider": "lichess",
+    "username": "EfechessBot",
+    "firstSeen": 1667588586724,
+    "lastSeen": 1667592066741
+  },
+  "ivana_sa@lichess": {
+    "id": "ivana_sa",
+    "provider": "lichess",
+    "username": "Ivana_SA",
+    "firstSeen": 1667590548891,
+    "lastSeen": 1667592088057
+  },
+  "tdsguard@lichess": {
+    "id": "tdsguard",
+    "provider": "lichess",
+    "username": "TDSGuard",
+    "firstSeen": 1667590971567,
+    "lastSeen": 1667591840529
+  },
+  "kidgrandmaster9@lichess": {
+    "id": "kidgrandmaster9",
+    "provider": "lichess",
+    "username": "kidgrandmaster9",
+    "firstSeen": 1667591038153,
+    "lastSeen": 1667591710252
+  }
+}
