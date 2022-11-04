@@ -1,0 +1,23 @@
+{
+  "proboter@lichess": {
+    "id": "proboter",
+    "provider": "lichess",
+    "username": "proboter",
+    "firstSeen": 1667584286076,
+    "lastSeen": 1667588973612
+  },
+  "efechessbot@lichess": {
+    "id": "efechessbot",
+    "provider": "lichess",
+    "username": "EfechessBot",
+    "firstSeen": 1667588586724,
+    "lastSeen": 1667589066783
+  },
+  "csharpdevil@lichess": {
+    "id": "csharpdevil",
+    "provider": "lichess",
+    "username": "CsharpDevil",
+    "firstSeen": 1667589132427,
+    "lastSeen": 1667589132427
+  }
+}
